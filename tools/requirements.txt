@@ -1,0 +1,8 @@
+# Build/query tooling dependencies (modern Python via Docker — see tools/Dockerfile).
+rdflib>=7.0
+
+# --- Optional embedding providers (the default 'ollama' and 'hashed' need none) ---
+# Uncomment one and set embeddings/config.json (or build.py flags) accordingly:
+# voyageai>=0.2            # Anthropic-recommended embeddings; needs VOYAGE_API_KEY
+# openai>=1.0             # needs OPENAI_API_KEY
+# sentence-transformers   # fully local models; downloads weights on first run

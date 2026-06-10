@@ -1,0 +1,12 @@
+{
+  "_comment": "Namespace prefixes used across this dataset. `amol:` holds this dataset's instances; `rpg:` aligns with the rpg-schema TTRPG ontology (catalog slug: 'rpg'). A consumer can rewrite the rpg/amol base IRIs to match its own deployment.",
+  "amol": "https://ontorag.dev/amol/",
+  "rpg": "https://rpg-schema.org/ns/rpg#",
+  "schema": "https://schema.org/",
+  "dc": "http://purl.org/dc/terms/",
+  "foaf": "http://xmlns.com/foaf/0.1/",
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+  "xsd": "http://www.w3.org/2001/XMLSchema#"
+}

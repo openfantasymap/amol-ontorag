@@ -1,0 +1,35 @@
+# OntoRAG build/query tooling on a modern, pinned Python — regardless of host Python.
+#
+#   docker compose build                                   # build the tooling image
+#   docker compose run --rm build                          # (re)generate the dataset
+#   docker compose run --rm query tools/query.py "How does House Tremere use certamen?"
+#
+# Embeddings are produced by an ollama server running on the HOST (default model
+# nomic-embed-text). Containers reach it via host.docker.internal; override with
+# OLLAMA_URL if your ollama lives elsewhere. No API keys required.
+
+services:
+  build:
+    build:
+      context: .
+      dockerfile: tools/Dockerfile
+    image: ontorag-tools:latest
+    volumes:
+      - .:/work
+      - ../Ars-Magica-Open-License:/corpus:ro   # source corpus, read-only
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+    command: ["tools/build.py", "--corpus", "/corpus"]
+
+  query:
+    image: ontorag-tools:latest
+    volumes:
+      - .:/work
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+    # override the trailing args with `docker compose run --rm query tools/query.py "<your question>"`
+    command: ["tools/query.py", "How does House Tremere use certamen?"]

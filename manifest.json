@@ -1,0 +1,88 @@
+{
+  "ontorag": "0.1",
+  "dataset": {
+    "id": "amol",
+    "name": "Ars Magica Open License — OntoRAG",
+    "version": "0.4.1",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/OriginalMadman/Ars-Magica-Open-License",
+    "built_at": "2026-06-10T14:05:17+00:00",
+    "builder": "tools/build.py"
+  },
+  "ontology": {
+    "format": "text/turtle",
+    "graph": "ontology/world.ttl",
+    "entity_index": "ontology/entities.jsonl",
+    "prefixes": "ontology/prefixes.json",
+    "base_iri": "https://ontorag.dev/amol/",
+    "aligns_with": [
+      {
+        "slug": "rpg",
+        "role": "schema"
+      },
+      {
+        "slug": "schemaorg",
+        "role": "vocabulary"
+      },
+      {
+        "slug": "dublincore",
+        "role": "vocabulary"
+      },
+      {
+        "slug": "foaf",
+        "role": "vocabulary"
+      }
+    ],
+    "counts": {
+      "entities": 3866,
+      "by_type": {
+        "Character": 747,
+        "Creature": 270,
+        "Faction": 321,
+        "Item": 168,
+        "Organization": 2,
+        "Place": 379,
+        "Proficiency": 129,
+        "RuleSet": 1,
+        "RuleSetType": 1,
+        "Spell": 578,
+        "Tag": 1270,
+        "World": 1
+      }
+    }
+  },
+  "content": {
+    "format": "application/x-ndjson",
+    "chunks_glob": "content/chunks/*.jsonl",
+    "sources": "content/sources.json",
+    "chunking": {
+      "strategy": "heading+window",
+      "target_tokens": 320,
+      "overlap_tokens": 48,
+      "token_heuristic": "words*1.3"
+    },
+    "counts": {
+      "documents": 25,
+      "chunks": 17942
+    }
+  },
+  "embeddings": {
+    "config": "embeddings/config.json",
+    "vectors_glob": "embeddings/vectors/*.jsonl",
+    "provider": "ollama",
+    "model": "nomic-embed-text",
+    "dim": 768,
+    "metric": "cosine",
+    "normalized": true,
+    "alignment": "by_id",
+    "counts": {
+      "vectors": 17942
+    }
+  },
+  "schema": {
+    "manifest": "schema/manifest.schema.json",
+    "chunk": "schema/chunk.schema.json",
+    "embedding": "schema/embedding.schema.json",
+    "entity": "schema/entity.schema.json"
+  }
+}

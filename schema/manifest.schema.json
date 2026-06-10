@@ -1,0 +1,107 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ontorag.dev/schema/manifest.schema.json",
+  "title": "OntoRAG dataset manifest",
+  "description": "Root contract a service reads to connect to a GitHub-as-storage OntoRAG dataset. All paths are POSIX, relative to the repository root.",
+  "type": "object",
+  "required": ["ontorag", "dataset", "ontology", "content", "embeddings"],
+  "additionalProperties": true,
+  "properties": {
+    "ontorag": {
+      "type": "string",
+      "description": "Spec version this manifest conforms to (semver-ish).",
+      "examples": ["0.1"]
+    },
+    "dataset": {
+      "type": "object",
+      "required": ["id", "name", "version"],
+      "properties": {
+        "id": { "type": "string", "description": "Short stable dataset id, e.g. 'amol'." },
+        "name": { "type": "string" },
+        "version": { "type": "string", "description": "Dataset content version (bump when chunks/embeddings change)." },
+        "license": { "type": "string", "examples": ["CC-BY-SA-4.0"] },
+        "source_repo": { "type": "string", "format": "uri" },
+        "built_at": { "type": "string", "format": "date-time" },
+        "builder": { "type": "string", "description": "Tool + version that produced this dataset." }
+      }
+    },
+    "ontology": {
+      "type": "object",
+      "required": ["graph", "entity_index", "base_iri"],
+      "properties": {
+        "format": { "type": "string", "examples": ["text/turtle"] },
+        "graph": { "type": "string", "description": "Path to the RDF graph (loadable into Oxigraph/rdflib)." },
+        "entity_index": { "type": "string", "description": "Path to the flat NDJSON entity index derived from the graph." },
+        "prefixes": { "type": "string" },
+        "base_iri": { "type": "string", "format": "uri" },
+        "aligns_with": {
+          "type": "array",
+          "description": "External ontologies this graph aligns to (e.g., rpg-schema catalog slugs).",
+          "items": {
+            "type": "object",
+            "required": ["slug"],
+            "properties": {
+              "slug": { "type": "string" },
+              "role": { "type": "string", "examples": ["schema", "upper", "vocabulary"] }
+            }
+          }
+        },
+        "counts": {
+          "type": "object",
+          "properties": {
+            "entities": { "type": "integer", "minimum": 0 },
+            "by_type": { "type": "object", "additionalProperties": { "type": "integer" } }
+          }
+        }
+      }
+    },
+    "content": {
+      "type": "object",
+      "required": ["chunks_glob"],
+      "properties": {
+        "format": { "type": "string", "examples": ["application/x-ndjson"] },
+        "chunks_glob": { "type": "string", "description": "Glob (relative to root) matching per-document chunk NDJSON files." },
+        "sources": { "type": "string", "description": "Path to source/provenance manifest." },
+        "chunking": {
+          "type": "object",
+          "properties": {
+            "strategy": { "type": "string", "examples": ["heading+window"] },
+            "target_tokens": { "type": "integer" },
+            "overlap_tokens": { "type": "integer" },
+            "token_heuristic": { "type": "string" }
+          }
+        },
+        "counts": {
+          "type": "object",
+          "properties": {
+            "documents": { "type": "integer", "minimum": 0 },
+            "chunks": { "type": "integer", "minimum": 0 }
+          }
+        }
+      }
+    },
+    "embeddings": {
+      "type": "object",
+      "required": ["vectors_glob", "dim", "metric"],
+      "properties": {
+        "config": { "type": "string" },
+        "vectors_glob": { "type": "string", "description": "Glob matching per-document vector NDJSON files, aligned to chunks by id." },
+        "provider": { "type": "string", "examples": ["ollama", "voyage", "openai", "sentence-transformers", "hashed"] },
+        "model": { "type": "string" },
+        "dim": { "type": "integer", "minimum": 1 },
+        "metric": { "type": "string", "enum": ["cosine", "dot", "euclidean"] },
+        "normalized": { "type": "boolean", "description": "True if vectors are L2-normalized (so dot == cosine)." },
+        "alignment": { "type": "string", "examples": ["by_id"], "description": "How vector records map to chunks." },
+        "counts": {
+          "type": "object",
+          "properties": { "vectors": { "type": "integer", "minimum": 0 } }
+        }
+      }
+    },
+    "schema": {
+      "type": "object",
+      "description": "Paths to the JSON Schemas describing each record type.",
+      "additionalProperties": { "type": "string" }
+    }
+  }
+}

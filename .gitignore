@@ -1,0 +1,11 @@
+# The dataset artifacts (ontology index, chunks, vectors, manifest) are the POINT
+# of this repo — they are committed, not ignored. Only transient junk is ignored.
+__pycache__/
+*.pyc
+.DS_Store
+oxidb/
+*.tmp
+
+# Regenerable extraction intermediates (batch files duplicate chunk text).
+# The extraction OUTPUT (desc/recovered.json) and the final world.ttl are kept.
+ontology/_extract/batches/
