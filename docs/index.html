@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>amol-ontorag — Ars Magica as an OntoRAG dataset</title>
+<meta name="description" content="A GitHub-as-storage OntoRAG dataset over the Ars Magica Open License corpus: an ontology, entity-linked content, embeddings, and a composable pack model.">
+<style>
+  :root { --fg:#1a1a1a; --muted:#666; --bg:#fff; --accent:#8a1a1a; --line:#e6e6e6; --code:#f5f5f5; }
+  @media (prefers-color-scheme: dark){ :root{ --fg:#e8e8e8; --muted:#9aa; --bg:#121012; --accent:#d98a8a; --line:#2a252a; --code:#1b181b; } }
+  * { box-sizing:border-box; }
+  body { margin:0; color:var(--fg); background:var(--bg); font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width:820px; margin:0 auto; padding:3rem 1.25rem 5rem; }
+  h1 { font-size:2rem; margin:.2rem 0 .3rem; letter-spacing:-.02em; }
+  h2 { font-size:1.25rem; margin:2.4rem 0 .6rem; padding-top:.4rem; border-top:1px solid var(--line); }
+  .tag { color:var(--muted); font-size:1.05rem; margin:0 0 1.4rem; }
+  p { margin:.6rem 0; }
+  a { color:var(--accent); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  code { background:var(--code); padding:.1em .35em; border-radius:4px; font-size:.9em; }
+  pre { background:var(--code); padding:.9rem 1rem; border-radius:8px; overflow:auto; font-size:.85rem; }
+  table { border-collapse:collapse; width:100%; margin:.8rem 0; font-size:.92rem; }
+  th,td { text-align:left; padding:.4rem .6rem; border-bottom:1px solid var(--line); }
+  th { color:var(--muted); font-weight:600; }
+  .lead { font-size:1.08rem; }
+  .pills a { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:.3rem .8rem; margin:.2rem .3rem .2rem 0; font-size:.9rem; }
+  .stats { display:flex; flex-wrap:wrap; gap:1.4rem; margin:1.2rem 0; }
+  .stat b { display:block; font-size:1.5rem; letter-spacing:-.02em; }
+  .stat span { color:var(--muted); font-size:.85rem; }
+  .muted { color:var(--muted); }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:.4rem 1.4rem; }
+  @media (max-width:640px){ .grid{ grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>amol-ontorag</h1>
+  <p class="tag">Ars Magica, as an <a href="https://github.com/ontorag/ontorag-mcp">OntoRAG</a> <em>GitHub-as-storage</em> dataset.</p>
+
+  <p class="lead">A reusable repository that a retrieval service reads to answer
+  questions, grounded in an <strong>ontology</strong> (knowledge graph),
+  <strong>content</strong> (chunked, entity-linked text), and
+  <strong>embeddings</strong> — all derived from the
+  <a href="https://github.com/OriginalMadman/Ars-Magica-Open-License">Ars Magica Open
+  License</a> corpus. The git repository <em>is</em> the database.</p>
+
+  <div class="stats">
+    <div class="stat"><b>25</b><span>reviewed sourcebooks</span></div>
+    <div class="stat"><b>17,942</b><span>content chunks</span></div>
+    <div class="stat"><b>3,866</b><span>ontology entities</span></div>
+    <div class="stat"><b>768-d</b><span>embedding vectors</span></div>
+  </div>
+
+  <div class="pills">
+    <a href="https://github.com/openfantasymap/amol-ontorag">github.com/openfantasymap/amol-ontorag</a>
+    <a href="https://github.com/openfantasymap/amol-ontorag/blob/main/docs/composition.md">Composition spec</a>
+    <a href="https://github.com/ontorag/ontorag-mcp">Serve it (ontorag-mcp)</a>
+  </div>
+
+  <h2>The contract</h2>
+  <p>A consumer reads <code>manifest.json</code> and follows the paths it declares.
+  Everything is plain text / NDJSON / Turtle — diffable and host-agnostic.</p>
+  <div class="grid">
+    <div><code>ontology/world.ttl</code> — RDF knowledge graph</div>
+    <div><code>ontology/entities.jsonl</code> — flat entity index</div>
+    <div><code>content/chunks/*.jsonl</code> — text, one file per book, entity-linked</div>
+    <div><code>embeddings/vectors/*.jsonl</code> — vectors, joined by id</div>
+    <div><code>content/books.json</code> — the pack registry (<code>dc:requires</code>)</div>
+    <div><code>schema/*.schema.json</code> — the record contracts</div>
+  </div>
+
+  <h2>Ontology &amp; provenance</h2>
+  <p>Entities (Characters, Spells, Houses, Tribunals, Covenants, Creatures, concepts…)
+  were LLM-extracted from the prose and aligned to a TTRPG schema. Each entity records
+  <em>where it comes from</em>: <code>attestedIn</code> (books whose prose mentions it)
+  and <code>definedIn</code> (books it was extracted from) — the footprint and the
+  origin of every fact.</p>
+
+  <h2>Composition — add or remove packs</h2>
+  <p>Each sourcebook is a semantic <strong>pack</strong>. Packs form a
+  <code>dc:requires</code> dependency graph (every supplement requires the core rules).
+  Selecting packs and closing over their dependencies reconstructs a <em>scoped world</em>
+  — the basis for access-scoping and per-source evaluation.</p>
+  <pre>python3 tools/compose.py --packs covenants    # dc:requires pulls in the core rules
+python3 tools/compose.py --validate           # integrity + soundness of the dataset</pre>
+
+  <h2>Query it</h2>
+  <p>Point the generic <a href="https://github.com/ontorag/ontorag-mcp">OntoRAG MCP
+  server</a> at this repo — it reads the dataset over GitHub and serves graph-aware
+  retrieval (vector / ontology / hybrid):</p>
+  <pre>ONTORAG_DEFAULT_REPO=openfantasymap/amol-ontorag \
+ONTORAG_RETRIEVAL=ontology docker compose up server</pre>
+
+  <p class="muted" style="margin-top:2.5rem">Content © 1993–2024 Trident, Inc. d/b/a
+  Atlas Games, released under
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a> (the Ars
+  Magica Open License). Derived chunks and embeddings inherit CC-BY-SA-4.0. Unofficial
+  fan/derivative work.</p>
+
+</div>
+</body>
+</html>
