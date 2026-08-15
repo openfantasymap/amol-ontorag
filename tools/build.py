@@ -575,6 +575,24 @@ def main():
             "entity": "schema/entity.schema.json",
         },
     }
+    # Composition model: register the pack (sourcebook) system if provenance exists.
+    _books_path = os.path.join(ROOT, "content", "books.json")
+    if os.path.exists(_books_path):
+        _books = json.load(open(_books_path, encoding="utf-8"))
+        manifest["composition"] = {
+            "model": "packs",
+            "version": "0.1",
+            "unit": "sourcebook",
+            "registry": "content/books.json",
+            "dependency": "dc:requires",
+            "core": sorted(p for p, m in _books.items() if not m.get("requires")),
+            "scope": "chunks/vectors are in scope iff their book is in the selected "
+                     "pack closure over dc:requires; an entity is in scope iff its "
+                     "attestedIn intersects the closure, or it is a spine entity "
+                     "(definedIn empty).",
+            "tool": "tools/compose.py",
+            "counts": {"packs": len(_books)},
+        }
     with open(os.path.join(ROOT, "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
 

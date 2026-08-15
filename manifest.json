@@ -92,5 +92,20 @@
     "chunk": "schema/chunk.schema.json",
     "embedding": "schema/embedding.schema.json",
     "entity": "schema/entity.schema.json"
+  },
+  "composition": {
+    "model": "packs",
+    "version": "0.1",
+    "unit": "sourcebook",
+    "registry": "content/books.json",
+    "dependency": "dc:requires",
+    "core": [
+      "definitive-edition-core-rules"
+    ],
+    "scope": "chunks/vectors are in scope iff their book is in the selected pack closure over dc:requires; an entity is in scope iff its attestedIn intersects the closure, or it is a spine entity (definedIn empty).",
+    "tool": "tools/compose.py",
+    "counts": {
+      "packs": 25
+    }
   }
 }

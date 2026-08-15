@@ -102,6 +102,21 @@
       "type": "object",
       "description": "Paths to the JSON Schemas describing each record type.",
       "additionalProperties": { "type": "string" }
+    },
+    "composition": {
+      "type": "object",
+      "description": "The pack composition model: how the dataset decomposes into a core + modular packs that can be added/removed to reconstruct a scoped world. See docs/composition.md and tools/compose.py.",
+      "properties": {
+        "model": { "type": "string", "examples": ["packs"] },
+        "version": { "type": "string" },
+        "unit": { "type": "string", "description": "What a pack corresponds to.", "examples": ["sourcebook"] },
+        "registry": { "type": "string", "description": "Path to the pack registry (id -> {title, path, requires})." },
+        "dependency": { "type": "string", "description": "Predicate forming the pack dependency DAG.", "examples": ["dc:requires"] },
+        "core": { "type": "array", "description": "Root packs (require nothing).", "items": { "type": "string" } },
+        "scope": { "type": "string", "description": "The composition/scoping rule." },
+        "tool": { "type": "string" },
+        "counts": { "type": "object", "properties": { "packs": { "type": "integer", "minimum": 0 } } }
+      }
     }
   }
 }
