@@ -70,6 +70,37 @@ def clean_heading(s):
     return clean_text(re.sub(r"^#{1,6}\s+", "", s)).strip()
 
 # ---------------------------------------------------------------------------
+# Provenance helpers (book attestation)
+# ---------------------------------------------------------------------------
+
+_WS = re.compile(r"\s+")
+
+def norm_name(s):
+    """Normalize an entity name for matching against the extraction shard
+    (mirrors tools/ttl_from_entities.py:norm)."""
+    s = re.sub(r"^the\s+", "", s.lower())
+    s = re.sub(r"[^a-z0-9 ]", "", s)
+    return _WS.sub(" ", s).strip()
+
+def load_evidence(path):
+    """Map normalized entity name -> set of doc slugs the entity was EXTRACTED
+    from, read from the extraction shard's `evidence` chunk ids (id = '<doc>::NNNN').
+    This is the 'defining source' provenance; missing/curated entities map to {}."""
+    out = defaultdict(set)
+    if not os.path.exists(path):
+        return out
+    data = json.load(open(path, encoding="utf-8"))
+    recs = data if isinstance(data, list) else data.get("entities", [])
+    for e in recs:
+        name = (e.get("name") or "").strip()
+        if not name:
+            continue
+        docs = {cid.split("::", 1)[0] for cid in (e.get("evidence") or []) if "::" in cid}
+        if docs:
+            out[norm_name(name)].update(docs)
+    return out
+
+# ---------------------------------------------------------------------------
 # Ontology -> entity index + alias dictionary
 # ---------------------------------------------------------------------------
 
@@ -95,12 +126,24 @@ def load_entities(ttl_path):
     for _, _, o in g.triples((None, RPG.ruleSetType, None)):
         categories.add(str(o))
 
+    # amol:Sourcebook nodes (the books themselves + their dc:requires graph, emitted
+    # by tools/provenance.py) are provenance metadata, not world entities: keep them
+    # out of the index and out of the alias matcher (else "Covenants" the book would
+    # collide with "Covenant" the concept).
+    book_iris = {str(s) for s in g.subjects(RDF.type, AMOL.Sourcebook)}
+
     entities = []
     for s in set(g.subjects()):
         if not str(s).startswith(str(AMOL)):
             continue
+        if str(s) in book_iris:
+            continue
         types = [str(t) for t in g.objects(s, RDF.type)]
         if not types:
+            continue
+        # Skip vocabulary terms (rdfs:Class / rdf:Property) such as the provenance
+        # vocabulary emitted by tools/provenance.py — schema, not world entities.
+        if {str(RDF.Property), str(RDFS.Class)} & set(types):
             continue
         labels = lits(s, RPG.name) or lits(s, SCHEMA.name) or lits(s, RDFS.label) or lits(s, SKOS.prefLabel)
         if not labels:
@@ -366,9 +409,8 @@ def main():
         if not docs:
             raise SystemExit("no files matched --docs-glob %r under %s" % (args.docs_glob, corpus))
 
-    print("[1/5] ontology -> entities.jsonl")
+    print("[1/5] ontology -> entity index")
     entities, categories = load_entities(ttl)
-    write_jsonl(os.path.join(ROOT, "ontology", "entities.jsonl"), entities)
     by_type = defaultdict(int)
     for e in entities:
         for t in e["types"]:
@@ -377,9 +419,13 @@ def main():
     n_alias = len(linker[1]) + len(linker[3])
     print("    %d entities (%d linkable), %d alias keys"
           % (len(entities), len(entities) - len(categories), n_alias))
+    evidence = load_evidence(os.path.join(ROOT, "ontology", "_extract", "desc", "recovered.json"))
+    books_path = os.path.join(ROOT, "content", "books.json")
+    books = json.load(open(books_path, encoding="utf-8")) if os.path.exists(books_path) else {}
 
     print("[2/5] chunking %d document(s)" % len(docs))
     sources, all_chunks_by_doc = {}, {}
+    mentions = defaultdict(set)   # entity iri -> set(doc slug) it is mentioned in
     for rel in docs:
         path = os.path.join(corpus, rel)
         if not os.path.exists(path):
@@ -390,6 +436,8 @@ def main():
         chunks = chunk_document(md, slug, args.target_tokens, args.overlap_tokens, args.min_words)
         for c in chunks:
             c["entities"] = link_entities(c["text"], linker)
+            for iri in c["entities"]:
+                mentions[iri].add(slug)
         all_chunks_by_doc[slug] = chunks
         title = clean_heading(md.splitlines()[0]) if md.strip().startswith("#") else slug
         sources[slug] = {
@@ -408,6 +456,22 @@ def main():
 
     with open(os.path.join(ROOT, "content", "sources.json"), "w", encoding="utf-8") as f:
         json.dump(sources, f, ensure_ascii=False, indent=2)
+
+    # Provenance: attestedIn = books whose prose mentions the entity (chunk links);
+    # definedIn = book(s) the entity was extracted/defined from (extraction evidence).
+    # Both are restricted to books actually ingested in this build.
+    built_docs = set(all_chunks_by_doc)
+    for e in entities:
+        e["attestedIn"] = sorted(mentions.get(e["iri"], set()))
+        keys = {norm_name(e["label"])} | {norm_name(a) for a in e.get("aliases", [])}
+        defined = set()
+        for k in keys:
+            defined |= evidence.get(k, set())
+        e["definedIn"] = sorted(defined & built_docs)
+    write_jsonl(os.path.join(ROOT, "ontology", "entities.jsonl"), entities)
+    print("    provenance: %d/%d entities attested in >=1 book, %d with a defining book"
+          % (sum(1 for e in entities if e["attestedIn"]), len(entities),
+             sum(1 for e in entities if e["definedIn"])))
 
     print("[3/5] embedding (provider=%s%s)"
           % (args.provider, ", reuse" if args.reuse_embeddings else ""))
@@ -472,18 +536,26 @@ def main():
                 {"slug": "foaf", "role": "vocabulary"},
             ],
             "counts": {"entities": len(entities), "by_type": dict(sorted(by_type.items()))},
+            "provenance": {
+                "attested_in": "entities[].attestedIn / amol:attestedIn — books whose prose mentions the entity",
+                "defined_in": "entities[].definedIn / amol:definedIn — book(s) the entity was extracted from",
+                "book_requires": "amol:Sourcebook dc:requires — inter-book dependency graph",
+                "graph_block": "tools/provenance.py (regenerable block in world.ttl)",
+            },
         },
         "content": {
             "format": "application/x-ndjson",
             "chunks_glob": "content/chunks/*.jsonl",
             "sources": "content/sources.json",
+            "books": "content/books.json",
             "chunking": {
                 "strategy": "heading+window",
                 "target_tokens": args.target_tokens,
                 "overlap_tokens": args.overlap_tokens,
                 "token_heuristic": "words*1.3",
             },
-            "counts": {"documents": len(all_chunks_by_doc), "chunks": total_chunks},
+            "counts": {"documents": len(all_chunks_by_doc), "chunks": total_chunks,
+                       "books": len(books)},
         },
         "embeddings": {
             "config": "embeddings/config.json",

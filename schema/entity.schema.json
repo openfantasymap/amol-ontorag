@@ -24,6 +24,16 @@
       "type": "array",
       "description": "Labels of rpg:hasTag groupings (e.g., 'Hermetic House', 'Technique').",
       "items": { "type": "string" }
+    },
+    "attestedIn": {
+      "type": "array",
+      "description": "Book slugs whose prose mentions this entity (derived from chunk↔entity links). The entity's footprint across the corpus; enables reconstructing 'the world as known from book subset S'. Empty if no ingested book mentions it.",
+      "items": { "type": "string" }
+    },
+    "definedIn": {
+      "type": "array",
+      "description": "Book slug(s) this entity was extracted/defined from (from the extraction shard's `evidence` chunks). The entity's origin, distinct from mere mention; empty for hand-curated spine entities.",
+      "items": { "type": "string" }
     }
   }
 }

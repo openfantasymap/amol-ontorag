@@ -3,10 +3,10 @@
   "dataset": {
     "id": "amol",
     "name": "Ars Magica Open License — OntoRAG",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/OriginalMadman/Ars-Magica-Open-License",
-    "built_at": "2026-06-10T14:05:17+00:00",
+    "built_at": "2026-07-02T14:07:32+00:00",
     "builder": "tools/build.py"
   },
   "ontology": {
@@ -49,12 +49,19 @@
         "Tag": 1270,
         "World": 1
       }
+    },
+    "provenance": {
+      "attested_in": "entities[].attestedIn / amol:attestedIn — books whose prose mentions the entity",
+      "defined_in": "entities[].definedIn / amol:definedIn — book(s) the entity was extracted from",
+      "book_requires": "amol:Sourcebook dc:requires — inter-book dependency graph",
+      "graph_block": "tools/provenance.py (regenerable block in world.ttl)"
     }
   },
   "content": {
     "format": "application/x-ndjson",
     "chunks_glob": "content/chunks/*.jsonl",
     "sources": "content/sources.json",
+    "books": "content/books.json",
     "chunking": {
       "strategy": "heading+window",
       "target_tokens": 320,
@@ -63,7 +70,8 @@
     },
     "counts": {
       "documents": 25,
-      "chunks": 17942
+      "chunks": 17942,
+      "books": 25
     }
   },
   "embeddings": {

@@ -4,9 +4,34 @@ The knowledge graph that makes retrieval *graph-aware*.
 
 | File | Role |
 |------|------|
-| `world.ttl` | **Source of truth.** The domain knowledge graph in Turtle. Hand-authored. Loadable into [Oxigraph](https://github.com/oxigraph/oxigraph), `rdflib`, or any RDF store. |
+| `world.ttl` | **Source of truth.** The domain knowledge graph in Turtle. Hand-authored spine + generated blocks. Loadable into [Oxigraph](https://github.com/oxigraph/oxigraph), `rdflib`, or any RDF store. |
 | `entities.jsonl` | A flat projection of `world.ttl` (one entity per line), **generated** by `tools/build.py`. Lets a consumer load the graph lens and build the chunk-linking dictionary without a SPARQL engine. |
 | `prefixes.json` | Namespace prefixes used in `world.ttl`. |
+
+`world.ttl` is assembled in three parts: the **curated spine** (hand-authored), the
+**extracted-entities** block (`tools/ttl_from_entities.py`), and the **provenance**
+block (`tools/provenance.py`). Each generated block is regenerable and delimited by
+a `# ============ BEGIN … ============` marker; never hand-edit inside one.
+
+## Book provenance
+
+Each entity records *where it comes from*, so a consumer can reconstruct "the world
+as known from a subset of books" (e.g. for access-scoping or a per-book
+needle-in-a-haystack eval):
+
+- **`entities[].attestedIn`** — book slugs whose prose *mentions* the entity
+  (derived from chunk↔entity links). The entity's footprint.
+- **`entities[].definedIn`** — book slug(s) the entity was *extracted/defined from*
+  (from the extraction shard's `evidence` chunks). The entity's origin; empty for
+  hand-curated spine entities not present in the extraction.
+
+In the graph these become first-class edges: `amol:<Entity> amol:attestedIn
+amol:Book_<Slug>` / `amol:definedIn amol:Book_<Slug>`. Books are `amol:Sourcebook`
+nodes (registry: [`../content/books.json`](../content/books.json)) linked by a
+`dc:requires` dependency graph — every supplement `dc:requires` the core rules
+(`amol:Book_DefinitiveEditionCoreRules`), which requires nothing. Reconstruct a
+scoped world by filtering on `amol:attestedIn`, optionally closing over
+`dc:requires`.
 
 ## Schema alignment
 
@@ -38,7 +63,9 @@ See [`../schema/entity.schema.json`](../schema/entity.schema.json):
 ```json
 {"iri":"https://ontorag.dev/amol/HouseTremere","types":["https://rpg-schema.org/ns/rpg#Faction"],
  "label":"House Tremere","aliases":["House Tremere","Tremere"],
- "summary":"A disciplined, hierarchical House … masters of certamen …","tags":["Hermetic House"]}
+ "summary":"A disciplined, hierarchical House … masters of certamen …","tags":["Hermetic House"],
+ "attestedIn":["covenants","definitive-edition-core-rules","houses-of-hermes-true-lineages", "…"],
+ "definedIn":["art-academe","city-guild","covenants"]}
 ```
 
 ## Entity ↔ content linking

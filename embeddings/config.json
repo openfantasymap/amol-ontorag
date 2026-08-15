@@ -5,6 +5,6 @@
   "metric": "cosine",
   "normalized": true,
   "input": "chunk.text",
-  "built_at": "2026-06-10T14:05:17+00:00",
+  "built_at": "2026-07-02T14:07:32+00:00",
   "note": "Query vectors MUST be produced with this same provider+model and L2-normalized."
 }

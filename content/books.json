@@ -1,0 +1,175 @@
+{
+  "definitive-edition-core-rules": {
+    "title": "Ars Magica Definitive Edition",
+    "path": "reviewed/Ars Magica - Definitive Edition (Core Rules).md",
+    "requires": []
+  },
+  "lion-of-the-north-the-loch-leglean-tribunal": {
+    "title": "Lion of the North: The Loch Leglean Tribunal",
+    "path": "reviewed/Ars Magica 3e - Lion of the North - The Loch Leglean Tribunal.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "tribunals-of-hermes-rome": {
+    "title": "Tribunals of Hermes: Rome",
+    "path": "reviewed/Ars Magica 3e - Tribunals of Hermes - Rome.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "heirs-to-merlin-stonehenge-tribunal": {
+    "title": "Heirs to Merlin: The Stonehenge Tribunal",
+    "path": "reviewed/Ars Magica 4e - Heirs to Merlin - Stonehenge Tribunal.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "icelandic-wars-land-of-fire-and-ice": {
+    "title": "The Icelandic Wars",
+    "path": "reviewed/Ars Magica 4e - Icelandic Wars - Land of Fire and Ice.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "sanctuary-of-ice-the-greater-alps-tribunal": {
+    "title": "Sanctuary of Ice: The Greater Alps Tribunal",
+    "path": "reviewed/Ars Magica 4e - Sanctuary of Ice - The Greater Alps Tribunal.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "art-academe": {
+    "title": "Art & Academe",
+    "path": "reviewed/Ars Magica 5e - Art & Academe.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "city-guild": {
+    "title": "city-guild",
+    "path": "reviewed/Ars Magica 5e - City & Guild.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "covenants": {
+    "title": "Covenants",
+    "path": "reviewed/Ars Magica 5e - Covenants.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "guardians-of-the-forests-the-rhine-tribunal": {
+    "title": "Guardians of the Forest: The Rhine Tribunal",
+    "path": "reviewed/Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "houses-of-hermes-mystery-cults": {
+    "title": "Houses of Hermes: Mystery Cults",
+    "path": "reviewed/Ars Magica 5e - Houses of Hermes - Mystery Cults.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "houses-of-hermes-societates": {
+    "title": "Houses of Hermes: Societates",
+    "path": "reviewed/Ars Magica 5e - Houses of Hermes - Societates.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "houses-of-hermes-true-lineages": {
+    "title": "Houses of Hermes: True Lineages",
+    "path": "reviewed/Ars Magica 5e - Houses of Hermes - True Lineages.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "lords-of-men": {
+    "title": "Lords of Men",
+    "path": "reviewed/Ars Magica 5e - Lords of Men.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "magic-apprentices": {
+    "title": "magic-apprentices",
+    "path": "reviewed/Ars Magica 5e - Magic - Apprentices.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "magic-hedge-magic-revised": {
+    "title": "Hedge Magic (Revised Edition)",
+    "path": "reviewed/Ars Magica 5e - Magic - Hedge Magic (Revised).md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "mythic-locations": {
+    "title": "Mythic Locations",
+    "path": "reviewed/Ars Magica 5e - Mythic Locations.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "realms-of-power-faerie": {
+    "title": "Realms of Power: Faerie",
+    "path": "reviewed/Ars Magica 5e - Realms of Power - Faerie.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "realms-of-power-magic": {
+    "title": "Realms of Power: Magic",
+    "path": "reviewed/Ars Magica 5e - Realms of Power - Magic.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "realms-of-power-the-divine-revised": {
+    "title": "Realms of Power: The Divine",
+    "path": "reviewed/Ars Magica 5e - Realms of Power - The Divine (Revised).md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "realms-of-power-the-infernal": {
+    "title": "Realms of Power: The Infernal",
+    "path": "reviewed/Ars Magica 5e - Realms of Power - The Infernal.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "the-church": {
+    "title": "The Church",
+    "path": "reviewed/Ars Magica 5e - The Church.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "the-lion-and-the-lily-the-normandy-tribunal": {
+    "title": "The Lion and the Lily: The Normandy Tribunal",
+    "path": "reviewed/Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "the-mysteries-revised": {
+    "title": "The Mysteries (Revised Edition)",
+    "path": "reviewed/Ars Magica 5e - The Mysteries (Revised).md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  },
+  "transforming-mythic-europe": {
+    "title": "transforming-mythic-europe",
+    "path": "reviewed/Ars Magica 5e - Transforming Mythic Europe.md",
+    "requires": [
+      "definitive-edition-core-rules"
+    ]
+  }
+}
