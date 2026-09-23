@@ -41,6 +41,8 @@ DEFAULT_DOCS = [
 ]
 CORPUS_REPO = "https://github.com/OriginalMadman/Ars-Magica-Open-License"
 LICENSE = "CC-BY-SA-4.0"
+# Canonical OntoRAG dataset format schemas (https://ontorag.org/vocab/#format)
+SPEC = "https://ontorag.org/vocab/dataset/0.1/"
 
 # ---------------------------------------------------------------------------
 # Slugs & text cleaning
@@ -111,8 +113,8 @@ def load_entities(ttl_path):
 
     g = Graph()
     g.parse(ttl_path, format="turtle")
-    AMOL = Namespace("https://ontorag.dev/amol/")
-    RPG = Namespace("https://rpg-schema.org/ns/rpg#")
+    AMOL = Namespace("https://www.fantasymaps.org/amol-ontorag/id/")
+    RPG = Namespace("http://www.rpg-schema.org/1.0/")
     SCHEMA = Namespace("https://schema.org/")
 
     def lits(s, p):
@@ -126,11 +128,13 @@ def load_entities(ttl_path):
     for _, _, o in g.triples((None, RPG.ruleSetType, None)):
         categories.add(str(o))
 
-    # amol:Sourcebook nodes (the books themselves + their dc:requires graph, emitted
+    # orp: sources, files and packs (the books, their files and their packs, emitted
     # by tools/provenance.py) are provenance metadata, not world entities: keep them
     # out of the index and out of the alias matcher (else "Covenants" the book would
     # collide with "Covenant" the concept).
-    book_iris = {str(s) for s in g.subjects(RDF.type, AMOL.Sourcebook)}
+    ORP = Namespace("https://ontorag.org/provenance#")
+    book_iris = {str(s) for t in (ORP.Source, ORP.SourceFile, ORP.Pack, ORP.SpinePack)
+                 for s in g.subjects(RDF.type, t)}
 
     entities = []
     for s in set(g.subjects()):
@@ -395,7 +399,7 @@ def main():
     ap.add_argument("--min-words", type=int, default=12)
     ap.add_argument("--reuse-embeddings", action="store_true",
                     help="Reuse existing vectors (by chunk id); only embed new/changed chunks.")
-    ap.add_argument("--version", default="0.1.0")
+    ap.add_argument("--version", default="0.5.0")
     args = ap.parse_args()
 
     corpus = os.path.abspath(args.corpus)
@@ -528,7 +532,7 @@ def main():
             "graph": "ontology/world.ttl",
             "entity_index": "ontology/entities.jsonl",
             "prefixes": "ontology/prefixes.json",
-            "base_iri": "https://ontorag.dev/amol/",
+            "base_iri": "https://www.fantasymaps.org/amol-ontorag/id/",
             "aligns_with": [
                 {"slug": "rpg", "role": "schema"},
                 {"slug": "schemaorg", "role": "vocabulary"},
@@ -537,9 +541,10 @@ def main():
             ],
             "counts": {"entities": len(entities), "by_type": dict(sorted(by_type.items()))},
             "provenance": {
-                "attested_in": "entities[].attestedIn / amol:attestedIn — books whose prose mentions the entity",
-                "defined_in": "entities[].definedIn / amol:definedIn — book(s) the entity was extracted from",
-                "book_requires": "amol:Sourcebook dc:requires — inter-book dependency graph",
+                "vocabulary": "https://ontorag.org/provenance#",
+                "attested_in": "entities[].attestedIn / orp:attestedIn — books whose prose mentions the entity",
+                "defined_in": "entities[].definedIn / orp:definedIn — book(s) the entity was extracted from",
+                "book_requires": "orp:Source dcterms:requires, mirrored by orp:Pack orp:requires — inter-book dependency graph",
                 "graph_block": "tools/provenance.py (regenerable block in world.ttl)",
             },
         },
@@ -569,10 +574,10 @@ def main():
             "counts": {"vectors": total_vecs},
         },
         "schema": {
-            "manifest": "schema/manifest.schema.json",
-            "chunk": "schema/chunk.schema.json",
-            "embedding": "schema/embedding.schema.json",
-            "entity": "schema/entity.schema.json",
+            "manifest": SPEC + "manifest.schema.json",
+            "chunk": SPEC + "chunk.schema.json",
+            "embedding": SPEC + "embedding.schema.json",
+            "entity": SPEC + "entity.schema.json",
         },
     }
     # Composition model: register the pack (sourcebook) system if provenance exists.
@@ -584,12 +589,13 @@ def main():
             "version": "0.1",
             "unit": "sourcebook",
             "registry": "content/books.json",
-            "dependency": "dc:requires",
+            "dependency": "orp:requires",
             "core": sorted(p for p, m in _books.items() if not m.get("requires")),
             "scope": "chunks/vectors are in scope iff their book is in the selected "
-                     "pack closure over dc:requires; an entity is in scope iff its "
-                     "attestedIn intersects the closure, or it is a spine entity "
-                     "(definedIn empty).",
+                     "packs; an entity is in scope iff its attestedIn intersects them, "
+                     "or it is a spine entity (definedIn empty). For access control use "
+                     "the held packs as they are; for a coherent world, close them over "
+                     "orp:requires first. Rules: https://ontorag.org/provenance/#packs",
             "tool": "tools/compose.py",
             "counts": {"packs": len(_books)},
         }

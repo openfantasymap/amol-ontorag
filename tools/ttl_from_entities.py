@@ -43,7 +43,7 @@ TAG_LABELS = {
     "amol:HermeticArt": "Hermetic Art", "amol:HermeticConcept": "Hermetic Concept",
     "amol:Realm": "Realm of Power", "amol:CharacterType": "Character Type", "amol:Place": "Place",
 }
-AMOL = "https://ontorag.dev/amol/"
+AMOL = "https://www.fantasymaps.org/amol-ontorag/id/"
 
 
 def norm(s):
@@ -83,7 +83,7 @@ def main():
         spine = spine.split(MARKER)[0].rstrip() + "\n"
 
     g = Graph(); g.parse(data=spine, format="turtle")
-    RPG = Namespace("https://rpg-schema.org/ns/rpg#")
+    RPG = Namespace("http://www.rpg-schema.org/1.0/")
     SCHEMA = Namespace("https://schema.org/")
     taken_names, taken_locals, taken_tag_iris = set(), set(), set()
     for s in set(g.subjects()):

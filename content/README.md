@@ -13,13 +13,13 @@ files (with checksums) in `../Ars-Magica-Open-License`.
 
 ## Chunk record shape
 
-See [`../schema/chunk.schema.json`](../schema/chunk.schema.json):
+See [`chunk.schema.json`](https://ontorag.org/vocab/dataset/0.1/chunk.schema.json):
 
 ```json
 {"id":"houses-of-hermes-true-lineages::0042","doc":"houses-of-hermes-true-lineages","seq":42,
  "heading_path":["Houses of Hermes: True Lineages","Chapter Four: House Tremere","Certamen"],
  "text":"…","n_words":238,"token_est":309,
- "entities":["https://ontorag.dev/amol/HouseTremere"]}
+ "entities":["https://www.fantasymaps.org/amol-ontorag/id/HouseTremere"]}
 ```
 
 - **`id`** — globally unique; the join key to the embedding record. Convention `<doc_slug>::<seq>`.

@@ -5,7 +5,7 @@ compose.py — the OntoRAG composition model.
 Treat each sourcebook as a semantic PACK (the entities + chunks + embeddings
 attributed to it) and compose "core + a subset of packs" into a scoped world.
 
-A pack = one book (content/books.json), linked by a `dc:requires` dependency graph
+A pack = one book (content/books.json), linked by a `orp:requires` dependency graph
 (every supplement requires the core rules; core requires nothing). Selecting packs
 and closing over `requires` yields a scoped sub-dataset:
 
@@ -15,7 +15,13 @@ and closing over `requires` yields a scoped sub-dataset:
                                   shared, always-present core vocabulary)
 
 Add a pack → its world appears; remove it → gone (along with anything that
-requires it). Because chunks/vectors are stored one file per book, a composed view
+requires it).
+
+Two selection modes (https://ontorag.org/provenance/#packs):
+  composition (default)  close the selection over orp:requires — a coherent world
+                         for building and evaluation;
+  access (--no-closure)  exactly the packs held, no closure — what a consumer may
+                         read. Holding a supplement does not grant its core book. Because chunks/vectors are stored one file per book, a composed view
 is literally a subset of the dataset's files — which is also the seam along which
 packs could later become separate repositories.
 
@@ -23,6 +29,7 @@ Usage:
   compose.py --validate                          # integrity + soundness of the whole dataset
   compose.py --packs covenants                   # a scoped view (counts + files)
   compose.py --packs covenants,mystery-cults     # multiple packs
+  compose.py --packs covenants --no-closure      # access scope: only the packs held
   compose.py --packs covenants --json view.json  # write the composed view manifest
   compose.py                                     # the full composition (all packs)
 """
@@ -46,7 +53,7 @@ def load(dataset):
 
 
 def closure(packs, books):
-    """Close a set of pack ids over dc:requires."""
+    """Close a set of pack ids over orp:requires."""
     out, stack = set(), list(packs)
     while stack:
         p = stack.pop()
@@ -81,14 +88,15 @@ def resolve(tokens, books):
     return out
 
 
-def compose(tokens, books, ents, sources):
+def compose(tokens, books, ents, sources, close=True):
     selected = resolve(tokens, books) if tokens else set(books)
-    scope = closure(selected, books)
+    scope = closure(selected, books) if close else set(selected)
     spine = [e for e in ents if not e.get("definedIn")]
     book_ents = [e for e in ents if e.get("definedIn")]
     in_scope = [e for e in book_ents if set(e.get("attestedIn", [])) & scope]
     n_chunks = sum(sources.get(p, {}).get("chunks", 0) for p in scope)
     return {
+        "mode": "composition" if close else "access",
         "selected": sorted(selected),
         "closure": sorted(scope),
         "added_by_requires": sorted(scope - selected),
@@ -119,7 +127,7 @@ def validate(books, ents, sources, dataset):
         color[p] = 1
         for r in books.get(p, {}).get("requires", []):
             if color.get(r) == 1:
-                errs.append("cycle in dc:requires at %s -> %s" % (p, r))
+                errs.append("cycle in orp:requires at %s -> %s" % (p, r))
             elif color.get(r) == 0:
                 dfs(r)
         color[p] = 2
@@ -159,6 +167,8 @@ def main():
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--dataset", default=ROOT)
     ap.add_argument("--packs", default="", help="comma-separated pack ids/substrings; empty = all")
+    ap.add_argument("--no-closure", action="store_true",
+                    help="access scope: use exactly the selected packs, without orp:requires closure")
     ap.add_argument("--validate", action="store_true")
     ap.add_argument("--json", help="write the composed view manifest to this path")
     args = ap.parse_args()
@@ -176,11 +186,11 @@ def main():
         sys.exit(0 if not errs else 1)
 
     tokens = args.packs.split(",") if args.packs else []
-    view = compose(tokens, books, ents, sources)
+    view = compose(tokens, books, ents, sources, close=not args.no_closure)
     print(json.dumps(view["counts"], indent=2))
-    print("closure (%d packs):" % len(view["closure"]), view["closure"])
+    print("%s scope (%d packs):" % (view["mode"], len(view["closure"])), view["closure"])
     if view["added_by_requires"]:
-        print("added by dc:requires:", view["added_by_requires"])
+        print("added by orp:requires:", view["added_by_requires"])
     if args.json:
         json.dump(view, open(args.json, "w"), indent=2)
         print("wrote", args.json)

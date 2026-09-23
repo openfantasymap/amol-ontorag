@@ -66,8 +66,8 @@
     <div><code>ontology/entities.jsonl</code> — flat entity index</div>
     <div><code>content/chunks/*.jsonl</code> — text, one file per book, entity-linked</div>
     <div><code>embeddings/vectors/*.jsonl</code> — vectors, joined by id</div>
-    <div><code>content/books.json</code> — the pack registry (<code>dc:requires</code>)</div>
-    <div><code>schema/*.schema.json</code> — the record contracts</div>
+    <div><code>content/books.json</code> — the pack registry (<code>orp:requires</code>)</div>
+    <div><a href="https://ontorag.org/vocab/#format">OntoRAG dataset format 0.1</a> — the record contracts</div>
   </div>
 
   <h2>Ontology &amp; provenance</h2>
@@ -79,10 +79,12 @@
 
   <h2>Composition — add or remove packs</h2>
   <p>Each sourcebook is a semantic <strong>pack</strong>. Packs form a
-  <code>dc:requires</code> dependency graph (every supplement requires the core rules).
-  Selecting packs and closing over their dependencies reconstructs a <em>scoped world</em>
-  — the basis for access-scoping and per-source evaluation.</p>
-  <pre>python3 tools/compose.py --packs covenants    # dc:requires pulls in the core rules
+  <code>orp:requires</code> dependency graph (every supplement requires the core rules).
+  Selecting the packs a reader holds gives their <em>access scope</em>; closing a
+  selection over its dependencies gives a coherent <em>composed world</em> for building
+  and evaluation (<a href="https://ontorag.org/provenance/#packs">rules</a>).</p>
+  <pre>python3 tools/compose.py --packs covenants    # composition: orp:requires pulls in the core rules
+python3 tools/compose.py --packs covenants --no-closure   # access scope: only that book
 python3 tools/compose.py --validate           # integrity + soundness of the dataset</pre>
 
   <h2>Query it</h2>

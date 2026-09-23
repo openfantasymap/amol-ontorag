@@ -25,13 +25,20 @@ needle-in-a-haystack eval):
   (from the extraction shard's `evidence` chunks). The entity's origin; empty for
   hand-curated spine entities not present in the extraction.
 
-In the graph these become first-class edges: `amol:<Entity> amol:attestedIn
-amol:Book_<Slug>` / `amol:definedIn amol:Book_<Slug>`. Books are `amol:Sourcebook`
-nodes (registry: [`../content/books.json`](../content/books.json)) linked by a
-`dc:requires` dependency graph — every supplement `dc:requires` the core rules
-(`amol:Book_DefinitiveEditionCoreRules`), which requires nothing. Reconstruct a
-scoped world by filtering on `amol:attestedIn`, optionally closing over
-`dc:requires`.
+In the graph these become first-class edges, using the OntoRAG Provenance and
+Citation Ontology (`orp:`, <https://ontorag.org/provenance/>):
+`amol:<Entity> orp:attestedIn <…/id/source/<slug>>` and `orp:definedIn`.
+
+- Each book is an `orp:Source` (`dcterms:title`, `dcterms:identifier` = slug).
+- Its Markdown file is an `orp:SourceFile` with `orp:checksum "sha256:…"`.
+- Its slice of the dataset is an `orp:Pack` (registry:
+  [`../content/books.json`](../content/books.json)).
+- Supplements `dcterms:requires` the core rules, mirrored by `orp:requires` between
+  their packs. The shared vocabulary is the `orp:SpinePack`.
+
+To reconstruct a scoped world, select packs and filter on `orp:attestedIn`. See
+[`../docs/composition.md`](../docs/composition.md) for why access scoping must not
+close over `orp:requires` while composition does.
 
 ## Schema alignment
 
@@ -42,10 +49,17 @@ Classes/properties prefixed `rpg:` align with the **rpg-schema** TTRPG ontology
 `skos:` vocabularies are used for labels, descriptions and provenance. All
 instance data lives under the `amol:` namespace.
 
-The base IRIs (`amol:` = `https://ontorag.dev/amol/`, `rpg:` =
-`https://rpg-schema.org/ns/rpg#`) are placeholders aligned to the rpg-schema
-catalog; rewrite them to match your deployment if needed (update `prefixes.json`,
-`world.ttl`, and `manifest.ontology.base_iri` together).
+Base IRIs:
+
+- `amol:` = `https://www.fantasymaps.org/amol-ontorag/id/`, this dataset's namespace
+  (since v0.5.0; previously `https://ontorag.dev/amol/`, which never resolved);
+- `rpg:` = `http://www.rpg-schema.org/1.0/`, the canonical rpg-schema namespace
+  (previously `https://rpg-schema.org/ns/rpg#`).
+
+Places are typed `schema:Place`, since rpg-schema has no place class. To move the
+dataset to another namespace, rewrite `prefixes.json`, `world.ttl`,
+`entities.jsonl`, the chunk `entities` lists and `manifest.ontology.base_iri`
+together.
 
 ## What the graph contains
 
@@ -58,10 +72,10 @@ catalog; rewrite them to match your deployment if needed (update `prefixes.json`
 
 ## entity record shape
 
-See [`../schema/entity.schema.json`](../schema/entity.schema.json):
+See [`entity.schema.json`](https://ontorag.org/vocab/dataset/0.1/entity.schema.json):
 
 ```json
-{"iri":"https://ontorag.dev/amol/HouseTremere","types":["https://rpg-schema.org/ns/rpg#Faction"],
+{"iri":"https://www.fantasymaps.org/amol-ontorag/id/HouseTremere","types":["http://www.rpg-schema.org/1.0/Faction"],
  "label":"House Tremere","aliases":["House Tremere","Tremere"],
  "summary":"A disciplined, hierarchical House … masters of certamen …","tags":["Hermetic House"],
  "attestedIn":["covenants","definitive-edition-core-rules","houses-of-hermes-true-lineages", "…"],
@@ -82,7 +96,7 @@ for graph expansion and for injecting structured facts into the LLM context.
 # load the graph and run SPARQL
 oxigraph load --location ./oxidb --file ontology/world.ttl
 oxigraph query --location ./oxidb \
-  --query 'PREFIX rpg:<https://rpg-schema.org/ns/rpg#> SELECT ?h WHERE { ?h a rpg:Faction }'
+  --query 'PREFIX rpg:<http://www.rpg-schema.org/1.0/> SELECT ?h WHERE { ?h a rpg:Faction }'
 ```
 
 ## Regenerating `entities.jsonl`

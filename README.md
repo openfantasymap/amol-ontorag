@@ -33,20 +33,30 @@ amol-ontorag/
 │   └── prefixes.json          ← namespace prefixes (amol:, rpg:, schema:, …)
 ├── content/
 │   ├── sources.json           ← provenance: which corpus files, sha256, license, status
-│   └── chunks/<doc>.jsonl     ← retrievable text units, each linked to entity IRIs
+│   ├── books.json             ← pack registry: one pack per book, with `requires`
+│   └── chunks/<book>.jsonl    ← retrievable text units, each linked to entity IRIs
 ├── embeddings/
 │   ├── config.json            ← provider, model, dim, metric, normalized
-│   └── vectors/<doc>.jsonl    ← {id, vector}, joined to chunks by id
-├── schema/*.schema.json       ← JSON Schemas for manifest / chunk / embedding / entity
+│   └── vectors/<book>.jsonl   ← {id, vector}, joined to chunks by id
+├── docs/composition.md        ← packs: selecting books for access scope or composition
 ├── tools/
 │   ├── build.py               ← corpus → ontology index → chunks → embeddings → manifest
+│   ├── provenance.py          ← book provenance (orp:) block of world.ttl
+│   ├── compose.py             ← validate the dataset; compose or scope packs
 │   ├── query.py               ← reference connector / retrieval demo
 │   ├── Dockerfile             ← modern pinned Python for the tooling
 │   └── requirements.txt
 └── docker-compose.yml         ← `build` and `query` services
 ```
 
-Every record type has a JSON Schema in `schema/`, referenced from `manifest.json`.
+The layout follows the **OntoRAG dataset format 0.1**
+(<https://ontorag.org/vocab/#format>). Every record type has a canonical JSON
+Schema at `https://ontorag.org/vocab/dataset/0.1/`, referenced from
+`manifest.json`. Book provenance, citations and packs use the **OntoRAG Provenance
+and Citation Ontology** (`orp:`, <https://ontorag.org/provenance/>). Entity IRIs
+live under `https://www.fantasymaps.org/amol-ontorag/id/`, and classes align with
+[rpg-schema](https://www.rpg-schema.org/) (`http://www.rpg-schema.org/1.0/`).
+
 The three data layers join on stable ids:
 
 ```
@@ -103,14 +113,18 @@ API); `voyageai`/`openai`/`sentence-transformers` are listed in
 `tools/requirements.txt`. Generation (the final answer) is left to the caller — a
 Claude model such as `claude-opus-4-8` or `claude-sonnet-4-6` is a natural fit.
 
-## What's in the sample
+## What's in the dataset
 
-The committed sample ingests two reviewed sourcebooks — *Houses of Hermes: True
-Lineages* and *Houses of Hermes: Mystery Cults* — which between them reference 8
-of the 12 Hermetic Houses, so entity linking and cross-document graph expansion
-are both exercised. The ontology covers the World (Mythic Europe), the ArM5
-ruleset, the 15 Hermetic Arts, all 12 Houses, the 4 Realms of Power, and a
-selection of Tribunals. Re-run `build.py` with `--docs` to ingest more books.
+Version 0.5.0 holds **25 reviewed sourcebooks**: the Definitive Edition core rules
+plus 24 supplements. From them the build produces:
+
+- **17,942 chunks**, each with a 768-dimension `nomic-embed-text` vector;
+- **3,866 entities**: tags, characters, spells, places, factions, creatures, items
+  and proficiencies, over a curated spine (Mythic Europe, the ArM5 rule set, the 15
+  Hermetic Arts, the 12 Houses, the 4 Realms, the Tribunals).
+
+Each book is a pack, so you can scope retrieval or composition to a subset of books.
+See [`docs/composition.md`](docs/composition.md). Counts come from `manifest.json`.
 
 ## License
 
