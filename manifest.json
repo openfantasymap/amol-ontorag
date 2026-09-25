@@ -6,7 +6,7 @@
     "version": "0.6.0",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/OriginalMadman/Ars-Magica-Open-License",
-    "built_at": "2026-09-25T09:20:14+00:00",
+    "built_at": "2026-09-25T10:32:15+00:00",
     "builder": "tools/build.py"
   },
   "ontology": {
@@ -85,8 +85,10 @@
     "normalized": true,
     "alignment": "by_id",
     "counts": {
-      "vectors": 17942
-    }
+      "vectors": 17942,
+      "entity_vectors": 12995
+    },
+    "entity_vectors_glob": "embeddings/entities/*.jsonl"
   },
   "schema": {
     "manifest": "https://ontorag.org/vocab/dataset/0.1/manifest.schema.json",

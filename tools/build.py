@@ -21,6 +21,7 @@ docker-compose.yml) but degrades to host Python 3.8 with the `hashed` provider.
 """
 import argparse
 import datetime as _dt
+import glob
 import hashlib
 import json
 import math
@@ -411,6 +412,8 @@ def main():
     ap.add_argument("--target-tokens", type=int, default=320)
     ap.add_argument("--overlap-tokens", type=int, default=48)
     ap.add_argument("--min-words", type=int, default=12)
+    ap.add_argument("--no-entity-vectors", action="store_true",
+                    help="skip embedding entity descriptions (embeddings/entities.jsonl)")
     ap.add_argument("--reuse-embeddings", action="store_true",
                     help="Reuse existing vectors (by chunk id); only embed new/changed chunks.")
     ap.add_argument("--version", default="0.5.0")
@@ -517,6 +520,50 @@ def main():
         print("    %-40s %4d vectors (dim=%d, %d reused)"
               % (slug, len(rows), provider.dim, len(rows) - len(need)))
 
+    # Entity vectors: one embedding per entity of "label (type): summary", so a
+    # question that describes a thing without naming it can find the thing
+    # (ontorag-mcp `entity` retrieval). Reused when the text is unchanged.
+    ent_vec_rel = None
+    if not args.no_entity_vectors:
+        ent_dir = os.path.join(ROOT, "embeddings", "entities")
+        meta_path = os.path.join(ROOT, "embeddings", "entities.meta.json")
+        shard_of = lambda iri: "%s.jsonl" % hashlib.sha1(iri.encode("utf-8")).hexdigest()[0]  # 16 shards
+        def ent_text(e):
+            typ = (e.get("tags") or [re.split(r"[/#]", t)[-1] for t in e.get("types", [])] or [""])[0]
+            return "%s (%s): %s" % (e["label"], typ, e.get("summary") or "")
+        texts = {e["iri"]: ent_text(e) for e in entities if e.get("summary")}
+        digest = {i: hashlib.sha1(t.encode("utf-8")).hexdigest()[:16] for i, t in texts.items()}
+        cache = {}
+        old_files = sorted(glob.glob(os.path.join(ent_dir, "*.jsonl")))
+        legacy = os.path.join(ROOT, "embeddings", "entities.jsonl")      # pre-sharding layout
+        if os.path.exists(legacy):
+            old_files.append(legacy)
+        if old_files and os.path.exists(meta_path):
+            old = json.load(open(meta_path, encoding="utf-8"))
+            for f in old_files:
+                for r in (json.loads(l) for l in open(f, encoding="utf-8") if l.strip()):
+                    if old.get(r["id"]) == digest.get(r["id"]):
+                        cache[r["id"]] = r["vector"]
+        need = [i for i in sorted(texts) if i not in cache]
+        if need:
+            for i, v in zip(need, provider.embed([texts[i] for i in need])):
+                cache[i] = v
+        os.makedirs(ent_dir, exist_ok=True)
+        shards = defaultdict(list)
+        for i in sorted(texts):
+            shards[shard_of(i)].append({"id": i, "vector": round_vec(cache[i])})
+        for f in glob.glob(os.path.join(ent_dir, "*.jsonl")):
+            if os.path.basename(f) not in shards:
+                os.remove(f)
+        for name, rows in shards.items():
+            write_jsonl(os.path.join(ent_dir, name), rows)
+        if os.path.exists(legacy):
+            os.remove(legacy)
+        with open(meta_path, "w", encoding="utf-8") as f:
+            json.dump({i: digest[i] for i in sorted(texts)}, f)
+        ent_vec_rel = "embeddings/entities/*.jsonl"
+        print("    entities: %d vectors (%d reused)" % (len(texts), len(texts) - len(need)))
+
     print("[4/5] embeddings/config.json")
     now = _dt.datetime.now(_dt.timezone.utc).replace(microsecond=0).isoformat()
     emb_cfg = {
@@ -598,6 +645,11 @@ def main():
             "entity": SPEC + "entity.schema.json",
         },
     }
+    if ent_vec_rel:
+        manifest["embeddings"]["entity_vectors_glob"] = ent_vec_rel
+        manifest["embeddings"]["counts"]["entity_vectors"] = sum(
+            1 for f in glob.glob(os.path.join(ROOT, ent_vec_rel))
+            for l in open(f, encoding="utf-8") if l.strip())
     # Composition model: register the pack (sourcebook) system if provenance exists.
     _books_path = os.path.join(ROOT, "content", "books.json")
     if os.path.exists(_books_path):
