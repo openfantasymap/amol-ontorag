@@ -1,0 +1,2509 @@
+[
+ {
+  "name": "Knights Templar",
+  "type": "Faction",
+  "aliases": [
+   "Templars",
+   "Poor Knights of the Temple of Solomon",
+   "Poor Knights",
+   "Order of the Temple"
+  ],
+  "description": "Crusading military order founded in 1119 in Jerusalem, exempt from all authority but the pope; wealthy bankers, treasurers and warriors of Mythic Europe.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0515",
+   "the-church::0542"
+  ]
+ },
+ {
+  "name": "Hospitallers",
+  "type": "Faction",
+  "aliases": [
+   "Order of the Knights of Saint John",
+   "Knights of Saint John"
+  ],
+  "description": "The Order of the Knights of Saint John, a crusading order that began as a charitable hospital for pilgrims in Jerusalem; rivals and allies of the Templars.",
+  "evidence": [
+   "the-church::0506",
+   "the-church::0507",
+   "the-church::0559"
+  ]
+ },
+ {
+  "name": "Teutonic Knights",
+  "type": "Faction",
+  "aliases": [
+   "Teutons",
+   "Order of the Teutonic Knights of Saint Mary"
+  ],
+  "description": "German crusading order formed around 1198 from the German hospital of Saint Mary, famed for strict discipline and turning toward the pagan lands of Eastern Europe.",
+  "evidence": [
+   "the-church::0508",
+   "the-church::0509"
+  ]
+ },
+ {
+  "name": "Order of Calatrava",
+  "type": "Faction",
+  "aliases": [
+   "Knights of Calatrava",
+   "Calatravans"
+  ],
+  "description": "Iberian military order founded in Castile in 1158 as the military branch of a Cistercian order at the fortress of Calatrava, active in the Reconquista.",
+  "evidence": [
+   "the-church::0510",
+   "the-church::0512"
+  ]
+ },
+ {
+  "name": "Order of Saint Julian del Pereiro",
+  "type": "Faction",
+  "description": "Smaller Iberian military order whose formation was supported by the Calatravans.",
+  "evidence": [
+   "the-church::0510"
+  ]
+ },
+ {
+  "name": "Order of Avis",
+  "type": "Faction",
+  "description": "Smaller Iberian (Portuguese) military order supported by the Calatravans.",
+  "evidence": [
+   "the-church::0510"
+  ]
+ },
+ {
+  "name": "Order of Santiago",
+  "type": "Faction",
+  "description": "Iberian military order of Castile-Leon that followed the rule of Saint Augustine.",
+  "evidence": [
+   "the-church::0510"
+  ]
+ },
+ {
+  "name": "Knights of Alcantara",
+  "type": "Faction",
+  "description": "Iberian military order based in Castile-Leon.",
+  "evidence": [
+   "the-church::0510"
+  ]
+ },
+ {
+  "name": "Order of Saint Lazarus",
+  "type": "Faction",
+  "description": "Military order originally composed entirely of lepers, formed in 1130 in Jerusalem's leper hospital; leprous brothers of other orders must join it.",
+  "evidence": [
+   "the-church::0511",
+   "the-church::0512",
+   "the-church::0513"
+  ]
+ },
+ {
+  "name": "Order of Saint Thomas at Acre",
+  "type": "Faction",
+  "aliases": [
+   "Order of Saint Thomas"
+  ],
+  "description": "Minor order formed in Acre after the Third Crusade to care for the poor and sick and bury the dead, mainly attracting English pilgrims.",
+  "evidence": [
+   "the-church::0512",
+   "the-church::0514"
+  ]
+ },
+ {
+  "name": "Swordbrethren",
+  "type": "Faction",
+  "aliases": [
+   "Swordbretheren"
+  ],
+  "description": "German crusading order being absorbed by the Teutonic Knights.",
+  "evidence": [
+   "the-church::0508"
+  ]
+ },
+ {
+  "name": "Order of Dobrin",
+  "type": "Faction",
+  "description": "German crusading order being absorbed by the Teutonic Knights.",
+  "evidence": [
+   "the-church::0508"
+  ]
+ },
+ {
+  "name": "Dominicans",
+  "type": "Faction",
+  "description": "Religious order mentioned as beset by scandals, unlike the Templars.",
+  "evidence": [
+   "the-church::0482"
+  ]
+ },
+ {
+  "name": "Franciscans",
+  "type": "Faction",
+  "aliases": [
+   "Friars Minor",
+   "Little Brothers"
+  ],
+  "description": "The Friars Minor, followers of Francis of Assisi who live in poverty, humility and charity, supporting themselves by labor or begging.",
+  "evidence": [
+   "the-church::0598",
+   "the-church::0599"
+  ]
+ },
+ {
+  "name": "Poor Sisters",
+  "type": "Faction",
+  "description": "Female followers of Clare, cousin of Francis, who share the life of the poorest.",
+  "evidence": [
+   "the-church::0598"
+  ]
+ },
+ {
+  "name": "Cistercians",
+  "type": "Faction",
+  "description": "Monastic order whose sign language the Templars adapted; the Order of Calatrava began as its military branch.",
+  "evidence": [
+   "the-church::0510",
+   "the-church::0589"
+  ]
+ },
+ {
+  "name": "Benedictines",
+  "type": "Faction",
+  "description": "Monastic order whose sign language and daily routine resemble those of the Templars.",
+  "evidence": [
+   "the-church::0546",
+   "the-church::0589"
+  ]
+ },
+ {
+  "name": "Assassins",
+  "type": "Faction",
+  "aliases": [
+   "Ismailis",
+   "Ismaili sect"
+  ],
+  "description": "The Ismaili sect with whom a Templar grand master negotiated in 1173; the Templars later had their envoy killed.",
+  "evidence": [
+   "the-church::0562"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "description": "Heretics targeted by the Albigensian Crusade, sometimes sheltered in Templar houses.",
+  "evidence": [
+   "the-church::0484"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of Hermetic magi; Templars have little formal contact with it, though individual commanders may know of magi and covenants.",
+  "evidence": [
+   "the-church::0491",
+   "the-church::0563",
+   "the-church::0564"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "description": "Hermetic House whose magi adopt new identities; the legendary magus Rothelin came from it.",
+  "evidence": [
+   "the-church::0512",
+   "the-church::0513"
+  ]
+ },
+ {
+  "name": "Quaesitors",
+  "type": "Faction",
+  "description": "Hermetic investigators who worry that Order secrets may pass to the Templars via a confrater archmage.",
+  "evidence": [
+   "the-church::0491"
+  ]
+ },
+ {
+  "name": "Angevins",
+  "type": "Faction",
+  "aliases": [
+   "Angevin family"
+  ],
+  "description": "Noble family claiming the throne of Jerusalem, close to the Templars.",
+  "evidence": [
+   "the-church::0501"
+  ]
+ },
+ {
+  "name": "Lusignan family",
+  "type": "Faction",
+  "aliases": [
+   "Lusignans"
+  ],
+  "description": "Noble family ruling Cyprus and claiming the throne of Jerusalem, in conflict with the Templars.",
+  "evidence": [
+   "the-church::0501"
+  ]
+ },
+ {
+  "name": "Flagellant movement",
+  "type": "Faction",
+  "description": "Movement of pious Christians who publicly flagellated themselves expecting the Last Judgement, in which Templars later become prominent.",
+  "evidence": [
+   "the-church::0499"
+  ]
+ },
+ {
+  "name": "Ministeriales",
+  "type": "Faction",
+  "description": "Class of unfree German knights bound to the German king, from which most Teutons come.",
+  "evidence": [
+   "the-church::0508"
+  ]
+ },
+ {
+  "name": "Genoese",
+  "type": "Faction",
+  "description": "Genoese merchants supported by the Hospitallers.",
+  "evidence": [
+   "the-church::0506"
+  ]
+ },
+ {
+  "name": "Venetians",
+  "type": "Faction",
+  "description": "Venetian merchants supported by the Templars.",
+  "evidence": [
+   "the-church::0506"
+  ]
+ },
+ {
+  "name": "False Gods",
+  "type": "Creature",
+  "description": "Demonic beings who covet stolen wealth and target Templar storehouses.",
+  "evidence": [
+   "the-church::0492",
+   "the-church::0496"
+  ]
+ },
+ {
+  "name": "Hugh of Payns",
+  "type": "Character",
+  "description": "Founder and first Grand Master of the Templars (1119-1136); visited London in 1128.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0487",
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Godfrey of St-Omer",
+  "type": "Character",
+  "description": "One of the nine founding knights of the Templars with Hugh of Payns.",
+  "evidence": [
+   "the-church::0480"
+  ]
+ },
+ {
+  "name": "Bernard of Clairvaux",
+  "type": "Character",
+  "description": "Influential churchman instrumental in gaining acceptance of the Templars.",
+  "evidence": [
+   "the-church::0480"
+  ]
+ },
+ {
+  "name": "Pope Innocent II",
+  "type": "Character",
+  "description": "Pope who issued the bull Omne datum optimum granting Templar privileges.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0484"
+  ]
+ },
+ {
+  "name": "Pope Innocent III",
+  "type": "Character",
+  "description": "Pope whose planning for the Fifth Crusade was realized after his death in 1216.",
+  "evidence": [
+   "the-church::0481"
+  ]
+ },
+ {
+  "name": "Pope Honorius III",
+  "type": "Character",
+  "description": "Pope who directed the Fifth Crusade and sent financial aid via Templars; Grand Master Peter reportedly has little regard for him.",
+  "evidence": [
+   "the-church::0481",
+   "the-church::0490",
+   "the-church::0527"
+  ]
+ },
+ {
+  "name": "Andrew of Hungary",
+  "type": "Character",
+  "aliases": [
+   "King Andrew II"
+  ],
+  "description": "Crusade leader of the Fifth Crusade; also referenced as Hungarian King Andrew II who granted the Teutons lands in Transylvania.",
+  "evidence": [
+   "the-church::0481",
+   "the-church::0508"
+  ]
+ },
+ {
+  "name": "Leopold of Austria",
+  "type": "Character",
+  "description": "Leader of the Fifth Crusade.",
+  "evidence": [
+   "the-church::0481"
+  ]
+ },
+ {
+  "name": "Pope Eugenius III",
+  "type": "Character",
+  "aliases": [
+   "Pope Eugenius"
+  ],
+  "description": "Pope who granted Templars the red cross and issued Milites Dei in 1145.",
+  "evidence": [
+   "the-church::0482",
+   "the-church::0485"
+  ]
+ },
+ {
+  "name": "King Louis of France",
+  "type": "Character",
+  "description": "King who led the Second Crusade; Templars took over command by Antioch.",
+  "evidence": [
+   "the-church::0483"
+  ]
+ },
+ {
+  "name": "Robert of Sabloel",
+  "type": "Character",
+  "description": "Grand Master (1191-1193), formerly King Richard's admiral.",
+  "evidence": [
+   "the-church::0483",
+   "the-church::0488",
+   "the-church::0573"
+  ]
+ },
+ {
+  "name": "King Richard of England",
+  "type": "Character",
+  "description": "Crusader king who captured Cyprus and Acre and raised Robert of Sabloel to grand master.",
+  "evidence": [
+   "the-church::0483",
+   "the-church::0501",
+   "the-church::0573"
+  ]
+ },
+ {
+  "name": "Guy of Lusignan",
+  "type": "Character",
+  "description": "Erstwhile King of Jerusalem who bought Cyprus from the Templars.",
+  "evidence": [
+   "the-church::0483"
+  ]
+ },
+ {
+  "name": "Simon of Montefort",
+  "type": "Character",
+  "description": "Leader of the Albigensian Crusade.",
+  "evidence": [
+   "the-church::0484"
+  ]
+ },
+ {
+  "name": "Pope Celestine II",
+  "type": "Character",
+  "description": "Pope who proclaimed Milites Templi in 1144.",
+  "evidence": [
+   "the-church::0485"
+  ]
+ },
+ {
+  "name": "Henry II",
+  "type": "Character",
+  "description": "English king for whom Templars maintained castles.",
+  "evidence": [
+   "the-church::0487"
+  ]
+ },
+ {
+  "name": "Thomas Becket",
+  "type": "Character",
+  "description": "Archbishop persuaded by Templars to accept the Constitutions of Clarendon.",
+  "evidence": [
+   "the-church::0487"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "description": "English king advised by Aymeric of St. Maur to sign Magna Carta.",
+  "evidence": [
+   "the-church::0487"
+  ]
+ },
+ {
+  "name": "Aymeric of St. Maur",
+  "type": "Character",
+  "description": "English Templar commander (1200-1220), envoy to King John; ordered construction of a massive mill in London.",
+  "evidence": [
+   "the-church::0487",
+   "the-church::0488",
+   "the-church::0491"
+  ]
+ },
+ {
+  "name": "King Henry III",
+  "type": "Character",
+  "description": "Young English king whose treasury the Templars maintain in 1220.",
+  "evidence": [
+   "the-church::0487",
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Alan Marcell",
+  "type": "Character",
+  "description": "English Templar commander from 1220, chief advisor to Henry III and ally of Peter of Montaigu.",
+  "evidence": [
+   "the-church::0487",
+   "the-church::0488",
+   "the-church::0524"
+  ]
+ },
+ {
+  "name": "Robert of Craon",
+  "type": "Character",
+  "description": "Grand Master of the Templars (1136-1149).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Everard of Barres",
+  "type": "Character",
+  "description": "Grand Master (1149-1152), retired.",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Bernard of Trémélay",
+  "type": "Character",
+  "description": "Grand Master (1152-1153).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Andrew of Montbard",
+  "type": "Character",
+  "description": "Grand Master (1153-1156).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Bertrand of Blanquefort",
+  "type": "Character",
+  "description": "Grand Master (1156-1169).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Philip of Nablus",
+  "type": "Character",
+  "description": "Grand Master (1169-1171), retired.",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Odo of Saint-Amand",
+  "type": "Character",
+  "description": "Grand Master (1171-1179).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Arnold of Torroja",
+  "type": "Character",
+  "description": "Grand Master (1180-1184).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Gérard of Ridefort",
+  "type": "Character",
+  "description": "Grand Master (1185-1189).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Gilbert Erail",
+  "type": "Character",
+  "description": "Grand Master (1194-1200).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Philip of Plessiez",
+  "type": "Character",
+  "description": "Grand Master (1201-1209).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "William of Chartres",
+  "type": "Character",
+  "description": "Grand Master (1210-1219) whose death led to Peter of Montaigu's election.",
+  "evidence": [
+   "the-church::0488",
+   "the-church::0524"
+  ]
+ },
+ {
+  "name": "Peter of Montaigu",
+  "type": "Character",
+  "description": "Grand Master of the Templars from 1219, elected at Damietta; rumored to seek independence even from the pope.",
+  "evidence": [
+   "the-church::0488",
+   "the-church::0524",
+   "the-church::0527"
+  ]
+ },
+ {
+  "name": "Richard of Hastings",
+  "type": "Character",
+  "description": "English Templar commander (1160-1171).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Richard Mallebeench",
+  "type": "Character",
+  "description": "English Templar commander (1172-1180).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Geoffrey Fitz Stephen",
+  "type": "Character",
+  "description": "English Templar commander (1180-1185).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "William of Newenham",
+  "type": "Character",
+  "description": "English Templar commander (1185-1200).",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "Thomas Beard",
+  "type": "Character",
+  "description": "English Templar commander in 1200.",
+  "evidence": [
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "King Philip II",
+  "type": "Character",
+  "aliases": [
+   "King Philip"
+  ],
+  "description": "French king whose treasury is kept by the Paris Temple.",
+  "evidence": [
+   "the-church::0489"
+  ]
+ },
+ {
+  "name": "Brother Haimard",
+  "type": "Character",
+  "aliases": [
+   "Haimard",
+   "Hairmard"
+  ],
+  "description": "Treasurer of the French Templars and the French Crown; plots to create wealth using Hermetic magic.",
+  "evidence": [
+   "the-church::0489",
+   "the-church::0490",
+   "the-church::0496"
+  ]
+ },
+ {
+  "name": "Queen Ingebourg",
+  "type": "Character",
+  "description": "French queen whose will Haimard will execute.",
+  "evidence": [
+   "the-church::0489"
+  ]
+ },
+ {
+  "name": "Oliver of Paderborn",
+  "type": "Character",
+  "aliases": [
+   "Brother Oliver of Paderborn"
+  ],
+  "description": "Templar commander of the delegation seeking magical aid for the Fifth Crusade.",
+  "evidence": [
+   "the-church::0490",
+   "the-church::0491"
+  ]
+ },
+ {
+  "name": "Afonso, Count of Boulogne",
+  "type": "Character",
+  "description": "Noble who will overthrow Sancho II of Portugal.",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "King Sancho II",
+  "type": "Character",
+  "description": "King of Portugal (1223-1245).",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "Martim Martins",
+  "type": "Character",
+  "description": "Templar commander of Portugal, childhood friend of Sancho II.",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "Ramon Berengeur II",
+  "type": "Character",
+  "description": "Count of Barcelona and Marquis of Provence who became a Templar confrere and gave them Granyena.",
+  "evidence": [
+   "the-church::0495"
+  ]
+ },
+ {
+  "name": "King Alfonso I",
+  "type": "Character",
+  "description": "Aragonese king whose death brought the Templars great lands.",
+  "evidence": [
+   "the-church::0495"
+  ]
+ },
+ {
+  "name": "King James I of Aragon",
+  "type": "Character",
+  "description": "King of Aragon (1213-1276) who will campaign in the Balearics and Valencia.",
+  "evidence": [
+   "the-church::0495",
+   "the-church::0496"
+  ]
+ },
+ {
+  "name": "Stephen of Belmonte",
+  "type": "Character",
+  "description": "Templar commander in Aragon seeking Hermetic magi for magical weapons and ships.",
+  "evidence": [
+   "the-church::0495",
+   "the-church::0496"
+  ]
+ },
+ {
+  "name": "Hugh of Forcalquier",
+  "type": "Character",
+  "description": "Hospitaller commander in Aragon, close to King James.",
+  "evidence": [
+   "the-church::0496"
+  ]
+ },
+ {
+  "name": "Frederick II Hohenstaufen",
+  "type": "Character",
+  "aliases": [
+   "Frederick II"
+  ],
+  "description": "Holy Roman Emperor with cordial but tense relations with the Templars.",
+  "evidence": [
+   "the-church::0498",
+   "the-church::0508",
+   "the-church::0524"
+  ]
+ },
+ {
+  "name": "Brother Bonvicino",
+  "type": "Character",
+  "description": "Papal chamberlain and Templar who will lead the flagellant movement.",
+  "evidence": [
+   "the-church::0499"
+  ]
+ },
+ {
+  "name": "Saladin",
+  "type": "Character",
+  "description": "Muslim leader who recaptured Jerusalem.",
+  "evidence": [
+   "the-church::0501"
+  ]
+ },
+ {
+  "name": "James of Vitry",
+  "type": "Character",
+  "description": "Bishop of Acre (1216-1228), close Templar ally.",
+  "evidence": [
+   "the-church::0502"
+  ]
+ },
+ {
+  "name": "Bohemond, Count of Tripoli",
+  "type": "Character",
+  "description": "Reclaimed Antioch in 1219; supported by the Templars.",
+  "evidence": [
+   "the-church::0503"
+  ]
+ },
+ {
+  "name": "Leon of Armenia",
+  "type": "Character",
+  "description": "Armenian ruler who declared war on the Templars in 1211.",
+  "evidence": [
+   "the-church::0503"
+  ]
+ },
+ {
+  "name": "Stephan of Tusculum",
+  "type": "Character",
+  "description": "Ruthless Templar brother-sergeant leading a tomb-raiding team hunting relics in Greece.",
+  "evidence": [
+   "the-church::0507"
+  ]
+ },
+ {
+  "name": "Wido of Cornelly",
+  "type": "Character",
+  "description": "Burgundian leper knight around whom the Order of Saint Lazarus formed.",
+  "evidence": [
+   "the-church::0511"
+  ]
+ },
+ {
+  "name": "Peter of Roches",
+  "type": "Character",
+  "description": "Bishop of Winchester who will reform the Order of Saint Thomas in 1228.",
+  "evidence": [
+   "the-church::0512"
+  ]
+ },
+ {
+  "name": "Rothelin",
+  "type": "Character",
+  "aliases": [
+   "Rochelin"
+  ],
+  "description": "Legendary Tytalus magus who converted, contracted leprosy and joined the Order of Saint Lazarus.",
+  "evidence": [
+   "the-church::0513"
+  ]
+ },
+ {
+  "name": "Guerin of Montaigu",
+  "type": "Character",
+  "aliases": [
+   "Guerin"
+  ],
+  "description": "Brother of Peter of Montaigu and Grand Master of the Hospitallers.",
+  "evidence": [
+   "the-church::0524"
+  ]
+ },
+ {
+  "name": "Eustorage",
+  "type": "Character",
+  "description": "Uncle of Peter of Montaigu, Archbishop of Nicosia.",
+  "evidence": [
+   "the-church::0524"
+  ]
+ },
+ {
+  "name": "Bernard, Bishop of Puy",
+  "type": "Character",
+  "description": "Uncle of Peter of Montaigu.",
+  "evidence": [
+   "the-church::0524"
+  ]
+ },
+ {
+  "name": "Nicholas",
+  "type": "Character",
+  "description": "Retired Templar miser who hoards his stipend to donate back to the order.",
+  "evidence": [
+   "the-church::0540",
+   "the-church::0541"
+  ]
+ },
+ {
+  "name": "Saint Euphemia of Chalcedon",
+  "type": "Character",
+  "aliases": [
+   "Saint Euphemia"
+  ],
+  "description": "Martyr venerated by the Templars; her heart and body are kept at Castle Pilgrim.",
+  "evidence": [
+   "the-church::0542",
+   "the-church::0543",
+   "the-church::0544"
+  ]
+ },
+ {
+  "name": "Virgin Mary",
+  "type": "Character",
+  "aliases": [
+   "Blessed Virgin Mary",
+   "Queen of Heaven"
+  ],
+  "description": "Patron of the Templars, venerated at chapter meetings.",
+  "evidence": [
+   "the-church::0518",
+   "the-church::0543"
+  ]
+ },
+ {
+  "name": "Saint Ursula of Cologne",
+  "type": "Character",
+  "description": "Saint whose silver-covered skull is kept at the Paris Temple.",
+  "evidence": [
+   "the-church::0545"
+  ]
+ },
+ {
+  "name": "Saint Polycarp",
+  "type": "Character",
+  "description": "Saint whose relics sanctify Templar woolen cords.",
+  "evidence": [
+   "the-church::0561"
+  ]
+ },
+ {
+  "name": "William of Tyre",
+  "type": "Character",
+  "description": "Chronicler who reported the Templar dealings with the Assassins in 1173.",
+  "evidence": [
+   "the-church::0562"
+  ]
+ },
+ {
+  "name": "Francis of Assisi",
+  "type": "Character",
+  "aliases": [
+   "Francis"
+  ],
+  "description": "Merchant's son of Assisi whose response to God's call founded the Friars Minor.",
+  "evidence": [
+   "the-church::0598",
+   "the-church::0599"
+  ]
+ },
+ {
+  "name": "Clare",
+  "type": "Character",
+  "description": "Cousin of Francis whose followers are the Poor Sisters.",
+  "evidence": [
+   "the-church::0598"
+  ]
+ },
+ {
+  "name": "Patriarch of Jerusalem",
+  "type": "Character",
+  "description": "Prelate before whom the first Templars took vows; authenticated relics.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0545",
+   "the-church::0558"
+  ]
+ },
+ {
+  "name": "Christ",
+  "type": "Character",
+  "description": "Relics of Christ's blood and objects he used are held by the Templars.",
+  "evidence": [
+   "the-church::0544",
+   "the-church::0545"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "aliases": [
+   "Holy City"
+  ],
+  "description": "Holy City where the Templars were founded; lost to Saladin.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0501"
+  ]
+ },
+ {
+  "name": "Temple of Solomon",
+  "type": "Place",
+  "aliases": [
+   "Templum Salomonis",
+   "Temple Mount"
+  ],
+  "description": "Site on Temple Mount granted to the first Templars, source of their name.",
+  "evidence": [
+   "the-church::0480"
+  ]
+ },
+ {
+  "name": "Troyes",
+  "type": "Place",
+  "description": "Site of the Council of Troyes where the Templars received their rule.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0486"
+  ]
+ },
+ {
+  "name": "Egypt",
+  "type": "Place",
+  "description": "Seat of Muslim power targeted by the Fifth Crusade.",
+  "evidence": [
+   "the-church::0481",
+   "the-church::0490"
+  ]
+ },
+ {
+  "name": "Acre",
+  "type": "Place",
+  "description": "Port on the bay of Haifa, Templar headquarters and central chapterhouse since 1191.",
+  "evidence": [
+   "the-church::0502",
+   "the-church::0515",
+   "the-church::0518"
+  ]
+ },
+ {
+  "name": "Damietta",
+  "type": "Place",
+  "description": "City captured by the Fifth Crusade, where Peter of Montaigu was elected.",
+  "evidence": [
+   "the-church::0481",
+   "the-church::0524",
+   "the-church::0548"
+  ]
+ },
+ {
+  "name": "Cyprus",
+  "type": "Place",
+  "description": "Island bought by the Templars from King Richard, ruled by the Lusignans.",
+  "evidence": [
+   "the-church::0483",
+   "the-church::0501"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "Byzantine capital captured in the Fourth Crusade.",
+  "evidence": [
+   "the-church::0483",
+   "the-church::0520"
+  ]
+ },
+ {
+  "name": "London",
+  "type": "Place",
+  "description": "Site of the New Temple and a major Western commandery.",
+  "evidence": [
+   "the-church::0487",
+   "the-church::0517"
+  ]
+ },
+ {
+  "name": "New Temple",
+  "type": "Place",
+  "description": "Templar chapterhouse in London on the Thames, seat of the English Master.",
+  "evidence": [
+   "the-church::0488",
+   "the-church::0560"
+  ]
+ },
+ {
+  "name": "Runnymede",
+  "type": "Place",
+  "description": "Where Magna Carta was signed.",
+  "evidence": [
+   "the-church::0487"
+  ]
+ },
+ {
+  "name": "Paris Temple",
+  "type": "Place",
+  "aliases": [
+   "Temple (Paris)"
+  ],
+  "description": "Templar house in Paris serving as the French royal treasury, holding Saint Ursula's skull.",
+  "evidence": [
+   "the-church::0489",
+   "the-church::0545"
+  ]
+ },
+ {
+  "name": "Tomar",
+  "type": "Place",
+  "description": "Portuguese town founded by the Templars, with their chapterhouse at castle Cera.",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "Cera",
+  "type": "Place",
+  "description": "Castle above Tomar, main Portuguese Templar chapterhouse.",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "Soure",
+  "type": "Place",
+  "description": "Site of a major Templar fortress in Portugal.",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "Pombal",
+  "type": "Place",
+  "description": "Site of a major Templar fortress in Portugal.",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "Granyena",
+  "type": "Place",
+  "description": "Castle given to the Templars by Ramon Berengeur II.",
+  "evidence": [
+   "the-church::0495"
+  ]
+ },
+ {
+  "name": "Barberà",
+  "type": "Place",
+  "description": "Castle donated to the Templars in Aragon.",
+  "evidence": [
+   "the-church::0495"
+  ]
+ },
+ {
+  "name": "Monzón",
+  "type": "Place",
+  "description": "Templar castle in Aragon.",
+  "evidence": [
+   "the-church::0495"
+  ]
+ },
+ {
+  "name": "Montjoy",
+  "type": "Place",
+  "description": "Templar castle in Aragon.",
+  "evidence": [
+   "the-church::0495"
+  ]
+ },
+ {
+  "name": "Miravet",
+  "type": "Place",
+  "description": "Significant Western Templar commandery in Aragon.",
+  "evidence": [
+   "the-church::0517"
+  ]
+ },
+ {
+  "name": "Aragon",
+  "type": "Place",
+  "description": "Iberian kingdom where Templars have been present since 1130.",
+  "evidence": [
+   "the-church::0495",
+   "the-church::0517"
+  ]
+ },
+ {
+  "name": "Portugal",
+  "type": "Place",
+  "description": "Iberian kingdom where Templars received their earliest Iberian donations.",
+  "evidence": [
+   "the-church::0494"
+  ]
+ },
+ {
+  "name": "Catalonia",
+  "type": "Place",
+  "description": "Region housing many Templar sisters and consoeurs.",
+  "evidence": [
+   "the-church::0493"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "aliases": [
+   "Iberian Peninsula"
+  ],
+  "description": "Peninsula of the Reconquista.",
+  "evidence": [
+   "the-church::0493"
+  ]
+ },
+ {
+  "name": "Antioch",
+  "type": "Place",
+  "description": "City reclaimed by Bohemond in 1219.",
+  "evidence": [
+   "the-church::0503",
+   "the-church::0532"
+  ]
+ },
+ {
+  "name": "Krak de Chevaliers",
+  "type": "Place",
+  "description": "Fortress granted to the Hospitallers around 1144.",
+  "evidence": [
+   "the-church::0506"
+  ]
+ },
+ {
+  "name": "Castle Pilgrim",
+  "type": "Place",
+  "aliases": [
+   "Athlit"
+  ],
+  "description": "Templar castle at Athlit housing Saint Euphemia's relics.",
+  "evidence": [
+   "the-church::0544"
+  ]
+ },
+ {
+  "name": "River Belus",
+  "type": "Place",
+  "description": "River in Acre where Templar and Hospitaller mills compete for water.",
+  "evidence": [
+   "the-church::0559"
+  ]
+ },
+ {
+  "name": "Calatrava",
+  "type": "Place",
+  "description": "Fortress in Castile where the Order of Calatrava was founded.",
+  "evidence": [
+   "the-church::0510"
+  ]
+ },
+ {
+  "name": "Culmerland",
+  "type": "Place",
+  "description": "Territory given to the Teutons by Frederick II.",
+  "evidence": [
+   "the-church::0508"
+  ]
+ },
+ {
+  "name": "Transylvanian Alps",
+  "type": "Place",
+  "description": "Holdings granted to the Teutons in 1211.",
+  "evidence": [
+   "the-church::0508"
+  ]
+ },
+ {
+  "name": "Templeštejn",
+  "type": "Place",
+  "description": "Future Templar preceptory in Moravia.",
+  "evidence": [
+   "the-church::0498"
+  ]
+ },
+ {
+  "name": "Čejkovice",
+  "type": "Place",
+  "description": "Future Templar preceptory in Moravia.",
+  "evidence": [
+   "the-church::0498"
+  ]
+ },
+ {
+  "name": "Tempelburg",
+  "type": "Place",
+  "description": "Future Templar site in Prussia.",
+  "evidence": [
+   "the-church::0498"
+  ]
+ },
+ {
+  "name": "Łuków",
+  "type": "Place",
+  "description": "Future Templar site in Prussia.",
+  "evidence": [
+   "the-church::0498"
+  ]
+ },
+ {
+  "name": "Esztergom",
+  "type": "Place",
+  "description": "Future Templar site in Hungary.",
+  "evidence": [
+   "the-church::0498"
+  ]
+ },
+ {
+  "name": "Egyházasfalu",
+  "type": "Place",
+  "description": "Future Templar site in Hungary.",
+  "evidence": [
+   "the-church::0498"
+  ]
+ },
+ {
+  "name": "Assisi",
+  "type": "Place",
+  "description": "Italian town where Francis lived.",
+  "evidence": [
+   "the-church::0598"
+  ]
+ },
+ {
+  "name": "Church of the Holy Sepulchre",
+  "type": "Place",
+  "aliases": [
+   "Temple of the Holy Sepulchre"
+  ],
+  "description": "Church whose dome appears on the grand master's seal.",
+  "evidence": [
+   "the-church::0526",
+   "the-church::0561"
+  ]
+ },
+ {
+  "name": "Church of the Blessed Mary of Nazareth",
+  "type": "Place",
+  "description": "Church whose pillars sanctify Templar woolen cords.",
+  "evidence": [
+   "the-church::0561"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [
+   "Outremer"
+  ],
+  "description": "Region of the crusader states and Templar activity.",
+  "evidence": [
+   "the-church::0501"
+  ]
+ },
+ {
+  "name": "Kingdom of Jerusalem",
+  "type": "Place",
+  "description": "Crusader kingdom whose throne is disputed.",
+  "evidence": [
+   "the-church::0501"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting.",
+  "evidence": [
+   "the-church::0505",
+   "the-church::0520"
+  ]
+ },
+ {
+  "name": "Tribunal of Thebes",
+  "type": "Tribunal",
+  "description": "Hermetic Tribunal where Templar tomb-raiders compete with Seekers.",
+  "evidence": [
+   "the-church::0507"
+  ]
+ },
+ {
+  "name": "La Rochelle",
+  "type": "Place",
+  "description": "Western town with Templar holdings.",
+  "evidence": [
+   "the-church::0532"
+  ]
+ },
+ {
+  "name": "Armenia",
+  "type": "Place",
+  "description": "Kingdom in conflict with the Templars.",
+  "evidence": [
+   "the-church::0501",
+   "the-church::0503"
+  ]
+ },
+ {
+  "name": "Omne datum optimum",
+  "type": "Item",
+  "description": "Papal bull of 1139 by Innocent II exempting the Templars from all but papal authority and granting them their own priests.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0484",
+   "the-church::0536"
+  ]
+ },
+ {
+  "name": "Milites Templi",
+  "type": "Item",
+  "description": "Bull proclaimed by Celestine II in 1144 describing Templars as defenders of pilgrims.",
+  "evidence": [
+   "the-church::0485"
+  ]
+ },
+ {
+  "name": "Milites Dei",
+  "type": "Item",
+  "description": "Bull of Eugenius III in 1145 clarifying Templar clergy rights.",
+  "evidence": [
+   "the-church::0485"
+  ]
+ },
+ {
+  "name": "Magna Carta",
+  "type": "Item",
+  "description": "Charter signed by King John at Runnymede on Aymeric's advice.",
+  "evidence": [
+   "the-church::0487"
+  ]
+ },
+ {
+  "name": "Constitutions of Clarendon",
+  "type": "Item",
+  "description": "Accepted by Thomas Becket at Templar persuasion.",
+  "evidence": [
+   "the-church::0487"
+  ]
+ },
+ {
+  "name": "Templar Rule",
+  "type": "Item",
+  "aliases": [
+   "Rule of the Templars"
+  ],
+  "description": "The strict rule governing Templar organization, hierarchy, penances and tactics, in seven sections.",
+  "evidence": [
+   "the-church::0554",
+   "the-church::0555",
+   "the-church::0546"
+  ]
+ },
+ {
+  "name": "Beauseant",
+  "type": "Item",
+  "description": "The sacred black and white Templar banner; while raised no Templar may retreat.",
+  "evidence": [
+   "the-church::0528",
+   "the-church::0547",
+   "the-church::0548"
+  ]
+ },
+ {
+  "name": "Grand Master's Seal",
+  "type": "Item",
+  "description": "Double-sided seal and Divine relic with Faith Score 1 granting Divine Might 10 and protection against gluttony.",
+  "evidence": [
+   "the-church::0526"
+  ]
+ },
+ {
+  "name": "Seal of the Templar Master of England",
+  "type": "Item",
+  "description": "Seal bearing the Agnus Dei.",
+  "evidence": [
+   "the-church::0526",
+   "the-church::0527"
+  ]
+ },
+ {
+  "name": "Sword of Tytalus",
+  "type": "Item",
+  "description": "Legendary Hermetic heirloom said possessed by Rothelin.",
+  "evidence": [
+   "the-church::0513"
+  ]
+ },
+ {
+  "name": "Crown of Thorns",
+  "type": "Item",
+  "description": "Relic displayed flowering in the grand master's hands every Holy Thursday.",
+  "evidence": [
+   "the-church::0544"
+  ]
+ },
+ {
+  "name": "Bathtub Cross",
+  "type": "Item",
+  "description": "Bronze cross made from Christ's bathtub, which heals and brings rain.",
+  "evidence": [
+   "the-church::0544"
+  ]
+ },
+ {
+  "name": "Footwashing Bowl Cross",
+  "type": "Item",
+  "description": "Cross made from the bronze bowl Christ used to wash the apostles' feet.",
+  "evidence": [
+   "the-church::0544"
+  ]
+ },
+ {
+  "name": "Phial of Christ's Blood",
+  "type": "Item",
+  "description": "Crystal phial containing Christ's blood, authenticated by the Patriarch of Jerusalem.",
+  "evidence": [
+   "the-church::0545"
+  ]
+ },
+ {
+  "name": "True Cross",
+  "type": "Item",
+  "description": "Fragments held by the Templars.",
+  "evidence": [
+   "the-church::0545"
+  ]
+ },
+ {
+  "name": "Woolen Cords",
+  "type": "Item",
+  "description": "Templar cords worn as a belt, believed sacred and granting strength of will to remain chaste.",
+  "evidence": [
+   "the-church::0560",
+   "the-church::0561"
+  ]
+ },
+ {
+  "name": "Templar Ciphers",
+  "type": "Item",
+  "description": "Encryption ledgers protecting Templar communications, kept secretly in provincial commanderies.",
+  "evidence": [
+   "the-church::0588",
+   "the-church::0589"
+  ]
+ },
+ {
+  "name": "Letter of Credit",
+  "type": "Concept",
+  "description": "Templar banking instrument allowing pilgrims to deposit wealth and retrieve it elsewhere.",
+  "evidence": [
+   "the-church::0567",
+   "the-church::0568"
+  ]
+ },
+ {
+  "name": "Fifth Crusade",
+  "type": "Concept",
+  "description": "Crusade (1217-1221) targeting Egypt.",
+  "evidence": [
+   "the-church::0481",
+   "the-church::0490",
+   "the-church::0548"
+  ]
+ },
+ {
+  "name": "Second Crusade",
+  "type": "Concept",
+  "description": "Crusade (1147-1149) in which Templars took leading roles.",
+  "evidence": [
+   "the-church::0482",
+   "the-church::0483"
+  ]
+ },
+ {
+  "name": "Third Crusade",
+  "type": "Concept",
+  "description": "Crusade (1187-1192) following the loss at Hattin.",
+  "evidence": [
+   "the-church::0483"
+  ]
+ },
+ {
+  "name": "Fourth Crusade",
+  "type": "Concept",
+  "description": "Crusade (1202-1204) that captured Constantinople.",
+  "evidence": [
+   "the-church::0483"
+  ]
+ },
+ {
+  "name": "Albigensian Crusade",
+  "type": "Concept",
+  "description": "Crusade (1209-1229) against the Cathars in which Templars stayed neutral.",
+  "evidence": [
+   "the-church::0483",
+   "the-church::0484"
+  ]
+ },
+ {
+  "name": "First Crusade",
+  "type": "Concept",
+  "description": "Crusade before which the Hospitallers began.",
+  "evidence": [
+   "the-church::0506"
+  ]
+ },
+ {
+  "name": "Reconquista",
+  "type": "Concept",
+  "description": "Christian reconquest of Iberia supported by the Templars.",
+  "evidence": [
+   "the-church::0493",
+   "the-church::0510"
+  ]
+ },
+ {
+  "name": "Battle of Hattin",
+  "type": "Concept",
+  "description": "Humiliating Christian defeat leading to the loss of Jerusalem.",
+  "evidence": [
+   "the-church::0483"
+  ]
+ },
+ {
+  "name": "Council of Troyes",
+  "type": "Concept",
+  "description": "Council where the Templars officially received their rule.",
+  "evidence": [
+   "the-church::0480",
+   "the-church::0486"
+  ]
+ },
+ {
+  "name": "Third Lateran Council",
+  "type": "Concept",
+  "description": "Council of 1179 where bishops accused Templars of abuses.",
+  "evidence": [
+   "the-church::0558"
+  ]
+ },
+ {
+  "name": "Baillia",
+  "type": "Concept",
+  "description": "Revenue districts of English Templar holdings.",
+  "evidence": [
+   "the-church::0487",
+   "the-church::0488"
+  ]
+ },
+ {
+  "name": "General Chapter",
+  "type": "Concept",
+  "description": "Secret decision-making meetings of the Templars held in Acre.",
+  "evidence": [
+   "the-church::0518"
+  ]
+ },
+ {
+  "name": "College of 13",
+  "type": "Concept",
+  "description": "Electoral body of 13 that chooses a Templar grand master.",
+  "evidence": [
+   "the-church::0524",
+   "the-church::0525"
+  ]
+ },
+ {
+  "name": "Grand Master",
+  "type": "Concept",
+  "description": "Supreme leader of the Templars, elected for life, with Holy Influence.",
+  "evidence": [
+   "the-church::0523"
+  ]
+ },
+ {
+  "name": "Grand Commander",
+  "type": "Concept",
+  "aliases": [
+   "Seneschal"
+  ],
+  "description": "Great official second only to the grand master, carrying the beauseant.",
+  "evidence": [
+   "the-church::0528"
+  ]
+ },
+ {
+  "name": "Marshal",
+  "type": "Concept",
+  "description": "Chief military commander of the Templars.",
+  "evidence": [
+   "the-church::0528"
+  ]
+ },
+ {
+  "name": "Draper",
+  "type": "Concept",
+  "description": "Great official responsible for clothing.",
+  "evidence": [
+   "the-church::0528",
+   "the-church::0529"
+  ]
+ },
+ {
+  "name": "Commander of the Land of Jerusalem",
+  "type": "Concept",
+  "description": "Templar treasurer responsible for the storehouse in Acre.",
+  "evidence": [
+   "the-church::0528",
+   "the-church::0529"
+  ]
+ },
+ {
+  "name": "Master on This Side of the Sea",
+  "type": "Concept",
+  "description": "Officer sometimes appointed to oversee Western provinces.",
+  "evidence": [
+   "the-church::0517"
+  ]
+ },
+ {
+  "name": "Turcopolier",
+  "type": "Concept",
+  "description": "Official responsible for mercenary cavalry and brother-sergeants.",
+  "evidence": [
+   "the-church::0531"
+  ]
+ },
+ {
+  "name": "Gonfanier",
+  "type": "Concept",
+  "description": "Banner-bearer of the Templars.",
+  "evidence": [
+   "the-church::0531",
+   "the-church::0548"
+  ]
+ },
+ {
+  "name": "Infirmarer",
+  "type": "Concept",
+  "description": "Chief surgeon of the Templars.",
+  "evidence": [
+   "the-church::0531"
+  ]
+ },
+ {
+  "name": "Commander of the Knights",
+  "type": "Concept",
+  "description": "Commander over the brother-knights under the marshal.",
+  "evidence": [
+   "the-church::0531"
+  ]
+ },
+ {
+  "name": "Under-Marshal",
+  "type": "Concept",
+  "description": "Brother-sergeant supporting the marshal.",
+  "evidence": [
+   "the-church::0531"
+  ]
+ },
+ {
+  "name": "Commanding Aura",
+  "type": "Concept",
+  "description": "Virtue bestowed on the grand master, granting Magic Resistance 10.",
+  "evidence": [
+   "the-church::0524"
+  ]
+ },
+ {
+  "name": "Divine Elections",
+  "type": "Concept",
+  "description": "Procedure for electing a grand master.",
+  "evidence": [
+   "the-church::0524",
+   "the-church::0525"
+  ]
+ },
+ {
+  "name": "Trained Group Combat",
+  "type": "Concept",
+  "description": "Rule letting Templars who train a season fight as a trained group.",
+  "evidence": [
+   "the-church::0533",
+   "the-church::0544",
+   "the-church::0545"
+  ]
+ },
+ {
+  "name": "Calling on God's Aid",
+  "type": "Concept",
+  "description": "Templar practice of calling God's aid before battle.",
+  "evidence": [
+   "the-church::0547"
+  ]
+ },
+ {
+  "name": "Templar Sign Language",
+  "type": "Concept",
+  "description": "Limited hand signal language of the Templars.",
+  "evidence": [
+   "the-church::0588",
+   "the-church::0589"
+  ]
+ },
+ {
+  "name": "Templar Prisons",
+  "type": "Concept",
+  "description": "Secret Templar prisons across Mythic Europe.",
+  "evidence": [
+   "the-church::0549"
+  ]
+ },
+ {
+  "name": "Petitioning",
+  "type": "Concept",
+  "description": "Clerical activity; Templar clergy petition commanders, grand master or pope.",
+  "evidence": [
+   "the-church::0539"
+  ]
+ },
+ {
+  "name": "Holy Influence",
+  "type": "Concept",
+  "description": "Spiritual power the grand master may exercise as a priest.",
+  "evidence": [
+   "the-church::0523"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Code"
+  ],
+  "description": "Hermetic law raised by Templar requests for magical aid.",
+  "evidence": [
+   "the-church::0491",
+   "the-church::0496"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "description": "State that an archmage approaches before becoming a confrater.",
+  "evidence": [
+   "the-church::0491"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Magical resource harvested from mythic sites in England.",
+  "evidence": [
+   "the-church::0492"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Protection granted by the grand master's aura and seal.",
+  "evidence": [
+   "the-church::0524",
+   "the-church::0526"
+  ]
+ },
+ {
+  "name": "Divine Might",
+  "type": "Concept",
+  "description": "Might score of the grand master's seal.",
+  "evidence": [
+   "the-church::0526"
+  ]
+ },
+ {
+  "name": "Faith Score",
+  "type": "Concept",
+  "description": "Score of the grand master's seal.",
+  "evidence": [
+   "the-church::0526"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "Magic auras"
+  ],
+  "description": "Auras in the wilds encroached upon by Templars.",
+  "evidence": [
+   "the-church::0563"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "description": "Reputation granted by Templar Virtues.",
+  "evidence": [
+   "the-church::0585",
+   "the-church::0587"
+  ]
+ },
+ {
+  "name": "Mythic Pennies",
+  "type": "Concept",
+  "description": "Currency hoarded by Nicholas.",
+  "evidence": [
+   "the-church::0541"
+  ]
+ },
+ {
+  "name": "Brother-Servants",
+  "type": "Concept",
+  "description": "Non-military brother-sergeants.",
+  "evidence": [
+   "the-church::0535"
+  ]
+ },
+ {
+  "name": "Confreres and Consoeurs",
+  "type": "Concept",
+  "aliases": [
+   "Confreres",
+   "Consoeurs"
+  ],
+  "description": "Associate members of the Templars.",
+  "evidence": [
+   "the-church::0486",
+   "the-church::0539"
+  ]
+ },
+ {
+  "name": "Hermetic Seekers",
+  "type": "Concept",
+  "aliases": [
+   "Seekers"
+  ],
+  "description": "Magi who seek lost treasures.",
+  "evidence": [
+   "the-church::0507",
+   "the-church::0574"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "description": "Hermetic assembly the Templar envoys ask to appear at.",
+  "evidence": [
+   "the-church::0527"
+  ]
+ },
+ {
+  "name": "Poulains",
+  "type": "Concept",
+  "description": "Syrian-born Westerners among the brother-knights.",
+  "evidence": [
+   "the-church::0575"
+  ]
+ },
+ {
+  "name": "Novices",
+  "type": "Concept",
+  "description": "Children admitted to the Templars.",
+  "evidence": [
+   "the-church::0553"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "Divine realm that shrouds Templar preceptories.",
+  "evidence": [
+   "the-church::0492"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of demons; Templar chapters may be Infernally corrupted.",
+  "evidence": [
+   "the-church::0520",
+   "the-church::0521"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm of relics and angels.",
+  "evidence": [
+   "the-church::0526",
+   "the-church::0544"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "description": "One who makes deals with demons such as a False God.",
+  "evidence": [
+   "the-church::0496"
+  ]
+ },
+ {
+  "name": "Sahir",
+  "type": "CharacterType",
+  "description": "Muslim sorcerer commanding jinn.",
+  "evidence": [
+   "the-church::0547"
+  ]
+ },
+ {
+  "name": "Jinn",
+  "type": "Creature",
+  "description": "Spirits commanded by a sahir.",
+  "evidence": [
+   "the-church::0547"
+  ]
+ },
+ {
+  "name": "Guardian Angels",
+  "type": "Creature",
+  "description": "Protect Templar storehouses.",
+  "evidence": [
+   "the-church::0492"
+  ]
+ },
+ {
+  "name": "Brother-Knight",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for a Templar brother-knight.",
+  "evidence": [
+   "the-church::0577",
+   "the-church::0533"
+  ]
+ },
+ {
+  "name": "Brother-Priest",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for a Templar chaplain.",
+  "evidence": [
+   "the-church::0579",
+   "the-church::0536"
+  ]
+ },
+ {
+  "name": "Brother-Sergeant",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for a Templar brother-sergeant.",
+  "evidence": [
+   "the-church::0580",
+   "the-church::0535"
+  ]
+ },
+ {
+  "name": "Templar Confrere or Consoeur",
+  "type": "Virtue",
+  "description": "Free Social Status Virtue for associate membership.",
+  "evidence": [
+   "the-church::0581"
+  ]
+ },
+ {
+  "name": "Templar Servant",
+  "type": "Virtue",
+  "description": "Free Social Status Virtue for a servant of a Templar commandery.",
+  "evidence": [
+   "the-church::0582"
+  ]
+ },
+ {
+  "name": "Templar Specialist",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for a skilled Templar employee.",
+  "evidence": [
+   "the-church::0583"
+  ]
+ },
+ {
+  "name": "Templar Administrator",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for an administrator of Templar holdings.",
+  "evidence": [
+   "the-church::0584"
+  ]
+ },
+ {
+  "name": "Commander",
+  "type": "Virtue",
+  "description": "Major Social Status Virtue for a Templar commander, grants Temporal Influence.",
+  "evidence": [
+   "the-church::0585"
+  ]
+ },
+ {
+  "name": "Office Holder",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for holding a Templar office.",
+  "evidence": [
+   "the-church::0586"
+  ]
+ },
+ {
+  "name": "Templar Prestige",
+  "type": "Virtue",
+  "description": "Minor General Virtue granting Reputation 3 within the Templars.",
+  "evidence": [
+   "the-church::0587"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Minor Virtue granted by Commander.",
+  "evidence": [
+   "the-church::0585",
+   "the-church::0586"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "description": "Major Virtue representing discretionary time for Templars.",
+  "evidence": [
+   "the-church::0574",
+   "the-church::0591"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "Virtue",
+  "description": "Minor Virtue not compatible with Brother-Knight.",
+  "evidence": [
+   "the-church::0577"
+  ]
+ },
+ {
+  "name": "Priest",
+  "type": "Virtue",
+  "description": "Minor Virtue.",
+  "evidence": [
+   "the-church::0577",
+   "the-church::0579"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "description": "Major Virtue.",
+  "evidence": [
+   "the-church::0577",
+   "the-church::0581"
+  ]
+ },
+ {
+  "name": "Gossip",
+  "type": "Virtue",
+  "description": "Virtue for Templar advisors.",
+  "evidence": [
+   "the-church::0569"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "description": "Virtue for Templar advisors.",
+  "evidence": [
+   "the-church::0569"
+  ]
+ },
+ {
+  "name": "Warrior",
+  "type": "Virtue",
+  "description": "Virtue of the sample brother-sergeant.",
+  "evidence": [
+   "the-church::0593"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "description": "Virtue of the sample brother-priest.",
+  "evidence": [
+   "the-church::0595",
+   "the-church::0597"
+  ]
+ },
+ {
+  "name": "Student of the Divine",
+  "type": "Virtue",
+  "description": "Virtue of the sample brother-priest.",
+  "evidence": [
+   "the-church::0596"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "description": "Social Status Virtue.",
+  "evidence": [
+   "the-church::0581"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "Virtue",
+  "description": "Social Status Virtue.",
+  "evidence": [
+   "the-church::0581"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "description": "Major Flaw representing many responsibilities.",
+  "evidence": [
+   "the-church::0574"
+  ]
+ },
+ {
+  "name": "Outsider",
+  "type": "Flaw",
+  "description": "Flaw for Muslim Templar specialists.",
+  "evidence": [
+   "the-church::0583"
+  ]
+ },
+ {
+  "name": "Story Flaw",
+  "type": "Flaw",
+  "description": "Flaw type for Templar characters.",
+  "evidence": [
+   "the-church::0564"
+  ]
+ },
+ {
+  "name": "Difficult Underlings",
+  "type": "Flaw",
+  "description": "Flaw of the sample brother-knight.",
+  "evidence": [
+   "the-church::0591"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "description": "Flaw of the sample brother-knight.",
+  "evidence": [
+   "the-church::0591"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "description": "Flaw of the sample brother-sergeant.",
+  "evidence": [
+   "the-church::0593"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Flaw",
+  "description": "Flaw of the sample brother-sergeant.",
+  "evidence": [
+   "the-church::0593"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Flaw of the sample brother-priest.",
+  "evidence": [
+   "the-church::0596"
+  ]
+ },
+ {
+  "name": "Raised from the Dead",
+  "type": "Flaw",
+  "description": "Flaw of the sample brother-priest.",
+  "evidence": [
+   "the-church::0596"
+  ]
+ },
+ {
+  "name": "Lecherous",
+  "type": "Flaw",
+  "description": "Flaw of the sample brother-priest.",
+  "evidence": [
+   "the-church::0596"
+  ]
+ },
+ {
+  "name": "Peasant",
+  "type": "Flaw",
+  "description": "Social Status Flaw.",
+  "evidence": [
+   "the-church::0581"
+  ]
+ },
+ {
+  "name": "Organization Lore: Knights Templar",
+  "type": "Ability",
+  "description": "Knowledge of Templar rule, members, provinces, sign language and ciphers.",
+  "evidence": [
+   "the-church::0588",
+   "the-church::0589",
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0588",
+   "the-church::0597"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0593"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0593"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0593"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0593"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0597"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0597"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0597"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0597"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Native Language",
+  "type": "Ability",
+  "description": "Ability listed on a Templar sample character.",
+  "evidence": [
+   "the-church::0592"
+  ]
+ },
+ {
+  "name": "Brother-Knight (Templar)",
+  "type": "CharacterType",
+  "description": "Core Templar rank of noble birth wearing white mantles with red cross.",
+  "evidence": [
+   "the-church::0533",
+   "the-church::0534"
+  ]
+ },
+ {
+  "name": "Brother-Sergeant (Templar)",
+  "type": "CharacterType",
+  "description": "Subordinate Templar rank of common birth wearing black mantles.",
+  "evidence": [
+   "the-church::0535",
+   "the-church::0578"
+  ]
+ },
+ {
+  "name": "Brother-Priest (Templar)",
+  "type": "CharacterType",
+  "description": "Templar chaplain second in spiritual authority only to the pope.",
+  "evidence": [
+   "the-church::0536",
+   "the-church::0537"
+  ]
+ }
+]

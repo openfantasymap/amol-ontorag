@@ -1,0 +1,3315 @@
+[
+ {
+  "name": "Exceptional Servant",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A type of faerie related to the mentor that takes an adolescent on an adventure, leaving them with excellent prospects, then feeds on the vitality of the family.",
+  "evidence": [
+   "realms-of-power-faerie::0480"
+  ]
+ },
+ {
+  "name": "Centaur",
+  "type": "Creature",
+  "aliases": [
+   "Hippocentaur",
+   "Centaurs"
+  ],
+  "description": "Faerie composite of horse and human that acts as a mentor guiding the young hero to adulthood; modern hippocentaurs are faerie duplicates of the ancient centaurs.",
+  "evidence": [
+   "realms-of-power-faerie::0481",
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0484"
+  ]
+ },
+ {
+  "name": "Nuckalevee",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Irish faerie like a flayed centaur that lairs in the sea and forages for human victims ashore; its breath causes plague and it fears fresh water.",
+  "evidence": [
+   "realms-of-power-faerie::0485"
+  ]
+ },
+ {
+  "name": "Faerie Rival",
+  "type": "CharacterType",
+  "aliases": [
+   "Rivals"
+  ],
+  "description": "A faerie given form by a character's emotionally charged injury, which must be overcome for the character to claim his birthright or adult role.",
+  "evidence": [
+   "realms-of-power-faerie::0486"
+  ]
+ },
+ {
+  "name": "Master of Skills",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Faeries that seek out mortals at the peak of their profession to raise them up or cast them down, having the disputed Ability as a Pretense of at least 9.",
+  "evidence": [
+   "realms-of-power-faerie::0495"
+  ]
+ },
+ {
+  "name": "Fachan",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One-eyed, one-armed, one-legged faerie of distant lochs and valleys in Ireland and Scotland that hates humans and fights with club or poisoned flail.",
+  "evidence": [
+   "realms-of-power-faerie::0489",
+   "realms-of-power-faerie::0490",
+   "realms-of-power-faerie::0491"
+  ]
+ },
+ {
+  "name": "Fer Caille",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Irish fachan-like creature that acts as a faerie herdsman and is accompanied by a hag.",
+  "evidence": [
+   "realms-of-power-faerie::0491"
+  ]
+ },
+ {
+  "name": "Direach",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A gigantic version of the Fachan found in the Scottish Highlands.",
+  "evidence": [
+   "realms-of-power-faerie::0491"
+  ]
+ },
+ {
+  "name": "Faerie Knight",
+  "type": "Creature",
+  "aliases": [
+   "Knight (Minor)",
+   "Faerie Knights"
+  ],
+  "description": "Faerie in the role of a knight, clad in silver leaves of metal, that seeks defeat by humans to gain combat Pretenses and is bound by chivalry.",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0493",
+   "realms-of-power-faerie::0494"
+  ]
+ },
+ {
+  "name": "The Fatae",
+  "type": "Creature",
+  "aliases": [
+   "Fatae"
+  ],
+  "description": "Faeries who humble women who boast of their weaving.",
+  "evidence": [
+   "realms-of-power-faerie::0495"
+  ]
+ },
+ {
+  "name": "Selkie",
+  "type": "Creature",
+  "aliases": [
+   "Selkies"
+  ],
+  "description": "Human-shaped faeries living beneath the waters who change into seal shape; if their seal skins are stolen they may be forced to become spouses.",
+  "evidence": [
+   "realms-of-power-faerie::0495",
+   "realms-of-power-faerie::0570",
+   "realms-of-power-faerie::0565"
+  ]
+ },
+ {
+  "name": "Barking Beast",
+  "type": "Creature",
+  "aliases": [
+   "Questing Beast"
+  ],
+  "description": "Faerie beast that lives to be hunted, with the body of a leopard and a baying of hounds from its belly; the greatest test of a hunter's skill.",
+  "evidence": [
+   "realms-of-power-faerie::0496",
+   "realms-of-power-faerie::0497",
+   "realms-of-power-faerie::0498"
+  ]
+ },
+ {
+  "name": "Zlatorog",
+  "type": "Creature",
+  "aliases": [
+   "Zlatrog"
+  ],
+  "description": "White chamois with golden horns on Mount Triglav in Slovenia that tricks hunters into falling over precipices and heals by eating the red flower grown from its blood.",
+  "evidence": [
+   "realms-of-power-faerie::0499"
+  ]
+ },
+ {
+  "name": "Psychopomp",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A faerie that leads the spirits of the dead to an afterlife, a role of Hermes in classical times, now rare because of the Dominion.",
+  "evidence": [
+   "realms-of-power-faerie::0501"
+  ]
+ },
+ {
+  "name": "Valkyrie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Shield maidens or crones of the Norse pantheon riding wolves above battlefields who choose the worthy dead to become einherjar; encountered by magi in Arcadia.",
+  "evidence": [
+   "realms-of-power-faerie::0502",
+   "realms-of-power-faerie::0503"
+  ]
+ },
+ {
+  "name": "Wolf Mount",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Horse-sized wolf made of a Valkyrie's glamour, sharing her Might pool and flying when she does.",
+  "evidence": [
+   "realms-of-power-faerie::0504"
+  ]
+ },
+ {
+  "name": "Einherjar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spiritual warriors chosen by the Valkyries, awaiting Ragnarok.",
+  "evidence": [
+   "realms-of-power-faerie::0502",
+   "realms-of-power-faerie::0503"
+  ]
+ },
+ {
+  "name": "Returned Dead",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Faeries that are, or pretend to be, humans who died and return, often believing they died at an unnatural time.",
+  "evidence": [
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "Aoroi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The summonable restless dead of ancient Greece, waiting on the worldly side of the Styx; important for divination by the chthonic cult that led to Houses Tytalus and Tremere.",
+  "evidence": [
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "Rusalka",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A type of water nymph, returned dead who come back so their tragedy can be replayed.",
+  "evidence": [
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "Ancestral Spirit",
+  "type": "CharacterType",
+  "aliases": [
+   "Ancestral Spirits"
+  ],
+  "description": "Faeries believing themselves the ancestor of all people within a family, taking on attributes from the family's history.",
+  "evidence": [
+   "realms-of-power-faerie::0506"
+  ]
+ },
+ {
+  "name": "Banshee",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Irish faerie and ghost of a woman who sings the death lament for her descendants and grants a wish to anyone claiming to be her foster child.",
+  "evidence": [
+   "realms-of-power-faerie::0506"
+  ]
+ },
+ {
+  "name": "Bean Nighe",
+  "type": "Creature",
+  "aliases": [
+   "Washerwoman"
+  ],
+  "description": "Washerwoman faerie of Scotland and Ireland seen washing the bloody clothes of one soon to die.",
+  "evidence": [
+   "realms-of-power-faerie::0506",
+   "realms-of-power-faerie::0507"
+  ]
+ },
+ {
+  "name": "Tomte",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Powerful Scandinavian brownie believing itself the spirit of the person who cleared the land on which the farm stands; aids fertility and cares for horses.",
+  "evidence": [
+   "realms-of-power-faerie::0506",
+   "realms-of-power-faerie::0507",
+   "realms-of-power-faerie::0515"
+  ]
+ },
+ {
+  "name": "Black Faced Hermes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie that comes down the chimney to take away unnatural children, abducting the Gifted and leaving them at covenant doors.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "The Mournful Maga",
+  "type": "Creature",
+  "aliases": [
+   "Mournful Maga"
+  ],
+  "description": "A faerie that apprentices face while growing up.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "The Seducer",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie that meets an apprentice before the Gauntlet, tempting him with a life of social acceptance and domesticity.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Ravagers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries that hunt magi seeking their longevity formula.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "The Retiarius",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie that chases potential familiars with his nets to force them to fight in faerie arenas.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Master of Challenges",
+  "type": "Creature",
+  "aliases": [
+   "The Master of Challenges"
+  ],
+  "description": "Creature tormenting magi deep in Arcadia that sometimes claims to be Tytalus, jailer of imprisoned Giants and Titans.",
+  "evidence": [
+   "realms-of-power-faerie::0509"
+  ]
+ },
+ {
+  "name": "Titans",
+  "type": "Creature",
+  "aliases": [
+   "Giants and Titans"
+  ],
+  "description": "Magic creatures imprisoned in the Faerie Lands since the Titanomachy, held by terrible faerie guardians.",
+  "evidence": [
+   "realms-of-power-faerie::0509"
+  ]
+ },
+ {
+  "name": "Giant",
+  "type": "Creature",
+  "aliases": [
+   "Giants"
+  ],
+  "description": "Creature type; Magic giants are imprisoned in Arcadia since the Gigantomachy, and most faerie courts are guarded by creatures designed as giants.",
+  "evidence": [
+   "realms-of-power-faerie::0509",
+   "realms-of-power-faerie::0518",
+   "realms-of-power-faerie::0488"
+  ]
+ },
+ {
+  "name": "Brownie",
+  "type": "Creature",
+  "aliases": [
+   "Brownies"
+  ],
+  "description": "Domestic faeries like shaggy foot-tall men, often nude, that do household work and stop serving if given clothes.",
+  "evidence": [
+   "realms-of-power-faerie::0512",
+   "realms-of-power-faerie::0513",
+   "realms-of-power-faerie::0514"
+  ]
+ },
+ {
+  "name": "Boggart",
+  "type": "Creature",
+  "aliases": [],
+  "description": "English trickster spirit causing havoc in the home; a brownie that has decided to be malicious.",
+  "evidence": [
+   "realms-of-power-faerie::0514"
+  ]
+ },
+ {
+  "name": "Portune",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tiny brownie-like faerie, half the size of a thumb, that roasts frogs on the fire while humans sleep.",
+  "evidence": [
+   "realms-of-power-faerie::0514"
+  ]
+ },
+ {
+  "name": "Ellyon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Welsh brownie-like faeries that vanish forever if they learn they are being spied upon.",
+  "evidence": [
+   "realms-of-power-faerie::0514"
+  ]
+ },
+ {
+  "name": "Heinzelmännchen",
+  "type": "Creature",
+  "aliases": [],
+  "description": "German brownie-like creatures resembling dwarfs; every house in Cologne once had one until a curious housewife broke their taboo.",
+  "evidence": [
+   "realms-of-power-faerie::0514"
+  ]
+ },
+ {
+  "name": "Domovoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Slavic brownie living beneath the threshold or stove, a hairy little man with tail and horns who predicts the future.",
+  "evidence": [
+   "realms-of-power-faerie::0514",
+   "realms-of-power-faerie::0515"
+  ]
+ },
+ {
+  "name": "Kikimora",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Wife of the domovoi who helps with chickens and spinning; seeing her spin is a presentiment of death.",
+  "evidence": [
+   "realms-of-power-faerie::0515"
+  ]
+ },
+ {
+  "name": "Feoderee",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The most physically imposing brownie, of the Isle of Man; a courtly faerie cursed to become a giant hairy monster.",
+  "evidence": [
+   "realms-of-power-faerie::0515",
+   "realms-of-power-faerie::0516"
+  ]
+ },
+ {
+  "name": "Ùruisg",
+  "type": "Creature",
+  "aliases": [
+   "Uruisg"
+  ],
+  "description": "Tiny satyr of Scotland that serves as a brownie, with a taste for dairy products and dairymaids.",
+  "evidence": [
+   "realms-of-power-faerie::0516"
+  ]
+ },
+ {
+  "name": "Courtly Faeries",
+  "type": "Creature",
+  "aliases": [
+   "Sidhe",
+   "Courtly Faerie"
+  ],
+  "description": "Faeries gathering in large courts that mimic human centers of power, ruled by monarchs and served by gentry, adopting human etiquette.",
+  "evidence": [
+   "realms-of-power-faerie::0518",
+   "realms-of-power-faerie::0531"
+  ]
+ },
+ {
+  "name": "Faerie Monarch",
+  "type": "CharacterType",
+  "aliases": [
+   "Faerie Monarchs"
+  ],
+  "description": "Ruler of a faerie court; the most powerful have Faerie Might around 60 and Penetration to challenge senior magi.",
+  "evidence": [
+   "realms-of-power-faerie::0518",
+   "realms-of-power-faerie::0519"
+  ]
+ },
+ {
+  "name": "White Lady",
+  "type": "Creature",
+  "aliases": [
+   "Dame Blanche",
+   "White Ladies"
+  ],
+  "description": "Powerful water-linked courtly faerie monarchs of Normandy, claiming to be nine Celtic sorceress princesses; steeped in Druid lore, some supported House Diedne.",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0522",
+   "realms-of-power-faerie::0523"
+  ]
+ },
+ {
+  "name": "Faerie Noble",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Faeries serving as monarchs of lesser courts or principal agents of great monarchs or pagan gods.",
+  "evidence": [
+   "realms-of-power-faerie::0524",
+   "realms-of-power-faerie::0526"
+  ]
+ },
+ {
+  "name": "The Privy Counselor",
+  "type": "Character",
+  "aliases": [
+   "Privy Counselor"
+  ],
+  "description": "Faerie noble trickster and saboteur sent by an angered monarch against a covenant, posing as a young nobleman.",
+  "evidence": [
+   "realms-of-power-faerie::0524",
+   "realms-of-power-faerie::0525",
+   "realms-of-power-faerie::0526"
+  ]
+ },
+ {
+  "name": "Sir Excelsis",
+  "type": "Character",
+  "aliases": [],
+  "description": "The most powerful faerie knight and champion of the White Lady's kingdom, clad in scaled armor of metal fern fronds with a burning fern motif.",
+  "evidence": [
+   "realms-of-power-faerie::0527",
+   "realms-of-power-faerie::0529",
+   "realms-of-power-faerie::0530"
+  ]
+ },
+ {
+  "name": "Faerie Horse",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie mount, sometimes constructed from a knight's own glamour so it flies when he does.",
+  "evidence": [
+   "realms-of-power-faerie::0493",
+   "realms-of-power-faerie::0529"
+  ]
+ },
+ {
+  "name": "Mimic Dogs",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creatures described by Roman writers that could be taught to repeat human actions; probably servant faeries destroyed by the Dominion.",
+  "evidence": [
+   "realms-of-power-faerie::0531"
+  ]
+ },
+ {
+  "name": "Sprite",
+  "type": "Creature",
+  "aliases": [
+   "Sprites"
+  ],
+  "description": "Tiny humanoid courtly faeries with bows used as envoys and saboteurs, attacking in swarms.",
+  "evidence": [
+   "realms-of-power-faerie::0532",
+   "realms-of-power-faerie::0533",
+   "realms-of-power-faerie::0534"
+  ]
+ },
+ {
+  "name": "Courts of Summer and Winter",
+  "type": "Faction",
+  "aliases": [
+   "Fertile and Infertile Courts"
+  ],
+  "description": "Seasonal faerie courts that fight battles on the Equinoxes, summer and winter defeating one another in turn.",
+  "evidence": [
+   "realms-of-power-faerie::0535",
+   "realms-of-power-faerie::0537"
+  ]
+ },
+ {
+  "name": "Cailleach Bheur",
+  "type": "Creature",
+  "aliases": [
+   "Cally Berry",
+   "Blue Hag"
+  ],
+  "description": "The blue hag of Ireland and Scotland representing winter, guardian of streams and wells, who spreads her plaid over the land until summer.",
+  "evidence": [
+   "realms-of-power-faerie::0538",
+   "realms-of-power-faerie::0539"
+  ]
+ },
+ {
+  "name": "Południca",
+  "type": "Creature",
+  "aliases": [
+   "Poludnica"
+  ],
+  "description": "Noon faerie appearing as maiden or crone with a scythe, who questions farmhands and strikes them with heatstroke if they fail.",
+  "evidence": [
+   "realms-of-power-faerie::0541",
+   "realms-of-power-faerie::0542",
+   "realms-of-power-faerie::0543"
+  ]
+ },
+ {
+  "name": "Kallikantzaroi",
+  "type": "Creature",
+  "aliases": [
+   "Kallikantzaro"
+  ],
+  "description": "Small Greek faeries living under the Earth sawing at the World Tree, allowed on the surface from Christmas until Epiphany.",
+  "evidence": [
+   "realms-of-power-faerie::0544",
+   "realms-of-power-faerie::0545",
+   "realms-of-power-faerie::0546"
+  ]
+ },
+ {
+  "name": "Jolarsveniar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norwegian faeries drawn to Christmas celebrations.",
+  "evidence": [
+   "realms-of-power-faerie::0544"
+  ]
+ },
+ {
+  "name": "Trows",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries of the Shetland Islands drawn to Christmas celebrations.",
+  "evidence": [
+   "realms-of-power-faerie::0544"
+  ]
+ },
+ {
+  "name": "Drekavac",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Serbian faerie drawn to Christmas celebrations.",
+  "evidence": [
+   "realms-of-power-faerie::0544"
+  ]
+ },
+ {
+  "name": "Faerie Hound",
+  "type": "Creature",
+  "aliases": [
+   "Faerie Hounds"
+  ],
+  "description": "Huge faerie dogs haunting roads of Mythic Europe that terrify and kill travelers; also the hunting hounds of the courtly fae.",
+  "evidence": [
+   "realms-of-power-faerie::0552",
+   "realms-of-power-faerie::0553"
+  ]
+ },
+ {
+  "name": "Aufhocker",
+  "type": "Creature",
+  "aliases": [],
+  "description": "German faerie hound variant that acts as a kelpie, clinging to foes with its adhere power while goring them.",
+  "evidence": [
+   "realms-of-power-faerie::0554"
+  ]
+ },
+ {
+  "name": "Kludie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Belgian, most powerful faerie hound variant, taking monstrous dog, cat, bat, horse or frog forms, preceded by blue flames.",
+  "evidence": [
+   "realms-of-power-faerie::0554"
+  ]
+ },
+ {
+  "name": "Kelpie",
+  "type": "Creature",
+  "aliases": [
+   "Water Horse"
+  ],
+  "description": "Pony-like water horse faerie that lures riders onto its back and plunges into the nearest lake.",
+  "evidence": [
+   "realms-of-power-faerie::0555",
+   "realms-of-power-faerie::0556"
+  ]
+ },
+ {
+  "name": "Grant",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Scottish faerie horse walking on its back legs that appears just before important buildings catch fire.",
+  "evidence": [
+   "realms-of-power-faerie::0557"
+  ]
+ },
+ {
+  "name": "Licho",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One-eyed old woman faerie personifying ill-fortune, who clings to victims and tricks them into self-harm.",
+  "evidence": [
+   "realms-of-power-faerie::0558",
+   "realms-of-power-faerie::0559"
+  ]
+ },
+ {
+  "name": "Donestre",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Lion-headed human faerie using Faerie Speech to lure travelers off roads to be eaten, then weeping beside their heads.",
+  "evidence": [
+   "realms-of-power-faerie::0560"
+  ]
+ },
+ {
+  "name": "Merfolk",
+  "type": "Creature",
+  "aliases": [
+   "Tritons",
+   "Triton",
+   "Mermaids",
+   "Mermen"
+  ],
+  "description": "Faeries human from the waist up living in clans beneath the waters where fishing is good; some gain their tails by magical red caps.",
+  "evidence": [
+   "realms-of-power-faerie::0562",
+   "realms-of-power-faerie::0564",
+   "realms-of-power-faerie::0565"
+  ]
+ },
+ {
+  "name": "Abgal",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Merfolk, possibly aligned with Magic, who tutored the earliest humans; modern mermen may be degenerate abgals.",
+  "evidence": [
+   "realms-of-power-faerie::0566"
+  ]
+ },
+ {
+  "name": "Gigantic Sovereigns",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The increasingly large rulers of the merfolk.",
+  "evidence": [
+   "realms-of-power-faerie::0566"
+  ]
+ },
+ {
+  "name": "Havfrue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Mermaid whose sighting warns of storms; herds white cattle on terrestrial grass during fogs.",
+  "evidence": [
+   "realms-of-power-faerie::0566"
+  ]
+ },
+ {
+  "name": "Hakennman",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Merman with the body and tail of a fish and a human torso rising from the front.",
+  "evidence": [
+   "realms-of-power-faerie::0566"
+  ]
+ },
+ {
+  "name": "Icthyocentaur",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creature with human torso and head, fish or dolphin tail, and horse front legs.",
+  "evidence": [
+   "realms-of-power-faerie::0566"
+  ]
+ },
+ {
+  "name": "Selkie King",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Powerful ruler of the selkies, who comes ashore to seek brides and can raise storms when selkie blood is spilled.",
+  "evidence": [
+   "realms-of-power-faerie::0568",
+   "realms-of-power-faerie::0569",
+   "realms-of-power-faerie::0570"
+  ]
+ },
+ {
+  "name": "Roane",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Smaller, less bloodthirsty Highland version of the selkie.",
+  "evidence": [
+   "realms-of-power-faerie::0571"
+  ]
+ },
+ {
+  "name": "Seal",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Mundane animal whose statistics serve as the alternate form of a selkie.",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Fool's Fire",
+  "type": "Creature",
+  "aliases": [
+   "Will o' the Wisp"
+  ],
+  "description": "Tiny flickering faerie lights, also called will o' the wisps, that guide lost travelers into dangerous marsh terrain.",
+  "evidence": [
+   "realms-of-power-faerie::0574"
+  ]
+ },
+ {
+  "name": "Nymph",
+  "type": "Creature",
+  "aliases": [
+   "Nymphs"
+  ],
+  "description": "Faeries that guard rivers and wells; the White Ladies range down to lesser nymphs of wells.",
+  "evidence": [
+   "realms-of-power-faerie::0575",
+   "realms-of-power-faerie::0522",
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "Great Lezi",
+  "type": "Creature",
+  "aliases": [
+   "Forest Lord"
+  ],
+  "description": "Slavic Forest Lord who can take any plant or animal shape and size, commanding woodland animals, especially wolves.",
+  "evidence": [
+   "realms-of-power-faerie::0579",
+   "realms-of-power-faerie::0580",
+   "realms-of-power-faerie::0581"
+  ]
+ },
+ {
+  "name": "Lezi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The more-common lezi, a form of faun.",
+  "evidence": [
+   "realms-of-power-faerie::0581"
+  ]
+ },
+ {
+  "name": "Basajaun",
+  "type": "Creature",
+  "aliases": [
+   "Basajauns"
+  ],
+  "description": "Gigantic red-furred fauns of the Basque country who became agricultural faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0582"
+  ]
+ },
+ {
+  "name": "Faun",
+  "type": "Creature",
+  "aliases": [
+   "Fauns"
+  ],
+  "description": "Rugged horned, goat-legged wild men embodying masculinity and forest secrecy, who play wild music and create endless wine.",
+  "evidence": [
+   "realms-of-power-faerie::0583",
+   "realms-of-power-faerie::0584",
+   "realms-of-power-faerie::0585"
+  ]
+ },
+ {
+  "name": "Satyr",
+  "type": "Creature",
+  "aliases": [
+   "Satyrs"
+  ],
+  "description": "Smaller, cowardly faun-like faeries with donkey ears and horse tails, notorious for sexual violence.",
+  "evidence": [
+   "realms-of-power-faerie::0586",
+   "realms-of-power-faerie::0587",
+   "realms-of-power-faerie::0588"
+  ]
+ },
+ {
+  "name": "Glastig",
+  "type": "Creature",
+  "aliases": [
+   "Green Maiden"
+  ],
+  "description": "Scottish faerie, the Green Maiden, an attractive blonde woman hiding goat limbs under a green dress.",
+  "evidence": [
+   "realms-of-power-faerie::0586"
+  ]
+ },
+ {
+  "name": "Iopontes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faun-like creatures with the lower parts of horses.",
+  "evidence": [
+   "realms-of-power-faerie::0586"
+  ]
+ },
+ {
+  "name": "Panes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Satyrs with goat legs and tails.",
+  "evidence": [
+   "realms-of-power-faerie::0586"
+  ]
+ },
+ {
+  "name": "Satyriskoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Child-satyrs.",
+  "evidence": [
+   "realms-of-power-faerie::0586"
+  ]
+ },
+ {
+  "name": "Seilenoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Aged, highly cognizant satyrs from ancient times, treated as fathers by modern satyrs.",
+  "evidence": [
+   "realms-of-power-faerie::0586"
+  ]
+ },
+ {
+  "name": "Tityroi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Satyrs that play magical shepherd's pipes.",
+  "evidence": [
+   "realms-of-power-faerie::0586"
+  ]
+ },
+ {
+  "name": "Koerakoonlane",
+  "type": "Creature",
+  "aliases": [
+   "Koerakoonlased",
+   "Cynocephalus"
+  ],
+  "description": "Dog-human hybrid faeries of the frozen north who raid settlements on dog sleds to take slaves.",
+  "evidence": [
+   "realms-of-power-faerie::0591",
+   "realms-of-power-faerie::0593",
+   "realms-of-power-faerie::0595"
+  ]
+ },
+ {
+  "name": "Hemicynes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Peaceful dog-headed people from the far north in western European folklore.",
+  "evidence": [
+   "realms-of-power-faerie::0595"
+  ]
+ },
+ {
+  "name": "Naval Koerakoonlased",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Peaceful farming koerakoonlased on an island found by Kalevipoeg, who became fishers.",
+  "evidence": [
+   "realms-of-power-faerie::0595",
+   "realms-of-power-faerie::0596"
+  ]
+ },
+ {
+  "name": "Dwarf",
+  "type": "Creature",
+  "aliases": [
+   "Dwarfs"
+  ],
+  "description": "Small bearded subterranean faeries guarding the entrances to the earth in caves, barrows and mines, and skilled smiths.",
+  "evidence": [
+   "realms-of-power-faerie::0598",
+   "realms-of-power-faerie::0599"
+  ]
+ },
+ {
+  "name": "Gnome",
+  "type": "Creature",
+  "aliases": [
+   "Gnomes"
+  ],
+  "description": "Subterranean version of the small faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0598",
+   "realms-of-power-faerie::0599"
+  ]
+ },
+ {
+  "name": "Goblin",
+  "type": "Creature",
+  "aliases": [
+   "Goblins"
+  ],
+  "description": "Subterranean version of the small faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0598",
+   "realms-of-power-faerie::0599"
+  ]
+ },
+ {
+  "name": "Cerberus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Guardian of the gate of Hades, whose statues guarded Roman cave taverns.",
+  "evidence": [
+   "realms-of-power-faerie::0597"
+  ]
+ },
+ {
+  "name": "Galconer",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie whose statistics are used for the human form of seducing kelpies.",
+  "evidence": [
+   "realms-of-power-faerie::0556"
+  ]
+ },
+ {
+  "name": "Minor Demon of Pride",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon attracted to a boy manipulated by a faerie queen in a story seed.",
+  "evidence": [
+   "realms-of-power-faerie::0535"
+  ]
+ },
+ {
+  "name": "Tuatha de Danu",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The courtly faeries of Ireland, children of Danu.",
+  "evidence": [
+   "realms-of-power-faerie::0575"
+  ]
+ },
+ {
+  "name": "Lapiths",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient people of Thessaly who fought the original centaurs.",
+  "evidence": [
+   "realms-of-power-faerie::0484"
+  ]
+ },
+ {
+  "name": "Mystery Cults",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Cults which have faeries guarding their secrets.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The proudly Roman order of magi, disliked by the White Ladies.",
+  "evidence": [
+   "realms-of-power-faerie::0523",
+   "realms-of-power-faerie::0595"
+  ]
+ },
+ {
+  "name": "Cheiron",
+  "type": "Character",
+  "aliases": [],
+  "description": "A centaur who mentored Herakles and became the constellation Centaurus; a powerful astrological spirit aligned to Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0484"
+  ]
+ },
+ {
+  "name": "Herakles",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient hero mentored by Cheiron.",
+  "evidence": [
+   "realms-of-power-faerie::0484"
+  ]
+ },
+ {
+  "name": "Hermes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Classical god whose role included that of psychopomp.",
+  "evidence": [
+   "realms-of-power-faerie::0501"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder figure whom the Master of Challenges sometimes claims to be.",
+  "evidence": [
+   "realms-of-power-faerie::0509"
+  ]
+ },
+ {
+  "name": "Brigid",
+  "type": "Character",
+  "aliases": [],
+  "description": "Goddess who in ancient times often held summer's power as the Cailleach Bheur's rival.",
+  "evidence": [
+   "realms-of-power-faerie::0539"
+  ]
+ },
+ {
+  "name": "Danu",
+  "type": "Character",
+  "aliases": [],
+  "description": "The most powerful river goddess of pagan Europe, of the Danube and Don, mother of the Tuatha de Danu; changed Liban into a mermaid.",
+  "evidence": [
+   "realms-of-power-faerie::0575",
+   "realms-of-power-faerie::0566"
+  ]
+ },
+ {
+  "name": "Liban",
+  "type": "Character",
+  "aliases": [],
+  "description": "Irish woman changed into a mermaid by Danu who lived 300 years, was baptised, and entered Heaven as a Holy Virgin.",
+  "evidence": [
+   "realms-of-power-faerie::0566",
+   "realms-of-power-faerie::0567"
+  ]
+ },
+ {
+  "name": "Saint Thaddeus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Patron of penitent thieves whose sacred places ward the Privy Counselor.",
+  "evidence": [
+   "realms-of-power-faerie::0524"
+  ]
+ },
+ {
+  "name": "Kalevipoeg",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero who sailed toward the Underworld and found an island of peaceful koerakoonlased.",
+  "evidence": [
+   "realms-of-power-faerie::0595",
+   "realms-of-power-faerie::0596"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House descended from the chthonic cult that called on the aoroi.",
+  "evidence": [
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House descended from the chthonic cult that called on the aoroi.",
+  "evidence": [
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [],
+  "description": "House supported by some White Ladies in the Schism.",
+  "evidence": [
+   "realms-of-power-faerie::0523"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where 'White Lady' is a euphemism for faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0522"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "The deep faerie lands, where Valkyries, giants and titans and the Master of Challenges are found.",
+  "evidence": [
+   "realms-of-power-faerie::0502",
+   "realms-of-power-faerie::0508",
+   "realms-of-power-faerie::0509"
+  ]
+ },
+ {
+  "name": "Thessaly",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient region where the original centaurs fought the Lapiths.",
+  "evidence": [
+   "realms-of-power-faerie::0484"
+  ]
+ },
+ {
+  "name": "Mount Triglav",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountain in Slovenia home of the Zlatorog.",
+  "evidence": [
+   "realms-of-power-faerie::0499"
+  ]
+ },
+ {
+  "name": "Valhalla",
+  "type": "Place",
+  "aliases": [],
+  "description": "Norse hall where Valkyries act as serving maids.",
+  "evidence": [
+   "realms-of-power-faerie::0503"
+  ]
+ },
+ {
+  "name": "Styx",
+  "type": "Place",
+  "aliases": [],
+  "description": "River of the dead on whose worldly side the aoroi wait.",
+  "evidence": [
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northern lands of the Valkyries' ancient places of power and the tomte.",
+  "evidence": [
+   "realms-of-power-faerie::0502",
+   "realms-of-power-faerie::0507"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of fachans, banshees, sidhe; ancient Irish claimed Arcadia began seven waves from Ireland.",
+  "evidence": [
+   "realms-of-power-faerie::0490",
+   "realms-of-power-faerie::0506",
+   "realms-of-power-faerie::0561"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of fachans, the bean nighe, the ùruisg and the Cailleach Bheur.",
+  "evidence": [
+   "realms-of-power-faerie::0490",
+   "realms-of-power-faerie::0516",
+   "realms-of-power-faerie::0539"
+  ]
+ },
+ {
+  "name": "Scottish Highlands",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of the Direach and the roane.",
+  "evidence": [
+   "realms-of-power-faerie::0491",
+   "realms-of-power-faerie::0571"
+  ]
+ },
+ {
+  "name": "Cologne",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where every house once had a heinzelmännchen.",
+  "evidence": [
+   "realms-of-power-faerie::0514"
+  ]
+ },
+ {
+  "name": "Isle of Man",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the Feoderee.",
+  "evidence": [
+   "realms-of-power-faerie::0515"
+  ]
+ },
+ {
+  "name": "Normandy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of the White Ladies, once inhabited by Celtic tribes.",
+  "evidence": [
+   "realms-of-power-faerie::0522"
+  ]
+ },
+ {
+  "name": "Shetland Islands",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the trows.",
+  "evidence": [
+   "realms-of-power-faerie::0544"
+  ]
+ },
+ {
+  "name": "Basque Country",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region in Iberia home of the Basajauns.",
+  "evidence": [
+   "realms-of-power-faerie::0582"
+  ]
+ },
+ {
+  "name": "Palace of the Selkie King",
+  "type": "Place",
+  "aliases": [],
+  "description": "Undersea palace of the selkie king, possibly thatched with brides' hair.",
+  "evidence": [
+   "realms-of-power-faerie::0569",
+   "realms-of-power-faerie::0570"
+  ]
+ },
+ {
+  "name": "World Tree",
+  "type": "Place",
+  "aliases": [],
+  "description": "Tree beneath the Earth that the kallikantzaroi saw at each year.",
+  "evidence": [
+   "realms-of-power-faerie::0546",
+   "realms-of-power-faerie::0548"
+  ]
+ },
+ {
+  "name": "Hades",
+  "type": "Place",
+  "aliases": [],
+  "description": "Underworld whose gate Cerberus guards.",
+  "evidence": [
+   "realms-of-power-faerie::0597"
+  ]
+ },
+ {
+  "name": "Faerie Lands",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lands where giants and titans are imprisoned; described as a ring between Dominion and wilderness.",
+  "evidence": [
+   "realms-of-power-faerie::0509",
+   "realms-of-power-faerie::0549"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The realm of faeries, beings made of rules and roles that feed on human vitality.",
+  "evidence": [
+   "realms-of-power-faerie::0549",
+   "realms-of-power-faerie::0505"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm to which the original centaurs, Cheiron, abgals and giants are aligned.",
+  "evidence": [
+   "realms-of-power-faerie::0484",
+   "realms-of-power-faerie::0566",
+   "realms-of-power-faerie::0509"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm to which some later barking beasts are aligned.",
+  "evidence": [
+   "realms-of-power-faerie::0497"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [
+   "The Dominion"
+  ],
+  "description": "The Divine's presence in human lands, which has made psychopomps rare and against which many faeries have wards.",
+  "evidence": [
+   "realms-of-power-faerie::0501",
+   "realms-of-power-faerie::0522",
+   "realms-of-power-faerie::0549"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of a faerie's power; around 60 needed to challenge senior magi.",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0519"
+  ]
+ },
+ {
+  "name": "Pretense",
+  "type": "Concept",
+  "aliases": [
+   "Pretenses"
+  ],
+  "description": "Faerie equivalent of Abilities, improved e.g. by losing to characters.",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0481"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "aliases": [
+   "Glamor"
+  ],
+  "description": "Faerie substance from which knights' horses, wolf mounts and illusions are made.",
+  "evidence": [
+   "realms-of-power-faerie::0493",
+   "realms-of-power-faerie::0504",
+   "realms-of-power-faerie::0529"
+  ]
+ },
+ {
+  "name": "Intricacy Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points spent to reduce cost or improve Initiative/Penetration of faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0512"
+  ]
+ },
+ {
+  "name": "Vitality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Human emotional energy on which faeries feed.",
+  "evidence": [
+   "realms-of-power-faerie::0480",
+   "realms-of-power-faerie::0488",
+   "realms-of-power-faerie::0535"
+  ]
+ },
+ {
+  "name": "Cognizance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A faerie's degree of awareness of and ability to change its role.",
+  "evidence": [
+   "realms-of-power-faerie::0526",
+   "realms-of-power-faerie::0586"
+  ]
+ },
+ {
+  "name": "Faerie Role",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The story role a faerie fulfils and cannot easily change.",
+  "evidence": [
+   "realms-of-power-faerie::0488",
+   "realms-of-power-faerie::0526"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magi's magical defense which faerie monarchs need Penetration to overcome.",
+  "evidence": [
+   "realms-of-power-faerie::0519"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant ward the Privy Counselor cannot cross.",
+  "evidence": [
+   "realms-of-power-faerie::0524"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical substance carried by faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0490"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance shared by knights with their glamour mounts.",
+  "evidence": [
+   "realms-of-power-faerie::0493",
+   "realms-of-power-faerie::0529"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Test ending apprenticeship, before which the Seducer appears.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [
+   "Longevity formula"
+  ],
+  "description": "Formula that the Ravagers hunt magi for.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magi's bonded animal; the Retiarius hunts potential familiars.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Apprentice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gifted child taken for Hermetic training.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical talent; Black Faced Hermes abducts the Gifted.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magi's community, targeted by the Privy Counselor.",
+  "evidence": [
+   "realms-of-power-faerie::0508",
+   "realms-of-power-faerie::0526",
+   "realms-of-power-faerie::0595"
+  ]
+ },
+ {
+  "name": "Archmagus",
+  "type": "Concept",
+  "aliases": [
+   "Archmagi"
+  ],
+  "description": "Senior magi who speak of faeries deep in Arcadia.",
+  "evidence": [
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link used for Penetration.",
+  "evidence": [
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [
+   "Schism"
+  ],
+  "description": "Conflict in which some White Ladies supported House Diedne.",
+  "evidence": [
+   "realms-of-power-faerie::0523"
+  ]
+ },
+ {
+  "name": "Titanomachy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ancient war after which Titans were imprisoned in the Faerie Lands.",
+  "evidence": [
+   "realms-of-power-faerie::0509"
+  ]
+ },
+ {
+  "name": "Gigantomachy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ancient war after which Giants were imprisoned in the Faerie Lands.",
+  "evidence": [
+   "realms-of-power-faerie::0509"
+  ]
+ },
+ {
+  "name": "Ragnarok",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Norse end-times for which the einherjar wait.",
+  "evidence": [
+   "realms-of-power-faerie::0502",
+   "realms-of-power-faerie::0503"
+  ]
+ },
+ {
+  "name": "Druid Lore",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lore in which the White Ladies are steeped.",
+  "evidence": [
+   "realms-of-power-faerie::0523"
+  ]
+ },
+ {
+  "name": "Life Stages",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Human and Hermetic stages whose borders faeries guard.",
+  "evidence": [
+   "realms-of-power-faerie::0508",
+   "realms-of-power-faerie::0500"
+  ]
+ },
+ {
+  "name": "Thresholds",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Borders of life, social class, time and space that faeries inhabit.",
+  "evidence": [
+   "realms-of-power-faerie::0518",
+   "realms-of-power-faerie::0551",
+   "realms-of-power-faerie::0549"
+  ]
+ },
+ {
+  "name": "Crossroads",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Places of faerie power where two borders cross.",
+  "evidence": [
+   "realms-of-power-faerie::0551"
+  ]
+ },
+ {
+  "name": "Epiphany",
+  "type": "Concept",
+  "aliases": [
+   "Blessing of the Waters"
+  ],
+  "description": "Feast ending the kallikantzaroi's time on the surface, with the Blessing of the Waters.",
+  "evidence": [
+   "realms-of-power-faerie::0546"
+  ]
+ },
+ {
+  "name": "Faerie Court",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Group of courtly faeries around a monarch with a unifying motif.",
+  "evidence": [
+   "realms-of-power-faerie::0518",
+   "realms-of-power-faerie::0493"
+  ]
+ },
+ {
+  "name": "Threshold Guardian",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie role controlling access to Faerieland.",
+  "evidence": [
+   "realms-of-power-faerie::0496"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "Concept",
+  "aliases": [
+   "Magi"
+  ],
+  "description": "Hermetic magi study faeries and are the targets of many.",
+  "evidence": [
+   "realms-of-power-faerie::0484",
+   "realms-of-power-faerie::0508"
+  ]
+ },
+ {
+  "name": "Social Interaction Virtue or Flaw",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Required for faeries converted to player characters.",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0524"
+  ]
+ },
+ {
+  "name": "Huge",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Huge).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0527"
+  ]
+ },
+ {
+  "name": "Hybrid Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Hybrid Form).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Improved Characteristics).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0504"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Faerie Sight).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Faerie Speech).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Lesser Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Lesser Faerie Powers).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0492"
+  ]
+ },
+ {
+  "name": "Greater Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Greater Faerie Powers).",
+  "evidence": [
+   "realms-of-power-faerie::0489",
+   "realms-of-power-faerie::0496"
+  ]
+ },
+ {
+  "name": "Increased Faerie Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Increased Faerie Might).",
+  "evidence": [
+   "realms-of-power-faerie::0489",
+   "realms-of-power-faerie::0502"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Large).",
+  "evidence": [
+   "realms-of-power-faerie::0489",
+   "realms-of-power-faerie::0492"
+  ]
+ },
+ {
+  "name": "Humanoid Faerie",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Humanoid Faerie).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0512"
+  ]
+ },
+ {
+  "name": "Observant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Observant).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0512"
+  ]
+ },
+ {
+  "name": "Personal Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Personal Faerie Powers).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0502"
+  ]
+ },
+ {
+  "name": "External Vis",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (External Vis).",
+  "evidence": [
+   "realms-of-power-faerie::0496",
+   "realms-of-power-faerie::0524"
+  ]
+ },
+ {
+  "name": "Highly Cognizant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Highly Cognizant).",
+  "evidence": [
+   "realms-of-power-faerie::0496",
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Sharp Ears).",
+  "evidence": [
+   "realms-of-power-faerie::0496",
+   "realms-of-power-faerie::0504"
+  ]
+ },
+ {
+  "name": "Gigantic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Gigantic).",
+  "evidence": [
+   "realms-of-power-faerie::0504"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Focus Power).",
+  "evidence": [
+   "realms-of-power-faerie::0512",
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Feast of the Fae",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Feast of the Fae).",
+  "evidence": [
+   "realms-of-power-faerie::0512",
+   "realms-of-power-faerie::0545"
+  ]
+ },
+ {
+  "name": "Positive Folktales",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Positive Folktales).",
+  "evidence": [
+   "realms-of-power-faerie::0512"
+  ]
+ },
+ {
+  "name": "Great Characteristic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Great Characteristic).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0527"
+  ]
+ },
+ {
+  "name": "Human Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Human Form).",
+  "evidence": [
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Humanoid Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Humanoid Form).",
+  "evidence": [
+   "realms-of-power-faerie::0502",
+   "realms-of-power-faerie::0558"
+  ]
+ },
+ {
+  "name": "Place of Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Place of Power).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0531"
+  ]
+ },
+ {
+  "name": "Cognizant within Role",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Cognizant within Role).",
+  "evidence": [
+   "realms-of-power-faerie::0527"
+  ]
+ },
+ {
+  "name": "Improved Damage",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Improved Damage).",
+  "evidence": [
+   "realms-of-power-faerie::0481",
+   "realms-of-power-faerie::0527"
+  ]
+ },
+ {
+  "name": "Puissant Pretense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Puissant Pretense).",
+  "evidence": [
+   "realms-of-power-faerie::0527",
+   "realms-of-power-faerie::0528"
+  ]
+ },
+ {
+  "name": "Time of Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Time of Power).",
+  "evidence": [
+   "realms-of-power-faerie::0538"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Improved Powers).",
+  "evidence": [
+   "realms-of-power-faerie::0538"
+  ]
+ },
+ {
+  "name": "Faerie Beast",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Faerie Beast).",
+  "evidence": [
+   "realms-of-power-faerie::0552",
+   "realms-of-power-faerie::0555"
+  ]
+ },
+ {
+  "name": "Feast of the Dead",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Feast of the Dead).",
+  "evidence": [
+   "realms-of-power-faerie::0555",
+   "realms-of-power-faerie::0574"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Skinchanger).",
+  "evidence": [
+   "realms-of-power-faerie::0568"
+  ]
+ },
+ {
+  "name": "Residual Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Residual Power).",
+  "evidence": [
+   "realms-of-power-faerie::0568"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Long-Winded).",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Puissant Swim",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Puissant Swim).",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Immunity from Terram",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Immunity from Terram).",
+  "evidence": [
+   "realms-of-power-faerie::0598"
+  ]
+ },
+ {
+  "name": "Faerie Ally",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Faerie Ally).",
+  "evidence": [
+   "realms-of-power-faerie::0532"
+  ]
+ },
+ {
+  "name": "Improved Soak",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Improved Soak).",
+  "evidence": [
+   "realms-of-power-faerie::0533"
+  ]
+ },
+ {
+  "name": "Secret Hiding Place",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Secret Hiding Place).",
+  "evidence": [
+   "realms-of-power-faerie::0568"
+  ]
+ },
+ {
+  "name": "Narrowly Cognizant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in faerie statistics in this text (Narrowly Cognizant).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0512"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Incognizant).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Sovereign Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Sovereign Ward).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0492"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Traditional Ward).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0532"
+  ]
+ },
+ {
+  "name": "Missing Eye",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Missing Eye).",
+  "evidence": [
+   "realms-of-power-faerie::0489",
+   "realms-of-power-faerie::0558"
+  ]
+ },
+ {
+  "name": "Missing Hand",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Missing Hand).",
+  "evidence": [
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Vow",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Vow).",
+  "evidence": [
+   "realms-of-power-faerie::0492"
+  ]
+ },
+ {
+  "name": "Oath of Fealty",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Oath of Fealty).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0524"
+  ]
+ },
+ {
+  "name": "Overconfident",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Overconfident).",
+  "evidence": [
+   "realms-of-power-faerie::0492"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Visions).",
+  "evidence": [
+   "realms-of-power-faerie::0502",
+   "realms-of-power-faerie::0506"
+  ]
+ },
+ {
+  "name": "Ferocity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Ferocity).",
+  "evidence": [
+   "realms-of-power-faerie::0504"
+  ]
+ },
+ {
+  "name": "Little",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Little).",
+  "evidence": [
+   "realms-of-power-faerie::0512",
+   "realms-of-power-faerie::0545"
+  ]
+ },
+ {
+  "name": "Restricted Might",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Restricted Might).",
+  "evidence": [
+   "realms-of-power-faerie::0524",
+   "realms-of-power-faerie::0538"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Enemies).",
+  "evidence": [
+   "realms-of-power-faerie::0527"
+  ]
+ },
+ {
+  "name": "Puissant Militant Pretense",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Puissant Militant Pretense).",
+  "evidence": [
+   "realms-of-power-faerie::0527"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Monstrous Appearance).",
+  "evidence": [
+   "realms-of-power-faerie::0481"
+  ]
+ },
+ {
+  "name": "Infiltrator",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Infiltrator).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0569"
+  ]
+ },
+ {
+  "name": "Aloof",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Aloof).",
+  "evidence": [
+   "realms-of-power-faerie::0555",
+   "realms-of-power-faerie::0562"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Fear).",
+  "evidence": [
+   "realms-of-power-faerie::0555"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Dark Secret).",
+  "evidence": [
+   "realms-of-power-faerie::0569"
+  ]
+ },
+ {
+  "name": "Carefree",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Carefree).",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Glamorous Flesh",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Glamorous Flesh).",
+  "evidence": [
+   "realms-of-power-faerie::0574"
+  ]
+ },
+ {
+  "name": "Lecherous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Lecherous).",
+  "evidence": [
+   "realms-of-power-faerie::0583",
+   "realms-of-power-faerie::0587"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Greedy).",
+  "evidence": [
+   "realms-of-power-faerie::0583",
+   "realms-of-power-faerie::0587"
+  ]
+ },
+ {
+  "name": "Weakness",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Weakness).",
+  "evidence": [
+   "realms-of-power-faerie::0583",
+   "realms-of-power-faerie::0587"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Small Frame).",
+  "evidence": [
+   "realms-of-power-faerie::0587"
+  ]
+ },
+ {
+  "name": "Reckless",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in faerie statistics in this text (Reckless).",
+  "evidence": [
+   "realms-of-power-faerie::0552"
+  ]
+ },
+ {
+  "name": "Amphibious",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Animal Quality listed in the seal statistics (Amphibious).",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Pursuit Predator",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Animal Quality listed in the seal statistics (Pursuit Predator).",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Tireless",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Animal Quality listed in the seal statistics (Tireless).",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Tough Hide",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Animal Quality listed in the seal statistics (Tough Hide).",
+  "evidence": [
+   "realms-of-power-faerie::0572"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Athletics).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0512"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Awareness).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Bow",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Bow).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0532"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Thrown Weapon).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0513"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Brawl).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Carouse).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0492"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Chirurgy).",
+  "evidence": [
+   "realms-of-power-faerie::0483"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Craft).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Hunt).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0492"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Single Weapon).",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Survival).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0504"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Penetration).",
+  "evidence": [
+   "realms-of-power-faerie::0489",
+   "realms-of-power-faerie::0519"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Etiquette).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Charm).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Leadership).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0528"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Ride).",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0502"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Folk Ken).",
+  "evidence": [
+   "realms-of-power-faerie::0512",
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Profession).",
+  "evidence": [
+   "realms-of-power-faerie::0512",
+   "realms-of-power-faerie::0541"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Area Lore).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0528"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Artes Liberales).",
+  "evidence": [
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Animal Handling).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0580"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Bargain).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0538"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Concentration).",
+  "evidence": [
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Finesse).",
+  "evidence": [
+   "realms-of-power-faerie::0520"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Guile).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0538"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Intrigue).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0525"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Order of Hermes Lore).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0525"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Swim).",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0569"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Stealth).",
+  "evidence": [
+   "realms-of-power-faerie::0496",
+   "realms-of-power-faerie::0558"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Music).",
+  "evidence": [
+   "realms-of-power-faerie::0563",
+   "realms-of-power-faerie::0583"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Great Weapon).",
+  "evidence": [
+   "realms-of-power-faerie::0599"
+  ]
+ },
+ {
+  "name": "Faerie Speech (Ability)",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability or Pretense used in faerie statistics (Faerie Speech (Ability)).",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Terram) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0598"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Herbam) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0580"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Corpus) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0492",
+   "realms-of-power-faerie::0512"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Animal) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0482",
+   "realms-of-power-faerie::0552"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Vim) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0496"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Aquam) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Rego) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0520",
+   "realms-of-power-faerie::0522"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Imaginem) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0513",
+   "realms-of-power-faerie::0524"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Mentem) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0525",
+   "realms-of-power-faerie::0552"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Ignem) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0527",
+   "realms-of-power-faerie::0539"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Auram) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0538",
+   "realms-of-power-faerie::0541"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Muto) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0580"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Intellego) used to classify faerie Might and powers in this text.",
+  "evidence": [
+   "realms-of-power-faerie::0580"
+  ]
+ },
+ {
+  "name": "Damaging Effect",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power adding +5 damage to weapons via supernatural sharpness, poison or court motif.",
+  "evidence": [
+   "realms-of-power-faerie::0483",
+   "realms-of-power-faerie::0493",
+   "realms-of-power-faerie::0528"
+  ]
+ },
+ {
+  "name": "Flight",
+  "type": "Spell",
+  "aliases": [
+   "Fly"
+  ],
+  "description": "Faerie power allowing flight; renamed Glide for Sir Excelsis.",
+  "evidence": [
+   "realms-of-power-faerie::0493",
+   "realms-of-power-faerie::0533",
+   "realms-of-power-faerie::0553"
+  ]
+ },
+ {
+  "name": "Shift Human Shapes",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power letting a faerie don or remove armor or change appearance.",
+  "evidence": [
+   "realms-of-power-faerie::0493",
+   "realms-of-power-faerie::0529",
+   "realms-of-power-faerie::0542"
+  ]
+ },
+ {
+  "name": "Lurching Heart",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Fachan power causing hearts of viewers to flutter unless a Brave roll succeeds.",
+  "evidence": [
+   "realms-of-power-faerie::0489"
+  ]
+ },
+ {
+  "name": "Poisoned Weapons",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Fachan power smearing its weapons with deadly poison.",
+  "evidence": [
+   "realms-of-power-faerie::0490"
+  ]
+ },
+ {
+  "name": "Spirit Away",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power letting a faerie act as a threshold guardian, taking mortals into faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0496",
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Invisibility",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Faerie power of becoming invisible.",
+  "evidence": [
+   "realms-of-power-faerie::0513",
+   "realms-of-power-faerie::0525"
+  ]
+ },
+ {
+  "name": "Focus (Domestic Work)",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Brownie focus power creating domestic effects up to level 15.",
+  "evidence": [
+   "realms-of-power-faerie::0512",
+   "realms-of-power-faerie::0513"
+  ]
+ },
+ {
+  "name": "Extended Glamour",
+  "type": "Spell",
+  "aliases": [
+   "Extend Glamour"
+  ],
+  "description": "Power extending a faerie's glamour over a wide area.",
+  "evidence": [
+   "realms-of-power-faerie::0521",
+   "realms-of-power-faerie::0538",
+   "realms-of-power-faerie::0580"
+  ]
+ },
+ {
+  "name": "Touch of the Mermaid",
+  "type": "Spell",
+  "aliases": [],
+  "description": "White Lady power acting as Kiss of the Mermaid.",
+  "evidence": [
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Torrent from the Lungs",
+  "type": "Spell",
+  "aliases": [],
+  "description": "White Lady Aquam power.",
+  "evidence": [
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Pine Away",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Common individual power of White Ladies.",
+  "evidence": [
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Enthrallment",
+  "type": "Spell",
+  "aliases": [
+   "Enthrall"
+  ],
+  "description": "Mentem power to enthrall targets.",
+  "evidence": [
+   "realms-of-power-faerie::0525",
+   "realms-of-power-faerie::0552"
+  ]
+ },
+ {
+  "name": "Illusionary Home",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Privy Counselor power creating an illusory room or structure.",
+  "evidence": [
+   "realms-of-power-faerie::0525"
+  ]
+ },
+ {
+  "name": "Image Phantom",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Imaginem faerie power.",
+  "evidence": [
+   "realms-of-power-faerie::0525"
+  ]
+ },
+ {
+  "name": "Steal Judgment",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Mentem power making targets believe lies.",
+  "evidence": [
+   "realms-of-power-faerie::0525",
+   "realms-of-power-faerie::0569",
+   "realms-of-power-faerie::0584"
+  ]
+ },
+ {
+  "name": "Allure",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Mentem faerie power.",
+  "evidence": [
+   "realms-of-power-faerie::0525"
+  ]
+ },
+ {
+  "name": "Transform into Coin",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power the Privy Counselor uses to spy as a coin.",
+  "evidence": [
+   "realms-of-power-faerie::0525"
+  ]
+ },
+ {
+  "name": "Glide",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Sir Excelsis's renamed Flight power allowing movement through water.",
+  "evidence": [
+   "realms-of-power-faerie::0528",
+   "realms-of-power-faerie::0529"
+  ]
+ },
+ {
+  "name": "Cause Sickness",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Sprite power causing strokes or fevers.",
+  "evidence": [
+   "realms-of-power-faerie::0532",
+   "realms-of-power-faerie::0533"
+  ]
+ },
+ {
+  "name": "Spreading a Mantle of Snow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power coating the ground in ice and snow, used by the Cailleach Bheur and koerakoonlane war leaders.",
+  "evidence": [
+   "realms-of-power-faerie::0538",
+   "realms-of-power-faerie::0593"
+  ]
+ },
+ {
+  "name": "Cause Fatigue",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Południca's power causing heatstroke.",
+  "evidence": [
+   "realms-of-power-faerie::0541",
+   "realms-of-power-faerie::0542"
+  ]
+ },
+ {
+  "name": "Transform into Whirlwind",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Południca's power to become a dust devil.",
+  "evidence": [
+   "realms-of-power-faerie::0542"
+  ]
+ },
+ {
+  "name": "Silent Motion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Kallikantzaroi power of silent movement.",
+  "evidence": [
+   "realms-of-power-faerie::0545",
+   "realms-of-power-faerie::0546"
+  ]
+ },
+ {
+  "name": "Supernatural Agility",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Kallikantzaroi constant Animal power.",
+  "evidence": [
+   "realms-of-power-faerie::0545",
+   "realms-of-power-faerie::0546"
+  ]
+ },
+ {
+  "name": "Enthralling Sound",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power causing fascination or riotousness through howls, song or music.",
+  "evidence": [
+   "realms-of-power-faerie::0552",
+   "realms-of-power-faerie::0563",
+   "realms-of-power-faerie::0584"
+  ]
+ },
+ {
+  "name": "Fearful Flaming Eyes",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Faerie hound power.",
+  "evidence": [
+   "realms-of-power-faerie::0553"
+  ]
+ },
+ {
+  "name": "Hound",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Faerie hound power.",
+  "evidence": [
+   "realms-of-power-faerie::0553"
+  ]
+ },
+ {
+  "name": "Adhere",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power to cling to victims, used by kelpies, licho, aufhocker and kludie.",
+  "evidence": [
+   "realms-of-power-faerie::0555",
+   "realms-of-power-faerie::0558",
+   "realms-of-power-faerie::0554"
+  ]
+ },
+ {
+  "name": "Guide",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Mentem power leading travelers astray.",
+  "evidence": [
+   "realms-of-power-faerie::0555",
+   "realms-of-power-faerie::0560",
+   "realms-of-power-faerie::0574"
+  ]
+ },
+ {
+  "name": "Conversing with the Sea",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Merfolk power to question the local ocean.",
+  "evidence": [
+   "realms-of-power-faerie::0564"
+  ]
+ },
+ {
+  "name": "Transform into Human",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power to assume human form.",
+  "evidence": [
+   "realms-of-power-faerie::0556",
+   "realms-of-power-faerie::0564",
+   "realms-of-power-faerie::0581"
+  ]
+ },
+ {
+  "name": "Always Hear the Waves",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Selkie power knowing the way to the Palace of the Selkie King.",
+  "evidence": [
+   "realms-of-power-faerie::0569"
+  ]
+ },
+ {
+  "name": "Spill Blood",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Selkie power raising storms when their blood is spilled on the ocean.",
+  "evidence": [
+   "realms-of-power-faerie::0569",
+   "realms-of-power-faerie::0570"
+  ]
+ },
+ {
+  "name": "Grant Puissance in Combat",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Faun music power granting +3 on Weapon Skills.",
+  "evidence": [
+   "realms-of-power-faerie::0583"
+  ]
+ },
+ {
+  "name": "Endless Wine",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Faun power filling vessels with wine.",
+  "evidence": [
+   "realms-of-power-faerie::0584"
+  ]
+ },
+ {
+  "name": "Kiss of Frost",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power some koerakoonlased apply with whips so their slaves survive the cold.",
+  "evidence": [
+   "realms-of-power-faerie::0594"
+  ]
+ },
+ {
+  "name": "Ice of Drowning",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose versions White Ladies use to kill.",
+  "evidence": [
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Mighty Torrent of Water",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose versions White Ladies use to kill.",
+  "evidence": [
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Pull of the Watery Grave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose versions White Ladies use to kill.",
+  "evidence": [
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Tower of Whirling Water",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose versions White Ladies use to kill.",
+  "evidence": [
+   "realms-of-power-faerie::0521"
+  ]
+ },
+ {
+  "name": "Kiss of the Mermaid",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Aquam effect used by merfolk and White Ladies.",
+  "evidence": [
+   "realms-of-power-faerie::0521",
+   "realms-of-power-faerie::0563"
+  ]
+ },
+ {
+  "name": "Conjuration of the Indubitable Cold",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ignem spell (ArM5 p.142) mirrored by a Cailleach Bheur power.",
+  "evidence": [
+   "realms-of-power-faerie::0538",
+   "realms-of-power-faerie::0539"
+  ]
+ },
+ {
+  "name": "Push of the Gentle Wave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Aquam spell (ArM5 p.124) mirrored by a merfolk power.",
+  "evidence": [
+   "realms-of-power-faerie::0563",
+   "realms-of-power-faerie::0564"
+  ]
+ },
+ {
+  "name": "Voice of the Lake",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ArM5 p.122) similar to Conversing with the Sea.",
+  "evidence": [
+   "realms-of-power-faerie::0564"
+  ]
+ },
+ {
+  "name": "Clouds of Rain and Thunder",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose effect selkie Spill Blood resembles.",
+  "evidence": [
+   "realms-of-power-faerie::0569"
+  ]
+ },
+ {
+  "name": "Wrath of Whirling Winds and Water",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Storm spell (ArM5 p.126) group of selkies can emulate.",
+  "evidence": [
+   "realms-of-power-faerie::0569",
+   "realms-of-power-faerie::0570"
+  ]
+ },
+ {
+  "name": "Scrying Pool",
+  "type": "Item",
+  "aliases": [],
+  "description": "Mystical artifact that every White Lady possesses at minimum.",
+  "evidence": [
+   "realms-of-power-faerie::0521",
+   "realms-of-power-faerie::0522"
+  ]
+ },
+ {
+  "name": "Red Cap of the Merfolk",
+  "type": "Item",
+  "aliases": [
+   "Red Hat"
+  ],
+  "description": "Magical red cap or hat that gives merfolk their fish tail; its theft allows capture, and humans finding it can become merfolk.",
+  "evidence": [
+   "realms-of-power-faerie::0564",
+   "realms-of-power-faerie::0565"
+  ]
+ },
+ {
+  "name": "Selkie Seal Skin",
+  "type": "Item",
+  "aliases": [],
+  "description": "The seal skin of a selkie; if stolen the selkie may be forced to become a spouse.",
+  "evidence": [
+   "realms-of-power-faerie::0570"
+  ]
+ },
+ {
+  "name": "The Book of Four Masters",
+  "type": "Item",
+  "aliases": [],
+  "description": "Chronicle recording a 160-foot mermaid corpse washed ashore in AD 887.",
+  "evidence": [
+   "realms-of-power-faerie::0566"
+  ]
+ },
+ {
+  "name": "Magical Shepherd's Pipes",
+  "type": "Item",
+  "aliases": [],
+  "description": "Pipes played by the tityroi.",
+  "evidence": [
+   "realms-of-power-faerie::0586"
+  ]
+ }
+]

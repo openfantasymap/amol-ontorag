@@ -72,6 +72,9 @@ def main():
     ap.add_argument("--base", default=os.path.join(ROOT, "ontology", "world.ttl"))
     ap.add_argument("--out", default=os.path.join(ROOT, "ontology", "world.ttl"))
     ap.add_argument("--max-aliases", type=int, default=8)
+    ap.add_argument("--keep-iris", default=os.path.join(ROOT, "ontology", "entities.jsonl"),
+                    help="published entity index: an entity whose name matches keeps its IRI "
+                         "(pass '' to mint everything afresh)")
     args = ap.parse_args()
 
     from rdflib import Graph, RDF, RDFS, Namespace
@@ -115,8 +118,18 @@ def main():
         seen.add(k)
         ents.append(e)
 
+    # --- published IRIs: reserved first, so re-extraction never renames an entity ---
+    published = {}                      # norm(label) -> local name
+    if args.keep_iris and os.path.exists(args.keep_iris):
+        for line in open(args.keep_iris, encoding="utf-8"):
+            if line.strip():
+                rec = json.loads(line)
+                if rec["iri"].startswith(AMOL):
+                    published.setdefault(norm(rec["label"]), rec["iri"][len(AMOL):])
+
     # --- emit ---
-    used_locals = set(taken_locals)
+    used_locals = set(taken_locals) | set(published.values())
+    kept = 0
     needed_tags = {}
     blocks = []
     by_class = {}
@@ -124,7 +137,11 @@ def main():
         name = e["name"].strip()
         typ = e.get("type", "Concept")
         cls, tag, in_world, defined = TYPE_MAP.get(typ, TYPE_MAP["Concept"])
-        local = mint(name, used_locals)
+        local = published.pop(norm(name), None)
+        if local:
+            kept += 1
+        else:
+            local = mint(name, used_locals)
         iri = "amol:" + local
         label_prop = "skos:prefLabel" if cls == "rpg:Tag" else "rpg:name"
         if tag not in taken_tag_iris:
@@ -164,7 +181,7 @@ def main():
     # validate the result parses
     Graph().parse(args.out, format="turtle")
     print("wrote %s" % args.out)
-    print("  curated spine kept; %d extracted entities added; %d new grouping tags" % (len(ents), len(needed_tags)))
+    print("  curated spine kept; %d extracted entities added (%d kept their published IRI, %d published IRIs unmatched); %d new grouping tags" % (len(ents), kept, len(published), len(needed_tags)))
     print("  by type:", dict(sorted(by_class.items(), key=lambda x: -x[1])))
 
 

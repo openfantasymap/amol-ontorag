@@ -1,0 +1,614 @@
+[
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "The realm of faeries, in whose stories the player characters often collectively take on the role of the hero.",
+  "evidence": [
+   "realms-of-power-faerie::0854",
+   "realms-of-power-faerie::0852"
+  ]
+ },
+ {
+  "name": "Cailleach",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A faerie hag that grants sovereignty of Ireland after testing the courage of a man; an example of a giver of final rewards.",
+  "evidence": [
+   "realms-of-power-faerie::0840"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land whose sovereignty the cailleach grants to a man who passes her test of courage.",
+  "evidence": [
+   "realms-of-power-faerie::0840"
+  ]
+ },
+ {
+  "name": "Rumplestiltzkin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fairy-tale figure who provides service and the chance to marry a prince, but becomes a threat; an example of a faerie playing several roles.",
+  "evidence": [
+   "realms-of-power-faerie::0841"
+  ]
+ },
+ {
+  "name": "The Beast",
+  "type": "Character",
+  "aliases": [],
+  "description": "The Beast from Beauty and the Beast, initially a threat, then needing help, then giving rewards.",
+  "evidence": [
+   "realms-of-power-faerie::0841"
+  ]
+ },
+ {
+  "name": "The Frog Prince",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fairy-tale figure who serves the princess, becomes a moral test, needs to be helped, and grants rewards.",
+  "evidence": [
+   "realms-of-power-faerie::0841"
+  ]
+ },
+ {
+  "name": "The Little Mermaid",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fairy-tale heroine who deliberately reverses traditional stories, losing her voice and then her life for love of a mortal.",
+  "evidence": [
+   "realms-of-power-faerie::0842"
+  ]
+ },
+ {
+  "name": "The Bremen Town Musicians",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fairy-tale figures cited as examples of faeries who are the heroes of stories.",
+  "evidence": [
+   "realms-of-power-faerie::0842"
+  ]
+ },
+ {
+  "name": "The Gingerbread Man",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fairy-tale figure cited as an example of a faerie who is the hero of a story.",
+  "evidence": [
+   "realms-of-power-faerie::0842"
+  ]
+ },
+ {
+  "name": "Cinderella",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fairy-tale heroine whose slippers Charles Perrault changed to glass, creating a resonant image.",
+  "evidence": [
+   "realms-of-power-faerie::0842"
+  ]
+ },
+ {
+  "name": "Thirty Six Dramatic Situations",
+  "type": "Concept",
+  "aliases": [
+   "Thirty-Six Dramatic Situations"
+  ],
+  "description": "Georges Polti's scheme of thirty-six primal emotions driving all dramatic plots, recommended as inspiration for faerie stories (e.g. Supplication, Daring Enterprise, Obtaining).",
+  "evidence": [
+   "realms-of-power-faerie::0856",
+   "realms-of-power-faerie::0857",
+   "realms-of-power-faerie::0843"
+  ]
+ },
+ {
+  "name": "Story Flow",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story-planning method dividing a story into thesis, antithesis, and synthesis, fleshed out as six components: hook, trigger, setting, twist, resolution, and consequences.",
+  "evidence": [
+   "realms-of-power-faerie::0843",
+   "realms-of-power-faerie::0844"
+  ]
+ },
+ {
+  "name": "Hook",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The story component that drags the characters into the action, often connected to a Story or Personality Flaw of a key character.",
+  "evidence": [
+   "realms-of-power-faerie::0845",
+   "realms-of-power-faerie::0843"
+  ]
+ },
+ {
+  "name": "Trigger",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The precipitating event of a story's plot, dependent on the characters' actions or external to them.",
+  "evidence": [
+   "realms-of-power-faerie::0846",
+   "realms-of-power-faerie::0843"
+  ]
+ },
+ {
+  "name": "Setting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story component describing the location in which most of the action takes place, usually determined by the hook.",
+  "evidence": [
+   "realms-of-power-faerie::0847"
+  ]
+ },
+ {
+  "name": "Twist",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story component, especially important in intrigue stories, in which things are not what they first seemed.",
+  "evidence": [
+   "realms-of-power-faerie::0848"
+  ]
+ },
+ {
+  "name": "Resolution",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The most important part of a story's synthesis: how the situation could be brought to a conclusion, best described as several possible end-states.",
+  "evidence": [
+   "realms-of-power-faerie::0849"
+  ]
+ },
+ {
+  "name": "Consequences",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story component covering what results from the characters' actions, including political ramifications and rewards such as experience, Confidence Points, and changes in Personality Traits and Reputations.",
+  "evidence": [
+   "realms-of-power-faerie::0850"
+  ]
+ },
+ {
+  "name": "Token of the Star",
+  "type": "Item",
+  "aliases": [],
+  "description": "An example item whose acquisition by the characters could act as a story's trigger.",
+  "evidence": [
+   "realms-of-power-faerie::0846"
+  ]
+ },
+ {
+  "name": "Story Flaw",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Category of Flaw that can be connected to a story's hook.",
+  "evidence": [
+   "realms-of-power-faerie::0845"
+  ]
+ },
+ {
+  "name": "Personality Flaw",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Category of Flaw that can be connected to a story's hook, such as a widow appealing to a Compassionate character.",
+  "evidence": [
+   "realms-of-power-faerie::0845"
+  ]
+ },
+ {
+  "name": "Compassionate",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw cited as an example hook: a widow appeals to the charity of a Compassionate character.",
+  "evidence": [
+   "realms-of-power-faerie::0845"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "A character's mentor, who may ask the character to perform a small task as a story hook.",
+  "evidence": [
+   "realms-of-power-faerie::0845"
+  ]
+ },
+ {
+  "name": "Personality Traits",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Character traits that may change as a consequence or reward of a story.",
+  "evidence": [
+   "realms-of-power-faerie::0850"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [
+   "Reputations"
+  ],
+  "description": "Character reputations that may change as a consequence of a story.",
+  "evidence": [
+   "realms-of-power-faerie::0850"
+  ]
+ },
+ {
+  "name": "Confidence Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Game resource that characters may gain as a reward from a story.",
+  "evidence": [
+   "realms-of-power-faerie::0850"
+  ]
+ },
+ {
+  "name": "Experience Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Game reward characters may gain from completing a story.",
+  "evidence": [
+   "realms-of-power-faerie::0850"
+  ]
+ },
+ {
+  "name": "Dramatic Elements",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The breakdown of a story's structure into dramatis personae (roles) and acts, following the structure common to folktales.",
+  "evidence": [
+   "realms-of-power-faerie::0851",
+   "realms-of-power-faerie::0852"
+  ]
+ },
+ {
+  "name": "Dramatis Personae",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The specific roles characters play in fairy tales and myths (hero, villain, donor, helper, princess, task-setter, false hero); one character can combine several roles.",
+  "evidence": [
+   "realms-of-power-faerie::0853",
+   "realms-of-power-faerie::0852"
+  ]
+ },
+ {
+  "name": "Hero",
+  "type": "Concept",
+  "aliases": [
+   "seeker-hero",
+   "victim-hero"
+  ],
+  "description": "Dramatic role of the one who sets off on adventure, either a seeker-hero or a victim-hero; in Faerie stories often taken collectively by the characters.",
+  "evidence": [
+   "realms-of-power-faerie::0854"
+  ]
+ },
+ {
+  "name": "Villain",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dramatic role of the one who opposes the hero repeatedly, culminating in a fight, struggle, or pursuit.",
+  "evidence": [
+   "realms-of-power-faerie::0855"
+  ]
+ },
+ {
+  "name": "Donor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dramatic role of one who grants the hero a magical gift or power vital to his task, not necessarily willingly.",
+  "evidence": [
+   "realms-of-power-faerie::0856",
+   "realms-of-power-faerie::0869"
+  ]
+ },
+ {
+  "name": "Helper",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dramatic role of one always well-inclined toward the hero, providing timely aid in travel, rescue, or tasks.",
+  "evidence": [
+   "realms-of-power-faerie::0860"
+  ]
+ },
+ {
+  "name": "Princess",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dramatic role of the object of the hero's quest or a prize acquired along the way; can be any person or object.",
+  "evidence": [
+   "realms-of-power-faerie::0861"
+  ]
+ },
+ {
+  "name": "Task-Setter",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dramatic role that poses challenges for the hero to pass to win the princess, distinct from donor and villain.",
+  "evidence": [
+   "realms-of-power-faerie::0862"
+  ]
+ },
+ {
+  "name": "False Hero",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Infrequent dramatic role of one who tries to claim credit for the hero's actions, always uncovered in time.",
+  "evidence": [
+   "realms-of-power-faerie::0863",
+   "realms-of-power-faerie::0875"
+  ]
+ },
+ {
+  "name": "Acts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Linked scenes in which dramatis personae of a fairy tale interact, such as Interdiction, Villainy, Receipt, Struggle, Ordeal, and Reconciliation.",
+  "evidence": [
+   "realms-of-power-faerie::0864"
+  ]
+ },
+ {
+  "name": "Interdiction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which the hero is issued a command by an authority figure which is then violated, sending him on adventure.",
+  "evidence": [
+   "realms-of-power-faerie::0865"
+  ]
+ },
+ {
+  "name": "Reconnaissance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which the villain first appears and gathers information about the hero.",
+  "evidence": [
+   "realms-of-power-faerie::0866"
+  ]
+ },
+ {
+  "name": "Trickery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which the villain deceives his intended victim to take possession of him or his belongings.",
+  "evidence": [
+   "realms-of-power-faerie::0867"
+  ]
+ },
+ {
+  "name": "Villainy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which the villain causes direct harm, or a lack becomes apparent, starting the action of the story.",
+  "evidence": [
+   "realms-of-power-faerie::0868"
+  ]
+ },
+ {
+  "name": "Receipt",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which the hero gains a magical agent or token from a donor, on which completion of the story always depends.",
+  "evidence": [
+   "realms-of-power-faerie::0869",
+   "realms-of-power-faerie::0870"
+  ]
+ },
+ {
+  "name": "Transference",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which the hero is transported, delivered, or led to the object of his quest, often by magical means.",
+  "evidence": [
+   "realms-of-power-faerie::0871"
+  ]
+ },
+ {
+  "name": "Struggle",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act of direct conflict between hero and villain over the object of the quest, usually ending in the hero's victory.",
+  "evidence": [
+   "realms-of-power-faerie::0872"
+  ]
+ },
+ {
+  "name": "Pursuit",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which the hero is pursued on his journey home and rescued by magical agent, helper, or quest object.",
+  "evidence": [
+   "realms-of-power-faerie::0873"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act requiring the hero to perform a difficult task, such as riddles, choice, or tests of strength.",
+  "evidence": [
+   "realms-of-power-faerie::0874"
+  ]
+ },
+ {
+  "name": "Imposture",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in which a false hero claims credit for the hero's deeds before being exposed by an identifying token.",
+  "evidence": [
+   "realms-of-power-faerie::0875"
+  ]
+ },
+ {
+  "name": "Reconciliation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Final act of the fairy tale, in which the hero acquires the object he sought, such as a wedding or return home.",
+  "evidence": [
+   "realms-of-power-faerie::0876",
+   "realms-of-power-faerie::0864"
+  ]
+ },
+ {
+  "name": "Odysseus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero of The Odyssey, cited as an example of the hero role; Hermes showed him the moly plant.",
+  "evidence": [
+   "realms-of-power-faerie::0854",
+   "realms-of-power-faerie::0860"
+  ]
+ },
+ {
+  "name": "Samson",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero of the Book of Judges, cited as an example of the hero role.",
+  "evidence": [
+   "realms-of-power-faerie::0854"
+  ]
+ },
+ {
+  "name": "Es-Sindibad",
+  "type": "Character",
+  "aliases": [
+   "Sinbad"
+  ],
+  "description": "Sinbad, cited as an example of the hero role.",
+  "evidence": [
+   "realms-of-power-faerie::0854"
+  ]
+ },
+ {
+  "name": "Thrym",
+  "type": "Character",
+  "aliases": [],
+  "description": "Villain of the Theft of Thor's Hammer, cited as an example of the villain role.",
+  "evidence": [
+   "realms-of-power-faerie::0855"
+  ]
+ },
+ {
+  "name": "Hera",
+  "type": "Character",
+  "aliases": [],
+  "description": "Villain in the Sorrows and Labors of Heracles, cited as an example of the villain role.",
+  "evidence": [
+   "realms-of-power-faerie::0855"
+  ]
+ },
+ {
+  "name": "Kostchei the Undying",
+  "type": "Character",
+  "aliases": [],
+  "description": "Villain in Maria Morevna, cited as an example of the villain role.",
+  "evidence": [
+   "realms-of-power-faerie::0855"
+  ]
+ },
+ {
+  "name": "Fafnir",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Figure from the Saga of the Nibelungs cited as an example of a donor.",
+  "evidence": [
+   "realms-of-power-faerie::0856"
+  ]
+ },
+ {
+  "name": "Ceridwen",
+  "type": "Character",
+  "aliases": [],
+  "description": "The witch whose cauldron gives Gwion Bach magical powers; example of a donor.",
+  "evidence": [
+   "realms-of-power-faerie::0856"
+  ]
+ },
+ {
+  "name": "Gwion Bach",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero who gains magical powers from Ceridwen's cauldron.",
+  "evidence": [
+   "realms-of-power-faerie::0856"
+  ]
+ },
+ {
+  "name": "Hermes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Helper who shows Odysseus the moly plant; example of the helper role.",
+  "evidence": [
+   "realms-of-power-faerie::0860"
+  ]
+ },
+ {
+  "name": "Moly",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical plant shown to Odysseus by Hermes.",
+  "evidence": [
+   "realms-of-power-faerie::0860"
+  ]
+ },
+ {
+  "name": "Grey Wolf",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Helper in the tale of Prince Ivan; example of the helper role.",
+  "evidence": [
+   "realms-of-power-faerie::0860"
+  ]
+ },
+ {
+  "name": "Sphinx",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The Sphinx faced by Oedipus, an example of the task-setter role.",
+  "evidence": [
+   "realms-of-power-faerie::0862"
+  ]
+ },
+ {
+  "name": "Oedipus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero who faced the Sphinx.",
+  "evidence": [
+   "realms-of-power-faerie::0862"
+  ]
+ },
+ {
+  "name": "Golden Fleece",
+  "type": "Item",
+  "aliases": [],
+  "description": "Prize guarded by a dragon, cited in an example of the task-setter role.",
+  "evidence": [
+   "realms-of-power-faerie::0862"
+  ]
+ },
+ {
+  "name": "Baba Yaga",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure whom a hero may be forbidden to speak to in a typical interdiction.",
+  "evidence": [
+   "realms-of-power-faerie::0865"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Order, whose members and Houses can be interpreted as 'Kinsmen' in dramatic situations.",
+  "evidence": [
+   "realms-of-power-faerie::0856",
+   "realms-of-power-faerie::0857"
+  ]
+ }
+]

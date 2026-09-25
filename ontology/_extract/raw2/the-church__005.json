@@ -1,0 +1,2215 @@
+[
+ {
+  "name": "Francis of Assisi",
+  "type": "Character",
+  "aliases": [
+   "Francis",
+   "Giovanni",
+   "Francesco"
+  ],
+  "description": "Founder of the Franciscans, born 1181 to a cloth-merchant family, who embraced absolute poverty and preaching; possesses True Faith and supernatural Abilities.",
+  "evidence": [
+   "the-church::0608",
+   "the-church::0611",
+   "the-church::0612"
+  ]
+ },
+ {
+  "name": "Pietro Bernadone",
+  "type": "Character",
+  "aliases": [],
+  "description": "Prosperous cloth-merchant father of Francis who paid his ransom after the war with Perugia.",
+  "evidence": [
+   "the-church::0608"
+  ]
+ },
+ {
+  "name": "Pope Innocent III",
+  "type": "Character",
+  "aliases": [
+   "Innocent III"
+  ],
+  "description": "Pope who, after a prophetic dream of the Lateran Basilica, gave Francis his blessing and allowed Clare's community to remain in poverty.",
+  "evidence": [
+   "the-church::0609",
+   "the-church::0610",
+   "the-church::0633"
+  ]
+ },
+ {
+  "name": "Pope Honorius III",
+  "type": "Character",
+  "aliases": [
+   "Honorius",
+   "Pope Honorius"
+  ],
+  "description": "Pope who approved the Dominicans in 1216 and supported the Little Brothers; issued the letter Cum Delicti and approved the Regula Bullata in 1223.",
+  "evidence": [
+   "the-church::0603",
+   "the-church::0613",
+   "the-church::0615"
+  ]
+ },
+ {
+  "name": "Dominic",
+  "type": "Character",
+  "aliases": [],
+  "description": "Augustinian canon from Spain who founded the Order of Preachers and became its first master general; dies in Italy soon after 1221.",
+  "evidence": [
+   "the-church::0603",
+   "the-church::0604",
+   "the-church::0613"
+  ]
+ },
+ {
+  "name": "Cardinal Ugolino",
+  "type": "Character",
+  "aliases": [],
+  "description": "Cardinal appointed protector of Francis' followers who took control of the movement and tried to make the friars and Poor Sisters live more like Benedictines.",
+  "evidence": [
+   "the-church::0613",
+   "the-church::0617",
+   "the-church::0634"
+  ]
+ },
+ {
+  "name": "Sylvester of Assisi",
+  "type": "Character",
+  "aliases": [
+   "Sylvester"
+  ],
+  "description": "Founder member of the Franciscans, a priest and cousin of Clare, who dreamt of a cross from Francis' mouth putting a dragon to flight.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0629"
+  ]
+ },
+ {
+  "name": "Bernard of Quintavalle",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder member of the Franciscans whom player characters may meet.",
+  "evidence": [
+   "the-church::0610"
+  ]
+ },
+ {
+  "name": "Rufino",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early Franciscan follower, a priest and cousin of Clare.",
+  "evidence": [
+   "the-church::0610"
+  ]
+ },
+ {
+  "name": "Leo",
+  "type": "Character",
+  "aliases": [
+   "Brother Lamb of God"
+  ],
+  "description": "Priest among the early Franciscans, known as Brother Lamb of God; Francis' confessor and scribe.",
+  "evidence": [
+   "the-church::0610"
+  ]
+ },
+ {
+  "name": "Giles of Assisi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early follower of Francis, a farmer's son noted for fervent prayer and mysticism.",
+  "evidence": [
+   "the-church::0610"
+  ]
+ },
+ {
+  "name": "Masseo",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early follower of Francis known for his eloquence and courtesy.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Anthony of Padova",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Simon of Assisi",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Christopher of Romagna",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Peter Catanio",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Sabbatinus",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Moricus the Short",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "John of Capella",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early follower of Francis who, while Francis was away, gathered lepers and began to develop a new religious order for them.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0652"
+  ]
+ },
+ {
+  "name": "Philip the Tall",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "John of San Costanzo",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Juniper",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Barbarus",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Bernard Vigilante de Vida",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the early followers of Francis.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Angelo Tancredi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early follower of Francis from Rieti, a noble knight before joining.",
+  "evidence": [
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Brother Illuminato",
+  "type": "Character",
+  "aliases": [
+   "Illuminato"
+  ],
+  "description": "Franciscan who accompanied Francis to meet the Sultan of Egypt.",
+  "evidence": [
+   "the-church::0614"
+  ]
+ },
+ {
+  "name": "Sultan of Egypt",
+  "type": "Character",
+  "aliases": [],
+  "description": "Muslim ruler who received Francis courteously in his encampment, offered gifts, and sent him back to the Christian camp.",
+  "evidence": [
+   "the-church::0614"
+  ]
+ },
+ {
+  "name": "Brother Elias Bonibarone",
+  "type": "Character",
+  "aliases": [
+   "Elias Bonibarone",
+   "Brother Elias",
+   "Elias"
+  ],
+  "description": "Minister General of the Little Brothers, born 1180 at Belvilia; handles active leadership as Francis' health fails and is tempted by acquiring land and money.",
+  "evidence": [
+   "the-church::0617",
+   "the-church::0618",
+   "the-church::0619"
+  ]
+ },
+ {
+  "name": "Giovanni Parenti",
+  "type": "Character",
+  "aliases": [],
+  "description": "Provincial of Spain who historically succeeds Elias at the head of the Franciscans.",
+  "evidence": [
+   "the-church::0619"
+  ]
+ },
+ {
+  "name": "Clare of Assisi",
+  "type": "Character",
+  "aliases": [
+   "Clare",
+   "Chiara"
+  ],
+  "description": "Noblewoman of Assisi, born 1194, who followed Francis, became abbess of the Poor Sisters at Saint Damian, and wrote the first rule by a woman.",
+  "evidence": [
+   "the-church::0631",
+   "the-church::0632",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Favarone di Offreduccio",
+  "type": "Character",
+  "aliases": [],
+  "description": "Noble father of Clare of Assisi.",
+  "evidence": [
+   "the-church::0631"
+  ]
+ },
+ {
+  "name": "Ortolana",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mother of Clare of Assisi.",
+  "evidence": [
+   "the-church::0631"
+  ]
+ },
+ {
+  "name": "Agnes of Assisi",
+  "type": "Character",
+  "aliases": [
+   "Agnes",
+   "Catherine"
+  ],
+  "description": "Clare's sister, born Catherine, saved by miracle from her family and renamed Agnes; founded a community at Monticelli in 1219.",
+  "evidence": [
+   "the-church::0631",
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Balvina",
+  "type": "Character",
+  "aliases": [],
+  "description": "Clare's niece who moved from Arezzo in 1214 to become abbess of Vallegloria, Spello.",
+  "evidence": [
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Marsebilia",
+  "type": "Character",
+  "aliases": [],
+  "description": "Companion of Clare who started a new Poor Sisters group in Foligno in 1217 as its abbess.",
+  "evidence": [
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Cristiana",
+  "type": "Character",
+  "aliases": [],
+  "description": "Companion of Clare who co-founded the Foligno community in 1217.",
+  "evidence": [
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Pope Innocent IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pope to whom Clare's completed written rule is presented in 1253.",
+  "evidence": [
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Pope Gregory IX",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pope who in 1228 authorizes the Poor Sisters' way of life with the privilege of poverty.",
+  "evidence": [
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Miramolin",
+  "type": "Character",
+  "aliases": [
+   "King of Morocco"
+  ],
+  "description": "King of Morocco who imprisoned and later killed Franciscan friars, whose remains the flames would not touch.",
+  "evidence": [
+   "the-church::0628"
+  ]
+ },
+ {
+  "name": "Bartholomew",
+  "type": "Character",
+  "aliases": [],
+  "description": "Man visited by Francis who had a demon-possessed madman living with him; God silenced the demon.",
+  "evidence": [
+   "the-church::0628",
+   "the-church::0629"
+  ]
+ },
+ {
+  "name": "Jean de Brienne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Emperor of Constantinople who, after dreams of friars, gave up his throne to live as a friar until his death.",
+  "evidence": [
+   "the-church::0629"
+  ]
+ },
+ {
+  "name": "Franciscans",
+  "type": "Faction",
+  "aliases": [
+   "Little Brothers",
+   "Friars Minor",
+   "Franciscan friars",
+   "Franciscan order"
+  ],
+  "description": "Religious movement founded by Francis of Assisi living in absolute poverty, begging and preaching; lacks official papal approval in 1220.",
+  "evidence": [
+   "the-church::0602",
+   "the-church::0615",
+   "the-church::0653"
+  ]
+ },
+ {
+  "name": "Poor Sisters",
+  "type": "Faction",
+  "aliases": [
+   "Damianites",
+   "Poor Sister"
+  ],
+  "description": "Community of women following Francis' ideals under Clare at Saint Damian, living in poverty without total enclosure.",
+  "evidence": [
+   "the-church::0632",
+   "the-church::0634",
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Order of Preachers",
+  "type": "Faction",
+  "aliases": [
+   "Dominicans",
+   "Dominican friars",
+   "Preachers"
+  ],
+  "description": "Dominican friars founded by Dominic to preach the gospel and combat heresy, emphasizing learning and university involvement.",
+  "evidence": [
+   "the-church::0602",
+   "the-church::0603",
+   "the-church::0604"
+  ]
+ },
+ {
+  "name": "Carmelites",
+  "type": "Faction",
+  "aliases": [],
+  "description": "One of the mendicant orders to which friars and nuns belong.",
+  "evidence": [
+   "the-church::0602"
+  ]
+ },
+ {
+  "name": "Mendicants",
+  "type": "Faction",
+  "aliases": [
+   "mendicant orders"
+  ],
+  "description": "Religious who own no possessions personally or as a group, may beg, and answer to their own leaders and the pope rather than the local bishop.",
+  "evidence": [
+   "the-church::0602"
+  ]
+ },
+ {
+  "name": "Tertiaries",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Laymen following the Franciscan lifestyle without clerical vows, living with their families, under a rule of 1221.",
+  "evidence": [
+   "the-church::0650"
+  ]
+ },
+ {
+  "name": "Benedictines",
+  "type": "Faction",
+  "aliases": [
+   "Benedictine monasteries",
+   "Benedictine nuns"
+  ],
+  "description": "Long-standing monastic order whose monasteries and rule are challenged by Francis' movement.",
+  "evidence": [
+   "the-church::0600",
+   "the-church::0617",
+   "the-church::0631"
+  ]
+ },
+ {
+  "name": "Albigensians",
+  "type": "Faction",
+  "aliases": [
+   "Cathars"
+  ],
+  "description": "Cathar movement in southern France whose popularity inspired Dominic.",
+  "evidence": [
+   "the-church::0603"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Muslims to whom Francis sought to preach; the Franciscans in Morocco stirred dissent between Christians and Saracens.",
+  "evidence": [
+   "the-church::0613",
+   "the-church::0654"
+  ]
+ },
+ {
+  "name": "Sufi",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Muslim mystic suspected by some of afflicting Francis with illness.",
+  "evidence": [
+   "the-church::0614"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of magi; no documented interactions with the Friars Minor yet, though stories circulate.",
+  "evidence": [
+   "the-church::0628",
+   "the-church::0649",
+   "the-church::0656"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "Faction",
+  "aliases": [
+   "Redcap"
+  ],
+  "description": "Hermetic messengers; one lost an enchanted brooch found by a Franciscan friar.",
+  "evidence": [
+   "the-church::0662"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Secretive initiatory group; outsiders may view the Franciscans as a Mystery Cult or Holy Tradition.",
+  "evidence": [
+   "the-church::0627",
+   "the-church::0638"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House most likely to take an active interest in the Franciscan leadership succession.",
+  "evidence": [
+   "the-church::0651"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House whose members might attend Francis' sermons to animals in the wild.",
+  "evidence": [
+   "the-church::0630"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic tribunal where a story circulates of a friar who lived with a spring covenant.",
+  "evidence": [
+   "the-church::0658",
+   "the-church::0659"
+  ]
+ },
+ {
+  "name": "Holy Tradition: Franciscans",
+  "type": "Faction",
+  "aliases": [
+   "Franciscan Holy Tradition"
+  ],
+  "description": "Treatment of the Franciscans as a Holy Tradition with favored Abilities Intervention, Meditation, Purity, and Understanding, open only to friars or Poor Sisters.",
+  "evidence": [
+   "the-church::0638",
+   "the-church::0639",
+   "the-church::0661"
+  ]
+ },
+ {
+  "name": "Holy Tradition",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine initiatory tradition, treated like a Mystery Cult, granting supernatural Abilities.",
+  "evidence": [
+   "the-church::0638",
+   "the-church::0661"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Set of requirements for initiating a Virtue, here modeled on formative experiences in the life of Francis.",
+  "evidence": [
+   "the-church::0639",
+   "the-church::0640",
+   "the-church::0648"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Initiator who guides and instructs an Initiate through an Initiation Script.",
+  "evidence": [
+   "the-church::0639",
+   "the-church::0640",
+   "the-church::0641"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Initiation component imposing a Flaw or hardship; Major and Minor Ordeals give Script bonuses.",
+  "evidence": [
+   "the-church::0642",
+   "the-church::0643",
+   "the-church::0646"
+  ]
+ },
+ {
+  "name": "Quest",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Initiation component requiring the Initiate to undertake a task, worth a Script bonus of 3.",
+  "evidence": [
+   "the-church::0641",
+   "the-church::0643",
+   "the-church::0645"
+  ]
+ },
+ {
+  "name": "Path of the Founder",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sympathy bonus for Initiation Scripts that imitate the life of Francis.",
+  "evidence": [
+   "the-church::0642",
+   "the-church::0644",
+   "the-church::0646"
+  ]
+ },
+ {
+  "name": "Psychodrama",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Technique of acting out situations during Initiation, referenced from Houses of Hermes: Mystery Cults.",
+  "evidence": [
+   "the-church::0641"
+  ]
+ },
+ {
+  "name": "Divine Ascension",
+  "type": "Concept",
+  "aliases": [
+   "Divine Unity"
+  ],
+  "description": "Experience of Divine Unity from which Francis' supernatural Abilities derive.",
+  "evidence": [
+   "the-church::0612"
+  ]
+ },
+ {
+  "name": "Divine Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Warping from the Divine, cause of Francis' Fragile Constitution and future stigmata.",
+  "evidence": [
+   "the-church::0612"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural distortion measured by a Warping Score.",
+  "evidence": [
+   "the-church::0612"
+  ]
+ },
+ {
+  "name": "Stigmata",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Wounds of Christ given to Francis by God in 1224, historically.",
+  "evidence": [
+   "the-church::0612",
+   "the-church::0650"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points granted by True Faith that can be used like Confidence.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0612",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Hope",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Advantage of True Faith 5 adding 6 when using Faith Points like Confidence.",
+  "evidence": [
+   "the-church::0612"
+  ]
+ },
+ {
+  "name": "Charity",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Advantage of True Faith 5 making the bearer radiate a Divine Empyreal aura.",
+  "evidence": [
+   "the-church::0612"
+  ]
+ },
+ {
+  "name": "Empyreal Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tangible Divine aura radiated by Francis at level 1 to Voice range.",
+  "evidence": [
+   "the-church::0612"
+  ]
+ },
+ {
+  "name": "True Faith Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic resistance derived from True Faith.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Devotion Point",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Point of devotion to a saint listeners may gain from preaching.",
+  "evidence": [
+   "the-church::0605"
+  ]
+ },
+ {
+  "name": "Ceremonial Influence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Game mechanic by which preachers change Personality Traits.",
+  "evidence": [
+   "the-church::0605"
+  ]
+ },
+ {
+  "name": "Personality Traits",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Character traits that preaching can temporarily inculcate.",
+  "evidence": [
+   "the-church::0605",
+   "the-church::0607"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of a character's renown; preachers depend on it.",
+  "evidence": [
+   "the-church::0605",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Exposure Experience",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Experience points gained from casual attendance at preaching, even in unknown Abilities.",
+  "evidence": [
+   "the-church::0606"
+  ]
+ },
+ {
+  "name": "Aesthetic Quality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Quality of a preacher's performance used as the study source for followers.",
+  "evidence": [
+   "the-church::0606"
+  ]
+ },
+ {
+  "name": "Preaching",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Popular preaching outdoors in the vernacular, treated as performance; only ordained priests may preach without Church concern.",
+  "evidence": [
+   "the-church::0604",
+   "the-church::0605",
+   "the-church::0606"
+  ]
+ },
+ {
+  "name": "Regula Bullata",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Franciscan rule approved by Pope Honorius in 1223.",
+  "evidence": [
+   "the-church::0650"
+  ]
+ },
+ {
+  "name": "Cum Delicti",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Letter of approval from Pope Honorius commanding prelates to receive the Little Brothers as Catholic faithful.",
+  "evidence": [
+   "the-church::0615",
+   "the-church::0616"
+  ]
+ },
+ {
+  "name": "Privilege of Poverty",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1228 privilege from Pope Gregory IX confirming the Poor Sisters' right to refuse endowments.",
+  "evidence": [
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Rule of Clare",
+  "type": "Concept",
+  "aliases": [
+   "form of life"
+  ],
+  "description": "Rule devised by Clare, the first written by a woman, based on Francis' ideas and not requiring total enclosure.",
+  "evidence": [
+   "the-church::0634",
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Benedictine Rule",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Conventional monastic rule on which Ugolino based a document for the Poor Sisters.",
+  "evidence": [
+   "the-church::0634"
+  ]
+ },
+ {
+  "name": "Minister General",
+  "type": "Concept",
+  "aliases": [
+   "minister-general"
+  ],
+  "description": "Title of the leader of the Franciscans after Francis.",
+  "evidence": [
+   "the-church::0618",
+   "the-church::0651"
+  ]
+ },
+ {
+  "name": "Monastic Enclosure",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rule of enclosure and stability of abode that Francis' preachers ignore.",
+  "evidence": [
+   "the-church::0600",
+   "the-church::0634"
+  ]
+ },
+ {
+  "name": "Mass",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sacrament celebrated by ordained priests; a friar celebrating daily can change a Magical aura.",
+  "evidence": [
+   "the-church::0622",
+   "the-church::0658"
+  ]
+ },
+ {
+  "name": "Sacraments",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Church rites that friars may administer, causing conflicts with local clergy.",
+  "evidence": [
+   "the-church::0602"
+  ]
+ },
+ {
+  "name": "Heresy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Wrong doctrine; academic theologians and Franciscans risk accusation of it.",
+  "evidence": [
+   "the-church::0603",
+   "the-church::0656"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura of a place; a Magical aura can change under a friar's worship, and a priest may bring a Dominion aura.",
+  "evidence": [
+   "the-church::0622",
+   "the-church::0623",
+   "the-church::0658"
+  ]
+ },
+ {
+  "name": "Dominion Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine aura that magi fear would rise at a covenant where a priest settles.",
+  "evidence": [
+   "the-church::0658"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical resource; a covenant's vis source may be lost if an aura changes.",
+  "evidence": [
+   "the-church::0622",
+   "the-church::0623"
+  ]
+ },
+ {
+  "name": "Hermetic Code",
+  "type": "Concept",
+  "aliases": [
+   "Code of Hermes"
+  ],
+  "description": "Law of the Order of Hermes; a magus displaying spells to mundanes appears to violate it.",
+  "evidence": [
+   "the-church::0620",
+   "the-church::0621"
+  ]
+ },
+ {
+  "name": "Theurgy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic of working with spirits; magi interested in it may investigate Francis.",
+  "evidence": [
+   "the-church::0626",
+   "the-church::0627"
+  ]
+ },
+ {
+  "name": "Planetary Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery technique invoking planetary influences when enchanting devices.",
+  "evidence": [
+   "the-church::0627"
+  ]
+ },
+ {
+  "name": "Interplanetary Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Theurgic magic of celestial spirits from Realms of Power: Magic.",
+  "evidence": [
+   "the-church::0627"
+  ]
+ },
+ {
+  "name": "Necromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic of death spirits of interest to characters investigating Francis' 'sister Bodily Death'.",
+  "evidence": [
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Initiation Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Total used to succeed at a Mystery initiation, including Script Bonus.",
+  "evidence": [
+   "the-church::0642",
+   "the-church::0644",
+   "the-church::0645"
+  ]
+ },
+ {
+  "name": "Organization Lore: Franciscans",
+  "type": "Ability",
+  "aliases": [
+   "Franciscan Lore",
+   "Franciscans Lore"
+  ],
+  "description": "Knowledge of the Franciscan organization; required with Presence for Franciscan Initiation Scripts.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0642",
+   "the-church::0646"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of God; Francis' powers and the Holy Tradition derive from it.",
+  "evidence": [
+   "the-church::0612",
+   "the-church::0630"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "Infernal Might"
+  ],
+  "description": "Realm of demons, ever alert to tempt and corrupt the Franciscans.",
+  "evidence": [
+   "the-church::0630",
+   "the-church::0658"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "Faerie Realm"
+  ],
+  "description": "Realm whose creatures might be drawn to Francis' parables.",
+  "evidence": [
+   "the-church::0630"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of magic; a Magical aura hosts a covenant's vis source.",
+  "evidence": [
+   "the-church::0622",
+   "the-church::0624"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine presence in human society, subject of Dominion Lore and Dominion auras.",
+  "evidence": [
+   "the-church::0605",
+   "the-church::0658"
+  ]
+ },
+ {
+  "name": "Astra Planeta",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Named Spirits of the planets, two of whom Francis may be in touch with.",
+  "evidence": [
+   "the-church::0624",
+   "the-church::0625"
+  ]
+ },
+ {
+  "name": "Selene",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Named Spirit of the Moon, ruling commoners and witchcraft, possibly Francis' 'sister'.",
+  "evidence": [
+   "the-church::0624",
+   "the-church::0625"
+  ]
+ },
+ {
+  "name": "Helios",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Named Spirit of the Sun ruling healing, possibly Francis' 'brother'.",
+  "evidence": [
+   "the-church::0624",
+   "the-church::0625"
+  ]
+ },
+ {
+  "name": "Named Spirits",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Class of powerful spirits such as the Astra Planeta.",
+  "evidence": [
+   "the-church::0624"
+  ]
+ },
+ {
+  "name": "Spirits of the Elements",
+  "type": "Creature",
+  "aliases": [
+   "Earth",
+   "Fire",
+   "Wind",
+   "elementals"
+  ],
+  "description": "Low-powered elemental spirits tied to Terram, Ignem, and Auram that Francis may call Earth, Fire, and Wind.",
+  "evidence": [
+   "the-church::0625",
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Primal Spirit",
+  "type": "Creature",
+  "aliases": [
+   "Mother Earth"
+  ],
+  "description": "Spirit governing the whole earth, possibly identified with Mother Earth by some.",
+  "evidence": [
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Leti",
+  "type": "Creature",
+  "aliases": [
+   "Sister Bodily Death"
+  ],
+  "description": "Spirits of death, one of which Francis might call his sister Bodily Death.",
+  "evidence": [
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Thanatoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Leti spirits of peaceful death.",
+  "evidence": [
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Keres",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Leti spirits of violent death.",
+  "evidence": [
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Moroi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Leti spirits of disease.",
+  "evidence": [
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Divine messenger; one brought bread to Alemquer friary and angelic advice guides Francis' Initiation Scripts.",
+  "evidence": [
+   "the-church::0612",
+   "the-church::0628",
+   "the-church::0648"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal spirit; one possessed a madman, and demons tempt the friars.",
+  "evidence": [
+   "the-church::0628",
+   "the-church::0644",
+   "the-church::0658"
+  ]
+ },
+ {
+  "name": "Dragon of Assisi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dragon seen prowling Assisi's walls in Sylvester's dream, put to flight by a cross from Francis' mouth.",
+  "evidence": [
+   "the-church::0629"
+  ]
+ },
+ {
+  "name": "San Damiano Crucifix",
+  "type": "Item",
+  "aliases": [
+   "Byzantine crucifix"
+  ],
+  "description": "Byzantine-style crucifix in San Damian from which a voice told Francis to repair God's house.",
+  "evidence": [
+   "the-church::0608",
+   "the-church::0643"
+  ]
+ },
+ {
+  "name": "Enchanted Brooch",
+  "type": "Item",
+  "aliases": [],
+  "description": "Hermetic enchanted item lost by a Redcap that makes travel easier, found by a Franciscan friar.",
+  "evidence": [
+   "the-church::0661",
+   "the-church::0662"
+  ]
+ },
+ {
+  "name": "Assisi",
+  "type": "Place",
+  "aliases": [],
+  "description": "Italian town where Francis and Clare were born and the Franciscans are centered.",
+  "evidence": [
+   "the-church::0608",
+   "the-church::0613",
+   "the-church::0631"
+  ]
+ },
+ {
+  "name": "Perugia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town at war with Assisi in 1202 where Francis was taken captive.",
+  "evidence": [
+   "the-church::0608"
+  ]
+ },
+ {
+  "name": "Church of San Damiano",
+  "type": "Place",
+  "aliases": [
+   "San Damian",
+   "Saint Damian",
+   "Saint Damien"
+  ],
+  "description": "Small semi-derelict church outside Assisi where Francis heard the crucifix speak; home of Clare's Poor Sisters.",
+  "evidence": [
+   "the-church::0608",
+   "the-church::0631",
+   "the-church::0643"
+  ]
+ },
+ {
+  "name": "Portiuncula",
+  "type": "Place",
+  "aliases": [
+   "Portinuncula"
+  ],
+  "description": "Site at Assisi of the Franciscans' first general chapter meeting.",
+  "evidence": [
+   "the-church::0613"
+  ]
+ },
+ {
+  "name": "Saint Mary of the Angels",
+  "type": "Place",
+  "aliases": [],
+  "description": "Little chapel in Francis' valley near the original Franciscan settlement.",
+  "evidence": [
+   "the-church::0641"
+  ]
+ },
+ {
+  "name": "Francis' Cave",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cave high in a valley near Assisi where Francis meditated; site of Meditation and Purity Initiations.",
+  "evidence": [
+   "the-church::0624",
+   "the-church::0640",
+   "the-church::0646"
+  ]
+ },
+ {
+  "name": "Lateran Basilica",
+  "type": "Place",
+  "aliases": [],
+  "description": "Basilica Innocent III dreamt of as collapsing but propped up by a small ragged man.",
+  "evidence": [
+   "the-church::0610"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "Seat of the papacy where Francis sought approval; Intervention Initiates travel there for a papal blessing.",
+  "evidence": [
+   "the-church::0609",
+   "the-church::0613",
+   "the-church::0645"
+  ]
+ },
+ {
+  "name": "Vatican",
+  "type": "Place",
+  "aliases": [],
+  "description": "Papal residence where Francis requested an audience with Innocent III.",
+  "evidence": [
+   "the-church::0609"
+  ]
+ },
+ {
+  "name": "Bologna",
+  "type": "Place",
+  "aliases": [],
+  "description": "City of the 1220 Dominican general meeting and where friars lived in a stone house planning a school.",
+  "evidence": [
+   "the-church::0603",
+   "the-church::0617",
+   "the-church::0619"
+  ]
+ },
+ {
+  "name": "Oxford",
+  "type": "Place",
+  "aliases": [],
+  "description": "English city reached by the Preachers in 1221.",
+  "evidence": [
+   "the-church::0604"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region Francis tried to reach in 1212 and visited in 1219 with crusaders.",
+  "evidence": [
+   "the-church::0613",
+   "the-church::0614"
+  ]
+ },
+ {
+  "name": "Syria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Francis met crusaders and Elias led the Friars Minor in 1219.",
+  "evidence": [
+   "the-church::0614",
+   "the-church::0619"
+  ]
+ },
+ {
+  "name": "Dalmatian Coast",
+  "type": "Place",
+  "aliases": [],
+  "description": "Coast where Francis' ship to the Holy Land was wrecked in 1212.",
+  "evidence": [
+   "the-church::0613"
+  ]
+ },
+ {
+  "name": "Morocco",
+  "type": "Place",
+  "aliases": [],
+  "description": "Destination of early Franciscan missions where friars were martyred in 1220.",
+  "evidence": [
+   "the-church::0613",
+   "the-church::0628",
+   "the-church::0654"
+  ]
+ },
+ {
+  "name": "Belvilia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place near Assisi where Elias Bonibarone was born.",
+  "evidence": [
+   "the-church::0619"
+  ]
+ },
+ {
+  "name": "Saint Paul's Nunnery",
+  "type": "Place",
+  "aliases": [],
+  "description": "Benedictine nunnery near Bastia, Umbria, where Clare first took refuge.",
+  "evidence": [
+   "the-church::0631"
+  ]
+ },
+ {
+  "name": "Monticelli",
+  "type": "Place",
+  "aliases": [],
+  "description": "Community near Florence founded by Agnes in 1219 and addressed by Ugolino's rule.",
+  "evidence": [
+   "the-church::0634",
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Vallegloria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Monastery at Spello in Umbria where Balvina became abbess.",
+  "evidence": [
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Foligno",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town where Marsebilia and Cristiana founded a Poor Sisters group in 1217.",
+  "evidence": [
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Arezzo",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of the monastery Balvina left.",
+  "evidence": [
+   "the-church::0635"
+  ]
+ },
+ {
+  "name": "Alemquer",
+  "type": "Place",
+  "aliases": [],
+  "description": "Friary where an angel brought bread to the brothers.",
+  "evidence": [
+   "the-church::0628"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "aliases": [],
+  "description": "Seat of Jean de Brienne as emperor.",
+  "evidence": [
+   "the-church::0629"
+  ]
+ },
+ {
+  "name": "Provence",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region from which Francis' mother came.",
+  "evidence": [
+   "the-church::0608",
+   "the-church::0667"
+  ]
+ },
+ {
+  "name": "Friar",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mendicant religious who travel preaching and begging.",
+  "evidence": [
+   "the-church::0602",
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigator useful in the 'New Arrivals' story seed.",
+  "evidence": [
+   "the-church::0620"
+  ]
+ },
+ {
+  "name": "Archmage",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Senior magus; one recruits characters to investigate Francis.",
+  "evidence": [
+   "the-church::0622"
+  ]
+ },
+ {
+  "name": "Elementalist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hedge-magic practitioner who may wish to talk to Francis about elementals.",
+  "evidence": [
+   "the-church::0626"
+  ]
+ },
+ {
+  "name": "Franciscan Nun",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog template for a Poor Sister with Lesser Purifying Touch.",
+  "evidence": [
+   "the-church::0664",
+   "the-church::0665"
+  ]
+ },
+ {
+  "name": "Franciscan Friar",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog template for a young mendicant friar.",
+  "evidence": [
+   "the-church::0666",
+   "the-church::0667"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant servant; grog templates are provided for Franciscans.",
+  "evidence": [
+   "the-church::0659",
+   "the-church::0664"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Character type; a Franciscan teacher Companion appears in Realms of Power: The Divine.",
+  "evidence": [
+   "the-church::0663"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "magi",
+   "maga"
+  ],
+  "description": "Hermetic wizard, likely blamed for supernatural events.",
+  "evidence": [
+   "the-church::0619",
+   "the-church::0620",
+   "the-church::0658"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of earth, tied to Francis' spirit 'Earth'.",
+  "evidence": [
+   "the-church::0625"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of fire, tied to Francis' spirit 'Fire'.",
+  "evidence": [
+   "the-church::0625"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of air, tied to Francis' spirit 'Wind'.",
+  "evidence": [
+   "the-church::0625"
+  ]
+ },
+ {
+  "name": "Mendicant Friar",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue covering male Franciscan characters; conventionally requires Monastic Vows.",
+  "evidence": [
+   "the-church::0602",
+   "the-church::0611",
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting Faith Score and Faith Points; Francis has Faith Score 5.",
+  "evidence": [
+   "the-church::0609",
+   "the-church::0611",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Francis and the Franciscan Friar template.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Great Presence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Francis.",
+  "evidence": [
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Francis and Clare.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue representing Devotion obtained with True Faith 2.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0612",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue required of members of the Order of Preachers.",
+  "evidence": [
+   "the-church::0604"
+  ]
+ },
+ {
+  "name": "Magister in Artibus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue/degree; Dominicans lacking it are sent to university.",
+  "evidence": [
+   "the-church::0604"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Brother Elias.",
+  "evidence": [
+   "the-church::0618"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Brother Elias.",
+  "evidence": [
+   "the-church::0618"
+  ]
+ },
+ {
+  "name": "Senior Clergy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue of Clare as abbess.",
+  "evidence": [
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Clare.",
+  "evidence": [
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Privileged Upbringing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Clare.",
+  "evidence": [
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Religious",
+  "type": "Virtue",
+  "aliases": [
+   "Social Status: Religious"
+  ],
+  "description": "Social Status appropriate to female Franciscans.",
+  "evidence": [
+   "the-church::0602",
+   "the-church::0664"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Franciscan Nun template.",
+  "evidence": [
+   "the-church::0664"
+  ]
+ },
+ {
+  "name": "Lesser Purifying Touch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Franciscan Nun template, against Quotidian Fever.",
+  "evidence": [
+   "the-church::0664"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Franciscan Friar template.",
+  "evidence": [
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue Francis may have if he communicates with spirits.",
+  "evidence": [
+   "the-church::0628"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue sparing a magus from blame in a story seed.",
+  "evidence": [
+   "the-church::0619"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue and Ability favored by the Franciscan Holy Tradition, gained by a season in Francis' cave.",
+  "evidence": [
+   "the-church::0609",
+   "the-church::0641",
+   "the-church::0642"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue and Ability gained by a vision before a Byzantine crucifix at Saint Damien.",
+  "evidence": [
+   "the-church::0609",
+   "the-church::0643",
+   "the-church::0644"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue and Ability gained by imitating Francis' winter journey and obtaining a papal blessing.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0645"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue and Ability gained through a season of fasting in Francis' cave.",
+  "evidence": [
+   "the-church::0610",
+   "the-church::0646"
+  ]
+ },
+ {
+  "name": "Driven",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Francis is driven to live like the apostles, and Meditation initiates gain it as a Major Flaw.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0642"
+  ]
+ },
+ {
+  "name": "Monastic Vows",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw compulsory for the Franciscan Holy Tradition.",
+  "evidence": [
+   "the-church::0602",
+   "the-church::0611",
+   "the-church::0639"
+  ]
+ },
+ {
+  "name": "Ability Block",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw blocking a category of Abilities.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0636",
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Compassionate",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Francis and Clare.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw from Divine Warping in Francis; gained with Purity initiation.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0612",
+   "the-church::0646"
+  ]
+ },
+ {
+  "name": "Social Handicap",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Francis has it for Unworldliness.",
+  "evidence": [
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Clare.",
+  "evidence": [
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Motion Sickness",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Clare.",
+  "evidence": [
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Weakness",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Franciscan Nun template (babies).",
+  "evidence": [
+   "the-church::0664"
+  ]
+ },
+ {
+  "name": "Continence",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Franciscan Nun template.",
+  "evidence": [
+   "the-church::0664"
+  ]
+ },
+ {
+  "name": "Lame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Franciscan Nun template.",
+  "evidence": [
+   "the-church::0664"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Franciscan Friar template.",
+  "evidence": [
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Temperate",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Franciscan Friar template.",
+  "evidence": [
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw gained with the Understanding initiation.",
+  "evidence": [
+   "the-church::0644"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw gained by an unworthy candidate attempting the Understanding initiation.",
+  "evidence": [
+   "the-church::0644"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw making a character stand out and be blamed for supernatural events.",
+  "evidence": [
+   "the-church::0620"
+  ]
+ },
+ {
+  "name": "Profession: Preacher",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability describing a preacher's development; can always be learned by listening to a preacher.",
+  "evidence": [
+   "the-church::0605",
+   "the-church::0606",
+   "the-church::0611"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability; unwise to preach without a bishop's license.",
+  "evidence": [
+   "the-church::0606",
+   "the-church::0611",
+   "the-church::0618"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that preachers may teach.",
+  "evidence": [
+   "the-church::0605",
+   "the-church::0606",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of knowledge about the Church.",
+  "evidence": [
+   "the-church::0606",
+   "the-church::0611",
+   "the-church::0618"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability a peasant might learn from a preacher's admonitions.",
+  "evidence": [
+   "the-church::0606"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability taught by a friar to a spring covenant's grogs.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0618",
+   "the-church::0659"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability possessed by Brother Elias.",
+  "evidence": [
+   "the-church::0618"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of wound treatment.",
+  "evidence": [
+   "the-church::0618",
+   "the-church::0636",
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of understanding people.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0618",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by Francis, Elias, and Clare.",
+  "evidence": [
+   "the-church::0612",
+   "the-church::0618",
+   "the-church::0637"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in praying and preaching.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0618",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of knowledge of a region.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0618",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability; Francis specializes in birds.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0667"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by Francis and Clare.",
+  "evidence": [
+   "the-church::0612",
+   "the-church::0637",
+   "the-church::0667"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability possessed by Elias.",
+  "evidence": [
+   "the-church::0618"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability possessed by Elias and Clare.",
+  "evidence": [
+   "the-church::0618",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability possessed by Francis and Clare.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0636"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability; Francis uses it in preaching.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0618",
+   "the-church::0666"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language Ability.",
+  "evidence": [
+   "the-church::0612",
+   "the-church::0618",
+   "the-church::0667"
+  ]
+ },
+ {
+  "name": "Italian",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language Ability.",
+  "evidence": [
+   "the-church::0611",
+   "the-church::0618",
+   "the-church::0637"
+  ]
+ },
+ {
+  "name": "Arabic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language Ability possessed by Elias.",
+  "evidence": [
+   "the-church::0618"
+  ]
+ }
+]

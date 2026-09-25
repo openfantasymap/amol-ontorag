@@ -115,13 +115,14 @@ Claude model such as `claude-opus-4-8` or `claude-sonnet-4-6` is a natural fit.
 
 ## What's in the dataset
 
-Version 0.5.0 holds **25 reviewed sourcebooks**: the Definitive Edition core rules
+Version 0.6.0 holds **25 reviewed sourcebooks**: the Definitive Edition core rules
 plus 24 supplements. From them the build produces:
 
 - **17,942 chunks**, each with a 768-dimension `nomic-embed-text` vector;
-- **3,866 entities**: tags, characters, spells, places, factions, creatures, items
-  and proficiencies, over a curated spine (Mythic Europe, the ArM5 rule set, the 15
-  Hermetic Arts, the 12 Houses, the 4 Realms, the Tribunals).
+- **13,014 entities**, extracted from all 25 books: tags (virtues, flaws, concepts…),
+  characters, places, spells, items, creatures, factions and proficiencies, over a
+  curated spine (Mythic Europe, the ArM5 rule set, the 15 Hermetic Arts, the 12
+  Houses, the 4 Realms, the Tribunals). Every book has entities of its own.
 
 Each book is a pack, so you can scope retrieval or composition to a subset of books.
 See [`docs/composition.md`](docs/composition.md). Counts come from `manifest.json`.

@@ -1,0 +1,1693 @@
+[
+ {
+  "name": "Siege",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A military operation in which an attacking army invests a castle or city; represented in play through a series of decisive events at intervals set by the castle's lowest characteristic.",
+  "evidence": [
+   "lords-of-men::0604",
+   "lords-of-men::0608",
+   "lords-of-men::0621"
+  ]
+ },
+ {
+  "name": "Castle Garrison",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Castle characteristic measured in combat groups of infantry, levies, knights, serjeants and archers; it sets a Weight of Numbers modifier and check interval.",
+  "evidence": [
+   "lords-of-men::0600",
+   "lords-of-men::0615"
+  ]
+ },
+ {
+  "name": "Castle Defenses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Castle characteristic describing walls, earthworks and moats, graded Shoddy to Excellent, giving a Defense Bonus and determining wall damage levels.",
+  "evidence": [
+   "lords-of-men::0601",
+   "lords-of-men::0602"
+  ]
+ },
+ {
+  "name": "Castle Supplies",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Castle characteristic representing stored food, water and materials and the ability to resupply; it grants a Siege Conditions Bonus to supplies rolls.",
+  "evidence": [
+   "lords-of-men::0603",
+   "lords-of-men::0605"
+  ]
+ },
+ {
+  "name": "Stockade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Siege tactic of surrounding at least three castle walls to starve the garrison; forces periodic supplies rolls until the castle surrenders.",
+  "evidence": [
+   "lords-of-men::0605",
+   "lords-of-men::0606",
+   "lords-of-men::0618"
+  ]
+ },
+ {
+  "name": "Supplies Roll",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roll of Siege Conditions Bonus plus stress die against an Ease Factor based on garrison size and years under siege; failure reduces the castle's supply quality.",
+  "evidence": [
+   "lords-of-men::0605",
+   "lords-of-men::0606"
+  ]
+ },
+ {
+  "name": "Undermining",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Siege attack in which miners dig a supported tunnel under a wall and burn the supports to collapse it; resolved with Profession Sapper.",
+  "evidence": [
+   "lords-of-men::0611",
+   "lords-of-men::0613"
+  ]
+ },
+ {
+  "name": "Counter-mining",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Defensive tunnelling by a castle garrison to collapse enemy mines before they reach the walls.",
+  "evidence": [
+   "lords-of-men::0611",
+   "lords-of-men::0613"
+  ]
+ },
+ {
+  "name": "Artillery Assault",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Siege attack using groups of up to five mangonels or trebuchets against castle walls, resolved with Siege Weapon versus Profession Siege Engineer.",
+  "evidence": [
+   "lords-of-men::0614",
+   "lords-of-men::0608"
+  ]
+ },
+ {
+  "name": "Escalade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Direct assault in which attackers scale castle walls with towers, ladders and ropes, resolved with battlefield event rules.",
+  "evidence": [
+   "lords-of-men::0615",
+   "lords-of-men::0616",
+   "lords-of-men::0610"
+  ]
+ },
+ {
+  "name": "Sally",
+  "type": "Concept",
+  "aliases": [
+   "Counterattack",
+   "Sallying out"
+  ],
+  "description": "Counterattack in which a garrison sends troops out to destroy specific enemy units such as miners or siege artillery, at Battle Ease Factor 9.",
+  "evidence": [
+   "lords-of-men::0618",
+   "lords-of-men::0608"
+  ]
+ },
+ {
+  "name": "External Defenses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional rule for outlying fortifications that must be taken before the main castle can be assaulted, using their own Defense Bonus.",
+  "evidence": [
+   "lords-of-men::0616"
+  ]
+ },
+ {
+  "name": "Weight of Numbers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Massed combat modifier based on unit count; in sieges the garrison characteristic supplies it.",
+  "evidence": [
+   "lords-of-men::0600",
+   "lords-of-men::0615",
+   "lords-of-men::0618"
+  ]
+ },
+ {
+  "name": "Territorial Advantage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Massed combat modifier replaced by the castle's Defense Bonus during escalade battles.",
+  "evidence": [
+   "lords-of-men::0615",
+   "lords-of-men::0618"
+  ]
+ },
+ {
+  "name": "Defense Bonus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Castle rating derived from Defense Quality that, multiplied by a size modifier, gives each wall's damage levels.",
+  "evidence": [
+   "lords-of-men::0601",
+   "lords-of-men::0602",
+   "lords-of-men::0614"
+  ]
+ },
+ {
+  "name": "Battlefield Event",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Massed-combat story event used to resolve escalades and sieges, rated with Man, Size and Enemy components and an Event Bonus.",
+  "evidence": [
+   "lords-of-men::0615",
+   "lords-of-men::0618",
+   "lords-of-men::0620"
+  ]
+ },
+ {
+  "name": "Living Conditions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Modifier to aging; characters under siege suffer -2 each year in which a season is spent besieged.",
+  "evidence": [
+   "lords-of-men::0604"
+  ]
+ },
+ {
+  "name": "Deprivation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules for lack of food or air (ArM5 p.180) invoked for besieged characters and constriction victims.",
+  "evidence": [
+   "lords-of-men::0605",
+   "lords-of-men::0669"
+  ]
+ },
+ {
+  "name": "Mythic Pounds",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Unit of cost used for siege engines, covering construction or transport and ammunition.",
+  "evidence": [
+   "lords-of-men::0608",
+   "lords-of-men::0609"
+  ]
+ },
+ {
+  "name": "Ballista",
+  "type": "Item",
+  "aliases": [],
+  "description": "A large arbalest mounted on a frame, used as a sniper weapon and to launch ropes over walls.",
+  "evidence": [
+   "lords-of-men::0607",
+   "lords-of-men::0608",
+   "lords-of-men::0609"
+  ]
+ },
+ {
+  "name": "Mangonel",
+  "type": "Item",
+  "aliases": [],
+  "description": "A tension-powered catapult throwing stones on a low trajectory, used to bombard walls and gates.",
+  "evidence": [
+   "lords-of-men::0607",
+   "lords-of-men::0608",
+   "lords-of-men::0614"
+  ]
+ },
+ {
+  "name": "Trebuchet",
+  "type": "Item",
+  "aliases": [],
+  "description": "Counterweight siege engine lobbing stones in a high arc from a sling.",
+  "evidence": [
+   "lords-of-men::0607",
+   "lords-of-men::0608",
+   "lords-of-men::0614"
+  ]
+ },
+ {
+  "name": "Siege Tower",
+  "type": "Item",
+  "aliases": [],
+  "description": "Wheeled tower moved against castle walls to let troops gain a foothold under protection.",
+  "evidence": [
+   "lords-of-men::0616",
+   "lords-of-men::0615"
+  ]
+ },
+ {
+  "name": "Cat",
+  "type": "Item",
+  "aliases": [],
+  "description": "A covered mobile shelter protecting attackers as they move to the base of castle walls.",
+  "evidence": [
+   "lords-of-men::0616",
+   "lords-of-men::0617"
+  ]
+ },
+ {
+  "name": "Battering Ram",
+  "type": "Item",
+  "aliases": [],
+  "description": "Siege weapon treated as a bludgeon; used against castle doors with a stress check.",
+  "evidence": [
+   "lords-of-men::0617"
+  ]
+ },
+ {
+  "name": "Incendiaries",
+  "type": "Item",
+  "aliases": [],
+  "description": "Boiling water, oil and hot sand poured by defenders on escalading troops; damage uses the heat and corrosion table.",
+  "evidence": [
+   "lords-of-men::0617",
+   "lords-of-men::0619"
+  ]
+ },
+ {
+  "name": "Pavise",
+  "type": "Item",
+  "aliases": [],
+  "description": "A large free-standing shield behind which crossbowmen span their weapons.",
+  "evidence": [
+   "lords-of-men::0668"
+  ]
+ },
+ {
+  "name": "Lance",
+  "type": "Item",
+  "aliases": [],
+  "description": "Weapon properly wielded only by a mounted character; dismounted it functions as a long spear.",
+  "evidence": [
+   "lords-of-men::0681",
+   "lords-of-men::0688"
+  ]
+ },
+ {
+  "name": "Cantled Saddle",
+  "type": "Item",
+  "aliases": [],
+  "description": "Saddle used in tournaments or warfare giving +3 to resist being unhorsed by a charge.",
+  "evidence": [
+   "lords-of-men::0688"
+  ]
+ },
+ {
+  "name": "Heater Shield",
+  "type": "Item",
+  "aliases": [],
+  "description": "Shield used in the standard soldier's condensed-notation combat scores example.",
+  "evidence": [
+   "lords-of-men::0666"
+  ]
+ },
+ {
+  "name": "The Invisible Shield",
+  "type": "Item",
+  "aliases": [],
+  "description": "Enchanted item owned by Victor the redcap that protects him from metal weapons.",
+  "evidence": [
+   "lords-of-men::0658",
+   "lords-of-men::0659"
+  ]
+ },
+ {
+  "name": "Profession Sapper",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing planning and execution of tunnelling to undermine walls, and counter-mining; cannot be used untrained.",
+  "evidence": [
+   "lords-of-men::0611",
+   "lords-of-men::0612"
+  ]
+ },
+ {
+  "name": "Profession Siege Engineer",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability to design and construct siege engines and understand defensive engineering.",
+  "evidence": [
+   "lords-of-men::0612",
+   "lords-of-men::0614"
+  ]
+ },
+ {
+  "name": "Siege Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Martial Ability governing operation of siege weapons, individually or as crew leader.",
+  "evidence": [
+   "lords-of-men::0612",
+   "lords-of-men::0614"
+  ]
+ },
+ {
+  "name": "Profession Miner",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability allowing mining operations in place of Profession Sapper with three botch dice.",
+  "evidence": [
+   "lords-of-men::0612"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by a besieging commander to resist the Raise the Siege spell.",
+  "evidence": [
+   "lords-of-men::0622",
+   "lords-of-men::0623"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used for movement-related action priority, tipping water, and vaulting into the saddle.",
+  "evidence": [
+   "lords-of-men::0619",
+   "lords-of-men::0642",
+   "lords-of-men::0698"
+  ]
+ },
+ {
+  "name": "Climb",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to scale siege ladders.",
+  "evidence": [
+   "lords-of-men::0619"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing horsemanship; gives mounted combat bonuses and resists falls, charges and panicked horses.",
+  "evidence": [
+   "lords-of-men::0632",
+   "lords-of-men::0681",
+   "lords-of-men::0693"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unarmed combat Ability used for constriction, grapples, trips and Evasion.",
+  "evidence": [
+   "lords-of-men::0669",
+   "lords-of-men::0676",
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Martial Ability used for melee defense with weapons, and by unarmed characters.",
+  "evidence": [
+   "lords-of-men::0658",
+   "lords-of-men::0671",
+   "lords-of-men::0674"
+  ]
+ },
+ {
+  "name": "Bows",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Martial Ability for archery, used in action priority for an archer.",
+  "evidence": [
+   "lords-of-men::0658"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by magi for Action Priority Totals when interrupting with a spell.",
+  "evidence": [
+   "lords-of-men::0641"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability rolled to maintain spells or extended actions when distracted.",
+  "evidence": [
+   "lords-of-men::0632",
+   "lords-of-men::0633",
+   "lords-of-men::0634"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with Dexterity to pick a lock.",
+  "evidence": [
+   "lords-of-men::0648"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of a medic that aids Recovery Totals for bruises and wounds.",
+  "evidence": [
+   "lords-of-men::0713"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of a medic that aids Recovery Totals for bruises and wounds.",
+  "evidence": [
+   "lords-of-men::0713"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of creation, used in the siege spells Conjuration of Bread, Raise the Veronese Flag and Seal the Breach.",
+  "evidence": [
+   "lords-of-men::0621",
+   "lords-of-men::0622",
+   "lords-of-men::0623"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of control, used in Raise the Siege.",
+  "evidence": [
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of plants, used in Conjuration of Bread.",
+  "evidence": [
+   "lords-of-men::0621",
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of images, used in Raise the Veronese Flag.",
+  "evidence": [
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of minds, used in Raise the Siege.",
+  "evidence": [
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of earth, used in Seal the Breach.",
+  "evidence": [
+   "lords-of-men::0623"
+  ]
+ },
+ {
+  "name": "Conjuration of Bread",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrHe 35 ritual creating enough long-lived bread (ciabatta) to feed a moderate covenant for a season, giving +7 to a besieged castle's Supply rolls.",
+  "evidence": [
+   "lords-of-men::0621",
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Raise the Veronese Flag",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrIm 30 spell creating the illusion of ten Veronese men-at-arms manning castle walls.",
+  "evidence": [
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Raise the Siege",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 30 spell that, via arcane connection, gives a besieging commander a pessimistic view of the siege through the day.",
+  "evidence": [
+   "lords-of-men::0622",
+   "lords-of-men::0623"
+  ]
+ },
+ {
+  "name": "Seal the Breach",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 20 ritual conjuring a section of wall that knits with existing fortifications, restoring up to five damage levels.",
+  "evidence": [
+   "lords-of-men::0623"
+  ]
+ },
+ {
+  "name": "Hands of the Grasping Earth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell that holds a target fast, restricting mobility so Evasion cannot be used.",
+  "evidence": [
+   "lords-of-men::0676"
+  ]
+ },
+ {
+  "name": "Chirurgeon's Healing Touch",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual healing spell that can instantly heal a Heavy Bruise, leaving no residual wound.",
+  "evidence": [
+   "lords-of-men::0713"
+  ]
+ },
+ {
+  "name": "Castro Selvaggio",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant castle whose magi created siege spells when besieged by a Milanese force; it was eventually sacked.",
+  "evidence": [
+   "lords-of-men::0621"
+  ]
+ },
+ {
+  "name": "Milanese",
+  "type": "Faction",
+  "aliases": [
+   "Milanese force"
+  ],
+  "description": "Milanese force and rivals that besieged Castro Selvaggio and were suspected in its fall.",
+  "evidence": [
+   "lords-of-men::0621",
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Veronese",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Veronese magi of Castro Selvaggio who used illusory Veronese soldiers to fool the Milanese.",
+  "evidence": [
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Acre",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whose 1191 siege featured the Accursed Tower as an external defense.",
+  "evidence": [
+   "lords-of-men::0616"
+  ]
+ },
+ {
+  "name": "Accursed Tower",
+  "type": "Place",
+  "aliases": [],
+  "description": "External defense at the siege of Acre in 1191, example of an outlying fortification.",
+  "evidence": [
+   "lords-of-men::0616"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The game's setting, where mounted warriors, horse archers and supernatural horses appear.",
+  "evidence": [
+   "lords-of-men::0681",
+   "lords-of-men::0690",
+   "lords-of-men::0706"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where early medieval Moorish and Christian cavalry armed themselves with javelins.",
+  "evidence": [
+   "lords-of-men::0689"
+  ]
+ },
+ {
+  "name": "Moors",
+  "type": "Faction",
+  "aliases": [],
+  "description": "People noted for mounted missile cavalry in Iberia.",
+  "evidence": [
+   "lords-of-men::0689"
+  ]
+ },
+ {
+  "name": "Kataphraktoi",
+  "type": "Faction",
+  "aliases": [
+   "Byzantine kataphraktoi"
+  ],
+  "description": "Byzantine armored horse archers whose horses wore scale armor.",
+  "evidence": [
+   "lords-of-men::0689",
+   "lords-of-men::0692"
+  ]
+ },
+ {
+  "name": "Szekeley",
+  "type": "Faction",
+  "aliases": [
+   "Hungarian szekeley"
+  ],
+  "description": "Hungarian mounted archers.",
+  "evidence": [
+   "lords-of-men::0689"
+  ]
+ },
+ {
+  "name": "Turcopoles",
+  "type": "Faction",
+  "aliases": [
+   "Levantine turcopoles"
+  ],
+  "description": "Levantine mounted archers.",
+  "evidence": [
+   "lords-of-men::0689"
+  ]
+ },
+ {
+  "name": "Mongols",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Horse archers cited as commonplace missile cavalry.",
+  "evidence": [
+   "lords-of-men::0689"
+  ]
+ },
+ {
+  "name": "Almogavars",
+  "type": "Faction",
+  "aliases": [
+   "Aragonese almogavars"
+  ],
+  "description": "Aragonese quick, light skirmishers, example of Evasion-based fighters.",
+  "evidence": [
+   "lords-of-men::0675"
+  ]
+ },
+ {
+  "name": "Diabolists",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Infernal practitioners characters may battle in underground temples.",
+  "evidence": [
+   "lords-of-men::0705"
+  ]
+ },
+ {
+  "name": "Paul",
+  "type": "Character",
+  "aliases": [
+   "Paul the turb warrior"
+  ],
+  "description": "A turb warrior in an example tavern confrontation illustrating delayed actions.",
+  "evidence": [
+   "lords-of-men::0638",
+   "lords-of-men::0639"
+  ]
+ },
+ {
+  "name": "Alan",
+  "type": "Character",
+  "aliases": [],
+  "description": "A ruffian who delays his action against Paul in a combat example.",
+  "evidence": [
+   "lords-of-men::0638",
+   "lords-of-men::0639"
+  ]
+ },
+ {
+  "name": "Bruce",
+  "type": "Character",
+  "aliases": [],
+  "description": "A hot-headed ruffian who attacks Paul first in a combat example.",
+  "evidence": [
+   "lords-of-men::0638",
+   "lords-of-men::0639"
+  ]
+ },
+ {
+  "name": "Marla",
+  "type": "Character",
+  "aliases": [
+   "Marla the grog"
+  ],
+  "description": "A grog patrolling a covenant hallway who interrupts a fleeing intruder in an example.",
+  "evidence": [
+   "lords-of-men::0642"
+  ]
+ },
+ {
+  "name": "Ignatio",
+  "type": "Character",
+  "aliases": [
+   "Ignatio the shield grog"
+  ],
+  "description": "A shield grog who acts as defender for Victor the redcap against highwaymen.",
+  "evidence": [
+   "lords-of-men::0657",
+   "lords-of-men::0658",
+   "lords-of-men::0659"
+  ]
+ },
+ {
+  "name": "Victor",
+  "type": "Character",
+  "aliases": [
+   "Victor the redcap"
+  ],
+  "description": "A redcap carrying an urgent message, protected by the Invisible Shield, beset by highwaymen.",
+  "evidence": [
+   "lords-of-men::0657",
+   "lords-of-men::0658",
+   "lords-of-men::0659"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant soldier/servant character, e.g. Marla and the shield grog Ignatio.",
+  "evidence": [
+   "lords-of-men::0642",
+   "lords-of-men::0657"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic messenger, e.g. Victor carrying an urgent message.",
+  "evidence": [
+   "lords-of-men::0657",
+   "lords-of-men::0693"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "Magi"
+  ],
+  "description": "Hermetic wizard who casts spells in combat and may interrupt or Fast Cast.",
+  "evidence": [
+   "lords-of-men::0634",
+   "lords-of-men::0637",
+   "lords-of-men::0641"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Player character type for which a storyguide may choose to mitigate deadly wounds.",
+  "evidence": [
+   "lords-of-men::0679"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mounted noble warrior; knights consider attacking an opponent's horse ignoble.",
+  "evidence": [
+   "lords-of-men::0600",
+   "lords-of-men::0620",
+   "lords-of-men::0691"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Inhabitants of a covenant, who may press magi to aid a besieged town.",
+  "evidence": [
+   "lords-of-men::0606"
+  ]
+ },
+ {
+  "name": "Storyguide",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The player running the game, who adjudicates actions, situations and optional rules.",
+  "evidence": [
+   "lords-of-men::0626",
+   "lords-of-men::0673",
+   "lords-of-men::0679"
+  ]
+ },
+ {
+  "name": "Troupe",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The group of players of a saga, who choose which optional rules to use.",
+  "evidence": [
+   "lords-of-men::0610",
+   "lords-of-men::0624",
+   "lords-of-men::0701"
+  ]
+ },
+ {
+  "name": "Giant",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Very large creature; gains a bonus against scuffling and grappling from Size difference.",
+  "evidence": [
+   "lords-of-men::0675",
+   "lords-of-men::0714",
+   "lords-of-men::0715"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Huge creature easy to hit with arrows but hard to hit in melee; cannot be beaten by fisticuffs.",
+  "evidence": [
+   "lords-of-men::0675",
+   "lords-of-men::0676",
+   "lords-of-men::0714"
+  ]
+ },
+ {
+  "name": "Warhorse",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Trained combat horse that gets one action per turn and may use Confidence Points.",
+  "evidence": [
+   "lords-of-men::0690",
+   "lords-of-men::0683"
+  ]
+ },
+ {
+  "name": "Supernatural Horse",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Horse of Mythic Europe that may have higher Intelligence than its rider and decides action order.",
+  "evidence": [
+   "lords-of-men::0690"
+  ]
+ },
+ {
+  "name": "Spirit",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Insubstantial being whose touch Defense may be ineffective against.",
+  "evidence": [
+   "lords-of-men::0675"
+  ]
+ },
+ {
+  "name": "Afflicted Tongue",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Hobbled",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Lame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Missing Ear",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Missing Eye",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Missing Hand",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0679",
+   "lords-of-men::0680"
+  ]
+ },
+ {
+  "name": "Palsied Hands",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw suggested for representing permanent maiming when mitigating deadly wounds.",
+  "evidence": [
+   "lords-of-men::0680",
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Blind",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw suggested for representing permanent disability when mitigating a Fatal Wound.",
+  "evidence": [
+   "lords-of-men::0680"
+  ]
+ },
+ {
+  "name": "Crippled",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw suggested for representing permanent disability when mitigating a Fatal Wound.",
+  "evidence": [
+   "lords-of-men::0680"
+  ]
+ },
+ {
+  "name": "Enfeebled",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw suggested for representing permanent disability when mitigating a Fatal Wound.",
+  "evidence": [
+   "lords-of-men::0680"
+  ]
+ },
+ {
+  "name": "Mute",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw suggested for representing permanent disability when mitigating a Fatal Wound.",
+  "evidence": [
+   "lords-of-men::0680"
+  ]
+ },
+ {
+  "name": "No Hands",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw suggested for representing permanent disability when mitigating a Fatal Wound.",
+  "evidence": [
+   "lords-of-men::0680"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magical protection that can resist a magical lance so no charge collision occurs.",
+  "evidence": [
+   "lords-of-men::0688"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magical duel, cited as resolvable with combat rounds.",
+  "evidence": [
+   "lords-of-men::0626"
+  ]
+ },
+ {
+  "name": "Fast Casting",
+  "type": "Concept",
+  "aliases": [
+   "Fast-Cast"
+  ],
+  "description": "Casting a spell as a reaction to resolve before an attack; an optional rule uses Action Priority as its Ease Factor.",
+  "evidence": [
+   "lords-of-men::0632",
+   "lords-of-men::0641",
+   "lords-of-men::0643"
+  ]
+ },
+ {
+  "name": "Ritual Spell",
+  "type": "Concept",
+  "aliases": [
+   "Ritual"
+  ],
+  "description": "Spell cast as an extended action that may take hundreds of combat rounds.",
+  "evidence": [
+   "lords-of-men::0634",
+   "lords-of-men::0621",
+   "lords-of-men::0713"
+  ]
+ },
+ {
+  "name": "Formulaic Spell",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Known spell whose casting counts as an action in combat.",
+  "evidence": [
+   "lords-of-men::0629"
+  ]
+ },
+ {
+  "name": "Spontaneous Spell",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Improvised spell whose casting counts as an action.",
+  "evidence": [
+   "lords-of-men::0629"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link to a target required for Arcane-range spells such as Raise the Siege.",
+  "evidence": [
+   "lords-of-men::0622"
+  ]
+ },
+ {
+  "name": "Laboratory Text",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Written record of spells; those of Castro Selvaggio survived its sacking.",
+  "evidence": [
+   "lords-of-men::0621"
+  ]
+ },
+ {
+  "name": "Enchanted Item",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic device that can be triggered as a combat action.",
+  "evidence": [
+   "lords-of-men::0631",
+   "lords-of-men::0658",
+   "lords-of-men::0718"
+  ]
+ },
+ {
+  "name": "Heartbeast",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Animal form of Bjornaer magi; transforming to or from outer heartbeast form is a fast action.",
+  "evidence": [
+   "lords-of-men::0635",
+   "lords-of-men::0636"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magi's community, which may receive refugees from sieges.",
+  "evidence": [
+   "lords-of-men::0606",
+   "lords-of-men::0642",
+   "lords-of-men::0693"
+  ]
+ },
+ {
+  "name": "Combat Round",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Six-second unit of combat time in which each character acts once in Initiative order.",
+  "evidence": [
+   "lords-of-men::0625",
+   "lords-of-men::0626"
+  ]
+ },
+ {
+  "name": "Initiative",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roll determining order of action in combat rounds; spellcasting has weapon initiative modifier 0.",
+  "evidence": [
+   "lords-of-men::0627",
+   "lords-of-men::0628"
+  ]
+ },
+ {
+  "name": "Action",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Something a character does on his turn, such as attacking, casting or moving.",
+  "evidence": [
+   "lords-of-men::0629",
+   "lords-of-men::0631"
+  ]
+ },
+ {
+  "name": "Reaction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roll responding to external events, like Defense or Concentration, that is not an action.",
+  "evidence": [
+   "lords-of-men::0632",
+   "lords-of-men::0661"
+  ]
+ },
+ {
+  "name": "Extended Action",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Action taking a full round or longer, which cannot be delayed and requires Concentration if distracted.",
+  "evidence": [
+   "lords-of-men::0633",
+   "lords-of-men::0634",
+   "lords-of-men::0656"
+  ]
+ },
+ {
+  "name": "Fast Action",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional quick activity like drawing a weapon, performed in addition to a regular action.",
+  "evidence": [
+   "lords-of-men::0635",
+   "lords-of-men::0636"
+  ]
+ },
+ {
+  "name": "Delayed Action",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Choosing to act later in the round in response to events.",
+  "evidence": [
+   "lords-of-men::0637",
+   "lords-of-men::0638"
+  ]
+ },
+ {
+  "name": "Interrupting Actions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional rule letting a delayed character resolve his action before the triggering action via Action Priority.",
+  "evidence": [
+   "lords-of-men::0640",
+   "lords-of-men::0641",
+   "lords-of-men::0642"
+  ]
+ },
+ {
+  "name": "Action Priority Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Quickness + Ability - Encumbrance + stress die, used to resolve interruptions.",
+  "evidence": [
+   "lords-of-men::0641",
+   "lords-of-men::0642",
+   "lords-of-men::0658"
+  ]
+ },
+ {
+  "name": "Tactical Movement",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules for walk, hurry and run movement rates on the battlefield.",
+  "evidence": [
+   "lords-of-men::0644",
+   "lords-of-men::0645"
+  ]
+ },
+ {
+  "name": "Engagement",
+  "type": "Concept",
+  "aliases": [],
+  "description": "State of being within reach or line of fire of an enemy; engaged characters must disengage to move.",
+  "evidence": [
+   "lords-of-men::0650",
+   "lords-of-men::0651",
+   "lords-of-men::0652"
+  ]
+ },
+ {
+  "name": "Disengagement",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Reaction contest of Defense against opponents' Attack totals to move away while engaged.",
+  "evidence": [
+   "lords-of-men::0660",
+   "lords-of-men::0661",
+   "lords-of-men::0662"
+  ]
+ },
+ {
+  "name": "Reckless Disengagement",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Option to move away from combat with no Defense roll, granting a free attack.",
+  "evidence": [
+   "lords-of-men::0663"
+  ]
+ },
+ {
+  "name": "Defenders as Interceptors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional defender rule requiring the defender to win action priority to intercept attackers.",
+  "evidence": [
+   "lords-of-men::0653",
+   "lords-of-men::0656",
+   "lords-of-men::0657"
+  ]
+ },
+ {
+  "name": "Charge",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Combining movement with exertion on attack; mounted charges tire the horse instead.",
+  "evidence": [
+   "lords-of-men::0665",
+   "lords-of-men::0685"
+  ]
+ },
+ {
+  "name": "Exertion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spending effort (Fatigue) to boost Attack or Defense.",
+  "evidence": [
+   "lords-of-men::0657",
+   "lords-of-men::0665",
+   "lords-of-men::0685"
+  ]
+ },
+ {
+  "name": "Condensed Notation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional way of writing combat scores for weapon and shield combinations.",
+  "evidence": [
+   "lords-of-men::0665",
+   "lords-of-men::0666"
+  ]
+ },
+ {
+  "name": "Ready Missiles",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Option letting an archer or crossbowman with a readied missile shoot as a fast action.",
+  "evidence": [
+   "lords-of-men::0668",
+   "lords-of-men::0636"
+  ]
+ },
+ {
+  "name": "Constriction Attack",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Grapple-based attack by a larger creature that deprives its victim of air.",
+  "evidence": [
+   "lords-of-men::0669"
+  ]
+ },
+ {
+  "name": "Diceless Defense",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Option replacing the Defense stress die with a constant 6.",
+  "evidence": [
+   "lords-of-men::0673",
+   "lords-of-men::0677"
+  ]
+ },
+ {
+  "name": "Evasion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional combat score for dodging, based on Quickness, Brawl or Ride, Size and Encumbrance.",
+  "evidence": [
+   "lords-of-men::0675",
+   "lords-of-men::0676",
+   "lords-of-men::0677"
+  ]
+ },
+ {
+  "name": "Lasting Consequences of Serious Damage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Option where Incapacitating Wounds may leave a Minor Flaw.",
+  "evidence": [
+   "lords-of-men::0678"
+  ]
+ },
+ {
+  "name": "Mitigating Deadly Wounds",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Option letting the storyguide reduce a wound in exchange for a maiming Flaw.",
+  "evidence": [
+   "lords-of-men::0679",
+   "lords-of-men::0680"
+  ]
+ },
+ {
+  "name": "Mounted Combat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules giving riders bonuses to Attack and Defense and a separate action for the steed.",
+  "evidence": [
+   "lords-of-men::0681",
+   "lords-of-men::0682"
+  ]
+ },
+ {
+  "name": "Shock of the Charge",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Option where a mounted charge can knock a smaller target prone.",
+  "evidence": [
+   "lords-of-men::0688"
+  ]
+ },
+ {
+  "name": "Panicked Horse",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A frightened or wounded horse that the rider must control with Presence + Ride.",
+  "evidence": [
+   "lords-of-men::0693",
+   "lords-of-men::0694",
+   "lords-of-men::0692"
+  ]
+ },
+ {
+  "name": "Horse Gaits",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Walk/amble, trot, canter and gallop, each with a movement rate and combat effects.",
+  "evidence": [
+   "lords-of-men::0686",
+   "lords-of-men::0687"
+  ]
+ },
+ {
+  "name": "Situational Modifier",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bonus or penalty (+1, +3, +6) for battlefield circumstances.",
+  "evidence": [
+   "lords-of-men::0702"
+  ]
+ },
+ {
+  "name": "Cover",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Terrain protecting against attacks, giving +3 to +12 Defense.",
+  "evidence": [
+   "lords-of-men::0649",
+   "lords-of-men::0704"
+  ]
+ },
+ {
+  "name": "Concealment",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Difficulty of seeing a character due to darkness, foliage or invisibility, granting Defense and Attack bonuses.",
+  "evidence": [
+   "lords-of-men::0704",
+   "lords-of-men::0705",
+   "lords-of-men::0707"
+  ]
+ },
+ {
+  "name": "Higher Ground",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Height advantage giving +1 to Attack and Defense.",
+  "evidence": [
+   "lords-of-men::0707"
+  ]
+ },
+ {
+  "name": "Difficult Terrain",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Terrain halving movement and adding a botch die.",
+  "evidence": [
+   "lords-of-men::0647",
+   "lords-of-men::0665"
+  ]
+ },
+ {
+  "name": "Hazard",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Terrain feature adding botch dice and making botches more serious.",
+  "evidence": [
+   "lords-of-men::0647",
+   "lords-of-men::0648"
+  ]
+ },
+ {
+  "name": "Obstacle",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Terrain requiring a special action to cross, such as a door or fence.",
+  "evidence": [
+   "lords-of-men::0648",
+   "lords-of-men::0649"
+  ]
+ },
+ {
+  "name": "Non-Lethal Combat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional replacement for ArM5 scuffling rules using Bruises instead of Fatigue loss.",
+  "evidence": [
+   "lords-of-men::0710",
+   "lords-of-men::0711"
+  ]
+ },
+ {
+  "name": "Bruise",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Non-lethal damage causing Bruise Penalties, recovering faster than wounds.",
+  "evidence": [
+   "lords-of-men::0712",
+   "lords-of-men::0713",
+   "lords-of-men::0714"
+  ]
+ },
+ {
+  "name": "Grapple",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver holding a defender, imposing -6 and preventing spell gestures.",
+  "evidence": [
+   "lords-of-men::0717",
+   "lords-of-men::0718",
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Pin",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver holding a target helpless to the ground or a wall.",
+  "evidence": [
+   "lords-of-men::0718",
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Trip",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver causing the defender to fall prone.",
+  "evidence": [
+   "lords-of-men::0717",
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Tackle",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver causing attacker and opponent to fall prone.",
+  "evidence": [
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Disarm",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver causing an opponent's weapon to fall.",
+  "evidence": [
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Unseat Rider",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver to pull a rider from his horse.",
+  "evidence": [
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Wrest Weapon",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver to seize an opponent's weapon.",
+  "evidence": [
+   "lords-of-men::0719"
+  ]
+ },
+ {
+  "name": "Fatigue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Reserve of energy lost by running, charging, and in standard scuffling.",
+  "evidence": [
+   "lords-of-men::0645",
+   "lords-of-men::0665",
+   "lords-of-men::0710"
+  ]
+ },
+ {
+  "name": "Wound",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Injury category (Light, Medium, Heavy, Incapacitating, Fatal) with penalties.",
+  "evidence": [
+   "lords-of-men::0679",
+   "lords-of-men::0692",
+   "lords-of-men::0713"
+  ]
+ },
+ {
+  "name": "Soak",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Score subtracted from damage before determining wounds.",
+  "evidence": [
+   "lords-of-men::0658",
+   "lords-of-men::0712"
+  ]
+ },
+ {
+  "name": "Botch",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Disastrous die result; extra botch dice apply on terrain and in darkness.",
+  "evidence": [
+   "lords-of-men::0605",
+   "lords-of-men::0647",
+   "lords-of-men::0682"
+  ]
+ },
+ {
+  "name": "Confidence Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points a horse with a Confidence Score can use in combat.",
+  "evidence": [
+   "lords-of-men::0690"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Standing harmed by attacking an opponent's horse in a tournament.",
+  "evidence": [
+   "lords-of-men::0691"
+  ]
+ },
+ {
+  "name": "Tournament",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Knightly contest where attacking a horse is disgraceful.",
+  "evidence": [
+   "lords-of-men::0688",
+   "lords-of-men::0691"
+  ]
+ },
+ {
+  "name": "Realm of Magic",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm referenced via Realms of Power: Magic's rules on fighting giant creatures.",
+  "evidence": [
+   "lords-of-men::0714"
+  ]
+ }
+]

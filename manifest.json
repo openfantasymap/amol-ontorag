@@ -3,10 +3,10 @@
   "dataset": {
     "id": "amol",
     "name": "Ars Magica Open License — OntoRAG",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/OriginalMadman/Ars-Magica-Open-License",
-    "built_at": "2026-09-23T07:05:44+00:00",
+    "built_at": "2026-09-25T09:20:14+00:00",
     "builder": "tools/build.py"
   },
   "ontology": {
@@ -34,19 +34,19 @@
       }
     ],
     "counts": {
-      "entities": 3866,
+      "entities": 13014,
       "by_type": {
-        "Character": 747,
-        "Creature": 270,
-        "Faction": 321,
-        "Item": 168,
+        "Character": 2404,
+        "Creature": 1017,
+        "Faction": 809,
+        "Item": 929,
         "Organization": 2,
-        "Place": 379,
-        "Proficiency": 129,
+        "Place": 1686,
+        "Proficiency": 433,
         "RuleSet": 1,
         "RuleSetType": 1,
-        "Spell": 578,
-        "Tag": 1270,
+        "Spell": 1347,
+        "Tag": 4385,
         "World": 1
       }
     },

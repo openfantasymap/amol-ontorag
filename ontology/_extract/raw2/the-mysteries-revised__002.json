@@ -1,0 +1,2829 @@
+[
+ {
+  "name": "Magical Armillary Sphere",
+  "type": "Item",
+  "aliases": [
+   "armillary sphere"
+  ],
+  "description": "An enchanted armillary sphere that continually tracks astrological time and planetary influences, halving the Ease Factor of Astrological Duration calculations.",
+  "evidence": [
+   "the-mysteries-revised::0240",
+   "the-mysteries-revised::0241",
+   "the-mysteries-revised::0244"
+  ]
+ },
+ {
+  "name": "Craft the Mechanism",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Cr(In)Te 35 Ritual used to magically craft the mechanism of an armillary sphere, requiring design and Finesse rolls.",
+  "evidence": [
+   "the-mysteries-revised::0240"
+  ]
+ },
+ {
+  "name": "Know the Heavens",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 29 constant enchantment in the magical armillary sphere that senses astrological time and the influence of the planets around it.",
+  "evidence": [
+   "the-mysteries-revised::0242",
+   "the-mysteries-revised::0243"
+  ]
+ },
+ {
+  "name": "Track the Heavens",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 28 enchantment linked to Know the Heavens that keeps the armillary sphere adjusted to current local astrological time.",
+  "evidence": [
+   "the-mysteries-revised::0243"
+  ]
+ },
+ {
+  "name": "Astrological Duration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A spell duration tied to astrological conditions whose calculations can be eased by consulting a magical armillary sphere.",
+  "evidence": [
+   "the-mysteries-revised::0244"
+  ]
+ },
+ {
+  "name": "Divine Heaven's Aspect",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used to learn astrological conditions at a distant location so the armillary sphere can be adjusted.",
+  "evidence": [
+   "the-mysteries-revised::0244"
+  ]
+ },
+ {
+  "name": "Magoi of the Star",
+  "type": "Faction",
+  "aliases": [
+   "Magoi"
+  ],
+  "description": "Mystery cult of Christian astrologers, the Order of Hermes' greatest astrologers, who use astrology to overcome planetary influence and exercise free will; organized into seven degrees.",
+  "evidence": [
+   "the-mysteries-revised::0245",
+   "the-mysteries-revised::0246",
+   "the-mysteries-revised::0249"
+  ]
+ },
+ {
+  "name": "Origen",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early Church theologian and biblical scholar whose ideas on free will and the stars heavily influence the Magoi of the Star; his tomb is at Tyre.",
+  "evidence": [
+   "the-mysteries-revised::0247",
+   "the-mysteries-revised::0254",
+   "the-mysteries-revised::0255"
+  ]
+ },
+ {
+  "name": "Trajan Decius",
+  "type": "Character",
+  "aliases": [
+   "Emperor Trajan Decius"
+  ],
+  "description": "Roman emperor under whose persecution (250 AD) Origen was imprisoned and tortured.",
+  "evidence": [
+   "the-mysteries-revised::0247"
+  ]
+ },
+ {
+  "name": "Tyre",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Origen's tomb is honored, a site of importance to the Magoi of the Star.",
+  "evidence": [
+   "the-mysteries-revised::0247"
+  ]
+ },
+ {
+  "name": "Three Wise Men",
+  "type": "Character",
+  "aliases": [
+   "Three Persian magi",
+   "magi of the Bible"
+  ],
+  "description": "The biblical magi Caspar, Melchior and Balthasar, revered by the Magoi of the Star, whose relics lie in the Shrine of Kings at Cologne.",
+  "evidence": [
+   "the-mysteries-revised::0247",
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Caspar",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the Three Wise Men whose body lies in the Shrine of Kings at Cologne Cathedral.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Melchior",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the Three Wise Men whose body lies in the Shrine of Kings at Cologne Cathedral.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Balthasar",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the Three Wise Men whose body lies in the Shrine of Kings at Cologne Cathedral.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Shrine of Kings",
+  "type": "Place",
+  "aliases": [
+   "The Shrine of Kings"
+  ],
+  "description": "Shrine in Cologne Cathedral holding the bodies of the Three Wise Men, brought from Milan in 1164.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Cologne Cathedral",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cathedral holding the relics of the Three Wise Men; every Magoi of the Star must make pilgrimage there for Christmas Day.",
+  "evidence": [
+   "the-mysteries-revised::0248",
+   "the-mysteries-revised::0249",
+   "the-mysteries-revised::0254"
+  ]
+ },
+ {
+  "name": "Cologne",
+  "type": "Place",
+  "aliases": [],
+  "description": "City holding the relics of the three magi and a rumored headquarters of the Magoi of the Star.",
+  "evidence": [
+   "the-mysteries-revised::0247",
+   "the-mysteries-revised::0250",
+   "the-mysteries-revised::0256"
+  ]
+ },
+ {
+  "name": "Milan",
+  "type": "Place",
+  "aliases": [],
+  "description": "City from which the relics of the Three Wise Men were brought to Cologne in 1164.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Frederick I",
+  "type": "Character",
+  "aliases": [],
+  "description": "Emperor who brought the relics of the Three Wise Men from Milan to Cologne in 1164.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Empress Helena",
+  "type": "Character",
+  "aliases": [
+   "Helena"
+  ],
+  "description": "Empress who originally discovered the bodies of the Three Wise Men on her pilgrimage to the Holy Land.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Empress Helena discovered the relics of the Three Wise Men.",
+  "evidence": [
+   "the-mysteries-revised::0248"
+  ]
+ },
+ {
+  "name": "Bethlehem",
+  "type": "Place",
+  "aliases": [],
+  "description": "Pilgrimage destination and rumored cult headquarters of the Magoi of the Star.",
+  "evidence": [
+   "the-mysteries-revised::0249",
+   "the-mysteries-revised::0250",
+   "the-mysteries-revised::0256"
+  ]
+ },
+ {
+  "name": "Babylon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Rumored headquarters of the Magoi of the Star visited by Initiates of the Degree of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0250",
+   "the-mysteries-revised::0256"
+  ]
+ },
+ {
+  "name": "Augustine",
+  "type": "Character",
+  "aliases": [
+   "St. Augustine"
+  ],
+  "description": "Great Church father whose wisdom orthodox churchmen hold; in The City of God he distinguishes dulia from latria.",
+  "evidence": [
+   "the-mysteries-revised::0248",
+   "the-mysteries-revised::0349"
+  ]
+ },
+ {
+  "name": "Antichrist",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Prophesied figure whose portents the Magoi of the Star are currently fervently investigating.",
+  "evidence": [
+   "the-mysteries-revised::0249"
+  ]
+ },
+ {
+  "name": "Nativity Horoscope",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Horoscope cast from a person's time and place of birth, taking a day's work; its bonus can aid astrological divination.",
+  "evidence": [
+   "the-mysteries-revised::0246",
+   "the-mysteries-revised::0260",
+   "the-mysteries-revised::0283"
+  ]
+ },
+ {
+  "name": "Daily Horoscope",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Horoscope calculated for a person's current location in an hour with Intelligence + Artes Liberales (Astronomy).",
+  "evidence": [
+   "the-mysteries-revised::0260",
+   "the-mysteries-revised::0283"
+  ]
+ },
+ {
+  "name": "Limit of Time",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic limit preventing true knowledge of the future; considered Divine by the Magoi and constraining Hermetic Divination.",
+  "evidence": [
+   "the-mysteries-revised::0246",
+   "the-mysteries-revised::0268",
+   "the-mysteries-revised::0275"
+  ]
+ },
+ {
+  "name": "Degree of Saturn",
+  "type": "Concept",
+  "aliases": [],
+  "description": "First degree of the Magoi of the Star, requiring Artes Liberales 4+ and initiating Planetary Magic; members wear black gowns.",
+  "evidence": [
+   "the-mysteries-revised::0251"
+  ]
+ },
+ {
+  "name": "Degree of Jupiter",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Second degree of the Magoi of the Star, granting Potent Magic in the Initiate's birth house; robes deep blue.",
+  "evidence": [
+   "the-mysteries-revised::0252",
+   "the-mysteries-revised::0256"
+  ]
+ },
+ {
+  "name": "Degree of Mars",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Third degree of the Magoi of the Star, in red robes, opposing infernalists and initiating Periapts.",
+  "evidence": [
+   "the-mysteries-revised::0253"
+  ]
+ },
+ {
+  "name": "Degree of Venus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fourth degree of the Magoi of the Star, in emerald robe, teaching the Major Virtue Celestial Magic.",
+  "evidence": [
+   "the-mysteries-revised::0254"
+  ]
+ },
+ {
+  "name": "Degree of Mercury",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Degree of the Magoi of the Star requiring teaching and travel, granting a Major Magical Focus relating to the Potent house.",
+  "evidence": [
+   "the-mysteries-revised::0256"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Degree of the Magoi of the Star wearing silver robes with the New Moon, taught Divination and Augury: Astrology.",
+  "evidence": [
+   "the-mysteries-revised::0257"
+  ]
+ },
+ {
+  "name": "Hierophants",
+  "type": "Character",
+  "aliases": [
+   "The Hierophants"
+  ],
+  "description": "The three mysterious leaders of the Magoi of the Star, greatest astrologers able to Initiate many astrological Virtues.",
+  "evidence": [
+   "the-mysteries-revised::0258"
+  ]
+ },
+ {
+  "name": "Planetary Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue initiated at the Degree of Saturn; allows selecting a governing planet for enchantments and is prerequisite for astrological divination.",
+  "evidence": [
+   "the-mysteries-revised::0251",
+   "the-mysteries-revised::0264",
+   "the-mysteries-revised::0271"
+  ]
+ },
+ {
+  "name": "Potent Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue granted at the Degree of Jupiter, tied to the Initiate's birth house or planet.",
+  "evidence": [
+   "the-mysteries-revised::0252",
+   "the-mysteries-revised::0256"
+  ]
+ },
+ {
+  "name": "Astrological Magical Foci",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Modified Hermetic Virtue referenced alongside Potent Magic in astrological Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0252"
+  ]
+ },
+ {
+  "name": "Periapts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue learned at the Degree of Mars of the Magoi of the Star.",
+  "evidence": [
+   "the-mysteries-revised::0253"
+  ]
+ },
+ {
+  "name": "Celestial Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue teaching the secrets of astrology, initiated at the Degree of Venus.",
+  "evidence": [
+   "the-mysteries-revised::0254"
+  ]
+ },
+ {
+  "name": "Major Magical Focus",
+  "type": "Virtue",
+  "aliases": [
+   "Magical Focus"
+  ],
+  "description": "Virtue taught at the Degree of Mercury relating to the Potent house; Graculus has one in Necromancy.",
+  "evidence": [
+   "the-mysteries-revised::0256",
+   "the-mysteries-revised::0327"
+  ]
+ },
+ {
+  "name": "Divination and Augury",
+  "type": "Virtue",
+  "aliases": [
+   "Divination & Augury",
+   "Hermetic Divination",
+   "Divination"
+  ],
+  "description": "Major Supernatural Virtue allowing Hermetic magi to interpret signs to answer questions like momentary Intellego spells.",
+  "evidence": [
+   "the-mysteries-revised::0257",
+   "the-mysteries-revised::0268",
+   "the-mysteries-revised::0271"
+  ]
+ },
+ {
+  "name": "Divination",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability learned at level 1 upon Initiation into a first method of divination, used in divination rolls.",
+  "evidence": [
+   "the-mysteries-revised::0271",
+   "the-mysteries-revised::0274",
+   "the-mysteries-revised::0286"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability required at 4+ for the Degree of Saturn; used with Astronomy for horoscopes.",
+  "evidence": [
+   "the-mysteries-revised::0251",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Astronomy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge (specialty of Artes Liberales) used to design armillary spheres and cast horoscopes.",
+  "evidence": [
+   "the-mysteries-revised::0240",
+   "the-mysteries-revised::0244",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Craft Ability (Mechanisms or Clocks) usable to design an armillary sphere.",
+  "evidence": [
+   "the-mysteries-revised::0240"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to guide magic into the correct crafted form of the armillary mechanism.",
+  "evidence": [
+   "the-mysteries-revised::0240"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability often taught to Initiates of the Degree of Mars as they learn about the four humors.",
+  "evidence": [
+   "the-mysteries-revised::0253"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability limiting Name of Power bonuses and used in spirit familiar bonding lab totals.",
+  "evidence": [
+   "the-mysteries-revised::0308",
+   "the-mysteries-revised::0316",
+   "the-mysteries-revised::0353"
+  ]
+ },
+ {
+  "name": "Doctrine of Origen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Origen's heretical teachings including the Perfectibility of Man and that stars are living beings and signs rather than causes.",
+  "evidence": [
+   "the-mysteries-revised::0254",
+   "the-mysteries-revised::0255"
+  ]
+ },
+ {
+  "name": "Perfectibility of Man",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Origen's heretical doctrine that there is no damnation and all things will eventually be saved.",
+  "evidence": [
+   "the-mysteries-revised::0254"
+  ]
+ },
+ {
+  "name": "Zodiac",
+  "type": "Concept",
+  "aliases": [
+   "signs of the Zodiac"
+  ],
+  "description": "The 12 great constellations whose signs, decans and houses form the basis of astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0261",
+   "the-mysteries-revised::0263"
+  ]
+ },
+ {
+  "name": "Aries",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Taurus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Gemini",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Cancer",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Leo",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Virgo",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Libra",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Scorpio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Sagittarius",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Capricorn",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Aquarius",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Pisces",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sign of the Zodiac with its own element, temperament and decans in astrological correspondences.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0260"
+  ]
+ },
+ {
+  "name": "Decans",
+  "type": "Concept",
+  "aliases": [
+   "decan"
+  ],
+  "description": "Three sub-periods into which each sign of the Zodiac is divided, revealing different aspects of the sign's influence.",
+  "evidence": [
+   "the-mysteries-revised::0259",
+   "the-mysteries-revised::0261"
+  ]
+ },
+ {
+  "name": "Astrological Houses",
+  "type": "Concept",
+  "aliases": [
+   "houses"
+  ],
+  "description": "The 12 divisions of a horoscope chart (Vita, Lucrum, Frates, Genitor, Nati, Valetudo, Uxor, Mors, Pietas, Regnum, Benefacta, Carcer), each with its own province.",
+  "evidence": [
+   "the-mysteries-revised::0261",
+   "the-mysteries-revised::0263"
+  ]
+ },
+ {
+  "name": "Ascendant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The sign rising over the eastern horizon at a given time and place, the starting point of a horoscope.",
+  "evidence": [
+   "the-mysteries-revised::0263"
+  ]
+ },
+ {
+  "name": "Four Humors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Choleric, phlegmatic, sanguine and melancholic humors corresponding to the four elements and the signs.",
+  "evidence": [
+   "the-mysteries-revised::0253",
+   "the-mysteries-revised::0261"
+  ]
+ },
+ {
+  "name": "The Sun",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planet influencing rulership, kings, health; governs Presence and Stamina.",
+  "evidence": [
+   "the-mysteries-revised::0262"
+  ]
+ },
+ {
+  "name": "The Moon",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planet influencing emotions, tides, cyclic magic, fertility; governs Dexterity.",
+  "evidence": [
+   "the-mysteries-revised::0262"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planet influencing journeys, writing, books and messengers; governs Quickness.",
+  "evidence": [
+   "the-mysteries-revised::0262"
+  ]
+ },
+ {
+  "name": "Venus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planet influencing beauty, romance, marriage and performing arts; governs Communication.",
+  "evidence": [
+   "the-mysteries-revised::0262"
+  ]
+ },
+ {
+  "name": "Mars",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planet influencing war, violence, ambition and sex; governs Strength.",
+  "evidence": [
+   "the-mysteries-revised::0262"
+  ]
+ },
+ {
+  "name": "Jupiter",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planet influencing merriment, reason, prosperity and luck; governs Intelligence.",
+  "evidence": [
+   "the-mysteries-revised::0262"
+  ]
+ },
+ {
+  "name": "Saturn",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planet influencing age, time, wisdom and resisting distraction; governs Perception.",
+  "evidence": [
+   "the-mysteries-revised::0262"
+  ]
+ },
+ {
+  "name": "John of Salisbury",
+  "type": "Character",
+  "aliases": [],
+  "description": "Twelfth-century writer (1115-1180) whose Policraticus complains of diviners at court; he crystal-gazed as a pupil.",
+  "evidence": [
+   "the-mysteries-revised::0265",
+   "the-mysteries-revised::0293"
+  ]
+ },
+ {
+  "name": "Policraticus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Work by John of Salisbury complaining about diviners common at court.",
+  "evidence": [
+   "the-mysteries-revised::0265"
+  ]
+ },
+ {
+  "name": "Leiden papyri",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ancient papyri containing a list of 37 substances and plants with their mystical names.",
+  "evidence": [
+   "the-mysteries-revised::0265"
+  ]
+ },
+ {
+  "name": "John of Mirfeld",
+  "type": "Character",
+  "aliases": [],
+  "description": "English writer giving techniques for prognosis by magical means, including onomancy.",
+  "evidence": [
+   "the-mysteries-revised::0265"
+  ]
+ },
+ {
+  "name": "Carneades",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early critic of astrology and divination (219-126 BC).",
+  "evidence": [
+   "the-mysteries-revised::0266"
+  ]
+ },
+ {
+  "name": "Cicero",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman critic (106-43 BC) whose treatise On Divination ridiculed divine messages in dreams.",
+  "evidence": [
+   "the-mysteries-revised::0266"
+  ]
+ },
+ {
+  "name": "On Divination",
+  "type": "Item",
+  "aliases": [],
+  "description": "Cicero's treatise ridiculing the notion that the gods communicate through dreams.",
+  "evidence": [
+   "the-mysteries-revised::0266"
+  ]
+ },
+ {
+  "name": "Synod of Ancyra",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Church synod whose material fed a penitential punishing those who practice auguries and pagan divination.",
+  "evidence": [
+   "the-mysteries-revised::0266",
+   "the-mysteries-revised::0267"
+  ]
+ },
+ {
+  "name": "Remus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example Quaesitor whose intentions to visit a covenant are the subject of a divination example.",
+  "evidence": [
+   "the-mysteries-revised::0268"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigator, exemplified by Remus in the divination example.",
+  "evidence": [
+   "the-mysteries-revised::0268"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "Law of the Order forbidding magi from court divination, scrying on sodales, and dealing with demons.",
+  "evidence": [
+   "the-mysteries-revised::0265",
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0295"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Order of Hermetic magi whose greatest astrologers are the Magoi of the Star.",
+  "evidence": [
+   "the-mysteries-revised::0249",
+   "the-mysteries-revised::0295"
+  ]
+ },
+ {
+  "name": "Casual Divination",
+  "type": "Concept",
+  "aliases": [],
+  "description": "One-round divination observing signs in the immediate environment, rolled with Perception + Divination.",
+  "evidence": [
+   "the-mysteries-revised::0281",
+   "the-mysteries-revised::0274"
+  ]
+ },
+ {
+  "name": "Ceremonial Divination",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divination taking 15 minutes per 5 Ease Factor, using sympathetic magic and devices, rolled with Intelligence + Divination.",
+  "evidence": [
+   "the-mysteries-revised::0282",
+   "the-mysteries-revised::0283",
+   "the-mysteries-revised::0288"
+  ]
+ },
+ {
+  "name": "Ceremonial Augury Phenomena",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Table of divinatory techniques (aeromancy through scrying) with bonuses for types of questions.",
+  "evidence": [
+   "the-mysteries-revised::0278",
+   "the-mysteries-revised::0279",
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Aeromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using patterns in the air, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Alectryomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using eating behavior of chickens, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Aleuromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using burning or cooking flour, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Alomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using patterns in thrown salt, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Alphitomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using eating barley bread, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Apantomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using chance meetings with animals, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Ashagalomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using casting bones, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Axinomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using balancing a hatchet, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Belomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using shooting arrows in the air, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Botanomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using burning sticks carved with questions, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Capnomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using fumes from burning poppies, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Causimomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using behavior of objects placed in a fire, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Cephalomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using severing the head of a goat or donkey, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Ceroscopy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using patterns of wax dripped in water, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Cleidomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using dangling a key from the Bible, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Cleromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using casting dice or lots, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Crystalomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using crystal-gazing, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Geomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using patterns in earth, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Haruspicy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using entrails of sacrificed animals, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Hippomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using behavior of horses, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Hydromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using observing water, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Lecanomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using bowls of fluid, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Myomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using behavior of mice and rats, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Onomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using comparing names, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0265",
+   "the-mysteries-revised::0279",
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Ooscopy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using burning or cooking eggs, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Ophiomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using behavior of serpents, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Phyllorhodomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using rose bush leaves, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Pyromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using observing flames, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Rhabdomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using divining rods, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Scapulomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using roasting shoulder blades, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0280"
+  ]
+ },
+ {
+  "name": "Scrying",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divinatory method using gazing into reflective surfaces, listed among Ceremonial Augury Phenomena.",
+  "evidence": [
+   "the-mysteries-revised::0280",
+   "the-mysteries-revised::0295"
+  ]
+ },
+ {
+  "name": "Astrology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The most prestigious divinatory art of the 13th century; as a method of Hermetic Divination it requires Planetary Magic.",
+  "evidence": [
+   "the-mysteries-revised::0265",
+   "the-mysteries-revised::0271",
+   "the-mysteries-revised::0278"
+  ]
+ },
+ {
+  "name": "Dream Interpretation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Method of divination by interpreting dreams, popular but of mixed repute; basis of Hermetic Dream Interpreter.",
+  "evidence": [
+   "the-mysteries-revised::0266",
+   "the-mysteries-revised::0279",
+   "the-mysteries-revised::0287"
+  ]
+ },
+ {
+  "name": "Numerology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divination method requiring Hermetic Numerology, drawing bonuses from a numerologist's book.",
+  "evidence": [
+   "the-mysteries-revised::0271",
+   "the-mysteries-revised::0279"
+  ]
+ },
+ {
+  "name": "Hermetic Numerology",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue prerequisite for numerological divination that adds bonuses from a numerologist's book.",
+  "evidence": [
+   "the-mysteries-revised::0271",
+   "the-mysteries-revised::0283"
+  ]
+ },
+ {
+  "name": "Hermetic Astrology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery school working astrological influences into general Hermetic magic.",
+  "evidence": [
+   "the-mysteries-revised::0271"
+  ]
+ },
+ {
+  "name": "Hermetic Mathematics",
+  "type": "Concept",
+  "aliases": [
+   "Arithmetic Magic"
+  ],
+  "description": "Mystery working numerical influences into general Hermetic magic (Arithmetic Magic).",
+  "evidence": [
+   "the-mysteries-revised::0271"
+  ]
+ },
+ {
+  "name": "Dream Interpreter",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Divine Virtue, variant of Divination and Augury, prerequisite for Hermetic Divination (Dream Interpretation).",
+  "evidence": [
+   "the-mysteries-revised::0271",
+   "the-mysteries-revised::0286"
+  ]
+ },
+ {
+  "name": "Hermetic Dream Interpreter",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Mystery Virtue: a specialized method of Hermetic Divination through interpreting dreams, with Dream Calling and symbolic interpretation.",
+  "evidence": [
+   "the-mysteries-revised::0286",
+   "the-mysteries-revised::0287",
+   "the-mysteries-revised::0288"
+  ]
+ },
+ {
+  "name": "Dream Calling",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dream interpreter ability to make a touched sleeper dream about a chosen subject (Ease Factor 6).",
+  "evidence": [
+   "the-mysteries-revised::0292"
+  ]
+ },
+ {
+  "name": "Symbolic Interpretation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Non-magical interpretation of dreams' symbolic meaning rolled with Intelligence + Divination (Dream Interpretation).",
+  "evidence": [
+   "the-mysteries-revised::0291"
+  ]
+ },
+ {
+  "name": "Enchantment of the Scrying Device",
+  "type": "Spell",
+  "aliases": [],
+  "description": "In(Forms) general Mystery effect enchanted into a divinatory device, giving a magical bonus of effect level/10 to divination.",
+  "evidence": [
+   "the-mysteries-revised::0284",
+   "the-mysteries-revised::0288",
+   "the-mysteries-revised::0289"
+  ]
+ },
+ {
+  "name": "Sailor's Foretaste of the Morrow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Intellego Auram 20 spell predicting weather, used as equivalent for a divination about rain.",
+  "evidence": [
+   "the-mysteries-revised::0274"
+  ]
+ },
+ {
+  "name": "Frosty Breath of the Spoken Lie",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Common spell detecting lies, compared with a divination about whether someone is lying.",
+  "evidence": [
+   "the-mysteries-revised::0274"
+  ]
+ },
+ {
+  "name": "Thurydices",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example Redcap whose fate is the subject of a divination example.",
+  "evidence": [
+   "the-mysteries-revised::0273"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Messenger of the Order, e.g. Thurydices.",
+  "evidence": [
+   "the-mysteries-revised::0273"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sympathetic link to a target; in divination one held in hand counts as touching the target.",
+  "evidence": [
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0276",
+   "the-mysteries-revised::0283"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "Magical regio"
+  ],
+  "description": "Hidden magical area that can be detected by divination.",
+  "evidence": [
+   "the-mysteries-revised::0274",
+   "the-mysteries-revised::0284"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis",
+   "Aegis ritual"
+  ],
+  "description": "The covenant's protective Aegis ritual; spirits need an Aegis Token to enter.",
+  "evidence": [
+   "the-mysteries-revised::0274",
+   "the-mysteries-revised::0308"
+  ]
+ },
+ {
+  "name": "Aegis Token",
+  "type": "Item",
+  "aliases": [],
+  "description": "Token allowing a spirit familiar to enter within an Aegis.",
+  "evidence": [
+   "the-mysteries-revised::0308"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis",
+   "pawns of vis"
+  ],
+  "description": "Raw magical power used in enchantment and rituals; ghosts may leave ghostly vis behind.",
+  "evidence": [
+   "the-mysteries-revised::0243",
+   "the-mysteries-revised::0275",
+   "the-mysteries-revised::0333"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance that divinations and spells must penetrate; shared between magus and spirit familiar.",
+  "evidence": [
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0276",
+   "the-mysteries-revised::0313"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magic resistance that does not stack with a familiar's resistance and leaves with the spirit.",
+  "evidence": [
+   "the-mysteries-revised::0313",
+   "the-mysteries-revised::0323"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura modifier added to divination rolls and familiar bonding.",
+  "evidence": [
+   "the-mysteries-revised::0274",
+   "the-mysteries-revised::0281",
+   "the-mysteries-revised::0308"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic assembly that might convict a magus; the Living Ghost legal issue has never been tested there.",
+  "evidence": [
+   "the-mysteries-revised::0275",
+   "the-mysteries-revised::0324"
+  ]
+ },
+ {
+  "name": "Determinata",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga seeking her missing shield grog via sympathetic divination.",
+  "evidence": [
+   "the-mysteries-revised::0283"
+  ]
+ },
+ {
+  "name": "Numera",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example Hermetic Numerologist using a copy of De Theoria Magica as her numerologist's book.",
+  "evidence": [
+   "the-mysteries-revised::0284",
+   "the-mysteries-revised::0285"
+  ]
+ },
+ {
+  "name": "De Theoria Magica",
+  "type": "Item",
+  "aliases": [],
+  "description": "Bonisagus' work, a copy of which Numera uses as her numerologist's book.",
+  "evidence": [
+   "the-mysteries-revised::0284"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of De Theoria Magica.",
+  "evidence": [
+   "the-mysteries-revised::0284"
+  ]
+ },
+ {
+  "name": "Numerologist's Book",
+  "type": "Item",
+  "aliases": [],
+  "description": "A book opened with vis for numerology, giving Ceremonial Bonuses to divination.",
+  "evidence": [
+   "the-mysteries-revised::0284"
+  ]
+ },
+ {
+  "name": "Notarius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus who enchants an astrolabe for Ceremonial Astrology.",
+  "evidence": [
+   "the-mysteries-revised::0289",
+   "the-mysteries-revised::0290"
+  ]
+ },
+ {
+  "name": "Astrolabe",
+  "type": "Item",
+  "aliases": [],
+  "description": "Instrument that may be enchanted as a divinatory device, as Notarius does.",
+  "evidence": [
+   "the-mysteries-revised::0284",
+   "the-mysteries-revised::0289"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [],
+  "description": "A magus's attuned personal enchanted item; spirits bound in it are released if broken, and may be one's own spirit via Inscription on the Soul.",
+  "evidence": [
+   "the-mysteries-revised::0284",
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0316"
+  ]
+ },
+ {
+  "name": "Spirit Magic",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Spirit Magic"
+  ],
+  "description": "Hermetic school of summoning and binding minor spirits into magical workings; preferred term over necromancy.",
+  "evidence": [
+   "the-mysteries-revised::0293",
+   "the-mysteries-revised::0295",
+   "the-mysteries-revised::0348"
+  ]
+ },
+ {
+  "name": "Necromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Originally conversing with the dead; by the 13th century covering evocation of spirits and demons.",
+  "evidence": [
+   "the-mysteries-revised::0293",
+   "the-mysteries-revised::0294",
+   "the-mysteries-revised::0327"
+  ]
+ },
+ {
+  "name": "William of Auvergne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Claims to have seen manuals of necromancy as a student at Paris.",
+  "evidence": [
+   "the-mysteries-revised::0293"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where William of Auvergne studied and whose archbishop condemned necromantic books.",
+  "evidence": [
+   "the-mysteries-revised::0293"
+  ]
+ },
+ {
+  "name": "Reims",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whence comes a 12th-century manuscript with a spell for causing spirits to torment someone.",
+  "evidence": [
+   "the-mysteries-revised::0293",
+   "the-mysteries-revised::0294"
+  ]
+ },
+ {
+  "name": "Michael Scot",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scholar asserting astrological images conjure astral powers and damned souls in the wind.",
+  "evidence": [
+   "the-mysteries-revised::0294"
+  ]
+ },
+ {
+  "name": "Arnold of Villanova",
+  "type": "Character",
+  "aliases": [],
+  "description": "Stated that spirits could not be coerced and came voluntarily.",
+  "evidence": [
+   "the-mysteries-revised::0294"
+  ]
+ },
+ {
+  "name": "John of Frankfurt",
+  "type": "Character",
+  "aliases": [],
+  "description": "Stated with Arnold of Villanova that spirits come voluntarily.",
+  "evidence": [
+   "the-mysteries-revised::0294"
+  ]
+ },
+ {
+  "name": "Alexander III",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pope (1159-81) during whose pontificate a priest was suspended for calling up a demon.",
+  "evidence": [
+   "the-mysteries-revised::0294"
+  ]
+ },
+ {
+  "name": "Aquileia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese where a priest was suspended for two years for summoning a demon.",
+  "evidence": [
+   "the-mysteries-revised::0294"
+  ]
+ },
+ {
+  "name": "Egyptian days",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Inauspicious days whose observation was a forbidden practice for inquisitors.",
+  "evidence": [
+   "the-mysteries-revised::0295"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Virtue",
+  "aliases": [
+   "theurgy",
+   "name magic"
+  ],
+  "description": "Name magic school/Virtue dealing with names of spirits and bargains with powerful Daimons via Invoke spells.",
+  "evidence": [
+   "the-mysteries-revised::0295",
+   "the-mysteries-revised::0346",
+   "the-mysteries-revised::0353"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Creature",
+  "aliases": [
+   "Daimons"
+  ],
+  "description": "Ancient, named individual spirits such as heroes, pagan deities or grove spirits, which manifest through Aspects.",
+  "evidence": [
+   "the-mysteries-revised::0295",
+   "the-mysteries-revised::0348",
+   "the-mysteries-revised::0349"
+  ]
+ },
+ {
+  "name": "Aspect",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A projection of a Daimon that can manifest in several places; summoned instead of the Daimon itself.",
+  "evidence": [
+   "the-mysteries-revised::0348",
+   "the-mysteries-revised::0349"
+  ]
+ },
+ {
+  "name": "Hermetic Empowerment",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Mystery Virtue allowing a device to power Ritual/vis-requiring effects by draining a bound spirit's Might.",
+  "evidence": [
+   "the-mysteries-revised::0296",
+   "the-mysteries-revised::0298",
+   "the-mysteries-revised::0317"
+  ]
+ },
+ {
+  "name": "Spell Binding",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue prerequisite for Hermetic Empowerment, allowing spirits to be bound into magical workings.",
+  "evidence": [
+   "the-mysteries-revised::0293",
+   "the-mysteries-revised::0296",
+   "the-mysteries-revised::0301"
+  ]
+ },
+ {
+  "name": "The Bountiful Feast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual requiring marching the bounds, which cannot be empowered in a device.",
+  "evidence": [
+   "the-mysteries-revised::0296"
+  ]
+ },
+ {
+  "name": "Ritual Magic",
+  "type": "Concept",
+  "aliases": [
+   "Ritual spells"
+  ],
+  "description": "Magic requiring vis and extended casting; Hermetic Divination cannot simulate it, Empowerment can power it in devices.",
+  "evidence": [
+   "the-mysteries-revised::0272",
+   "the-mysteries-revised::0296",
+   "the-mysteries-revised::0299"
+  ]
+ },
+ {
+  "name": "Ignavus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus who plans a wand with a Disenchant Ritual to destroy a rival cult's shield.",
+  "evidence": [
+   "the-mysteries-revised::0298"
+  ]
+ },
+ {
+  "name": "Disenchant",
+  "type": "Spell",
+  "aliases": [
+   "Disenchantment"
+  ],
+  "description": "Ritual that destroys enchantments; Ignavus plans to invest it in a wand.",
+  "evidence": [
+   "the-mysteries-revised::0298",
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0323"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Score",
+   "Magic Might"
+  ],
+  "description": "Supernatural power score of spirits, drained permanently by Empowering Prisons and used by Living Ghosts.",
+  "evidence": [
+   "the-mysteries-revised::0299",
+   "the-mysteries-revised::0308",
+   "the-mysteries-revised::0340"
+  ]
+ },
+ {
+  "name": "Medica",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga with a Staff of Healing powered by a bound spirit.",
+  "evidence": [
+   "the-mysteries-revised::0300"
+  ]
+ },
+ {
+  "name": "Staff of Healing",
+  "type": "Item",
+  "aliases": [],
+  "description": "Medica's staff with healing Rituals powered by a bound Might 27 spirit.",
+  "evidence": [
+   "the-mysteries-revised::0300"
+  ]
+ },
+ {
+  "name": "Heal a Medium Wound",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 25 healing Ritual invested in Medica's Staff of Healing.",
+  "evidence": [
+   "the-mysteries-revised::0300"
+  ]
+ },
+ {
+  "name": "Heal an Incapacitating Wound",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 35 healing Ritual invested in Medica's Staff of Healing.",
+  "evidence": [
+   "the-mysteries-revised::0300"
+  ]
+ },
+ {
+  "name": "Empowering Prison of the Declining Spirit",
+  "type": "Spell",
+  "aliases": [
+   "Empowering Prison"
+  ],
+  "description": "Re(Mu)Vi(Forms) general Mystery enchantment that traps a spirit in a device and drains its Might to power Ritual effects.",
+  "evidence": [
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0302",
+   "the-mysteries-revised::0303"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing magi to link to Faerie spirits for empowerment, familiars or invocation.",
+  "evidence": [
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0306",
+   "the-mysteries-revised::0353"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of spirits most magi work with; some theurgists believe Initiate souls travel there after death.",
+  "evidence": [
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0356"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of faerie spirits accessible to those with Faerie Magic.",
+  "evidence": [
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0351"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of demons and diabolists, bindable only by those given to diabolism.",
+  "evidence": [
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0307",
+   "the-mysteries-revised::0357"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm of God and Divine spirits; Divine auras interfere with magic.",
+  "evidence": [
+   "the-mysteries-revised::0301",
+   "the-mysteries-revised::0354",
+   "the-mysteries-revised::0357"
+  ]
+ },
+ {
+  "name": "Realms of Power: The Divine",
+  "type": "Item",
+  "aliases": [],
+  "description": "Supplement referenced for Divine spirits and the Dream Interpreter Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0286",
+   "the-mysteries-revised::0301"
+  ]
+ },
+ {
+  "name": "Spirit Familiar",
+  "type": "Virtue",
+  "aliases": [
+   "genius umbrae",
+   "parhedros"
+  ],
+  "description": "Minor Mystery Virtue allowing a magus to bond a ghost or incorporeal spirit as familiar.",
+  "evidence": [
+   "the-mysteries-revised::0305",
+   "the-mysteries-revised::0308",
+   "the-mysteries-revised::0313"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical animal or spirit bonded to a magus via three cords.",
+  "evidence": [
+   "the-mysteries-revised::0305",
+   "the-mysteries-revised::0337"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [
+   "ghosts"
+  ],
+  "description": "Spirit of a dead person, bound by fetters, insubstantial, unable to learn; may be bound or taken as familiar.",
+  "evidence": [
+   "the-mysteries-revised::0302",
+   "the-mysteries-revised::0305",
+   "the-mysteries-revised::0330"
+  ]
+ },
+ {
+  "name": "Elemental spirit",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirits corresponding to their elemental Form that may welcome being familiars.",
+  "evidence": [
+   "the-mysteries-revised::0305",
+   "the-mysteries-revised::0306",
+   "the-mysteries-revised::0311"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal spirit; dealing with demons is banned by the Code and taking one as familiar inflicts Infernal taint.",
+  "evidence": [
+   "the-mysteries-revised::0295",
+   "the-mysteries-revised::0307"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Divine spirits some magi claim to have bound; Aldebert prayed to named angels.",
+  "evidence": [
+   "the-mysteries-revised::0307",
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie spirits that magi with Faerie Magic can ally with as familiars.",
+  "evidence": [
+   "the-mysteries-revised::0306",
+   "the-mysteries-revised::0351"
+  ]
+ },
+ {
+  "name": "Infernal taint",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Taint afflicting a magus who takes a demon as spirit familiar.",
+  "evidence": [
+   "the-mysteries-revised::0307"
+  ]
+ },
+ {
+  "name": "Three Cords",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The golden, silver and bronze cords of a familiar bond, renamed Hermes, Isis and Hekate Cords for spirit familiars.",
+  "evidence": [
+   "the-mysteries-revised::0309"
+  ]
+ },
+ {
+  "name": "Hermes Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit familiar cord corresponding to the golden cord, also adding to Enigmatic Wisdom rolls.",
+  "evidence": [
+   "the-mysteries-revised::0309"
+  ]
+ },
+ {
+  "name": "Isis Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit familiar cord corresponding to the silver cord, adding to Lab Totals and Casting Scores involving spirits.",
+  "evidence": [
+   "the-mysteries-revised::0309"
+  ]
+ },
+ {
+  "name": "Hekate Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit familiar cord corresponding to the bronze cord, adding to Stamina rolls when the familiar spends Might.",
+  "evidence": [
+   "the-mysteries-revised::0309"
+  ]
+ },
+ {
+  "name": "Enigmatic Wisdom",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to whose rolls the Hermes Cord adds.",
+  "evidence": [
+   "the-mysteries-revised::0309"
+  ]
+ },
+ {
+  "name": "True Friend",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue gained by magus and spirit familiar toward each other.",
+  "evidence": [
+   "the-mysteries-revised::0313"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to perceive invisible spirits and overhear a spirit familiar's silent speech.",
+  "evidence": [
+   "the-mysteries-revised::0314",
+   "the-mysteries-revised::0331",
+   "the-mysteries-revised::0359"
+  ]
+ },
+ {
+  "name": "Inscription on the Soul",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Mystery Virtue letting a magus enchant his own spirit or body as his talisman.",
+  "evidence": [
+   "the-mysteries-revised::0316",
+   "the-mysteries-revised::0317",
+   "the-mysteries-revised::0320"
+  ]
+ },
+ {
+  "name": "Verditius Mystery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery of House Verditius whose special abilities do not apply to Inscription on the Soul.",
+  "evidence": [
+   "the-mysteries-revised::0316"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House whose Mystery is referenced in contrast to Inscription on the Soul.",
+  "evidence": [
+   "the-mysteries-revised::0316"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Point"
+  ],
+  "description": "Magical distortion; Warping Points are inflicted by body enchantments and broken attunements.",
+  "evidence": [
+   "the-mysteries-revised::0318",
+   "the-mysteries-revised::0320",
+   "the-mysteries-revised::0334"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Final Twilight"
+  ],
+  "description": "Magical state risked through Warping; Final Twilight ends a magus's link to his spirit.",
+  "evidence": [
+   "the-mysteries-revised::0258",
+   "the-mysteries-revised::0323",
+   "the-mysteries-revised::0334"
+  ]
+ },
+ {
+  "name": "Blending with Substance",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Enchantment letting a magus embed small items in his flesh for talisman attunement, at the cost of Warping.",
+  "evidence": [
+   "the-mysteries-revised::0319",
+   "the-mysteries-revised::0320",
+   "the-mysteries-revised::0321"
+  ]
+ },
+ {
+  "name": "Great Talisman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue similar to Blending with Substance; not needed with Inscription on the Soul.",
+  "evidence": [
+   "the-mysteries-revised::0320"
+  ]
+ },
+ {
+  "name": "Consummate Talisman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue letting a talisman hold Muto Vim meta-magic effects and Names of Power.",
+  "evidence": [
+   "the-mysteries-revised::0320",
+   "the-mysteries-revised::0359"
+  ]
+ },
+ {
+  "name": "Ordeal of Deleterious Circumstance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ordeal required for Consummate Talisman.",
+  "evidence": [
+   "the-mysteries-revised::0320",
+   "the-mysteries-revised::0321"
+  ]
+ },
+ {
+  "name": "Vulgar Alchemy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery allowing discovery of new Shape and Material items for charged and lesser devices.",
+  "evidence": [
+   "the-mysteries-revised::0321",
+   "the-mysteries-revised::0322"
+  ]
+ },
+ {
+  "name": "Shape and Material Bonus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bonuses from items' shapes and materials, attuned in talismans and a model for Names of Power bonuses.",
+  "evidence": [
+   "the-mysteries-revised::0317",
+   "the-mysteries-revised::0322",
+   "the-mysteries-revised::0350"
+  ]
+ },
+ {
+  "name": "Living Ghost",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Hermetic Mystery Virtue in which a magus is bound to a Haunt and ritually killed to become a free-willed immortal ghost.",
+  "evidence": [
+   "the-mysteries-revised::0324",
+   "the-mysteries-revised::0329",
+   "the-mysteries-revised::0340"
+  ]
+ },
+ {
+  "name": "Haunt",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The area to which a Living Ghost's spirit is bound; if destroyed, the ghost is unbound.",
+  "evidence": [
+   "the-mysteries-revised::0324",
+   "the-mysteries-revised::0326",
+   "the-mysteries-revised::0338"
+  ]
+ },
+ {
+  "name": "Bind the Living Ghost",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Cr(Pe/Re)Me(Co) Mystery Ritual defining a Living Ghost's Haunt, destroying the body and binding the spirit.",
+  "evidence": [
+   "the-mysteries-revised::0325",
+   "the-mysteries-revised::0326",
+   "the-mysteries-revised::0329"
+  ]
+ },
+ {
+  "name": "Transformation of the Living Ghost",
+  "type": "Spell",
+  "aliases": [],
+  "description": "General Mystery Ritual defining a Living Ghost's Might Score, limited by the magus's best Arts.",
+  "evidence": [
+   "the-mysteries-revised::0325",
+   "the-mysteries-revised::0327",
+   "the-mysteries-revised::0344"
+  ]
+ },
+ {
+  "name": "Graculus",
+  "type": "Character",
+  "aliases": [
+   "Graculus Defunctus"
+  ],
+  "description": "Example magus who becomes a Living Ghost with a 1,000-pace Haunt and Might 50; later Graculus Defunctus.",
+  "evidence": [
+   "the-mysteries-revised::0326",
+   "the-mysteries-revised::0327",
+   "the-mysteries-revised::0344"
+  ]
+ },
+ {
+  "name": "The Living Ghost",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Graculus' Rego Mentem 80 ritual providing him Might 50.",
+  "evidence": [
+   "the-mysteries-revised::0328"
+  ]
+ },
+ {
+  "name": "Calebais: The Broken Covenant",
+  "type": "Item",
+  "aliases": [],
+  "description": "Supplement in which the Ghosts in Ars Magica material first appeared.",
+  "evidence": [
+   "the-mysteries-revised::0330"
+  ]
+ },
+ {
+  "name": "Ghostly Body",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Living Ghost power letting it turn invisible, pass walls and ignore physical attacks.",
+  "evidence": [
+   "the-mysteries-revised::0340"
+  ]
+ },
+ {
+  "name": "Ghostly Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Living Ghost power spending Might to make spells affect the physical world.",
+  "evidence": [
+   "the-mysteries-revised::0340"
+  ]
+ },
+ {
+  "name": "Ghostly Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Living Ghost power expending Might Score as raw vis.",
+  "evidence": [
+   "the-mysteries-revised::0340"
+  ]
+ },
+ {
+  "name": "Possess the Living Host",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReCo 30 spell letting a ghost enter and control a living body.",
+  "evidence": [
+   "the-mysteries-revised::0340",
+   "the-mysteries-revised::0341"
+  ]
+ },
+ {
+  "name": "Possess the Deceased Host",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Similar spell letting a ghostly magus possess and animate a corpse.",
+  "evidence": [
+   "the-mysteries-revised::0341"
+  ]
+ },
+ {
+  "name": "Charm Against Putrefaction",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 10 spell recommended alongside corpse possession.",
+  "evidence": [
+   "the-mysteries-revised::0341"
+  ]
+ },
+ {
+  "name": "Immortal Magi",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Appendix topic on magi becoming immortal beings of magic.",
+  "evidence": [
+   "the-mysteries-revised::0308",
+   "the-mysteries-revised::0329",
+   "the-mysteries-revised::0336"
+  ]
+ },
+ {
+  "name": "Aldebert",
+  "type": "Character",
+  "aliases": [],
+  "description": "Heretical 740s preacher in northern France who prayed to angels Uriel, Raguel, Tubuel and others.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Uriel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Raguel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Tubuel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Michael",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Adinus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Tubuas",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Sabaoc",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer. Derived from Sabaoth.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Simiel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel named in Aldebert's heretical prayer. Identified with Samael, Satan.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Samael",
+  "type": "Creature",
+  "aliases": [
+   "Satan"
+  ],
+  "description": "Identified with Satan and with the angel Simiel.",
+  "evidence": [
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Louis the Pious",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ninth-century ruler during whose reign high magic was in vogue.",
+  "evidence": [
+   "the-mysteries-revised::0346",
+   "the-mysteries-revised::0347"
+  ]
+ },
+ {
+  "name": "Gerbert of Aurillac",
+  "type": "Character",
+  "aliases": [
+   "Sylvester II"
+  ],
+  "description": "Tenth-century scholar who studied in Spain, suspected magician, became Pope Sylvester II.",
+  "evidence": [
+   "the-mysteries-revised::0346",
+   "the-mysteries-revised::0347"
+  ]
+ },
+ {
+  "name": "Dionysus Exiguus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Collector of Church canons banning names of non-scriptural angels.",
+  "evidence": [
+   "the-mysteries-revised::0347"
+  ]
+ },
+ {
+  "name": "Hadrian I",
+  "type": "Character",
+  "aliases": [
+   "Pope Hadrian I"
+  ],
+  "description": "Pope (772-795) who revised Dionysus Exiguus' canons.",
+  "evidence": [
+   "the-mysteries-revised::0347"
+  ]
+ },
+ {
+  "name": "Key of Solomon",
+  "type": "Item",
+  "aliases": [],
+  "description": "The greatest grimoire, key grimoire of the middle ages, attributed to Solomon.",
+  "evidence": [
+   "the-mysteries-revised::0347"
+  ]
+ },
+ {
+  "name": "Solomon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Biblical king to whom a book of demon-summoning incantations was attributed.",
+  "evidence": [
+   "the-mysteries-revised::0347"
+  ]
+ },
+ {
+  "name": "Gnosticism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Early Christian-era cults on names and the soul's ascent, from which Hermetic name magic derives.",
+  "evidence": [
+   "the-mysteries-revised::0346",
+   "the-mysteries-revised::0347",
+   "the-mysteries-revised::0354"
+  ]
+ },
+ {
+  "name": "Synthemata",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Secret signs, symbols or passwords linking a magician to a spirit.",
+  "evidence": [
+   "the-mysteries-revised::0346",
+   "the-mysteries-revised::0351",
+   "the-mysteries-revised::0352"
+  ]
+ },
+ {
+  "name": "The City of God",
+  "type": "Item",
+  "aliases": [],
+  "description": "St. Augustine's work distinguishing dulia from latria.",
+  "evidence": [
+   "the-mysteries-revised::0349"
+  ]
+ },
+ {
+  "name": "Dulia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Honor due to a man or power according to its dignity, such as veneration of a saint.",
+  "evidence": [
+   "the-mysteries-revised::0349"
+  ]
+ },
+ {
+  "name": "Latria",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Honor and praise due only to God.",
+  "evidence": [
+   "the-mysteries-revised::0349"
+  ]
+ },
+ {
+  "name": "Name of Power",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuVi general spell granting a bonus like a Shape and Material bonus, level five times the bonus.",
+  "evidence": [
+   "the-mysteries-revised::0349",
+   "the-mysteries-revised::0350",
+   "the-mysteries-revised::0351"
+  ]
+ },
+ {
+  "name": "Names of Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Mystery Virtue letting a maga invoke names of great powers in her magic as meta-magic.",
+  "evidence": [
+   "the-mysteries-revised::0351",
+   "the-mysteries-revised::0353",
+   "the-mysteries-revised::0358"
+  ]
+ },
+ {
+  "name": "Hermetic Synthemata",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue letting magi work synthemata into magic to command spirits.",
+  "evidence": [
+   "the-mysteries-revised::0352"
+  ]
+ },
+ {
+  "name": "Synthemata Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue working synthemata as a channel to command spirits.",
+  "evidence": [
+   "the-mysteries-revised::0352"
+  ]
+ },
+ {
+  "name": "Invoke",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic theurgy spell type summoning a spirit, which can incorporate Names of Power.",
+  "evidence": [
+   "the-mysteries-revised::0353",
+   "the-mysteries-revised::0354",
+   "the-mysteries-revised::0359"
+  ]
+ },
+ {
+  "name": "Invocation Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue letting a magus cast Names of Power as meta-magic boosting the Casting Score of another spell.",
+  "evidence": [
+   "the-mysteries-revised::0358"
+  ]
+ },
+ {
+  "name": "Demiurge",
+  "type": "Creature",
+  "aliases": [],
+  "description": "God's intermediary per theurgists, seen variously as good or as an evil spirit creating Divine and Infernal auras.",
+  "evidence": [
+   "the-mysteries-revised::0354",
+   "the-mysteries-revised::0355"
+  ]
+ },
+ {
+  "name": "Jehovah",
+  "type": "Character",
+  "aliases": [],
+  "description": "Name used by pagan polytheists for the god they consider merely the most powerful deity.",
+  "evidence": [
+   "the-mysteries-revised::0355"
+  ]
+ },
+ {
+  "name": "Apotheosis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The greatest secret of theurgy: transcending mortality to become a god.",
+  "evidence": [
+   "the-mysteries-revised::0357"
+  ]
+ },
+ {
+  "name": "Psychopompic tradition",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Belief that the soul must pass spiritual guardians after death by knowing secret passwords.",
+  "evidence": [
+   "the-mysteries-revised::0356"
+  ]
+ },
+ {
+  "name": "Spell Spirits",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirits of limited intelligence summoned by Invoke spells to cast a matching spell.",
+  "evidence": [
+   "the-mysteries-revised::0349",
+   "the-mysteries-revised::0359"
+  ]
+ },
+ {
+  "name": "Mystery Cults",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Secretive cults teaching Mysteries such as name magic and Inscription on the Soul.",
+  "evidence": [
+   "the-mysteries-revised::0316",
+   "the-mysteries-revised::0346"
+  ]
+ },
+ {
+  "name": "Hermetic Arts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Techniques and Forms that must be opened to model Hermetic divination.",
+  "evidence": [
+   "the-mysteries-revised::0270"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0270",
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0289"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0297",
+   "the-mysteries-revised::0310",
+   "the-mysteries-revised::0311"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0310",
+   "the-mysteries-revised::0312",
+   "the-mysteries-revised::0351"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0304",
+   "the-mysteries-revised::0332",
+   "the-mysteries-revised::0341"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0321",
+   "the-mysteries-revised::0327",
+   "the-mysteries-revised::0334"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0289",
+   "the-mysteries-revised::0300"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0276",
+   "the-mysteries-revised::0289"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0275",
+   "the-mysteries-revised::0289",
+   "the-mysteries-revised::0303"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0274",
+   "the-mysteries-revised::0312"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0240",
+   "the-mysteries-revised::0275",
+   "the-mysteries-revised::0342"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0305",
+   "the-mysteries-revised::0310",
+   "the-mysteries-revised::0311"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0278",
+   "the-mysteries-revised::0332"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0278",
+   "the-mysteries-revised::0332"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0278",
+   "the-mysteries-revised::0312"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in divination, spirit and ghost magic rules.",
+  "evidence": [
+   "the-mysteries-revised::0279",
+   "the-mysteries-revised::0312",
+   "the-mysteries-revised::0332"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Item",
+  "aliases": [],
+  "description": "Written laboratory record needed to use Ritual effects with Hermetic Empowerment or to learn Invoke spells.",
+  "evidence": [
+   "the-mysteries-revised::0298",
+   "the-mysteries-revised::0349",
+   "the-mysteries-revised::0354"
+  ]
+ },
+ {
+  "name": "Formulaic Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Standard Hermetic spells, more powerful but less flexible than Hermetic Divination.",
+  "evidence": [
+   "the-mysteries-revised::0270"
+  ]
+ },
+ {
+  "name": "Spontaneous Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Improvised Hermetic magic, generally weaker than Divination in Intellego and combinable with Invocation Magic.",
+  "evidence": [
+   "the-mysteries-revised::0270",
+   "the-mysteries-revised::0281",
+   "the-mysteries-revised::0358"
+  ]
+ },
+ {
+  "name": "Invested device",
+  "type": "Item",
+  "aliases": [],
+  "description": "Enchanted device opened with vis, e.g. the armillary sphere or divination devices.",
+  "evidence": [
+   "the-mysteries-revised::0241",
+   "the-mysteries-revised::0284",
+   "the-mysteries-revised::0289"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant soldiers/servants, e.g. the shield grog Determinata seeks.",
+  "evidence": [
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0283",
+   "the-mysteries-revised::0298"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Home community of magi referenced in divination examples.",
+  "evidence": [
+   "the-mysteries-revised::0268",
+   "the-mysteries-revised::0273",
+   "the-mysteries-revised::0308"
+  ]
+ },
+ {
+  "name": "Infernalism",
+  "type": "Concept",
+  "aliases": [
+   "diabolism"
+  ],
+  "description": "Diabolism opposed by the Degree of Mars and forbidden by the Code.",
+  "evidence": [
+   "the-mysteries-revised::0253",
+   "the-mysteries-revised::0295",
+   "the-mysteries-revised::0307"
+  ]
+ }
+]

@@ -1,0 +1,2712 @@
+[
+ {
+  "name": "Gruagach",
+  "type": "CharacterType",
+  "aliases": [
+   "gruagachan",
+   "Highland Magician"
+  ],
+  "description": "Highland magician of a tradition older than the Order of Hermes whose magic revolves around Exceptional Talents; may be sponsored by House Ex Miscellanea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0360",
+   "lion-of-the-north-the-loch-leglean-tribunal::0361",
+   "lion-of-the-north-the-loch-leglean-tribunal::0462"
+  ]
+ },
+ {
+  "name": "Highland Sailor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog template: a former galley crewman from the western coast now serving a covenant ashore.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0434",
+   "lion-of-the-north-the-loch-leglean-tribunal::0435"
+  ]
+ },
+ {
+  "name": "Ghillie",
+  "type": "CharacterType",
+  "aliases": [
+   "Gilly"
+  ],
+  "description": "Grog template: a sixteen-year-old young man of a clan eager to prove himself on raids.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0435",
+   "lion-of-the-north-the-loch-leglean-tribunal::0436"
+  ]
+ },
+ {
+  "name": "Clansman",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog template representing the typical armed Highland clansman and herdsman.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0437",
+   "lion-of-the-north-the-loch-leglean-tribunal::0438",
+   "lion-of-the-north-the-loch-leglean-tribunal::0394"
+  ]
+ },
+ {
+  "name": "Gallowglaigh",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog template: a Hebridean mercenary trained to attack at a run in heavy chain armor, veteran of Irish wars.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0439",
+   "lion-of-the-north-the-loch-leglean-tribunal::0440"
+  ]
+ },
+ {
+  "name": "Border Rider",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog template: a mounted cattle raider from the Borders wanted by the English.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0440",
+   "lion-of-the-north-the-loch-leglean-tribunal::0441",
+   "lion-of-the-north-the-loch-leglean-tribunal::0442"
+  ]
+ },
+ {
+  "name": "Lowland City Militiaman",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog template: a woodworker from a Lowland city trained to wield the spear.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0442",
+   "lion-of-the-north-the-loch-leglean-tribunal::0443",
+   "lion-of-the-north-the-loch-leglean-tribunal::0444"
+  ]
+ },
+ {
+  "name": "Lowland Merchant",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Companion template: a calculating, obese Lowland merchant who secretly acts as a front for magi.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0445",
+   "lion-of-the-north-the-loch-leglean-tribunal::0446"
+  ]
+ },
+ {
+  "name": "Bard/Olamh",
+  "type": "CharacterType",
+  "aliases": [
+   "Bard",
+   "Olamh"
+  ],
+  "description": "Companion template: a traveling poet, teacher and musician welcome for his news and songs.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0446",
+   "lion-of-the-north-the-loch-leglean-tribunal::0447"
+  ]
+ },
+ {
+  "name": "Monk of the Scottish Church",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Companion template: a monk of the Scottish Church who left his monastery after it was annexed to the Cistercians.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0448",
+   "lion-of-the-north-the-loch-leglean-tribunal::0449"
+  ]
+ },
+ {
+  "name": "Highland Chieftain",
+  "type": "CharacterType",
+  "aliases": [
+   "Highland Chieftan"
+  ],
+  "description": "Companion template: chief of a sept responsible for forty families, embroiled in a blood feud.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0449",
+   "lion-of-the-north-the-loch-leglean-tribunal::0450",
+   "lion-of-the-north-the-loch-leglean-tribunal::0451"
+  ]
+ },
+ {
+  "name": "Cailleach Glioc",
+  "type": "CharacterType",
+  "aliases": [
+   "Wise Woman"
+  ],
+  "description": "Companion template: an elderly Highland wise woman who makes small potions and amulets with conditions attached.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0451",
+   "lion-of-the-north-the-loch-leglean-tribunal::0452",
+   "lion-of-the-north-the-loch-leglean-tribunal::0453"
+  ]
+ },
+ {
+  "name": "Ex Miscellanea Storm Witch",
+  "type": "CharacterType",
+  "aliases": [
+   "Storm Witch",
+   "Wind Witch"
+  ],
+  "description": "Magus template: a Highland weather witch who calls or dispels storms by whistling, disdained by other Hermetic magi.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454",
+   "lion-of-the-north-the-loch-leglean-tribunal::0455",
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Quaesitor Investigator",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magus template: a newly initiated Quaesitor seeking to cleanse the Loch Leglean Tribunal without real authority.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456",
+   "lion-of-the-north-the-loch-leglean-tribunal::0457",
+   "lion-of-the-north-the-loch-leglean-tribunal::0458"
+  ]
+ },
+ {
+  "name": "Ex Miscellanea Shapeshifter",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magus template: a feral magus who takes the forms of wolf, goat, hare, raven and golden eagle.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0458",
+   "lion-of-the-north-the-loch-leglean-tribunal::0459",
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Highland Weather Witch",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tradition of Highland witches able to call or dispel storms by whistling.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Brude Deathless",
+  "type": "Character",
+  "aliases": [
+   "Brude"
+  ],
+  "description": "Crotchety gruagach over 550 years old, son of Damhan-allaidh, living in a broch in the far North; the most powerful human known in Scotland, who casts Geasa on his apprentices to ensure they train students.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0388",
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0376"
+  ]
+ },
+ {
+  "name": "Damhan-allaidh",
+  "type": "Character",
+  "aliases": [
+   "Damhanallaidh",
+   "The Spider"
+  ],
+  "description": "Ancient spider-like gruagach enemy of the Order who warred against Pralix; after defeat in 890 he fled to the Shetlands and may return to conquer Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0381",
+   "lion-of-the-north-the-loch-leglean-tribunal::0423",
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hermetic leader whose forces fought Damhan-allaidh, separated at the battle of Loch Oadh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0381",
+   "lion-of-the-north-the-loch-leglean-tribunal::0409"
+  ]
+ },
+ {
+  "name": "Donald Dubh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young gruagach used as an example of learning new Exceptional Talents such as Magic Sensitivity and Transform.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0364",
+   "lion-of-the-north-the-loch-leglean-tribunal::0365"
+  ]
+ },
+ {
+  "name": "Chearlach",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gruagach used in the newid gornest example, taking bird form to escape Brude's lava.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0373"
+  ]
+ },
+ {
+  "name": "MacBeth",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the last Scottish kings, contending with Malcolm Canmore around 1050-1060.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0384"
+  ]
+ },
+ {
+  "name": "Lulach",
+  "type": "Character",
+  "aliases": [],
+  "description": "With MacBeth, one of the last Scottish kings before Malcolm Canmore.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0384"
+  ]
+ },
+ {
+  "name": "Malcolm Canmore",
+  "type": "Character",
+  "aliases": [
+   "Malcolm"
+  ],
+  "description": "Scottish king who brought a continental court and feudalism to Scotland and invaded northern England in 1070.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0384",
+   "lion-of-the-north-the-loch-leglean-tribunal::0385"
+  ]
+ },
+ {
+  "name": "William the Conqueror",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norman king of England who retaliated against Malcolm Canmore's invasion in 1071-72.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0385"
+  ]
+ },
+ {
+  "name": "Margaret, Maid of Norway",
+  "type": "Character",
+  "aliases": [],
+  "description": "Heir whose death in 1290 left the Scottish throne vacant.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0387"
+  ]
+ },
+ {
+  "name": "King Edward of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king asked to adjudicate the Scottish succession after 1290.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0387"
+  ]
+ },
+ {
+  "name": "John Balliol",
+  "type": "Character",
+  "aliases": [],
+  "description": "King chosen by Edward of England who proved unpopular, sparking rebellions.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0387"
+  ]
+ },
+ {
+  "name": "William Wallace",
+  "type": "Character",
+  "aliases": [],
+  "description": "The most successful Scottish rebel of the 1290s, whose fortunes are tied to Horsingas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0387"
+  ]
+ },
+ {
+  "name": "Malcom Ceann Dubh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of the chief and tanist of a clan, leader of a cattle drive to Aberdeen.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0396"
+  ]
+ },
+ {
+  "name": "Sean Beg",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ringleader of the clansmen who raid another clan's herd during the drive to Aberdeen.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0396"
+  ]
+ },
+ {
+  "name": "King Alexander I",
+  "type": "Character",
+  "aliases": [
+   "Alexander"
+  ],
+  "description": "Scottish king who appointed Henry de Goulis seneschal and made the title hereditary in 1121.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414"
+  ]
+ },
+ {
+  "name": "Henry de Goulis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Seneschal appointed by King Alexander I, ancestor of Lord Goulis.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414"
+  ]
+ },
+ {
+  "name": "David, Lord Goulis",
+  "type": "Character",
+  "aliases": [
+   "Lord Goulis",
+   "David Goulis"
+  ],
+  "description": "Diabolist seneschal of the Scottish king who built Monksend castle, hunting souls in the Borders with his demonic familiar and demon dogs.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416",
+   "lion-of-the-north-the-loch-leglean-tribunal::0418"
+  ]
+ },
+ {
+  "name": "Robyn Redcap",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demonic familiar of Lord Goulis in the form of a redcap, who keeps his cap red with fresh blood and guards Monksend.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416",
+   "lion-of-the-north-the-loch-leglean-tribunal::0419"
+  ]
+ },
+ {
+  "name": "An Banrigh nam Eilan nam Crodh Beag",
+  "type": "Character",
+  "aliases": [
+   "The Queen of the Island of Little Cattle"
+  ],
+  "description": "The Queen of the Island of Little Cattle, secretly a famhair a'falach in the Shetlands seeking her hidden heart so she can die.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0411",
+   "lion-of-the-north-the-loch-leglean-tribunal::0412"
+  ]
+ },
+ {
+  "name": "Caitlin of Crun Clach",
+  "type": "Character",
+  "aliases": [
+   "Caitlin"
+  ],
+  "description": "Major magus of the Loch Leglean Tribunal from the covenant of Crun Clach.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0425"
+  ]
+ },
+ {
+  "name": "Calum Mac Lachlan",
+  "type": "Character",
+  "aliases": [
+   "Calum"
+  ],
+  "description": "Major magus of Clan Mac Gruagach, portrayed as a more normal gruagach.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0425",
+   "lion-of-the-north-the-loch-leglean-tribunal::0426"
+  ]
+ },
+ {
+  "name": "Whitburh Frithowebba",
+  "type": "Character",
+  "aliases": [
+   "Whitburh"
+  ],
+  "description": "Major magus of Horsingas who grants investigators quaesitorial authority via seals.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0425",
+   "lion-of-the-north-the-loch-leglean-tribunal::0426"
+  ]
+ },
+ {
+  "name": "Aonghus Mac Dughal",
+  "type": "Character",
+  "aliases": [],
+  "description": "Notorious cattle thief killed by the clansman template character.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0437",
+   "lion-of-the-north-the-loch-leglean-tribunal::0438"
+  ]
+ },
+ {
+  "name": "Kenneth MacAlpin",
+  "type": "Character",
+  "aliases": [],
+  "description": "King whose conquest of Pictland led to the disappearance of the Pictish language.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0465"
+  ]
+ },
+ {
+  "name": "St. Mungo",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint whose Bell and Staff were carried north by a fleeing abbot.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0449"
+  ]
+ },
+ {
+  "name": "Seumas Dubh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Cattle thief mentioned by the ghillie template.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0436"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea",
+   "Ordo Miscellanea"
+  ],
+  "description": "Hermetic House that sponsors gruagachan and hedge wizards; dominated by Diedne after the consolidation of Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0381",
+   "lion-of-the-north-the-loch-leglean-tribunal::0382",
+   "lion-of-the-north-the-loch-leglean-tribunal::0462"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "House that dominated Scotland for a hundred years before being destroyed in the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0382",
+   "lion-of-the-north-the-loch-leglean-tribunal::0383"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [],
+  "description": "House that fought Diedne in the Schism War and is hated by the Loch Leglean Tribunal.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0383",
+   "lion-of-the-north-the-loch-leglean-tribunal::0427"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "House that fought Diedne in the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0383",
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "House Quaesitor",
+  "type": "House",
+  "aliases": [
+   "Quaesitor",
+   "quaesitoris"
+  ],
+  "description": "House of Hermetic investigators; fought Diedne in the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0383",
+   "lion-of-the-north-the-loch-leglean-tribunal::0458"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "Hermes",
+   "the Order"
+  ],
+  "description": "The Hermetic Order of magi, hated by Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0373",
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ]
+ },
+ {
+  "name": "Ordo Miscellanea",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Order of native magicians created after the war against Damhan-allaidh, later joining the Order of Hermes.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0381"
+  ]
+ },
+ {
+  "name": "Clan Mac Gruagach",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Clan descended from Brude Deathless, associated with the gruagach tradition.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0388",
+   "lion-of-the-north-the-loch-leglean-tribunal::0425"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Rival magical order whose rumored activity Damhan-allaidh might spread.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0428"
+  ]
+ },
+ {
+  "name": "Mac Peadars",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Clan in long, deadly feud with a chief's clan in a story idea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0402"
+  ]
+ },
+ {
+  "name": "House of Canmore",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Royal house of Scotland against which pretenders rebelled 1060-1189.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0386"
+  ]
+ },
+ {
+  "name": "Praeses Septentrionalis",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Opponent that Damhan-allaidh warred against, alongside Pralix.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0409"
+  ]
+ },
+ {
+  "name": "Cistercians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Monastic order that established a chapter house and sought to annex a Scottish monastery.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0448",
+   "lion-of-the-north-the-loch-leglean-tribunal::0449"
+  ]
+ },
+ {
+  "name": "Benedictines",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Monastic order whose monastery lands were taken by David Goulis for Monksend.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414"
+  ]
+ },
+ {
+  "name": "Scottish Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The native church of Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0448",
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "Picts",
+  "type": "Faction",
+  "aliases": [
+   "Pictish"
+  ],
+  "description": "Ancient people of Scotland who spoke a language like Welsh; their culture vanished 840-900.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0382",
+   "lion-of-the-north-the-loch-leglean-tribunal::0465"
+  ]
+ },
+ {
+  "name": "Vikings",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Raiders attacking the north and west coasts of Scotland during the war against Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0381"
+  ]
+ },
+ {
+  "name": "Normans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Conquerors of England whose displaced Saxon nobles and magi fled north.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0385"
+  ]
+ },
+ {
+  "name": "Scotti",
+  "type": "Faction",
+  "aliases": [
+   "Scots"
+  ],
+  "description": "Ancient people gruagachan might have fought.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0380"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "The Hermetic tribunal of Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0411",
+   "lion-of-the-north-the-loch-leglean-tribunal::0423",
+   "lion-of-the-north-the-loch-leglean-tribunal::0425"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal whose magi settled in the Lowlands and might protest aid to Wallace.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0384",
+   "lion-of-the-north-the-loch-leglean-tribunal::0387"
+  ]
+ },
+ {
+  "name": "Norman Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal whose magi began settling in Scottish Lowlands around 1050-1060.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0384"
+  ]
+ },
+ {
+  "name": "Horsingas",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant whose political fortunes rise and fall with William Wallace; home of Whitburh Frithowebba.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0387",
+   "lion-of-the-north-the-loch-leglean-tribunal::0425"
+  ]
+ },
+ {
+  "name": "Crun Clach",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant of Caitlin; the Pact of Crun Clach of 1189 is named after it.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0386",
+   "lion-of-the-north-the-loch-leglean-tribunal::0425"
+  ]
+ },
+ {
+  "name": "Pact of Crun Clach",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1189 agreement prohibiting Scottish magi from aiding in mundane politics.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0386"
+  ]
+ },
+ {
+  "name": "Gruagach Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Verbal, personal magic based on Exceptional Talents, rolled with stress dice, affecting one target within earshot.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0361",
+   "lion-of-the-north-the-loch-leglean-tribunal::0362",
+   "lion-of-the-north-the-loch-leglean-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Newid Gornest",
+  "type": "Concept",
+  "aliases": [
+   "shapeshifting duel",
+   "change duel"
+  ],
+  "description": "Gruagach shapeshifting duel used to settle arguments, as certamen serves the Order; the winner may cast a Geas or Curse on the loser.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0373",
+   "lion-of-the-north-the-loch-leglean-tribunal::0374",
+   "lion-of-the-north-the-loch-leglean-tribunal::0376"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [
+   "Certámen"
+  ],
+  "description": "Hermetic magical duel used to settle arguments, analog of the newid gornest.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0373",
+   "lion-of-the-north-the-loch-leglean-tribunal::0376"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gruagachan gain Magic Resistance from their first three magical Talents instead of Parma Magica.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0363",
+   "lion-of-the-north-the-loch-leglean-tribunal::0389"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic magical defense that gruagachan cannot learn.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0363",
+   "lion-of-the-north-the-loch-leglean-tribunal::0457",
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Hermetic Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic of the Order of Hermes, contrasted with gruagach magic.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0361",
+   "lion-of-the-north-the-loch-leglean-tribunal::0364"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of the Divine; its Scottish temper benefits Hermetic magi but not gruagachan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0362"
+  ]
+ },
+ {
+  "name": "Scottish Temper of the Dominion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Special aura quality in Scotland whose benefits gruagachan cannot gain.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0362"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura modifiers apply to gruagachan as for Hermetic magi, but Magic auras don't aid gruagach learning.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0362",
+   "lion-of-the-north-the-loch-leglean-tribunal::0364"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power found in creatures such as giants and demons and in seaweed on an island near Brude's tower.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0392",
+   "lion-of-the-north-the-loch-leglean-tribunal::0408",
+   "lion-of-the-north-the-loch-leglean-tribunal::0419"
+  ]
+ },
+ {
+  "name": "Aesfotedia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Substance found in demonic bodies such as Robyn Redcap and the demon dogs.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0419",
+   "lion-of-the-north-the-loch-leglean-tribunal::0421"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Final Twilight",
+   "Twilight Points"
+  ],
+  "description": "Magi with Twilight points or near final Twilight experience dreams of Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0424",
+   "lion-of-the-north-the-loch-leglean-tribunal::0425"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The law of the Order.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Body of Hermetic Law precedents.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War 1003-1012 in which Diedne was destroyed by Flambeau, Tytalus and Quaesitor.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0383",
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "War Against Damhan-allaidh",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War 810-816 of Pralix's forces and native magicians against Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0381"
+  ]
+ },
+ {
+  "name": "Battle of Loch Oadh",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Battle where Pralix's forces were separated during the war against Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0381"
+  ]
+ },
+ {
+  "name": "Consolidation of Scotland",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Period 840-900 when Pictish culture disappeared and Diedne ascended over Ex Miscellanea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0382"
+  ]
+ },
+ {
+  "name": "Norman Conquest of England",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Conquest driving Saxon nobles and magi north into Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0385"
+  ]
+ },
+ {
+  "name": "Geas",
+  "type": "Concept",
+  "aliases": [
+   "Geasa"
+  ],
+  "description": "Magical compulsion cast by gruagachan; Brude's Geas requires apprentices to train a student by age forty-nine.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0373",
+   "lion-of-the-north-the-loch-leglean-tribunal::0376",
+   "lion-of-the-north-the-loch-leglean-tribunal::0388"
+  ]
+ },
+ {
+  "name": "Curse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Gruagach Talent used to curse targets.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0366",
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0431"
+  ]
+ },
+ {
+  "name": "External Soul",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing a gruagach or giant to separate the heart/soul from the body, granting +20 Magic Resistance and near-immortality.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0363",
+   "lion-of-the-north-the-loch-leglean-tribunal::0377",
+   "lion-of-the-north-the-loch-leglean-tribunal::0408"
+  ]
+ },
+ {
+  "name": "Wizard's Sigil",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characteristic mark of a magus's magic.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455",
+   "lion-of-the-north-the-loch-leglean-tribunal::0457",
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Blood Feud",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Highland clan feud escalating from insults to full-scale raids.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0400",
+   "lion-of-the-north-the-loch-leglean-tribunal::0402"
+  ]
+ },
+ {
+  "name": "Cattle Raiding",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Major part of Highland life in which clans lift each other's cattle, especially at summer's end.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0394",
+   "lion-of-the-north-the-loch-leglean-tribunal::0395"
+  ]
+ },
+ {
+  "name": "Quarter Days",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Imbolc, Beltane, Lughnasa and Samhain, the only days Damhan-allaidh may perform sacrifices.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Imbolc",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Quarter day, Feb. 1.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Beltane",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Quarter day, May 1.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Lughnasa",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Quarter day, Aug. 1.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Samhain",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Quarter day, Nov. 1.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0433",
+   "lion-of-the-north-the-loch-leglean-tribunal::0472"
+  ]
+ },
+ {
+  "name": "Fairy Ring",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ring of the faeries, the subject of an anonymous verse warning against disturbing it.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0377"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Infernal power to which Lord Goulis owes obligation.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0415",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Magic Might and magic auras relate to the Realm of Magic.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0368",
+   "lion-of-the-north-the-loch-leglean-tribunal::0399"
+  ]
+ },
+ {
+  "name": "Gruagach Knowledge",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Basic gruagach ability granted at character creation.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0360"
+  ]
+ },
+ {
+  "name": "Gruagach Wisdom",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing a gruagach's learning of new Exceptional Talents.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0360",
+   "lion-of-the-north-the-loch-leglean-tribunal::0364",
+   "lion-of-the-north-the-loch-leglean-tribunal::0376"
+  ]
+ },
+ {
+  "name": "Gruagach Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of gruagach tradition.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0424",
+   "lion-of-the-north-the-loch-leglean-tribunal::0463"
+  ]
+ },
+ {
+  "name": "Shapeshift",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Gruagach Talent to change one's own shape; the first Talent normally learned.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0360",
+   "lion-of-the-north-the-loch-leglean-tribunal::0368",
+   "lion-of-the-north-the-loch-leglean-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Transform",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Special +3 gruagach Talent to change others' shapes; base Ease Factor 10.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0365",
+   "lion-of-the-north-the-loch-leglean-tribunal::0369",
+   "lion-of-the-north-the-loch-leglean-tribunal::0390"
+  ]
+ },
+ {
+  "name": "Speak Pictish",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language ability added to gruagach casting totals.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0360",
+   "lion-of-the-north-the-loch-leglean-tribunal::0368",
+   "lion-of-the-north-the-loch-leglean-tribunal::0375"
+  ]
+ },
+ {
+  "name": "Speak Gaelic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language of the Highlands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0360",
+   "lion-of-the-north-the-loch-leglean-tribunal::0465"
+  ]
+ },
+ {
+  "name": "Speak Giant",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language used by famhairan a'falach in place of Speak Pictish for gruagach magic.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0408"
+  ]
+ },
+ {
+  "name": "Potency",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability added to gruagach casting totals.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0368",
+   "lion-of-the-north-the-loch-leglean-tribunal::0390"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Ability",
+  "aliases": [],
+  "description": "+1 Exceptional Talent for gruagachan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0364",
+   "lion-of-the-north-the-loch-leglean-tribunal::0407"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Talent able to identify shapeshifted or transformed beings.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0369",
+   "lion-of-the-north-the-loch-leglean-tribunal::0370",
+   "lion-of-the-north-the-loch-leglean-tribunal::0390"
+  ]
+ },
+ {
+  "name": "Sight of the True Form",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to identify shapeshifted beings.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0369",
+   "lion-of-the-north-the-loch-leglean-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Exceptional Talent",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Class of abilities around which gruagach magic revolves.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0361",
+   "lion-of-the-north-the-loch-leglean-tribunal::0364",
+   "lion-of-the-north-the-loch-leglean-tribunal::0375"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of a region.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0360",
+   "lion-of-the-north-the-loch-leglean-tribunal::0389"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Skill needed for successful cattle raids (droving).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0394",
+   "lion-of-the-north-the-loch-leglean-tribunal::0397"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Skill needed for cattle raids.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0394",
+   "lion-of-the-north-the-loch-leglean-tribunal::0397"
+  ]
+ },
+ {
+  "name": "Enchanting Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent of music.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0446"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "Weather Sense",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Talent to sense weather.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0407"
+  ]
+ },
+ {
+  "name": "Faerie Sensitivity",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of magical giants.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0407"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic lab ability.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0376",
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Hermes History",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of Hermetic history.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0424",
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of the Order.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0424",
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Occult Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of occult matters.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0417"
+  ]
+ },
+ {
+  "name": "Hierarchy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of demon names.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0417",
+   "lion-of-the-north-the-loch-leglean-tribunal::0419"
+  ]
+ },
+ {
+  "name": "Will over Form",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to change into animal form.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Weather Affinity",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of the storm witch.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic ability.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic ability.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "Gift",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0452"
+  ]
+ },
+ {
+  "name": "Geasa",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Gruagach Talent of casting geasa.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "Scribe Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to write Latin.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0392",
+   "lion-of-the-north-the-loch-leglean-tribunal::0417"
+  ]
+ },
+ {
+  "name": "Divination",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0431"
+  ]
+ },
+ {
+  "name": "Dousing",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "Sense Holy/Unholy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0390",
+   "lion-of-the-north-the-loch-leglean-tribunal::0431"
+  ]
+ },
+ {
+  "name": "Incinerate",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Special gruagach ability of Damhan-allaidh. Like Creo and Rego Ignem, only for true fire; characteristic Presence.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0431",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432",
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Decay",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Special gruagach ability of Damhan-allaidh. Like Perdo Animal and Corporem; characteristic Stamina.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0431",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432",
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Enthrall",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Special gruagach ability of Damhan-allaidh. Like Rego and Perdo Mentem; used to take over minds of nobles, magi or churchmen.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0431",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432",
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Sacrifice",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Special gruagach ability of Damhan-allaidh. Like Creo Vim; draining body levels from sacrifices on quarter days yields vis.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0431",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432",
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Shatter",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Special gruagach ability of Damhan-allaidh. Like Perdo Herbam and Terram; characteristic Strength.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0431",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432",
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw gained by gruagach on first botched magical Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0362",
+   "lion-of-the-north-the-loch-leglean-tribunal::0391"
+  ]
+ },
+ {
+  "name": "Offensive to Animals",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw gained by gruagach on first botched magical Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0362",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw gained by gruagach on second botch.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0362",
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Giant's Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Brude Deathless.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue giving thick skin.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0391"
+  ]
+ },
+ {
+  "name": "Superior Demonic Familiar",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Lord Goulis.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Susceptible to Divine Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Lord Goulis.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Tainted with Evil",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw marking a non-Hermetic practitioner.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454",
+   "lion-of-the-north-the-loch-leglean-tribunal::0463"
+  ]
+ },
+ {
+  "name": "Isolated from the Order",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the storm witch.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Independent Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Magical Affinity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454",
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Subtle Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454",
+   "lion-of-the-north-the-loch-leglean-tribunal::0458"
+  ]
+ },
+ {
+  "name": "Silent Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Quiet Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Extra Arts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454",
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Will over Form (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing shapechange.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Personal Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Flawed Parma",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Quaesitor (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Study Requirement",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Susceptible to Infernal Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the monk.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0448"
+  ]
+ },
+ {
+  "name": "Clergy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0448"
+  ]
+ },
+ {
+  "name": "Curse of Venus",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the bard.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0447"
+  ]
+ },
+ {
+  "name": "Faerie Enmity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0447"
+  ]
+ },
+ {
+  "name": "Ways of the Woods",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0462"
+  ]
+ },
+ {
+  "name": "Lack of Penetration",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0463"
+  ]
+ },
+ {
+  "name": "Hatred Passion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Damhan-allaidh (Order of Hermes).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ]
+ },
+ {
+  "name": "Need Not Sleep",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ]
+ },
+ {
+  "name": "Chaotic Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ]
+ },
+ {
+  "name": "Vulnerability",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw (e.g. obsidian).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ]
+ },
+ {
+  "name": "Fury",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0429"
+  ]
+ },
+ {
+  "name": "Exceptional Talent (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting an Exceptional Talent.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0434",
+   "lion-of-the-north-the-loch-leglean-tribunal::0446",
+   "lion-of-the-north-the-loch-leglean-tribunal::0452"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0434",
+   "lion-of-the-north-the-loch-leglean-tribunal::0441"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0439"
+  ]
+ },
+ {
+  "name": "Leadership (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416",
+   "lion-of-the-north-the-loch-leglean-tribunal::0450"
+  ]
+ },
+ {
+  "name": "Wealth",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Geas (Flaw)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw imposing a gruagach geas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0462",
+   "lion-of-the-north-the-loch-leglean-tribunal::0463"
+  ]
+ },
+ {
+  "name": "Obligation",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416",
+   "lion-of-the-north-the-loch-leglean-tribunal::0435"
+  ]
+ },
+ {
+  "name": "Social Handicap",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0434"
+  ]
+ },
+ {
+  "name": "Palsied Hands",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416",
+   "lion-of-the-north-the-loch-leglean-tribunal::0452"
+  ]
+ },
+ {
+  "name": "Poor Eyesight",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0389",
+   "lion-of-the-north-the-loch-leglean-tribunal::0437"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0392",
+   "lion-of-the-north-the-loch-leglean-tribunal::0419"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0392"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0432"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0423",
+   "lion-of-the-north-the-loch-leglean-tribunal::0456"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0369",
+   "lion-of-the-north-the-loch-leglean-tribunal::0459"
+  ]
+ },
+ {
+  "name": "Corporem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0369",
+   "lion-of-the-north-the-loch-leglean-tribunal::0392",
+   "lion-of-the-north-the-loch-leglean-tribunal::0408"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0392",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0408",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0423",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0408",
+   "lion-of-the-north-the-loch-leglean-tribunal::0432"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0433"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in this text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0454"
+  ]
+ },
+ {
+  "name": "Gathering of the Stormy Might",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReAu 30) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Quiet the Raging Winds",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (PeAu 25) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Chaos of the Angry Wave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReAq 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Circling Winds of Protection",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReAu 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Maintain the Demanding Spell",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReVi 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Sailor's Foretaste of the Morrow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (InAu 15) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Jupiter's Resounding Blow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReAu 10) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Push of the Gentle Wave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReAq 10) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0455"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReMe 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Ear for the Distant Voice",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (InIm 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Image from the Wizard Torn",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReIm 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Opening the Intangible Tunnel",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReVi 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Perceive the Magical Scent",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (InVi 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Tongue of the Folk",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (InMe 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Wind of Mundane Silence",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (PeVi 20) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "The Unseen Arm",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ReTe 5) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0457"
+  ]
+ },
+ {
+  "name": "Cloak of Black Feathers",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (MuCo 35) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0459",
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Cloak of Gilded Feathers",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (MuCo 35, golden eagle) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Shape of the Agile Climber",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (MuCo 25, goat) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Shape of the Moorland Runner",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (MuCo 25, hare) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Shape of the Woodland Prowler",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (MuCo 25) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Air's Ghostly Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (CrAu 5) known by a template magus or referenced in the text.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0460"
+  ]
+ },
+ {
+  "name": "Steed of Vengeance",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell effect treated as cast on Lord Goulis's demon horse.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0418",
+   "lion-of-the-north-the-loch-leglean-tribunal::0419"
+  ]
+ },
+ {
+  "name": "Collect the Potency of Blood",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Robyn Redcap's power (MuCo 15) to dip his cap in a victim's blood for +3 Str and Sta per Size point.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0420"
+  ]
+ },
+ {
+  "name": "Howls of Confusion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power (PeMe 15) of Lord Goulis's demon dogs that confuses victims, resisted by Int roll of 9+.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0421",
+   "lion-of-the-north-the-loch-leglean-tribunal::0422"
+  ]
+ },
+ {
+  "name": "Lord Goulis's Armor",
+  "type": "Item",
+  "aliases": [
+   "demonic armor"
+  ],
+  "description": "Enchanted armor gifted by his patron demon, giving Protection 16 and boosting his Strength, Dexterity and Quickness; vanishes if he dies.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416",
+   "lion-of-the-north-the-loch-leglean-tribunal::0418"
+  ]
+ },
+ {
+  "name": "Bell and Staff of St. Mungo",
+  "type": "Item",
+  "aliases": [],
+  "description": "Relics carried north by a fleeing abbot rather than being handed to the bishop.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0449"
+  ]
+ },
+ {
+  "name": "Silver Crucifix",
+  "type": "Item",
+  "aliases": [],
+  "description": "Folk-belief holds one buried under the doorsill protects against Lord Goulis.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414",
+   "lion-of-the-north-the-loch-leglean-tribunal::0415"
+  ]
+ },
+ {
+  "name": "Rock of Eternal Life",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rock in Brude's tower said to make its owner live forever.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0392",
+   "lion-of-the-north-the-loch-leglean-tribunal::0393"
+  ]
+ },
+ {
+  "name": "Shapechanging Powder",
+  "type": "Item",
+  "aliases": [],
+  "description": "Powder in Brude's tower allowing the user to change shape without a spell.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0393"
+  ]
+ },
+ {
+  "name": "Seal of Quaesitorial Authority",
+  "type": "Item",
+  "aliases": [],
+  "description": "Seal Whitburh gives investigators granting quaesitoris authority for the dream investigation.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0426"
+  ]
+ },
+ {
+  "name": "Famhair a'falach",
+  "type": "Creature",
+  "aliases": [
+   "famhairan a'falach",
+   "Magical Highland Giant"
+  ],
+  "description": "Magical Highland giant up to forty feet tall with hidden heart (External Soul), originators of gruagach magic.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0404",
+   "lion-of-the-north-the-loch-leglean-tribunal::0407",
+   "lion-of-the-north-the-loch-leglean-tribunal::0408"
+  ]
+ },
+ {
+  "name": "Famhair Laidir",
+  "type": "Creature",
+  "aliases": [
+   "famhair laisdir",
+   "famhairan laidir",
+   "Non-magical Highland Giant"
+  ],
+  "description": "Non-magical Highland giant up to 60 feet tall, dim-witted; many aided Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0404",
+   "lion-of-the-north-the-loch-leglean-tribunal::0409",
+   "lion-of-the-north-the-loch-leglean-tribunal::0410"
+  ]
+ },
+ {
+  "name": "Highland Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Nearly extinct race of giants in Sutherland and Strathnavar, in two kinds.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0404",
+   "lion-of-the-north-the-loch-leglean-tribunal::0406"
+  ]
+ },
+ {
+  "name": "Crodh",
+  "type": "Creature",
+  "aliases": [
+   "Bo",
+   "Highland cattle",
+   "Cow"
+  ],
+  "description": "Highland cattle, smaller and more intelligent than lowland cattle, which scatter when startled.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0399"
+  ]
+ },
+ {
+  "name": "Lord Goulis's Demon Dogs",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demonic hounds (Might 8) accompanying Lord Goulis, with Howls of Confusion.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414",
+   "lion-of-the-north-the-loch-leglean-tribunal::0420",
+   "lion-of-the-north-the-loch-leglean-tribunal::0421"
+  ]
+ },
+ {
+  "name": "Demon Horse of Lord Goulis",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon bound in horse form with fiery breath.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0418"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dark faerie who keeps his cap red with blood; form taken by Robyn.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Gearr",
+  "type": "Creature",
+  "aliases": [
+   "Hare"
+  ],
+  "description": "Hare, favorite form for Scottish shapechangers; blue mountain hare and brown hare.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0460",
+   "lion-of-the-north-the-loch-leglean-tribunal::0461"
+  ]
+ },
+ {
+  "name": "Stoorworm",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Highland monster that may ally with Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0426",
+   "lion-of-the-north-the-loch-leglean-tribunal::0427"
+  ]
+ },
+ {
+  "name": "Each Uisge",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Highland water monster that may ally with Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0427",
+   "lion-of-the-north-the-loch-leglean-tribunal::0463"
+  ]
+ },
+ {
+  "name": "Unseelie Faeries",
+  "type": "Creature",
+  "aliases": [
+   "Unseelie"
+  ],
+  "description": "Dark faeries that could ally with Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0407",
+   "lion-of-the-north-the-loch-leglean-tribunal::0427"
+  ]
+ },
+ {
+  "name": "Dragon of the Pyrenees",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Powerful creature used as a scale comparison with magical Highland giants.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0404"
+  ]
+ },
+ {
+  "name": "Golden Eagle Messenger",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Speaking golden eagle serving the Queen of the Island of Little Cattle.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0411",
+   "lion-of-the-north-the-loch-leglean-tribunal::0412"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land of the Loch Leglean Tribunal.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0380",
+   "lion-of-the-north-the-loch-leglean-tribunal::0404"
+  ]
+ },
+ {
+  "name": "Highlands",
+  "type": "Place",
+  "aliases": [
+   "Scottish Highlands"
+  ],
+  "description": "Northern Scottish region of clans and gruagachan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0379",
+   "lion-of-the-north-the-loch-leglean-tribunal::0394"
+  ]
+ },
+ {
+  "name": "Lowlands",
+  "type": "Place",
+  "aliases": [
+   "Lowland Scotland"
+  ],
+  "description": "Southern Scottish region to which cattle are driven and where magi settled.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0383",
+   "lion-of-the-north-the-loch-leglean-tribunal::0384"
+  ]
+ },
+ {
+  "name": "Shetland Islands",
+  "type": "Place",
+  "aliases": [
+   "Shetlands"
+  ],
+  "description": "Islands where Damhan-allaidh fled after 890 and where the giant queen lives.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0412",
+   "lion-of-the-north-the-loch-leglean-tribunal::0423",
+   "lion-of-the-north-the-loch-leglean-tribunal::0426"
+  ]
+ },
+ {
+  "name": "Sutherland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Remote region where the last Highland giants live.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0404"
+  ]
+ },
+ {
+  "name": "Strathnavar",
+  "type": "Place",
+  "aliases": [],
+  "description": "Remote region where the last Highland giants live; Navar River.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0404",
+   "lion-of-the-north-the-loch-leglean-tribunal::0463"
+  ]
+ },
+ {
+  "name": "Aberdeen",
+  "type": "Place",
+  "aliases": [],
+  "description": "Market town to which clan cattle are driven.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0396"
+  ]
+ },
+ {
+  "name": "Dunkeld",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cattle market city with a large cathedral.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0438"
+  ]
+ },
+ {
+  "name": "Monksend Castle",
+  "type": "Place",
+  "aliases": [
+   "Monksend"
+  ],
+  "description": "Castle built by David Goulis from 1187 on Benedictine monastery lands, reputed haunted.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "The Borders",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region terrorized by Lord Goulis and home to border riders.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0414",
+   "lion-of-the-north-the-loch-leglean-tribunal::0415",
+   "lion-of-the-north-the-loch-leglean-tribunal::0441"
+  ]
+ },
+ {
+  "name": "Teviot",
+  "type": "Place",
+  "aliases": [],
+  "description": "River north of which Lord Goulis rarely hunts.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0415"
+  ]
+ },
+ {
+  "name": "Annan",
+  "type": "Place",
+  "aliases": [],
+  "description": "River west of which Lord Goulis rarely hunts.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0415",
+   "lion-of-the-north-the-loch-leglean-tribunal::0416"
+  ]
+ },
+ {
+  "name": "Hermitage",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lands around which Lord Goulis has area lore.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0417"
+  ]
+ },
+ {
+  "name": "Brude's Broch",
+  "type": "Place",
+  "aliases": [],
+  "description": "Broch/tower in the far North on the northwest coast where Brude lives, near standing stones and a vis-rich island.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0388",
+   "lion-of-the-north-the-loch-leglean-tribunal::0392"
+  ]
+ },
+ {
+  "name": "Galloway",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where the monk wandered before finding the covenant.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0449"
+  ]
+ },
+ {
+  "name": "Hebrides",
+  "type": "Place",
+  "aliases": [],
+  "description": "Islands, home of gallowglaigh mercenaries.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0440"
+  ]
+ },
+ {
+  "name": "Leinster",
+  "type": "Place",
+  "aliases": [],
+  "description": "Irish region where the gallowglaigh fought.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0440"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land whence Gaelic came and where gallowglaigh served.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0440",
+   "lion-of-the-north-the-loch-leglean-tribunal::0465"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom to the south whose Normans and kings affected Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0385",
+   "lion-of-the-north-the-loch-leglean-tribunal::0387"
+  ]
+ },
+ {
+  "name": "Pictland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land of the Picts conquered by Kenneth MacAlpin.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0465"
+  ]
+ },
+ {
+  "name": "Brittany",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Damhan-allaidh knows magical sites.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ },
+ {
+  "name": "British Isles",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Damhan-allaidh knows magical sites.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0430"
+  ]
+ }
+]

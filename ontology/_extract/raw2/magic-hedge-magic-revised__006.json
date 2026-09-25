@@ -1,0 +1,1764 @@
+[
+ {
+  "name": "Fehu",
+  "type": "Art",
+  "aliases": [
+   "Feoh",
+   "Fe",
+   "Febu"
+  ],
+  "description": "Elder Futhark rune \"Wealth\" used as a vitkir Art. Rune of common wealth such as cattle, silver and grain; as a target it is associated with Animal or Terram (domesticated animals).",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0734",
+   "magic-hedge-magic-revised::0735"
+  ]
+ },
+ {
+  "name": "Uruz",
+  "type": "Art",
+  "aliases": [
+   "Ur",
+   "Qruz"
+  ],
+  "description": "Elder Futhark rune \"Auroch\" used as a vitkir Art. Rune of the aurochs, symbolizing strength, stamina and the wild; targets wild or magical animals (Animal) and wild weather (Auram).",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0774",
+   "magic-hedge-magic-revised::0776"
+  ]
+ },
+ {
+  "name": "Thurisaz",
+  "type": "Art",
+  "aliases": [
+   "Thorn",
+   "Thurs"
+  ],
+  "description": "Elder Futhark rune \"Ogre\" used as a vitkir Art. Negative rune meaning giant or ogre (or thorn), used for shapeshifting and against supernatural creatures (Vim) and thorny plants (Herbam).",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0771",
+   "magic-hedge-magic-revised::0773"
+  ]
+ },
+ {
+  "name": "Ansuz",
+  "type": "Art",
+  "aliases": [
+   "Ass"
+  ],
+  "description": "Elder Futhark rune \"Mouth\" used as a vitkir Art. Rune of the mouth and speech, associated with the Aesir and Odin; targets sounds (Imaginem), minds through speech (Mentem), and intelligent beings.",
+  "evidence": [
+   "magic-hedge-magic-revised::0720",
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0725"
+  ]
+ },
+ {
+  "name": "Raido",
+  "type": "Art",
+  "aliases": [
+   "Rad",
+   "Reidh"
+  ],
+  "description": "Elder Futhark rune \"Riding\" used as a vitkir Art. Rune of riding, journeys and travel, possibly invoking Thor; targets carts, ships, wheels and harnesses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0762",
+   "magic-hedge-magic-revised::0764"
+  ]
+ },
+ {
+  "name": "Kauno",
+  "type": "Art",
+  "aliases": [
+   "Cen",
+   "Kaun"
+  ],
+  "description": "Elder Futhark rune \"Pain\" used as a vitkir Art. Rune of torches, fever and burning pain; affects fire and heat (Ignem) as well as sores and sickness.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0744",
+   "magic-hedge-magic-revised::0747"
+  ]
+ },
+ {
+  "name": "Gebo",
+  "type": "Art",
+  "aliases": [
+   "Gyfu"
+  ],
+  "description": "Elder Futhark rune \"Gift\" used as a vitkir Art. Rune of gifts, generosity and obligation; targets objects given as gifts and people in the vitki's debt.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0736",
+   "magic-hedge-magic-revised::0737"
+  ]
+ },
+ {
+  "name": "Wunjo",
+  "type": "Art",
+  "aliases": [
+   "Wynn"
+  ],
+  "description": "Elder Futhark rune \"Joy\" used as a vitkir Art. Rune of comfort, bliss and joy, associated with Mentem and the emotions of intelligent beings.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0777",
+   "magic-hedge-magic-revised::0778"
+  ]
+ },
+ {
+  "name": "Hagalaz",
+  "type": "Art",
+  "aliases": [
+   "Haegl",
+   "Hagall"
+  ],
+  "description": "Elder Futhark rune \"Hail\" used as a vitkir Art. Rune of hail and the cruel side of nature, storms and missiles; associated with Auram, Aquam and missile weapons.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0738",
+   "magic-hedge-magic-revised::0739"
+  ]
+ },
+ {
+  "name": "Naudiz",
+  "type": "Art",
+  "aliases": [
+   "Nyd",
+   "Naudhr",
+   "Naubiz"
+  ],
+  "description": "Elder Futhark rune \"Need\" used as a vitkir Art. Very negative rune of hardship and need; can delay or bind other rune effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0752",
+   "magic-hedge-magic-revised::0754"
+  ]
+ },
+ {
+  "name": "Isa",
+  "type": "Art",
+  "aliases": [
+   "Is",
+   "Iss"
+  ],
+  "description": "Elder Futhark rune \"Ice\" used as a vitkir Art. Rune of ice, cold and cold emotions; associated with Aquam, Ignem or Mentem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0740",
+   "magic-hedge-magic-revised::0741"
+  ]
+ },
+ {
+  "name": "Jera",
+  "type": "Art",
+  "aliases": [
+   "Ger",
+   "Ar"
+  ],
+  "description": "Elder Futhark rune \"Year\" used as a vitkir Art. Rune of the harvest and year-long bounty; mostly associated with Herbam.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0742",
+   "magic-hedge-magic-revised::0743"
+  ]
+ },
+ {
+  "name": "Ihwaz",
+  "type": "Art",
+  "aliases": [
+   "Eoh",
+   "Yr"
+  ],
+  "description": "Elder Futhark rune \"Yew\" used as a vitkir Art. Rune of the yew tree, associated with death, witchcraft, trees, bows and spirits of the dead.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0779",
+   "magic-hedge-magic-revised::0781"
+  ]
+ },
+ {
+  "name": "Perth",
+  "type": "Art",
+  "aliases": [
+   "Peordh"
+  ],
+  "description": "Elder Futhark rune \"Cup\" used as a vitkir Art. Mysterious rune of fate, chance and secrets; tied to Vim, it targets vis and supernatural effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0759",
+   "magic-hedge-magic-revised::0761"
+  ]
+ },
+ {
+  "name": "Algiz",
+  "type": "Art",
+  "aliases": [
+   "Eolhx"
+  ],
+  "description": "Elder Futhark rune \"Elk\" used as a vitkir Art. Rune of protection associated with the elk; used to ward targets and increase Soak.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0782",
+   "magic-hedge-magic-revised::0783"
+  ]
+ },
+ {
+  "name": "Sowilo",
+  "type": "Art",
+  "aliases": [
+   "Sigel",
+   "Sol"
+  ],
+  "description": "Elder Futhark rune \"Sun\" used as a vitkir Art. Rune of light and the sun, good over evil; part of Ignem, and can target the Divine as a subset of Vim.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0765",
+   "magic-hedge-magic-revised::0767"
+  ]
+ },
+ {
+  "name": "Tiwaz",
+  "type": "Art",
+  "aliases": [
+   "Tir",
+   "Tyr"
+  ],
+  "description": "Elder Futhark rune \"Tyr\" used as a vitkir Art. Rune of Tyr, truth and battle; primarily associated with Mentem and justice.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0768",
+   "magic-hedge-magic-revised::0770"
+  ]
+ },
+ {
+  "name": "Berkanan",
+  "type": "Art",
+  "aliases": [
+   "Beorc",
+   "Bjarkan",
+   "Brekanan"
+  ],
+  "description": "Elder Futhark rune \"Birch\" used as a vitkir Art. Rune of the birch, associated with healing, fertility and youth; usually Herbam, Corpus or Animal as a target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0726",
+   "magic-hedge-magic-revised::0728"
+  ]
+ },
+ {
+  "name": "Ehwaz",
+  "type": "Art",
+  "aliases": [
+   "Eh"
+  ],
+  "description": "Elder Futhark rune \"Horse\" used as a vitkir Art. Rune of the horse, mobility in combat and the bond of horse and rider; associated with Animal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0731",
+   "magic-hedge-magic-revised::0733"
+  ]
+ },
+ {
+  "name": "Mannaz",
+  "type": "Art",
+  "aliases": [
+   "Mann",
+   "Madhr"
+  ],
+  "description": "Elder Futhark rune \"Man\" used as a vitkir Art. Rune of mankind and cooperation; usually linked to Corpus and used to target persons with other runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0750",
+   "magic-hedge-magic-revised::0751"
+  ]
+ },
+ {
+  "name": "Laguz",
+  "type": "Art",
+  "aliases": [
+   "Lagu",
+   "Logr"
+  ],
+  "description": "Elder Futhark rune \"Water\" used as a vitkir Art. Rune of water, especially the ocean; almost always associated with Aquam.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0748",
+   "magic-hedge-magic-revised::0749"
+  ]
+ },
+ {
+  "name": "Ingwaz",
+  "type": "Art",
+  "aliases": [
+   "Ing"
+  ],
+  "description": "Elder Futhark rune \"Lord\" used as a vitkir Art. Rune of peace, family and a secure home; targets buildings and household members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0755",
+   "magic-hedge-magic-revised::0756"
+  ]
+ },
+ {
+  "name": "Dagaz",
+  "type": "Art",
+  "aliases": [
+   "Daeg",
+   "Dagz"
+  ],
+  "description": "Elder Futhark rune \"Day\" used as a vitkir Art. Rune of the day, time and growth; affects aging and growth, rarely targeted as Imaginem or Ignem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0729",
+   "magic-hedge-magic-revised::0730"
+  ]
+ },
+ {
+  "name": "Othila",
+  "type": "Art",
+  "aliases": [
+   "Ethel",
+   "Otbila"
+  ],
+  "description": "Elder Futhark rune \"Inheritance\" used as a vitkir Art. Rune of inherited property such as lands and heirlooms; most often tied to Terram.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722",
+   "magic-hedge-magic-revised::0757",
+   "magic-hedge-magic-revised::0758"
+  ]
+ },
+ {
+  "name": "Ac",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Oak\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Aesc",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Ash\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Yr (Futhorc)",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Bow\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Ear",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Grave\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Gar",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Spear\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Calc",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Chalk\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Cweorth",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Fire twirl\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Stan",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Stone\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Ior",
+  "type": "Concept",
+  "description": "Additional Anglo-Saxon Futhorc rune meaning \"Water monster\", with no Elder Futhark equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0788",
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Freya's Aett",
+  "type": "Concept",
+  "description": "The first aett of the Elder Futhark, named after the goddess Freya, containing Fehu through Wunjo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721"
+  ]
+ },
+ {
+  "name": "Heimdall's Aett",
+  "type": "Concept",
+  "description": "The second aett of the Elder Futhark, named after Heimdall, containing Hagalaz through Sowilo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0722"
+  ]
+ },
+ {
+  "name": "Tyr's Aett",
+  "type": "Concept",
+  "description": "The third aett of the Elder Futhark, named after Tyr, containing Tiwaz through Othila.",
+  "evidence": [
+   "magic-hedge-magic-revised::0722"
+  ]
+ },
+ {
+  "name": "Aett",
+  "type": "Concept",
+  "description": "A group of eight runes; the runes are organized into three aetts, usually written one per row.",
+  "evidence": [
+   "magic-hedge-magic-revised::0720",
+   "magic-hedge-magic-revised::0721"
+  ]
+ },
+ {
+  "name": "Elder Futhark",
+  "type": "Concept",
+  "aliases": [
+   "Futhark",
+   "Older Futhark"
+  ],
+  "description": "The original 24-rune alphabet used by the vitkir in their earliest spells, the strongest form of rune magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0720",
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0784"
+  ]
+ },
+ {
+  "name": "Younger Futhark",
+  "type": "Concept",
+  "description": "A condensed 16-rune variant developed in Denmark and Germany; less versatile than the Elder Futhark.",
+  "evidence": [
+   "magic-hedge-magic-revised::0784",
+   "magic-hedge-magic-revised::0789",
+   "magic-hedge-magic-revised::0790"
+  ]
+ },
+ {
+  "name": "Anglo-Saxon Futhorc",
+  "type": "Concept",
+  "aliases": [
+   "Futhorc"
+  ],
+  "description": "An expanded rune alphabet of up to 33 characters developed in England, weaker than the Elder Futhark.",
+  "evidence": [
+   "magic-hedge-magic-revised::0784",
+   "magic-hedge-magic-revised::0785",
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Anglo-Saxon Rune Poem",
+  "type": "Item",
+  "description": "Rune poem describing the runes, e.g. Kauno as a torch and Perth as a gaming piece; later edited by monks.",
+  "evidence": [
+   "magic-hedge-magic-revised::0744",
+   "magic-hedge-magic-revised::0759",
+   "magic-hedge-magic-revised::0771"
+  ]
+ },
+ {
+  "name": "Rune Casting Variations",
+  "type": "Concept",
+  "description": "Modifiers to rune casting such as hidden or no name, hidden or no description, extra effort, emphasis and vis (Makt).",
+  "evidence": [
+   "magic-hedge-magic-revised::0720"
+  ]
+ },
+ {
+  "name": "Makt",
+  "type": "Concept",
+  "description": "Vis as used in vitkir rune casting, adding +2 per pawn to the casting.",
+  "evidence": [
+   "magic-hedge-magic-revised::0720"
+  ]
+ },
+ {
+  "name": "Method I",
+  "type": "Concept",
+  "description": "Rune spell method in which the runemaster names himself as the subject, typically affecting the vitki or an object tied to him.",
+  "evidence": [
+   "magic-hedge-magic-revised::0725",
+   "magic-hedge-magic-revised::0728"
+  ]
+ },
+ {
+  "name": "Method II",
+  "type": "Concept",
+  "description": "Rune spell method in which the runemaster is named in the third person, typically affecting others or an area around the runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0728",
+   "magic-hedge-magic-revised::0733"
+  ]
+ },
+ {
+  "name": "Rune Magic",
+  "type": "Ability",
+  "description": "The Ability vitkir use to cast rune spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0762",
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Vitkir",
+  "type": "CharacterType",
+  "aliases": [
+   "vitki",
+   "runemaster",
+   "rune wizard"
+  ],
+  "description": "Norse rune wizards (singular vitki) who work magic by carving runes; considered by many magi to be the Order of Odin.",
+  "evidence": [
+   "magic-hedge-magic-revised::0720",
+   "magic-hedge-magic-revised::0784",
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Vitki (Virtue)",
+  "type": "Virtue",
+  "description": "The Virtue granting a character the vitkir rune magic tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "description": "Name many magi use for the vitkir; the Order of Hermes has been at war with it since the ninth century.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of Hermetic magi, generally considered at war with the Order of Odin.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "The Hermetic House a vitki might join after swearing the Oath.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Hermetic Rune Magic",
+  "type": "Concept",
+  "description": "A potential Hermetic integration of vitkir magic as a Major Breakthrough, giving a Rune Duration and Inscription Target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Rune Duration",
+  "type": "Concept",
+  "description": "A new Hermetic Duration from integrating rune magic, working like Ring but not requiring penetration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Inscription Target",
+  "type": "Concept",
+  "description": "A new Hermetic Target from integrating rune magic, working like Circle but not requiring penetration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Major Breakthrough",
+  "type": "Concept",
+  "description": "Level of Hermetic research needed to convert vitkir runes into Hermetic Virtues.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Odin's Sacrifice",
+  "type": "Concept",
+  "description": "A vitkir initiation; magi who undergo it may receive an automatic Discovery toward Hermetic Rune Magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Oath"
+  ],
+  "description": "The Oath a vitki would swear to join the Order of Hermes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "Damhan-Alladh",
+  "type": "Character",
+  "description": "Figure whose war centuries ago eliminated the vitkir from the British Isles.",
+  "evidence": [
+   "magic-hedge-magic-revised::0787"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "description": "Father of the Norse gods, who first discovered the power of the runes; symbolized by Ansuz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0726"
+  ]
+ },
+ {
+  "name": "Freya",
+  "type": "Character",
+  "description": "Norse goddess of love, marriage and fertility, for whom the first aett is named.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0735"
+  ]
+ },
+ {
+  "name": "Heimdall",
+  "type": "Character",
+  "description": "Norse god who guards the rainbow bridge to Asgard; the second aett is named for him.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721"
+  ]
+ },
+ {
+  "name": "Tyr",
+  "type": "Character",
+  "description": "Norse god of justice, truth and battle who sacrificed his hand to bind the Fenris wolf; Tiwaz is his rune.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721",
+   "magic-hedge-magic-revised::0768",
+   "magic-hedge-magic-revised::0792"
+  ]
+ },
+ {
+  "name": "Thor",
+  "type": "Character",
+  "description": "Norse god of thunder who rode a great chariot and wielded Mjollnir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0739",
+   "magic-hedge-magic-revised::0762"
+  ]
+ },
+ {
+  "name": "Aesir",
+  "type": "Faction",
+  "description": "The Norse gods, associated with the rune Ansuz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723"
+  ]
+ },
+ {
+  "name": "Asgard",
+  "type": "Place",
+  "description": "Home of the Norse gods, reached by the rainbow bridge Heimdall guards.",
+  "evidence": [
+   "magic-hedge-magic-revised::0721"
+  ]
+ },
+ {
+  "name": "Mjollnir",
+  "type": "Item",
+  "description": "Thor's great hammer, said to bear the Hagalaz rune on its crosspiece.",
+  "evidence": [
+   "magic-hedge-magic-revised::0739"
+  ]
+ },
+ {
+  "name": "Fenris wolf",
+  "type": "Creature",
+  "description": "Wolf to which Tyr sacrificed his hand so it could be bound.",
+  "evidence": [
+   "magic-hedge-magic-revised::0768"
+  ]
+ },
+ {
+  "name": "Aurochs",
+  "type": "Creature",
+  "aliases": [
+   "auroch"
+  ],
+  "description": "Large, powerful wild cattle of Scandinavia, symbol of Uruz; can be summoned by rune spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0774",
+   "magic-hedge-magic-revised::0776"
+  ]
+ },
+ {
+  "name": "Alfar",
+  "type": "Creature",
+  "description": "Beings referenced in the rune spell for sensing vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0761"
+  ]
+ },
+ {
+  "name": "Julius Caesar",
+  "type": "Character",
+  "description": "Roman who described the aurochs as slightly smaller than an elephant.",
+  "evidence": [
+   "magic-hedge-magic-revised::0774"
+  ]
+ },
+ {
+  "name": "Eirik Svennson",
+  "type": "Character",
+  "description": "29-year-old Norwegian warrior vitki serving the king of Norway under his uncle Sven Svennson, a member of the birkebeiners stationed near Trondheim.",
+  "evidence": [
+   "magic-hedge-magic-revised::0790",
+   "magic-hedge-magic-revised::0791",
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "Sven Svennson",
+  "type": "Character",
+  "description": "Powerful Norwegian duke, uncle of Eirik Svennson, who placed soldiers and builders under his authority.",
+  "evidence": [
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "Birkebeiners",
+  "type": "Faction",
+  "aliases": [
+   "birchfeet"
+  ],
+  "description": "Norwegian political group ('birchfeet') that supported the northern kings in forty years of civil war.",
+  "evidence": [
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "Trondheim",
+  "type": "Place",
+  "description": "Norwegian city, future capital, where Eirik Svennson's unit rebuilds defenses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0794"
+  ]
+ },
+ {
+  "name": "Norway",
+  "type": "Place",
+  "description": "Kingdom whose king Eirik Svennson serves.",
+  "evidence": [
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "description": "Northern region home to the vitkir and the aurochs.",
+  "evidence": [
+   "magic-hedge-magic-revised::0756",
+   "magic-hedge-magic-revised::0774",
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "North Sea",
+  "type": "Place",
+  "description": "Sea on whose shores the vitkir settled, causing their alphabet to change.",
+  "evidence": [
+   "magic-hedge-magic-revised::0784"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "description": "Where vitkir and Norse settlers expanded the runes into the Futhorc.",
+  "evidence": [
+   "magic-hedge-magic-revised::0784",
+   "magic-hedge-magic-revised::0786"
+  ]
+ },
+ {
+  "name": "British Isles",
+  "type": "Place",
+  "description": "Region where no vitkir remain in the 1200s after the war against Damhan-Alladh.",
+  "evidence": [
+   "magic-hedge-magic-revised::0787"
+  ]
+ },
+ {
+  "name": "Denmark",
+  "type": "Place",
+  "description": "Where the Younger Futhark developed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Germany",
+  "type": "Place",
+  "description": "Where the Younger Futhark developed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0789"
+  ]
+ },
+ {
+  "name": "Sigrunar",
+  "type": "Concept",
+  "description": "Victory runes; Eirik Svennson's Major Rune Focus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Major Rune Focus",
+  "type": "Virtue",
+  "description": "Virtue giving a vitki a focus in a category of rune magic, e.g. Sigrunar.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Fast Caster",
+  "type": "Virtue",
+  "description": "Virtue possessed by Eirik Svennson.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Puissant Othila",
+  "type": "Virtue",
+  "description": "Puissant Art Virtue for the Othila rune, giving Eirik a +2 bonus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Natt-thel Prone",
+  "type": "Flaw",
+  "description": "Flaw of Eirik Svennson, a vitkir susceptibility.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Susceptibility to Divine Power",
+  "type": "Flaw",
+  "description": "Flaw of Eirik Svennson.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Gift",
+   "The Cift"
+  ],
+  "description": "Supernatural talent whose negative social effects vitkir suffer and partly offset with Gebo and Ehwaz runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0733",
+   "magic-hedge-magic-revised::0737",
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "True Friend",
+  "type": "Virtue",
+  "description": "Virtue compared to the trust and loyalty bonus from Ehwaz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0731"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "description": "Virtue effectively gained via the Dagaz spell of giants (+1 Size).",
+  "evidence": [
+   "magic-hedge-magic-revised::0730"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Ability to perceive illusions and invisible things; several rune effects mimic it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0725",
+   "magic-hedge-magic-revised::0765"
+  ]
+ },
+ {
+  "name": "Craft: Runes",
+  "type": "Ability",
+  "description": "Craft Ability for carving runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Old Norse",
+  "type": "Ability",
+  "description": "Language Ability, used for writing runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Norse",
+  "type": "Ability",
+  "description": "Language Ability of Eirik Svennson.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability to lead groups; rune magic can make untrained men act as a trained group.",
+  "evidence": [
+   "magic-hedge-magic-revised::0751",
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Martial Ability of Eirik Svennson (long sword).",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Martial Ability of Eirik Svennson.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "description": "Ability of Eirik Svennson.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Social Ability boosted by Fehu and Raido effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0735",
+   "magic-hedge-magic-revised::0762"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Business Ability boosted by Fehu effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0735"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability used when searching for treasure.",
+  "evidence": [
+   "magic-hedge-magic-revised::0735"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Ability used while traveling, boosted by Raido.",
+  "evidence": [
+   "magic-hedge-magic-revised::0762"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "description": "Ability used while traveling, boosted by Raido.",
+  "evidence": [
+   "magic-hedge-magic-revised::0762"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Social Ability boosted by Raido while traveling.",
+  "evidence": [
+   "magic-hedge-magic-revised::0762"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form; Ansuz and Dagaz targets count as Imaginem for Penetration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0729"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form of mind, associated with Ansuz, Gebo, Isa, Tiwaz, Wunjo and Naudiz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0768",
+   "magic-hedge-magic-revised::0777"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form of the human body, associated with Mannaz, Berkanan and Ingwaz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0750",
+   "magic-hedge-magic-revised::0755"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form of magic, associated with Perth, Thurisaz and Sowilo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0759",
+   "magic-hedge-magic-revised::0771"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Form of plants, associated with Berkanan, Jera and Ihwaz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0726",
+   "magic-hedge-magic-revised::0742",
+   "magic-hedge-magic-revised::0779"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form of animals, associated with Ehwaz, Uruz and Fehu.",
+  "evidence": [
+   "magic-hedge-magic-revised::0731",
+   "magic-hedge-magic-revised::0734",
+   "magic-hedge-magic-revised::0774"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form of earth, associated with Othila, Fehu and Ingwaz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0734",
+   "magic-hedge-magic-revised::0757"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form of air and weather, associated with Hagalaz and Uruz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0738",
+   "magic-hedge-magic-revised::0774"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form of water, associated with Laguz, Isa and Hagalaz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0738",
+   "magic-hedge-magic-revised::0740",
+   "magic-hedge-magic-revised::0748"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form of fire, associated with Kauno, Sowilo and Dagaz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0744",
+   "magic-hedge-magic-revised::0765"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "description": "Supernatural realm; Perth is used to affect it and sense its auras.",
+  "evidence": [
+   "magic-hedge-magic-revised::0759",
+   "magic-hedge-magic-revised::0760"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Supernatural realm whose auras Perth can sense.",
+  "evidence": [
+   "magic-hedge-magic-revised::0760"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm targeted by Sowilo, which can sense Divine auras.",
+  "evidence": [
+   "magic-hedge-magic-revised::0765"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm whose auras Sowilo can sense; Thurisaz targets infernal beings.",
+  "evidence": [
+   "magic-hedge-magic-revised::0765",
+   "magic-hedge-magic-revised::0771"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "description": "Rule by which rune effects must overcome Magic Resistance, using an associated Hermetic Form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0723",
+   "magic-hedge-magic-revised::0733",
+   "magic-hedge-magic-revised::0773"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that rune effects must Penetrate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0733",
+   "magic-hedge-magic-revised::0773"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "description": "Supernatural power score of creatures, which runes like Thurisaz can reduce.",
+  "evidence": [
+   "magic-hedge-magic-revised::0724",
+   "magic-hedge-magic-revised::0771",
+   "magic-hedge-magic-revised::0782"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A link to a target incorporated into rune scripts, e.g. blood on a spear or an ox's horn.",
+  "evidence": [
+   "magic-hedge-magic-revised::0728",
+   "magic-hedge-magic-revised::0735",
+   "magic-hedge-magic-revised::0756"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power; Perth can target and sense it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0720",
+   "magic-hedge-magic-revised::0759",
+   "magic-hedge-magic-revised::0761"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Point"
+  ],
+  "description": "Continuous rune effects give Warping Points.",
+  "evidence": [
+   "magic-hedge-magic-revised::0743"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "description": "Confidence Score and Points, which Naudiz and Tiwaz effects can reduce or boost.",
+  "evidence": [
+   "magic-hedge-magic-revised::0753",
+   "magic-hedge-magic-revised::0754",
+   "magic-hedge-magic-revised::0768"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural auras (Magic, Faerie, Divine, Infernal) that runes can sense.",
+  "evidence": [
+   "magic-hedge-magic-revised::0760",
+   "magic-hedge-magic-revised::0765"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Supernatural regions that Sowilo can see through.",
+  "evidence": [
+   "magic-hedge-magic-revised::0765"
+  ]
+ },
+ {
+  "name": "Consecrated ground",
+  "type": "Concept",
+  "description": "Ground protected against Ihwaz corpse-animation and speaking with the dead.",
+  "evidence": [
+   "magic-hedge-magic-revised::0779",
+   "magic-hedge-magic-revised::0780"
+  ]
+ },
+ {
+  "name": "Aging",
+  "type": "Concept",
+  "description": "Aging rolls affected by Dagaz runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0729",
+   "magic-hedge-magic-revised::0730"
+  ]
+ },
+ {
+  "name": "Nightwalkers",
+  "type": "CharacterType",
+  "description": "Hedge tradition recorded in Classical Greek and later sources; troupes are encouraged to blend regional variants.",
+  "evidence": [
+   "magic-hedge-magic-revised::0798",
+   "magic-hedge-magic-revised::0799"
+  ]
+ },
+ {
+  "name": "Folk Witches",
+  "type": "CharacterType",
+  "description": "Hedge tradition covered in Hedge Magic (sources listed).",
+  "evidence": [
+   "magic-hedge-magic-revised::0795"
+  ]
+ },
+ {
+  "name": "Gruagachan",
+  "type": "CharacterType",
+  "description": "Hedge tradition covered in Hedge Magic (sources listed).",
+  "evidence": [
+   "magic-hedge-magic-revised::0796"
+  ]
+ },
+ {
+  "name": "Learned Magicians",
+  "type": "CharacterType",
+  "description": "Hedge tradition covered in Hedge Magic (sources listed).",
+  "evidence": [
+   "magic-hedge-magic-revised::0797"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal referenced by the source 'Lion of the North'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0796"
+  ]
+ },
+ {
+  "name": "Alu",
+  "type": "Concept",
+  "description": "Word used in rune spells meaning 'protect me', perhaps referring to Algiz.",
+  "evidence": [
+   "magic-hedge-magic-revised::0782",
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Speak with Odin's Voice",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ansuz General, Method I: bonus to communication Ability rolls equal to magnitude.",
+  "evidence": [
+   "magic-hedge-magic-revised::0725"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Give Understanding of the Hollow Voices",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ansuz General, Method I: target hears spirits and distinguishes illusory noises as if with Second Sight.",
+  "evidence": [
+   "magic-hedge-magic-revised::0725"
+  ]
+ },
+ {
+  "name": "The Runemaster Curses the Wound with Blood He Spilled",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Berkanan (Mannaz) General, Method II: penalty to recovery rolls of the person whose blood is on the spear.",
+  "evidence": [
+   "magic-hedge-magic-revised::0728"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Carve Runes to Close the Flesh",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Berkanan 20, Method I: heals a Light Wound, permanent if the amulet lasts a week.",
+  "evidence": [
+   "magic-hedge-magic-revised::0728"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Carve the Runes of Giants",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Dagaz 20, Method I: the vitki grows with the sun, up to Size +2 at noon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0730"
+  ]
+ },
+ {
+  "name": "The Runemaster Curses with Years the Defilers of the Grave",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Dagaz (Mannaz) 30, Method II: grave disturbers age five years.",
+  "evidence": [
+   "magic-hedge-magic-revised::0730"
+  ]
+ },
+ {
+  "name": "The Runemaster Speaks of Friendship Among Men",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ehwaz (Ansuz) General, Method II: listeners feel trust and goodwill toward the target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0733"
+  ]
+ },
+ {
+  "name": "The Runemaster Tames the Wild Stallion",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ehwaz 20, Method II: a horse becomes well-disposed to the vitki.",
+  "evidence": [
+   "magic-hedge-magic-revised::0733"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Ask for Freya's Blessing",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Fehu General, Method I: bonus to rolls in the pursuit of wealth.",
+  "evidence": [
+   "magic-hedge-magic-revised::0735"
+  ]
+ },
+ {
+  "name": "The Runemaster Summons a Hearty Ox",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Fehu 35, Method II: summons (and if needed revives) a specific ox via Arcane Connection.",
+  "evidence": [
+   "magic-hedge-magic-revised::0735"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Am Thrice Blessed",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Gebo 15, Method I: +3 to meeting and influencing others, offsetting The Gift.",
+  "evidence": [
+   "magic-hedge-magic-revised::0737"
+  ]
+ },
+ {
+  "name": "The Runemaster Gives the Gift of Obligation",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Gebo 30, Method II: the wearer of runed jewelry defers to the vitki.",
+  "evidence": [
+   "magic-hedge-magic-revised::0737"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Dedicate Helmet-Destroying Hail",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Hagalaz General, Method I: weapon Damage bonus equal to magnitude.",
+  "evidence": [
+   "magic-hedge-magic-revised::0739"
+  ]
+ },
+ {
+  "name": "The Runemaster Summons Thor's Lightning and Thunder",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Hagalaz 15, Method II: raises a terrible thunderstorm around the runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0739"
+  ]
+ },
+ {
+  "name": "The Runemaster Binds the Beasts in Place",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Isa (Fehu) 20, Method II: holds a herd of domesticated animals motionless.",
+  "evidence": [
+   "magic-hedge-magic-revised::0741"
+  ]
+ },
+ {
+  "name": "The Runemaster Carves the Ice of the North",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Isa 25, Method II: creates a slippery sheet of ice ten paces across.",
+  "evidence": [
+   "magic-hedge-magic-revised::0741"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Bless the Work",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Jera General, Method I: bonus to year-long activities such as study or harvest.",
+  "evidence": [
+   "magic-hedge-magic-revised::0743"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Bless the Fields",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Jera 5, Method I: buried runed stone ensures a healthy, disease-resistant harvest.",
+  "evidence": [
+   "magic-hedge-magic-revised::0743"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, See Through the Darkness",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Kauno General, Method I: bonus to eyesight rolls, improving night vision.",
+  "evidence": [
+   "magic-hedge-magic-revised::0747"
+  ]
+ },
+ {
+  "name": "The Runemaster Causes Fiery Fever to Burn Bright",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Kauno (Mannaz) 30, Method II: afflicts a serious illness that cannot recover.",
+  "evidence": [
+   "magic-hedge-magic-revised::0747"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Kiss the Treacherous Deep",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Laguz 20, Method I: the vitki breathes in water.",
+  "evidence": [
+   "magic-hedge-magic-revised::0749"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Tame the Wild Waves",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Laguz 25, Method I: a ship travels at double speed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0749"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Make Men Sure and Steady",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Mannaz 30, Method I: increases Dexterity by 1, to no higher than 0.",
+  "evidence": [
+   "magic-hedge-magic-revised::0751"
+  ]
+ },
+ {
+  "name": "The Runemaster Leads Men to Greatness",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Mannaz 20, Method II: fighters within ten paces function as a trained group.",
+  "evidence": [
+   "magic-hedge-magic-revised::0751",
+   "magic-hedge-magic-revised::0792"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Store Power for My Time of Need",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Naudiz General, Method I: binds another rune spell to trigger under set conditions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0754"
+  ]
+ },
+ {
+  "name": "The Runemaster Brings Hardship to the Enemy and His Family",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Naudiz (Ingwaz) 20, Method II: residents of a structure lose 1 Confidence.",
+  "evidence": [
+   "magic-hedge-magic-revised::0754"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Feel My Hearth and Home",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ingwaz 20, Method I: sense the direction, distance and mood of family.",
+  "evidence": [
+   "magic-hedge-magic-revised::0756"
+  ]
+ },
+ {
+  "name": "The Runemaster Calls His Children to His Side",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ingwaz 35, Method II: transports a family member to the runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0756"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Sharpen My Axe",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Othila General, Method I: bonus to Initiative, Attack and Damage with a particular weapon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0758"
+  ]
+ },
+ {
+  "name": "The Runemaster Has Need of an Arrow",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Othila (Hagalaz) 20, Method II: summons an arrow to which the vitki has an Arcane Connection.",
+  "evidence": [
+   "magic-hedge-magic-revised::0758"
+  ]
+ },
+ {
+  "name": "The Runemaster Defies His Rival and Laughs at His Misfortune",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Perth (Mannaz) General, Method II: adds botch dice to a rival rune wizard.",
+  "evidence": [
+   "magic-hedge-magic-revised::0761"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Sense the Sleeping Alfar",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Perth 20, Method I: sense and identify vis within ten paces.",
+  "evidence": [
+   "magic-hedge-magic-revised::0761"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Hear the Thunder of the North",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Raido 20, Method I: sense which way is north.",
+  "evidence": [
+   "magic-hedge-magic-revised::0764"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Give Eight Legs to My Horse",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Raido 30, Method I: the horse covers ten paces per step.",
+  "evidence": [
+   "magic-hedge-magic-revised::0764"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Step Most Surely in Sunlight",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Sowilo General, Method I: bonus to Perception-based rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0767"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Summon Summer's Brightness",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Sowilo 25, Method I: bright sunlight shines from the target, driving off creatures of the night.",
+  "evidence": [
+   "magic-hedge-magic-revised::0767"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Fight for My Companions",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Tiwaz General, Method I: bonus to Attack rolls in battle.",
+  "evidence": [
+   "magic-hedge-magic-revised::0770"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Can Sense the Liar's Craft",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Tiwaz 30, Method I: sense whether people believe they tell the truth.",
+  "evidence": [
+   "magic-hedge-magic-revised::0770"
+  ]
+ },
+ {
+  "name": "The Runemaster Prepares the Ogre-Slaying Spear",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Thurisaz General, Method II: reduces Might of supernatural creatures near the spear's path.",
+  "evidence": [
+   "magic-hedge-magic-revised::0773"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Call the Serpent from the Brambles",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Thurisaz 30, Method I: turns a twisted branch into a venomous snake.",
+  "evidence": [
+   "magic-hedge-magic-revised::0773"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Need Strength for My Trials",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Uruz General, Method I: bonus to Strength-based rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0776"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Summon the Aurochs",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Uruz 45, Method II: summons an uncontrolled aurochs.",
+  "evidence": [
+   "magic-hedge-magic-revised::0776"
+  ]
+ },
+ {
+  "name": "The Runemaster Gives the Gift of Joy",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Wunjo (Gebo) 20, Method II: a gift is received with joy and gratitude.",
+  "evidence": [
+   "magic-hedge-magic-revised::0778"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Paint the Runes of Frenzy",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Wunjo 30, Method I: a warrior ignores Fatigue and Wound Penalties.",
+  "evidence": [
+   "magic-hedge-magic-revised::0778"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Walk Swiftly Through the Murky Wood",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ihwaz 15, Method I: intuitive sense of trees for forest travel.",
+  "evidence": [
+   "magic-hedge-magic-revised::0781"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, May Speak with the Shades of the Past",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Ihwaz 35, Method I: communicate with the spirits of a grave.",
+  "evidence": [
+   "magic-hedge-magic-revised::0781"
+  ]
+ },
+ {
+  "name": "I, the Runemaster, Protect Against Beings of Fire and Pain",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Algiz (Kauno) General, Method II: wards fire creatures and disease spirits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0783"
+  ]
+ },
+ {
+  "name": "The Runemaster Protects Against the Beasts of the Wild",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Algiz (Uruz) 10, Method II: wild animals cannot approach within ten paces.",
+  "evidence": [
+   "magic-hedge-magic-revised::0783",
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "I, Eirik Svennson, Bound This Wound",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Eirik Svennson's Berkanan 15, Method I script: +9 to recovery rolls from combat injuries.",
+  "evidence": [
+   "magic-hedge-magic-revised::0791",
+   "magic-hedge-magic-revised::0792"
+  ]
+ },
+ {
+  "name": "I, Eirik Svennson, Will Work Well This Day",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Eirik Svennson's Dagaz 15, Method I script: +3 to all-day activities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0792"
+  ]
+ },
+ {
+  "name": "I, Eirik Svennson, Strengthen the Sword of My Ancestors",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Eirik Svennson's Othila 25, Method I script: +5 Initiative, Attack and Defense with his inherited sword.",
+  "evidence": [
+   "magic-hedge-magic-revised::0792"
+  ]
+ },
+ {
+  "name": "I, Eirik Svennson, Invoke Tyr's Power",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Eirik Svennson's Tiwaz 25, Method I script: +5 to Attack rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0792"
+  ]
+ },
+ {
+  "name": "I, Eirik Svennson, Invoke Tyr's Cunning",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Eirik Svennson's Tiwaz 25, Method I script: +5 to Defense rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0792",
+   "magic-hedge-magic-revised::0793"
+  ]
+ },
+ {
+  "name": "I, Eirik Svennson, Call My Helmet Alu",
+  "type": "Spell",
+  "description": "Sample vitkir rune spell. Eirik Svennson's Algiz 25, Method I script: +5 to Soak via his helmet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0793"
+  ]
+ }
+]

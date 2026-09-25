@@ -1,0 +1,2490 @@
+[
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "description": "Minor General Virtue that changes a magic character's Size without modifying Strength or Quickness; for Beasts of Virtue it gives -1 Quickness and +2 Strength.",
+  "evidence": [
+   "realms-of-power-magic::0240",
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue granting a limited power designed as a Lesser power; activation costs Fatigue levels based on Might cost. Also a Magic Quality.",
+  "evidence": [
+   "realms-of-power-magic::0241",
+   "realms-of-power-magic::0247",
+   "realms-of-power-magic::0337"
+  ]
+ },
+ {
+  "name": "Magic Animal",
+  "type": "Virtue",
+  "aliases": [
+   "Magical Animal"
+  ],
+  "description": "Special Virtue for a magical animal, such as a Beast of Virtue, designed with Magic Might under the Magical Animal rules.",
+  "evidence": [
+   "realms-of-power-magic::0242",
+   "realms-of-power-magic::0314",
+   "realms-of-power-magic::0315"
+  ]
+ },
+ {
+  "name": "Magic Human",
+  "type": "Virtue",
+  "description": "Special Virtue for a magical human born with Magic Might and the Monstrous Appearance Inferiority, possibly descended from ancient magical beings.",
+  "evidence": [
+   "realms-of-power-magic::0243"
+  ]
+ },
+ {
+  "name": "Magic Spirit",
+  "type": "Virtue",
+  "description": "Special Virtue for a mind, memory, image or idea brought to life by Magic; insubstantial and always having the Magical Air Flaw.",
+  "evidence": [
+   "realms-of-power-magic::0244"
+  ]
+ },
+ {
+  "name": "Magic Thing",
+  "type": "Virtue",
+  "description": "Special Virtue for a magical thing of elemental atoms or raw nature; always has Temporary Might and receives No Fatigue free.",
+  "evidence": [
+   "realms-of-power-magic::0245"
+  ]
+ },
+ {
+  "name": "Magical Blood",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue: exposure to the Magic realm improves the character's true form, giving -1 on Aging rolls, access to Magic Lore and a minor physical advantage; sometimes called faerie blood.",
+  "evidence": [
+   "realms-of-power-magic::0246",
+   "realms-of-power-magic::0247"
+  ]
+ },
+ {
+  "name": "Magical Champion",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for magic characters regarded as the particular representative of a small group due to their magical nature.",
+  "evidence": [
+   "realms-of-power-magic::0248",
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323"
+  ]
+ },
+ {
+  "name": "Magical Covenfolk",
+  "type": "Virtue",
+  "description": "Free Social Status Virtue for a magical being accepted as an equal by the people of its covenant.",
+  "evidence": [
+   "realms-of-power-magic::0249"
+  ]
+ },
+ {
+  "name": "Magical Master",
+  "type": "Virtue",
+  "description": "Major Social Status Virtue: the magic character is recognized as a higher power by a large group, which may venerate it.",
+  "evidence": [
+   "realms-of-power-magic::0250",
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0353"
+  ]
+ },
+ {
+  "name": "Magical Mount",
+  "type": "Virtue",
+  "description": "Minor General Virtue granting a mount, beast of burden or guard creature with Cunning and Magic Might up to 25.",
+  "evidence": [
+   "realms-of-power-magic::0251"
+  ]
+ },
+ {
+  "name": "Magical Warder",
+  "type": "Virtue",
+  "description": "Major General Virtue: a magical being accompanies and protects the character; generalizes the Ghostly Warder.",
+  "evidence": [
+   "realms-of-power-magic::0252"
+  ]
+ },
+ {
+  "name": "Ghostly Warder",
+  "type": "Virtue",
+  "description": "Virtue giving a ghostly protector; cited as a good example of a Magical Warder.",
+  "evidence": [
+   "realms-of-power-magic::0252"
+  ]
+ },
+ {
+  "name": "Master of (Form) Creatures",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue allowing the character to tame unintelligent beings whose Magic Might is aligned with a particular Form.",
+  "evidence": [
+   "realms-of-power-magic::0253"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue (and Magic Quality) granting a power designed as a Personal power, with Fatigue cost based on Might cost.",
+  "evidence": [
+   "realms-of-power-magic::0254",
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0337"
+  ]
+ },
+ {
+  "name": "Ritual Power",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue (and Magic Quality) granting a Ritual Power that costs Fatigue and Confidence Points to activate.",
+  "evidence": [
+   "realms-of-power-magic::0255",
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Transformed (Being)",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue: the character is transformed by Magic into a supernatural being with Might 0, gaining Qualities by taking Inferiorities and an Essential Trait.",
+  "evidence": [
+   "realms-of-power-magic::0256"
+  ]
+ },
+ {
+  "name": "Unaffected by The Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Unaffected by the Gift"
+  ],
+  "description": "Minor General Virtue making the character immune to the negative effects of The Gift or Magical Air in others.",
+  "evidence": [
+   "realms-of-power-magic::0257",
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0327"
+  ]
+ },
+ {
+  "name": "Variable Power",
+  "type": "Virtue",
+  "aliases": [
+   "Variable Powers"
+  ],
+  "description": "Minor Supernatural Virtue making one magic power grow stronger over time based on age, Might, Warping or an Ability.",
+  "evidence": [
+   "realms-of-power-magic::0258",
+   "realms-of-power-magic::0266"
+  ]
+ },
+ {
+  "name": "Voice of the (Land)",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting the character speak with any creature native to a particular environment.",
+  "evidence": [
+   "realms-of-power-magic::0259"
+  ]
+ },
+ {
+  "name": "Essential Virtue",
+  "type": "Virtue",
+  "description": "Virtue granting a beneficial Essential Trait; every Beast of Virtue must take one to represent how it typifies its species.",
+  "evidence": [
+   "realms-of-power-magic::0309",
+   "realms-of-power-magic::0314",
+   "realms-of-power-magic::0315"
+  ]
+ },
+ {
+  "name": "Gifted",
+  "type": "Virtue",
+  "aliases": [
+   "Gifted Quality"
+  ],
+  "description": "Magic Quality/Virtue letting magic characters learn Supernatural Abilities and join Mystery Cults like those with The Gift.",
+  "evidence": [
+   "realms-of-power-magic::0244",
+   "realms-of-power-magic::0294",
+   "realms-of-power-magic::0307"
+  ]
+ },
+ {
+  "name": "Strong Faerie Blood",
+  "type": "Virtue",
+  "description": "Supernatural Virtue that would become a Greater Power if the character is Transformed by Magic.",
+  "evidence": [
+   "realms-of-power-magic::0256"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Divine Virtue that is lost forever if its possessor is Transformed by Magic.",
+  "evidence": [
+   "realms-of-power-magic::0256"
+  ]
+ },
+ {
+  "name": "Gift of Tongues",
+  "type": "Virtue",
+  "description": "Minor Heroic Virtue letting the character understand and speak any language while communicating directly with a fluent speaker; granted by the Wise Owl's Enriched skull.",
+  "evidence": [
+   "realms-of-power-magic::0357",
+   "realms-of-power-magic::0358",
+   "realms-of-power-magic::0359"
+  ]
+ },
+ {
+  "name": "Ferocity",
+  "type": "Virtue",
+  "description": "Virtue described in Houses of Hermes: Mystery Cults, common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0330",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Black Boar of the Bog and granted to anyone carrying its Enriched tusks in battle.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0322"
+  ]
+ },
+ {
+  "name": "Puissant Stealth",
+  "type": "Virtue",
+  "description": "Virtue granted by a cowl made from the Enriched hide of a Black Dog.",
+  "evidence": [
+   "realms-of-power-magic::0326",
+   "realms-of-power-magic::0340"
+  ]
+ },
+ {
+  "name": "Puissant Medicine",
+  "type": "Virtue",
+  "description": "Virtue granted by the Enriched eye paste of a caladrius.",
+  "evidence": [
+   "realms-of-power-magic::0329"
+  ]
+ },
+ {
+  "name": "Puissant Ride",
+  "type": "Virtue",
+  "description": "Virtue granted by tack made from the Enriched hooves of the Great Stallion of the Camargue.",
+  "evidence": [
+   "realms-of-power-magic::0335"
+  ]
+ },
+ {
+  "name": "Puissant Brawl",
+  "type": "Virtue",
+  "description": "Virtue possessed by Pentele and the Panther of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0340"
+  ]
+ },
+ {
+  "name": "Puissant Athletics",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Stag of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Keen Vision",
+  "type": "Virtue",
+  "description": "Virtue granted by the Enriched claws of a Raven of Virtue; incompatible with Weak or Sensitive Sight.",
+  "evidence": [
+   "realms-of-power-magic::0286",
+   "realms-of-power-magic::0343",
+   "realms-of-power-magic::0344"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "description": "Virtue granted by a ring made from a Raven of Virtue's skull buried under a willow.",
+  "evidence": [
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0344"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Virtue",
+  "description": "Supernatural Ability/Virtue, common to Beasts of Virtue; granted by the Enriched antlers of the White Stag of the Wood.",
+  "evidence": [
+   "realms-of-power-magic::0247",
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0356"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "Supernatural Ability/Virtue granted by the Enriched comb of the Cockerel of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0247",
+   "realms-of-power-magic::0331",
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "description": "Supernatural Virtue/Ability, an example ability gained via Magical Blood and common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0247",
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "Supernatural Virtue/Ability possessed by the Raven of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0247",
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "description": "Virtue common among Beasts of Virtue; the Salamander of Virtue has Greater Immunity to heat and flames.",
+  "evidence": [
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0345"
+  ]
+ },
+ {
+  "name": "Lesser Immunity",
+  "type": "Virtue",
+  "description": "Virtue granting immunity to a lesser hazard, e.g. the caladrius to non-lethal diseases or the Stag of Virtue to fevers.",
+  "evidence": [
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Ways of the (Land)",
+  "type": "Virtue",
+  "aliases": [
+   "Ways of the Wood",
+   "Ways of the Moor",
+   "Ways of the Marsh",
+   "Ways of the Forest"
+  ],
+  "description": "Virtue common among Beasts of Virtue, e.g. Ways of the Wood, Moor, Marsh or Forest.",
+  "evidence": [
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0332"
+  ]
+ },
+ {
+  "name": "Great Characteristic",
+  "type": "Virtue",
+  "description": "Virtue raising a Characteristic, taken by several Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0353"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Virtue improving Characteristics, taken by several Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Black Boar, Black Dog and Pentele.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Black Dog of the Moor and White Stag; incompatible with Weak or Sensitive Hearing.",
+  "evidence": [
+   "realms-of-power-magic::0286",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0353"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Great Stallion of the Camargue and Stag of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "description": "Virtue common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0332"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0316",
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0353"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "description": "Virtue common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Puissant Ability",
+  "type": "Virtue",
+  "description": "Virtue common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Perfect Balance",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Panther of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0340"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Ability",
+  "description": "Supernatural Ability possessed by the Cockerel of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0330"
+  ]
+ },
+ {
+  "name": "Environmental Magic Condition",
+  "type": "Flaw",
+  "description": "Major Hermetic Flaw halving Casting and Lab Totals in common environmental conditions.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0268"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Flaw",
+  "description": "Major Social Status Flaw for a magical being with no strong connection to human society; most Beasts of Virtue have it.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0276",
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Servant of the (Land)",
+  "type": "Flaw",
+  "description": "Major Story Flaw: a powerful magical creature saved the character from death and set a task, enforced by a Prohibition and curse.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0282"
+  ]
+ },
+ {
+  "name": "Wanderlust",
+  "type": "Flaw",
+  "description": "Major Story Flaw compelling the character to travel, unable to spend more than a season in one place.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0285",
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Age Quickly",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw; for magic characters it means rolling for aging once a year, not halted by longevity ritual.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0262"
+  ]
+ },
+ {
+  "name": "Blatant Magical Air",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw for those with Magical Air or The Gift, giving -6 to social actions like the Blatant Gift.",
+  "evidence": [
+   "realms-of-power-magic::0244",
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0264"
+  ]
+ },
+ {
+  "name": "Bound to Magic",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw: the character sickens outside a Magic aura of 5 or greater.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0265"
+  ]
+ },
+ {
+  "name": "Hunger for (Form) Magic",
+  "type": "Flaw",
+  "aliases": [
+   "Hunger for Animal Vis",
+   "Hunger for Ignem Magic"
+  ],
+  "description": "Major Supernatural Flaw requiring consumption of 1 pawn of Form vis per season or loss of Long-Term Fatigue.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0273",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Essential Flaw",
+  "type": "Flaw",
+  "description": "Major or Minor General Flaw giving a detrimental Essential Trait tied to a Characteristic.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0270",
+   "realms-of-power-magic::0340"
+  ]
+ },
+ {
+  "name": "Warped Senses",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw making the character over-sensitive to conditions, e.g. Sensitive (Sense), Weak (Sense), Sensitive to Cold, Sensitive to Heat.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0286",
+   "realms-of-power-magic::0287"
+  ]
+ },
+ {
+  "name": "Magical Friend",
+  "type": "Flaw",
+  "description": "Minor Social Status Flaw: the character is considered less than human but favored by a human, e.g. as pet or familiar.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0275",
+   "realms-of-power-magic::0327"
+  ]
+ },
+ {
+  "name": "Magical (Being) Companion",
+  "type": "Flaw",
+  "aliases": [
+   "Magic (Being) Companion"
+  ],
+  "description": "Minor Story Flaw: the character is accompanied by an intelligent magical being it must look after; generalizes Magical Animal Companion.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0274"
+  ]
+ },
+ {
+  "name": "Magical Animal Companion",
+  "type": "Flaw",
+  "description": "Flaw generalized by Magical (Being) Companion.",
+  "evidence": [
+   "realms-of-power-magic::0274"
+  ]
+ },
+ {
+  "name": "Baneful Circumstances",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: in common circumstances the character cannot recover Fatigue, heal, or regain Might.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0263"
+  ]
+ },
+ {
+  "name": "Deteriorating Power",
+  "type": "Flaw",
+  "aliases": [
+   "Deteriorating Powers"
+  ],
+  "description": "Minor Supernatural Flaw reducing one power's effectiveness over time; counterpart to Variable Power.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0266"
+  ]
+ },
+ {
+  "name": "Exiled Atlantean",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: the character is an Atlantean exiled from her native magic regio, tainted by the surface world.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0271"
+  ]
+ },
+ {
+  "name": "(Form) Monstrosity",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw giving a monstrous feature corresponding to a magical Form; often yields a pawn of Muto vis.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0272"
+  ]
+ },
+ {
+  "name": "Monstrous Blood",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: exposure to Magic gives the character tainted blood and a minor deformity but resistance to aging.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0277",
+   "realms-of-power-magic::0278"
+  ]
+ },
+ {
+  "name": "Restricted Power",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw requiring a ceremony or limited targets/circumstances to activate a power.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0281",
+   "realms-of-power-magic::0327"
+  ]
+ },
+ {
+  "name": "Slow Power",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw requiring an extra round of preparation to activate a power.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0283"
+  ]
+ },
+ {
+  "name": "Anchored to the (Land)",
+  "type": "Flaw",
+  "description": "Minor General Flaw: -3 to rolls when away from a particular environment, e.g. Anchored to the Sea.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0261"
+  ]
+ },
+ {
+  "name": "Environmental Sensitivity",
+  "type": "Flaw",
+  "description": "Minor General Flaw: -3 to Stamina debilitation checks when exposed to an uncommon environmental feature.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0269"
+  ]
+ },
+ {
+  "name": "Offensive to (Beings)",
+  "type": "Flaw",
+  "description": "Minor General Flaw: a Gift-like presence disturbing to animals, spirits or Magic-aligned characters.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0279"
+  ]
+ },
+ {
+  "name": "Poor Concentration",
+  "type": "Flaw",
+  "description": "Minor General Flaw giving -3 to Concentration rolls.",
+  "evidence": [
+   "realms-of-power-magic::0260",
+   "realms-of-power-magic::0280"
+  ]
+ },
+ {
+  "name": "Dwarf",
+  "type": "Flaw",
+  "description": "Major General Flaw for a mundane human born much smaller than average; magically reduced Size uses Miniature instead.",
+  "evidence": [
+   "realms-of-power-magic::0267"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "description": "Minor General Flaw that changes a magic character's Size without modifying Strength or Quickness.",
+  "evidence": [
+   "realms-of-power-magic::0284"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "description": "Flaw giving a Gift-like disturbing presence; all Magic Spirits have it.",
+  "evidence": [
+   "realms-of-power-magic::0244",
+   "realms-of-power-magic::0257",
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "description": "Flaw of an especially disturbing Gift; equivalent to Blatant Magical Air.",
+  "evidence": [
+   "realms-of-power-magic::0257",
+   "realms-of-power-magic::0264"
+  ]
+ },
+ {
+  "name": "Deleterious Circumstances",
+  "type": "Flaw",
+  "description": "Hermetic Flaw; Environmental Magic Condition is significantly more restrictive.",
+  "evidence": [
+   "realms-of-power-magic::0268"
+  ]
+ },
+ {
+  "name": "Prohibition",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw imposed by Servant of the (Land); failing the task brings a curse.",
+  "evidence": [
+   "realms-of-power-magic::0282"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "description": "Major Story Flaw required when a Magical Mount was a gift from a patron.",
+  "evidence": [
+   "realms-of-power-magic::0251"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "description": "Flaw common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "description": "Flaw common among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0316"
+  ]
+ },
+ {
+  "name": "Nocturnal",
+  "type": "Flaw",
+  "description": "Flaw possessed by the Black Boar, Black Dog and Wise Owl.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Overconfident",
+  "type": "Flaw",
+  "description": "Flaw possessed by the Cockerel of Virtue and Great Stallion.",
+  "evidence": [
+   "realms-of-power-magic::0330",
+   "realms-of-power-magic::0332"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "description": "Flaw possessed by the Great Stallion, Stag of Virtue and White Stag (protect the herd/wood).",
+  "evidence": [
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0349",
+   "realms-of-power-magic::0353"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "description": "Flaw, e.g. the Cockerel's compulsion to fight for dominance and the Raven's to steal shiny objects.",
+  "evidence": [
+   "realms-of-power-magic::0330",
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Hatred",
+  "type": "Flaw",
+  "description": "Flaw, e.g. the Panther's hatred of beasts and the Stag of Virtue's hatred of serpents.",
+  "evidence": [
+   "realms-of-power-magic::0340",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Personality Flaw possessed by the Black Dog and Pentele.",
+  "evidence": [
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "description": "Flaw possessed by the caladrius and Salamander of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0345"
+  ]
+ },
+ {
+  "name": "Weak Characteristics",
+  "type": "Flaw",
+  "description": "Flaw possessed by the Raven and Salamander of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0343",
+   "realms-of-power-magic::0345"
+  ]
+ },
+ {
+  "name": "Depressed",
+  "type": "Flaw",
+  "description": "Personality Flaw temporarily gained by a cockerel that loses a dominance fight.",
+  "evidence": [
+   "realms-of-power-magic::0331"
+  ]
+ },
+ {
+  "name": "Fury",
+  "type": "Flaw",
+  "description": "Flaw possessed by the Black Boar and Black Dog.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323"
+  ]
+ },
+ {
+  "name": "Wrathful",
+  "type": "Flaw",
+  "description": "Flaw possessed by the Black Boar of the Bog.",
+  "evidence": [
+   "realms-of-power-magic::0320"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Concept",
+  "description": "Magic Quality granting a major innate power; the most common power type among Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0258",
+   "realms-of-power-magic::0318",
+   "realms-of-power-magic::0320"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Concept",
+  "description": "Magic Inferiority always possessed by Magic Humans.",
+  "evidence": [
+   "realms-of-power-magic::0243",
+   "realms-of-power-magic::0320"
+  ]
+ },
+ {
+  "name": "Temporary Might",
+  "type": "Concept",
+  "description": "Magic Inferiority always possessed by Magic Things: spent Might recovers slowly and injury separates Might as vis.",
+  "evidence": [
+   "realms-of-power-magic::0245"
+  ]
+ },
+ {
+  "name": "No Fatigue",
+  "type": "Concept",
+  "description": "Magic Quality received free by Magic Things.",
+  "evidence": [
+   "realms-of-power-magic::0245"
+  ]
+ },
+ {
+  "name": "Miniature",
+  "type": "Concept",
+  "description": "Magic Inferiority used for a character of magically reduced Size.",
+  "evidence": [
+   "realms-of-power-magic::0267"
+  ]
+ },
+ {
+  "name": "Gigantic",
+  "type": "Concept",
+  "description": "Magic Quality possessed by the Black Boar and Black Dog.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323"
+  ]
+ },
+ {
+  "name": "Susceptible to Deprivation",
+  "type": "Concept",
+  "description": "Magic Inferiority possessed by nearly all example Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0327"
+  ]
+ },
+ {
+  "name": "Improved Might",
+  "type": "Concept",
+  "description": "Magic Quality increasing Might, taken by several Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Concept",
+  "description": "Magic Quality reducing Might cost of powers.",
+  "evidence": [
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0328",
+   "realms-of-power-magic::0347"
+  ]
+ },
+ {
+  "name": "Gift of Speech",
+  "type": "Concept",
+  "description": "Magic Quality possessed by the Wise Owl of the Forest.",
+  "evidence": [
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Vis Mastery",
+  "type": "Concept",
+  "description": "Magic Quality possessed by the White Stag of the Wood.",
+  "evidence": [
+   "realms-of-power-magic::0353"
+  ]
+ },
+ {
+  "name": "Magic Quality",
+  "type": "Concept",
+  "aliases": [
+   "Magical Qualities"
+  ],
+  "description": "Beneficial trait of magic characters bought with Might; can be gained by Transformation.",
+  "evidence": [
+   "realms-of-power-magic::0256",
+   "realms-of-power-magic::0296",
+   "realms-of-power-magic::0297"
+  ]
+ },
+ {
+  "name": "Magic Inferiority",
+  "type": "Concept",
+  "aliases": [
+   "Magical Inferiorities"
+  ],
+  "description": "Detrimental trait of magic characters that grants extra Magic Qualities.",
+  "evidence": [
+   "realms-of-power-magic::0256",
+   "realms-of-power-magic::0297",
+   "realms-of-power-magic::0298"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Score"
+  ],
+  "description": "Might Score aligned with the Magic realm possessed by magic characters; subtracted from Advancement Totals.",
+  "evidence": [
+   "realms-of-power-magic::0242",
+   "realms-of-power-magic::0293",
+   "realms-of-power-magic::0305"
+  ]
+ },
+ {
+  "name": "Magic Character Creation",
+  "type": "Concept",
+  "description": "Rules in Realms of Power: Magic for designing magic animals, humans, spirits and things.",
+  "evidence": [
+   "realms-of-power-magic::0243",
+   "realms-of-power-magic::0245",
+   "realms-of-power-magic::0248"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "General Ability to train and care for animals, extendable to other beings with Cunning such as elementals and animate trees.",
+  "evidence": [
+   "realms-of-power-magic::0288",
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0320"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Ability",
+  "description": "Supernatural Ability allowing communication with any animal, magical or not.",
+  "evidence": [
+   "realms-of-power-magic::0288",
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "(Form) Resistance",
+  "type": "Ability",
+  "aliases": [
+   "Vim Resistance",
+   "Ignem Resistance",
+   "Animal Resistance",
+   "Terram Resistance"
+  ],
+  "description": "Supernatural Ability for characters with Magic Might, adding to Soak and Magic Resistance against a Form; e.g. Vim, Ignem, Animal, Terram Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0290",
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0345"
+  ]
+ },
+ {
+  "name": "Magical Meditation",
+  "type": "Ability",
+  "description": "Supernatural Ability for Magic Might characters: a trance to recover Might Points and resist Acclimation in a Magic aura.",
+  "evidence": [
+   "realms-of-power-magic::0291"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Ability used like Folk Ken to understand magical beings; available to characters with Magical Blood.",
+  "evidence": [
+   "realms-of-power-magic::0246",
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability for understanding human beings, possibly human-like beings.",
+  "evidence": [
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Ability possessed by the Wise Owl of the Forest.",
+  "evidence": [
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-magic::0289"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability; Magical Meditation replaces it on the Concentration table.",
+  "evidence": [
+   "realms-of-power-magic::0280",
+   "realms-of-power-magic::0291",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability adding to a power's ability to overcome Magic Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0241",
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "description": "Supernatural Ability; infernal Entrancement becomes tainted magic on Transformation, and a Panther's tongue can grant it.",
+  "evidence": [
+   "realms-of-power-magic::0256",
+   "realms-of-power-magic::0342"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability possessed by several Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0340"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability used by Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0325",
+   "realms-of-power-magic::0340"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability used by Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability used by Beasts of Virtue for natural weapons.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0336"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability used by Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0349"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability used by Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0357"
+  ]
+ },
+ {
+  "name": "(Area) Lore",
+  "type": "Ability",
+  "description": "Ability of knowledge of an area, e.g. the Great Stallion's Camargue Lore.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0334"
+  ]
+ },
+ {
+  "name": "Acclimation",
+  "type": "Concept",
+  "description": "Process by which magic characters lose Magic Qualities or Might yearly unless sustained by a Magic aura, magical effects, or vis.",
+  "evidence": [
+   "realms-of-power-magic::0292",
+   "realms-of-power-magic::0299",
+   "realms-of-power-magic::0305"
+  ]
+ },
+ {
+  "name": "Transformation",
+  "type": "Concept",
+  "description": "Process of permanently improving a magic character's form by gaining Qualities via experience or vis, without changing its essential nature.",
+  "evidence": [
+   "realms-of-power-magic::0292",
+   "realms-of-power-magic::0296",
+   "realms-of-power-magic::0297"
+  ]
+ },
+ {
+  "name": "Essential Traits",
+  "type": "Concept",
+  "aliases": [
+   "Essential Trait",
+   "Character Trait"
+  ],
+  "description": "Unchanging Personality/Character Traits of Magic Might characters; magic forcing action against them fails.",
+  "evidence": [
+   "realms-of-power-magic::0308",
+   "realms-of-power-magic::0309",
+   "realms-of-power-magic::0256"
+  ]
+ },
+ {
+  "name": "Vis Consumption",
+  "type": "Concept",
+  "description": "Chart rolled when a magic character avoids Acclimation by consuming vis, with botch, side effect, story event or transformation results.",
+  "evidence": [
+   "realms-of-power-magic::0305",
+   "realms-of-power-magic::0306"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magic in pawns; consumed by magic characters to advance and avoid Acclimation, found in the bodies of Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0293",
+   "realms-of-power-magic::0305",
+   "realms-of-power-magic::0311"
+  ]
+ },
+ {
+  "name": "Dedicated Vis",
+  "type": "Concept",
+  "description": "Vis tied to an Art combination, e.g. Perdo Ignem in the Salamander of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0347",
+   "realms-of-power-magic::0358"
+  ]
+ },
+ {
+  "name": "Spell-Like Vis",
+  "type": "Concept",
+  "description": "Vis with an effect resembling a spell, e.g. the Stag of Virtue's right antler.",
+  "evidence": [
+   "realms-of-power-magic::0350"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Supernatural gift whose negative social effects disturb others; Magic Spirits have a similar Magical Air.",
+  "evidence": [
+   "realms-of-power-magic::0244",
+   "realms-of-power-magic::0257",
+   "realms-of-power-magic::0279"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "Aura"
+  ],
+  "description": "Area aligned with Magic; magic characters living in strong enough auras avoid Acclimation.",
+  "evidence": [
+   "realms-of-power-magic::0265",
+   "realms-of-power-magic::0301",
+   "realms-of-power-magic::0302"
+  ]
+ },
+ {
+  "name": "Twilight Scars",
+  "type": "Concept",
+  "description": "Marks gained by magi from Twilight, basically Essential Traits for magi.",
+  "evidence": [
+   "realms-of-power-magic::0309"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [
+   "familiar bond"
+  ],
+  "description": "Magical creature bound to a Hermetic magus; the bond protects it from Acclimation and Beasts of Virtue suit it well.",
+  "evidence": [
+   "realms-of-power-magic::0294",
+   "realms-of-power-magic::0303",
+   "realms-of-power-magic::0311"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "description": "Hermetic ritual halting aging; cannot halt magical Age Quickly.",
+  "evidence": [
+   "realms-of-power-magic::0262",
+   "realms-of-power-magic::0263"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Supernatural distortion; animals Warped by Magic may gain Flaws like Bound to Magic.",
+  "evidence": [
+   "realms-of-power-magic::0258",
+   "realms-of-power-magic::0265",
+   "realms-of-power-magic::0311"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "description": "Cult through which Gifted magic characters may initiate new Virtues and Flaws.",
+  "evidence": [
+   "realms-of-power-magic::0294",
+   "realms-of-power-magic::0295"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "description": "Script for initiating Virtues; a book on Magic Qualities might resemble one.",
+  "evidence": [
+   "realms-of-power-magic::0294",
+   "realms-of-power-magic::0295"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "Concept",
+  "description": "Mystery Cult initiator who may adapt a book of Magic Qualities for Initiation.",
+  "evidence": [
+   "realms-of-power-magic::0294"
+  ]
+ },
+ {
+  "name": "Object of Virtue",
+  "type": "Concept",
+  "aliases": [
+   "Thing of Virtue"
+  ],
+  "description": "Item made by a hedge magician from the vis-bearing body part of a Beast of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0311",
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Enriched",
+  "type": "Concept",
+  "aliases": [
+   "Enrichment"
+  ],
+  "description": "Process of preparing a Beast of Virtue's vis-bearing part so it grants a Virtue or power.",
+  "evidence": [
+   "realms-of-power-magic::0322",
+   "realms-of-power-magic::0326",
+   "realms-of-power-magic::0344"
+  ]
+ },
+ {
+  "name": "Necessary Condition",
+  "type": "Concept",
+  "description": "Requirement for using an Enriched Thing of Virtue, e.g. placing the Panther tongue in the mouth.",
+  "evidence": [
+   "realms-of-power-magic::0342",
+   "realms-of-power-magic::0348",
+   "realms-of-power-magic::0352"
+  ]
+ },
+ {
+  "name": "Law of Sympathy",
+  "type": "Concept",
+  "description": "Magical principle by which the Cockerel of Virtue's cry terrifies spirits of darkness.",
+  "evidence": [
+   "realms-of-power-magic::0331"
+  ]
+ },
+ {
+  "name": "Law of Contagion",
+  "type": "Concept",
+  "description": "Magical principle transferring the Stag of Virtue's fever immunity to those who eat its flesh.",
+  "evidence": [
+   "realms-of-power-magic::0351"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Magical region; Atlanteans are native to a magic regio.",
+  "evidence": [
+   "realms-of-power-magic::0271",
+   "realms-of-power-magic::0338",
+   "realms-of-power-magic::0342"
+  ]
+ },
+ {
+  "name": "Confidence Points",
+  "type": "Concept",
+  "description": "Points spent to activate Ritual Powers or suppress Monstrous Blood effects.",
+  "evidence": [
+   "realms-of-power-magic::0255",
+   "realms-of-power-magic::0278",
+   "realms-of-power-magic::0285"
+  ]
+ },
+ {
+  "name": "Mastery Points",
+  "type": "Concept",
+  "description": "Points traded from Virtue levels to reduce a power's Might cost.",
+  "evidence": [
+   "realms-of-power-magic::0241",
+   "realms-of-power-magic::0254"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance to magic; (Form) Resistance adds to it for magic characters.",
+  "evidence": [
+   "realms-of-power-magic::0290",
+   "realms-of-power-magic::0330",
+   "realms-of-power-magic::0346"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic magic resistance; (Form) Resistance does not stack with it.",
+  "evidence": [
+   "realms-of-power-magic::0290"
+  ]
+ },
+ {
+  "name": "Herbs of Virtue",
+  "type": "Concept",
+  "description": "Magical herbs such as the mandrake, described in Chapter 8: Magic Things.",
+  "evidence": [
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic",
+   "realm of Magic"
+  ],
+  "description": "The realm of Magic; magic characters can retreat there to avoid Acclimation, treated as an aura of 10 for visitors.",
+  "evidence": [
+   "realms-of-power-magic::0292",
+   "realms-of-power-magic::0299",
+   "realms-of-power-magic::0302"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Supernatural realm often confused with Magic by people of Mythic Europe; faerie powers become magic ones on Transformation.",
+  "evidence": [
+   "realms-of-power-magic::0246",
+   "realms-of-power-magic::0256"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of evil; infernal powers become tainted magic on Transformation, and Black Dogs are wrongly thought its agents.",
+  "evidence": [
+   "realms-of-power-magic::0256",
+   "realms-of-power-magic::0325"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm whose powers are lost when a character is Transformed by Magic.",
+  "evidence": [
+   "realms-of-power-magic::0256"
+  ]
+ },
+ {
+  "name": "Twilight Void",
+  "type": "Place",
+  "description": "Part of the Magic Realm where the most powerful magic characters never suffer Acclimation.",
+  "evidence": [
+   "realms-of-power-magic::0302"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting world of Ars Magica.",
+  "evidence": [
+   "realms-of-power-magic::0246",
+   "realms-of-power-magic::0338",
+   "realms-of-power-magic::0356"
+  ]
+ },
+ {
+  "name": "Camargue",
+  "type": "Place",
+  "description": "Large, flat, marshy delta region of the Rhône River, home of magical wild horses.",
+  "evidence": [
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0334"
+  ]
+ },
+ {
+  "name": "Rhône River",
+  "type": "Place",
+  "description": "River whose delta forms the Camargue.",
+  "evidence": [
+   "realms-of-power-magic::0334"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal whose inhabitants find comfortable the temperate climate on the Environmental Temperatures chart.",
+  "evidence": [
+   "realms-of-power-magic::0287"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal cited as the comfortable temperature norm.",
+  "evidence": [
+   "realms-of-power-magic::0287"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal cited as the comfortable temperature norm.",
+  "evidence": [
+   "realms-of-power-magic::0287"
+  ]
+ },
+ {
+  "name": "Hibernia Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal cited as the comfortable temperature norm.",
+  "evidence": [
+   "realms-of-power-magic::0287"
+  ]
+ },
+ {
+  "name": "Peloponnesus",
+  "type": "Place",
+  "description": "Region ravens flew from, per Pliny, after the massacre of Median mercenaries.",
+  "evidence": [
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Attica",
+  "type": "Place",
+  "description": "Region ravens flew from, per Pliny.",
+  "evidence": [
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Media",
+  "type": "Place",
+  "description": "Land whose mercenary soldiers were massacred, per Pliny.",
+  "evidence": [
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Africa",
+  "type": "Place",
+  "description": "Source of panthers brought to Italy for the Roman circus.",
+  "evidence": [
+   "realms-of-power-magic::0342"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "description": "Destination of African panthers for the Roman circus.",
+  "evidence": [
+   "realms-of-power-magic::0342"
+  ]
+ },
+ {
+  "name": "Pierre de Beauvais",
+  "type": "Character",
+  "aliases": [
+   "Pierre be Beauvais"
+  ],
+  "description": "Medieval bestiary author quoted on the caladrius, lion, salamander and stag.",
+  "evidence": [
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0339"
+  ]
+ },
+ {
+  "name": "Pliny the Elder",
+  "type": "Character",
+  "description": "Roman author of Naturalis Historia, quoted on panthers and ravens.",
+  "evidence": [
+   "realms-of-power-magic::0340",
+   "realms-of-power-magic::0342",
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Pentele",
+  "type": "Creature",
+  "description": "A Lion of Virtue, literally the King of Beasts, ruling a remote animal kingdom with a retinue of Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0338",
+   "realms-of-power-magic::0339"
+  ]
+ },
+ {
+  "name": "Beast of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Beasts of Virtue"
+  ],
+  "description": "A perfect magical example of its species, rare and well suited as a familiar; corpse contains vis.",
+  "evidence": [
+   "realms-of-power-magic::0242",
+   "realms-of-power-magic::0311",
+   "realms-of-power-magic::0314"
+  ]
+ },
+ {
+  "name": "Transformed Beast",
+  "type": "Creature",
+  "aliases": [
+   "Transformed Animals"
+  ],
+  "description": "Magical beast with powers beyond its species' perfection, often from failed Hermetic attempts to create Beasts of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0311"
+  ]
+ },
+ {
+  "name": "Black Boar of the Bog",
+  "type": "Creature",
+  "description": "Beast of Virtue, a huge black boar with Magic Might 20 guarding a swampy wood; powers Protect the Herd and Terror of the Charging Boar.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0321",
+   "realms-of-power-magic::0359"
+  ]
+ },
+ {
+  "name": "Black Dog of the Moor",
+  "type": "Creature",
+  "description": "Beast of Virtue, a gigantic black hound with Magic Might 25 that prowls a moor at night.",
+  "evidence": [
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0325",
+   "realms-of-power-magic::0359"
+  ]
+ },
+ {
+  "name": "Black Dogs",
+  "type": "Creature",
+  "aliases": [
+   "Coinn Iotair",
+   "Cwn Annwn",
+   "Gytrash",
+   "Mauthe Dhoog",
+   "Rongeur D'os",
+   "Youdic Dogs"
+  ],
+  "description": "Class of solitary black hounds known throughout northern Europe under many names, wrongly thought Infernal.",
+  "evidence": [
+   "realms-of-power-magic::0325",
+   "realms-of-power-magic::0326"
+  ]
+ },
+ {
+  "name": "Caladrius",
+  "type": "Creature",
+  "description": "Magnificent white heron-like Beast of Virtue that heals disease by gazing into a patient's eyes and flying toward the sun.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0328"
+  ]
+ },
+ {
+  "name": "Cockerel of Virtue",
+  "type": "Creature",
+  "description": "Beast of Virtue whose crowing drives away nocturnal spirits; the only beast that cows Pentele.",
+  "evidence": [
+   "realms-of-power-magic::0330",
+   "realms-of-power-magic::0331",
+   "realms-of-power-magic::0338"
+  ]
+ },
+ {
+  "name": "Great Stallion of the Camargue",
+  "type": "Creature",
+  "description": "White stallion Beast of Virtue leading the magical wild horses of the Camargue.",
+  "evidence": [
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0333",
+   "realms-of-power-magic::0334"
+  ]
+ },
+ {
+  "name": "Horses of Virtue",
+  "type": "Creature",
+  "description": "Herd of magical horses (Might 10) of the Camargue led by the Great Stallion.",
+  "evidence": [
+   "realms-of-power-magic::0334"
+  ]
+ },
+ {
+  "name": "Lion of Virtue",
+  "type": "Creature",
+  "description": "Beast of Virtue king of beasts, merciful, fearful of turning wheels and enemy of dragons.",
+  "evidence": [
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0337",
+   "realms-of-power-magic::0339"
+  ]
+ },
+ {
+  "name": "Panther of Virtue",
+  "type": "Creature",
+  "description": "Hideous-faced spotted Beast of Virtue whose fragrant breath lures prey.",
+  "evidence": [
+   "realms-of-power-magic::0340",
+   "realms-of-power-magic::0341",
+   "realms-of-power-magic::0342"
+  ]
+ },
+ {
+  "name": "Raven of Virtue",
+  "type": "Creature",
+  "description": "Bird of ill omen that foresees calamities and warns humans to cause anxiety.",
+  "evidence": [
+   "realms-of-power-magic::0343",
+   "realms-of-power-magic::0344"
+  ]
+ },
+ {
+  "name": "Salamander of Virtue",
+  "type": "Creature",
+  "description": "Tiny Ignem-aligned lizard Beast of Virtue that extinguishes fires and poisons water and plants.",
+  "evidence": [
+   "realms-of-power-magic::0345",
+   "realms-of-power-magic::0346",
+   "realms-of-power-magic::0347"
+  ]
+ },
+ {
+  "name": "Stag of Virtue",
+  "type": "Creature",
+  "description": "Beast of Virtue, enemy of serpents, rejuvenating by eating venomous snakes; its right antler heals.",
+  "evidence": [
+   "realms-of-power-magic::0349",
+   "realms-of-power-magic::0350",
+   "realms-of-power-magic::0351"
+  ]
+ },
+ {
+  "name": "White Stag of the Wood",
+  "type": "Creature",
+  "description": "Powerful magical white elk, Magical Master ruling a forest and protecting its herd.",
+  "evidence": [
+   "realms-of-power-magic::0353",
+   "realms-of-power-magic::0355",
+   "realms-of-power-magic::0356"
+  ]
+ },
+ {
+  "name": "Wise Owl of the Forest",
+  "type": "Creature",
+  "description": "Talking grey owl Beast of Virtue, curious and starved for conversation.",
+  "evidence": [
+   "realms-of-power-magic::0357",
+   "realms-of-power-magic::0358",
+   "realms-of-power-magic::0359"
+  ]
+ },
+ {
+  "name": "Dog of Virtue",
+  "type": "Creature",
+  "description": "Example Beast of Virtue that may have enhanced tracking but not fire breath.",
+  "evidence": [
+   "realms-of-power-magic::0318"
+  ]
+ },
+ {
+  "name": "Viper of Virtue",
+  "type": "Creature",
+  "description": "Example Beast of Virtue that might have Deception as Essential Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0315"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [
+   "dragons"
+  ],
+  "description": "Mighty magic animals; natural enemies of Lions of Virtue and immune to panther breath.",
+  "evidence": [
+   "realms-of-power-magic::0310",
+   "realms-of-power-magic::0339",
+   "realms-of-power-magic::0341"
+  ]
+ },
+ {
+  "name": "Scitalis",
+  "type": "Creature",
+  "description": "Dragon-kind creature suggested as an Ignem or Imaginem familiar.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0313"
+  ]
+ },
+ {
+  "name": "Hercinia",
+  "type": "Creature",
+  "description": "Creature suggested as an Ignem familiar.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0313"
+  ]
+ },
+ {
+  "name": "Hoopoe",
+  "type": "Creature",
+  "description": "Bird suggested as a Vim familiar.",
+  "evidence": [
+   "realms-of-power-magic::0313"
+  ]
+ },
+ {
+  "name": "Mandrake",
+  "type": "Creature",
+  "description": "Herb of Virtue suggested as a Corpus or Herbam familiar.",
+  "evidence": [
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Atlantean",
+  "type": "Creature",
+  "aliases": [
+   "Atlanteans"
+  ],
+  "description": "Beings native to a magic regio; exiles are tainted by the surface world.",
+  "evidence": [
+   "realms-of-power-magic::0271"
+  ]
+ },
+ {
+  "name": "Elementals",
+  "type": "Creature",
+  "description": "Beings with Cunning that Animal Handling may train.",
+  "evidence": [
+   "realms-of-power-magic::0288"
+  ]
+ },
+ {
+  "name": "Protect the Herd",
+  "type": "Spell",
+  "description": "Black Boar power giving it and animal allies +5 Soak for Sun duration.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0321"
+  ]
+ },
+ {
+  "name": "Terror of the Charging Boar",
+  "type": "Spell",
+  "description": "Black Boar power filling anyone it charges with mortal fear.",
+  "evidence": [
+   "realms-of-power-magic::0320",
+   "realms-of-power-magic::0321"
+  ]
+ },
+ {
+  "name": "Nose of the Bloodhound",
+  "type": "Spell",
+  "description": "Black Dog power to track a scented quarry anywhere.",
+  "evidence": [
+   "realms-of-power-magic::0323",
+   "realms-of-power-magic::0324"
+  ]
+ },
+ {
+  "name": "Dominate Canine",
+  "type": "Spell",
+  "description": "Black Dog power making canines obey its voice.",
+  "evidence": [
+   "realms-of-power-magic::0324"
+  ]
+ },
+ {
+  "name": "Leader of the Pack",
+  "type": "Spell",
+  "description": "Black Dog power making canines fight as a trained group at +2.",
+  "evidence": [
+   "realms-of-power-magic::0324"
+  ]
+ },
+ {
+  "name": "Shadow Form",
+  "type": "Spell",
+  "description": "Black Dog power to become shadow, +4 Stealth and immune to physical attacks.",
+  "evidence": [
+   "realms-of-power-magic::0324",
+   "realms-of-power-magic::0325"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "Spell similar to the Black Dog's Dominate Canine.",
+  "evidence": [
+   "realms-of-power-magic::0324"
+  ]
+ },
+ {
+  "name": "Healing Gaze",
+  "type": "Spell",
+  "description": "Caladrius Ritual Power drawing non-fatal disease from a patient into itself.",
+  "evidence": [
+   "realms-of-power-magic::0327",
+   "realms-of-power-magic::0328"
+  ]
+ },
+ {
+  "name": "Perceive the Afflictions of Mortal Flesh",
+  "type": "Spell",
+  "description": "Caladrius power identifying diseases by sight.",
+  "evidence": [
+   "realms-of-power-magic::0328"
+  ]
+ },
+ {
+  "name": "Scourge the Spirits of the Night",
+  "type": "Spell",
+  "description": "Cockerel of Virtue's crow causing nocturnal spirits to flee.",
+  "evidence": [
+   "realms-of-power-magic::0330",
+   "realms-of-power-magic::0331"
+  ]
+ },
+ {
+  "name": "Sense the Feet that Tread the Earth",
+  "type": "Spell",
+  "description": "Great Stallion power sensing movement on the ground within a mile.",
+  "evidence": [
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0334"
+  ]
+ },
+ {
+  "name": "Sprint of the Zephyr",
+  "type": "Spell",
+  "description": "Great Stallion power to gallop a league in one Diameter.",
+  "evidence": [
+   "realms-of-power-magic::0332",
+   "realms-of-power-magic::0333"
+  ]
+ },
+ {
+  "name": "The Unimpeded Traveler",
+  "type": "Spell",
+  "description": "Great Stallion power ignoring terrain, even crossing water and chasms.",
+  "evidence": [
+   "realms-of-power-magic::0333"
+  ]
+ },
+ {
+  "name": "Great Leap",
+  "type": "Spell",
+  "description": "Power to leap 30 paces up or 50 across, possessed by the Great Stallion and White Stag.",
+  "evidence": [
+   "realms-of-power-magic::0333",
+   "realms-of-power-magic::0354"
+  ]
+ },
+ {
+  "name": "Terrifying Roar",
+  "type": "Spell",
+  "description": "Lion of Virtue roar freezing hearers in terror.",
+  "evidence": [
+   "realms-of-power-magic::0336",
+   "realms-of-power-magic::0337"
+  ]
+ },
+ {
+  "name": "Trackless Step",
+  "type": "Spell",
+  "description": "Power to leave no tracks, used by the Lion of Virtue and White Stag.",
+  "evidence": [
+   "realms-of-power-magic::0337",
+   "realms-of-power-magic::0355"
+  ]
+ },
+ {
+  "name": "Circle of Beast Warding",
+  "type": "Spell",
+  "description": "Lion of Virtue power tracing a circle no mundane beast can cross.",
+  "evidence": [
+   "realms-of-power-magic::0337"
+  ]
+ },
+ {
+  "name": "Sleep with Eyes Open",
+  "type": "Spell",
+  "description": "Lion of Virtue power preventing surprise while sleeping.",
+  "evidence": [
+   "realms-of-power-magic::0337",
+   "realms-of-power-magic::0338"
+  ]
+ },
+ {
+  "name": "Mastering the Unruly Beast",
+  "type": "Spell",
+  "description": "ArM5 spell duplicated by a collar from a Lion of Virtue's Enriched mane.",
+  "evidence": [
+   "realms-of-power-magic::0339"
+  ]
+ },
+ {
+  "name": "Pleasing Breath",
+  "type": "Spell",
+  "description": "Panther of Virtue power whose fragrant breath entrances humans and beasts.",
+  "evidence": [
+   "realms-of-power-magic::0340",
+   "realms-of-power-magic::0341"
+  ]
+ },
+ {
+  "name": "Devouring the Heat of the Fire",
+  "type": "Spell",
+  "description": "Salamander power extinguishing any fire it touches.",
+  "evidence": [
+   "realms-of-power-magic::0345",
+   "realms-of-power-magic::0346"
+  ]
+ },
+ {
+  "name": "Sense of the Bright Flame",
+  "type": "Spell",
+  "description": "Salamander power locating fires as if by hearing.",
+  "evidence": [
+   "realms-of-power-magic::0346"
+  ]
+ },
+ {
+  "name": "Poisoning the Well",
+  "type": "Spell",
+  "description": "Salamander power poisoning water by touch.",
+  "evidence": [
+   "realms-of-power-magic::0346",
+   "realms-of-power-magic::0347"
+  ]
+ },
+ {
+  "name": "Poisoning the Fruit of the Vine",
+  "type": "Spell",
+  "description": "Salamander power making plants poisonous.",
+  "evidence": [
+   "realms-of-power-magic::0346",
+   "realms-of-power-magic::0347"
+  ]
+ },
+ {
+  "name": "Poisonous Skin",
+  "type": "Spell",
+  "description": "Salamander's constant contact poison.",
+  "evidence": [
+   "realms-of-power-magic::0347"
+  ]
+ },
+ {
+  "name": "Healing",
+  "type": "Spell",
+  "description": "Stag of Virtue power healing its own wounds after eating dittany.",
+  "evidence": [
+   "realms-of-power-magic::0349",
+   "realms-of-power-magic::0350"
+  ]
+ },
+ {
+  "name": "Delay the Serpent's Venom",
+  "type": "Spell",
+  "description": "Stag of Virtue power delaying poison until sunrise or sunset.",
+  "evidence": [
+   "realms-of-power-magic::0350"
+  ]
+ },
+ {
+  "name": "Alleviate the Serpent's Bite",
+  "type": "Spell",
+  "description": "Stag of Virtue power neutralizing poison after drinking water.",
+  "evidence": [
+   "realms-of-power-magic::0350"
+  ]
+ },
+ {
+  "name": "Restoration of the Defiled Body",
+  "type": "Spell",
+  "description": "ArM5 spell whose effect the Stag's right-antler vis resembles.",
+  "evidence": [
+   "realms-of-power-magic::0350",
+   "realms-of-power-magic::0351"
+  ]
+ },
+ {
+  "name": "Defense of the Herd",
+  "type": "Spell",
+  "description": "White Stag power giving deer +2 defense as a trained group.",
+  "evidence": [
+   "realms-of-power-magic::0353",
+   "realms-of-power-magic::0354"
+  ]
+ },
+ {
+  "name": "Confuse Predator",
+  "type": "Spell",
+  "description": "White Stag power confusing enemies.",
+  "evidence": [
+   "realms-of-power-magic::0354"
+  ]
+ },
+ {
+  "name": "Confusion of the Numbed Will",
+  "type": "Spell",
+  "description": "ArM5 spell similar to Confuse Predator.",
+  "evidence": [
+   "realms-of-power-magic::0354"
+  ]
+ },
+ {
+  "name": "Shriek of the Impending Shafts",
+  "type": "Spell",
+  "description": "Spell, also a White Stag power, warning against wooden weapons.",
+  "evidence": [
+   "realms-of-power-magic::0354",
+   "realms-of-power-magic::0355"
+  ]
+ },
+ {
+  "name": "Immobilize Prey",
+  "type": "Spell",
+  "description": "Wise Owl power paralyzing any creature meeting its eyes.",
+  "evidence": [
+   "realms-of-power-magic::0357",
+   "realms-of-power-magic::0358"
+  ]
+ },
+ {
+  "name": "Greater Purifying Touch",
+  "type": "Spell",
+  "description": "Effect granted by the cup from the Stag's Enriched antler, neutralizing poison.",
+  "evidence": [
+   "realms-of-power-magic::0352"
+  ]
+ },
+ {
+  "name": "Black Boar Tusks",
+  "type": "Item",
+  "description": "Enriched tusks of the Black Boar that grant Berserk to their bearer in battle.",
+  "evidence": [
+   "realms-of-power-magic::0322"
+  ]
+ },
+ {
+  "name": "Black Dog Hide Cowl",
+  "type": "Item",
+  "description": "Cowl from a Black Dog's Enriched hide granting Puissant Stealth.",
+  "evidence": [
+   "realms-of-power-magic::0326"
+  ]
+ },
+ {
+  "name": "Lion Mane Collar",
+  "type": "Item",
+  "description": "Collar woven from a Lion of Virtue's mane that duplicates Mastering the Unruly Beast.",
+  "evidence": [
+   "realms-of-power-magic::0339"
+  ]
+ },
+ {
+  "name": "Stag Antler Cup",
+  "type": "Item",
+  "description": "Cup carved from a Stag of Virtue's right antler that neutralizes poison.",
+  "evidence": [
+   "realms-of-power-magic::0352"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0350"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0343"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0347"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0338",
+   "realms-of-power-magic::0355"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0320"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0328"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0345"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0312",
+   "realms-of-power-magic::0330"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0313"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Art; listed with suggested familiar animals and associated monstrosities.",
+  "evidence": [
+   "realms-of-power-magic::0272",
+   "realms-of-power-magic::0313",
+   "realms-of-power-magic::0331"
+  ]
+ },
+ {
+  "name": "Magic Character",
+  "type": "CharacterType",
+  "aliases": [
+   "magic characters"
+  ],
+  "description": "Character with a Magic Might Score; advances only with difficulty via Transformation and must avoid Acclimation.",
+  "evidence": [
+   "realms-of-power-magic::0292",
+   "realms-of-power-magic::0293",
+   "realms-of-power-magic::0299"
+  ]
+ },
+ {
+  "name": "Hedge Magician",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge wizards"
+  ],
+  "description": "Non-Hermetic practitioner who can make a Beast of Virtue's vis-bearing part into an Object of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0311",
+   "realms-of-power-magic::0351"
+  ]
+ }
+]

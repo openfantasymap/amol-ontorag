@@ -1,0 +1,2361 @@
+[
+ {
+  "name": "Absent Rector",
+  "type": "Concept",
+  "description": "Minor church Hook: the priest who collects the benefice does not live in the parish, and his duties fall to a curate.",
+  "evidence": [
+   "the-church::0240",
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Incompetent Curate",
+  "type": "Concept",
+  "description": "Minor church Hook: the church's curate is incompetent and, if discovered, may be removed, bringing many visitations; not available to a major church.",
+  "evidence": [
+   "the-church::0241"
+  ]
+ },
+ {
+  "name": "Vast Sanctuary",
+  "type": "Concept",
+  "description": "Minor church Hook: by custom anyone may seek sanctuary within a wide area around the church, often putting the priest in conflict with the sheriff.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Urban (Church Hook)",
+  "type": "Concept",
+  "aliases": [
+   "Urban"
+  ],
+  "description": "Church Hook taken by the example Urban Parish located in a large town.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Protector (Church Hook)",
+  "type": "Concept",
+  "aliases": [
+   "Protector"
+  ],
+  "description": "Church Hook under which the church canons must protect a group, such as a town's Jewish minority, from persecution.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Crumbling",
+  "type": "Concept",
+  "description": "Church Hook for a church that is very old and in a bad state of repair.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Faerie Court (Church Hook)",
+  "type": "Concept",
+  "aliases": [
+   "Faerie Court"
+  ],
+  "description": "Church Hook for a church troubled by a nearby faerie court whose lords cast spells causing its decay.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Flickering Aura",
+  "type": "Concept",
+  "description": "Church Hook under which the church's Divine aura drops (e.g. to 3 for a year) unless certain rites, such as carrying relics on the perambulation, are observed.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Fallen Temple",
+  "type": "Concept",
+  "description": "Church Hook for a church or chapel built on the site of a former pagan temple.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Spies",
+  "type": "Concept",
+  "description": "Church Hook in which someone in the church, such as the parish clerk, secretly reports on the priest to the bishop.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Chapter of Canons",
+  "type": "Concept",
+  "description": "Church Boon giving the church a body of canons.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Edifice",
+  "type": "Concept",
+  "description": "Church Boon representing a notable building feature, such as a church tower.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Local Ally",
+  "type": "Concept",
+  "description": "Church Boon representing a local ally, such as a town guild master.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Minority (Church Boon)",
+  "type": "Concept",
+  "aliases": [
+   "Minority"
+  ],
+  "description": "Church Boon representing a minority community, such as Jews, attached to the parish.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Powerful Ally",
+  "type": "Concept",
+  "description": "Church Boon representing a powerful patron, such as a bishop related to the curate.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Chase",
+  "type": "Concept",
+  "description": "Church Boon associated with a former hunting estate forest used by the parish.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Burial Rights",
+  "type": "Concept",
+  "description": "Church Boon granting the church the right to bury the dead.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Seclusion",
+  "type": "Concept",
+  "description": "Church Boon for a church in a secluded location, such as a covenant chapel in a shaded glen.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Urban Parish",
+  "type": "Place",
+  "description": "Example church in one of the larger towns of a diocese, with canons, a guild altar, a Jewish minority, and a Divine aura of 5.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Village Parish",
+  "type": "Place",
+  "description": "Example crumbling old church serving three villages beside a forest haunted by a faerie court, with a Divine aura of 4.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Covenant Chapel",
+  "type": "Place",
+  "description": "Example chapel built in a glen near a covenant tower on the site of a pagan temple, with a Divine aura of 3.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Saint's Thigh Bone",
+  "type": "Item",
+  "description": "A relic with Faith Score 3 and a Cure Blindness power, kept at the example Covenant Chapel.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Divine Aura",
+  "type": "Concept",
+  "aliases": [
+   "Divine aura"
+  ],
+  "description": "The supernatural aura of the Divine present at churches, rated by level (e.g. 3 to 5 for example churches).",
+  "evidence": [
+   "the-church::0242",
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Item",
+  "aliases": [
+   "Relics",
+   "minor relic"
+  ],
+  "description": "Holy objects held by churches, with a Faith Score and powers; minor relics have Faith Score 1.",
+  "evidence": [
+   "the-church::0242",
+   "the-church::0243",
+   "the-church::0306"
+  ]
+ },
+ {
+  "name": "Faith Score",
+  "type": "Concept",
+  "description": "The rating of a relic's holy power.",
+  "evidence": [
+   "the-church::0242",
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "pawns",
+   "Vis Sources"
+  ],
+  "description": "Raw magical power found in vis sources, such as pawns of Creo from Easter bells or Imaginem from mid-summer dawn light.",
+  "evidence": [
+   "the-church::0242",
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique; a church vis source yields Creo vis from the pealing bells at Easter Mass.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form; a village parish yields Animal vis from the first boar of the hunt.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form; a village parish yields Imaginem vis from mid-summer dawn light in the bell tower.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique; a Rego Animal enchanted box could transport letters between a covenant and an enclosed religious.",
+  "evidence": [
+   "the-church::0301"
+  ]
+ },
+ {
+  "name": "Bible",
+  "type": "Item",
+  "description": "Holy scripture held by churches and copied by monks.",
+  "evidence": [
+   "the-church::0243",
+   "the-church::0288",
+   "the-church::0319"
+  ]
+ },
+ {
+  "name": "Missal",
+  "type": "Item",
+  "description": "Liturgical book held by the example parish churches.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Parish Register",
+  "type": "Item",
+  "description": "Book (Level 7) held by the example Village Parish.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Breviary",
+  "type": "Item",
+  "description": "Liturgical book (Quality 6) held by the example Covenant Chapel.",
+  "evidence": [
+   "the-church::0243"
+  ]
+ },
+ {
+  "name": "Psalter",
+  "type": "Item",
+  "description": "Book of psalms that most monks know by heart and that is read during meals.",
+  "evidence": [
+   "the-church::0250",
+   "the-church::0267",
+   "the-church::0288"
+  ]
+ },
+ {
+  "name": "Miracula",
+  "type": "Item",
+  "description": "Monastic chronicles containing ghost stories of souls returned from purgatory and miracles of saints, read to foster Devotion and useful for research.",
+  "evidence": [
+   "the-church::0288"
+  ]
+ },
+ {
+  "name": "Mirabilia",
+  "type": "Item",
+  "description": "Monastic books recording faeries and magical or unusual natural phenomena, signs and wonders; a research resource for magi.",
+  "evidence": [
+   "the-church::0288",
+   "the-church::0289"
+  ]
+ },
+ {
+  "name": "Religious Life",
+  "type": "Concept",
+  "aliases": [
+   "the religious",
+   "contemplative life"
+  ],
+  "description": "The vocation of monks and nuns; 'religious' is the technical term for monks and nuns, who observe the canonical hours, prayer and service to God.",
+  "evidence": [
+   "the-church::0244",
+   "the-church::0247",
+   "the-church::0248"
+  ]
+ },
+ {
+  "name": "Rule of Saint Benedict",
+  "type": "Concept",
+  "aliases": [
+   "Benedictine Rule",
+   "Rule of Benedict"
+  ],
+  "description": "The most widespread monastic rule in Mythic Europe, laying down detailed regulations and a daily timetable for monks and nuns; most religious orders follow variants of it.",
+  "evidence": [
+   "the-church::0245",
+   "the-church::0254",
+   "the-church::0274"
+  ]
+ },
+ {
+  "name": "Rule of Saint Augustine",
+  "type": "Concept",
+  "aliases": [
+   "Augustinian Rule",
+   "Rule of Augustine"
+  ],
+  "description": "Monastic rule followed by Augustinian canons, Premonstratensians and many canonesses; fashionable after 1215.",
+  "evidence": [
+   "the-church::0289",
+   "the-church::0290",
+   "the-church::0339"
+  ]
+ },
+ {
+  "name": "Statutes of Saint Bruno",
+  "type": "Concept",
+  "description": "The rule followed by the Carthusians instead of the Rule of Benedict.",
+  "evidence": [
+   "the-church::0290"
+  ]
+ },
+ {
+  "name": "Ancrene Riwle",
+  "type": "Concept",
+  "aliases": [
+   "Anchoress' Rule",
+   "Riwle"
+  ],
+  "description": "The anchoress' rule, written in England in the early 13th century for three anchoresses, based on monastic rules but adapted to the anchoress' enclosed life.",
+  "evidence": [
+   "the-church::0352",
+   "the-church::0353",
+   "the-church::0354"
+  ]
+ },
+ {
+  "name": "Monastic Vows",
+  "type": "Concept",
+  "description": "The three chief vows of chastity, poverty (humility) and obedience sworn as solemn oaths by almost all religious after a year's novitiate.",
+  "evidence": [
+   "the-church::0247",
+   "the-church::0248",
+   "the-church::0315"
+  ]
+ },
+ {
+  "name": "Novice",
+  "type": "CharacterType",
+  "aliases": [
+   "novitiate"
+  ],
+  "description": "A junior member of a monastery or nunnery serving a probationary year before taking vows.",
+  "evidence": [
+   "the-church::0246",
+   "the-church::0247",
+   "the-church::0282"
+  ]
+ },
+ {
+  "name": "Oblate",
+  "type": "CharacterType",
+  "description": "A child given to a monastery to be raised and educated; the practice was outlawed by the Fourth Lateran Council in 1215.",
+  "evidence": [
+   "the-church::0246"
+  ]
+ },
+ {
+  "name": "Fourth Lateran Council",
+  "type": "Concept",
+  "description": "Church council of 1215 that outlawed oblates and required all religious communities to adopt an approved rule.",
+  "evidence": [
+   "the-church::0246",
+   "the-church::0289"
+  ]
+ },
+ {
+  "name": "Tonsure",
+  "type": "Concept",
+  "description": "The ring of hair left when a monk's head is shaved on taking vows.",
+  "evidence": [
+   "the-church::0248"
+  ]
+ },
+ {
+  "name": "Divine Office",
+  "type": "Concept",
+  "aliases": [
+   "Opus Dei",
+   "Liturgy of the Hours",
+   "canonical hours"
+  ],
+  "description": "The daily prayers recited at the canonical hours, also called the Opus Dei or Liturgy of the Hours.",
+  "evidence": [
+   "the-church::0249",
+   "the-church::0267"
+  ]
+ },
+ {
+  "name": "Matins",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: First service of the day at midnight, the monks roused by the sacristan's bell.",
+  "evidence": [
+   "the-church::0249"
+  ]
+ },
+ {
+  "name": "Lauds",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: Service at 1 am (or dawn in summer) after which monks return to bed.",
+  "evidence": [
+   "the-church::0249",
+   "the-church::0250"
+  ]
+ },
+ {
+  "name": "Prime",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: Service at 7 am when monks are roused from bed.",
+  "evidence": [
+   "the-church::0249",
+   "the-church::0250"
+  ]
+ },
+ {
+  "name": "Terce",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: Morning service at 9 am, followed by the chapter meeting.",
+  "evidence": [
+   "the-church::0250"
+  ]
+ },
+ {
+  "name": "Sext",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: Midday service.",
+  "evidence": [
+   "the-church::0250"
+  ]
+ },
+ {
+  "name": "Nones",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: Afternoon service at 3 pm.",
+  "evidence": [
+   "the-church::0250",
+   "the-church::0251"
+  ]
+ },
+ {
+  "name": "Vespers",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: 5 pm service marking the end of the day's labors.",
+  "evidence": [
+   "the-church::0250",
+   "the-church::0251"
+  ]
+ },
+ {
+  "name": "Compline",
+  "type": "Concept",
+  "description": "Canonical hour of the Divine Office: Evening service at 7 pm, after which monks retire to bed.",
+  "evidence": [
+   "the-church::0251"
+  ]
+ },
+ {
+  "name": "Mass",
+  "type": "Concept",
+  "description": "The central Church rite, celebrated by a priest for monks, servants and lay folk.",
+  "evidence": [
+   "the-church::0249",
+   "the-church::0293",
+   "the-church::0303"
+  ]
+ },
+ {
+  "name": "Sign Language (Monastery)",
+  "type": "Ability",
+  "aliases": [
+   "Sign Language"
+  ],
+  "description": "Ability covering the silent sign languages monks use when speech is forbidden; each monastery's version defaults with penalties to other houses and orders.",
+  "evidence": [
+   "the-church::0262",
+   "the-church::0263",
+   "the-church::0290"
+  ]
+ },
+ {
+  "name": "Monastic Gardens",
+  "type": "Concept",
+  "description": "Monastic horticulture including cloister garth, orchards, physic garden, infirmary garden and herbers.",
+  "evidence": [
+   "the-church::0251",
+   "the-church::0252",
+   "the-church::0253"
+  ]
+ },
+ {
+  "name": "Infirmary",
+  "type": "Place",
+  "description": "Room or detached building of a monastery where sick, elderly and indigent people are cared for by the monks.",
+  "evidence": [
+   "the-church::0266"
+  ]
+ },
+ {
+  "name": "Chapterhouse",
+  "type": "Place",
+  "aliases": [
+   "chapter house"
+  ],
+  "description": "Monastic building where monks gather for readings and where the abbot consults the community.",
+  "evidence": [
+   "the-church::0251",
+   "the-church::0270"
+  ]
+ },
+ {
+  "name": "Scriptorium",
+  "type": "Place",
+  "description": "Monastic room where books are copied, overseen by the chancellor.",
+  "evidence": [
+   "the-church::0255",
+   "the-church::0288"
+  ]
+ },
+ {
+  "name": "Beguinage",
+  "type": "Place",
+  "description": "The home of a group of beguines living together; an urban establishment requiring the bishop's approval.",
+  "evidence": [
+   "the-church::0341",
+   "the-church::0344"
+  ]
+ },
+ {
+  "name": "Anchorhold",
+  "type": "Place",
+  "description": "The cell of an anchoress, usually attached to a church with a window onto the altar and another onto the street.",
+  "evidence": [
+   "the-church::0351",
+   "the-church::0355"
+  ]
+ },
+ {
+  "name": "Visitation",
+  "type": "Concept",
+  "description": "Periodic inspection of churches and nunneries by a bishop or his deputy, documenting faults.",
+  "evidence": [
+   "the-church::0241",
+   "the-church::0298",
+   "the-church::0335"
+  ]
+ },
+ {
+  "name": "Sanctuary",
+  "type": "Concept",
+  "description": "Protection customarily granted to those who seek refuge within a church's bounds.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Devotion",
+  "type": "Concept",
+  "description": "Religious fervor fostered by reading miracula and similar works.",
+  "evidence": [
+   "the-church::0288"
+  ]
+ },
+ {
+  "name": "Christian Mysticism",
+  "type": "Concept",
+  "aliases": [
+   "mysticism"
+  ],
+  "description": "Mystical state understood as a form of prayer imparting direct personal knowledge of God, with rules for play.",
+  "evidence": [
+   "the-church::0358",
+   "the-church::0359"
+  ]
+ },
+ {
+  "name": "Apostasy",
+  "type": "Concept",
+  "description": "Abandoning religious life; considered the worst sin, with fugitive nuns hunted and returned to the cloister.",
+  "evidence": [
+   "the-church::0331",
+   "the-church::0332"
+  ]
+ },
+ {
+  "name": "Sin",
+  "type": "Concept",
+  "description": "Wrongdoing exploited by Tempters; vanity, greed and lust are less serious than pride, while apostasy is worst.",
+  "evidence": [
+   "the-church::0327",
+   "the-church::0331"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "description": "A character's standing, such as an abbess's reputation of level 4 or a mystic's reputation spreading through a diocese.",
+  "evidence": [
+   "the-church::0272",
+   "the-church::0319",
+   "the-church::0359"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A magical link to a target; a runaway novice's clothes, or a nun as a bride of Christ, might serve as one.",
+  "evidence": [
+   "the-church::0249",
+   "the-church::0338"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "The magical talent of magi that provokes suspicion from abbots and hostillars; a Gifted nun is shunned in her nunnery.",
+  "evidence": [
+   "the-church::0263",
+   "the-church::0286",
+   "the-church::0318"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "Hermetic magical state; a Twilight-addled magus plots to use a nun as an Arcane Connection to God.",
+  "evidence": [
+   "the-church::0338"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "A supernatural region; the covenant of Cunfin hides in one, and an anchoress' cell might give access to one.",
+  "evidence": [
+   "the-church::0298",
+   "the-church::0356"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "The Realm of God, source of mystics' visions and church auras.",
+  "evidence": [
+   "the-church::0242",
+   "the-church::0358"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of demons and Tempters that spread sin in nunneries.",
+  "evidence": [
+   "the-church::0327",
+   "the-church::0336",
+   "the-church::0337"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm of faeries, represented by faerie courts haunting forests.",
+  "evidence": [
+   "the-church::0243",
+   "the-church::0288"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Knowledge of the Church, required of canons, abbots, precentors and all nuns.",
+  "evidence": [
+   "the-church::0242",
+   "the-church::0273",
+   "the-church::0282"
+  ]
+ },
+ {
+  "name": "Profession: Scribe",
+  "type": "Ability",
+  "description": "Profession held by church notaries.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Profession: Mason",
+  "type": "Ability",
+  "description": "Profession held by a master stonemason in a parish's specialists.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability of churchwardens in the example Urban Parish.",
+  "evidence": [
+   "the-church::0242"
+  ]
+ },
+ {
+  "name": "Profession: Steward",
+  "type": "Ability",
+  "description": "Administrative skill useful to abbesses and terrars.",
+  "evidence": [
+   "the-church::0272",
+   "the-church::0276"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability expected of abbots, abbesses and terrars.",
+  "evidence": [
+   "the-church::0273",
+   "the-church::0276",
+   "the-church::0281"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability important to abbots, terrars and scholarly nuns.",
+  "evidence": [
+   "the-church::0273",
+   "the-church::0276",
+   "the-church::0319"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability useful to abbots, terrars, cellarers and heads of the novitiate.",
+  "evidence": [
+   "the-church::0273",
+   "the-church::0276",
+   "the-church::0278"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "description": "Ability an abbot probably has, perhaps specialized in nobility or clergy.",
+  "evidence": [
+   "the-church::0273"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Academic Ability useful for abbots and clerics advising nunneries.",
+  "evidence": [
+   "the-church::0273",
+   "the-church::0306"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "aliases": [
+   "Canon Law"
+  ],
+  "description": "Legal Ability useful to abbots and terrars.",
+  "evidence": [
+   "the-church::0273",
+   "the-church::0276"
+  ]
+ },
+ {
+  "name": "Common Law",
+  "type": "Ability",
+  "description": "Legal knowledge needed by terrars in some regions.",
+  "evidence": [
+   "the-church::0276"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Academic Ability an abbot may have.",
+  "evidence": [
+   "the-church::0273"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Knowledge of the Dominion that abbots and scholarly nuns may have.",
+  "evidence": [
+   "the-church::0273",
+   "the-church::0319"
+  ]
+ },
+ {
+  "name": "Profession: Terrar",
+  "type": "Ability",
+  "description": "Profession of a monastery's land agent.",
+  "evidence": [
+   "the-church::0276"
+  ]
+ },
+ {
+  "name": "Profession: Reeve",
+  "type": "Ability",
+  "description": "Profession relevant to managing monastic estates.",
+  "evidence": [
+   "the-church::0276"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Ability useful to cellarers.",
+  "evidence": [
+   "the-church::0278"
+  ]
+ },
+ {
+  "name": "Profession: Cellaress",
+  "type": "Ability",
+  "description": "Profession of the nunnery official responsible for food and drink.",
+  "evidence": [
+   "the-church::0278"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "description": "Medical Ability required of an infirmarian.",
+  "evidence": [
+   "the-church::0266",
+   "the-church::0280"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "description": "Academic medical Ability of monastic infirmarians.",
+  "evidence": [
+   "the-church::0266",
+   "the-church::0280"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability for passing on knowledge, needed by precentors and heads of the novitiate.",
+  "evidence": [
+   "the-church::0281",
+   "the-church::0282",
+   "the-church::0284"
+  ]
+ },
+ {
+  "name": "Herbalism",
+  "type": "Ability",
+  "description": "Ability tied to the Herbalism Virtue, held by a nunnery's herbalist.",
+  "evidence": [
+   "the-church::0281"
+  ]
+ },
+ {
+  "name": "Profession: Apothecary",
+  "type": "Ability",
+  "description": "Profession held by a nunnery herbalist.",
+  "evidence": [
+   "the-church::0281"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability useful to a head of the novitiate monitoring novices.",
+  "evidence": [
+   "the-church::0282"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Language all nuns are expected to know.",
+  "evidence": [
+   "the-church::0282",
+   "the-church::0299",
+   "the-church::0315"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability expected of all nuns and taught to novices.",
+  "evidence": [
+   "the-church::0282",
+   "the-church::0299",
+   "the-church::0315"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "description": "Ability required of a precentor.",
+  "evidence": [
+   "the-church::0284"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Hermetic Ability; scribes lacking it render copied Hermetic works worthless.",
+  "evidence": [
+   "the-church::0288"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Ability",
+  "description": "Supernatural Ability associated with the Understanding power of True Faith mystics.",
+  "evidence": [
+   "the-church::0358"
+  ]
+ },
+ {
+  "name": "Senior Clergy",
+  "type": "Virtue",
+  "description": "Social Status Virtue appropriate for abbots, abbesses and very powerful priors.",
+  "evidence": [
+   "the-church::0273",
+   "the-church::0274"
+  ]
+ },
+ {
+  "name": "Religious (Social Status)",
+  "type": "Virtue",
+  "description": "Social Status Virtue for priors, nuns, beguines and penitents who have taken religious life.",
+  "evidence": [
+   "the-church::0274",
+   "the-church::0299",
+   "the-church::0346"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Virtue an abbot or abbess is likely to have.",
+  "evidence": [
+   "the-church::0273"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "Virtue; a cellaress with Premonitions of unexpected visitors could be entertaining.",
+  "evidence": [
+   "the-church::0278"
+  ]
+ },
+ {
+  "name": "Herbalism (Virtue)",
+  "type": "Virtue",
+  "description": "Virtue giving access to the Herbalism Ability, held by a nunnery's herbalist.",
+  "evidence": [
+   "the-church::0281"
+  ]
+ },
+ {
+  "name": "Privileged Upbringing",
+  "type": "Virtue",
+  "aliases": [
+   "Privileged Background"
+  ],
+  "description": "Common Virtue for nuns from noble families.",
+  "evidence": [
+   "the-church::0315",
+   "the-church::0319"
+  ]
+ },
+ {
+  "name": "Apt Student",
+  "type": "Virtue",
+  "description": "Virtue enhancing learning, suitable for a scholarly nun.",
+  "evidence": [
+   "the-church::0319"
+  ]
+ },
+ {
+  "name": "Book Learner",
+  "type": "Virtue",
+  "description": "Virtue enhancing learning from books, suitable for a scholarly nun.",
+  "evidence": [
+   "the-church::0319"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "description": "Virtue that spares a Gifted girl the distrust The Gift normally causes in a nunnery.",
+  "evidence": [
+   "the-church::0322"
+  ]
+ },
+ {
+  "name": "Faerie Friend",
+  "type": "Virtue",
+  "description": "Virtue that can make a girl too much trouble for her family, leading to a nunnery.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Ghostly Warder",
+  "type": "Virtue",
+  "description": "Virtue that can lead a family to place a girl in a nunnery.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Strong Faerie Blood",
+  "type": "Virtue",
+  "description": "Virtue that can give an unnatural appearance off-putting to suitors.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Virtue",
+  "description": "Virtue that can give an unnatural appearance off-putting to suitors.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Major Virtue; some mystics' visions derive from it.",
+  "evidence": [
+   "the-church::0358"
+  ]
+ },
+ {
+  "name": "Understanding (Virtue)",
+  "type": "Virtue",
+  "description": "Major Virtue and Supernatural Power of Understanding associated with True Faith mystics.",
+  "evidence": [
+   "the-church::0358"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Virtue",
+  "description": "Major Virtue and Supernatural Method required for the Understanding power.",
+  "evidence": [
+   "the-church::0358",
+   "the-church::0359"
+  ]
+ },
+ {
+  "name": "Monastic Vows (Flaw)",
+  "type": "Flaw",
+  "description": "Story Flaw for religious characters living outside their community where keeping vows is a struggle.",
+  "evidence": [
+   "the-church::0298",
+   "the-church::0315"
+  ]
+ },
+ {
+  "name": "Regular",
+  "type": "Flaw",
+  "description": "Minor Flaw often appropriate for nuns.",
+  "evidence": [
+   "the-church::0315"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entity",
+  "type": "Flaw",
+  "description": "Flaw that can make a girl too much trouble for her family.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "description": "Flaw that can make a girl too much trouble for her family.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Crippled",
+  "type": "Flaw",
+  "description": "Flaw making a woman unmarriageable and likely placed in a nunnery.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "description": "Flaw making a woman unmarriageable and likely placed in a nunnery.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Hunchback",
+  "type": "Flaw",
+  "description": "Flaw making a woman unmarriageable and likely placed in a nunnery.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Tainted with Evil",
+  "type": "Flaw",
+  "description": "Flaw that makes a nunnery reluctant to accept a girl.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Simple-Minded",
+  "type": "Flaw",
+  "description": "Flaw; such characters may still be married off if attractive or wealthy.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Social Handicap",
+  "type": "Flaw",
+  "description": "Flaw category that may lead a husband to send his wife to a nunnery.",
+  "evidence": [
+   "the-church::0323"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [
+   "The Blatant Gift"
+  ],
+  "description": "Flaw; a poor nunnery might accept a girl with it for a generous endowment, and a maga with it may suit a hermit life.",
+  "evidence": [
+   "the-church::0322",
+   "the-church::0348"
+  ]
+ },
+ {
+  "name": "Curse of Venus",
+  "type": "Flaw",
+  "description": "Flaw hidden in a young nun until a younger confessor arrives.",
+  "evidence": [
+   "the-church::0333"
+  ]
+ },
+ {
+  "name": "Ability Block: Academic",
+  "type": "Flaw",
+  "description": "Flaw covering the illiteracy of most beguines and penitents.",
+  "evidence": [
+   "the-church::0346"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "description": "Flaw covering most religious mystics' experiences.",
+  "evidence": [
+   "the-church::0358"
+  ]
+ },
+ {
+  "name": "Monk",
+  "type": "CharacterType",
+  "description": "Male religious living under a rule in a monastery.",
+  "evidence": [
+   "the-church::0245",
+   "the-church::0246",
+   "the-church::0256"
+  ]
+ },
+ {
+  "name": "Nun",
+  "type": "CharacterType",
+  "aliases": [
+   "holy sister"
+  ],
+  "description": "Female religious living under a rule in a nunnery, usually of noble birth and strictly enclosed.",
+  "evidence": [
+   "the-church::0246",
+   "the-church::0303",
+   "the-church::0315"
+  ]
+ },
+ {
+  "name": "Abbot",
+  "type": "CharacterType",
+  "aliases": [
+   "Lord Abbot"
+  ],
+  "description": "Ruler and spiritual father of a monastery, elected for life and often very powerful.",
+  "evidence": [
+   "the-church::0270",
+   "the-church::0271",
+   "the-church::0272"
+  ]
+ },
+ {
+  "name": "Abbess",
+  "type": "CharacterType",
+  "description": "Head of a larger nunnery, the most powerful position a woman can normally attain.",
+  "evidence": [
+   "the-church::0272",
+   "the-church::0273"
+  ]
+ },
+ {
+  "name": "Prior",
+  "type": "CharacterType",
+  "aliases": [
+   "Prioress",
+   "sub-prior"
+  ],
+  "description": "Second in command to the abbot, or head of a priory, handling administration and outside relations.",
+  "evidence": [
+   "the-church::0274",
+   "the-church::0275"
+  ]
+ },
+ {
+  "name": "Terrar",
+  "type": "CharacterType",
+  "description": "A monastery's land agent responsible for estates, tithes and accounts.",
+  "evidence": [
+   "the-church::0276",
+   "the-church::0279"
+  ]
+ },
+ {
+  "name": "Cellarer",
+  "type": "CharacterType",
+  "aliases": [
+   "Cellaress"
+  ],
+  "description": "Official responsible for provision of food and drink.",
+  "evidence": [
+   "the-church::0277",
+   "the-church::0278"
+  ]
+ },
+ {
+  "name": "Bursar",
+  "type": "CharacterType",
+  "description": "Official combining cellarer and terrar in smaller houses, or keeping internal accounts in larger ones.",
+  "evidence": [
+   "the-church::0279"
+  ]
+ },
+ {
+  "name": "Infirmarian",
+  "type": "CharacterType",
+  "description": "Religious who cares for the sick and elderly and the health of the community.",
+  "evidence": [
+   "the-church::0266",
+   "the-church::0280",
+   "the-church::0281"
+  ]
+ },
+ {
+  "name": "Head of the Novitiate",
+  "type": "CharacterType",
+  "description": "Official responsible for those preparing to take religious vows.",
+  "evidence": [
+   "the-church::0282"
+  ]
+ },
+ {
+  "name": "Sacrist",
+  "type": "CharacterType",
+  "description": "Official responsible for vestments, candles, incense and upkeep of the church.",
+  "evidence": [
+   "the-church::0283"
+  ]
+ },
+ {
+  "name": "Sacristan",
+  "type": "CharacterType",
+  "description": "Monk who rouses the others with a bell for Matins.",
+  "evidence": [
+   "the-church::0249"
+  ]
+ },
+ {
+  "name": "Precentor",
+  "type": "CharacterType",
+  "description": "Monk responsible for music and chants.",
+  "evidence": [
+   "the-church::0284"
+  ]
+ },
+ {
+  "name": "Porter",
+  "type": "CharacterType",
+  "aliases": [
+   "Porteress"
+  ],
+  "description": "Religious who answers the monastery door and receives gifts.",
+  "evidence": [
+   "the-church::0260",
+   "the-church::0285",
+   "the-church::0296"
+  ]
+ },
+ {
+  "name": "Hostillar",
+  "type": "CharacterType",
+  "description": "Monk in charge of the guest house, not bound by silence; most often dealt with by visitors.",
+  "evidence": [
+   "the-church::0286",
+   "the-church::0296"
+  ]
+ },
+ {
+  "name": "Almoner",
+  "type": "CharacterType",
+  "description": "Monk responsible for distributing surplus food to beggars at the gate.",
+  "evidence": [
+   "the-church::0287"
+  ]
+ },
+ {
+  "name": "Chancellor",
+  "type": "CharacterType",
+  "description": "Monastic librarian overseeing the scriptorium and access to books.",
+  "evidence": [
+   "the-church::0288",
+   "the-church::0294"
+  ]
+ },
+ {
+  "name": "Dean of Order",
+  "type": "CharacterType",
+  "description": "Monk, one per ten, responsible for keeping good order among his brethren.",
+  "evidence": [
+   "the-church::0257"
+  ]
+ },
+ {
+  "name": "Vicar",
+  "type": "CharacterType",
+  "description": "Priest appointed by a monastery to administer a parish it holds, paid a wage while the monastery takes the tithe.",
+  "evidence": [
+   "the-church::0295"
+  ]
+ },
+ {
+  "name": "Curate",
+  "type": "CharacterType",
+  "description": "Priest who performs a parish's duties on behalf of an absent rector.",
+  "evidence": [
+   "the-church::0240",
+   "the-church::0241"
+  ]
+ },
+ {
+  "name": "Canon",
+  "type": "CharacterType",
+  "description": "Clergy of a church or cathedral chapter; examples specialize in Church Lore.",
+  "evidence": [
+   "the-church::0242",
+   "the-church::0290"
+  ]
+ },
+ {
+  "name": "Canoness",
+  "type": "CharacterType",
+  "description": "Woman who takes vows of chastity and obedience under a rule, usually Augustinian, but may own property and is more urban and active than nuns.",
+  "evidence": [
+   "the-church::0339"
+  ]
+ },
+ {
+  "name": "Beguine",
+  "type": "CharacterType",
+  "aliases": [
+   "holy women"
+  ],
+  "description": "Pious laywoman living chastely in prayer and good works without formal vows, alone, with family or in a beguinage.",
+  "evidence": [
+   "the-church::0340",
+   "the-church::0341",
+   "the-church::0342"
+  ]
+ },
+ {
+  "name": "Beghard",
+  "type": "CharacterType",
+  "description": "A man living chastely following the beguine lifestyle.",
+  "evidence": [
+   "the-church::0341"
+  ]
+ },
+ {
+  "name": "Penitent",
+  "type": "CharacterType",
+  "aliases": [
+   "bizzoca",
+   "bizzoche",
+   "pinzocheri",
+   "continentes"
+  ],
+  "description": "Woman living a permanent religious life of penitential practices in small groups, known as bizzoca, pinzocheri or continentes.",
+  "evidence": [
+   "the-church::0345",
+   "the-church::0346"
+  ]
+ },
+ {
+  "name": "Anchoress",
+  "type": "CharacterType",
+  "aliases": [
+   "anchorite"
+  ],
+  "description": "Woman enclosed in a cell attached to a church, respected and able to interact through her window, served by female servants.",
+  "evidence": [
+   "the-church::0351",
+   "the-church::0352",
+   "the-church::0346"
+  ]
+ },
+ {
+  "name": "Hermit",
+  "type": "CharacterType",
+  "aliases": [
+   "Recluse"
+  ],
+  "description": "Holy recluse living alone; women living so may be suspected of witchcraft.",
+  "evidence": [
+   "the-church::0348",
+   "the-church::0350"
+  ]
+ },
+ {
+  "name": "Mystic",
+  "type": "CharacterType",
+  "description": "Religious receiving visions and prophecy believed to come from God.",
+  "evidence": [
+   "the-church::0358",
+   "the-church::0359"
+  ]
+ },
+ {
+  "name": "Principal Mistress",
+  "type": "CharacterType",
+  "description": "Woman selected annually to lead a large beguinage.",
+  "evidence": [
+   "the-church::0344"
+  ]
+ },
+ {
+  "name": "Herbalist",
+  "type": "CharacterType",
+  "description": "Nunnery official with the Herbalism Virtue who cultivates herbs.",
+  "evidence": [
+   "the-church::0281",
+   "the-church::0337"
+  ]
+ },
+ {
+  "name": "Tempter",
+  "type": "Creature",
+  "description": "A kind of demon busy in nunneries, using those without real vocation to spread sin.",
+  "evidence": [
+   "the-church::0327",
+   "the-church::0330",
+   "the-church::0337"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "description": "Hermetic messenger; a traveling Redcap might discover a Gifted nun.",
+  "evidence": [
+   "the-church::0317"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitor"
+  ],
+  "description": "Hermetic investigators whose attention covenants fear if links to nunneries are exposed.",
+  "evidence": [
+   "the-church::0301",
+   "the-church::0317",
+   "the-church::0336"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of magi, which covenants must conceal from inquisitive clergy.",
+  "evidence": [
+   "the-church::0302"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House; a story seed features a Jerbiton maga disguised as a penitent.",
+  "evidence": [
+   "the-church::0356"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "description": "Diabolist; a story seed involves an Infernalist cult in a monastery.",
+  "evidence": [
+   "the-church::0263"
+  ]
+ },
+ {
+  "name": "Nitibus",
+  "type": "Creature",
+  "description": "A demon from Realms of Power: The Infernal usable as the Tempter who spirits away a nun.",
+  "evidence": [
+   "the-church::0337"
+  ]
+ },
+ {
+  "name": "Leap of Homecoming",
+  "type": "Spell",
+  "description": "Spell an anchoress might use to leave her cell for another location and later return.",
+  "evidence": [
+   "the-church::0356"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "description": "The ecclesiastical institution of Mythic Europe that governs religious life and polices nuns and beguines.",
+  "evidence": [
+   "the-church::0272",
+   "the-church::0305",
+   "the-church::0343"
+  ]
+ },
+ {
+  "name": "Orthodox Church",
+  "type": "Faction",
+  "aliases": [
+   "Orthodox faith"
+  ],
+  "description": "Eastern Christian faith whose religious follow different traditions.",
+  "evidence": [
+   "the-church::0244"
+  ]
+ },
+ {
+  "name": "Benedictines",
+  "type": "Faction",
+  "aliases": [
+   "Benedictine order"
+  ],
+  "description": "Religious order following the Rule of Saint Benedict, to which most monks in western Mythic Europe belong; its abbeys hold great wealth.",
+  "evidence": [
+   "the-church::0245",
+   "the-church::0268",
+   "the-church::0295"
+  ]
+ },
+ {
+  "name": "Cistercians",
+  "type": "Faction",
+  "aliases": [
+   "Cistercian"
+  ],
+  "description": "Monastic order that acknowledged nunneries only from 1213; detailed in Chapter 6.",
+  "evidence": [
+   "the-church::0262",
+   "the-church::0289",
+   "the-church::0307"
+  ]
+ },
+ {
+  "name": "Cluniacs",
+  "type": "Faction",
+  "aliases": [
+   "Cluniac"
+  ],
+  "description": "Monastic order detailed in Chapter 6: The Corrupt.",
+  "evidence": [
+   "the-church::0262",
+   "the-church::0289"
+  ]
+ },
+ {
+  "name": "Vallumbrosans",
+  "type": "Faction",
+  "description": "Monastic order detailed in Chapter 6: The Corrupt.",
+  "evidence": [
+   "the-church::0289"
+  ]
+ },
+ {
+  "name": "Augustinian Canons",
+  "type": "Faction",
+  "aliases": [
+   "Black Canons"
+  ],
+  "description": "Regular clergy under the Rule of Saint Augustine found in cathedral chapters, known as Black Canons, generous in alms.",
+  "evidence": [
+   "the-church::0289",
+   "the-church::0290"
+  ]
+ },
+ {
+  "name": "Carthusians",
+  "type": "Faction",
+  "description": "Austere order of monks and nuns following the Statutes of Saint Bruno, living in individual cells in complete silence.",
+  "evidence": [
+   "the-church::0290",
+   "the-church::0291"
+  ]
+ },
+ {
+  "name": "Gilbertines",
+  "type": "Faction",
+  "description": "Double English order founded in 1130 at Sempringham by Saint Gilbert, with black habit and white cowl.",
+  "evidence": [
+   "the-church::0291"
+  ]
+ },
+ {
+  "name": "Premonstratensians",
+  "type": "Faction",
+  "description": "Order founded by Saint Norbert with 12 disciples, following the Rule of Augustine; converted the Wends and admits only monks since 1198.",
+  "evidence": [
+   "the-church::0291",
+   "the-church::0307"
+  ]
+ },
+ {
+  "name": "Trinitarians",
+  "type": "Faction",
+  "aliases": [
+   "Red Friars"
+  ],
+  "description": "Order known as Red Friars, founded in 1198 in France to ransom Christian captives.",
+  "evidence": [
+   "the-church::0292"
+  ]
+ },
+ {
+  "name": "Carmelite Order",
+  "type": "Faction",
+  "aliases": [
+   "Order of Our Lady of Mount Carmel",
+   "Carmelites"
+  ],
+  "description": "Order of Our Lady of Mount Carmel, originating from hermits on Mount Carmel in the Holy Land devoted to solitude and penance.",
+  "evidence": [
+   "the-church::0350"
+  ]
+ },
+ {
+  "name": "Franciscans",
+  "type": "Faction",
+  "aliases": [
+   "friars"
+  ],
+  "description": "Mendicant order of friars, followers of Francis, the strongest new spiritual movement.",
+  "evidence": [
+   "the-church::0289",
+   "the-church::0326"
+  ]
+ },
+ {
+  "name": "Templars",
+  "type": "Faction",
+  "description": "Military order discussed in Chapter 9.",
+  "evidence": [
+   "the-church::0289",
+   "the-church::0290"
+  ]
+ },
+ {
+  "name": "Beguine Movement",
+  "type": "Faction",
+  "description": "New way of life for pious women arising in northern France, Flanders and Germany in the early 13th century.",
+  "evidence": [
+   "the-church::0339",
+   "the-church::0340"
+  ]
+ },
+ {
+  "name": "Wends",
+  "type": "Faction",
+  "description": "People converted by the Premonstratensians.",
+  "evidence": [
+   "the-church::0291"
+  ]
+ },
+ {
+  "name": "Saint Benedict",
+  "type": "Character",
+  "aliases": [
+   "Benedict"
+  ],
+  "description": "Author of the Rule of Saint Benedict followed by most monks of western Mythic Europe.",
+  "evidence": [
+   "the-church::0245",
+   "the-church::0254"
+  ]
+ },
+ {
+  "name": "Saint Augustine",
+  "type": "Character",
+  "aliases": [
+   "Augustine"
+  ],
+  "description": "Author of the Rule of Augustine; his writings inspired the first rules for nuns.",
+  "evidence": [
+   "the-church::0289",
+   "the-church::0310"
+  ]
+ },
+ {
+  "name": "Saint Bruno",
+  "type": "Character",
+  "description": "Author of the Statutes followed by the Carthusians.",
+  "evidence": [
+   "the-church::0290"
+  ]
+ },
+ {
+  "name": "Saint Gilbert",
+  "type": "Character",
+  "aliases": [
+   "Gilbert"
+  ],
+  "description": "Founder of the Gilbertines, died 1190 and canonized 1202; feast on February 4th.",
+  "evidence": [
+   "the-church::0291"
+  ]
+ },
+ {
+  "name": "Saint Norbert",
+  "type": "Character",
+  "description": "Founder of the Premonstratensians with 12 disciples.",
+  "evidence": [
+   "the-church::0291"
+  ]
+ },
+ {
+  "name": "Saint Alban",
+  "type": "Character",
+  "description": "Martyr whose shrine inspired Christina of Markyate to vow virginity.",
+  "evidence": [
+   "the-church::0324"
+  ]
+ },
+ {
+  "name": "Samson",
+  "type": "Character",
+  "aliases": [
+   "Lord Abbot Samson"
+  ],
+  "description": "Example abbot addressed as 'Lord Abbot Samson'.",
+  "evidence": [
+   "the-church::0256"
+  ]
+ },
+ {
+  "name": "King John of England",
+  "type": "Character",
+  "aliases": [
+   "King John"
+  ],
+  "description": "King who intervened in the election of the abbot of Bury Saint Edmunds in 1210.",
+  "evidence": [
+   "the-church::0270",
+   "the-church::0271"
+  ]
+ },
+ {
+  "name": "Robert of Arbrissel",
+  "type": "Character",
+  "description": "Charismatic hermit and preacher who founded the Abbey of Fontrevrault in 1100.",
+  "evidence": [
+   "the-church::0308"
+  ]
+ },
+ {
+  "name": "Henry II",
+  "type": "Character",
+  "description": "King of England interred at Fontrevrault; founded its daughter house at Amesbury.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Richard I",
+  "type": "Character",
+  "description": "King of England interred at Fontrevrault.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Eleanor of Aquitaine",
+  "type": "Character",
+  "description": "Queen who spent her last ten years at Fontrevrault and was buried there in 1204.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Berthe",
+  "type": "Character",
+  "description": "Abbess of Fontrevrault in 1220, in charge for two years.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Eleanor of England",
+  "type": "Character",
+  "description": "Daughter of Henry II and Eleanor of Aquitaine who married Alfonso VIII and co-founded Las Huelgas in 1187.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Alfonso VIII of Castile",
+  "type": "Character",
+  "description": "King who with his wife Eleanor founded the nunnery of Las Huelgas near Burgos.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Constance",
+  "type": "Character",
+  "description": "Daughter of Alfonso VIII and abbess of Las Huelgas in 1220, a very powerful woman.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Pope Innocent III",
+  "type": "Character",
+  "description": "Pope who wrote in 1210 trying to stop the abbess of Las Huelgas from preaching and hearing confessions.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Héloïse",
+  "type": "Character",
+  "aliases": [
+   "Heloise"
+  ],
+  "description": "Famous nun, disappointed lover of Peter Abelard, prioress at Argenteuil and abbess of the Paraclete.",
+  "evidence": [
+   "the-church::0320",
+   "the-church::0321"
+  ]
+ },
+ {
+  "name": "Peter Abelard",
+  "type": "Character",
+  "aliases": [
+   "Abelard"
+  ],
+  "description": "Scholar of the University of Paris, tutor and secret husband of Héloïse, sent disgraced to a monastery.",
+  "evidence": [
+   "the-church::0321"
+  ]
+ },
+ {
+  "name": "Canon Fulbert",
+  "type": "Character",
+  "aliases": [
+   "Fulbert"
+  ],
+  "description": "Canon of Notre Dame and uncle of Héloïse who hired Abelard as her tutor.",
+  "evidence": [
+   "the-church::0321"
+  ]
+ },
+ {
+  "name": "Christina of Markyate",
+  "type": "Character",
+  "aliases": [
+   "Christina"
+  ],
+  "description": "Noble Anglo-Saxon girl from Huntingdon who vowed virginity and resisted her forced marriage to Burthred.",
+  "evidence": [
+   "the-church::0323",
+   "the-church::0324",
+   "the-church::0325"
+  ]
+ },
+ {
+  "name": "Burthred",
+  "type": "Character",
+  "description": "Young man betrothed and married to Christina of Markyate, who refused him.",
+  "evidence": [
+   "the-church::0324",
+   "the-church::0325"
+  ]
+ },
+ {
+  "name": "Hildegard of Bingen",
+  "type": "Character",
+  "description": "Example of a strong, influential female religious famed as a scholar and mystic.",
+  "evidence": [
+   "the-church::0297",
+   "the-church::0319"
+  ]
+ },
+ {
+  "name": "Caesarius of Arles",
+  "type": "Character",
+  "description": "Author of the first regulations specifically for nuns in the early sixth century.",
+  "evidence": [
+   "the-church::0310"
+  ]
+ },
+ {
+  "name": "John Cassian",
+  "type": "Character",
+  "description": "Early writer whose works inspired the first rules for nuns.",
+  "evidence": [
+   "the-church::0310"
+  ]
+ },
+ {
+  "name": "Elijah",
+  "type": "Character",
+  "description": "Prophet whose well lies on Mount Carmel.",
+  "evidence": [
+   "the-church::0350"
+  ]
+ },
+ {
+  "name": "Saint Francis",
+  "type": "Character",
+  "aliases": [
+   "Francis"
+  ],
+  "description": "Founder of the Franciscan movement, whose followers are the strongest new spiritual development.",
+  "evidence": [
+   "the-church::0326"
+  ]
+ },
+ {
+  "name": "Isabelle the Beautiful",
+  "type": "Character",
+  "description": "Living Covenant character who could be modified into a covenant religious.",
+  "evidence": [
+   "the-church::0299"
+  ]
+ },
+ {
+  "name": "Curious Nun",
+  "type": "Character",
+  "description": "Example character from Realms of Power: The Divine who could join a covenant as a refugee.",
+  "evidence": [
+   "the-church::0299"
+  ]
+ },
+ {
+  "name": "Cunfin",
+  "type": "Covenant",
+  "aliases": [
+   "covenant of Cunfin"
+  ],
+  "description": "Covenant hidden in a regio at a Cistercian monastery in Champagne, France.",
+  "evidence": [
+   "the-church::0298"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting whose religious life the chapter describes.",
+  "evidence": [
+   "the-church::0244",
+   "the-church::0245",
+   "the-church::0254"
+  ]
+ },
+ {
+  "name": "Llanthony Priory",
+  "type": "Place",
+  "description": "Welsh priory whose orchard extends over twelve acres.",
+  "evidence": [
+   "the-church::0252"
+  ]
+ },
+ {
+  "name": "Saint Gall",
+  "type": "Place",
+  "description": "Alpine monastery with just thirteen trees among its graves.",
+  "evidence": [
+   "the-church::0252"
+  ]
+ },
+ {
+  "name": "Bury Saint Edmunds",
+  "type": "Place",
+  "aliases": [
+   "Bury St. Edmunds"
+  ],
+  "description": "Great English abbey in Suffolk controlling over 150 manors and fifty knights; King John intervened in its election in 1210.",
+  "evidence": [
+   "the-church::0270",
+   "the-church::0271"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "description": "Kingdom with some seven hundred monasteries in 1220 holding one fifth of the nation's wealth.",
+  "evidence": [
+   "the-church::0271",
+   "the-church::0291",
+   "the-church::0295"
+  ]
+ },
+ {
+  "name": "Wales",
+  "type": "Place",
+  "description": "Region where Llanthony Priory lies.",
+  "evidence": [
+   "the-church::0252"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "Seat of the pope, where rival abbot candidates seek confirmation.",
+  "evidence": [
+   "the-church::0269"
+  ]
+ },
+ {
+  "name": "Sempringham",
+  "type": "Place",
+  "description": "Place in Lincolnshire where the Gilbertines were founded in 1130.",
+  "evidence": [
+   "the-church::0291"
+  ]
+ },
+ {
+  "name": "Fontrevrault",
+  "type": "Place",
+  "aliases": [
+   "Abbey of Fontrevrault",
+   "Fontevrault"
+  ],
+  "description": "Abbey founded in 1100 by Robert of Arbrissel in the Forest of Bart, Anjou; a double house headed by an abbess and royal burial place.",
+  "evidence": [
+   "the-church::0308",
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Forest of Bart",
+  "type": "Place",
+  "description": "Forest in Anjou where Fontrevrault was founded.",
+  "evidence": [
+   "the-church::0308"
+  ]
+ },
+ {
+  "name": "Anjou",
+  "type": "Place",
+  "description": "Region of Fontrevrault, tied to the royal family of Aquitaine and Anjou.",
+  "evidence": [
+   "the-church::0308",
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Amesbury",
+  "type": "Place",
+  "description": "English daughter house of Fontrevrault founded by Henry II.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Las Huelgas",
+  "type": "Place",
+  "description": "Richest nunnery under the Cistercian Rule, near Burgos, founded in 1187; royal burial place.",
+  "evidence": [
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Burgos",
+  "type": "Place",
+  "description": "Castilian diocese near Las Huelgas.",
+  "evidence": [
+   "the-church::0306",
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Palencia",
+  "type": "Place",
+  "description": "Castilian diocese exceptional regarding nunnery chaplains.",
+  "evidence": [
+   "the-church::0306"
+  ]
+ },
+ {
+  "name": "Castile",
+  "type": "Place",
+  "description": "Kingdom of Alfonso VIII.",
+  "evidence": [
+   "the-church::0306",
+   "the-church::0309"
+  ]
+ },
+ {
+  "name": "Coldingham",
+  "type": "Place",
+  "description": "Double foundation burned down on account of the nuns' vanity.",
+  "evidence": [
+   "the-church::0307"
+  ]
+ },
+ {
+  "name": "University of Paris",
+  "type": "Place",
+  "description": "Young university where Peter Abelard taught.",
+  "evidence": [
+   "the-church::0321"
+  ]
+ },
+ {
+  "name": "Notre Dame",
+  "type": "Place",
+  "description": "Church in Paris of which Fulbert was a canon.",
+  "evidence": [
+   "the-church::0321"
+  ]
+ },
+ {
+  "name": "Argenteuil",
+  "type": "Place",
+  "description": "Nunnery where Héloïse was prioress.",
+  "evidence": [
+   "the-church::0321"
+  ]
+ },
+ {
+  "name": "The Paraclete",
+  "type": "Place",
+  "aliases": [
+   "Paraclete"
+  ],
+  "description": "Nunnery where Héloïse was abbess.",
+  "evidence": [
+   "the-church::0321"
+  ]
+ },
+ {
+  "name": "Huntingdon",
+  "type": "Place",
+  "description": "English town where Christina of Markyate was born.",
+  "evidence": [
+   "the-church::0324"
+  ]
+ },
+ {
+  "name": "Champagne",
+  "type": "Place",
+  "description": "Region of France where the covenant of Cunfin lies.",
+  "evidence": [
+   "the-church::0298"
+  ]
+ },
+ {
+  "name": "Flanders",
+  "type": "Place",
+  "description": "Region where the beguine movement began and many mystics live.",
+  "evidence": [
+   "the-church::0339",
+   "the-church::0340",
+   "the-church::0359"
+  ]
+ },
+ {
+  "name": "Beguinage of Saint Elizabeth",
+  "type": "Place",
+  "description": "Very substantial beguinage in Ghent enclosed by ditches and a wall.",
+  "evidence": [
+   "the-church::0344"
+  ]
+ },
+ {
+  "name": "Ghent",
+  "type": "Place",
+  "description": "City of the beguinage of Saint Elizabeth.",
+  "evidence": [
+   "the-church::0344"
+  ]
+ },
+ {
+  "name": "Mount Carmel",
+  "type": "Place",
+  "description": "Mountain in the Holy Land where Carmelite hermits live in caves around Elijah's well.",
+  "evidence": [
+   "the-church::0350"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Region where the Carmelite Order originated.",
+  "evidence": [
+   "the-church::0350"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "Seat of the papal legate who approved the Carmelite rule.",
+  "evidence": [
+   "the-church::0350"
+  ]
+ },
+ {
+  "name": "Provence",
+  "type": "Place",
+  "description": "Region where Augustinian canons staff cathedrals and penitents are called bizzoche.",
+  "evidence": [
+   "the-church::0290",
+   "the-church::0345"
+  ]
+ },
+ {
+  "name": "Bavaria",
+  "type": "Place",
+  "description": "Region where Augustinian canons staff many cathedrals.",
+  "evidence": [
+   "the-church::0290"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "aliases": [
+   "northern Italy"
+  ],
+  "description": "Northern Italy is where the penitent movement began.",
+  "evidence": [
+   "the-church::0345"
+  ]
+ },
+ {
+  "name": "Germany",
+  "type": "Place",
+  "description": "Region with many mystics and early beguines.",
+  "evidence": [
+   "the-church::0340",
+   "the-church::0359"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "description": "Kingdom where the Trinitarians were founded in 1198.",
+  "evidence": [
+   "the-church::0292",
+   "the-church::0298"
+  ]
+ }
+]

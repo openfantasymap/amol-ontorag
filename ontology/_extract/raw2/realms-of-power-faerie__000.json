@@ -1,0 +1,1362 @@
+[
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "Faerie Realm",
+   "Realm of Enchantment",
+   "Faerieland",
+   "Fae"
+  ],
+  "description": "The realm of power in Mythic Europe most associated with human belief, where stories are born, live, and die; generally weaker than the Divine and Infernal but closest in nature to Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0011",
+   "realms-of-power-faerie::0012",
+   "realms-of-power-faerie::0084"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Divine realm",
+   "Dominion"
+  ],
+  "description": "The realm of power that easily dominates Faerie and discourages pagan worship; its Dominion aura covers human settlements and penalizes faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0012",
+   "realms-of-power-faerie::0013",
+   "realms-of-power-faerie::0089"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "Infernal realm",
+   "Hell"
+  ],
+  "description": "The realm of power that seeks to undermine and corrupt Faerie; faeries subverted by demons are treated by the Divine as devils.",
+  "evidence": [
+   "realms-of-power-faerie::0012",
+   "realms-of-power-faerie::0014",
+   "realms-of-power-faerie::0060"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [
+   "Magic Realm"
+  ],
+  "description": "The realm with most in common with Faerie; faeries are not penalized by Magic auras, and Magic favors old subjects rooted in the natural order.",
+  "evidence": [
+   "realms-of-power-faerie::0015",
+   "realms-of-power-faerie::0085"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting of Ars Magica, in whose realms of power Faerie is described.",
+  "evidence": [
+   "realms-of-power-faerie::0000",
+   "realms-of-power-faerie::0010",
+   "realms-of-power-faerie::0011"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "The part of the Faerie Realm where new stories made to entertain arise, traversed by the Path of Chance; some say faeries retreat there when they cease their roles.",
+  "evidence": [
+   "realms-of-power-faerie::0085",
+   "realms-of-power-faerie::0087",
+   "realms-of-power-faerie::0023"
+  ]
+ },
+ {
+  "name": "Elysium",
+  "type": "Place",
+  "aliases": [],
+  "description": "The world of the Faerie Realm holding myths and tales of great deeds, where characters meet heroes, villains and faerie gods; reached by the Path of Destiny.",
+  "evidence": [
+   "realms-of-power-faerie::0085",
+   "realms-of-power-faerie::0087",
+   "realms-of-power-faerie::0098"
+  ]
+ },
+ {
+  "name": "Eudokia",
+  "type": "Place",
+  "aliases": [],
+  "description": "The world of the Faerie Realm where one's personal story, moral dilemma, or life transition is told; reached by the Path of Choice.",
+  "evidence": [
+   "realms-of-power-faerie::0085",
+   "realms-of-power-faerie::0087",
+   "realms-of-power-faerie::0096"
+  ]
+ },
+ {
+  "name": "Path of Chance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The route through the Faerie Realm that wends through Arcadia, a land of pure adventure among fragments of stories yet to be told.",
+  "evidence": [
+   "realms-of-power-faerie::0086",
+   "realms-of-power-faerie::0087"
+  ]
+ },
+ {
+  "name": "Path of Destiny",
+  "type": "Concept",
+  "aliases": [
+   "Road of Destiny"
+  ],
+  "description": "The straighter route through Elysium, where characters relive allegorical stories whose outcomes are already established.",
+  "evidence": [
+   "realms-of-power-faerie::0086",
+   "realms-of-power-faerie::0087"
+  ]
+ },
+ {
+  "name": "Path of Choice",
+  "type": "Concept",
+  "aliases": [
+   "Forked Path",
+   "Forking Path"
+  ],
+  "description": "The route twisting through Eudokia, where characters' morals and emotions drive personal change.",
+  "evidence": [
+   "realms-of-power-faerie::0086",
+   "realms-of-power-faerie::0087"
+  ]
+ },
+ {
+  "name": "The Three Worlds",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The three paradigms of the Faerie Realm, Arcadia, Elysium and Eudokia, corresponding to stories that entertain, record history, or teach.",
+  "evidence": [
+   "realms-of-power-faerie::0085",
+   "realms-of-power-faerie::0086"
+  ]
+ },
+ {
+  "name": "Mother Road",
+  "type": "Place",
+  "aliases": [
+   "The Mother Road"
+  ],
+  "description": "The source of all roads, identified with the Faerie Realm itself, used to traverse vast distances swiftly via trods.",
+  "evidence": [
+   "realms-of-power-faerie::0069",
+   "realms-of-power-faerie::0111",
+   "realms-of-power-faerie::0112"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The intricate mystical rules (a corruption of 'grammar') a faerie must follow, defining its nature, powers, appearance and how it seeks vitality; faeries have glamour instead of a soul.",
+  "evidence": [
+   "realms-of-power-faerie::0017",
+   "realms-of-power-faerie::0023",
+   "realms-of-power-faerie::0113"
+  ]
+ },
+ {
+  "name": "Vitality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Human energy borrowed by faeries that lets them feel, grow, learn and change; roused by emotion, art, offerings and life transitions.",
+  "evidence": [
+   "realms-of-power-faerie::0017",
+   "realms-of-power-faerie::0036",
+   "realms-of-power-faerie::0117"
+  ]
+ },
+ {
+  "name": "Cognizance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The degree to which a faerie understands its need for human vitality and the relationship between its glamour and role.",
+  "evidence": [
+   "realms-of-power-faerie::0017",
+   "realms-of-power-faerie::0018"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Virtue",
+  "aliases": [
+   "Incognizant Faeries"
+  ],
+  "description": "The lowest level of faerie cognizance: faeries unaware they feed on human vitality and without memory across bodies; the most common sort.",
+  "evidence": [
+   "realms-of-power-faerie::0019",
+   "realms-of-power-faerie::0018"
+  ]
+ },
+ {
+  "name": "Narrowly Cognizant",
+  "type": "Virtue",
+  "aliases": [
+   "Narrowly Cognizant Faeries"
+  ],
+  "description": "Faeries aware they feed on human vitality but understanding only a single narrow mechanism; their memories persist across bodies.",
+  "evidence": [
+   "realms-of-power-faerie::0020",
+   "realms-of-power-faerie::0104"
+  ]
+ },
+ {
+  "name": "Highly Cognizant",
+  "type": "Concept",
+  "aliases": [
+   "Highly Cognizant Faeries"
+  ],
+  "description": "Rare faeries aware of their needs who can seek creative humans, develop new powers and change roles.",
+  "evidence": [
+   "realms-of-power-faerie::0022",
+   "realms-of-power-faerie::0104"
+  ]
+ },
+ {
+  "name": "Role",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The series of symbols and rules a faerie cannot change or break through which it interacts with humans.",
+  "evidence": [
+   "realms-of-power-faerie::0017",
+   "realms-of-power-faerie::0024"
+  ]
+ },
+ {
+  "name": "Spiritual Anchor",
+  "type": "Concept",
+  "aliases": [
+   "Anchor",
+   "Anchors",
+   "Anchored vis"
+  ],
+  "description": "A mundane object into which a faerie writes its glamour, around which its body agglomerates; it holds the faerie's vis.",
+  "evidence": [
+   "realms-of-power-faerie::0024",
+   "realms-of-power-faerie::0025",
+   "realms-of-power-faerie::0079"
+  ]
+ },
+ {
+  "name": "Incidental Matter",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dust, water and other matter a faerie draws around its spiritual anchor to form its body.",
+  "evidence": [
+   "realms-of-power-faerie::0017",
+   "realms-of-power-faerie::0024"
+  ]
+ },
+ {
+  "name": "Stock Characters",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The caricatured folk-tale personas faeries often adopt when pretending to be human.",
+  "evidence": [
+   "realms-of-power-faerie::0028"
+  ]
+ },
+ {
+  "name": "Taboo",
+  "type": "Concept",
+  "aliases": [
+   "Taboos"
+  ],
+  "description": "Rules within a faerie's glamour forbidding or requiring actions; humans breaking them owe redress. Detailed as Flaws.",
+  "evidence": [
+   "realms-of-power-faerie::0029",
+   "realms-of-power-faerie::0079"
+  ]
+ },
+ {
+  "name": "Pretense",
+  "type": "Concept",
+  "aliases": [
+   "Pretenses"
+  ],
+  "description": "Minor magical powers by which faeries simulate human Abilities, costing no Might and needing no Concentration.",
+  "evidence": [
+   "realms-of-power-faerie::0030",
+   "realms-of-power-faerie::0031",
+   "realms-of-power-faerie::0080"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A mystical link; faerie possessions, speaking with, eating the food of, or bleeding for a faerie create Arcane Connections with Penetration multipliers.",
+  "evidence": [
+   "realms-of-power-faerie::0026",
+   "realms-of-power-faerie::0033",
+   "realms-of-power-faerie::0034"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "aliases": [
+   "Traditional Wards"
+  ],
+  "description": "Folk protections against faeries that can purge glamour links; violent faeries are fed by the wards used against them.",
+  "evidence": [
+   "realms-of-power-faerie::0033",
+   "realms-of-power-faerie::0041",
+   "realms-of-power-faerie::0107"
+  ]
+ },
+ {
+  "name": "Sovereign Ward",
+  "type": "Flaw",
+  "aliases": [
+   "Sovereign Wards"
+  ],
+  "description": "A ward against faeries capable of purging their glamour from a human, detailed in Faerie Characters.",
+  "evidence": [
+   "realms-of-power-faerie::0033",
+   "realms-of-power-faerie::0107"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by artists whose works lift the spirit and feed faeries; also lets humans change faeries through eloquence.",
+  "evidence": [
+   "realms-of-power-faerie::0033",
+   "realms-of-power-faerie::0040"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw that may be caused by a broken faerie taboo.",
+  "evidence": [
+   "realms-of-power-faerie::0029"
+  ]
+ },
+ {
+  "name": "Enemy",
+  "type": "Flaw",
+  "aliases": [
+   "Enemies"
+  ],
+  "description": "Story Flaw that may result from breaking a faerie's taboo.",
+  "evidence": [
+   "realms-of-power-faerie::0029"
+  ]
+ },
+ {
+  "name": "Faerie Aura",
+  "type": "Concept",
+  "aliases": [
+   "Faerie auras"
+  ],
+  "description": "Supernatural aura arising where the fae are strong, usually equal to the presiding faerie's Might/5; the Faerie Realm itself has an aura of 10.",
+  "evidence": [
+   "realms-of-power-faerie::0050",
+   "realms-of-power-faerie::0051",
+   "realms-of-power-faerie::0109"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [
+   "Auras"
+  ],
+  "description": "The supernatural presence of a realm in a place; Faerie auras rise and fall with faerie Might and conflict with other realms' auras.",
+  "evidence": [
+   "realms-of-power-faerie::0012",
+   "realms-of-power-faerie::0055",
+   "realms-of-power-faerie::0058"
+  ]
+ },
+ {
+  "name": "Extend Glamour",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie Power whose possessor creates an aura of (Faerie Might/5) over places it claims with its glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0051"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "aliases": [
+   "Might"
+  ],
+  "description": "The measure of a faerie's power, used for auras, Threshold interactions and powers.",
+  "evidence": [
+   "realms-of-power-faerie::0010",
+   "realms-of-power-faerie::0051",
+   "realms-of-power-faerie::0107"
+  ]
+ },
+ {
+  "name": "Camelot",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary Arthurian site duplicated by faeries in several places, near Edinburgh, in Winchester and near Caerleon.",
+  "evidence": [
+   "realms-of-power-faerie::0052"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [
+   "Arthur",
+   "Arthurs"
+  ],
+  "description": "Legendary king whose role is played by several faeries at Arthurian sites; a Merinita magus met at least three Arthurs.",
+  "evidence": [
+   "realms-of-power-faerie::0052"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal of a Merinita magus who explained how faeries flock to legendary sites.",
+  "evidence": [
+   "realms-of-power-faerie::0052"
+  ]
+ },
+ {
+  "name": "Edinburgh",
+  "type": "Place",
+  "aliases": [],
+  "description": "City in Scotland near which one faerie Camelot was found.",
+  "evidence": [
+   "realms-of-power-faerie::0052"
+  ]
+ },
+ {
+  "name": "Winchester",
+  "type": "Place",
+  "aliases": [],
+  "description": "English city within which one faerie Camelot was found.",
+  "evidence": [
+   "realms-of-power-faerie::0052"
+  ]
+ },
+ {
+  "name": "Caerleon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Welsh site near which one faerie Camelot was found.",
+  "evidence": [
+   "realms-of-power-faerie::0052"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Only in a small part of Scotland is the term glamour used in Mythic Europe.",
+  "evidence": [
+   "realms-of-power-faerie::0023",
+   "realms-of-power-faerie::0052"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Covenant ritual whose tokens allow a faerie to use its powers without facing the covenant's magical resistance.",
+  "evidence": [
+   "realms-of-power-faerie::0059",
+   "realms-of-power-faerie::0060"
+  ]
+ },
+ {
+  "name": "Terra Nullius",
+  "type": "Concept",
+  "aliases": [
+   "terra nullius"
+  ],
+  "description": "An area of another realm home to no conscious thing, which faeries sense and may enter freely.",
+  "evidence": [
+   "realms-of-power-faerie::0059"
+  ]
+ },
+ {
+  "name": "Queen of Winter",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Powerful incognizant faerie who kidnaps babies for sinister games and whose travelling glamour freezes villages.",
+  "evidence": [
+   "realms-of-power-faerie::0019",
+   "realms-of-power-faerie::0057"
+  ]
+ },
+ {
+  "name": "Bluebeard",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie role of a handsome husband who turns hideous when his wife breaks a taboo and sees his victims' corpses.",
+  "evidence": [
+   "realms-of-power-faerie::0024"
+  ]
+ },
+ {
+  "name": "Fata",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries who inconspicuously join weaving and gossip sessions among elderly village women, using Pretenses to weave.",
+  "evidence": [
+   "realms-of-power-faerie::0032",
+   "realms-of-power-faerie::0033"
+  ]
+ },
+ {
+  "name": "Brownie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Household faerie given milk on the doorstep, fed by traditional offerings.",
+  "evidence": [
+   "realms-of-power-faerie::0041"
+  ]
+ },
+ {
+  "name": "Vampire",
+  "type": "Creature",
+  "aliases": [
+   "vampiric faeries"
+  ],
+  "description": "Faerie fed by the tribute of garlic over windowsills, metaphysically like a brownie.",
+  "evidence": [
+   "realms-of-power-faerie::0000",
+   "realms-of-power-faerie::0041"
+  ]
+ },
+ {
+  "name": "Werewolf",
+  "type": "Creature",
+  "aliases": [
+   "werewolves"
+  ],
+  "description": "Example of an incognizant faerie, unaware it feeds on human fear rather than on sheep.",
+  "evidence": [
+   "realms-of-power-faerie::0019"
+  ]
+ },
+ {
+  "name": "Faerie Dragon",
+  "type": "Creature",
+  "aliases": [
+   "fey dragons",
+   "Dragon"
+  ],
+  "description": "Fey dragons that devour knights and feast on fear, or exist to be defeated.",
+  "evidence": [
+   "realms-of-power-faerie::0000",
+   "realms-of-power-faerie::0119"
+  ]
+ },
+ {
+  "name": "Faerie Court",
+  "type": "Faction",
+  "aliases": [
+   "courts of faeries",
+   "seasonal courts"
+  ],
+  "description": "Gatherings of faeries usually located in semi-settled land between wilderness and Dominion, sometimes near vis sources.",
+  "evidence": [
+   "realms-of-power-faerie::0050",
+   "realms-of-power-faerie::0051",
+   "realms-of-power-faerie::0078"
+  ]
+ },
+ {
+  "name": "Forest lord",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie ruling a forest whose aura falls when land is felled and tilled.",
+  "evidence": [
+   "realms-of-power-faerie::0055"
+  ]
+ },
+ {
+  "name": "Steward",
+  "type": "Concept",
+  "aliases": [
+   "lesser steward"
+  ],
+  "description": "Lesser faerie left to tend a site while its principal travels, holding a little of its glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0061",
+   "realms-of-power-faerie::0062"
+  ]
+ },
+ {
+  "name": "External Vis",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue allowing a faerie to leave its spiritual anchor at its site while its body roams.",
+  "evidence": [
+   "realms-of-power-faerie::0061"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "Regiones",
+   "faerie regio"
+  ],
+  "description": "Layered supernatural areas very common in Faerie areas, caused by an affront to the presiding faerie's glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0063",
+   "realms-of-power-faerie::0064",
+   "realms-of-power-faerie::0071"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing a character to read how to enter a faerie regio level.",
+  "evidence": [
+   "realms-of-power-faerie::0064"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that lets a character perceive regio entrances and trods, but not help enter the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0064",
+   "realms-of-power-faerie::0090",
+   "realms-of-power-faerie::0094"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing perception of regio entrances and trods.",
+  "evidence": [
+   "realms-of-power-faerie::0064",
+   "realms-of-power-faerie::0094"
+  ]
+ },
+ {
+  "name": "Piercing the Faerie Veil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Intellego Vim spell that reveals regio entrances.",
+  "evidence": [
+   "realms-of-power-faerie::0065"
+  ]
+ },
+ {
+  "name": "Sense the Nature of Vis",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Simple Intellego Vim spell that reveals whether vis is of faerie type.",
+  "evidence": [
+   "realms-of-power-faerie::0077"
+  ]
+ },
+ {
+  "name": "Ball of Abysmal Flame",
+  "type": "Spell",
+  "aliases": [],
+  "description": "35th-level spell; botched in Faerie it may become an Ignem anima faerie that follows the magus with criticism.",
+  "evidence": [
+   "realms-of-power-faerie::0110"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "A character whose True Love is within a regio can always find its entrance.",
+  "evidence": [
+   "realms-of-power-faerie::0065"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability quantifying understanding of, bargaining with and predicting faeries; used to guess regio entry actions and pass Guardians.",
+  "evidence": [
+   "realms-of-power-faerie::0048",
+   "realms-of-power-faerie::0065",
+   "realms-of-power-faerie::0103"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with Perception to notice faerie Pretenses and find regio entrances.",
+  "evidence": [
+   "realms-of-power-faerie::0032",
+   "realms-of-power-faerie::0064"
+  ]
+ },
+ {
+  "name": "Threshold",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The simultaneous attraction and repulsion between Faerie and the mundane world; entering Faerie requires Threshold points equal to Threshold strength.",
+  "evidence": [
+   "realms-of-power-faerie::0088",
+   "realms-of-power-faerie::0089",
+   "realms-of-power-faerie::0091"
+  ]
+ },
+ {
+  "name": "Threshold faerie",
+  "type": "Creature",
+  "aliases": [
+   "Threshold faeries"
+  ],
+  "description": "Faeries that gain vitality by helping humans cross the Threshold, all having the Spirit Away power.",
+  "evidence": [
+   "realms-of-power-faerie::0066",
+   "realms-of-power-faerie::0070",
+   "realms-of-power-faerie::0099"
+  ]
+ },
+ {
+  "name": "Trod",
+  "type": "Place",
+  "aliases": [
+   "Trods"
+  ],
+  "description": "A geographic boundary with a Faerie aura, always a Significant Threshold, connecting regio levels and leading onto the Mother Road.",
+  "evidence": [
+   "realms-of-power-faerie::0070",
+   "realms-of-power-faerie::0093",
+   "realms-of-power-faerie::0094"
+  ]
+ },
+ {
+  "name": "Faerie Road",
+  "type": "Place",
+  "aliases": [
+   "corpse roads",
+   "faerie roads"
+  ],
+  "description": "Paths used by faeries with 'right of way', commonly corpse roads to churches; the most common type of trod.",
+  "evidence": [
+   "realms-of-power-faerie::0068",
+   "realms-of-power-faerie::0069",
+   "realms-of-power-faerie::0070"
+  ]
+ },
+ {
+  "name": "Right of Way",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The ancient right of faeries to travel through a locale without permission.",
+  "evidence": [
+   "realms-of-power-faerie::0068"
+  ]
+ },
+ {
+  "name": "Encased Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The most common faerie vis: Magic vis over which a faerie has laid glamour to claim it.",
+  "evidence": [
+   "realms-of-power-faerie::0078"
+  ]
+ },
+ {
+  "name": "Accrued Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vis formed when faeries end their roles, from fragments of glamour left in matter or shed accouterments.",
+  "evidence": [
+   "realms-of-power-faerie::0079",
+   "realms-of-power-faerie::0080"
+  ]
+ },
+ {
+  "name": "Sleeping Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A material object with simple glamour but no vitality that may awaken as a faerie if given vitality; prized by House Merinita.",
+  "evidence": [
+   "realms-of-power-faerie::0081",
+   "realms-of-power-faerie::0082"
+  ]
+ },
+ {
+  "name": "Abstract Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A promise made solid: glamour on matter that seems enchanted but holds no real vis, honored by the faerie's servants.",
+  "evidence": [
+   "realms-of-power-faerie::0083"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power magi hunt; in faeries it resides in the spiritual anchor.",
+  "evidence": [
+   "realms-of-power-faerie::0025",
+   "realms-of-power-faerie::0077",
+   "realms-of-power-faerie::0078"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House focused on Faerie whose magi study the Faerie Realm, pay for sleeping vis, and possess Arcadian Mysteries.",
+  "evidence": [
+   "realms-of-power-faerie::0082",
+   "realms-of-power-faerie::0086",
+   "realms-of-power-faerie::0101"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton",
+   "Jerbitons"
+  ],
+  "description": "Hermetic House whose magi report that principal faeries prefer two lieutenants in a five-act regio structure.",
+  "evidence": [
+   "realms-of-power-faerie::0071"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of magi whose members speculate on the origins of faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0020",
+   "realms-of-power-faerie::0003"
+  ]
+ },
+ {
+  "name": "Arcadian Travel",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Merinita Mystery Virtue letting a magus create a charm that grants Threshold points and brings companions into Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0101",
+   "realms-of-power-faerie::0112"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability whose score limits how many people an Arcadian Travel charm can take along.",
+  "evidence": [
+   "realms-of-power-faerie::0089",
+   "realms-of-power-faerie::0101"
+  ]
+ },
+ {
+  "name": "Wayfarers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group within House Merinita expert in using the Mother Road.",
+  "evidence": [
+   "realms-of-power-faerie::0111"
+  ]
+ },
+ {
+  "name": "Spirit Away",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Greater Faerie Power (Vim) letting a faerie add Threshold points to mortals at 1 Might per point, or send them out of Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0099",
+   "realms-of-power-faerie::0101",
+   "realms-of-power-faerie::0102"
+  ]
+ },
+ {
+  "name": "Portage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie Power of faerie wizardry allowing entrance into the Faerie Realm and exploitation of the Mother Road.",
+  "evidence": [
+   "realms-of-power-faerie::0100",
+   "realms-of-power-faerie::0111"
+  ]
+ },
+ {
+  "name": "Guardian of the Threshold",
+  "type": "Creature",
+  "aliases": [
+   "Guardian"
+  ],
+  "description": "The first entity met on entering Faerie, testing travelers' resolve by offering a choice to go on or back; may be passive, animal, human or monstrous.",
+  "evidence": [
+   "realms-of-power-faerie::0103",
+   "realms-of-power-faerie::0105",
+   "realms-of-power-faerie::0106"
+  ]
+ },
+ {
+  "name": "Kerberoi",
+  "type": "Creature",
+  "aliases": [
+   "kerberos"
+  ],
+  "description": "Merinita term for fearsome monster Guardians of the Threshold, always restrained and bypassable by trickery or courage.",
+  "evidence": [
+   "realms-of-power-faerie::0106"
+  ]
+ },
+ {
+  "name": "Fable Points",
+  "type": "Concept",
+  "aliases": [
+   "fable score",
+   "fable point"
+  ],
+  "description": "Points gained by playing along with stories in the Faerie Realm, building a fable score that grants control over the story.",
+  "evidence": [
+   "realms-of-power-faerie::0117",
+   "realms-of-power-faerie::0118",
+   "realms-of-power-faerie::0119"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue all faerie characters are assumed to have while in the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0104"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Faerie Warping"
+  ],
+  "description": "Effect that may be acquired when leaving the Faerie Realm, to which faeries are immune.",
+  "evidence": [
+   "realms-of-power-faerie::0104",
+   "realms-of-power-faerie::0007"
+  ]
+ },
+ {
+  "name": "Animae Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules from Mystery Cults for creating faeries with magic, used for botches in the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0110"
+  ]
+ },
+ {
+  "name": "Ignem Anima",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie created from a botched Ignem spell in the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0110"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor faerie Virtue giving 3 Threshold points.",
+  "evidence": [
+   "realms-of-power-faerie::0097"
+  ]
+ },
+ {
+  "name": "Strong Faerie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major faerie Virtue giving 9 Threshold points.",
+  "evidence": [
+   "realms-of-power-faerie::0097"
+  ]
+ },
+ {
+  "name": "Faerie Heritage",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie Flaw giving 3 Threshold points.",
+  "evidence": [
+   "realms-of-power-faerie::0097"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with Dexterity for Aesthetic Quality of artwork adding Threshold points.",
+  "evidence": [
+   "realms-of-power-faerie::0098"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with Communication for artistic Aesthetic Quality.",
+  "evidence": [
+   "realms-of-power-faerie::0098"
+  ]
+ },
+ {
+  "name": "Aesthetic Quality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of artwork quality added to Threshold points when the art commemorates Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0098"
+  ]
+ },
+ {
+  "name": "Faerie Wizardry",
+  "type": "Concept",
+  "aliases": [
+   "faerie magic"
+  ],
+  "description": "Practices by which humans draw on Faerie power; penalized heavily in Divine and Infernal auras.",
+  "evidence": [
+   "realms-of-power-faerie::0012",
+   "realms-of-power-faerie::0100"
+  ]
+ },
+ {
+  "name": "Hermetic Magi",
+  "type": "CharacterType",
+  "aliases": [
+   "magi",
+   "magus",
+   "maga"
+  ],
+  "description": "Practitioners of Hermetic magic who study and hunt faerie vis.",
+  "evidence": [
+   "realms-of-power-faerie::0012",
+   "realms-of-power-faerie::0017",
+   "realms-of-power-faerie::0025"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique used with Vim to perceive regio entrances and faerie vis.",
+  "evidence": [
+   "realms-of-power-faerie::0065",
+   "realms-of-power-faerie::0077"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of magic itself, used in spells like Piercing the Faerie Veil.",
+  "evidence": [
+   "realms-of-power-faerie::0065",
+   "realms-of-power-faerie::0077",
+   "realms-of-power-faerie::0079"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of fire.",
+  "evidence": [
+   "realms-of-power-faerie::0110"
+  ]
+ },
+ {
+  "name": "Olympians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient gods whose war against the Titans may have been a conflict between Faerie and Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0015"
+  ]
+ },
+ {
+  "name": "Titans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Mythic opponents of the Olympians.",
+  "evidence": [
+   "realms-of-power-faerie::0015"
+  ]
+ },
+ {
+  "name": "Tuatha De Danann",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Irish mythic beings who fought the Fomorii.",
+  "evidence": [
+   "realms-of-power-faerie::0015"
+  ]
+ },
+ {
+  "name": "Fomorii",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Mythic opponents of the Tuatha De Danann.",
+  "evidence": [
+   "realms-of-power-faerie::0015"
+  ]
+ },
+ {
+  "name": "Æsir",
+  "type": "Faction",
+  "aliases": [
+   "Aesir"
+  ],
+  "description": "Norse gods who with the Vanir fought the Jotnar.",
+  "evidence": [
+   "realms-of-power-faerie::0015"
+  ]
+ },
+ {
+  "name": "Vanir",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Norse gods allied with the Æsir against the Jotnar.",
+  "evidence": [
+   "realms-of-power-faerie::0015"
+  ]
+ },
+ {
+  "name": "Jotnar",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Norse giants opposing the Æsir and Vanir.",
+  "evidence": [
+   "realms-of-power-faerie::0015"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient god likely resembled by faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0016"
+  ]
+ },
+ {
+  "name": "Lugh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient god likely resembled by faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0016"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient god likely resembled by faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0016"
+  ]
+ },
+ {
+  "name": "Cronos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fabled opponent of Zeus with faerie versions in the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0016"
+  ]
+ },
+ {
+  "name": "Balor",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fabled opponent of Lugh with faerie versions.",
+  "evidence": [
+   "realms-of-power-faerie::0016"
+  ]
+ },
+ {
+  "name": "Ymir",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fabled opponent of Odin with faerie versions.",
+  "evidence": [
+   "realms-of-power-faerie::0016"
+  ]
+ },
+ {
+  "name": "Cain",
+  "type": "Character",
+  "aliases": [],
+  "description": "Faeries are said by some to be his descendants, gone to Arcadia when banished to Nod.",
+  "evidence": [
+   "realms-of-power-faerie::0020",
+   "realms-of-power-faerie::0021"
+  ]
+ },
+ {
+  "name": "Land of Nod",
+  "type": "Place",
+  "aliases": [
+   "Nod"
+  ],
+  "description": "Place of Cain's banishment, equated by some with Arcadia.",
+  "evidence": [
+   "realms-of-power-faerie::0021"
+  ]
+ },
+ {
+  "name": "Dionysios",
+  "type": "Character",
+  "aliases": [],
+  "description": "God whose vineyards exist only in stories about him in the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0114"
+  ]
+ },
+ {
+  "name": "Avalon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary land with no existence independent of the stories it appears in.",
+  "evidence": [
+   "realms-of-power-faerie::0114"
+  ]
+ },
+ {
+  "name": "Olympos",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary land existing in Faerie only within stories.",
+  "evidence": [
+   "realms-of-power-faerie::0114"
+  ]
+ },
+ {
+  "name": "Vanaheim",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary land existing in Faerie only within stories.",
+  "evidence": [
+   "realms-of-power-faerie::0114"
+  ]
+ },
+ {
+  "name": "Stonehenge",
+  "type": "Place",
+  "aliases": [
+   "Giant's Dance"
+  ],
+  "description": "Legendary site that can be visited in the Faerie Realm only within a story.",
+  "evidence": [
+   "realms-of-power-faerie::0114"
+  ]
+ },
+ {
+  "name": "Salisbury Plain",
+  "type": "Place",
+  "aliases": [],
+  "description": "Plain around Stonehenge.",
+  "evidence": [
+   "realms-of-power-faerie::0114"
+  ]
+ },
+ {
+  "name": "Glastonbury Tor",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary site not reachable from a story unless part of it.",
+  "evidence": [
+   "realms-of-power-faerie::0114"
+  ]
+ },
+ {
+  "name": "Summer Kingdom",
+  "type": "Place",
+  "aliases": [],
+  "description": "Example Faerie destination reached through story choices, not geography.",
+  "evidence": [
+   "realms-of-power-faerie::0115"
+  ]
+ },
+ {
+  "name": "Goat Hill",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hill with a Faerie Aura 5 used in a Threshold example with Branoic.",
+  "evidence": [
+   "realms-of-power-faerie::0091",
+   "realms-of-power-faerie::0092"
+  ]
+ },
+ {
+  "name": "Branoic",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young man who stumbled into the Faerie Realm on his stag night climbing Goat Hill.",
+  "evidence": [
+   "realms-of-power-faerie::0091",
+   "realms-of-power-faerie::0092"
+  ]
+ },
+ {
+  "name": "Saint John's Eve",
+  "type": "Concept",
+  "aliases": [
+   "Midsummer's Eve"
+  ],
+  "description": "Time when faerie hills and barrows open; characters climbing there usually return at dawn.",
+  "evidence": [
+   "realms-of-power-faerie::0061",
+   "realms-of-power-faerie::0075"
+  ]
+ },
+ {
+  "name": "Swan Maidens",
+  "type": "Creature",
+  "aliases": [
+   "swan-maidens"
+  ],
+  "description": "Faerie beings featuring in stories of the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0114",
+   "realms-of-power-faerie::0007"
+  ]
+ }
+]

@@ -1,0 +1,3090 @@
+[
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Rome"
+  ],
+  "description": "The strife-torn Hermetic Tribunal covering Italy, marked by constant bickering between covenants and meetings held every seven years in Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0121",
+   "tribunals-of-hermes-rome::0128",
+   "tribunals-of-hermes-rome::0189"
+  ]
+ },
+ {
+  "name": "Levant Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal existing since shortly after the Order's founding that gained attention during the crusades; home of the Covenant of Al Arama.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0124",
+   "tribunals-of-hermes-rome::0213"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Provencal"
+  ],
+  "description": "Tribunal containing Doissetep; predicted to come into conflict with the Roman Tribunal from 1266.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0130",
+   "tribunals-of-hermes-rome::0213"
+  ]
+ },
+ {
+  "name": "Hibernia Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal containing the Covenant of Circulus Ruber, reachable by a Harco Hermes Portal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal containing the Covenant of Durenmar, reachable by a Harco Hermes Portal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where Harco has a Hermes Portal to a small tower north of Madrid.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where Harco has a Portal to a Redcap-run inn in Tours.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0213",
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where Harco has a Portal to a cottage with stables near Coventry.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where Harco has a Portal to a cabin near Kiev.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "description": "Order-wide Tribunal; one in 1294 is where the Provençal-Roman conflict comes to a head.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0130"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Harco"
+  ],
+  "description": "Domus Magnus of House Mercere in the hills of Piedmont, founded 776/778, a wealthy mercantile covenant controlling Hermes Portals and messages across the Order.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0198",
+   "tribunals-of-hermes-rome::0213"
+  ]
+ },
+ {
+  "name": "Rellantali",
+  "type": "Covenant",
+  "description": "Roman covenant founded 838 on Asinara whose Tytalus magi run Venice's thieves and spies and hold a fief from Pisa; long hates Verdi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0121",
+   "tribunals-of-hermes-rome::0162",
+   "tribunals-of-hermes-rome::0187"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Covenant",
+  "description": "Domus Magnus of the Quaesitores founded 830, enforcer of the Treaty of the Roman Tribunal; owns the warehouse where Tribunal meetings are held.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0121",
+   "tribunals-of-hermes-rome::0126",
+   "tribunals-of-hermes-rome::0190"
+  ]
+ },
+ {
+  "name": "Verdi",
+  "type": "Covenant",
+  "description": "Domus Magnus founded 775 that supplies magic items; long-time enemy of Rellantali and trades with Al Arama.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0187",
+   "tribunals-of-hermes-rome::0217"
+  ]
+ },
+ {
+  "name": "Auctus",
+  "type": "Covenant",
+  "description": "Roman covenant founded 793 and destroyed in 888.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123"
+  ]
+ },
+ {
+  "name": "Calabria",
+  "type": "Covenant",
+  "description": "Roman covenant founded 841 that disbanded in 907.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123"
+  ]
+ },
+ {
+  "name": "Postestas",
+  "type": "Covenant",
+  "description": "Tremere covenant founded 870 that claims innocence in Tribunal plots but always picks sides to appear helpful; feuding with Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0187",
+   "tribunals-of-hermes-rome::0188"
+  ]
+ },
+ {
+  "name": "Sansaron",
+  "type": "Covenant",
+  "description": "Vis-rich covenant founded 951 on the north coast of Africa that shuns Tribunal meetings and leaves its Venetian townhouse empty.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0166",
+   "tribunals-of-hermes-rome::0196"
+  ]
+ },
+ {
+  "name": "Literatus",
+  "type": "Covenant",
+  "description": "Jerbiton covenant founded 1001 with Pope Sylvester II near Bologna; outwardly a scholarly covenant, secretly devoted to diabolism.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0220",
+   "tribunals-of-hermes-rome::0221"
+  ]
+ },
+ {
+  "name": "Vardian's Tomb",
+  "type": "Covenant",
+  "description": "Powerful independent covenant founded 1014 within a catacomb southwest of Rome; its Jerbiton meet with the Pope.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0122",
+   "tribunals-of-hermes-rome::0171",
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Luctatio",
+  "type": "Covenant",
+  "description": "Tytalus covenant founded 1172 in war-torn Lombardy near Milan that secretly stirs conflict between Roman covenants.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0126",
+   "tribunals-of-hermes-rome::0151",
+   "tribunals-of-hermes-rome::0163"
+  ]
+ },
+ {
+  "name": "Al Arama",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Al Arama"
+  ],
+  "description": "Levant Tribunal covenant that trades vis to Rellantali, Verdi and Harco and is reachable by a Harco Hermes Portal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0124",
+   "tribunals-of-hermes-rome::0163",
+   "tribunals-of-hermes-rome::0213"
+  ]
+ },
+ {
+  "name": "Feritel",
+  "type": "Covenant",
+  "description": "Independent covenant that is a subject commune of Genoa, described in Chapter Five.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0150"
+  ]
+ },
+ {
+  "name": "Doissetep",
+  "type": "Covenant",
+  "description": "Powerful Provençal Tribunal covenant with its own Hermes Portal from Harco and a huge mundane library.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0213",
+   "tribunals-of-hermes-rome::0239"
+  ]
+ },
+ {
+  "name": "Circulus Ruber",
+  "type": "Covenant",
+  "description": "Covenant in the Hibernia Tribunal reachable via Harco's Hermes Portals.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0213",
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Covenant in the Rhine Tribunal reachable via Harco's Hermes Portals.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Windgraven",
+  "type": "Covenant",
+  "description": "Covenant whose magi are predicted to enter the Roman Tribunal in 1266, sparking Provençal-Roman conflict.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0129",
+   "tribunals-of-hermes-rome::0130"
+  ]
+ },
+ {
+  "name": "Mistridge",
+  "type": "Covenant",
+  "description": "Covenant whose magi move against Windgraven in Italy in 1282.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0130"
+  ]
+ },
+ {
+  "name": "Naples Covenant",
+  "type": "Covenant",
+  "description": "Covenant founded in Naples by apprentices of Literatus that continues Literatus' work after its disbanding.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0129"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House; two Flambeau magi were banished in 1162 for joining the destruction of Milan.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0126"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House whose magi founded Luctatio and are among the violent magi of Rellantali.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0126",
+   "tribunals-of-hermes-rome::0127",
+   "tribunals-of-hermes-rome::0173"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House defending involvement in mundane politics; founded Literatus and populates Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0127",
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0221"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "Hermetic House of Redcaps centred on Harco, responsible for delivering messages across the Order.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0198",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House of the magi of Postestas.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0188"
+  ]
+ },
+ {
+  "name": "House Quaesitor",
+  "type": "House",
+  "aliases": [
+   "Quaesitor",
+   "Quaesitoris"
+  ],
+  "description": "Hermetic House of investigators and judges, based at Magvillus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0121"
+  ]
+ },
+ {
+  "name": "House Díedne",
+  "type": "House",
+  "aliases": [
+   "Díedne",
+   "Diedne"
+  ],
+  "description": "Hermetic House persecuted by other Houses in the Schism War.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0198"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Germanic Hermetic House known for shapechanging magic.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0155"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The organisation of Hermetic magi, founded in 767.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0122",
+   "tribunals-of-hermes-rome::0198"
+  ]
+ },
+ {
+  "name": "Treaty of the Roman Tribunal",
+  "type": "Concept",
+  "description": "1068 treaty regulating Roman magi's dealings with the mundane world; part of the Peripheral Code but with no force outside the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0120",
+   "tribunals-of-hermes-rome::0121",
+   "tribunals-of-hermes-rome::0123"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Body of Hermetic legal rulings usable as precedent in other Tribunals.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0120"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Order's law, which magi meddling in mundane wars risk breaking.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0127",
+   "tribunals-of-hermes-rome::0145",
+   "tribunals-of-hermes-rome::0128"
+  ]
+ },
+ {
+  "name": "Independent Magi",
+  "type": "CharacterType",
+  "description": "Magi in Italy belonging to no recognized covenant; by 1095 they outnumbered chartered magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0122",
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0135"
+  ]
+ },
+ {
+  "name": "Independent Covenants",
+  "type": "Concept",
+  "description": "Covenants in the Roman Tribunal not officially recognized by the Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0122",
+   "tribunals-of-hermes-rome::0185"
+  ]
+ },
+ {
+  "name": "Hermetic Mercenaries",
+  "type": "CharacterType",
+  "description": "Magi hired by communes as guardsmen, thieves or assassins, working covertly.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0134",
+   "tribunals-of-hermes-rome::0151"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Raw magical power; scarce in the Roman Tribunal, imported from the Levant and elsewhere.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0121",
+   "tribunals-of-hermes-rome::0124",
+   "tribunals-of-hermes-rome::0195"
+  ]
+ },
+ {
+  "name": "Botch",
+  "type": "Concept",
+  "description": "A disastrous failure on a roll.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0120",
+   "tribunals-of-hermes-rome::0206"
+  ]
+ },
+ {
+  "name": "Season",
+  "type": "Concept",
+  "description": "Unit of time used for work and study; Tribunal meetings last about a Season.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0120",
+   "tribunals-of-hermes-rome::0190"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [
+   "Certámen"
+  ],
+  "description": "Formal Hermetic magical duel; has resulted from conflicting mercenary loyalties.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0134"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "description": "Formal Hermetic war between magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0134"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [
+   "Marched"
+  ],
+  "description": "Hermetic punishment of being Marched; Luctatio has so far avoided it.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0127"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "An object linked to a person that can be used to target magic; thieves steal trinkets for this use.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0162"
+  ]
+ },
+ {
+  "name": "Domus Magnus",
+  "type": "Concept",
+  "aliases": [
+   "Domus Magni"
+  ],
+  "description": "The central covenant of a House; Harco, Magvillus and Verdi are Domus Magni.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0185",
+   "tribunals-of-hermes-rome::0187",
+   "tribunals-of-hermes-rome::0198"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "description": "Messenger of House Mercere, mostly lacking magic; also a Virtue.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0198",
+   "tribunals-of-hermes-rome::0204",
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "description": "Covenant soldiers and servants; Roman covenants station a fifth of theirs in Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0142",
+   "tribunals-of-hermes-rome::0165",
+   "tribunals-of-hermes-rome::0205"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "description": "Non-magus player character type.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0154"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "CharacterType",
+  "description": "The mundane staff and residents of a covenant.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0140",
+   "tribunals-of-hermes-rome::0201",
+   "tribunals-of-hermes-rome::0231"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores",
+   "Quaesitoris"
+  ],
+  "description": "Hermetic investigator-judge; foreign Quaesitores are exempt from the Venice announcement rule.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0121",
+   "tribunals-of-hermes-rome::0128",
+   "tribunals-of-hermes-rome::0189"
+  ]
+ },
+ {
+  "name": "Praeco",
+  "type": "Concept",
+  "description": "Presiding officer of a Tribunal; Insatella is Praeco of the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [
+   "Prima",
+   "Primi"
+  ],
+  "description": "Head of a Hermetic House; Harco houses the Prima of Mercere.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0198",
+   "tribunals-of-hermes-rome::0204",
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Arch-Mage",
+  "type": "CharacterType",
+  "description": "Hermetic title of eminence held by Amberitus, normally contested by magical test.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0229",
+   "tribunals-of-hermes-rome::0233"
+  ]
+ },
+ {
+  "name": "Tribunal Meeting",
+  "type": "Concept",
+  "description": "Seven-yearly gathering of Roman magi in Venice lasting about a Season.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0128",
+   "tribunals-of-hermes-rome::0189",
+   "tribunals-of-hermes-rome::0190"
+  ]
+ },
+ {
+  "name": "Covenant Townhouses in Venice",
+  "type": "Place",
+  "aliases": [
+   "townhouse"
+  ],
+  "description": "Townhouses every Roman covenant maintains in Venice as centres of intrigue, information and learning.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0163",
+   "tribunals-of-hermes-rome::0166",
+   "tribunals-of-hermes-rome::0189"
+  ]
+ },
+ {
+  "name": "Magvillus Warehouse",
+  "type": "Place",
+  "description": "Large Venetian warehouse owned by Magvillus where Tribunal meetings are held, rumoured haunted.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0189",
+   "tribunals-of-hermes-rome::0190",
+   "tribunals-of-hermes-rome::0195"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural influence of a place, e.g. Magic, Divine, Infernal or Reason auras.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0166",
+   "tribunals-of-hermes-rome::0238",
+   "tribunals-of-hermes-rome::0197"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "description": "Aura of the Magic Realm; Harco has Magic 2 and Literatus' labs +2.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0227",
+   "tribunals-of-hermes-rome::0238"
+  ]
+ },
+ {
+  "name": "Divine Aura",
+  "type": "Concept",
+  "aliases": [
+   "Dominion Aura",
+   "Dominion"
+  ],
+  "description": "Aura of the Divine; Venice's townhouses have Divine Aura 2.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0166"
+  ]
+ },
+ {
+  "name": "Aura of Reason",
+  "type": "Concept",
+  "aliases": [
+   "Rational Aura",
+   "Auras of Reason"
+  ],
+  "description": "Aura growing from learning and rational thought in Florence, Bologna, Palermo and Literatus, a threat to magic.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0178",
+   "tribunals-of-hermes-rome::0179",
+   "tribunals-of-hermes-rome::0238"
+  ]
+ },
+ {
+  "name": "Infernal Aura",
+  "type": "Concept",
+  "description": "Subtle Infernal auras arising in Bologna where students seek forbidden knowledge.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0179"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "A supernatural region; a Divine regio may surround the Church in Milan.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0154"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight Points"
+  ],
+  "description": "Magical experience caused by Warping; Insatella's Painful Magic and Arthritis stem from Twilight.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0208",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Longevity Potion",
+  "type": "Item",
+  "aliases": [
+   "Longevity Ritual"
+  ],
+  "description": "Magical potion slowing aging; made at Harco by Elegans and Velox.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0204",
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0238"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Covenant protective ritual; Harco's is Level 20, Literatus has none for lack of vis.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214",
+   "tribunals-of-hermes-rome::0238"
+  ]
+ },
+ {
+  "name": "Hermes Portals",
+  "type": "Item",
+  "aliases": [
+   "Hermes Portal"
+  ],
+  "description": "Magical gateways held by Harco leading to every Tribunal of the Order, usable only by Redcaps.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0198",
+   "tribunals-of-hermes-rome::0199",
+   "tribunals-of-hermes-rome::0213"
+  ]
+ },
+ {
+  "name": "Harco's Magical Ships",
+  "type": "Item",
+  "description": "Four enchanted ships of Harco that never lack wind, cannot sink and always find home port.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214",
+   "tribunals-of-hermes-rome::0205",
+   "tribunals-of-hermes-rome::0199"
+  ]
+ },
+ {
+  "name": "Brazen Head",
+  "type": "Item",
+  "description": "Infamous, supposedly Infernal scrying tool acquired by Sylvester II in Spain.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0221"
+  ]
+ },
+ {
+  "name": "Wizard's Sigil",
+  "type": "Concept",
+  "description": "Distinctive trait marking a magus' spells.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Hermetic war in which Díedne was persecuted; Harco's archives are the best record of it.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0198",
+   "tribunals-of-hermes-rome::0215"
+  ]
+ },
+ {
+  "name": "Age of Chaos",
+  "type": "Concept",
+  "description": "Period 412-767 between disbanding of the Cult of Mercury and founding of the Order.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123"
+  ]
+ },
+ {
+  "name": "Hermetic Law",
+  "type": "Concept",
+  "description": "Law of the Order; mandatory education in it has been proposed for Roman magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0194",
+   "tribunals-of-hermes-rome::0219"
+  ]
+ },
+ {
+  "name": "Diabolism",
+  "type": "Concept",
+  "aliases": [
+   "diabolists"
+  ],
+  "description": "Infernal worship pervading commune governments, Literatus and Italian cities.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0134",
+   "tribunals-of-hermes-rome::0139",
+   "tribunals-of-hermes-rome::0221"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Concept",
+  "description": "Holy power granted by Divine relics to the faithful.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0173"
+  ]
+ },
+ {
+  "name": "Mercurian Ritual",
+  "type": "Concept",
+  "description": "Ritual magic of the Cult of Mercury; the rite of Saint Ambrose may bear its aspects.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0153",
+   "tribunals-of-hermes-rome::0154",
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Consortis",
+  "type": "Concept",
+  "description": "Intermediaries through which mercenary magi deal money under the Treaty.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0134"
+  ]
+ },
+ {
+  "name": "Crusades",
+  "type": "Concept",
+  "description": "Wars to the Levant that reduced Roman Hermetic population and brought in vis.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0124",
+   "tribunals-of-hermes-rome::0199"
+  ]
+ },
+ {
+  "name": "Fourth Crusade",
+  "type": "Concept",
+  "description": "Crusade transported by Venice that sacked Zara and Constantinople, returning Greek and Byzantine lore.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0159",
+   "tribunals-of-hermes-rome::0160"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "the Dark",
+   "Inferno"
+  ],
+  "description": "The realm of demons, deeply entwined with Italian politics and Literatus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0134",
+   "tribunals-of-hermes-rome::0136",
+   "tribunals-of-hermes-rome::0220"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm of God, manifest in relics and Divine auras.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0154",
+   "tribunals-of-hermes-rome::0166",
+   "tribunals-of-hermes-rome::0173"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "description": "The realm of magic, waning in Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0185",
+   "tribunals-of-hermes-rome::0238"
+  ]
+ },
+ {
+  "name": "Reason",
+  "type": "Realm",
+  "description": "Rising force of rational thought producing Auras of Reason that may discount magic.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0178",
+   "tribunals-of-hermes-rome::0183"
+  ]
+ },
+ {
+  "name": "Greek Cult of Hermes",
+  "type": "Faction",
+  "description": "Cult that came to Italy c. 700 B.C.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [
+   "Roman Cult of Mercury"
+  ],
+  "description": "Roman cult founded c. 600 B.C., disbanded A.D. 412, whose artifacts lie in Rome's ruins.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0154",
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Guelphs",
+  "type": "Faction",
+  "aliases": [
+   "Guelph"
+  ],
+  "description": "Papal party in Italian urban factional struggles.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0145",
+   "tribunals-of-hermes-rome::0177"
+  ]
+ },
+ {
+  "name": "Ghibellines",
+  "type": "Faction",
+  "aliases": [
+   "Ghibelline"
+  ],
+  "description": "Imperial party opposing the Guelphs; the Visconti are Ghibellines.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0145",
+   "tribunals-of-hermes-rome::0153"
+  ]
+ },
+ {
+  "name": "The Blacks",
+  "type": "Faction",
+  "description": "Radical Guelph faction of Florence that blackmails magi into service.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0177"
+  ]
+ },
+ {
+  "name": "Lombard League",
+  "type": "Faction",
+  "description": "League of Lombard cities that Pavia and Montferrat refuse to join.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0155"
+  ]
+ },
+ {
+  "name": "Credenza di San Ambrogio",
+  "type": "Faction",
+  "description": "The popolo of Milan in 1202, which chose its own council.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0146"
+  ]
+ },
+ {
+  "name": "Popolo",
+  "type": "Faction",
+  "description": "Political societies of wealthy tradesmen opposing the magnates in the communes.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0146",
+   "tribunals-of-hermes-rome::0147"
+  ]
+ },
+ {
+  "name": "Communes",
+  "type": "Faction",
+  "aliases": [
+   "city-republics"
+  ],
+  "description": "Northern Italian city-republics independent of the Holy Roman Empire.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0131",
+   "tribunals-of-hermes-rome::0132",
+   "tribunals-of-hermes-rome::0151"
+  ]
+ },
+ {
+  "name": "Della Torre Family",
+  "type": "Faction",
+  "description": "Milanese family, many corrupted by pacts with Peris, defeated by the Visconti in 1277.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0153",
+   "tribunals-of-hermes-rome::0154"
+  ]
+ },
+ {
+  "name": "Visconti Family",
+  "type": "Faction",
+  "description": "Ghibelline Milanese family that defeats the Della Torre in 1277.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0153",
+   "tribunals-of-hermes-rome::0154"
+  ]
+ },
+ {
+  "name": "Frangipane Family",
+  "type": "Faction",
+  "description": "Roman family using the Colosseum as a fortress.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Savelli Family",
+  "type": "Faction",
+  "description": "Roman family controlling the ruined temple to Jupiter used as a fish market.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170",
+   "tribunals-of-hermes-rome::0175"
+  ]
+ },
+ {
+  "name": "Orsini Family",
+  "type": "Faction",
+  "description": "One of the great noble families holding real power in Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0175"
+  ]
+ },
+ {
+  "name": "Conti Family",
+  "type": "Faction",
+  "description": "One of Rome's great noble families.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0175"
+  ]
+ },
+ {
+  "name": "Colonna Family",
+  "type": "Faction",
+  "description": "One of Rome's great noble families.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0175"
+  ]
+ },
+ {
+  "name": "Annibaldi Family",
+  "type": "Faction",
+  "description": "One of Rome's great noble families.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0175"
+  ]
+ },
+ {
+  "name": "Capocci Family",
+  "type": "Faction",
+  "description": "One of Rome's great noble families.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0175"
+  ]
+ },
+ {
+  "name": "Order of Trinitarians",
+  "type": "Faction",
+  "description": "Religious order founded by Giovanni of Matha.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Thieves of Venice",
+  "type": "Faction",
+  "description": "Burglar guild using tunnels beneath Venice, organized by Rellantali.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0162"
+  ]
+ },
+ {
+  "name": "Papal Curia",
+  "type": "Faction",
+  "description": "The corrupt papal court in Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0168",
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Grand Council of Venice",
+  "type": "Faction",
+  "description": "Council of 480 true rulers of Venice, perpetuating Infernal activity.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0161"
+  ]
+ },
+ {
+  "name": "Lombards",
+  "type": "Faction",
+  "description": "Long-bearded barbarians who ruled Italy from Pavia until 774.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0155",
+   "tribunals-of-hermes-rome::0159"
+  ]
+ },
+ {
+  "name": "Normans",
+  "type": "Faction",
+  "description": "Northern mercenaries who became rulers of the Kingdom of Sicily.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0181",
+   "tribunals-of-hermes-rome::0182"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "aliases": [
+   "Moslems"
+  ],
+  "description": "Muslims who once occupied Sicily and besieged Palermo in 1199 with sorcerers and djinn.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0152",
+   "tribunals-of-hermes-rome::0183",
+   "tribunals-of-hermes-rome::0193"
+  ]
+ },
+ {
+  "name": "Holy Roman Empire",
+  "type": "Faction",
+  "aliases": [
+   "Empire"
+  ],
+  "description": "Empire from which the communes declared independence.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0131",
+   "tribunals-of-hermes-rome::0151"
+  ]
+ },
+ {
+  "name": "Saracen Sorcerers",
+  "type": "CharacterType",
+  "description": "Non-Hermetic Muslim magicians of Africa and the Saracen armies.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0183",
+   "tribunals-of-hermes-rome::0193"
+  ]
+ },
+ {
+  "name": "Papal States",
+  "type": "Place",
+  "description": "Central Italian lands ruled by the Pope, including Rome, Florence and Bologna.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0131",
+   "tribunals-of-hermes-rome::0167"
+  ]
+ },
+ {
+  "name": "University of Law at Bologna",
+  "type": "Place",
+  "aliases": [
+   "University of Bologna"
+  ],
+  "description": "University recently founded by Literatus' magi and apprentices, adding students to Infernal ranks.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0179",
+   "tribunals-of-hermes-rome::0223",
+   "tribunals-of-hermes-rome::0226"
+  ]
+ },
+ {
+  "name": "Iernilus",
+  "type": "Character",
+  "description": "Quaesitor who came to the Roman Tribunal in 1061 to arbitrate, leading to the Treaty.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0224"
+  ]
+ },
+ {
+  "name": "Tamgor",
+  "type": "Character",
+  "description": "Quaesitor who toured the Roman Tribunal in 1196 to bring information to Jarane.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123"
+  ]
+ },
+ {
+  "name": "Jarane",
+  "type": "Character",
+  "description": "Quaesitor leading three foreign Quaesitores to Venice to set the Roman Tribunal straight.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0123",
+   "tribunals-of-hermes-rome::0128"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "description": "Emperor allied with Literatus who later corrupts it; opposed by Roman magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0129",
+   "tribunals-of-hermes-rome::0130",
+   "tribunals-of-hermes-rome::0153"
+  ]
+ },
+ {
+  "name": "Peris",
+  "type": "Creature",
+  "description": "Demon working through lesser demons in northern Italy, who takes flesh in Eccelino.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0129",
+   "tribunals-of-hermes-rome::0134",
+   "tribunals-of-hermes-rome::0153"
+  ]
+ },
+ {
+  "name": "Eccelino",
+  "type": "Character",
+  "aliases": [
+   "Eccelino-Peris"
+  ],
+  "description": "Man in whom the demon Peris takes flesh in 1237.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0129",
+   "tribunals-of-hermes-rome::0130"
+  ]
+ },
+ {
+  "name": "Frederick Barbarossa",
+  "type": "Character",
+  "description": "Infernally tainted emperor who created the office of Podesta and destroyed Milan.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0136",
+   "tribunals-of-hermes-rome::0153",
+   "tribunals-of-hermes-rome::0155"
+  ]
+ },
+ {
+  "name": "Saint Ambrose",
+  "type": "Character",
+  "description": "Patron saint of Milan whose rite is used by its Church.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0153",
+   "tribunals-of-hermes-rome::0154",
+   "tribunals-of-hermes-rome::0146"
+  ]
+ },
+ {
+  "name": "King Albion",
+  "type": "Character",
+  "description": "Lombard king under whom Pavia became capital.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0155"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "description": "King to whom Pavia fell in 774.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0155"
+  ]
+ },
+ {
+  "name": "Henry Dandolo",
+  "type": "Character",
+  "aliases": [
+   "Doge Dandolo"
+  ],
+  "description": "Doge of Venice who led the Fourth Crusade to Zara and Constantinople.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0159",
+   "tribunals-of-hermes-rome::0160"
+  ]
+ },
+ {
+  "name": "Pope Innocent III",
+  "type": "Character",
+  "description": "Pope who recognized the crusaders after Constantinople's fall.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0160"
+  ]
+ },
+ {
+  "name": "Emperor Aurelian",
+  "type": "Character",
+  "aliases": [
+   "Aurilian"
+  ],
+  "description": "3rd-century emperor who built Rome's walls.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0169"
+  ]
+ },
+ {
+  "name": "Giovanni of Matha",
+  "type": "Character",
+  "description": "Urban hermit living in the Acqua Claudia ruins who founds the Trinitarians and is canonized.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Saint Peter",
+  "type": "Character",
+  "description": "Greatest Apostle whose relics lie in the Vatican and head in the Lateran.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0173"
+  ]
+ },
+ {
+  "name": "Saint Paul",
+  "type": "Character",
+  "description": "Apostle whose head is kept in the Lateran.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0173"
+  ]
+ },
+ {
+  "name": "Cardinal-Bishop of Ostia",
+  "type": "Character",
+  "description": "Chief clergyman of Ostia who views magi as a great threat.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0176"
+  ]
+ },
+ {
+  "name": "Pope Sylvester II",
+  "type": "Character",
+  "description": "Diabolical pope who co-founded Literatus in 1001 and possessed the Brazen Head; may still live.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0220",
+   "tribunals-of-hermes-rome::0221",
+   "tribunals-of-hermes-rome::0222"
+  ]
+ },
+ {
+  "name": "Archbishop of Bologna",
+  "type": "Character",
+  "description": "Current archbishop hostile to Literatus but bound by Sylvester's agreement.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0222"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "description": "Founder of House Mercere who founded Harco.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0198"
+  ]
+ },
+ {
+  "name": "Aldico",
+  "type": "Character",
+  "description": "Primus of Mercere during the Schism War who helped negotiate peace.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0198",
+   "tribunals-of-hermes-rome::0199"
+  ]
+ },
+ {
+  "name": "Insatella",
+  "type": "Character",
+  "description": "Aged Prima of House Mercere, leader of Harco and Praeco of the Roman Tribunal, a lover of trade.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204",
+   "tribunals-of-hermes-rome::0206"
+  ]
+ },
+ {
+  "name": "Aldero",
+  "type": "Character",
+  "description": "Elder member of Harco overseeing mercantile activities.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "Harstein",
+  "type": "Character",
+  "description": "Elder member of Harco overseeing daily operations.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "Elegans",
+  "type": "Character",
+  "description": "Magus of Mercere at Harco who makes longevity potions and magic items.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "Velox",
+  "type": "Character",
+  "description": "Magus of Mercere at Harco maintaining defenses and making items.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "Pipio",
+  "type": "Character",
+  "description": "Scribe of Harco.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "Spica",
+  "type": "Character",
+  "description": "Scribe of Harco.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "Tentare",
+  "type": "Character",
+  "description": "Scribe of Harco.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0204"
+  ]
+ },
+ {
+  "name": "Antho",
+  "type": "Character",
+  "description": "Youngest Redcap of Harco, corrupt and politically ambitious, selling and forging letters.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0205",
+   "tribunals-of-hermes-rome::0209",
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Frederick of Harco",
+  "type": "Character",
+  "description": "One of Harco's three young Redcaps.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0205"
+  ]
+ },
+ {
+  "name": "Iris",
+  "type": "Character",
+  "description": "One of Harco's three young Redcaps.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0205"
+  ]
+ },
+ {
+  "name": "Amberitus",
+  "type": "Character",
+  "description": "Arch-Mage of Jerbiton and leader and coven master of Literatus, with strongest Infernal ties.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0229",
+   "tribunals-of-hermes-rome::0233"
+  ]
+ },
+ {
+  "name": "Arichis",
+  "type": "Character",
+  "description": "Jerbiton magus of Literatus teaching at the University of Law.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0230"
+  ]
+ },
+ {
+  "name": "Carlos",
+  "type": "Character",
+  "description": "Jerbiton magus of Literatus teaching at the University of Law.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0230"
+  ]
+ },
+ {
+  "name": "Duro",
+  "type": "Character",
+  "description": "Youngest magus of Literatus, wishing to pursue the Dark Arts in seclusion.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0229",
+   "tribunals-of-hermes-rome::0230"
+  ]
+ },
+ {
+  "name": "Exileratus",
+  "type": "Character",
+  "description": "Jerbiton magus of Literatus teaching at the University of Law.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0230"
+  ]
+ },
+ {
+  "name": "Favila",
+  "type": "Character",
+  "aliases": [
+   "Favilia"
+  ],
+  "description": "Jerbiton magus of Literatus teaching at the school of Medicine.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0230"
+  ]
+ },
+ {
+  "name": "Gerbert",
+  "type": "Character",
+  "description": "Jerbiton magus of Literatus teaching at the University of Law.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0230"
+  ]
+ },
+ {
+  "name": "Roger",
+  "type": "Character",
+  "description": "Jerbiton magus of Literatus teaching the Humanities.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0230"
+  ]
+ },
+ {
+  "name": "Andrea",
+  "type": "Character",
+  "description": "Grog Captain of Literatus, a skilled swordswoman.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0231"
+  ]
+ },
+ {
+  "name": "Podesta",
+  "type": "CharacterType",
+  "aliases": [
+   "Podesti"
+  ],
+  "description": "Commune office created by Frederick Barbarossa, usually held by Infernally tainted outsiders.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0136",
+   "tribunals-of-hermes-rome::0137",
+   "tribunals-of-hermes-rome::0138"
+  ]
+ },
+ {
+  "name": "Doge",
+  "type": "CharacterType",
+  "description": "Chief magistrate of Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0159",
+   "tribunals-of-hermes-rome::0161"
+  ]
+ },
+ {
+  "name": "Djinn",
+  "type": "Creature",
+  "description": "Spirits accompanying Moslem sorcerers attacking Palermo.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0183"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "description": "Infernal beings corrupting Italian cities and Literatus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0134",
+   "tribunals-of-hermes-rome::0179",
+   "tribunals-of-hermes-rome::0231"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "description": "Peninsula comprising the Roman Tribunal, divided among communes, Papal States and the Kingdom of Sicily.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0131",
+   "tribunals-of-hermes-rome::0122"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "Greatest city of Mythic Europe, centre of the Church, full of ruins, relics and corruption.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0168",
+   "tribunals-of-hermes-rome::0169",
+   "tribunals-of-hermes-rome::0175"
+  ]
+ },
+ {
+  "name": "Venice",
+  "type": "Place",
+  "description": "Republic on a lagoon; after the Treaty the heart of Hermetic politics and site of Tribunal meetings.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0157",
+   "tribunals-of-hermes-rome::0158",
+   "tribunals-of-hermes-rome::0163"
+  ]
+ },
+ {
+  "name": "Genoa",
+  "type": "Place",
+  "description": "Maritime commune, enemy of Pisa; Feritel is its subject commune.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0152",
+   "tribunals-of-hermes-rome::0150"
+  ]
+ },
+ {
+  "name": "Pavia",
+  "type": "Place",
+  "description": "Imperialist commune and former Lombard capital full of family towers.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0155"
+  ]
+ },
+ {
+  "name": "Pisa",
+  "type": "Place",
+  "description": "Maritime commune rival of Genoa; grants Rellantali its fief.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0156",
+   "tribunals-of-hermes-rome::0152"
+  ]
+ },
+ {
+  "name": "Milan",
+  "type": "Place",
+  "description": "Wealthy anti-imperial commune destroyed by Barbarossa and rebuilt.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0126",
+   "tribunals-of-hermes-rome::0153",
+   "tribunals-of-hermes-rome::0154"
+  ]
+ },
+ {
+  "name": "Lombardy",
+  "type": "Place",
+  "description": "War-torn northern region, site of Luctatio.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0126",
+   "tribunals-of-hermes-rome::0127"
+  ]
+ },
+ {
+  "name": "Tuscany",
+  "type": "Place",
+  "description": "Region where magi reputedly serve on councils.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0127"
+  ]
+ },
+ {
+  "name": "The Levant",
+  "type": "Place",
+  "description": "Eastern Mediterranean region supplying vis to Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0124",
+   "tribunals-of-hermes-rome::0199"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "City recaptured by the Moslems.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0124"
+  ]
+ },
+ {
+  "name": "Po Valley",
+  "type": "Place",
+  "description": "Northern valley occupied by the communes.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0131"
+  ]
+ },
+ {
+  "name": "Ostia",
+  "type": "Place",
+  "description": "Port 25 miles from Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0176",
+   "tribunals-of-hermes-rome::0131"
+  ]
+ },
+ {
+  "name": "Florence",
+  "type": "Place",
+  "description": "Commune of the Papal States with growing Auras of Reason.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0177",
+   "tribunals-of-hermes-rome::0178"
+  ]
+ },
+ {
+  "name": "Bologna",
+  "type": "Place",
+  "description": "City of schools and universities where Literatus is based.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0179",
+   "tribunals-of-hermes-rome::0180",
+   "tribunals-of-hermes-rome::0222"
+  ]
+ },
+ {
+  "name": "Kingdom of Sicily",
+  "type": "Place",
+  "description": "Most stable Italian state, covering Sicily and southern Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0181",
+   "tribunals-of-hermes-rome::0182"
+  ]
+ },
+ {
+  "name": "Palermo",
+  "type": "Place",
+  "description": "Intellectual centre of Sicily with libraries and Auras of Reason; besieged 1199.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0183"
+  ]
+ },
+ {
+  "name": "Naples",
+  "type": "Place",
+  "description": "City where a covenant is founded by Literatus apprentices.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0129"
+  ]
+ },
+ {
+  "name": "Sardinia",
+  "type": "Place",
+  "description": "Island contested by Genoa and Pisa.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0152",
+   "tribunals-of-hermes-rome::0156"
+  ]
+ },
+ {
+  "name": "Corsica",
+  "type": "Place",
+  "description": "Island claimed by the Genoese Church.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0156"
+  ]
+ },
+ {
+  "name": "Asinara",
+  "type": "Place",
+  "description": "Island home of Rellantali.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0187",
+   "tribunals-of-hermes-rome::0217"
+  ]
+ },
+ {
+  "name": "Montferrat",
+  "type": "Place",
+  "description": "City refusing to join the Lombard League.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0155"
+  ]
+ },
+ {
+  "name": "Zara",
+  "type": "Place",
+  "description": "City captured in the Fourth Crusade.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0160"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "Capital of the Eastern Roman Empire captured in the Fourth Crusade.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0160"
+  ]
+ },
+ {
+  "name": "Piedmont",
+  "type": "Place",
+  "description": "Hills where Harco lies.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0201"
+  ]
+ },
+ {
+  "name": "Harco Village",
+  "type": "Place",
+  "description": "Village below Harco populated by covenfolk relatives.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0201",
+   "tribunals-of-hermes-rome::0202"
+  ]
+ },
+ {
+  "name": "Tunis",
+  "type": "Place",
+  "description": "City where Harco has a Portal in a merchant's house.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0213"
+  ]
+ },
+ {
+  "name": "Madrid",
+  "type": "Place",
+  "description": "Harco has a Portal to a tower north of it.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Tours",
+  "type": "Place",
+  "description": "Site of a Redcap inn with a Harco Portal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0213",
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Coventry",
+  "type": "Place",
+  "description": "Site near a Harco Portal cottage.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Kiev",
+  "type": "Place",
+  "description": "Site near a Harco Portal cabin.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0214"
+  ]
+ },
+ {
+  "name": "Colosseum",
+  "type": "Place",
+  "description": "Ancient ruin used by the Frangipane as a fortress.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Temple of Jupiter",
+  "type": "Place",
+  "description": "Ruined temple near the Theater of Marcellus, now a fish market tainted by artifacts.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Theater of Marcellus",
+  "type": "Place",
+  "description": "Ancient Roman ruin.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Acqua Claudia",
+  "type": "Place",
+  "description": "Ruined aqueduct home to Giovanni of Matha.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0170"
+  ]
+ },
+ {
+  "name": "Catacombs of Rome",
+  "type": "Place",
+  "description": "Underground Christian burial mazes; one houses Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0171"
+  ]
+ },
+ {
+  "name": "Vatican",
+  "type": "Place",
+  "description": "Walled basilica housing Saint Peter's relics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0172",
+   "tribunals-of-hermes-rome::0173"
+  ]
+ },
+ {
+  "name": "Basilica of Saint John Lateran",
+  "type": "Place",
+  "description": "Cathedral of Rome and papal seat holding the heads of Peter and Paul.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0173",
+   "tribunals-of-hermes-rome::0174"
+  ]
+ },
+ {
+  "name": "Lateran Palace",
+  "type": "Place",
+  "description": "Usual residence of the Pope.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0173"
+  ]
+ },
+ {
+  "name": "Castel Sant'Angelo",
+  "type": "Place",
+  "description": "Fortress used by the Papal court in need.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Saint Mark's Square",
+  "type": "Place",
+  "description": "Venetian square where the General Assembly meets.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0161"
+  ]
+ },
+ {
+  "name": "Tiber",
+  "type": "Place",
+  "description": "River of Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0171",
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Anagni",
+  "type": "Place",
+  "description": "City visited by the Pope.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Perugia",
+  "type": "Place",
+  "description": "City visited by the Pope.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Viterbo",
+  "type": "Place",
+  "description": "City visited by the Pope.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Orvieto",
+  "type": "Place",
+  "description": "City visited by the Pope.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0172"
+  ]
+ },
+ {
+  "name": "Sienna",
+  "type": "Place",
+  "description": "City whose 1257 offices numbered 860.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0139",
+   "tribunals-of-hermes-rome::0140"
+  ]
+ },
+ {
+  "name": "Africa",
+  "type": "Place",
+  "description": "Largely unclaimed by the Order; possible expansion target.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0193",
+   "tribunals-of-hermes-rome::0196"
+  ]
+ },
+ {
+  "name": "Western Roman Empire",
+  "type": "Place",
+  "description": "Empire with Milan as capital from 305.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0153",
+   "tribunals-of-hermes-rome::0154"
+  ]
+ },
+ {
+  "name": "Eastern Roman Empire",
+  "type": "Place",
+  "description": "Empire whose capital was Constantinople.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0160"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0124",
+   "tribunals-of-hermes-rome::0168"
+  ]
+ },
+ {
+  "name": "Spain",
+  "type": "Place",
+  "description": "Where Sylvester II gained the Brazen Head.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0221"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "description": "Centre of learning with Literatus apprentices.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0230",
+   "tribunals-of-hermes-rome::0168"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "description": "Where souls are lost.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0137"
+  ]
+ },
+ {
+  "name": "Padus",
+  "type": "Place",
+  "description": "Venetian city whose refugees founded Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0159"
+  ]
+ },
+ {
+  "name": "Treviso",
+  "type": "Place",
+  "description": "Venetian city whose refugees founded Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0159"
+  ]
+ },
+ {
+  "name": "Vicenza",
+  "type": "Place",
+  "description": "Venetian city whose refugees founded Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0159"
+  ]
+ },
+ {
+  "name": "Verona",
+  "type": "Place",
+  "description": "Venetian city whose refugees founded Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0159"
+  ]
+ },
+ {
+  "name": "Literatus Manor House",
+  "type": "Place",
+  "description": "New three-story manor southwest of Bologna housing Literatus since 1180.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0226",
+   "tribunals-of-hermes-rome::0227"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "Virtue",
+  "description": "Virtue marking a member of House Mercere's messenger ranks.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0209"
+  ]
+ },
+ {
+  "name": "The Gentle Gift",
+  "type": "Virtue",
+  "description": "The Gift without the usual social penalty.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Influence in the mundane world.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Greater Leadership",
+  "type": "Virtue",
+  "description": "Major leadership virtue.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "description": "Widely traveled.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0209"
+  ]
+ },
+ {
+  "name": "Wealth",
+  "type": "Virtue",
+  "description": "Personal riches.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "description": "+3 to Fatigue rolls.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0209"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "description": "+3 on willpower rolls.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0209"
+  ]
+ },
+ {
+  "name": "Versatile Sleeper",
+  "type": "Virtue",
+  "description": "Can sleep anywhere.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0209"
+  ]
+ },
+ {
+  "name": "Magical Affinity",
+  "type": "Virtue",
+  "description": "Affinity with an Art, e.g. Intéllego.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Strong Writer",
+  "type": "Virtue",
+  "description": "Writes well.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Arthritis",
+  "type": "Flaw",
+  "description": "Botched physical actions seize joints.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Painful Magic",
+  "type": "Flaw",
+  "description": "Casting magic is painful.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0206",
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Over-Confident",
+  "type": "Flaw",
+  "description": "Excessive self-confidence.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0209"
+  ]
+ },
+ {
+  "name": "Major Magic Deficiency",
+  "type": "Flaw",
+  "description": "Scores involving Vim are halved.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Speak Arabic",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Speak French",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Speak Italian",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Speak Latin",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Scribe Latin",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Scribe Greek",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Hermes Law",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Hermes Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Hermes History",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Dodge",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Evaluate Luxury Goods",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Diplomacy",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "French Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Humanities",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Levant Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207"
+  ]
+ },
+ {
+  "name": "Lombardy Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Intimidation",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Subterfuge",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Bologna Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210",
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Sardinia Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Venice Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Broadsword Attack",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0210"
+  ]
+ },
+ {
+  "name": "Magic Affinity",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Charisma",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Debate",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Storytelling",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Church Knowledge",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Legend Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219",
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Roman Law",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0234"
+  ]
+ },
+ {
+  "name": "Geography",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0219"
+  ]
+ },
+ {
+  "name": "Mythic Europe Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197"
+  ]
+ },
+ {
+  "name": "Schism War Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197"
+  ]
+ },
+ {
+  "name": "Travel Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197"
+  ]
+ },
+ {
+  "name": "Roman Tribunal Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197"
+  ]
+ },
+ {
+  "name": "Trade Policies",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197"
+  ]
+ },
+ {
+  "name": "Law",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219"
+  ]
+ },
+ {
+  "name": "Philosophy",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219"
+  ]
+ },
+ {
+  "name": "Occult Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219"
+  ]
+ },
+ {
+  "name": "Arabic Instruction",
+  "type": "Ability",
+  "description": "Ability appearing in character or covenant library statistics in this text.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219"
+  ]
+ },
+ {
+  "name": "Hebrew Instruction",
+  "type": "Ability",
+  "description": "Library ability score for teaching Hebrew at Literatus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0219"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [
+   "Intéllego"
+  ],
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [
+   "Animál"
+  ],
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Córporem"
+  ],
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [
+   "Imágonem"
+  ],
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Art listed in covenant library and magus statistics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0197",
+   "tribunals-of-hermes-rome::0207",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "The Chirurgeon's Healing Touch",
+  "type": "Spell",
+  "description": "Spell (CrCo 20) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Incantation of the Body Made Whole",
+  "type": "Spell",
+  "description": "Spell (CrCo 45) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Lifting the Dangling Puppet",
+  "type": "Spell",
+  "description": "Spell (ReCo 20) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "The Leap of Homecoming",
+  "type": "Spell",
+  "description": "Spell (ReCo 35) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "The Seven League Stride",
+  "type": "Spell",
+  "description": "Spell (ReCo 35) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Repel the Wooden Shafts",
+  "type": "Spell",
+  "description": "Spell (ReHe 10) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Panic of the Trembling Heart",
+  "type": "Spell",
+  "description": "Spell (CrMe 15) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "The Gift of Reason",
+  "type": "Spell",
+  "description": "Spell (CrMe 30) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Thoughts Within Babble",
+  "type": "Spell",
+  "description": "Spell (InMe 25) known by Insatella and Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Peering into the Mortal Mind",
+  "type": "Spell",
+  "description": "Spell (InMe 30) known by Insatella and Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208",
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Enchantment of Detachment",
+  "type": "Spell",
+  "description": "Spell (MuMe 15) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Recollection of Memories Never Quite Lived",
+  "type": "Spell",
+  "description": "Spell (MuMe 20) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Trust of Childlike Faith",
+  "type": "Spell",
+  "description": "Spell (PeMe 10) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "Spell (ReMe 20) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Scent of Peaceful Slumber",
+  "type": "Spell",
+  "description": "Spell (ReMe 20) known by Insatella.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0208"
+  ]
+ },
+ {
+  "name": "Tongue of the Beasts",
+  "type": "Spell",
+  "description": "Spell (InAn 20) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Tongue of the Birds",
+  "type": "Spell",
+  "description": "Spell (InAn 20) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Peering into the Beastly Mind",
+  "type": "Spell",
+  "description": "Spell (InAn 30) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Revealed Flaws of Mortal Flesh",
+  "type": "Spell",
+  "description": "Spell (InCo 10) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "The Inexorable Search",
+  "type": "Spell",
+  "description": "Spell (InCo 20) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Converse with Plants and Trees",
+  "type": "Spell",
+  "description": "Spell (InHe 25) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Vision of Heat's Light",
+  "type": "Spell",
+  "description": "Spell (InIg 20) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Eyes of the Past",
+  "type": "Spell",
+  "description": "Spell (InIm 20) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Summoning the Distant Images",
+  "type": "Spell",
+  "description": "Spell (InIm 35) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Perception of the Conflicting Motives",
+  "type": "Spell",
+  "description": "Spell (InMe 15) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Posing the Silent Question",
+  "type": "Spell",
+  "description": "Spell (InMe 25) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Stone Tell of the Mind that Sits",
+  "type": "Spell",
+  "description": "Spell (InTe 30) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ },
+ {
+  "name": "Greeting the Maker",
+  "type": "Spell",
+  "description": "Spell (InTe 30) known by Amberitus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0235"
+  ]
+ }
+]

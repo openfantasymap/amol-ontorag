@@ -1,0 +1,2136 @@
+[
+ {
+  "name": "Truffle Matron",
+  "type": "Creature",
+  "aliases": [
+   "Matron of the Truffles",
+   "the Matron"
+  ],
+  "description": "Awakened truffle of Magic Might 30 who rules the Magic creatures that cultivate truffles throughout Mythic Europe, holding council in her regio and rewarding helpers with vis.",
+  "evidence": [
+   "mythic-locations::0600",
+   "mythic-locations::0645",
+   "mythic-locations::0653"
+  ]
+ },
+ {
+  "name": "Truffle Regio",
+  "type": "Place",
+  "aliases": [
+   "truffle realm",
+   "Truffle Matron's regio"
+  ],
+  "description": "Three-level Creo-aligned Magic regio of the Truffle Matron, accessible only on solstices and equinoxes, containing the forest, truffle fields, and holt.",
+  "evidence": [
+   "mythic-locations::0609",
+   "mythic-locations::0633",
+   "mythic-locations::0634"
+  ]
+ },
+ {
+  "name": "Truffle Fields",
+  "type": "Place",
+  "aliases": [],
+  "description": "Second level of the truffle regio (Magic aura 5), where awakened truffles tend their crops among rings of awakened trees.",
+  "evidence": [
+   "mythic-locations::0621",
+   "mythic-locations::0622"
+  ]
+ },
+ {
+  "name": "Truffle Holt",
+  "type": "Place",
+  "aliases": [
+   "the holt"
+  ],
+  "description": "Third level of the truffle regio (Magic aura 7): two concentric circles of awakened trees on a low hill where the Truffle Matron holds court.",
+  "evidence": [
+   "mythic-locations::0624",
+   "mythic-locations::0625"
+  ]
+ },
+ {
+  "name": "Truffle Council Chamber",
+  "type": "Place",
+  "aliases": [
+   "inner holt"
+  ],
+  "description": "Interior of the holt where roots form seats and a dais and the Truffle Matron hears the pleadings of her subjects.",
+  "evidence": [
+   "mythic-locations::0626",
+   "mythic-locations::0627"
+  ]
+ },
+ {
+  "name": "Awakened Truffle",
+  "type": "Creature",
+  "aliases": [
+   "Magical Truffles",
+   "awakened truffles"
+  ],
+  "description": "Truffles with Magic Might that guard truffles and trees in Magic forests; in the regio they come as workers, drones, daughters and the Matron.",
+  "evidence": [
+   "mythic-locations::0606",
+   "mythic-locations::0645",
+   "mythic-locations::0665"
+  ]
+ },
+ {
+  "name": "Truffle Drone",
+  "type": "Creature",
+  "aliases": [
+   "drones"
+  ],
+  "description": "Awakened truffle warriors and guards of Magic Might 15, usually mounted on Boars of Virtue; the lowest social stratum of the regio, who do not vote.",
+  "evidence": [
+   "mythic-locations::0645",
+   "mythic-locations::0646",
+   "mythic-locations::0666"
+  ]
+ },
+ {
+  "name": "Truffle Worker",
+  "type": "Creature",
+  "aliases": [
+   "workers",
+   "worker truffles"
+  ],
+  "description": "The weakest and most abundant awakened truffles (Magic Might 10), who tend the fields and burrow away from danger.",
+  "evidence": [
+   "mythic-locations::0645",
+   "mythic-locations::0647",
+   "mythic-locations::0666"
+  ]
+ },
+ {
+  "name": "Truffle Daughter",
+  "type": "Creature",
+  "aliases": [
+   "daughters"
+  ],
+  "description": "Awakened truffles of Magic Might 20 who present issues to the Truffle Matron and can create Earth Elementals.",
+  "evidence": [
+   "mythic-locations::0645",
+   "mythic-locations::0652",
+   "mythic-locations::0666"
+  ]
+ },
+ {
+  "name": "Wild Boar of the Woods",
+  "type": "Creature",
+  "aliases": [
+   "Wild Boar",
+   "Wild Boar of the Wood"
+  ],
+  "description": "Giant Magic boar (Might 20) who guards the entrance level of the Truffle Matron's regio and protects its inhabitants.",
+  "evidence": [
+   "mythic-locations::0611",
+   "mythic-locations::0613",
+   "mythic-locations::0616"
+  ]
+ },
+ {
+  "name": "Boar of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Boars of Virtue"
+  ],
+  "description": "Lesser Magic boars ridden by truffle drones and kept in the truffle fields, possessing The Unimpeded Traveler power.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0616",
+   "mythic-locations::0617"
+  ]
+ },
+ {
+  "name": "Interloping Wolves",
+  "type": "Creature",
+  "aliases": [
+   "Magic wolves",
+   "Pack Leader"
+  ],
+  "description": "Pack of Magic wolves (Might 13) that followed roe deer into the truffle regio intending to gorge on its magical creatures.",
+  "evidence": [
+   "mythic-locations::0617",
+   "mythic-locations::0619",
+   "mythic-locations::0620"
+  ]
+ },
+ {
+  "name": "Awakened Tree",
+  "type": "Creature",
+  "aliases": [
+   "awakened trees"
+  ],
+  "description": "Mobile, living trees in the truffle regio that form the holt and serve as citizens of the Truffle Matron's council.",
+  "evidence": [
+   "mythic-locations::0623",
+   "mythic-locations::0635",
+   "mythic-locations::0636"
+  ]
+ },
+ {
+  "name": "Earth Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental of earth (Might 20 Terram) created by truffle daughters or the Matron via Enliven the Gross Earth; this one was made from a small hill.",
+  "evidence": [
+   "mythic-locations::0652",
+   "mythic-locations::0660",
+   "mythic-locations::0673"
+  ]
+ },
+ {
+  "name": "Truffle of Virtue",
+  "type": "Item",
+  "aliases": [
+   "Truffles of Virtue"
+  ],
+  "description": "Unusually large vis-bearing truffle that can be Enriched by being eaten by a Magic creature; otherwise worth two pawns of Creo Herbam Dedicated vis.",
+  "evidence": [
+   "mythic-locations::0606",
+   "mythic-locations::0640",
+   "mythic-locations::0649"
+  ]
+ },
+ {
+  "name": "Tree of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Trees of Virtue"
+  ],
+  "description": "Vis-bearing trees (beech, hazel, oak, poplar) in the truffle regio; each contains two pawns of vis whose Art depends on the tree type.",
+  "evidence": [
+   "mythic-locations::0607",
+   "mythic-locations::0635",
+   "mythic-locations::0636"
+  ]
+ },
+ {
+  "name": "Beech Tree of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tree of Virtue with Vim vis in its beechnuts; its branches can be Enriched into an amulet granting the Luck Virtue.",
+  "evidence": [
+   "mythic-locations::0636",
+   "mythic-locations::0637"
+  ]
+ },
+ {
+  "name": "Poplar Tree of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "White poplar Tree of Virtue with Creo vis in its leaves; a crown of its leaves grants the Long-Winded Virtue.",
+  "evidence": [
+   "mythic-locations::0636",
+   "mythic-locations::0638"
+  ]
+ },
+ {
+  "name": "Oak Tree of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tree of Virtue containing Auram vis.",
+  "evidence": [
+   "mythic-locations::0636"
+  ]
+ },
+ {
+  "name": "Hazel Tree of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tree of Virtue containing Intellego vis.",
+  "evidence": [
+   "mythic-locations::0636"
+  ]
+ },
+ {
+  "name": "Beech Amulet of Luck",
+  "type": "Item",
+  "aliases": [],
+  "description": "Circular spider-web amulet woven from Enriched branches of a Beech Tree of Virtue; the wearer is treated as having the Luck Virtue.",
+  "evidence": [
+   "mythic-locations::0637"
+  ]
+ },
+ {
+  "name": "Crown of Poplar Leaves",
+  "type": "Item",
+  "aliases": [],
+  "description": "Enriched crown of Poplar Tree of Virtue leaves granting the Long-Winded Virtue to one wearer for about two weeks.",
+  "evidence": [
+   "mythic-locations::0638"
+  ]
+ },
+ {
+  "name": "Creature of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Creatures of Virtue"
+  ],
+  "description": "Magic animals such as Ravens, Stags, Hares and Mice of Virtue that inhabit the truffle regio.",
+  "evidence": [
+   "mythic-locations::0611",
+   "mythic-locations::0639"
+  ]
+ },
+ {
+  "name": "Wise Owl of the Forest",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creature that the Wild Boar of the Woods may have let into the regio, usable to help characters reach the second level.",
+  "evidence": [
+   "mythic-locations::0639"
+  ]
+ },
+ {
+  "name": "Spell-like Creo Herbam Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Extraordinary vis in the form of a large truffle that, buried at a plant's roots, instantly heals it of injury, poison, or disease.",
+  "evidence": [
+   "mythic-locations::0641"
+  ]
+ },
+ {
+  "name": "Lesser Enchantment Imaginem Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Truffle-shaped Imaginem vis whose shavings flavor food, giving a host +3 to influence guests.",
+  "evidence": [
+   "mythic-locations::0642"
+  ]
+ },
+ {
+  "name": "Lesser Enchantment Rego Animal Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Truffle-shaped Rego vis whose scent compels wild boars and pigs to try to devour it, driving them berserk.",
+  "evidence": [
+   "mythic-locations::0643"
+  ]
+ },
+ {
+  "name": "Spell-like Herbam Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Large truffle whose spores make plants in a six-mile area healthy and fruitful for a year and grow truffles on tree roots.",
+  "evidence": [
+   "mythic-locations::0644"
+  ]
+ },
+ {
+  "name": "Black Truffle",
+  "type": "Item",
+  "aliases": [
+   "black truffles"
+  ],
+  "description": "Purplish-black truffle growing on oak and hazel roots in Normandy, Provence and Iberia, best in Périgord.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0670"
+  ]
+ },
+ {
+  "name": "Burgundy Truffle",
+  "type": "Item",
+  "aliases": [
+   "Burgundy truffles"
+  ],
+  "description": "Dark brown truffle with hazelnut-like aroma found on oak and hazel roots across Mythic Europe.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0670"
+  ]
+ },
+ {
+  "name": "White Truffle",
+  "type": "Item",
+  "aliases": [
+   "white truffles"
+  ],
+  "description": "Off-white truffle, best from Piedmont around Alba, growing throughout the Roman Tribunal and in Istria.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0604"
+  ]
+ },
+ {
+  "name": "Bohemian Truffle",
+  "type": "Item",
+  "aliases": [
+   "Bohemian truffles"
+  ],
+  "description": "Above-ground truffle found in the Rhine, Greater Alps and Normandy Tribunals whose mature gel is a natural dye.",
+  "evidence": [
+   "mythic-locations::0604",
+   "mythic-locations::0605"
+  ]
+ },
+ {
+  "name": "Desert Truffle",
+  "type": "Item",
+  "aliases": [
+   "desert truffles"
+  ],
+  "description": "Above-ground truffle of arid Mediterranean lands, believed to be created where lightning strikes the sand.",
+  "evidence": [
+   "mythic-locations::0605",
+   "mythic-locations::0601"
+  ]
+ },
+ {
+  "name": "Protect the Herd",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of the Wild Boar of the Woods granting him and his animal allies +5 Soak for Sun duration.",
+  "evidence": [
+   "mythic-locations::0614",
+   "mythic-locations::0615"
+  ]
+ },
+ {
+  "name": "Terror of the Charging Boar",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of the Wild Boar of the Woods that overwhelms anything he charges with mortal fear.",
+  "evidence": [
+   "mythic-locations::0615",
+   "mythic-locations::0616"
+  ]
+ },
+ {
+  "name": "The Unimpeded Traveler",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of Boars of Virtue letting them run at full speed over any terrain.",
+  "evidence": [
+   "mythic-locations::0615",
+   "mythic-locations::0617"
+  ]
+ },
+ {
+  "name": "Terrifying Howl of the Wolf",
+  "type": "Spell",
+  "aliases": [
+   "Terrifying Howls"
+  ],
+  "description": "Power of the interloping wolves whose howl overcomes hearers with fear.",
+  "evidence": [
+   "mythic-locations::0618",
+   "mythic-locations::0620"
+  ]
+ },
+ {
+  "name": "Traverse Mother Earth",
+  "type": "Spell",
+  "aliases": [
+   "Traverse through Mother Earth"
+  ],
+  "description": "Personal power of awakened truffles to burrow through the earth as fast as walking.",
+  "evidence": [
+   "mythic-locations::0666",
+   "mythic-locations::0668"
+  ]
+ },
+ {
+  "name": "Truffle's Healing Touch",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual power of awakened truffles that instantly heals a plant of any injury, poison, or disease.",
+  "evidence": [
+   "mythic-locations::0666",
+   "mythic-locations::0669"
+  ]
+ },
+ {
+  "name": "Enliven the Gross Earth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual power used by truffle daughters and the Matron to create an Earth Elemental.",
+  "evidence": [
+   "mythic-locations::0652",
+   "mythic-locations::0653",
+   "mythic-locations::0669"
+  ]
+ },
+ {
+  "name": "Control the Hungry Beast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of awakened truffles to mollify any beast so it no longer finds them interesting, threatening, or edible.",
+  "evidence": [
+   "mythic-locations::0666",
+   "mythic-locations::0669"
+  ]
+ },
+ {
+  "name": "Banish the Unwelcome Guest",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Truffle Matron's power to expel anyone from the regio by command, if it penetrates.",
+  "evidence": [
+   "mythic-locations::0666",
+   "mythic-locations::0670"
+  ]
+ },
+ {
+  "name": "The Oath Swearing",
+  "type": "Spell",
+  "aliases": [
+   "Oath Swearing"
+  ],
+  "description": "Truffle Matron's power binding oath-takers so that breaking the oath inflicts a Minor Flaw.",
+  "evidence": [
+   "mythic-locations::0654",
+   "mythic-locations::0655"
+  ]
+ },
+ {
+  "name": "Crush",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Earth Elemental power to club and pin opponents, damaging their equipment.",
+  "evidence": [
+   "mythic-locations::0673",
+   "mythic-locations::0674"
+  ]
+ },
+ {
+  "name": "The Red Touch",
+  "type": "Spell",
+  "aliases": [
+   "Red Touch"
+  ],
+  "description": "Earth Elemental power that rusts metal it touches or is struck by into dust.",
+  "evidence": [
+   "mythic-locations::0673",
+   "mythic-locations::0674"
+  ]
+ },
+ {
+  "name": "Piercing the Magical Veil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell (ArM5 p.158) allowing characters to see into and pass between regio levels.",
+  "evidence": [
+   "mythic-locations::0609",
+   "mythic-locations::0621"
+  ]
+ },
+ {
+  "name": "Converse with Plant and Tree",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell allowing characters to talk with the awakened truffles and trees.",
+  "evidence": [
+   "mythic-locations::0623"
+  ]
+ },
+ {
+  "name": "The Bountiful Feast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Creo Herbam spell usable to heal the Matron's damaged sapling and a model for the Spell-like Herbam Vis effect.",
+  "evidence": [
+   "mythic-locations::0630",
+   "mythic-locations::0644"
+  ]
+ },
+ {
+  "name": "Lord of the Trees",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose combat statistics match those of the awakened trees' branches.",
+  "evidence": [
+   "mythic-locations::0635",
+   "mythic-locations::0636"
+  ]
+ },
+ {
+  "name": "She-Wolf",
+  "type": "Creature",
+  "aliases": [
+   "Luperca",
+   "Aspect of the Daimon of Vengeance"
+  ],
+  "description": "Ancient Magic spirit, an Aspect of the Daimon of revenge, who dwells at the Wolf's Court and grants vengeance to petitioners by turning them into wolves.",
+  "evidence": [
+   "mythic-locations::0680",
+   "mythic-locations::0682",
+   "mythic-locations::0701"
+  ]
+ },
+ {
+  "name": "Daimon of Vengeance",
+  "type": "Creature",
+  "aliases": [
+   "Universal Form of Retribution",
+   "spirit of retribution"
+  ],
+  "description": "Daimon residing in the Magic Realm embodying revenge, of which the She-Wolf is an Aspect.",
+  "evidence": [
+   "mythic-locations::0681",
+   "mythic-locations::0688",
+   "mythic-locations::0701"
+  ]
+ },
+ {
+  "name": "Wolf's Court",
+  "type": "Place",
+  "aliases": [
+   "Fane of Vengeance"
+  ],
+  "description": "Ancient ruined shrine in a Magic aura 5 deep in the Majarida Mountains where the She-Wolf grants revenge.",
+  "evidence": [
+   "mythic-locations::0679",
+   "mythic-locations::0693",
+   "mythic-locations::0698"
+  ]
+ },
+ {
+  "name": "Confession of the Penitent",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf power that imbues a target with the desire to confess a crime.",
+  "evidence": [
+   "mythic-locations::0702",
+   "mythic-locations::0709"
+  ]
+ },
+ {
+  "name": "Donning the Corporeal Veil",
+  "type": "Spell",
+  "aliases": [
+   "Doning the Corporeal Veil"
+  ],
+  "description": "She-Wolf power creating and animating a physical she-wolf body for the spirit.",
+  "evidence": [
+   "mythic-locations::0702",
+   "mythic-locations::0703"
+  ]
+ },
+ {
+  "name": "Endow the Servant of Retribution",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf ritual power imposing the Spiritual Pact Virtue on a target.",
+  "evidence": [
+   "mythic-locations::0703",
+   "mythic-locations::0708"
+  ]
+ },
+ {
+  "name": "Gift of Silver Fur and Red Teeth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf ritual power imposing the Skinchanger Virtue, with wolf fur growing inward.",
+  "evidence": [
+   "mythic-locations::0703",
+   "mythic-locations::0708"
+  ]
+ },
+ {
+  "name": "Inescapable Sense of the Quarry",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf power sensing the direction and distance of a target to which she has an Arcane Connection.",
+  "evidence": [
+   "mythic-locations::0703",
+   "mythic-locations::0704"
+  ]
+ },
+ {
+  "name": "Scales of the Heart",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf power determining whether a petitioner believes his desire for vengeance is just.",
+  "evidence": [
+   "mythic-locations::0704",
+   "mythic-locations::0707"
+  ]
+ },
+ {
+  "name": "The False Gift of Revenge",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf ritual power imposing the Delusion Flaw so the target believes he becomes a wolf.",
+  "evidence": [
+   "mythic-locations::0704",
+   "mythic-locations::0708"
+  ]
+ },
+ {
+  "name": "The Shape of Vengeance",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf ritual power imposing the Lycanthropy Flaw, her usual means of granting revenge.",
+  "evidence": [
+   "mythic-locations::0704",
+   "mythic-locations::0705",
+   "mythic-locations::0708"
+  ]
+ },
+ {
+  "name": "Virus Lunae",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf ritual power imposing Greater Malediction so the target spreads lycanthropy by scratches.",
+  "evidence": [
+   "mythic-locations::0705",
+   "mythic-locations::0706",
+   "mythic-locations::0709"
+  ]
+ },
+ {
+  "name": "Voice of the Wolf",
+  "type": "Spell",
+  "aliases": [],
+  "description": "She-Wolf power producing an audible illusion of her voice within 15 paces.",
+  "evidence": [
+   "mythic-locations::0698",
+   "mythic-locations::0706"
+  ]
+ },
+ {
+  "name": "Ritual of Passing on the Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rite by which the She-Wolf solemnizes a grant of power, taking the petitioner's birth name and giving a secret name of vengeance.",
+  "evidence": [
+   "mythic-locations::0710"
+  ]
+ },
+ {
+  "name": "Luperci",
+  "type": "Faction",
+  "aliases": [
+   "Wolf Brothers",
+   "brothers of the wolf",
+   "cult of Luperca",
+   "cult of the wolf"
+  ],
+  "description": "College of Roman priests of Luperca who took wolf form to avenge unpunished sin; it survives as a Mystery Cult visiting the Wolf's Court.",
+  "evidence": [
+   "mythic-locations::0683",
+   "mythic-locations::0684",
+   "mythic-locations::0719"
+  ]
+ },
+ {
+  "name": "Lupercalia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Two-day Roman festival from the Ides of February honoring the she-wolf, abolished by Pope Gelasius I.",
+  "evidence": [
+   "mythic-locations::0684"
+  ]
+ },
+ {
+  "name": "Lykaia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Secret ancient rite on Mount Lykaion that turned men into wolves.",
+  "evidence": [
+   "mythic-locations::0683",
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Interpretatio Romana",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roman practice of identifying native deities with Roman gods, which identified a Auvergne wolf goddess with Luperca.",
+  "evidence": [
+   "mythic-locations::0687"
+  ]
+ },
+ {
+  "name": "Vultchi Praznitsi",
+  "type": "Concept",
+  "aliases": [
+   "Wolves' Holiday",
+   "Koutzoulan"
+  ],
+  "description": "Seven days in November in Bulgaria when sinners fear wolves; the last day, Koutzoulan, is the worst.",
+  "evidence": [
+   "mythic-locations::0691",
+   "mythic-locations::0692"
+  ]
+ },
+ {
+  "name": "Werewolf",
+  "type": "Creature",
+  "aliases": [
+   "loup-garou",
+   "lycanthrope",
+   "versipellis",
+   "bisclavret",
+   "varcolac"
+  ],
+  "description": "Men and women able to transform into wolves, known by many names across Mythic Europe.",
+  "evidence": [
+   "mythic-locations::0717",
+   "mythic-locations::0718",
+   "mythic-locations::0708"
+  ]
+ },
+ {
+  "name": "Vukodlac",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Variety of vampire from which half-wolf, half-man werewolf legends stem.",
+  "evidence": [
+   "mythic-locations::0717"
+  ]
+ },
+ {
+  "name": "Erinyes",
+  "type": "Creature",
+  "aliases": [
+   "Furies"
+  ],
+  "description": "Three wolf-headed Greek sisters who were instruments of retribution for heinous crimes.",
+  "evidence": [
+   "mythic-locations::0688"
+  ]
+ },
+ {
+  "name": "Airitech",
+  "type": "Character",
+  "aliases": [
+   "wolf-daughters of Airitech"
+  ],
+  "description": "Irish figure whose three wolf-daughters dwelt in the Cave of Cruachan; possibly herself a spirit of retribution.",
+  "evidence": [
+   "mythic-locations::0688",
+   "mythic-locations::0689"
+  ]
+ },
+ {
+  "name": "Cas Corach",
+  "type": "Character",
+  "aliases": [],
+  "description": "Faerie hero said to have killed the daughters of Airitech.",
+  "evidence": [
+   "mythic-locations::0689"
+  ]
+ },
+ {
+  "name": "Gullveig",
+  "type": "Character",
+  "aliases": [
+   "Jotun of Witchcraft"
+  ],
+  "description": "Northern giantess breeding wolves and witches in the Ironwood; patron of the Muspelli.",
+  "evidence": [
+   "mythic-locations::0689"
+  ]
+ },
+ {
+  "name": "Muspelli",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Northern witches whose patron is Gullveig.",
+  "evidence": [
+   "mythic-locations::0689"
+  ]
+ },
+ {
+  "name": "Ishtar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Babylonian goddess of love and war who transformed unfaithful lovers into wolves.",
+  "evidence": [
+   "mythic-locations::0688"
+  ]
+ },
+ {
+  "name": "Artemis Lykeie",
+  "type": "Character",
+  "aliases": [
+   "Wolfish Artemis"
+  ],
+  "description": "Thracian wolfish form of Artemis, a faerie known for tearing the sacrilegious apart.",
+  "evidence": [
+   "mythic-locations::0688"
+  ]
+ },
+ {
+  "name": "Pan Lykaios",
+  "type": "Character",
+  "aliases": [],
+  "description": "Deity to whom the lykaia ritual meal on Mount Lykaion was sacred.",
+  "evidence": [
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Wolf of Gubbio",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Man-eating wolf that besieged Gubbio until tamed by Saint Francis of Assisi.",
+  "evidence": [
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Saint Francis of Assisi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who recently tamed the Wolf of Gubbio.",
+  "evidence": [
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Elisha",
+  "type": "Character",
+  "aliases": [
+   "Elisha the Prophet"
+  ],
+  "description": "Old Testament prophet whose 'Death in the Pot' story is thought to involve desert truffles.",
+  "evidence": [
+   "mythic-locations::0601",
+   "mythic-locations::0605"
+  ]
+ },
+ {
+  "name": "Evander",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of Mercury and Carmentis who founded Pallantium and brought the wolf-cult from Arcadia.",
+  "evidence": [
+   "mythic-locations::0683"
+  ]
+ },
+ {
+  "name": "Carmentis",
+  "type": "Character",
+  "aliases": [
+   "Cumaean Sybil"
+  ],
+  "description": "Cumaean Sybil, mother of Evander.",
+  "evidence": [
+   "mythic-locations::0683"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "aliases": [],
+  "description": "God said to be father of Evander.",
+  "evidence": [
+   "mythic-locations::0683"
+  ]
+ },
+ {
+  "name": "Romulus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of Rome, suckled by a she-wolf, who slew his twin Remus.",
+  "evidence": [
+   "mythic-locations::0683",
+   "mythic-locations::0710"
+  ]
+ },
+ {
+  "name": "Remus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Twin of Romulus, slain by him.",
+  "evidence": [
+   "mythic-locations::0683"
+  ]
+ },
+ {
+  "name": "Marcus Antonius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Former chief priest of the luperci.",
+  "evidence": [
+   "mythic-locations::0683"
+  ]
+ },
+ {
+  "name": "Pope Gelasius I",
+  "type": "Character",
+  "aliases": [
+   "Pope Gelasius"
+  ],
+  "description": "Pope who abolished the Lupercalia in the fifth century.",
+  "evidence": [
+   "mythic-locations::0684",
+   "mythic-locations::0719"
+  ]
+ },
+ {
+  "name": "King Edgar",
+  "type": "Character",
+  "aliases": [],
+  "description": "King legendarily said to have rid England of wolves in the 950s.",
+  "evidence": [
+   "mythic-locations::0690"
+  ]
+ },
+ {
+  "name": "Plato",
+  "type": "Character",
+  "aliases": [],
+  "description": "Records the lykaia rite on Mount Lykaion.",
+  "evidence": [
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Bishop of Mende",
+  "type": "Character",
+  "aliases": [
+   "Count of Gévaudan"
+  ],
+  "description": "Bishop who is also Count of Gévaudan, holding the Majaridas for the French crown.",
+  "evidence": [
+   "mythic-locations::0693"
+  ]
+ },
+ {
+  "name": "Holy Vehm",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Secret society known for kidnapping victims, midnight trials and summary justice.",
+  "evidence": [
+   "mythic-locations::0712"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House with which vis sources are registered and whose members know the Order's personalities.",
+  "evidence": [
+   "mythic-locations::0647",
+   "mythic-locations::0664"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi.",
+  "evidence": [
+   "mythic-locations::0662",
+   "mythic-locations::0664"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant whose library holds a copy of the Magic Lore tractatus on the truffle regio.",
+  "evidence": [
+   "mythic-locations::0665"
+  ]
+ },
+ {
+  "name": "Cunfin",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant near Dijon in Burgundy.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Atramentum Renatus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant near Dijon in Burgundy.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Nidi",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant near Périgord in the Normandy Tribunal.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Irencillia",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant near the Bohemian Forest in the Rhine Tribunal.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Loch Leglean"
+  ],
+  "description": "Tribunal where truffles are not found.",
+  "evidence": [
+   "mythic-locations::0601"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Hibernia"
+  ],
+  "description": "Tribunal where truffles are not found.",
+  "evidence": [
+   "mythic-locations::0601",
+   "mythic-locations::0602"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Normandy"
+  ],
+  "description": "Tribunal where black, white and Bohemian truffles grow; includes Burgundy and Périgord.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Provence",
+   "Provencal Tribunal"
+  ],
+  "description": "Tribunal with black truffles; the Wolf's Court is placed in its eastern reaches.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0679"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Iberia"
+  ],
+  "description": "Tribunal where black truffles grow.",
+  "evidence": [
+   "mythic-locations::0603"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal with Bohemian truffles, the Bohemian Forest, and Ansbach.",
+  "evidence": [
+   "mythic-locations::0604",
+   "mythic-locations::0608",
+   "mythic-locations::0690"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Greater Alps"
+  ],
+  "description": "Tribunal where Bohemian truffles grow.",
+  "evidence": [
+   "mythic-locations::0604"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where white truffles grow; includes Gubbio.",
+  "evidence": [
+   "mythic-locations::0604",
+   "mythic-locations::0690"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Novgorod"
+  ],
+  "description": "Tribunal within the range of Burgundy truffles.",
+  "evidence": [
+   "mythic-locations::0603"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Stonehenge"
+  ],
+  "description": "Tribunal within the range of Burgundy truffles.",
+  "evidence": [
+   "mythic-locations::0603"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Thebes"
+  ],
+  "description": "Tribunal containing Mount Lykaion in Arcadia.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal including Istria/Old Histria and Bulgaria.",
+  "evidence": [
+   "mythic-locations::0604",
+   "mythic-locations::0691",
+   "mythic-locations::0718"
+  ]
+ },
+ {
+  "name": "County of Périgord",
+  "type": "Place",
+  "aliases": [
+   "Périgord"
+  ],
+  "description": "Region of the Aquitaine producing the best black truffles; a suggested site for the truffle regio.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Piedmont",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region producing the best white truffles.",
+  "evidence": [
+   "mythic-locations::0604"
+  ]
+ },
+ {
+  "name": "Alba",
+  "type": "Place",
+  "aliases": [],
+  "description": "City in Piedmont famed for white truffles.",
+  "evidence": [
+   "mythic-locations::0604"
+  ]
+ },
+ {
+  "name": "Istria",
+  "type": "Place",
+  "aliases": [
+   "Istria peninsula",
+   "Old Histria"
+  ],
+  "description": "Croatian peninsula with the Motovun forest where white truffles grow.",
+  "evidence": [
+   "mythic-locations::0604",
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Motovun Forest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Forest on Istria where white truffles grow.",
+  "evidence": [
+   "mythic-locations::0604"
+  ]
+ },
+ {
+  "name": "Bohemia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of Germany where Bohemian truffles are eaten.",
+  "evidence": [
+   "mythic-locations::0605"
+  ]
+ },
+ {
+  "name": "Bohemian Forest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Isolated forest in the Rhine Tribunal suggested for the truffle realm.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Burgundy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region in Normandy Tribunal suggested for the truffle regio near Dijon.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Dijon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town near a small forest suggested for the truffle regio.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Pazin",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place on the Istria Peninsula in the Kingdom of Croatia.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Kingdom of Croatia",
+  "type": "Place",
+  "aliases": [
+   "Croatia"
+  ],
+  "description": "Kingdom where truffles grow.",
+  "evidence": [
+   "mythic-locations::0603",
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Dordogne River",
+  "type": "Place",
+  "aliases": [],
+  "description": "River in Périgord.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Bergerac",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town near Périgord forests.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Le Cité",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town near Périgord forests.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Prague",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town near the Bohemian Forest.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Passau",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town near the Bohemian Forest.",
+  "evidence": [
+   "mythic-locations::0608"
+  ]
+ },
+ {
+  "name": "Majarida Mountains",
+  "type": "Place",
+  "aliases": [
+   "Monts de la Margeride",
+   "Majaridas"
+  ],
+  "description": "Densely wooded, nearly uninhabited mountains in south-central France where the Wolf's Court lies.",
+  "evidence": [
+   "mythic-locations::0693",
+   "mythic-locations::0694"
+  ]
+ },
+ {
+  "name": "County of Gévaudan",
+  "type": "Place",
+  "aliases": [
+   "Gévaudan",
+   "Gavaudan"
+  ],
+  "description": "County in the Auvergne long troubled by bold wolves.",
+  "evidence": [
+   "mythic-locations::0685",
+   "mythic-locations::0693"
+  ]
+ },
+ {
+  "name": "Auvergne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of southern France where Romans found a wolf goddess shrine.",
+  "evidence": [
+   "mythic-locations::0685",
+   "mythic-locations::0687"
+  ]
+ },
+ {
+  "name": "Pallantium",
+  "type": "Place",
+  "aliases": [],
+  "description": "City founded by Evander on the site of Rome before Rome was built.",
+  "evidence": [
+   "mythic-locations::0683"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where the cult of Luperca took root.",
+  "evidence": [
+   "mythic-locations::0683",
+   "mythic-locations::0684"
+  ]
+ },
+ {
+  "name": "Mount Lykaion",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountain in Arcadia where the lykaia rite took place.",
+  "evidence": [
+   "mythic-locations::0683",
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Greek region containing Mount Lykaion.",
+  "evidence": [
+   "mythic-locations::0683",
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Ansbach",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region in the Rhine Tribunal strongly associated with wolves.",
+  "evidence": [
+   "mythic-locations::0690"
+  ]
+ },
+ {
+  "name": "Gubbio",
+  "type": "Place",
+  "aliases": [],
+  "description": "City in Umbria terrorized by a man-eating wolf.",
+  "evidence": [
+   "mythic-locations::0690",
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Umbria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of the Roman Tribunal containing Gubbio.",
+  "evidence": [
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Bulgaria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land in the Transylvanian Tribunal observing the vultchi praznitsi.",
+  "evidence": [
+   "mythic-locations::0691"
+  ]
+ },
+ {
+  "name": "Cave of Cruachan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Irish cave on Bricriu's Glen where the wolf-daughters of Airitech dwelt.",
+  "evidence": [
+   "mythic-locations::0688",
+   "mythic-locations::0689"
+  ]
+ },
+ {
+  "name": "Bricriu's Glen",
+  "type": "Place",
+  "aliases": [],
+  "description": "Irish glen containing the Cave of Cruachan.",
+  "evidence": [
+   "mythic-locations::0688"
+  ]
+ },
+ {
+  "name": "Ironwood",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mythical northern forest where Gullveig breeds wolves and witches.",
+  "evidence": [
+   "mythic-locations::0689"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm of Power where the Daimon of vengeance resides.",
+  "evidence": [
+   "mythic-locations::0681",
+   "mythic-locations::0682"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Dominion",
+   "Divine aura"
+  ],
+  "description": "Realm whose aura from a growing town can trap a truffle daughter in a regio; protects foresters.",
+  "evidence": [
+   "mythic-locations::0627",
+   "mythic-locations::0650"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm into which the She-Wolf could be varied as a faerie.",
+  "evidence": [
+   "mythic-locations::0712"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "demon"
+  ],
+  "description": "The She-Wolf could be a demonic force tempting men to sin.",
+  "evidence": [
+   "mythic-locations::0713"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Magical area of layered levels accessible under special conditions.",
+  "evidence": [
+   "mythic-locations::0606",
+   "mythic-locations::0609"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "aura"
+  ],
+  "description": "Area of Magic Realm influence; the truffle regio's levels have auras 3, 5 and 7.",
+  "evidence": [
+   "mythic-locations::0611",
+   "mythic-locations::0634",
+   "mythic-locations::0698"
+  ]
+ },
+ {
+  "name": "Aligned Aura",
+  "type": "Concept",
+  "aliases": [
+   "Creo aligned aura"
+  ],
+  "description": "Aura aligned to an Art; the truffle regio doubles its bonus for Creo activities.",
+  "evidence": [
+   "mythic-locations::0634"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Magical substance found in truffles, creatures and trees of the regio and sought by magi.",
+  "evidence": [
+   "mythic-locations::0600",
+   "mythic-locations::0635"
+  ]
+ },
+ {
+  "name": "Extraordinary Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rare vis in special forms such as spell-like or lesser enchantment truffles.",
+  "evidence": [
+   "mythic-locations::0607",
+   "mythic-locations::0635"
+  ]
+ },
+ {
+  "name": "Dedicated Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vis tied to a combination of Arts.",
+  "evidence": [
+   "mythic-locations::0640",
+   "mythic-locations::0641"
+  ]
+ },
+ {
+  "name": "Enrichment",
+  "type": "Concept",
+  "aliases": [
+   "Enriched"
+  ],
+  "description": "Process of enhancing a vis-bearing item, such as a Truffle of Virtue, into something with special properties.",
+  "evidence": [
+   "mythic-locations::0606",
+   "mythic-locations::0637",
+   "mythic-locations::0640"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [
+   "Might"
+  ],
+  "description": "Measure of a Magic creature's power.",
+  "evidence": [
+   "mythic-locations::0606",
+   "mythic-locations::0645"
+  ]
+ },
+ {
+  "name": "Temporary Might",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of truffles and elementals whereby spent Might recovers only over the season or with vis.",
+  "evidence": [
+   "mythic-locations::0652",
+   "mythic-locations::0653"
+  ]
+ },
+ {
+  "name": "Acclimation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Process eroding Magic creatures away from Magic auras, to which the She-Wolf's Aspect is vulnerable.",
+  "evidence": [
+   "mythic-locations::0697",
+   "mythic-locations::0700"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link such as blood or hair that boosts Penetration against a target.",
+  "evidence": [
+   "mythic-locations::0620",
+   "mythic-locations::0653",
+   "mythic-locations::0710"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Kind of Magic spirit that projects Aspects into the mundane world.",
+  "evidence": [
+   "mythic-locations::0681",
+   "mythic-locations::0700"
+  ]
+ },
+ {
+  "name": "Aspect",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Part of a Daimon that interacts with the mundane world independently.",
+  "evidence": [
+   "mythic-locations::0681",
+   "mythic-locations::0700"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Initiatory cult; the luperci survive as one.",
+  "evidence": [
+   "mythic-locations::0719"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magi's magic resistance, which does not resist the wolves' bite attacks.",
+  "evidence": [
+   "mythic-locations::0620"
+  ]
+ },
+ {
+  "name": "Ceremonial Casting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Casting method usable for a Ring/Circle Bountiful Feast.",
+  "evidence": [
+   "mythic-locations::0630"
+  ]
+ },
+ {
+  "name": "Trained Group",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Combat rule letting the wolf Pack Leader gain bonuses from his pack.",
+  "evidence": [
+   "mythic-locations::0620"
+  ]
+ },
+ {
+  "name": "Essential Trait",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personality Trait that cannot be altered by magic.",
+  "evidence": [
+   "mythic-locations::0701"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rite ending apprenticeship.",
+  "evidence": [
+   "mythic-locations::0676"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gathering of magi where disputes may be raised.",
+  "evidence": [
+   "mythic-locations::0647",
+   "mythic-locations::0649"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bonded animal companion of a magus, possibly knowing the truffle regio.",
+  "evidence": [
+   "mythic-locations::0658",
+   "mythic-locations::0662"
+  ]
+ },
+ {
+  "name": "Spiritual Pact",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue granting access to a Magical spirit's Might pool and powers.",
+  "evidence": [
+   "mythic-locations::0703",
+   "mythic-locations::0714",
+   "mythic-locations::0715"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue imposed by Gift of Silver Fur and Red Teeth.",
+  "evidence": [
+   "mythic-locations::0703"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing sight into regiones.",
+  "evidence": [
+   "mythic-locations::0609",
+   "mythic-locations::0621"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue usable to enter the truffle regio.",
+  "evidence": [
+   "mythic-locations::0609"
+  ]
+ },
+ {
+  "name": "Luck",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granted by the beech amulet.",
+  "evidence": [
+   "mythic-locations::0637"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granted by the poplar crown.",
+  "evidence": [
+   "mythic-locations::0638"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Wild Boar; porcine creatures denied the Rego vis become Berserk.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0643"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue reducing Fatigue penalties, possessed by the boars and wolves.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0616"
+  ]
+ },
+ {
+  "name": "Magical Champion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Wild Boar of the Woods and She-Wolf.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0701"
+  ]
+ },
+ {
+  "name": "Ways of the Wood",
+  "type": "Virtue",
+  "aliases": [
+   "Ways of the Forest",
+   "Ways of the Woods"
+  ],
+  "description": "Virtue giving combat bonuses in woods.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0617",
+   "mythic-locations::0673"
+  ]
+ },
+ {
+  "name": "Master of Animal Creatures",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue letting the She-Wolf train creatures with Animal-aligned Might.",
+  "evidence": [
+   "mythic-locations::0699",
+   "mythic-locations::0701"
+  ]
+ },
+ {
+  "name": "Essential Virtue",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Matron and daughters.",
+  "evidence": [
+   "mythic-locations::0666"
+  ]
+ },
+ {
+  "name": "Lycanthropy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw imposed by The Shape of Vengeance, transforming the victim into a wolf.",
+  "evidence": [
+   "mythic-locations::0704",
+   "mythic-locations::0705"
+  ]
+ },
+ {
+  "name": "Delusion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw imposed by The False Gift of Revenge.",
+  "evidence": [
+   "mythic-locations::0704"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw imposed by Virus Lunae.",
+  "evidence": [
+   "mythic-locations::0705",
+   "mythic-locations::0706"
+  ]
+ },
+ {
+  "name": "Environmental Sensitivity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of awakened truffles, differing by truffle type.",
+  "evidence": [
+   "mythic-locations::0666",
+   "mythic-locations::0670"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Wild Boar (Protect the Wood), drones and daughters.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0666"
+  ]
+ },
+ {
+  "name": "Wrathful",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Wild Boar of the Woods.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0617"
+  ]
+ },
+ {
+  "name": "Fury",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Wild Boar of the Woods.",
+  "evidence": [
+   "mythic-locations::0613",
+   "mythic-locations::0617"
+  ]
+ },
+ {
+  "name": "Anchored to the Earth",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of awakened truffles.",
+  "evidence": [
+   "mythic-locations::0666"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability revealing knowledge about vis-bearing and awakened truffles.",
+  "evidence": [
+   "mythic-locations::0606",
+   "mythic-locations::0664"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability granting knowledge of truffles.",
+  "evidence": [
+   "mythic-locations::0605",
+   "mythic-locations::0607"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability revealing the story of Elisha and the hadith on truffles.",
+  "evidence": [
+   "mythic-locations::0605"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability knowing clergy denounce truffles as witch's fare.",
+  "evidence": [
+   "mythic-locations::0605",
+   "mythic-locations::0606"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability revealing local truffle types and sites.",
+  "evidence": [
+   "mythic-locations::0606",
+   "mythic-locations::0685"
+  ]
+ },
+ {
+  "name": "Organization Lore: Order of Hermes",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to narrow authors of marginalia.",
+  "evidence": [
+   "mythic-locations::0664",
+   "mythic-locations::0668"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability possessed by the Truffle Matron.",
+  "evidence": [
+   "mythic-locations::0668"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability adding to creature power Penetration.",
+  "evidence": [
+   "mythic-locations::0614",
+   "mythic-locations::0702"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique to which the truffle regio aura is aligned.",
+  "evidence": [
+   "mythic-locations::0633",
+   "mythic-locations::0634"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of plants; truffle vis is often Herbam.",
+  "evidence": [
+   "mythic-locations::0641",
+   "mythic-locations::0670"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of one truffle vis source.",
+  "evidence": [
+   "mythic-locations::0642"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of one truffle vis source.",
+  "evidence": [
+   "mythic-locations::0643"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of the boars' and She-Wolf's vis.",
+  "evidence": [
+   "mythic-locations::0616",
+   "mythic-locations::0706"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of some creature powers.",
+  "evidence": [
+   "mythic-locations::0615",
+   "mythic-locations::0702"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of beech vis and several She-Wolf powers.",
+  "evidence": [
+   "mythic-locations::0636",
+   "mythic-locations::0703"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of vis in Oak Trees of Virtue.",
+  "evidence": [
+   "mythic-locations::0636"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of vis in Hazel Trees of Virtue.",
+  "evidence": [
+   "mythic-locations::0636"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of the Earth Elemental's Might.",
+  "evidence": [
+   "mythic-locations::0673"
+  ]
+ }
+]

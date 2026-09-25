@@ -1,0 +1,1532 @@
+[
+ {
+  "name": "The Evil Eye",
+  "type": "Flaw",
+  "aliases": [
+   "Evil Eye"
+  ],
+  "description": "Minor Supernatural Flaw: the uncontrolled potential to harm others; those making stress rolls in the character's presence roll an extra botch die, warded off by amulets, rituals, or magic resistance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0720",
+   "realms-of-power-the-divine-revised::0748",
+   "realms-of-power-the-divine-revised::0749"
+  ]
+ },
+ {
+  "name": "Gabai",
+  "type": "Flaw",
+  "description": "Minor Social Status Flaw for the community-appointed Jewish tax collector, who carries a -2 Reputation of 'Tax Collector'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0721",
+   "realms-of-power-the-divine-revised::0748"
+  ]
+ },
+ {
+  "name": "Karaite Magic",
+  "type": "Flaw",
+  "description": "Major Hermetic Flaw requiring all magic to be designed with Holy Magic, forbidding divination, astrology, and summoning spirits, and barring acceptance of non-Karaite magic or healing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0722",
+   "realms-of-power-the-divine-revised::0741"
+  ]
+ },
+ {
+  "name": "Outsider",
+  "type": "Flaw",
+  "description": "Social Status Flaw (Minor or Major) for members of distrusted groups such as Jews, Saracens, or Moors, giving a bad Reputation; required of Jewish grogs (Minor) and companions (Major).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0723",
+   "realms-of-power-the-divine-revised::0745",
+   "realms-of-power-the-divine-revised::0750"
+  ]
+ },
+ {
+  "name": "Tzadik Nistar",
+  "type": "Flaw",
+  "description": "Major Story Flaw: the character is one of the 36 hidden righteous on whom the world relies, destined to face a moral test with grave consequences if failed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0724"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entity",
+  "type": "Flaw",
+  "description": "Story Flaw gained when a Merkavah student botches the Disciplined roll, alerting Infernal spirits to his search.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0771"
+  ]
+ },
+ {
+  "name": "Weak-Willed",
+  "type": "Flaw",
+  "description": "Flaw that all golems suffer, representing their trusting nature.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0761"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "description": "Flaw taken by the Ba'al Shem companion template, troubled by faeries of the road.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0750",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Meddler",
+  "type": "Flaw",
+  "description": "Minor Flaw taken by the shadchan grog template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0746"
+  ]
+ },
+ {
+  "name": "Clumsy",
+  "type": "Flaw",
+  "description": "Flaw taken by the shadchan grog template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0746"
+  ]
+ },
+ {
+  "name": "Carefree",
+  "type": "Flaw",
+  "description": "Personality Flaw taken by the Ba'al Shem companion template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0750"
+  ]
+ },
+ {
+  "name": "Driven",
+  "type": "Flaw",
+  "description": "Major Flaw taken by the kabbalist template, driven to obtain kabbalistic secrets.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Feud",
+  "type": "Flaw",
+  "description": "Flaw taken by the kabbalist template, feuding with Karaite kabbalists.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "description": "Flaw taken by the kabbalist companion template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "description": "Flaw taken by the Radhanite merchant template, with Christian merchants as enemies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "description": "Minor Flaw taken by the Radhanite merchant template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Obese",
+  "type": "Flaw",
+  "description": "Flaw taken by the Radhanite merchant template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Tragedy of Hubris",
+  "type": "Concept",
+  "aliases": [
+   "Minor Tragedy of Hubris"
+  ],
+  "description": "Consequence suffered by kabbalists who overreach, e.g. attempting to create a second golem for a community already protected; also triggers golem madness rolls.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0762",
+   "realms-of-power-the-divine-revised::0766"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Virtue",
+  "description": "Major Non-Hermetic Virtue and Ability by which Karaite magi design all their magic in accordance with God's will instead of Magic Theory.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0722",
+   "realms-of-power-the-divine-revised::0741"
+  ]
+ },
+ {
+  "name": "Kabbalist",
+  "type": "Virtue",
+  "description": "Free Mythic Companion Virtue representing the calling of a kabbalist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "description": "Virtue (here Educated (Hebrew)) required of kabbalists and taken by Jewish templates.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0746",
+   "realms-of-power-the-divine-revised::0748"
+  ]
+ },
+ {
+  "name": "Shadchan",
+  "type": "Virtue",
+  "description": "Social Status Virtue of the Jewish marriage broker.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0746"
+  ]
+ },
+ {
+  "name": "Sofer",
+  "type": "Virtue",
+  "description": "Social Status Virtue of the Jewish scribe.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0748",
+   "realms-of-power-the-divine-revised::0749"
+  ]
+ },
+ {
+  "name": "Rabbi",
+  "type": "Virtue",
+  "description": "Social Status Virtue taken by the kabbalist template, who must tend to his community's earthly concerns.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751",
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Merchant",
+  "type": "Virtue",
+  "description": "Social Status Virtue taken by the Radhanite merchant template; also an Ability.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752",
+   "realms-of-power-the-divine-revised::0753"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Virtue",
+  "description": "Virtue and Ability allowing a leader to combine the efforts of several practitioners, granting a Ceremony bonus when awakening golems or seeking True Names.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0760",
+   "realms-of-power-the-divine-revised::0769"
+  ]
+ },
+ {
+  "name": "Adjuration",
+  "type": "Virtue",
+  "description": "Holy Method favored by the Ba'al Shem, used in the Merkavah Total.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0739",
+   "realms-of-power-the-divine-revised::0750",
+   "realms-of-power-the-divine-revised::0769"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Virtue",
+  "description": "Holy Method favored by the Ba'al Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0739",
+   "realms-of-power-the-divine-revised::0750"
+  ]
+ },
+ {
+  "name": "Invocation",
+  "type": "Virtue",
+  "description": "Holy Method; Kabbalah is its Jewish form.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0735",
+   "realms-of-power-the-divine-revised::0739",
+   "realms-of-power-the-divine-revised::0759"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Virtue",
+  "description": "Divine Method; Gematria is its Jewish form, and Dream Interpretation can act as a form of it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0730",
+   "realms-of-power-the-divine-revised::0733",
+   "realms-of-power-the-divine-revised::0765"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Virtue",
+  "description": "Holy Method; Merkavah is its Jewish form.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736",
+   "realms-of-power-the-divine-revised::0768"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Virtue",
+  "description": "Holy Power used by kabbalists, contributing to the Shinnui Shem aging bonus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751",
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Wonders",
+  "type": "Virtue",
+  "description": "Holy Power used in the Awaken Golem and Empower Golem totals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751",
+   "realms-of-power-the-divine-revised::0760",
+   "realms-of-power-the-divine-revised::0763"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Virtue",
+  "description": "Holy Power whose guideline is used in the example golem power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0765"
+  ]
+ },
+ {
+  "name": "Transcendence",
+  "type": "Virtue",
+  "description": "Holy Method favored by the Karaites.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0741"
+  ]
+ },
+ {
+  "name": "Philosophic Magic",
+  "type": "Virtue",
+  "description": "Virtue taken by the kabbalist companion template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Puissant Kabbalah",
+  "type": "Virtue",
+  "description": "Virtue granting a bonus to Kabbalah, taken by the kabbalist template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Puissant Scribe",
+  "type": "Virtue",
+  "description": "Virtue taken by the sofer template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0748"
+  ]
+ },
+ {
+  "name": "Puissant Merchant",
+  "type": "Virtue",
+  "description": "Virtue taken by the Radhanite merchant template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Clear Thinker",
+  "type": "Virtue",
+  "description": "Virtue taken by the shadchan and kabbalist templates.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0746",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Good Teacher",
+  "type": "Virtue",
+  "description": "Virtue taken by the kabbalist template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "description": "Virtue taken by the kabbalist (Kabbalists) and Radhanite merchant templates.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751",
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Gossip",
+  "type": "Virtue",
+  "description": "Virtue taken by the sofer template, who is known as a local gossip.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0748",
+   "realms-of-power-the-divine-revised::0749"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "description": "Taken by the Ba'al Shem companion template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0750"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "description": "Virtue taken by the Radhanite merchant template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Protection",
+  "type": "Virtue",
+  "description": "Virtue taken by the Radhanite merchant, protected by the Muqta' of Baghdad.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "description": "Virtue taken by the Radhanite merchant template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Unaging",
+  "type": "Virtue",
+  "description": "Virtue possessed by all golems.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0761"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Virtue possessed by all golems.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0761"
+  ]
+ },
+ {
+  "name": "Craft Amulets",
+  "type": "Ability",
+  "description": "Supernatural Ability used by the Ba'al Shem with Holy Methods and Powers to create Minor and Major amulets of Touch range and Worn duration.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0725",
+   "realms-of-power-the-divine-revised::0726",
+   "realms-of-power-the-divine-revised::0739"
+  ]
+ },
+ {
+  "name": "Dream Interpretation",
+  "type": "Ability",
+  "description": "Supernatural Ability used either as a form of Meditation or as direct divination through interpreting dreams.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0730",
+   "realms-of-power-the-divine-revised::0731",
+   "realms-of-power-the-divine-revised::0732"
+  ]
+ },
+ {
+  "name": "Gematria",
+  "type": "Ability",
+  "description": "Supernatural Ability, the Jewish form of the Meditation Divine Method; also a divination method revealing hidden numeric meanings in the Torah and the basis of Shinnui Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0733",
+   "realms-of-power-the-divine-revised::0755",
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Kabbalah",
+  "type": "Ability",
+  "description": "Supernatural Ability, the Jewish form of the Invocation Divine Method, and the mystical understanding of creation used to make golems; also the Jewish occult tradition as a whole.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0735",
+   "realms-of-power-the-divine-revised::0754",
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "Merkavah",
+  "type": "Ability",
+  "description": "Supernatural Ability, the Jewish form of the Purity Divine Method, and the study of the names of angels, demons and other creatures to learn their True Names.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736",
+   "realms-of-power-the-divine-revised::0768",
+   "realms-of-power-the-divine-revised::0769"
+  ]
+ },
+ {
+  "name": "Judaic Lore",
+  "type": "Ability",
+  "description": "Knowledge of Jewish cultural practice such as poetry, folklore, and songs.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0734",
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Rabbinical Law",
+  "type": "Ability",
+  "aliases": [
+   "Rabbinic Law"
+  ],
+  "description": "Academic Ability, the Jewish version of Civil & Canon Law, drawing on the Talmud, Oral Torah and responsa of the Geonim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0737",
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Theology: Judaism",
+  "type": "Ability",
+  "description": "Academic Ability, the Jewish equivalent of Christian Theology, based on the Torah, Nevi'im and Ketuvim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0738",
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Civil & Canon Law",
+  "type": "Ability",
+  "description": "Academic Ability of which Rabbinical Law is the Jewish version.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0737",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Ability",
+  "description": "Ability that grants a bonus to Dream Interpretation divination rolls.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0730"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Lore Ability studied by some members of the Circle of the Unique Cherub and required of kabbalists.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0735",
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Hebrew",
+  "type": "Ability",
+  "description": "Language Ability required of kabbalists and possessed by all golems.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0761"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Hermetic Ability which Karaite magi replace with Holy Magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0722"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability required of kabbalists.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0746"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability governing how effects overcome resistance; applies to amulets and golem powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0726",
+   "realms-of-power-the-divine-revised::0750",
+   "realms-of-power-the-divine-revised::0763"
+  ]
+ },
+ {
+  "name": "Aramaic",
+  "type": "Ability",
+  "description": "Language Ability of the sofer and kabbalist templates.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0749",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Percamenarius",
+  "type": "Ability",
+  "description": "Craft ability of the sofer, specialized in Sefer Torah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0749"
+  ]
+ },
+ {
+  "name": "Illumination",
+  "type": "Ability",
+  "description": "Ability of the sofer, specialized in Sefer Torah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0749"
+  ]
+ },
+ {
+  "name": "Profession: Shadchan",
+  "type": "Ability",
+  "description": "Profession ability of the Jewish marriage broker.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0746"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique; Dream Interpretation Ease Factors equal the level of an equivalent Momentary Intellego spell.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0730",
+   "realms-of-power-the-divine-revised::0732"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form of the mind, referenced via an Intellego Mentem spell.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0732"
+  ]
+ },
+ {
+  "name": "Perception of the Conflicting Motives",
+  "type": "Spell",
+  "description": "Intellego Mentem spell used as the Ease Factor (15) benchmark in the Dream Interpretation example.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0732"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Hermetic ward whose magic resistance suffices to guard against the Evil Eye.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0720"
+  ]
+ },
+ {
+  "name": "Holy Methods",
+  "type": "Concept",
+  "aliases": [
+   "Holy Method",
+   "Divine Method"
+  ],
+  "description": "Divine abilities (e.g. Adjuration, Blessing, Invocation, Meditation, Purity) of which Jewish Abilities like Gematria, Kabbalah and Merkavah are forms.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0725",
+   "realms-of-power-the-divine-revised::0735",
+   "realms-of-power-the-divine-revised::0763"
+  ]
+ },
+ {
+  "name": "Holy Powers",
+  "type": "Concept",
+  "aliases": [
+   "Holy Power"
+  ],
+  "description": "Divine powers combined with Holy Methods; golem powers are designed with their guidelines.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0725",
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0763"
+  ]
+ },
+ {
+  "name": "Holy Tradition",
+  "type": "Concept",
+  "description": "Category of Divine practitioner traditions such as the Ba'al Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0739"
+  ]
+ },
+ {
+  "name": "Holy Societates",
+  "type": "Concept",
+  "description": "Category for Hermetic lineages practicing holy magic, such as the Karaites.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0741"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "Companion character type with supernatural calling, such as the kabbalist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Amulet",
+  "type": "Item",
+  "aliases": [
+   "Seggulot",
+   "Minor Amulet",
+   "Major Amulet"
+  ],
+  "description": "Protective or aiding object crafted with Craft Amulets, Minor (for an individual, lasting days or weeks) or Major (taking seasons to create).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0725",
+   "realms-of-power-the-divine-revised::0726",
+   "realms-of-power-the-divine-revised::0727"
+  ]
+ },
+ {
+  "name": "Worn",
+  "type": "Concept",
+  "description": "New duration for amulets, equivalent to Sun, lasting until the amulet is broken or removed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0725"
+  ]
+ },
+ {
+  "name": "Terafim",
+  "type": "Item",
+  "description": "Small pottery figurines used in divination and witchcraft, giving +5 to Understanding or Cursing amulet effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0728"
+  ]
+ },
+ {
+  "name": "Star of David",
+  "type": "Concept",
+  "description": "Symbol providing a +5 bonus to protection amulets.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0728"
+  ]
+ },
+ {
+  "name": "Shinnui Shem",
+  "type": "Concept",
+  "description": "Kabbalistic rite of changing one's True Name through Gematria, severing arcane connections and granting a bonus to Aging Rolls.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0733",
+   "realms-of-power-the-divine-revised::0756",
+   "realms-of-power-the-divine-revised::0760"
+  ]
+ },
+ {
+  "name": "True Name",
+  "type": "Concept",
+  "description": "A being's hidden name; kabbalists learn angels' and others' True Names via Merkavah for use as Holy Connections, and golems possess one fixed at creation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736",
+   "realms-of-power-the-divine-revised::0760",
+   "realms-of-power-the-divine-revised::0769"
+  ]
+ },
+ {
+  "name": "Holy Connection",
+  "type": "Concept",
+  "description": "Connection akin to an arcane connection; a learned True Name serves as one and grants +5 Penetration.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0726",
+   "realms-of-power-the-divine-revised::0769"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Link to a target used by amulets and Dream Interpretation; severed by Shinnui Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0726",
+   "realms-of-power-the-divine-revised::0731",
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Sefirot",
+  "type": "Concept",
+  "aliases": [
+   "Sefirah",
+   "sephirot"
+  ],
+  "description": "The ten emanations described in the Sefer Yetzirah, the knowable aspects of creation, studied in Kabbalah from Malchut to Keter.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0754",
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "The Tree of Life",
+  "type": "Concept",
+  "aliases": [
+   "Etz Chayim"
+  ],
+  "description": "The Etz Chayim, visual arrangement of the ten Sefirot linked by 22 pathways aligned to the Hebrew letters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "Keter",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Crown', level 10 on the Tree of Life; understood by a kabbalist with Kabbalah 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "Chochmah",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Wisdom', level 9 on the Tree of Life; understood by a kabbalist with Kabbalah 9.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Binah",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Insight', level 8 on the Tree of Life; understood by a kabbalist with Kabbalah 8.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Chessed",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Love', level 7 on the Tree of Life; understood by a kabbalist with Kabbalah 7.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Gevurah",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Power', level 6 on the Tree of Life; understood by a kabbalist with Kabbalah 6.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Tiferet",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Beauty', level 5 on the Tree of Life; understood by a kabbalist with Kabbalah 5.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "Netzach",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Endurance', level 4 on the Tree of Life; understood by a kabbalist with Kabbalah 4.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Hod",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Splendor', level 3 on the Tree of Life; understood by a kabbalist with Kabbalah 3.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Yesod",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Foundation', level 2 on the Tree of Life; understood by a kabbalist with Kabbalah 2.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Malchut",
+  "type": "Concept",
+  "description": "Sefirah meaning 'Kingdom', level 1 on the Tree of Life; understood by a kabbalist with Kabbalah 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "Ein Sof",
+  "type": "Concept",
+  "description": "The infinite and unknowable counterpart to the Sefirot; hubristic kabbalists who strive for it risk temptation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0758"
+  ]
+ },
+ {
+  "name": "Kabbalah Shimmush",
+  "type": "Concept",
+  "aliases": [
+   "practical kabbalah"
+  ],
+  "description": "Practical kabbalah, the relatively new pragmatic, ritualistic application of the forces of creation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "Jewish Mysticism",
+  "type": "Concept",
+  "description": "Jewish occult tradition encompassing Gematria, Kabbalah, golems and Merkavah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0754",
+   "realms-of-power-the-divine-revised::0733"
+  ]
+ },
+ {
+  "name": "Chariot Mysteries",
+  "type": "Concept",
+  "description": "Ancient mystical practice inspired by Ezekiel's vision of the divine chariot, seeking communion with angels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0768"
+  ]
+ },
+ {
+  "name": "Emet",
+  "type": "Concept",
+  "description": "Word meaning 'truth' written on a golem's forehead; erasing the aleph makes it 'met' (death) and returns the golem to clay.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0767"
+  ]
+ },
+ {
+  "name": "Eruv",
+  "type": "Concept",
+  "description": "Boundary temporarily set up to define the community a golem protects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0761"
+  ]
+ },
+ {
+  "name": "Mitzvah",
+  "type": "Concept",
+  "aliases": [
+   "mitzvot"
+  ],
+  "description": "Religious commandment; commanding a golem to transgress one risks madness.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0766",
+   "realms-of-power-the-divine-revised::0753"
+  ]
+ },
+ {
+  "name": "Divine Might",
+  "type": "Concept",
+  "description": "A golem's Might Score, accumulated during awakening and spent to use its powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0760",
+   "realms-of-power-the-divine-revised::0763",
+   "realms-of-power-the-divine-revised::0764"
+  ]
+ },
+ {
+  "name": "Dominion Aura",
+  "type": "Concept",
+  "aliases": [
+   "Divine aura"
+  ],
+  "description": "Divine aura adding a bonus to amulet crafting, golem creation and Merkavah totals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0726",
+   "realms-of-power-the-divine-revised::0732",
+   "realms-of-power-the-divine-revised::0760"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance of 0 or more, including the Aegis of the Hearth, which protects against the Evil Eye.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0720"
+  ]
+ },
+ {
+  "name": "Aging Roll",
+  "type": "Concept",
+  "description": "Roll against aging to which Shinnui Shem grants a bonus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "description": "Hermetic rituals to prolong life; Karaites must design them with Holy Magic, and they don't stack with Shinnui Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0722",
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "description": "Process by which Ba'al Shem and kabbalist communities grant members additional Holy Methods and Powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0740",
+   "realms-of-power-the-divine-revised::0742"
+  ]
+ },
+ {
+  "name": "Goetic Arts",
+  "type": "Concept",
+  "description": "Infernal summoning arts (Summoning, Commanding, Binding) used by the Ba'al Ov.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0744"
+  ]
+ },
+ {
+  "name": "Natural Philosophy",
+  "type": "Concept",
+  "description": "Arts open to Jewish scholars distrustful of magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743",
+   "realms-of-power-the-divine-revised::0744"
+  ]
+ },
+ {
+  "name": "Elemental Magic",
+  "type": "Concept",
+  "description": "Magical tradition to which Jewish scholars are drawn, especially in Muslim Spain or the East.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Learned Magician",
+  "type": "CharacterType",
+  "description": "Hedge magic tradition some Jewish scholars adopt.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0743"
+  ]
+ },
+ {
+  "name": "Ba'al Shem",
+  "type": "Faction",
+  "description": "Jewish itinerant folk magicians, 'masters of the Divine name', who craft amulets and deliver blessings for pay; favored Abilities Adjuration, Blessing, Craft Amulets and Invocation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0739",
+   "realms-of-power-the-divine-revised::0740",
+   "realms-of-power-the-divine-revised::0750"
+  ]
+ },
+ {
+  "name": "Karaites",
+  "type": "Faction",
+  "aliases": [
+   "Karaite"
+  ],
+  "description": "Strict scriptural Jewish sect; Gifted Karaites form a small lineage in House Ex Miscellanea practicing Holy Magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0722",
+   "realms-of-power-the-divine-revised::0741"
+  ]
+ },
+ {
+  "name": "Kabbalists",
+  "type": "Faction",
+  "description": "Jewish mystics drawing on the Sefer Yetzirah and Sefirot, often in large urban Jewish communities working with Ceremony.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Circle of the Unique Cherub",
+  "type": "Faction",
+  "description": "Small invitation-only school of no more than a dozen Jewish mystics in Provence and the Rhine, using the Sefer Yetzirah; they have created three golems.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0735"
+  ]
+ },
+ {
+  "name": "Ba'al Ov",
+  "type": "Faction",
+  "aliases": [
+   "Meonen",
+   "Sho'elim 'ov"
+  ],
+  "description": "Jewish necromantic summoners who compel spirits into objects and corpses using Goetic Arts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0744"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "Hermetic House containing a Karaite lineage.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0741"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The Order which Gifted Karaites can join if their magic is wholly based on God's will.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0741",
+   "realms-of-power-the-divine-revised::0747"
+  ]
+ },
+ {
+  "name": "Radhanites",
+  "type": "Faction",
+  "aliases": [
+   "Radhanite merchant"
+  ],
+  "description": "Jewish merchants; the Radhanite merchant template serves the Muqta' of Baghdad.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752",
+   "realms-of-power-the-divine-revised::0753"
+  ]
+ },
+ {
+  "name": "Tzadikim Nistarim",
+  "type": "Faction",
+  "aliases": [
+   "the 36"
+  ],
+  "description": "The 36 hidden righteous upon whom the continuation of the world relies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0724"
+  ]
+ },
+ {
+  "name": "Geonim",
+  "type": "Faction",
+  "description": "Jewish authorities whose responsa are a major source of Rabbinical Law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0737"
+  ]
+ },
+ {
+  "name": "Jews",
+  "type": "Faction",
+  "description": "The Jewish people, distrusted outsiders in Europe living in communities or Jewish quarters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0723",
+   "realms-of-power-the-divine-revised::0745"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "description": "Group readily identified and distrusted by Europeans.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0723"
+  ]
+ },
+ {
+  "name": "Moors",
+  "type": "Faction",
+  "description": "Group readily identified and distrusted by Europeans.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0723"
+  ]
+ },
+ {
+  "name": "Shadchan",
+  "type": "CharacterType",
+  "description": "Jewish marriage broker grog template who travels between communities finding matches.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0746",
+   "realms-of-power-the-divine-revised::0747"
+  ]
+ },
+ {
+  "name": "Sofer",
+  "type": "CharacterType",
+  "description": "Jewish scribe grog template, here also tax collector and gossip.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0748",
+   "realms-of-power-the-divine-revised::0749"
+  ]
+ },
+ {
+  "name": "Ba'al Shem (companion)",
+  "type": "CharacterType",
+  "description": "Companion template of an itinerant Ba'al Shem tinker working wonders around Bremen.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0750",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Kabbalist (companion)",
+  "type": "CharacterType",
+  "description": "Mythic Companion template, a rabbi and kabbalist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0742",
+   "realms-of-power-the-divine-revised::0751",
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Radhanite Merchant",
+  "type": "CharacterType",
+  "description": "Wealthy Jewish merchant companion template serving a richer master.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752",
+   "realms-of-power-the-divine-revised::0753"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "description": "Background character type; Jewish grogs must take Outsider (Minor).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0745"
+  ]
+ },
+ {
+  "name": "Golem",
+  "type": "Creature",
+  "description": "Clay figure brought to life by Divine energies through Kabbalah, usually in human form as protector of a community; has Divine Might and may be empowered, go mad, or be destroyed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0759",
+   "realms-of-power-the-divine-revised::0760",
+   "realms-of-power-the-divine-revised::0767"
+  ]
+ },
+ {
+  "name": "Angel of Death",
+  "type": "Creature",
+  "description": "Angel who carries men away at death; Shinnui Shem hides a man from him by changing his name.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Angels",
+  "type": "Creature",
+  "description": "Divine beings whose True Names Ba'al Shem invoke and Merkavah practitioners seek.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736",
+   "realms-of-power-the-divine-revised::0739",
+   "realms-of-power-the-divine-revised::0768"
+  ]
+ },
+ {
+  "name": "Demons",
+  "type": "Creature",
+  "description": "Infernal beings whose True Names can be learned via Merkavah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736",
+   "realms-of-power-the-divine-revised::0769"
+  ]
+ },
+ {
+  "name": "Faeries",
+  "type": "Creature",
+  "description": "Creatures of the Faerie realm; faeries of the road plague the Ba'al Shem template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736",
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "Ghosts",
+  "type": "Creature",
+  "description": "Spirits of the dead which Karaites may not summon; some dream interpreters sleep in graveyards for their aid.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0722",
+   "realms-of-power-the-divine-revised::0731"
+  ]
+ },
+ {
+  "name": "Aron",
+  "type": "Character",
+  "aliases": [
+   "Ba'al Shem Aron"
+  ],
+  "description": "A Ba'al Shem who interprets Elizabeth's dreams in an example.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0731",
+   "realms-of-power-the-divine-revised::0732"
+  ]
+ },
+ {
+  "name": "Elizabeth",
+  "type": "Character",
+  "description": "Woman who consults Ba'al Shem Aron about her secretive husband.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0731",
+   "realms-of-power-the-divine-revised::0732"
+  ]
+ },
+ {
+  "name": "Moshe ben Isaac",
+  "type": "Character",
+  "aliases": [
+   "Moshe"
+  ],
+  "description": "Example kabbalist who creates the golem Isaac to protect his community from a corrupt tax collector.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0764",
+   "realms-of-power-the-divine-revised::0765"
+  ]
+ },
+ {
+  "name": "Isaac (golem)",
+  "type": "Character",
+  "description": "Golem created by Moshe ben Isaac with Divine Might 23, empowered to instill Divine anxiety in a greedy tax collector.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0764",
+   "realms-of-power-the-divine-revised::0765"
+  ]
+ },
+ {
+  "name": "Muqta' of Baghdad",
+  "type": "Character",
+  "description": "Powerful patron protecting the Radhanite merchant.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752",
+   "realms-of-power-the-divine-revised::0753"
+  ]
+ },
+ {
+  "name": "David",
+  "type": "Character",
+  "description": "Biblical figure who received dreams from God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0730"
+  ]
+ },
+ {
+  "name": "Joseph",
+  "type": "Character",
+  "description": "Biblical figure who received dreams from God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0730"
+  ]
+ },
+ {
+  "name": "Ezekiel",
+  "type": "Character",
+  "description": "Prophet whose vision of the divine chariot inspired Merkavah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0768"
+  ]
+ },
+ {
+  "name": "Isaiah",
+  "type": "Character",
+  "description": "Prophet whose enthronement visions inspired Merkavah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0768"
+  ]
+ },
+ {
+  "name": "Provence",
+  "type": "Place",
+  "description": "Region where the Circle of the Unique Cherub is based.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0735"
+  ]
+ },
+ {
+  "name": "Rhine",
+  "type": "Place",
+  "description": "Region where the Circle of the Unique Cherub is based.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0735"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "City where Karaite magi are most likely found.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0741"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "description": "Region where Kabbalah arose and where outsider cultures are common; Muslim Iberia hosts Karaite magi.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0723",
+   "realms-of-power-the-divine-revised::0741",
+   "realms-of-power-the-divine-revised::0754"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Region where outsider cultures are more common.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0723"
+  ]
+ },
+ {
+  "name": "Bremen",
+  "type": "Place",
+  "description": "Area around which the Ba'al Shem template travels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0751"
+  ]
+ },
+ {
+  "name": "York",
+  "type": "Place",
+  "description": "City whose Jews know the sofer as tax collector and gossip.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0749"
+  ]
+ },
+ {
+  "name": "Baghdad",
+  "type": "Place",
+  "description": "City of the Muqta' who protects the Radhanite merchant.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Southern France",
+  "type": "Place",
+  "description": "Region where Kabbalah arose in the twelfth century.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0754"
+  ]
+ },
+ {
+  "name": "Sefer Yetzirah",
+  "type": "Item",
+  "description": "Foundational kabbalistic text describing creation from numbers, writing and speech, and the ten Sefirot.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0735",
+   "realms-of-power-the-divine-revised::0754",
+   "realms-of-power-the-divine-revised::0757"
+  ]
+ },
+ {
+  "name": "Torah",
+  "type": "Item",
+  "aliases": [
+   "Sefer Torah"
+  ],
+  "description": "The direct written word of God; primary source for Gematria and Jewish theology.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0738",
+   "realms-of-power-the-divine-revised::0755"
+  ]
+ },
+ {
+  "name": "Oral Torah",
+  "type": "Item",
+  "description": "Major source of Rabbinical Law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0737"
+  ]
+ },
+ {
+  "name": "Talmud",
+  "type": "Item",
+  "description": "Major source of Rabbinical Law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0737",
+   "realms-of-power-the-divine-revised::0752"
+  ]
+ },
+ {
+  "name": "Tanakh",
+  "type": "Item",
+  "description": "Hebrew Bible used in Shinnui Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0756"
+  ]
+ },
+ {
+  "name": "Nevi'im",
+  "type": "Item",
+  "description": "Source for Jewish theology.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0738"
+  ]
+ },
+ {
+  "name": "Ketuvim",
+  "type": "Item",
+  "description": "Source for Jewish theology.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0738"
+  ]
+ },
+ {
+  "name": "Book of Jeremiah",
+  "type": "Item",
+  "description": "Biblical book telling Jews to seek the well-being of where they live, justifying golem protectors.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0759"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Dominion"
+  ],
+  "description": "Realm source of Jewish mystical power, manifest as the Dominion.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0724",
+   "realms-of-power-the-divine-revised::0754"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm that may claim souls or alert its spirits to careless Merkavah students.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0724",
+   "realms-of-power-the-divine-revised::0747",
+   "realms-of-power-the-divine-revised::0771"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "description": "Realm whose creatures' names Merkavah studies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "description": "Realm whose creatures' names Merkavah studies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0736"
+  ]
+ }
+]

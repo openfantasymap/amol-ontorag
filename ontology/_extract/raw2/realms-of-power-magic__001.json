@@ -1,0 +1,2516 @@
+[
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Realm of Magic",
+   "Magical Realm"
+  ],
+  "description": "The realm of Magic, a supernatural otherworld where travelers accumulate vis instead of experience and the effective Magic aura exceeds ten.",
+  "evidence": [
+   "realms-of-power-magic::0140",
+   "realms-of-power-magic::0136",
+   "realms-of-power-magic::0153"
+  ]
+ },
+ {
+  "name": "Twilight Void",
+  "type": "Place",
+  "aliases": [
+   "the Void",
+   "machina mundi",
+   "spirit realm",
+   "Plato's Realm of Forms"
+  ],
+  "description": "A part of the Magic Realm fundamentally different from the rest, a timeless place connecting other places, reached through boundaries or vestiges and divided into provinces by Form.",
+  "evidence": [
+   "realms-of-power-magic::0124",
+   "realms-of-power-magic::0120",
+   "realms-of-power-magic::0134"
+  ]
+ },
+ {
+  "name": "Mundane realm",
+  "type": "Realm",
+  "description": "The ordinary world outside the Magic Realm, to which travelers may return through connected boundaries or vestiges.",
+  "evidence": [
+   "realms-of-power-magic::0120",
+   "realms-of-power-magic::0142"
+  ]
+ },
+ {
+  "name": "Animal province",
+  "type": "Place",
+  "aliases": [
+   "Provincia Animalis"
+  ],
+  "description": "The Animal-aligned province of the Twilight Void: musky smells and brightly lit animals; sounds of creatures with Cunning transmit their thoughts.",
+  "evidence": [
+   "realms-of-power-magic::0129",
+   "realms-of-power-magic::0150"
+  ]
+ },
+ {
+  "name": "Aquam province",
+  "type": "Place",
+  "aliases": [
+   "Provincia Aquae"
+  ],
+  "description": "The Aquam-aligned province of the Twilight Void: water and liquids shine out, and travelers can move through water or walk on it.",
+  "evidence": [
+   "realms-of-power-magic::0129",
+   "realms-of-power-magic::0130",
+   "realms-of-power-magic::0144"
+  ]
+ },
+ {
+  "name": "Auram province",
+  "type": "Place",
+  "description": "The Auram-aligned province of the Twilight Void: misty and electric, clouds and smoke shine white and can be walked upon.",
+  "evidence": [
+   "realms-of-power-magic::0130",
+   "realms-of-power-magic::0145"
+  ]
+ },
+ {
+  "name": "Corpus province",
+  "type": "Place",
+  "description": "The Corpus-aligned province of the Twilight Void: glowing human figures and remains, with health and age visible.",
+  "evidence": [
+   "realms-of-power-magic::0130",
+   "realms-of-power-magic::0131",
+   "realms-of-power-magic::0128"
+  ]
+ },
+ {
+  "name": "Herbam province",
+  "type": "Place",
+  "description": "The Herbam-aligned province of the Twilight Void: growing plants seen brightly with seasonal colors and lush aroma.",
+  "evidence": [
+   "realms-of-power-magic::0124",
+   "realms-of-power-magic::0125",
+   "realms-of-power-magic::0131"
+  ]
+ },
+ {
+  "name": "Ignem province",
+  "type": "Place",
+  "description": "The Ignem-aligned province of the Twilight Void: a monochromatic place of light, shadow, heat and cold.",
+  "evidence": [
+   "realms-of-power-magic::0131",
+   "realms-of-power-magic::0132"
+  ]
+ },
+ {
+  "name": "Imaginem province",
+  "type": "Place",
+  "description": "The Imaginem-aligned province of the Twilight Void: images, colors, sounds and smells bombard the senses and species travel far.",
+  "evidence": [
+   "realms-of-power-magic::0132"
+  ]
+ },
+ {
+  "name": "Mentem province",
+  "type": "Place",
+  "description": "The Mentem-aligned province of the Twilight Void: emotions, thoughts and minds are perceptible and intelligent beings appear as ghostly outlines.",
+  "evidence": [
+   "realms-of-power-magic::0132",
+   "realms-of-power-magic::0133",
+   "realms-of-power-magic::0146"
+  ]
+ },
+ {
+  "name": "Terram province",
+  "type": "Place",
+  "description": "The Terram-aligned province of the Twilight Void: precious gems and metals shine like the sun; buried treasure is easily spotted.",
+  "evidence": [
+   "realms-of-power-magic::0133",
+   "realms-of-power-magic::0150"
+  ]
+ },
+ {
+  "name": "Vim province",
+  "type": "Place",
+  "description": "The Vim-aligned province of the Twilight Void: combines properties of the other spheres; magic things grow brighter with magnitude.",
+  "evidence": [
+   "realms-of-power-magic::0133",
+   "realms-of-power-magic::0134"
+  ]
+ },
+ {
+  "name": "Province (Twilight Void)",
+  "type": "Concept",
+  "aliases": [
+   "provinces"
+  ],
+  "description": "One of at least ten versions of the Twilight Void, each associated with a Form tied to Magic Might; travelers perceive only things of their province.",
+  "evidence": [
+   "realms-of-power-magic::0124",
+   "realms-of-power-magic::0129",
+   "realms-of-power-magic::0149"
+  ]
+ },
+ {
+  "name": "Semita Errabunda",
+  "type": "Covenant",
+  "description": "The covenant of Victor of Mercere and his magical horse Aeolus in the Aeolus example; it has a regio.",
+  "evidence": [
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0185",
+   "realms-of-power-magic::0186"
+  ]
+ },
+ {
+  "name": "Nephelococcygia",
+  "type": "Place",
+  "description": "A location known by all Birds of Nephelococcygia through their Homing Instinct, which cannot be forgotten.",
+  "evidence": [
+   "realms-of-power-magic::0236"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting; regio networks may lie in lakes, clouds or caves throughout it.",
+  "evidence": [
+   "realms-of-power-magic::0239"
+  ]
+ },
+ {
+  "name": "Boundary",
+  "type": "Concept",
+  "aliases": [
+   "boundaries"
+  ],
+  "description": "Magic Realm feature with a level and Form through which travelers can pass into the Twilight Void; Creo can create them and Perdo reduce them.",
+  "evidence": [
+   "realms-of-power-magic::0120",
+   "realms-of-power-magic::0142",
+   "realms-of-power-magic::0143"
+  ]
+ },
+ {
+  "name": "Vestige",
+  "type": "Concept",
+  "aliases": [
+   "vestiges"
+  ],
+  "description": "An insubstantial image or link in the Magic Realm associated with a Form, usable for travel through the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0120",
+   "realms-of-power-magic::0143",
+   "realms-of-power-magic::0148"
+  ]
+ },
+ {
+  "name": "Speed Level",
+  "type": "Concept",
+  "description": "Rating determining the length of a journey through the Twilight Void, from permanent to momentary.",
+  "evidence": [
+   "realms-of-power-magic::0120",
+   "realms-of-power-magic::0121",
+   "realms-of-power-magic::0150"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "The state magi enter from magical overload; it is unclear whether the Twilight Void is where magi go in Twilight.",
+  "evidence": [
+   "realms-of-power-magic::0124",
+   "realms-of-power-magic::0134",
+   "realms-of-power-magic::0147"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "description": "The end state of a magus in Twilight; many Criamon doubt the Twilight Void is its destination.",
+  "evidence": [
+   "realms-of-power-magic::0135"
+  ]
+ },
+ {
+  "name": "Twilight Comprehension",
+  "type": "Concept",
+  "description": "Roll (Intelligence + Enigmatic Wisdom + stress die) used to navigate and comprehend experiences in the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0126",
+   "realms-of-power-magic::0127"
+  ]
+ },
+ {
+  "name": "Essential Trait",
+  "type": "Concept",
+  "aliases": [
+   "Essential Traits"
+  ],
+  "description": "A special Personality Trait describing a magic character's true form or nature that it cannot act against and magic cannot override.",
+  "evidence": [
+   "realms-of-power-magic::0127",
+   "realms-of-power-magic::0183",
+   "realms-of-power-magic::0229"
+  ]
+ },
+ {
+  "name": "Twilight Scars",
+  "type": "Concept",
+  "description": "Marks of becoming more magical; typically associated with the province traveled in the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0137"
+  ]
+ },
+ {
+  "name": "Acclimation",
+  "type": "Concept",
+  "description": "Process by which magic characters lose Magic Qualities unless they remain in auras, consume vis or maintain magical effects; not suffered in the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0125",
+   "realms-of-power-magic::0126",
+   "realms-of-power-magic::0215"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [
+   "Parma"
+  ],
+  "description": "The Hermetic protective ritual; its duration expires on passing into or out of the Twilight Void and it cannot stack with Might for Magic Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0122",
+   "realms-of-power-magic::0148",
+   "realms-of-power-magic::0151"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "description": "Laboratory enchantment unaffected by passage through the Twilight Void since it lacks a spell Duration.",
+  "evidence": [
+   "realms-of-power-magic::0122"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Concept",
+  "description": "A magus's enchanted item bond, unaffected by passage through the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0122"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [
+   "familiar bond"
+  ],
+  "description": "A magical companion bound to a magus; many are designed as grog- or companion-level magic characters.",
+  "evidence": [
+   "realms-of-power-magic::0122",
+   "realms-of-power-magic::0170",
+   "realms-of-power-magic::0179"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [
+   "Arcane Connections"
+  ],
+  "description": "Mystical link to a person or place; degrades one level on entering the Twilight Void and is needed to link vestiges and boundaries.",
+  "evidence": [
+   "realms-of-power-magic::0123",
+   "realms-of-power-magic::0142",
+   "realms-of-power-magic::0143"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power; accumulated instead of experience in the Magic Realm and consumable by magic characters to replenish Might.",
+  "evidence": [
+   "realms-of-power-magic::0136",
+   "realms-of-power-magic::0153",
+   "realms-of-power-magic::0208"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points",
+   "Warping Score"
+  ],
+  "description": "Magical corruption measured in Warping Points; gained from uncomprehended Twilight Void experiences.",
+  "evidence": [
+   "realms-of-power-magic::0126",
+   "realms-of-power-magic::0127",
+   "realms-of-power-magic::0161"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Score",
+   "Might"
+  ],
+  "description": "Score giving a magic character its supernatural strength, Magic Resistance and powers, associated with a Form.",
+  "evidence": [
+   "realms-of-power-magic::0151",
+   "realms-of-power-magic::0179",
+   "realms-of-power-magic::0180"
+  ]
+ },
+ {
+  "name": "Might Points",
+  "type": "Concept",
+  "aliases": [
+   "Might Pool"
+  ],
+  "description": "Pool of points spent by magic characters to activate powers, recovered over 24 hours or faster in Magic auras.",
+  "evidence": [
+   "realms-of-power-magic::0151",
+   "realms-of-power-magic::0152",
+   "realms-of-power-magic::0182"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance to supernatural effects, granted innately by Magic Might or by Parma Magica.",
+  "evidence": [
+   "realms-of-power-magic::0148",
+   "realms-of-power-magic::0151",
+   "realms-of-power-magic::0170"
+  ]
+ },
+ {
+  "name": "Magic aura",
+  "type": "Concept",
+  "aliases": [
+   "aura",
+   "Aura"
+  ],
+  "description": "Supernatural aura of the Magic realm; resting in it speeds Might recovery.",
+  "evidence": [
+   "realms-of-power-magic::0140",
+   "realms-of-power-magic::0152",
+   "realms-of-power-magic::0182"
+  ]
+ },
+ {
+  "name": "Minor Breakthrough",
+  "type": "Concept",
+  "description": "Hermetic research breakthrough (30 points) granting the Magic Realm Magic guidelines.",
+  "evidence": [
+   "realms-of-power-magic::0140",
+   "realms-of-power-magic::0141"
+  ]
+ },
+ {
+  "name": "Insight",
+  "type": "Concept",
+  "description": "A way to convert vis gained in the Magic Realm into knowledge of a single Magic Realm effect.",
+  "evidence": [
+   "realms-of-power-magic::0140",
+   "realms-of-power-magic::0141"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "description": "Written laboratory notes; one from a magus who completed the Magic Realm breakthrough grants access to its guidelines.",
+  "evidence": [
+   "realms-of-power-magic::0141"
+  ]
+ },
+ {
+  "name": "Magic Realm Magic",
+  "type": "Concept",
+  "description": "Extensions to Hermetic magic enabling manipulation of vestiges, boundaries and travel in the Magic Realm, gained via a Minor Breakthrough.",
+  "evidence": [
+   "realms-of-power-magic::0140",
+   "realms-of-power-magic::0141",
+   "realms-of-power-magic::0146"
+  ]
+ },
+ {
+  "name": "Hermetic magic",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Magic"
+  ],
+  "description": "The magic of the Order of Hermes, which works well in the Magic Realm but cannot natively affect boundaries and vestiges.",
+  "evidence": [
+   "realms-of-power-magic::0140",
+   "realms-of-power-magic::0147"
+  ]
+ },
+ {
+  "name": "Ritual",
+  "type": "Concept",
+  "aliases": [
+   "Ritual spell"
+  ],
+  "description": "Type of spell or power required for Boundary Target or Year Duration effects and effects of level 50+.",
+  "evidence": [
+   "realms-of-power-magic::0147",
+   "realms-of-power-magic::0188"
+  ]
+ },
+ {
+  "name": "Magic character",
+  "type": "Concept",
+  "aliases": [
+   "magic characters"
+  ],
+  "description": "A character with a Magic Might Score, created with Magic Character Creation rules or via a Virtue such as Transformed (Being).",
+  "evidence": [
+   "realms-of-power-magic::0151",
+   "realms-of-power-magic::0155",
+   "realms-of-power-magic::0158"
+  ]
+ },
+ {
+  "name": "True form",
+  "type": "Concept",
+  "description": "A magic character's essential qualities and shape: animal, human, spirit or thing.",
+  "evidence": [
+   "realms-of-power-magic::0155",
+   "realms-of-power-magic::0158",
+   "realms-of-power-magic::0171"
+  ]
+ },
+ {
+  "name": "Season (magic character)",
+  "type": "Concept",
+  "aliases": [
+   "Spring",
+   "Summer",
+   "Autumn",
+   "Winter"
+  ],
+  "description": "Statistic replacing age for magic characters: spring, summer, autumn or winter, determining starting experience.",
+  "evidence": [
+   "realms-of-power-magic::0175",
+   "realms-of-power-magic::0176",
+   "realms-of-power-magic::0177"
+  ]
+ },
+ {
+  "name": "Character guide",
+  "type": "Concept",
+  "aliases": [
+   "character guides"
+  ],
+  "description": "A summary of requirements for designing a magic character type, used instead of a full sheet.",
+  "evidence": [
+   "realms-of-power-magic::0163",
+   "realms-of-power-magic::0164",
+   "realms-of-power-magic::0166"
+  ]
+ },
+ {
+  "name": "Magic Qualities",
+  "type": "Concept",
+  "aliases": [
+   "Qualities"
+  ],
+  "description": "Supernatural advantages of characters with Might, bought with points equal to Might Score.",
+  "evidence": [
+   "realms-of-power-magic::0156",
+   "realms-of-power-magic::0199",
+   "realms-of-power-magic::0181"
+  ]
+ },
+ {
+  "name": "Magic Inferiorities",
+  "type": "Concept",
+  "aliases": [
+   "Inferiorities"
+  ],
+  "description": "Supernatural disadvantages of magic characters that give additional Quality points.",
+  "evidence": [
+   "realms-of-power-magic::0156",
+   "realms-of-power-magic::0199",
+   "realms-of-power-magic::0181"
+  ]
+ },
+ {
+  "name": "Magic powers",
+  "type": "Concept",
+  "aliases": [
+   "powers"
+  ],
+  "description": "Spell-like abilities of magic characters designed as Focus, Lesser, Greater, Ritual or Personal Powers.",
+  "evidence": [
+   "realms-of-power-magic::0188",
+   "realms-of-power-magic::0189",
+   "realms-of-power-magic::0190"
+  ]
+ },
+ {
+  "name": "Mastery points",
+  "type": "Concept",
+  "description": "Points spent to improve a power's Initiative, Might cost or related Abilities.",
+  "evidence": [
+   "realms-of-power-magic::0184",
+   "realms-of-power-magic::0202",
+   "realms-of-power-magic::0210"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [
+   "Confidence Points",
+   "Confidence Score"
+  ],
+  "description": "Score and points allowing characters to boost rolls; magic characters may spend them for Ritual Powers or constant powers.",
+  "evidence": [
+   "realms-of-power-magic::0183",
+   "realms-of-power-magic::0189",
+   "realms-of-power-magic::0208"
+  ]
+ },
+ {
+  "name": "Inherent vis",
+  "type": "Concept",
+  "description": "The vis contained in a magic character's body, typically Might Score / 5 pawns.",
+  "evidence": [
+   "realms-of-power-magic::0183",
+   "realms-of-power-magic::0186"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "The magical talent enabling Hermetic magic, causing social penalties.",
+  "evidence": [
+   "realms-of-power-magic::0167",
+   "realms-of-power-magic::0202",
+   "realms-of-power-magic::0238"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Concept",
+  "description": "A form of The Gift that hides its disturbing traits.",
+  "evidence": [
+   "realms-of-power-magic::0172",
+   "realms-of-power-magic::0206",
+   "realms-of-power-magic::0238"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Concept",
+  "aliases": [
+   "Blatant Magical Air"
+  ],
+  "description": "A disturbing magical presence akin to The Gift, innate to magic spirits.",
+  "evidence": [
+   "realms-of-power-magic::0172",
+   "realms-of-power-magic::0202",
+   "realms-of-power-magic::0238"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "description": "Group through which characters with The Gift can initiate new Virtues and Flaws.",
+  "evidence": [
+   "realms-of-power-magic::0202"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Concept",
+  "description": "Hermetic mastery of a spell, which powers may emulate via Improved Powers.",
+  "evidence": [
+   "realms-of-power-magic::0211"
+  ]
+ },
+ {
+  "name": "Magical theurgy",
+  "type": "Concept",
+  "description": "Secret lore by which each manifestation of a spirit is called an Aspect.",
+  "evidence": [
+   "realms-of-power-magic::0172"
+  ]
+ },
+ {
+  "name": "Aspect",
+  "type": "Concept",
+  "description": "A manifestation of a Daimon or spirit outside the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0125",
+   "realms-of-power-magic::0172"
+  ]
+ },
+ {
+  "name": "Water-way",
+  "type": "Concept",
+  "description": "Special Atlantean Range targeting anything on the same water-way as the caster; equal to Sight.",
+  "evidence": [
+   "realms-of-power-magic::0225",
+   "realms-of-power-magic::0226"
+  ]
+ },
+ {
+  "name": "Storm (Duration)",
+  "type": "Concept",
+  "aliases": [
+   "Storm"
+  ],
+  "description": "Special Atlantean Duration lasting until the end of a storm; equal to Concentration.",
+  "evidence": [
+   "realms-of-power-magic::0226",
+   "realms-of-power-magic::0227"
+  ]
+ },
+ {
+  "name": "Body-of-water",
+  "type": "Concept",
+  "description": "Special Atlantean Target covering an entire lake, river or sea; equal to Structure.",
+  "evidence": [
+   "realms-of-power-magic::0227"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "A supernatural region; some are linked in networks travelled via (Land) Regio Network.",
+  "evidence": [
+   "realms-of-power-magic::0239",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Supernatural Ability",
+  "type": "Concept",
+  "description": "Abilities such as Magical Meditation or (Form) Resistance linked to the supernatural.",
+  "evidence": [
+   "realms-of-power-magic::0202",
+   "realms-of-power-magic::0205",
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Heroic Virtues and Flaws",
+  "type": "Concept",
+  "description": "Virtues and Flaws from Houses of Hermes: True Lineages that magic humans may take as Qualities and Inferiorities.",
+  "evidence": [
+   "realms-of-power-magic::0200"
+  ]
+ },
+ {
+  "name": "Hermetic Empowerment",
+  "type": "Concept",
+  "description": "Mystery path letting magi use a magic thing's Might Score.",
+  "evidence": [
+   "realms-of-power-magic::0170"
+  ]
+ },
+ {
+  "name": "Bind Magical Creatures",
+  "type": "Concept",
+  "description": "Mystery allowing magi to take advantage of magical creatures' Might.",
+  "evidence": [
+   "realms-of-power-magic::0170"
+  ]
+ },
+ {
+  "name": "Magic Realm travel",
+  "type": "Concept",
+  "aliases": [
+   "Magical Travel"
+  ],
+  "description": "Rules for passing through boundaries and vestiges into the Twilight Void and traveling to a destination.",
+  "evidence": [
+   "realms-of-power-magic::0120",
+   "realms-of-power-magic::0121",
+   "realms-of-power-magic::0144"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of magi; the Magic Realm breakthrough may have been achieved in its history but not disseminated.",
+  "evidence": [
+   "realms-of-power-magic::0141",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House whose magi call the Twilight Void Twilight or their Founder's realm outside time and doubt it is Final Twilight.",
+  "evidence": [
+   "realms-of-power-magic::0124",
+   "realms-of-power-magic::0135",
+   "realms-of-power-magic::0136"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House whose Faerie Magic can make faerie spells visible in the Vim province.",
+  "evidence": [
+   "realms-of-power-magic::0134"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "Hermetic House of Victor of Mercere.",
+  "evidence": [
+   "realms-of-power-magic::0173"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House whose chapter in Houses of Hermes: Mystery Cults has rules for animals and mundane Qualities.",
+  "evidence": [
+   "realms-of-power-magic::0162",
+   "realms-of-power-magic::0200"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "Faction",
+  "description": "Messengers of the Order; Aeolus's Folk Ken specialty.",
+  "evidence": [
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Founders",
+  "type": "Faction",
+  "description": "The Founders of the Order of Hermes, who never developed spells affecting boundaries and vestiges.",
+  "evidence": [
+   "realms-of-power-magic::0140"
+  ]
+ },
+ {
+  "name": "Atlanteans",
+  "type": "Faction",
+  "description": "Exiled practitioners of a magic studied by magi with the Atlantean Magic Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0225"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Founder of Hermetic magic who never developed spells to affect Magic Realm boundaries and vestiges.",
+  "evidence": [
+   "realms-of-power-magic::0140"
+  ]
+ },
+ {
+  "name": "Plato",
+  "type": "Character",
+  "description": "Philosopher whose Realm of Forms classicists identify with the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0124"
+  ]
+ },
+ {
+  "name": "Victor of Mercere",
+  "type": "Character",
+  "aliases": [
+   "Victor"
+  ],
+  "description": "Magus of House Mercere at Semita Errabunda who rides the magical horse Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0185",
+   "realms-of-power-magic::0186"
+  ]
+ },
+ {
+  "name": "Aeolus",
+  "type": "Character",
+  "description": "A talking magical horse (Magic Might 8, Animal), Magical Animal Companion of Victor of Mercere; vain, proud and lecherous.",
+  "evidence": [
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0184",
+   "realms-of-power-magic::0186"
+  ]
+ },
+ {
+  "name": "Victor's magical amulet",
+  "type": "Item",
+  "description": "Amulet woven into Aeolus's mane that lets the horse ride across water, mud or any surface once per day on a command word.",
+  "evidence": [
+   "realms-of-power-magic::0186",
+   "realms-of-power-magic::0187"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Creature",
+  "aliases": [
+   "Daimons"
+  ],
+  "description": "Powerful magical creatures who live in the Twilight Void and cannot leave without forming an Aspect.",
+  "evidence": [
+   "realms-of-power-magic::0125",
+   "realms-of-power-magic::0171"
+  ]
+ },
+ {
+  "name": "Magic Hound",
+  "type": "Creature",
+  "description": "Sample magic animal character guide (Might 0-10 Animal) with the Inexorable Hunter power.",
+  "evidence": [
+   "realms-of-power-magic::0164",
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0166"
+  ]
+ },
+ {
+  "name": "Elemental",
+  "type": "Creature",
+  "aliases": [
+   "elementals"
+  ],
+  "description": "Magic things of raw elemental matter, rarely intelligent; can be created by Enliven the Gross.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0191",
+   "realms-of-power-magic::0192"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [
+   "ghosts"
+  ],
+  "description": "Insubstantial magic spirits aware of their incorporeal nature.",
+  "evidence": [
+   "realms-of-power-magic::0171",
+   "realms-of-power-magic::0172"
+  ]
+ },
+ {
+  "name": "Genius loci",
+  "type": "Creature",
+  "description": "A spirit of place whose Healing power heals all wounds of creatures indigenous to its locus.",
+  "evidence": [
+   "realms-of-power-magic::0197"
+  ]
+ },
+ {
+  "name": "Birds of Nephelococcygia",
+  "type": "Creature",
+  "description": "Magic birds who all know the location of Nephelococcygia via Homing Instinct.",
+  "evidence": [
+   "realms-of-power-magic::0236"
+  ]
+ },
+ {
+  "name": "Ghostly Warder",
+  "type": "Creature",
+  "aliases": [
+   "ghostly warders"
+  ],
+  "description": "Example of a grog-level magic character.",
+  "evidence": [
+   "realms-of-power-magic::0179",
+   "realms-of-power-magic::0155"
+  ]
+ },
+ {
+  "name": "Charger",
+  "type": "Creature",
+  "description": "A war horse from the Book of Mundane Beasts used as Aeolus's base.",
+  "evidence": [
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0174"
+  ]
+ },
+ {
+  "name": "Giant",
+  "type": "Creature",
+  "aliases": [
+   "giants"
+  ],
+  "description": "Full-blooded giants use magic human rules with the Gigantic Quality.",
+  "evidence": [
+   "realms-of-power-magic::0233"
+  ]
+ },
+ {
+  "name": "King of the wolves",
+  "type": "Character",
+  "description": "Magical being whose blessing might grant a Skinchanger pelt.",
+  "evidence": [
+   "realms-of-power-magic::0136"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "description": "A Hermetic wizard; magus-level magic characters are comparable to one.",
+  "evidence": [
+   "realms-of-power-magic::0179",
+   "realms-of-power-magic::0180"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "description": "Companion-level magic characters have special status at a covenant.",
+  "evidence": [
+   "realms-of-power-magic::0179",
+   "realms-of-power-magic::0180"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "description": "Grog-level magic characters cannot take Major Qualities or Inferiorities.",
+  "evidence": [
+   "realms-of-power-magic::0179",
+   "realms-of-power-magic::0156",
+   "realms-of-power-magic::0200"
+  ]
+ },
+ {
+  "name": "Hedge wizard",
+  "type": "CharacterType",
+  "description": "Characters aligned with Magic but lacking Might.",
+  "evidence": [
+   "realms-of-power-magic::0151"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0142",
+   "realms-of-power-magic::0143"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0144",
+   "realms-of-power-magic::0145"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Technique; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0145",
+   "realms-of-power-magic::0146"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Technique; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0147",
+   "realms-of-power-magic::0148"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0149",
+   "realms-of-power-magic::0150"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0124",
+   "realms-of-power-magic::0165"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0144",
+   "realms-of-power-magic::0226"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0145",
+   "realms-of-power-magic::0226"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0140",
+   "realms-of-power-magic::0149"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0125",
+   "realms-of-power-magic::0145"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0146"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0143",
+   "realms-of-power-magic::0171"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0146",
+   "realms-of-power-magic::0195"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0121",
+   "realms-of-power-magic::0150"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form; associated with Magic Realm guidelines, provinces, or powers in this text.",
+  "evidence": [
+   "realms-of-power-magic::0134",
+   "realms-of-power-magic::0193"
+  ]
+ },
+ {
+  "name": "Locus of the Literatus",
+  "type": "Spell",
+  "description": "CrIm 20 Ritual that draws the caster's location as a vestige in a book, producing a map for travel in the Magic Realm.",
+  "evidence": [
+   "realms-of-power-magic::0143",
+   "realms-of-power-magic::0144"
+  ]
+ },
+ {
+  "name": "Adoration of the Magical Isle",
+  "type": "Spell",
+  "description": "CrAq 50 Ritual permanently increasing an Aquam boundary in the Magic Realm by one, to a maximum of 5.",
+  "evidence": [
+   "realms-of-power-magic::0144"
+  ]
+ },
+ {
+  "name": "See the Paths through the Void",
+  "type": "Spell",
+  "description": "InAu 20 spell revealing Auram boundaries and vestiges and allowing passage into the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0145"
+  ]
+ },
+ {
+  "name": "Comprehending the Mystic Doorway",
+  "type": "Spell",
+  "description": "InHe 30 spell to see into the Twilight Void through a wooden structure's vestige, giving +9 to travel.",
+  "evidence": [
+   "realms-of-power-magic::0145"
+  ]
+ },
+ {
+  "name": "Torch of the Realm-bound Reveler",
+  "type": "Spell",
+  "description": "MuIg 25 spell letting the target affect fiery objects with Magic Realm Magic as if it had Ignem Might.",
+  "evidence": [
+   "realms-of-power-magic::0146"
+  ]
+ },
+ {
+  "name": "Visions of Olympus",
+  "type": "Spell",
+  "description": "MuMe 35 spell making beings in the Mentem province perceptible outside the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0146",
+   "realms-of-power-magic::0147"
+  ]
+ },
+ {
+  "name": "When Fortuna Blinks",
+  "type": "Spell",
+  "description": "PeCo 10 spell making the magus vanish from the Magic Realm momentarily to avoid a deadly threat.",
+  "evidence": [
+   "realms-of-power-magic::0148",
+   "realms-of-power-magic::0149"
+  ]
+ },
+ {
+  "name": "Repose of the Eternal Moment",
+  "type": "Spell",
+  "description": "PeCo 35 Ritual causing the target to vanish into the Twilight Void for its duration.",
+  "evidence": [
+   "realms-of-power-magic::0149"
+  ]
+ },
+ {
+  "name": "The Night-Badgers' Burrow",
+  "type": "Spell",
+  "description": "ReAn(Te) 20 spell moving targets from the Animal province to the Terram province.",
+  "evidence": [
+   "realms-of-power-magic::0150"
+  ]
+ },
+ {
+  "name": "Swift Wings of Timeless Days",
+  "type": "Spell",
+  "description": "ReVi 20 spell reducing the caster's Twilight Void journey by three steps.",
+  "evidence": [
+   "realms-of-power-magic::0150"
+  ]
+ },
+ {
+  "name": "Enchantment of the Scrying Pool",
+  "type": "Spell",
+  "description": "InAq 30 ritual requiring 6 pawns of vis, used as an example for Imbued with the Spirit of (Form).",
+  "evidence": [
+   "realms-of-power-magic::0237"
+  ]
+ },
+ {
+  "name": "The Inexorable Hunter",
+  "type": "Spell",
+  "description": "Magic Hound power (InCo 25) letting it flawlessly follow a scent.",
+  "evidence": [
+   "realms-of-power-magic::0165"
+  ]
+ },
+ {
+  "name": "From Nag to Charger",
+  "type": "Spell",
+  "description": "Aeolus's power (MuAn 15) to change himself into any kind of horse.",
+  "evidence": [
+   "realms-of-power-magic::0185",
+   "realms-of-power-magic::0186"
+  ]
+ },
+ {
+  "name": "Crafter of (Form)",
+  "type": "Spell",
+  "description": "Common Focus Power duplicating non-Ritual Creo or Rego spells of one Form.",
+  "evidence": [
+   "realms-of-power-magic::0191"
+  ]
+ },
+ {
+  "name": "Enliven the Gross (Elemental Form)",
+  "type": "Spell",
+  "description": "Ritual Power creating and controlling an elemental from raw elemental matter.",
+  "evidence": [
+   "realms-of-power-magic::0191",
+   "realms-of-power-magic::0192"
+  ]
+ },
+ {
+  "name": "Equine Shape",
+  "type": "Spell",
+  "description": "Personal Power letting the character transform into a horse until sunrise or sunset.",
+  "evidence": [
+   "realms-of-power-magic::0192"
+  ]
+ },
+ {
+  "name": "Flight of the Hummingbird",
+  "type": "Spell",
+  "description": "Constant Personal Power letting the character fly by concentrating.",
+  "evidence": [
+   "realms-of-power-magic::0192"
+  ]
+ },
+ {
+  "name": "Grant (Major Flaw)",
+  "type": "Spell",
+  "description": "Ritual Power imposing a named Major Flaw on a victim.",
+  "evidence": [
+   "realms-of-power-magic::0193"
+  ]
+ },
+ {
+  "name": "Grant (Minor Flaw)",
+  "type": "Spell",
+  "description": "Ritual Power imposing a named Minor Flaw on a victim.",
+  "evidence": [
+   "realms-of-power-magic::0193",
+   "realms-of-power-magic::0194"
+  ]
+ },
+ {
+  "name": "Grant Puissance in (Ability)",
+  "type": "Spell",
+  "description": "Lesser Power bestowing prowess in an activity to groups or individuals.",
+  "evidence": [
+   "realms-of-power-magic::0194"
+  ]
+ },
+ {
+  "name": "Grant (Major Virtue)",
+  "type": "Spell",
+  "description": "Ritual Power bestowing a named Major Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0194"
+  ]
+ },
+ {
+  "name": "Grant (Minor Virtue)",
+  "type": "Spell",
+  "description": "Ritual Power bestowing a named Minor Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0195"
+  ]
+ },
+ {
+  "name": "Guide",
+  "type": "Spell",
+  "description": "Greater Power (ReMe 30) subtly influencing a group toward a course of action.",
+  "evidence": [
+   "realms-of-power-magic::0195",
+   "realms-of-power-magic::0196"
+  ]
+ },
+ {
+  "name": "Hands of the Magical Animal",
+  "type": "Spell",
+  "description": "Personal Power letting an animal carry and manipulate items as with human hands.",
+  "evidence": [
+   "realms-of-power-magic::0196"
+  ]
+ },
+ {
+  "name": "Healing",
+  "type": "Spell",
+  "description": "Ritual Power that heals the worst wound of a human or animal when it performs a specific action.",
+  "evidence": [
+   "realms-of-power-magic::0196",
+   "realms-of-power-magic::0197"
+  ]
+ },
+ {
+  "name": "Human Shape",
+  "type": "Spell",
+  "description": "Personal Power transforming a creature into a normal human shape.",
+  "evidence": [
+   "realms-of-power-magic::0197"
+  ]
+ },
+ {
+  "name": "Master of (Form)",
+  "type": "Spell",
+  "description": "Focus Power duplicating non-Ritual Muto or Perdo spells of one Form.",
+  "evidence": [
+   "realms-of-power-magic::0197"
+  ]
+ },
+ {
+  "name": "Oath-Swearing",
+  "type": "Spell",
+  "description": "Ritual Power enforcing a solemnly sworn oath with a Minor Flaw for violators.",
+  "evidence": [
+   "realms-of-power-magic::0197",
+   "realms-of-power-magic::0198"
+  ]
+ },
+ {
+  "name": "Sight Beyond Sight",
+  "type": "Spell",
+  "description": "Personal Power extending all five senses as far as the creature can see.",
+  "evidence": [
+   "realms-of-power-magic::0198"
+  ]
+ },
+ {
+  "name": "Call the Flock",
+  "type": "Spell",
+  "description": "Example song of power a bird may be taught via Composer of Power.",
+  "evidence": [
+   "realms-of-power-magic::0228"
+  ]
+ },
+ {
+  "name": "Magic Animal",
+  "type": "Virtue",
+  "description": "Special Virtue for magic characters whose true form is a beast; includes innate No Hands and Mute.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0162",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Magic Human",
+  "type": "Virtue",
+  "description": "Special Virtue for magic characters of human form, typically Corpus, with inherent Monstrous Appearance.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0167",
+   "realms-of-power-magic::0217"
+  ]
+ },
+ {
+  "name": "Magic Spirit",
+  "type": "Virtue",
+  "description": "Special Virtue for insubstantial magic characters like ghosts or Daimons.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0171"
+  ]
+ },
+ {
+  "name": "Magic Thing",
+  "type": "Virtue",
+  "description": "Special Virtue for animated matter; Might depends on Size and has Temporary Might and No Fatigue.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0168",
+   "realms-of-power-magic::0170"
+  ]
+ },
+ {
+  "name": "Magical Master",
+  "type": "Virtue",
+  "description": "Major Social Status Virtue for magic characters.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Magical Champion",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for magic characters.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Magical Covenfolk",
+  "type": "Virtue",
+  "description": "Free Social Status Virtue for magic characters.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Transformed (Being)",
+  "type": "Virtue",
+  "aliases": [
+   "Transformed Human"
+  ],
+  "description": "Major Virtue giving a character a Magic Might Score through play; e.g. Transformed Human.",
+  "evidence": [
+   "realms-of-power-magic::0137",
+   "realms-of-power-magic::0151",
+   "realms-of-power-magic::0167"
+  ]
+ },
+ {
+  "name": "Composer of Power",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue letting a character teach songs of power replicating its Powers.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0228"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "description": "Power with a narrow range of spontaneous effects; a Major Quality or Major Supernatural Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0201",
+   "realms-of-power-magic::0202",
+   "realms-of-power-magic::0232"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Virtue",
+  "description": "Formulaic power with 50 spell levels; a Major Quality or Major Supernatural Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0204",
+   "realms-of-power-magic::0205",
+   "realms-of-power-magic::0235"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "description": "Formulaic power with 25 spell levels; Minor Quality or Minor Supernatural Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0212",
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0184"
+  ]
+ },
+ {
+  "name": "Ritual Power",
+  "type": "Virtue",
+  "description": "Major Quality granting ritual-level powers that reduce Might Score when used.",
+  "evidence": [
+   "realms-of-power-magic::0207",
+   "realms-of-power-magic::0208",
+   "realms-of-power-magic::0188"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Virtue",
+  "description": "Minor Quality/Virtue for limited powers (Personal range or constant).",
+  "evidence": [
+   "realms-of-power-magic::0213",
+   "realms-of-power-magic::0214",
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Greater Immunity (Deprivation)",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue making a character immune to deprivation like magic beings.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0234"
+  ]
+ },
+ {
+  "name": "Essential Virtue",
+  "type": "Virtue",
+  "description": "Virtue granting a beneficial Essential Trait at +3 (Minor) or +6 (Major).",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0229"
+  ]
+ },
+ {
+  "name": "Magical Warder",
+  "type": "Virtue",
+  "description": "Major General Virtue listed among new Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Homing Instinct",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting a character always know how to reach a number of locations.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0236"
+  ]
+ },
+ {
+  "name": "(Land) Regio Network",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue granting access to a network of regiones with travel of one Diameter.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0239"
+  ]
+ },
+ {
+  "name": "Magical Blood",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue listed among new Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Master of (Form) Creatures",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue listed among new Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Variable Power",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue listed among new Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Voice of the (Land)",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue listed among new Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Atlantean Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue granting Water-way range, Storm duration and Body-of-water target.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0225",
+   "realms-of-power-magic::0227"
+  ]
+ },
+ {
+  "name": "Extractor of (Form) Vis",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue letting a magus extract Form vis from an exemplifying Magic aura.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0230"
+  ]
+ },
+ {
+  "name": "Imbued with the Spirit of (Form)",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue letting a magus substitute Long-Term Fatigue for vis of a Form.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0237"
+  ]
+ },
+ {
+  "name": "Ferocity",
+  "type": "Virtue",
+  "description": "Minor General Virtue granting Confidence Points only in triggering situations.",
+  "evidence": [
+   "realms-of-power-magic::0161",
+   "realms-of-power-magic::0231",
+   "realms-of-power-magic::0183"
+  ]
+ },
+ {
+  "name": "Inoffensive to (Beings)",
+  "type": "Virtue",
+  "description": "Minor General Virtue making a Gifted character's presence not disturb one type of being.",
+  "evidence": [
+   "realms-of-power-magic::0224",
+   "realms-of-power-magic::0238"
+  ]
+ },
+ {
+  "name": "Magical Mount",
+  "type": "Virtue",
+  "description": "Minor General Virtue listed among new Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Unaffected by The Gift",
+  "type": "Virtue",
+  "description": "Minor General Virtue often taken by magic animals.",
+  "evidence": [
+   "realms-of-power-magic::0162",
+   "realms-of-power-magic::0184",
+   "realms-of-power-magic::0224"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Virtue",
+  "description": "Major General Virtue representing mixed giant and human lineage.",
+  "evidence": [
+   "realms-of-power-magic::0233"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "description": "Virtue allowing transformation into an animal, e.g. via a wolf pelt.",
+  "evidence": [
+   "realms-of-power-magic::0136"
+  ]
+ },
+ {
+  "name": "Affinity with (Ability)",
+  "type": "Virtue",
+  "aliases": [
+   "Affinity with an Ability"
+  ],
+  "description": "Virtue affecting character creation that cannot be transformed in the Magic Realm.",
+  "evidence": [
+   "realms-of-power-magic::0136",
+   "realms-of-power-magic::0137"
+  ]
+ },
+ {
+  "name": "Skilled Parens",
+  "type": "Virtue",
+  "description": "Virtue affecting character creation that cannot be transformed in the Magic Realm.",
+  "evidence": [
+   "realms-of-power-magic::0137"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Virtue raising Characteristics, used by Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0184",
+   "realms-of-power-magic::0204"
+  ]
+ },
+ {
+  "name": "Great (Characteristic)",
+  "type": "Virtue",
+  "aliases": [
+   "Great Quickness"
+  ],
+  "description": "Virtue raising a Characteristic, e.g. Great Quickness for Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "aliases": [
+   "Long Winded"
+  ],
+  "description": "Virtue required for horses such as Aeolus and the Magic Hound.",
+  "evidence": [
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Keen Sense of Smell",
+  "type": "Virtue",
+  "description": "Virtue required by the Magic Hound character guide.",
+  "evidence": [
+   "realms-of-power-magic::0165"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "description": "Virtue of the Magic Hound.",
+  "evidence": [
+   "realms-of-power-magic::0165"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue of the Magic Hound.",
+  "evidence": [
+   "realms-of-power-magic::0165"
+  ]
+ },
+ {
+  "name": "Venus's Blessing",
+  "type": "Virtue",
+  "description": "Minor Virtue taken by Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0184",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "description": "Virtue whose storyguide advice is compared to the Guide power.",
+  "evidence": [
+   "realms-of-power-magic::0196"
+  ]
+ },
+ {
+  "name": "Subtle Magic",
+  "type": "Virtue",
+  "description": "Virtue offsetting the Limited Gestures penalty.",
+  "evidence": [
+   "realms-of-power-magic::0219"
+  ]
+ },
+ {
+  "name": "Quiet Magic",
+  "type": "Virtue",
+  "description": "Virtue offsetting the Limited Speech penalty.",
+  "evidence": [
+   "realms-of-power-magic::0220"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "description": "Size-increasing Virtue used in Miniature example.",
+  "evidence": [
+   "realms-of-power-magic::0216"
+  ]
+ },
+ {
+  "name": "Spirit Familiar",
+  "type": "Virtue",
+  "description": "Mystery Virtue for binding a spirit familiar.",
+  "evidence": [
+   "realms-of-power-magic::0170"
+  ]
+ },
+ {
+  "name": "Fatigue Mastery",
+  "type": "Virtue",
+  "description": "Major Quality letting a character spend Fatigue levels as Might Points.",
+  "evidence": [
+   "realms-of-power-magic::0201"
+  ]
+ },
+ {
+  "name": "Gentle Air",
+  "type": "Virtue",
+  "description": "Major Quality removing social penalties of Gifted or Magical Air.",
+  "evidence": [
+   "realms-of-power-magic::0202"
+  ]
+ },
+ {
+  "name": "Gifted",
+  "type": "Virtue",
+  "description": "Major Quality giving a magic character The Gift or something like it.",
+  "evidence": [
+   "realms-of-power-magic::0202",
+   "realms-of-power-magic::0203"
+  ]
+ },
+ {
+  "name": "Gigantic",
+  "type": "Virtue",
+  "description": "Major Quality magically increasing Size and Strength while reducing Quickness.",
+  "evidence": [
+   "realms-of-power-magic::0203",
+   "realms-of-power-magic::0204",
+   "realms-of-power-magic::0233"
+  ]
+ },
+ {
+  "name": "Improved (Characteristic)",
+  "type": "Virtue",
+  "description": "Major Quality raising a Characteristic already +5 or more.",
+  "evidence": [
+   "realms-of-power-magic::0205"
+  ]
+ },
+ {
+  "name": "Natural Appearance",
+  "type": "Virtue",
+  "description": "Major Quality letting a magic character look like a normal human or living creature.",
+  "evidence": [
+   "realms-of-power-magic::0206"
+  ]
+ },
+ {
+  "name": "No Fatigue",
+  "type": "Virtue",
+  "description": "Major Quality making the character tireless without Fatigue levels; free for Magic Things.",
+  "evidence": [
+   "realms-of-power-magic::0170",
+   "realms-of-power-magic::0206",
+   "realms-of-power-magic::0207"
+  ]
+ },
+ {
+  "name": "Vis Mastery",
+  "type": "Virtue",
+  "description": "Major Quality letting the character expend its magic as vis.",
+  "evidence": [
+   "realms-of-power-magic::0208"
+  ]
+ },
+ {
+  "name": "(Form) Resistance",
+  "type": "Virtue",
+  "description": "Minor Quality aligning Magic Resistance to a Form.",
+  "evidence": [
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Gift of Speech",
+  "type": "Virtue",
+  "description": "Minor Quality letting a character speak as a human.",
+  "evidence": [
+   "realms-of-power-magic::0184",
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Improved Abilities",
+  "type": "Virtue",
+  "description": "Minor Quality granting 50 experience points.",
+  "evidence": [
+   "realms-of-power-magic::0185",
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Improved Attack",
+  "type": "Virtue",
+  "description": "Minor Quality increasing a natural weapon's Attack by 2.",
+  "evidence": [
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Improved Confidence",
+  "type": "Virtue",
+  "description": "Minor Quality increasing Confidence Score by one.",
+  "evidence": [
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Improved Damage",
+  "type": "Virtue",
+  "description": "Minor Quality increasing a natural weapon's Damage by 3.",
+  "evidence": [
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Improved Defense",
+  "type": "Virtue",
+  "description": "Minor Quality increasing a natural weapon's Defense by 2.",
+  "evidence": [
+   "realms-of-power-magic::0209"
+  ]
+ },
+ {
+  "name": "Improved Fatigue",
+  "type": "Virtue",
+  "description": "Minor Quality adding a Fatigue level.",
+  "evidence": [
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0209",
+   "realms-of-power-magic::0210"
+  ]
+ },
+ {
+  "name": "Improved Initiative",
+  "type": "Virtue",
+  "description": "Minor Quality increasing a natural weapon's Initiative by 3.",
+  "evidence": [
+   "realms-of-power-magic::0210"
+  ]
+ },
+ {
+  "name": "Improved Might",
+  "type": "Virtue",
+  "description": "Minor Quality increasing Magic Might by 1.",
+  "evidence": [
+   "realms-of-power-magic::0210"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Virtue",
+  "description": "Minor Quality granting 5 mastery points for powers.",
+  "evidence": [
+   "realms-of-power-magic::0210",
+   "realms-of-power-magic::0211"
+  ]
+ },
+ {
+  "name": "Improved Recovery",
+  "type": "Virtue",
+  "description": "Minor Quality halving Might recovery time.",
+  "evidence": [
+   "realms-of-power-magic::0211",
+   "realms-of-power-magic::0212"
+  ]
+ },
+ {
+  "name": "Improved Soak",
+  "type": "Virtue",
+  "description": "Minor Quality increasing Soak by 2.",
+  "evidence": [
+   "realms-of-power-magic::0212"
+  ]
+ },
+ {
+  "name": "Magical Meditation (Quality)",
+  "type": "Virtue",
+  "description": "Major Quality giving the Supernatural Ability Magical Meditation at 1.",
+  "evidence": [
+   "realms-of-power-magic::0205"
+  ]
+ },
+ {
+  "name": "Magical Friend",
+  "type": "Flaw",
+  "description": "Minor Social Status Flaw for magic characters; taken by Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0159",
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Flaw",
+  "description": "Major Social Status Flaw for magic characters.",
+  "evidence": [
+   "realms-of-power-magic::0159"
+  ]
+ },
+ {
+  "name": "Magical Animal Companion",
+  "type": "Flaw",
+  "description": "Flaw indicating a companion magical animal, like Aeolus for Victor.",
+  "evidence": [
+   "realms-of-power-magic::0166",
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0180"
+  ]
+ },
+ {
+  "name": "No Hands",
+  "type": "Flaw",
+  "description": "Flaw innate to all magic animals.",
+  "evidence": [
+   "realms-of-power-magic::0162",
+   "realms-of-power-magic::0169",
+   "realms-of-power-magic::0219"
+  ]
+ },
+ {
+  "name": "Mute",
+  "type": "Flaw",
+  "description": "Flaw innate to magic animals and common for magic things.",
+  "evidence": [
+   "realms-of-power-magic::0162",
+   "realms-of-power-magic::0169",
+   "realms-of-power-magic::0220"
+  ]
+ },
+ {
+  "name": "Crippled",
+  "type": "Flaw",
+  "description": "Flaw common for magic things.",
+  "evidence": [
+   "realms-of-power-magic::0169",
+   "realms-of-power-magic::0219"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw taken by Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0173",
+   "realms-of-power-magic::0174",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Lecherous",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw taken by Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0174",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Low Self-Esteem",
+  "type": "Flaw",
+  "aliases": [
+   "Low Self Esteem"
+  ],
+  "description": "Flaw affecting Confidence and Ferocity eligibility.",
+  "evidence": [
+   "realms-of-power-magic::0183",
+   "realms-of-power-magic::0231"
+  ]
+ },
+ {
+  "name": "Poor (Characteristic)",
+  "type": "Flaw",
+  "description": "Flaw lowering a Characteristic, prerequisite for Reduced (Characteristic).",
+  "evidence": [
+   "realms-of-power-magic::0217"
+  ]
+ },
+ {
+  "name": "Age Quickly",
+  "type": "Flaw",
+  "description": "Flaw making even magical beings age.",
+  "evidence": [
+   "realms-of-power-magic::0222"
+  ]
+ },
+ {
+  "name": "Arthritis",
+  "type": "Flaw",
+  "description": "Flaw incompatible with Limited Gestures.",
+  "evidence": [
+   "realms-of-power-magic::0219"
+  ]
+ },
+ {
+  "name": "Lame",
+  "type": "Flaw",
+  "description": "Flaw incompatible with Limited Movement.",
+  "evidence": [
+   "realms-of-power-magic::0219"
+  ]
+ },
+ {
+  "name": "Afflicted Tongue",
+  "type": "Flaw",
+  "description": "Flaw incompatible with Limited Speech.",
+  "evidence": [
+   "realms-of-power-magic::0220"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "description": "Size-reducing Flaw used in the Gigantic example.",
+  "evidence": [
+   "realms-of-power-magic::0204"
+  ]
+ },
+ {
+  "name": "Offensive to (Beings)",
+  "type": "Flaw",
+  "description": "Flaw combined with the Gentle Gift to be disturbing to only some beings.",
+  "evidence": [
+   "realms-of-power-magic::0238"
+  ]
+ },
+ {
+  "name": "Acclimation Prone",
+  "type": "Flaw",
+  "description": "Major Inferiority doubling difficulty of avoiding Acclimation.",
+  "evidence": [
+   "realms-of-power-magic::0215"
+  ]
+ },
+ {
+  "name": "Major Flaw (Inferiority)",
+  "type": "Flaw",
+  "description": "Major Inferiority granting a Major General or Supernatural (Magic) Flaw.",
+  "evidence": [
+   "realms-of-power-magic::0215"
+  ]
+ },
+ {
+  "name": "Miniature",
+  "type": "Flaw",
+  "description": "Major Inferiority magically shrinking the character.",
+  "evidence": [
+   "realms-of-power-magic::0215",
+   "realms-of-power-magic::0216"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "description": "Major Inferiority imposing -6 to social situations; inherent to Magic Humans.",
+  "evidence": [
+   "realms-of-power-magic::0167",
+   "realms-of-power-magic::0216",
+   "realms-of-power-magic::0217"
+  ]
+ },
+ {
+  "name": "Reduced (Characteristic)",
+  "type": "Flaw",
+  "description": "Major Inferiority reducing a Characteristic already -5 or less.",
+  "evidence": [
+   "realms-of-power-magic::0217"
+  ]
+ },
+ {
+  "name": "Temporary Might",
+  "type": "Flaw",
+  "description": "Major Inferiority: Might recovers only slowly in auras and wounds shed vis; inherent to Magic Things.",
+  "evidence": [
+   "realms-of-power-magic::0170",
+   "realms-of-power-magic::0217",
+   "realms-of-power-magic::0218"
+  ]
+ },
+ {
+  "name": "Limited Gestures",
+  "type": "Flaw",
+  "description": "Minor Inferiority limiting manipulation to vague gestures.",
+  "evidence": [
+   "realms-of-power-magic::0169",
+   "realms-of-power-magic::0219"
+  ]
+ },
+ {
+  "name": "Limited Movement",
+  "type": "Flaw",
+  "description": "Minor Inferiority restricting travel to short distances.",
+  "evidence": [
+   "realms-of-power-magic::0169",
+   "realms-of-power-magic::0219"
+  ]
+ },
+ {
+  "name": "Limited Speech",
+  "type": "Flaw",
+  "description": "Minor Inferiority preventing intelligible speech.",
+  "evidence": [
+   "realms-of-power-magic::0169",
+   "realms-of-power-magic::0219",
+   "realms-of-power-magic::0220"
+  ]
+ },
+ {
+  "name": "Minor Flaw (Inferiority)",
+  "type": "Flaw",
+  "description": "Minor Inferiority granting a Minor General or Supernatural (Magic) Flaw.",
+  "evidence": [
+   "realms-of-power-magic::0220"
+  ]
+ },
+ {
+  "name": "Reduced Abilities",
+  "type": "Flaw",
+  "description": "Minor Inferiority subtracting 50 experience points.",
+  "evidence": [
+   "realms-of-power-magic::0220"
+  ]
+ },
+ {
+  "name": "Reduced Attack",
+  "type": "Flaw",
+  "description": "Minor Inferiority reducing a natural weapon's Attack by 2.",
+  "evidence": [
+   "realms-of-power-magic::0220"
+  ]
+ },
+ {
+  "name": "Reduced Defense",
+  "type": "Flaw",
+  "description": "Minor Inferiority reducing a natural weapon's Defense by 2.",
+  "evidence": [
+   "realms-of-power-magic::0220",
+   "realms-of-power-magic::0221"
+  ]
+ },
+ {
+  "name": "Reduced Fatigue",
+  "type": "Flaw",
+  "description": "Minor Inferiority removing a Fatigue level.",
+  "evidence": [
+   "realms-of-power-magic::0221"
+  ]
+ },
+ {
+  "name": "Reduced Initiative",
+  "type": "Flaw",
+  "description": "Minor Inferiority reducing a natural weapon's Initiative by 3.",
+  "evidence": [
+   "realms-of-power-magic::0221"
+  ]
+ },
+ {
+  "name": "Reduced Might",
+  "type": "Flaw",
+  "description": "Minor Inferiority reducing Magic Might by 1.",
+  "evidence": [
+   "realms-of-power-magic::0221"
+  ]
+ },
+ {
+  "name": "Reduced Power",
+  "type": "Flaw",
+  "description": "Minor Inferiority subtracting 5 mastery points from powers.",
+  "evidence": [
+   "realms-of-power-magic::0221",
+   "realms-of-power-magic::0222"
+  ]
+ },
+ {
+  "name": "Reduced Soak",
+  "type": "Flaw",
+  "description": "Minor Inferiority reducing Soak by 2.",
+  "evidence": [
+   "realms-of-power-magic::0222"
+  ]
+ },
+ {
+  "name": "Susceptible to Deprivation",
+  "type": "Flaw",
+  "description": "Minor Inferiority making the character need air, food and water.",
+  "evidence": [
+   "realms-of-power-magic::0222"
+  ]
+ },
+ {
+  "name": "Enigmatic Wisdom",
+  "type": "Ability",
+  "description": "Ability used in Twilight Comprehension in the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0126",
+   "realms-of-power-magic::0127",
+   "realms-of-power-magic::0136"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability used to speed travel through the Twilight Void and for Homing Instinct.",
+  "evidence": [
+   "realms-of-power-magic::0121",
+   "realms-of-power-magic::0211",
+   "realms-of-power-magic::0236"
+  ]
+ },
+ {
+  "name": "Magical Meditation",
+  "type": "Ability",
+  "description": "Supernatural Ability granted by the Magical Meditation Quality.",
+  "evidence": [
+   "realms-of-power-magic::0205"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability, innate to horses and hounds.",
+  "evidence": [
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability, innate to horses and hounds.",
+  "evidence": [
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability, innate to horses and hounds.",
+  "evidence": [
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability of the Magic Hound.",
+  "evidence": [
+   "realms-of-power-magic::0165",
+   "realms-of-power-magic::0194"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability innate to horses.",
+  "evidence": [
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Ability used to locate networked regiones.",
+  "evidence": [
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185",
+   "realms-of-power-magic::0239"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Profession: Mount",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0178",
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Organization Lore: Order of Hermes",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability of Aeolus.",
+  "evidence": [
+   "realms-of-power-magic::0185"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability improvable with mastery points.",
+  "evidence": [
+   "realms-of-power-magic::0211"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability and total determining a power's ability to overcome Magic Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0189",
+   "realms-of-power-magic::0211",
+   "realms-of-power-magic::0153"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability limiting how many students a Composer of Power can teach.",
+  "evidence": [
+   "realms-of-power-magic::0228"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Ability",
+  "description": "Ability that can reveal how long a storm will last.",
+  "evidence": [
+   "realms-of-power-magic::0226"
+  ]
+ }
+]

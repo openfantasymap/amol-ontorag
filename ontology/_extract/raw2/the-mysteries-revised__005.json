@@ -1,0 +1,2092 @@
+[
+ {
+  "name": "Fraternity of Samos",
+  "type": "Faction",
+  "aliases": [
+   "the Fraternity",
+   "Pythagoreans"
+  ],
+  "description": "A Pythagorean Mystery Cult organized into degrees that teach planetary, geometric and theurgic Virtues; its Inner Order members run publicly known Schools.",
+  "evidence": [
+   "the-mysteries-revised::0600",
+   "the-mysteries-revised::0601",
+   "the-mysteries-revised::0605"
+  ]
+ },
+ {
+  "name": "Electus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Third degree of the Fraternity of Samos, which teaches the esoteric principles of astrology and grants Planetary Magic.",
+  "evidence": [
+   "the-mysteries-revised::0600"
+  ]
+ },
+ {
+  "name": "Mathematikoi",
+  "type": "Faction",
+  "aliases": [
+   "Inner Order"
+  ],
+  "description": "The Inner Order of the Fraternity of Samos, robed in black or white, who abstain from meat and beans and must teach new Initiates.",
+  "evidence": [
+   "the-mysteries-revised::0601",
+   "the-mysteries-revised::0602"
+  ]
+ },
+ {
+  "name": "Akousmatics",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Members of the Fraternity of Samos below the Inner Order, who seek further knowledge and teaching at Schools.",
+  "evidence": [
+   "the-mysteries-revised::0601"
+  ]
+ },
+ {
+  "name": "Tertius",
+  "type": "Concept",
+  "aliases": [
+   "3=4",
+   "Three"
+  ],
+  "description": "Fourth degree of the Fraternity of Samos dealing with metempsychosis and geometric solids, initiating Hermetic Architecture.",
+  "evidence": [
+   "the-mysteries-revised::0603"
+  ]
+ },
+ {
+  "name": "Secundus",
+  "type": "Concept",
+  "aliases": [
+   "2=5",
+   "The Second"
+  ],
+  "description": "Fifth degree of the Fraternity of Samos, rumored to teach Inscription on the Soul, Hermetic Theurgy or Theurgic Spirit Familiar.",
+  "evidence": [
+   "the-mysteries-revised::0604"
+  ]
+ },
+ {
+  "name": "Pythagorean (degree)",
+  "type": "Concept",
+  "aliases": [
+   "True Initiate"
+  ],
+  "description": "Final degree of the Fraternity of Samos, requiring a five-year vow of silence as a Major Ordeal.",
+  "evidence": [
+   "the-mysteries-revised::0605"
+  ]
+ },
+ {
+  "name": "Pythagoras",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient philosopher whose teachings, such as abstention from green beans because of metempsychosis, guide the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0601"
+  ]
+ },
+ {
+  "name": "Metempsychosis",
+  "type": "Concept",
+  "aliases": [
+   "transmigration of souls"
+  ],
+  "description": "The transmigration of souls, a central teaching of the Pythagorean Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0601",
+   "the-mysteries-revised::0603",
+   "the-mysteries-revised::0605"
+  ]
+ },
+ {
+  "name": "Pythagorean Lore",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pythagorean teaching holding that three is the first real number and linking the elements to geometric solids.",
+  "evidence": [
+   "the-mysteries-revised::0603"
+  ]
+ },
+ {
+  "name": "School (Fraternity of Samos)",
+  "type": "Concept",
+  "aliases": [
+   "School"
+  ],
+  "description": "A covenant where a member of the Mathematikoi lives; it is publicly known as a focus for magi seeking Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0601"
+  ]
+ },
+ {
+  "name": "Nativity Horoscope",
+  "type": "Item",
+  "aliases": [
+   "natal chart"
+  ],
+  "description": "The natal chart of an Electus Initiate, kept by the Initiators; together with a lock of hair it gives a Penetration bonus against the Initiate.",
+  "evidence": [
+   "the-mysteries-revised::0600"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that covers mundane astrology; the Pythagorean degree may teach Potent Magic focused on it.",
+  "evidence": [
+   "the-mysteries-revised::0600",
+   "the-mysteries-revised::0605"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability valued by the Fraternity of Samos alongside Magic Theory and Teaching.",
+  "evidence": [
+   "the-mysteries-revised::0602",
+   "the-mysteries-revised::0605"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mundane ability that members of the Mathematikoi must have at 2 or higher.",
+  "evidence": [
+   "the-mysteries-revised::0601",
+   "the-mysteries-revised::0602",
+   "the-mysteries-revised::0662"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in Fraternity standing and in rolls to rebind high-level spells into a talisman.",
+  "evidence": [
+   "the-mysteries-revised::0602",
+   "the-mysteries-revised::0637",
+   "the-mysteries-revised::0645"
+  ]
+ },
+ {
+  "name": "Planetary Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue gained at the Electus degree of the Fraternity and taught to Green Stone Knights; replaces Hermetic Astrology in conversion.",
+  "evidence": [
+   "the-mysteries-revised::0600",
+   "the-mysteries-revised::0627",
+   "the-mysteries-revised::0650"
+  ]
+ },
+ {
+  "name": "Hermetic Architecture",
+  "type": "Virtue",
+  "aliases": [
+   "Sacred Architecture"
+  ],
+  "description": "Virtue initiated at the Tertius degree, based on geometric principles; replaces Fourth Edition Sacred Architecture.",
+  "evidence": [
+   "the-mysteries-revised::0603",
+   "the-mysteries-revised::0646"
+  ]
+ },
+ {
+  "name": "Great Talisman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that some claim is taught at the Tertius degree of the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0603"
+  ]
+ },
+ {
+  "name": "Performance Magic",
+  "type": "Virtue",
+  "aliases": [
+   "Sorcerous Music",
+   "Sorcerous Poetry",
+   "Performance Magic: Music"
+  ],
+  "description": "Virtue of magic through performance; the Green Stone Knights call the Music form Sorcerous Poetry, and it replaces Sorcerous Music in conversion.",
+  "evidence": [
+   "the-mysteries-revised::0603",
+   "the-mysteries-revised::0621",
+   "the-mysteries-revised::0646"
+  ]
+ },
+ {
+  "name": "Inscription on the Soul",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue rumored to be taught at the Secundus degree and the fourth degree of the Disciples of the Worm; lets an immortal bind effects into a spirit talisman.",
+  "evidence": [
+   "the-mysteries-revised::0604",
+   "the-mysteries-revised::0614",
+   "the-mysteries-revised::0630"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Virtue",
+  "aliases": [
+   "Hermetic theurgy",
+   "thaumaturgy"
+  ],
+  "description": "Mystery magic for pacts with Daimons; Fourth Edition theurgy and thaumaturgy convert into it.",
+  "evidence": [
+   "the-mysteries-revised::0604",
+   "the-mysteries-revised::0652",
+   "the-mysteries-revised::0654"
+  ]
+ },
+ {
+  "name": "Theurgic Spirit Familiar",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possibly taught at the Secundus degree of the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0604"
+  ]
+ },
+ {
+  "name": "Potent Magic",
+  "type": "Virtue",
+  "aliases": [
+   "Potent spells"
+  ],
+  "description": "Minor Virtue with specialized variants such as Artes Liberales and Philosophiae, Ghosts, Gemstones, or Dream; new in the Revised Edition.",
+  "evidence": [
+   "the-mysteries-revised::0605",
+   "the-mysteries-revised::0614",
+   "the-mysteries-revised::0653"
+  ]
+ },
+ {
+  "name": "Names of Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possibly taught to Pythagoreans; Aneirin can teach names of minor spirits through a pact.",
+  "evidence": [
+   "the-mysteries-revised::0605",
+   "the-mysteries-revised::0652",
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Ascendancy to the Hall of Heroes",
+  "type": "Virtue",
+  "aliases": [
+   "ascendancy"
+  ],
+  "description": "Virtue of freedom from metempsychosis and ascent to immortality as a Daimon.",
+  "evidence": [
+   "the-mysteries-revised::0605",
+   "the-mysteries-revised::0630",
+   "the-mysteries-revised::0655"
+  ]
+ },
+ {
+  "name": "Flawed Parma Magica",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw likened to the Arcane Connection weakness imposed at the Electus Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0600"
+  ]
+ },
+ {
+  "name": "Limited Magic Resistance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw compared with the Penetration vulnerability created at the Electus Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0600"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A link to a target; Initiators keep the Initiate's lock of hair as a permanent Arcane Connection.",
+  "evidence": [
+   "the-mysteries-revised::0600"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A hardship in an Initiation Script that imposes a Flaw, such as a vow of silence; it cannot be used to initiate immortals.",
+  "evidence": [
+   "the-mysteries-revised::0600",
+   "the-mysteries-revised::0605",
+   "the-mysteries-revised::0631"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "aliases": [
+   "Scripts"
+  ],
+  "description": "The structured sequence of quests, ordeals and sacrifices a Mystagogue uses to initiate a Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0600",
+   "the-mysteries-revised::0610",
+   "the-mysteries-revised::0619"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The cult member who performs an Initiation; Presence and cult Lore contribute to the Script.",
+  "evidence": [
+   "the-mysteries-revised::0610",
+   "the-mysteries-revised::0611",
+   "the-mysteries-revised::0619"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The process by which Mystery Cults confer Virtues on members.",
+  "evidence": [
+   "the-mysteries-revised::0600",
+   "the-mysteries-revised::0613",
+   "the-mysteries-revised::0630"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [
+   "Mysteries",
+   "Mystery"
+  ],
+  "description": "A secretive brotherhood of magi that teaches Mystery Virtues through Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0610",
+   "the-mysteries-revised::0616",
+   "the-mysteries-revised::0628"
+  ]
+ },
+ {
+  "name": "Disciples of the Worm",
+  "type": "Faction",
+  "aliases": [
+   "Worm cult"
+  ],
+  "description": "A necromantic Mystery Cult founded by Vespillo that binds spirits into spells and seeks the tombs of ancient wizards.",
+  "evidence": [
+   "the-mysteries-revised::0606",
+   "the-mysteries-revised::0609",
+   "the-mysteries-revised::0613"
+  ]
+ },
+ {
+  "name": "Titus Herennius Vespillo",
+  "type": "Character",
+  "aliases": [
+   "Vespillo"
+  ],
+  "description": "Tenth-century necromancer magus of Rome who pioneered Hermetic spirit magic and founded the Disciples of the Worm.",
+  "evidence": [
+   "the-mysteries-revised::0607",
+   "the-mysteries-revised::0608"
+  ]
+ },
+ {
+  "name": "Julius of the Oder",
+  "type": "Character",
+  "aliases": [
+   "Julius"
+  ],
+  "description": "Notorious Flambeau magus who joined Vespillo against hedge magicians and died in the catacombs of Rome.",
+  "evidence": [
+   "the-mysteries-revised::0607",
+   "the-mysteries-revised::0608"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House to which Julius of the Oder belonged.",
+  "evidence": [
+   "the-mysteries-revised::0607"
+  ]
+ },
+ {
+  "name": "Bellephon of Prague",
+  "type": "Character",
+  "aliases": [],
+  "description": "Disciple of the Worm devoured by maggots in 1034 while the Quaesitors questioned him.",
+  "evidence": [
+   "the-mysteries-revised::0609"
+  ]
+ },
+ {
+  "name": "Pertinax of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Pertinax"
+  ],
+  "description": "Necromancer and the only known member of the Worm cult; he acts as its contact with other cults.",
+  "evidence": [
+   "the-mysteries-revised::0611",
+   "the-mysteries-revised::0612"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators who questioned accused Disciples of the Worm.",
+  "evidence": [
+   "the-mysteries-revised::0609"
+  ]
+ },
+ {
+  "name": "Worm Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "The cult Lore of the Disciples of the Worm; a Mystagogue usually has 6 or more.",
+  "evidence": [
+   "the-mysteries-revised::0610"
+  ]
+ },
+ {
+  "name": "Hermetic Evocation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Secrets of the Disciples of the Worm, taught to second-degree Initiates as spell binding.",
+  "evidence": [
+   "the-mysteries-revised::0611"
+  ]
+ },
+ {
+  "name": "Spell Binding",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue of the second Worm degree, which binds minor spirits or ghosts into spells to sustain them.",
+  "evidence": [
+   "the-mysteries-revised::0613",
+   "the-mysteries-revised::0610"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability taught at the first Worm degree; it can perceive a discorporate Chnoubis.",
+  "evidence": [
+   "the-mysteries-revised::0613",
+   "the-mysteries-revised::0659"
+  ]
+ },
+ {
+  "name": "Hermetic Empowerment",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue given at the third Worm degree to those who force a secret from a spirit in a pagan tomb.",
+  "evidence": [
+   "the-mysteries-revised::0614"
+  ]
+ },
+ {
+  "name": "Living Ghost",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue of the seventh Worm degree; the magus is ritually killed and bound as a ghost to the cult.",
+  "evidence": [
+   "the-mysteries-revised::0614",
+   "the-mysteries-revised::0630",
+   "the-mysteries-revised::0641"
+  ]
+ },
+ {
+  "name": "Transformation of the Living Ghost",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual of the Living Ghost that can be repeated to raise Might Score.",
+  "evidence": [
+   "the-mysteries-revised::0641"
+  ]
+ },
+ {
+  "name": "Spirit familiar",
+  "type": "Concept",
+  "aliases": [
+   "Parhedros"
+  ],
+  "description": "A familiar that is an immortal disembodied spirit, taught at the sixth Worm degree and needing no extra vis when its magus becomes immortal.",
+  "evidence": [
+   "the-mysteries-revised::0614",
+   "the-mysteries-revised::0634",
+   "the-mysteries-revised::0652"
+  ]
+ },
+ {
+  "name": "Hermetic spirit magic",
+  "type": "Concept",
+  "aliases": [
+   "spirit magic"
+  ],
+  "description": "School of magic for binding spirits and ghosts, pioneered by Vespillo and new in the Revised Edition.",
+  "evidence": [
+   "the-mysteries-revised::0608",
+   "the-mysteries-revised::0651",
+   "the-mysteries-revised::0653"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [
+   "ghosts"
+  ],
+  "description": "Spirits of the dead that the Disciples of the Worm bind; wounds from other ghosts vanish within a day.",
+  "evidence": [
+   "the-mysteries-revised::0613",
+   "the-mysteries-revised::0630",
+   "the-mysteries-revised::0640"
+  ]
+ },
+ {
+  "name": "Pompeii",
+  "type": "Place",
+  "aliases": [],
+  "description": "Buried Roman city that Vespillo explored with spells.",
+  "evidence": [
+   "the-mysteries-revised::0608"
+  ]
+ },
+ {
+  "name": "Herculaneum",
+  "type": "Place",
+  "aliases": [],
+  "description": "Buried Roman city that Vespillo explored with spells.",
+  "evidence": [
+   "the-mysteries-revised::0608"
+  ]
+ },
+ {
+  "name": "Catacombs of Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "Catacombs where Vespillo searched for the tombs of the Mercurian priesthood; his companions died there.",
+  "evidence": [
+   "the-mysteries-revised::0608"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Vespillo lived and whose catacombs he explored; Honos's temples there are destroyed.",
+  "evidence": [
+   "the-mysteries-revised::0607",
+   "the-mysteries-revised::0608",
+   "the-mysteries-revised::0664"
+  ]
+ },
+ {
+  "name": "Greater Alps",
+  "type": "Tribunal",
+  "aliases": [
+   "Alps"
+  ],
+  "description": "Region whose hedge magicians Vespillo and Julius attacked, and where a village cult bound spirits.",
+  "evidence": [
+   "the-mysteries-revised::0607"
+  ]
+ },
+ {
+  "name": "Transylvania",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Region where Vespillo and Julius waged campaigns against hedge magicians.",
+  "evidence": [
+   "the-mysteries-revised::0607"
+  ]
+ },
+ {
+  "name": "Mercurian priesthood",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient priesthood whose tombs Vespillo sought beneath Rome.",
+  "evidence": [
+   "the-mysteries-revised::0608"
+  ]
+ },
+ {
+  "name": "Etruscans",
+  "type": "Faction",
+  "aliases": [
+   "Etruscan"
+  ],
+  "description": "Ancient people whose burial shafts Vespillo explored and whom Lasa Vegoia taught theurgy and divination.",
+  "evidence": [
+   "the-mysteries-revised::0608",
+   "the-mysteries-revised::0662"
+  ]
+ },
+ {
+  "name": "All Hallows",
+  "type": "Concept",
+  "aliases": [],
+  "description": "October 31st, the eve on which Disciples of the Worm usually celebrate their rites.",
+  "evidence": [
+   "the-mysteries-revised::0613"
+  ]
+ },
+ {
+  "name": "Knights of the Green Stone",
+  "type": "Faction",
+  "aliases": [
+   "the Knights"
+  ],
+  "description": "A cult of Hermetic minnesinger knights who seek the Stone of Creation; founded at the Wartburgskrieg.",
+  "evidence": [
+   "the-mysteries-revised::0615",
+   "the-mysteries-revised::0618",
+   "the-mysteries-revised::0623"
+  ]
+ },
+ {
+  "name": "Green Stone",
+  "type": "Item",
+  "aliases": [
+   "Stone of Creation"
+  ],
+  "description": "A stone said to have fallen from Heaven, perhaps from Lucifer's brow or carved into the Holy Grail; the Knights of the Green Stone seek it.",
+  "evidence": [
+   "the-mysteries-revised::0616",
+   "the-mysteries-revised::0617",
+   "the-mysteries-revised::0618"
+  ]
+ },
+ {
+  "name": "Minnesingers",
+  "type": "Faction",
+  "aliases": [
+   "minnesinger"
+  ],
+  "description": "German knightly poets of the chivalric tradition; a small Mystery Cult of magi exists among them.",
+  "evidence": [
+   "the-mysteries-revised::0616",
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Courts of Love",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Formal courtly tradition to which Minnesang belonged.",
+  "evidence": [
+   "the-mysteries-revised::0616"
+  ]
+ },
+ {
+  "name": "Lucifer",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fallen angel; one legend holds that the Green Stone was a gem set in his brow.",
+  "evidence": [
+   "the-mysteries-revised::0616",
+   "the-mysteries-revised::0617"
+  ]
+ },
+ {
+  "name": "Michael",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archangel whose sword blow is said to have knocked the Green Stone from Lucifer's brow.",
+  "evidence": [
+   "the-mysteries-revised::0616",
+   "the-mysteries-revised::0617"
+  ]
+ },
+ {
+  "name": "Holy Grail",
+  "type": "Item",
+  "aliases": [],
+  "description": "Sacred relic that some say was carved from the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0615",
+   "the-mysteries-revised::0617",
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Hubert de Burgh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Said to have stolen an invincibility-granting heaven-fallen stone from the royal treasury.",
+  "evidence": [
+   "the-mysteries-revised::0617"
+  ]
+ },
+ {
+  "name": "Lapidary",
+  "type": "Item",
+  "aliases": [],
+  "description": "An 11th-century text by Bishop Marbode of Rennes on the magical use of gems.",
+  "evidence": [
+   "the-mysteries-revised::0617"
+  ]
+ },
+ {
+  "name": "Marbode of Rennes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bishop who wrote the 11th-century Lapidary.",
+  "evidence": [
+   "the-mysteries-revised::0617"
+  ]
+ },
+ {
+  "name": "Gervase of Tilbury",
+  "type": "Character",
+  "aliases": [],
+  "description": "Defended lapidaries against skeptics.",
+  "evidence": [
+   "the-mysteries-revised::0617"
+  ]
+ },
+ {
+  "name": "Alfonso the Wise",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Castile and Leon, credited with writing a lapidary.",
+  "evidence": [
+   "the-mysteries-revised::0617"
+  ]
+ },
+ {
+  "name": "Wartburgskrieg",
+  "type": "Concept",
+  "aliases": [
+   "Tourney of Poets"
+  ],
+  "description": "Early 13th-century minnesinger contest at a German court where the Knights of the Green Stone were founded.",
+  "evidence": [
+   "the-mysteries-revised::0617",
+   "the-mysteries-revised::0618"
+  ]
+ },
+ {
+  "name": "Gunnar von Falster",
+  "type": "Character",
+  "aliases": [],
+  "description": "Danish knight of House Tytalus who founded the Knights of the Green Stone; rumored author of Parzival.",
+  "evidence": [
+   "the-mysteries-revised::0618",
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House of Gunnar von Falster; many of its magi join the Knights of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0618",
+   "the-mysteries-revised::0619",
+   "the-mysteries-revised::0611"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House whose magi are often drawn to the Knights of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0618",
+   "the-mysteries-revised::0619"
+  ]
+ },
+ {
+  "name": "East Prussia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region whose forests hide the regio castle where a maiden told Gunnar of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0618"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A supernatural area; the Knights' castle may be a regio with moving entrances.",
+  "evidence": [
+   "the-mysteries-revised::0618",
+   "the-mysteries-revised::0623"
+  ]
+ },
+ {
+  "name": "Unicorn",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Led on an emerald halter by a misshapen dwarf at the founding of the Knights of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0618"
+  ]
+ },
+ {
+  "name": "Castle of the Grail",
+  "type": "Place",
+  "aliases": [
+   "Grail Castle"
+  ],
+  "description": "Knights of the Green Stone headquarters, probably in a Rhine forest and possibly a regio with moving entrances.",
+  "evidence": [
+   "the-mysteries-revised::0619",
+   "the-mysteries-revised::0621",
+   "the-mysteries-revised::0623"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Rhine"
+  ],
+  "description": "Tribunal home to the minnesingers and probably to the Castle of the Grail.",
+  "evidence": [
+   "the-mysteries-revised::0616",
+   "the-mysteries-revised::0619",
+   "the-mysteries-revised::0623"
+  ]
+ },
+ {
+  "name": "Green Stone Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "The cult Lore of the Knights of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0619"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "First Virtue taught to Pages of the Knights of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0619",
+   "the-mysteries-revised::0625"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw created by the chivalric oaths in the Green Stone Initiation; Honos's feast heals those who have it.",
+  "evidence": [
+   "the-mysteries-revised::0619",
+   "the-mysteries-revised::0664"
+  ]
+ },
+ {
+  "name": "Pentecost",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Feast when new Green Stone Initiates must arrive and the Knights meet.",
+  "evidence": [
+   "the-mysteries-revised::0619",
+   "the-mysteries-revised::0627"
+  ]
+ },
+ {
+  "name": "Parzival",
+  "type": "Item",
+  "aliases": [],
+  "description": "Wolfram von Eschenbach's epic poem, said to hide an allegory of the Knights and directions to their Grail Castle.",
+  "evidence": [
+   "the-mysteries-revised::0619",
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Wulfram von Eschenbach",
+  "type": "Character",
+  "aliases": [],
+  "description": "Minnesinger credited with Parzival, which Gunnar may have passed to him by magic.",
+  "evidence": [
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Sir Percival",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero of Parzival who quests for the Holy Grail.",
+  "evidence": [
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Gentle Gifted"
+  ],
+  "description": "Knights of the Green Stone mainly attract magi with this Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0620"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Magical talent that frightens animals such as horses.",
+  "evidence": [
+   "the-mysteries-revised::0620"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that Green Stone Initiates must study; Aneirin has a score of 12.",
+  "evidence": [
+   "the-mysteries-revised::0618",
+   "the-mysteries-revised::0620",
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Grace that Knights of the Green Stone must practice.",
+  "evidence": [
+   "the-mysteries-revised::0618"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Grace that Knights of the Green Stone must practice.",
+  "evidence": [
+   "the-mysteries-revised::0618"
+  ]
+ },
+ {
+  "name": "Baltic",
+  "type": "Place",
+  "aliases": [
+   "Baltic shoreline"
+  ],
+  "description": "Shoreline where the Knights follow rumors of the Green Stone; Baltic wizards first summoned Pukis.",
+  "evidence": [
+   "the-mysteries-revised::0621",
+   "the-mysteries-revised::0667"
+  ]
+ },
+ {
+  "name": "Levant",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where some Knights of the Green Stone have searched.",
+  "evidence": [
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Loch Leglean",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Remote region where Knights of the Green Stone quest.",
+  "evidence": [
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Hibernia",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Remote region where Knights of the Green Stone quest.",
+  "evidence": [
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Remote region where Knights of the Green Stone quest.",
+  "evidence": [
+   "the-mysteries-revised::0621"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [],
+  "description": "A magus's attuned device; the Knights use their shields, and immortals bind learning into it.",
+  "evidence": [
+   "the-mysteries-revised::0622",
+   "the-mysteries-revised::0629",
+   "the-mysteries-revised::0630"
+  ]
+ },
+ {
+  "name": "Page (Green Stone)",
+  "type": "Concept",
+  "aliases": [
+   "Page"
+  ],
+  "description": "First degree of the Knights of the Green Stone, which teaches Free Expression, Performance Magic: Music and Art of Memory.",
+  "evidence": [
+   "the-mysteries-revised::0625",
+   "the-mysteries-revised::0620"
+  ]
+ },
+ {
+  "name": "Squire (Green Stone)",
+  "type": "Concept",
+  "aliases": [
+   "Squire"
+  ],
+  "description": "Middle degree of the Knights of the Green Stone, which teaches Vulgar Alchemy, Hermetic Numerology and Consummate Talisman.",
+  "evidence": [
+   "the-mysteries-revised::0626",
+   "the-mysteries-revised::0619"
+  ]
+ },
+ {
+  "name": "Knight (Green Stone)",
+  "type": "Concept",
+  "aliases": [
+   "Knight"
+  ],
+  "description": "Highest degree of the Knights of the Green Stone, which teaches Planetary Magic, Gemstone focus or Potent Magic and Hermetic True Names.",
+  "evidence": [
+   "the-mysteries-revised::0627"
+  ]
+ },
+ {
+  "name": "Art of Memory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ancient secret taught to Pages; it replaces Magical Imagination and helps victims of Chnoubis recall events.",
+  "evidence": [
+   "the-mysteries-revised::0625",
+   "the-mysteries-revised::0651",
+   "the-mysteries-revised::0658"
+  ]
+ },
+ {
+  "name": "Vulgar Alchemy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Alchemy Virtue taught to Squires of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0626",
+   "the-mysteries-revised::0649"
+  ]
+ },
+ {
+  "name": "Hermetic Numerology",
+  "type": "Virtue",
+  "aliases": [
+   "Numerology"
+  ],
+  "description": "Virtue taught to Squires; part of the Arithmetic school.",
+  "evidence": [
+   "the-mysteries-revised::0626",
+   "the-mysteries-revised::0653"
+  ]
+ },
+ {
+  "name": "Consummate Talisman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue taught to Squires of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0626"
+  ]
+ },
+ {
+  "name": "Major Magical Focus",
+  "type": "Virtue",
+  "aliases": [
+   "Magical Focus"
+  ],
+  "description": "Knights may learn the Gemstones version; magi may have only one Magical Focus.",
+  "evidence": [
+   "the-mysteries-revised::0627",
+   "the-mysteries-revised::0649",
+   "the-mysteries-revised::0653"
+  ]
+ },
+ {
+  "name": "Hermetic True Names",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue taught to Knights of the Green Stone.",
+  "evidence": [
+   "the-mysteries-revised::0627"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi, all Green Stone Knights belong to it.",
+  "evidence": [
+   "the-mysteries-revised::0607",
+   "the-mysteries-revised::0617",
+   "the-mysteries-revised::0623"
+  ]
+ },
+ {
+  "name": "Immortal magi",
+  "type": "CharacterType",
+  "aliases": [
+   "immortal"
+  ],
+  "description": "Magi who became beings of a supernatural realm; they have Might, no longer age and cannot learn without binding it into a talisman.",
+  "evidence": [
+   "the-mysteries-revised::0628",
+   "the-mysteries-revised::0629",
+   "the-mysteries-revised::0632"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic realm"
+  ],
+  "description": "The supernatural realm that the three immortality paths in the book enter.",
+  "evidence": [
+   "the-mysteries-revised::0628"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine realm's influence, which has covered Honos's temples in Rome.",
+  "evidence": [
+   "the-mysteries-revised::0664"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Score"
+  ],
+  "description": "A realm-based score; beings with Might can use it to resist spells and face Warding spells.",
+  "evidence": [
+   "the-mysteries-revised::0628",
+   "the-mysteries-revised::0641"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magic resistance; beings with Might use Might or Form + 5x Parma Magica.",
+  "evidence": [
+   "the-mysteries-revised::0628"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Warding spell that affects beings with a Might score.",
+  "evidence": [
+   "the-mysteries-revised::0628"
+  ]
+ },
+ {
+  "name": "Aging",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aging rolls, which immortals stop making.",
+  "evidence": [
+   "the-mysteries-revised::0628"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical warping, which cannot affect immortals.",
+  "evidence": [
+   "the-mysteries-revised::0628"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Wizard's Twilight, which cannot affect immortals.",
+  "evidence": [
+   "the-mysteries-revised::0628"
+  ]
+ },
+ {
+  "name": "Great Elixir",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that turns a magus into an immortal magical being; The Elixir converts to Lesser and Great Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0630",
+   "the-mysteries-revised::0649"
+  ]
+ },
+ {
+  "name": "Lesser Elixir",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Alchemy Virtue; Fourth Edition The Elixir converts to Lesser and Great Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0649"
+  ]
+ },
+ {
+  "name": "Binding the Immortal Memory",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrMe Mystery enchantment that binds studied experience into an immortal's talisman at level 10 x XP.",
+  "evidence": [
+   "the-mysteries-revised::0633",
+   "the-mysteries-revised::0634"
+  ]
+ },
+ {
+  "name": "The Immortal's Grimoire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReVi Mystery enchantment letting a talisman hold a spell so an immortal can cast it normally.",
+  "evidence": [
+   "the-mysteries-revised::0636",
+   "the-mysteries-revised::0637",
+   "the-mysteries-revised::0638"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [
+   "familiar"
+  ],
+  "description": "A magus's bonded creature that can follow the magus into immortality if extra vis equal to Bond/5 is added.",
+  "evidence": [
+   "the-mysteries-revised::0633",
+   "the-mysteries-revised::0634"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis",
+   "pawns"
+  ],
+  "description": "Raw magical power used in transformation rites, pacts, and left by banished Daimons.",
+  "evidence": [
+   "the-mysteries-revised::0634",
+   "the-mysteries-revised::0655",
+   "the-mysteries-revised::0659"
+  ]
+ },
+ {
+  "name": "Ritual spell",
+  "type": "Concept",
+  "aliases": [
+   "Ritual"
+  ],
+  "description": "A spell that an immortal can invest in a talisman as groundwork for The Immortal's Grimoire.",
+  "evidence": [
+   "the-mysteries-revised::0637",
+   "the-mysteries-revised::0660"
+  ]
+ },
+ {
+  "name": "Extraordinary Results",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Chart used for botched spell-binding with Modified Effect, Side Effect and Disaster tables.",
+  "evidence": [
+   "the-mysteries-revised::0638"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A Perdo Vim spell whose damage to Might is used as a comparison.",
+  "evidence": [
+   "the-mysteries-revised::0641"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Medical ability added to Recovery Totals.",
+  "evidence": [
+   "the-mysteries-revised::0640"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Medical ability added to Recovery Totals.",
+  "evidence": [
+   "the-mysteries-revised::0640"
+  ]
+ },
+ {
+  "name": "Hermetic Alchemy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Alchemy Virtue carried over directly in conversion.",
+  "evidence": [
+   "the-mysteries-revised::0649"
+  ]
+ },
+ {
+  "name": "Philosophic Alchemy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Alchemy Virtue carried over directly in conversion.",
+  "evidence": [
+   "the-mysteries-revised::0649"
+  ]
+ },
+ {
+  "name": "Cabal Legacy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that stays the same in conversion.",
+  "evidence": [
+   "the-mysteries-revised::0646"
+  ]
+ },
+ {
+  "name": "Celestial Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Astrological Virtue kept in conversion.",
+  "evidence": [
+   "the-mysteries-revised::0650"
+  ]
+ },
+ {
+  "name": "Periapts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue closest to Fourth Edition Astral Magic.",
+  "evidence": [
+   "the-mysteries-revised::0650"
+  ]
+ },
+ {
+  "name": "Hermetic Divination",
+  "type": "Virtue",
+  "aliases": [
+   "Divination",
+   "Augury",
+   "Divination and Augury"
+  ],
+  "description": "Separate Mystery magic replacing Augury, where several methods share one Divination Ability; Lasa Vegoia helps initiate it.",
+  "evidence": [
+   "the-mysteries-revised::0651",
+   "the-mysteries-revised::0658",
+   "the-mysteries-revised::0662"
+  ]
+ },
+ {
+  "name": "Dream Magic",
+  "type": "Virtue",
+  "aliases": [
+   "Oneiromancy"
+  ],
+  "description": "Virtue replacing Fourth Edition Oneiromancy.",
+  "evidence": [
+   "the-mysteries-revised::0651"
+  ]
+ },
+ {
+  "name": "Greater Dream Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue replacing Fourth Edition Oneiromancy along with Dream Magic.",
+  "evidence": [
+   "the-mysteries-revised::0651"
+  ]
+ },
+ {
+  "name": "Hermetic Dream Interpreter",
+  "type": "Virtue",
+  "aliases": [
+   "Dream Interpreter"
+  ],
+  "description": "A kind of Hermetic Divination that replaces Dream Interpreter.",
+  "evidence": [
+   "the-mysteries-revised::0651"
+  ]
+ },
+ {
+  "name": "Hermetic Synthemata",
+  "type": "Virtue",
+  "aliases": [
+   "synthemata"
+  ],
+  "description": "Theurgic Virtue suggested for converted thaumaturgists; Daimons can reveal synthemata.",
+  "evidence": [
+   "the-mysteries-revised::0652",
+   "the-mysteries-revised::0656"
+  ]
+ },
+ {
+  "name": "Invocation Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that, like Names of Power, calls on powers.",
+  "evidence": [
+   "the-mysteries-revised::0652"
+  ]
+ },
+ {
+  "name": "Hermetic Geometry",
+  "type": "Virtue",
+  "aliases": [
+   "Geometry"
+  ],
+  "description": "New Virtue that is part of the Arithmetic school.",
+  "evidence": [
+   "the-mysteries-revised::0653"
+  ]
+ },
+ {
+  "name": "Arithmetic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "School of Mystery magic formed by Numerology, Geometry and Architecture.",
+  "evidence": [
+   "the-mysteries-revised::0653"
+  ]
+ },
+ {
+  "name": "Ceremonial Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magical method in ArM5.",
+  "evidence": [
+   "the-mysteries-revised::0647"
+  ]
+ },
+ {
+  "name": "Sympathetic magic",
+  "type": "Concept",
+  "aliases": [
+   "sympathetic bonus"
+  ],
+  "description": "Magical method in ArM5 that grants sympathetic bonuses in Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0647",
+   "the-mysteries-revised::0611"
+  ]
+ },
+ {
+  "name": "Mastery",
+  "type": "Ability",
+  "aliases": [
+   "Mastery special abilities"
+  ],
+  "description": "Special abilities that replace Mastery Virtues for Formulaic spells.",
+  "evidence": [
+   "the-mysteries-revised::0646"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Creature",
+  "aliases": [
+   "Daimons"
+  ],
+  "description": "Powerful unique magical spirits that send Aspects to Earth and make pacts with theurgists.",
+  "evidence": [
+   "the-mysteries-revised::0654",
+   "the-mysteries-revised::0655",
+   "the-mysteries-revised::0657"
+  ]
+ },
+ {
+  "name": "Aspect",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An independent manifestation a Daimon sends; binding or destroying it does not harm the Daimon.",
+  "evidence": [
+   "the-mysteries-revised::0654",
+   "the-mysteries-revised::0640"
+  ]
+ },
+ {
+  "name": "Invoke the Pact of (Daimon)",
+  "type": "Spell",
+  "aliases": [],
+  "description": "The theurgic rite and gift of vis used to bargain with a Daimon for a service.",
+  "evidence": [
+   "the-mysteries-revised::0655"
+  ]
+ },
+ {
+  "name": "Chnoubis the Serpent",
+  "type": "Creature",
+  "aliases": [
+   "Chnoubis"
+  ],
+  "description": "Lion-headed serpent Daimon from the Nile, invoked to spy and scry; his bite forces victims to speak.",
+  "evidence": [
+   "the-mysteries-revised::0655",
+   "the-mysteries-revised::0658",
+   "the-mysteries-revised::0659"
+  ]
+ },
+ {
+  "name": "Gydryty-kom the Giant",
+  "type": "Creature",
+  "aliases": [
+   "Gydrytykom"
+  ],
+  "description": "Albanian hail giant Daimon who swallows spells and hates being called away from his fight with a fog serpent.",
+  "evidence": [
+   "the-mysteries-revised::0655",
+   "the-mysteries-revised::0660"
+  ]
+ },
+ {
+  "name": "Hipta the Nurse",
+  "type": "Creature",
+  "aliases": [
+   "Hipta"
+  ],
+  "description": "Shapechanging Daimon, nurse of Dionysus, invoked to lift curses with her Perdo Vim power.",
+  "evidence": [
+   "the-mysteries-revised::0655",
+   "the-mysteries-revised::0661"
+  ]
+ },
+ {
+  "name": "Lasa Vegoia the Matron",
+  "type": "Creature",
+  "aliases": [
+   "Lasa Vegoia"
+  ],
+  "description": "Water nymph Daimon who taught the Etruscans theurgy and divination and can teach theurgy.",
+  "evidence": [
+   "the-mysteries-revised::0655",
+   "the-mysteries-revised::0662"
+  ]
+ },
+ {
+  "name": "Portunes",
+  "type": "Creature",
+  "aliases": [
+   "Palaemon",
+   "Melicertes"
+  ],
+  "description": "Daimon of harbors, keys and locks who can calm a harbor or open magical locks; his feast is the Portunalia.",
+  "evidence": [
+   "the-mysteries-revised::0663"
+  ]
+ },
+ {
+  "name": "Honos",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Roman Daimon of military honor who teaches Leadership and gives the Centurions' Feast.",
+  "evidence": [
+   "the-mysteries-revised::0664",
+   "the-mysteries-revised::0665"
+  ]
+ },
+ {
+  "name": "Pukis, Dragon of the Hearth",
+  "type": "Creature",
+  "aliases": [
+   "Pukis"
+  ],
+  "description": "Small Baltic hearth-dragon Daimon that steals gifts for its master and makes Ignem vis in ashes.",
+  "evidence": [
+   "the-mysteries-revised::0666",
+   "the-mysteries-revised::0667"
+  ]
+ },
+ {
+  "name": "Aneirin the Bard",
+  "type": "Creature",
+  "aliases": [
+   "Aneirin"
+  ],
+  "description": "Welsh bard, now a Daimon, author of Y Gododdin; he knows Stonehenge lore and names of power.",
+  "evidence": [
+   "the-mysteries-revised::0656",
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Dietrich von Bern",
+  "type": "Creature",
+  "aliases": [
+   "Dietrich"
+  ],
+  "description": "Daimon of the German hero-king of Bern who guards his dragon-blooded tomb in the Lessini Mountains.",
+  "evidence": [
+   "the-mysteries-revised::0669",
+   "the-mysteries-revised::0670"
+  ]
+ },
+ {
+  "name": "Dionysus",
+  "type": "Character",
+  "aliases": [],
+  "description": "God nursed by Hipta.",
+  "evidence": [
+   "the-mysteries-revised::0661"
+  ]
+ },
+ {
+  "name": "Albanians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "People who once honored Gydryty-kom.",
+  "evidence": [
+   "the-mysteries-revised::0655",
+   "the-mysteries-revised::0660"
+  ]
+ },
+ {
+  "name": "Nile",
+  "type": "Place",
+  "aliases": [],
+  "description": "River Chnoubis claims as his home.",
+  "evidence": [
+   "the-mysteries-revised::0659"
+  ]
+ },
+ {
+  "name": "Forum Boarium",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place in Rome near Portunes's temple.",
+  "evidence": [
+   "the-mysteries-revised::0663"
+  ]
+ },
+ {
+  "name": "Portunalia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Portunes's feast on August 17th.",
+  "evidence": [
+   "the-mysteries-revised::0663"
+  ]
+ },
+ {
+  "name": "Legion of Mithras",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Said to know a surviving shrine where Honos can be invoked.",
+  "evidence": [
+   "the-mysteries-revised::0665"
+  ]
+ },
+ {
+  "name": "Centurions' Feast",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Honos's power that feeds 100 and heals those with Dutybound.",
+  "evidence": [
+   "the-mysteries-revised::0664"
+  ]
+ },
+ {
+  "name": "Andrilikes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Theurgist of the Novgorod Tribunal who wrote a ritual to summon Pukis.",
+  "evidence": [
+   "the-mysteries-revised::0667"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal of the theurgist Andrilikes.",
+  "evidence": [
+   "the-mysteries-revised::0667"
+  ]
+ },
+ {
+  "name": "Daimonic Adjuration of Pukis",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Andrilikes's Hermetic ritual that summons Pukis to a sanctum.",
+  "evidence": [
+   "the-mysteries-revised::0667"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal whose ancient ways Aneirin can describe.",
+  "evidence": [
+   "the-mysteries-revised::0656",
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Taliesin",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five great Welsh poets believed to have left Daimons behind.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Talhaearn Tad Awen",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five great Welsh poets believed to have left Daimons behind.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Blwchbardd",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five great Welsh poets believed to have left Daimons behind.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Cian",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five great Welsh poets believed to have left Daimons behind.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Y Gododdin",
+  "type": "Item",
+  "aliases": [],
+  "description": "Aneirin's famous poem about Mynyddawg's war band.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Mynyddawg Mwynfawr",
+  "type": "Character",
+  "aliases": [
+   "Mynyddawg the Wealthy"
+  ],
+  "description": "Lord of Caereidyn whose 300-strong war band Aneirin praised.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Caereidyn",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mynyddawg's seat, near Edinburgh.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Cambrian Mountains",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains where Aneirin's tomb lies and his spirit wanders.",
+  "evidence": [
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Bern",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Dietrich was boy-king.",
+  "evidence": [
+   "the-mysteries-revised::0669",
+   "the-mysteries-revised::0670"
+  ]
+ },
+ {
+  "name": "Ermenrik",
+  "type": "Character",
+  "aliases": [],
+  "description": "Dietrich's uncle, German ruler of Rome, who conquered Bern.",
+  "evidence": [
+   "the-mysteries-revised::0669",
+   "the-mysteries-revised::0670"
+  ]
+ },
+ {
+  "name": "Attila the Hun",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ruler to whose court Dietrich fled.",
+  "evidence": [
+   "the-mysteries-revised::0669",
+   "the-mysteries-revised::0670"
+  ]
+ },
+ {
+  "name": "Siegfried",
+  "type": "Character",
+  "aliases": [],
+  "description": "Nibelungen hero in Dietrich's court.",
+  "evidence": [
+   "the-mysteries-revised::0669"
+  ]
+ },
+ {
+  "name": "Lessini Mountains",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains where Dietrich's tomb lies.",
+  "evidence": [
+   "the-mysteries-revised::0670"
+  ]
+ },
+ {
+  "name": "Mount Etna",
+  "type": "Place",
+  "aliases": [],
+  "description": "Volcano into which Church legend says Dietrich was thrown.",
+  "evidence": [
+   "the-mysteries-revised::0670"
+  ]
+ },
+ {
+  "name": "Das Heldenbuch",
+  "type": "Item",
+  "aliases": [
+   "The Book of Heroes"
+  ],
+  "description": "Collection of German romances containing the legend of Dietrich.",
+  "evidence": [
+   "the-mysteries-revised::0670"
+  ]
+ },
+ {
+  "name": "Languedoc Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where Mathematikoi robes resemble Cathar perfecti.",
+  "evidence": [
+   "the-mysteries-revised::0601"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "aliases": [
+   "perfecti"
+  ],
+  "description": "Heretics whose perfecti look like robed Mathematikoi.",
+  "evidence": [
+   "the-mysteries-revised::0601"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that Honos can teach.",
+  "evidence": [
+   "the-mysteries-revised::0664",
+   "the-mysteries-revised::0669"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that Lasa Vegoia and Aneirin possess.",
+  "evidence": [
+   "the-mysteries-revised::0662",
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique; Chnoubis leaves Intellego vis, and Intellego Vim can see him.",
+  "evidence": [
+   "the-mysteries-revised::0659",
+   "the-mysteries-revised::0662"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Chnoubis's Might and powers.",
+  "evidence": [
+   "the-mysteries-revised::0658",
+   "the-mysteries-revised::0659"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Gydryty-kom's and Portunes's Might.",
+  "evidence": [
+   "the-mysteries-revised::0660",
+   "the-mysteries-revised::0663"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Hipta's Might.",
+  "evidence": [
+   "the-mysteries-revised::0661"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Lasa Vegoia's Might.",
+  "evidence": [
+   "the-mysteries-revised::0662"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Honos's and Aneirin's Might.",
+  "evidence": [
+   "the-mysteries-revised::0664",
+   "the-mysteries-revised::0668"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Pukis's Might.",
+  "evidence": [
+   "the-mysteries-revised::0666"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Dietrich's Might.",
+  "evidence": [
+   "the-mysteries-revised::0669",
+   "the-mysteries-revised::0666"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form tied to magic and spirit, shaped as a dodecahedron in Pythagorean lore.",
+  "evidence": [
+   "the-mysteries-revised::0603",
+   "the-mysteries-revised::0661"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique used to destroy spirits, as in Perdo Vim.",
+  "evidence": [
+   "the-mysteries-revised::0628",
+   "the-mysteries-revised::0661"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique used by Binding the Immortal Memory (CrMe).",
+  "evidence": [
+   "the-mysteries-revised::0633",
+   "the-mysteries-revised::0634"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique; Muto Terram is a suggested focus for alchemists.",
+  "evidence": [
+   "the-mysteries-revised::0649"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form that Pukis's Sneak Thief uses.",
+  "evidence": [
+   "the-mysteries-revised::0649",
+   "the-mysteries-revised::0666"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of Aneirin's vis and Pukis's invisibility.",
+  "evidence": [
+   "the-mysteries-revised::0666",
+   "the-mysteries-revised::0668"
+  ]
+ }
+]

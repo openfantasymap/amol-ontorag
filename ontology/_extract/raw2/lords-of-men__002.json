@@ -1,0 +1,2343 @@
+[
+ {
+  "name": "Pyrenees",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountain region where villages have specialist huntsmen who sell game on the open market.",
+  "evidence": [
+   "lords-of-men::0240"
+  ]
+ },
+ {
+  "name": "Germany",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region whose forests host village huntsmen; German draught horse breeds are notable.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0282"
+  ]
+ },
+ {
+  "name": "Angevin Domains",
+  "type": "Place",
+  "aliases": [
+   "Angevin domains"
+  ],
+  "description": "Lands where feudal grants of exclusive hunting rights (warrens and chases) are customary.",
+  "evidence": [
+   "lords-of-men::0240"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where a third of the land was designated royal forest under King John; home of horse coursers and fine rounceys.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0273",
+   "lords-of-men::0282"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where exclusive hunting grants are customary and the heartland of the tournament.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0329",
+   "lords-of-men::0330"
+  ]
+ },
+ {
+  "name": "Royal Forest of Dartmoor",
+  "type": "Place",
+  "aliases": [
+   "Dartmoor"
+  ],
+  "description": "An English royal forest composed of moorland, showing that a 'forest' is a hunting reserve rather than woodland.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0241"
+  ]
+ },
+ {
+  "name": "St. Hubert Monastery",
+  "type": "Place",
+  "aliases": [],
+  "description": "Swiss monastery whose abbot breeds the St. Hubert running hounds, famed for their noses.",
+  "evidence": [
+   "lords-of-men::0244"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Source of the best greyhounds; northern ponies are also found there.",
+  "evidence": [
+   "lords-of-men::0244",
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [
+   "the Irish"
+  ],
+  "description": "Home of the shaggy-coated wolfhound; produces fine rounceys.",
+  "evidence": [
+   "lords-of-men::0244",
+   "lords-of-men::0282"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Source of the best bird dogs (spaniels) and of most destriers; horse dealers are respected there.",
+  "evidence": [
+   "lords-of-men::0245",
+   "lords-of-men::0273",
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Andalusia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of Iberia from which many destrier stallions come.",
+  "evidence": [
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northern lands where hunters pursue reindeer and gyrfalcons live; produces fine rounceys.",
+  "evidence": [
+   "lords-of-men::0246",
+   "lords-of-men::0270",
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Novgorod",
+  "type": "Place",
+  "aliases": [],
+  "description": "Eastern region where hunting with hounds is part of noble culture and horse dealers are disreputable.",
+  "evidence": [
+   "lords-of-men::0254",
+   "lords-of-men::0273"
+  ]
+ },
+ {
+  "name": "The Levant",
+  "type": "Place",
+  "aliases": [
+   "Levant"
+  ],
+  "description": "Region where horse dealing is respected, mares are used as warhorses, and small tournaments are held near towns.",
+  "evidence": [
+   "lords-of-men::0273",
+   "lords-of-men::0274",
+   "lords-of-men::0329"
+  ]
+ },
+ {
+  "name": "North Africa",
+  "type": "Place",
+  "aliases": [],
+  "description": "Source of Barb horses and of the lanner falcon.",
+  "evidence": [
+   "lords-of-men::0281",
+   "lords-of-men::0296"
+  ]
+ },
+ {
+  "name": "Iceland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Source of the very best working ponies and home of gyrfalcons.",
+  "evidence": [
+   "lords-of-men::0281",
+   "lords-of-men::0282",
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Hungary",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom known for the quality of its riding horses such as palfreys and jennets.",
+  "evidence": [
+   "lords-of-men::0282"
+  ]
+ },
+ {
+  "name": "Low Countries",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region producing good draught horses.",
+  "evidence": [
+   "lords-of-men::0282"
+  ]
+ },
+ {
+  "name": "Russia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cold northern land where the gyrfalcon lives.",
+  "evidence": [
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "aliases": [
+   "court of Sicily"
+  ],
+  "description": "The court of Sicily originated the fashion of hooding hawks.",
+  "evidence": [
+   "lords-of-men::0287"
+  ]
+ },
+ {
+  "name": "Provence",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where fin' amors (courtly love) originated.",
+  "evidence": [
+   "lords-of-men::0308"
+  ]
+ },
+ {
+  "name": "Burgundy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where fin' amors (courtly love) originated.",
+  "evidence": [
+   "lords-of-men::0308"
+  ]
+ },
+ {
+  "name": "Lagny-sur-Marne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of the 1179 tourney to which Henry the Young King brought five hundred knights.",
+  "evidence": [
+   "lords-of-men::0333"
+  ]
+ },
+ {
+  "name": "Lincoln",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site relieved in 1217 by William Marshal, leading to the expulsion of Louis of France.",
+  "evidence": [
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "Flanders",
+  "type": "Place",
+  "aliases": [],
+  "description": "County of Count Philip, whose side William Marshal joined on the tournament circuit.",
+  "evidence": [
+   "lords-of-men::0326",
+   "lords-of-men::0354"
+  ]
+ },
+ {
+  "name": "Pembrokeshire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Earldom held by William Marshal.",
+  "evidence": [
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Tournaments are held wherever European knights are found, including the Holy Land.",
+  "evidence": [
+   "lords-of-men::0329"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The Ars Magica setting, in which hunting, horses, hawking and tournaments are central noble pursuits.",
+  "evidence": [
+   "lords-of-men::0242",
+   "lords-of-men::0254",
+   "lords-of-men::0273"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where bow and stable hunting is a socially acceptable noble pursuit.",
+  "evidence": [
+   "lords-of-men::0265"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where bow and stable hunting is a socially acceptable noble pursuit.",
+  "evidence": [
+   "lords-of-men::0265"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where bow and stable hunting is a socially acceptable noble pursuit.",
+  "evidence": [
+   "lords-of-men::0265"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where bow and stable hunting is acceptable and where courtly love is widely known.",
+  "evidence": [
+   "lords-of-men::0265",
+   "lords-of-men::0308"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where bow and stable hunting is acceptable and where courtly love is widely known.",
+  "evidence": [
+   "lords-of-men::0265",
+   "lords-of-men::0308"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where bow and stable hunting is acceptable; it produces good draught horses.",
+  "evidence": [
+   "lords-of-men::0265",
+   "lords-of-men::0282"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal region where fin' amors is now widely known.",
+  "evidence": [
+   "lords-of-men::0308"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "aliases": [
+   "John"
+  ],
+  "description": "King of England during whose reign a third of the nation was designated forest; died in 1216.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "William Rufus",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of England killed in August 1100 by an arrow accidentally shot by William Tyrell while hunting.",
+  "evidence": [
+   "lords-of-men::0267"
+  ]
+ },
+ {
+  "name": "William Tyrell",
+  "type": "Character",
+  "aliases": [],
+  "description": "Man who accidentally shot King William Rufus in 1100.",
+  "evidence": [
+   "lords-of-men::0267"
+  ]
+ },
+ {
+  "name": "Eleanor of Aquitaine",
+  "type": "Character",
+  "aliases": [],
+  "description": "Popularized fin' amors, spreading it to England and France.",
+  "evidence": [
+   "lords-of-men::0308"
+  ]
+ },
+ {
+  "name": "Andreas Capellanus",
+  "type": "Character",
+  "aliases": [
+   "Capellanus"
+  ],
+  "description": "Author in 1174 of De Amore, the definitive work on fin' amors, listing 12 Laws of Love.",
+  "evidence": [
+   "lords-of-men::0308",
+   "lords-of-men::0312",
+   "lords-of-men::0313"
+  ]
+ },
+ {
+  "name": "Tristan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Lover in the romance of Tristan and Iseult, whose adultery brings disaster.",
+  "evidence": [
+   "lords-of-men::0311"
+  ]
+ },
+ {
+  "name": "Iseult",
+  "type": "Character",
+  "aliases": [],
+  "description": "Lover in the romance of Tristan and Iseult.",
+  "evidence": [
+   "lords-of-men::0311"
+  ]
+ },
+ {
+  "name": "Henry II",
+  "type": "Character",
+  "aliases": [
+   "King Henry II",
+   "Henry II of England"
+  ],
+  "description": "King of England who banned tournaments and charged William Marshal with tutoring his son.",
+  "evidence": [
+   "lords-of-men::0330",
+   "lords-of-men::0333",
+   "lords-of-men::0354"
+  ]
+ },
+ {
+  "name": "King Richard",
+  "type": "Character",
+  "aliases": [
+   "Richard"
+  ],
+  "description": "King of England who allowed tournaments again in 1194 under royal charters.",
+  "evidence": [
+   "lords-of-men::0330",
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "Henry III",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of England in 1220; William Marshal was elected his regent in 1216.",
+  "evidence": [
+   "lords-of-men::0330",
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "Henry the Young King",
+  "type": "Character",
+  "aliases": [
+   "the Young King"
+  ],
+  "description": "Son of Henry II, who took five hundred knights to Lagny-sur-Marne in 1179 and was tutored by William Marshal.",
+  "evidence": [
+   "lords-of-men::0333",
+   "lords-of-men::0354",
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "William Marshal",
+  "type": "Character",
+  "aliases": [],
+  "description": "Great knight and Earl of Pembrokeshire who rose through tournaments, served successive kings and was regent for Henry III; died 1219.",
+  "evidence": [
+   "lords-of-men::0326",
+   "lords-of-men::0354",
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "Roger de Jouy",
+  "type": "Character",
+  "aliases": [],
+  "description": "Flemish knight who shared tournament ransom profits with William Marshal for a year.",
+  "evidence": [
+   "lords-of-men::0327"
+  ]
+ },
+ {
+  "name": "William de Tancarville",
+  "type": "Character",
+  "aliases": [
+   "Tancarville"
+  ],
+  "description": "Influential Norman noble, cousin of William Marshal's father, who introduced him to the tournament.",
+  "evidence": [
+   "lords-of-men::0354"
+  ]
+ },
+ {
+  "name": "Count Philip of Flanders",
+  "type": "Character",
+  "aliases": [],
+  "description": "Noble whose wealth lured William Marshal to his side on the tournament circuit.",
+  "evidence": [
+   "lords-of-men::0354"
+  ]
+ },
+ {
+  "name": "Louis of France",
+  "type": "Character",
+  "aliases": [],
+  "description": "French prince expelled from England after the relief of Lincoln in 1217.",
+  "evidence": [
+   "lords-of-men::0355"
+  ]
+ },
+ {
+  "name": "Jonathan Carpenter",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example character who gains the Reputation Patron (Clergy) by building a nave for a parish church.",
+  "evidence": [
+   "lords-of-men::0318"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House whose magi send agents to tournaments to sell minor enchantments to knights.",
+  "evidence": [
+   "lords-of-men::0341",
+   "lords-of-men::0342"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of magi; acting as its patron is fraught with difficulty, and it is one of the Reputation groups.",
+  "evidence": [
+   "lords-of-men::0319",
+   "lords-of-men::0320"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Church"
+  ],
+  "description": "Major landholder that condemns fin' amors and tournaments and can grant Gratitude and manors.",
+  "evidence": [
+   "lords-of-men::0308",
+   "lords-of-men::0318",
+   "lords-of-men::0330"
+  ]
+ },
+ {
+  "name": "Troubadours",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Singers who celebrate fin' amors and can glorify a patron's genealogy.",
+  "evidence": [
+   "lords-of-men::0308",
+   "lords-of-men::0321"
+  ]
+ },
+ {
+  "name": "Master of Kennels",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Skilled commoner professional who trains and manages a noble's hounds and organizes the huntsmen.",
+  "evidence": [
+   "lords-of-men::0243",
+   "lords-of-men::0304",
+   "lords-of-men::0305"
+  ]
+ },
+ {
+  "name": "Huntsman",
+  "type": "CharacterType",
+  "aliases": [
+   "huntsmen"
+  ],
+  "description": "Dog handler who seeks out prey with lymers during the quest and positions hounds in the relay; grogs perform the role well.",
+  "evidence": [
+   "lords-of-men::0255",
+   "lords-of-men::0258"
+  ]
+ },
+ {
+  "name": "Falconer",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Professional who trains hawks and falcons for a noble.",
+  "evidence": [
+   "lords-of-men::0286",
+   "lords-of-men::0305"
+  ]
+ },
+ {
+  "name": "Austringer",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A specialist falconer who trains non-falcons such as hawks.",
+  "evidence": [
+   "lords-of-men::0306"
+  ]
+ },
+ {
+  "name": "Marshal",
+  "type": "CharacterType",
+  "aliases": [
+   "Marshal of England"
+  ],
+  "description": "Specialist who coordinates the care of horses in superior stables; the Marshal of England commands the king's cavalry.",
+  "evidence": [
+   "lords-of-men::0306",
+   "lords-of-men::0307"
+  ]
+ },
+ {
+  "name": "Herald",
+  "type": "CharacterType",
+  "aliases": [
+   "heralds"
+  ],
+  "description": "Tournament official who publicizes events, knows knights' devices, provides commentary and adjudicates.",
+  "evidence": [
+   "lords-of-men::0325",
+   "lords-of-men::0337",
+   "lords-of-men::0340"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mounted noble warrior for whom the tournament is practice for war and a source of ransom.",
+  "evidence": [
+   "lords-of-men::0325",
+   "lords-of-men::0353"
+  ]
+ },
+ {
+  "name": "Errant Knight",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Knight who makes his living from the tournament circuit rather than a fief.",
+  "evidence": [
+   "lords-of-men::0353"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant servant; grogs make admirable huntsmen.",
+  "evidence": [
+   "lords-of-men::0258",
+   "lords-of-men::0351"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic magician; magi may be troubled by hunts or secretly sponsor tournament teams.",
+  "evidence": [
+   "lords-of-men::0268",
+   "lords-of-men::0336"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigator to whom a Verditius complains about illegal sales of enchanted devices.",
+  "evidence": [
+   "lords-of-men::0341",
+   "lords-of-men::0342"
+  ]
+ },
+ {
+  "name": "Horse Courser",
+  "type": "CharacterType",
+  "aliases": [
+   "horse dealer"
+  ],
+  "description": "English term for a horse dealer, a profession with a bad reputation.",
+  "evidence": [
+   "lords-of-men::0273"
+  ]
+ },
+ {
+  "name": "Poacher",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Illegal hunter on reserved land, sometimes of noble or clerical rank, fiercely punished.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0241",
+   "lords-of-men::0255"
+  ]
+ },
+ {
+  "name": "Farrier",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Maker of horseshoes, overseen by a marshal.",
+  "evidence": [
+   "lords-of-men::0307"
+  ]
+ },
+ {
+  "name": "Master of Kennels (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Status Virtue for a character managing a noble's kennels; grants 50 extra experience points in related Abilities.",
+  "evidence": [
+   "lords-of-men::0304",
+   "lords-of-men::0305"
+  ]
+ },
+ {
+  "name": "Falconer (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Status Virtue for a character training hawks and falcons for a noble patron; grants 50 extra experience points.",
+  "evidence": [
+   "lords-of-men::0305",
+   "lords-of-men::0306"
+  ]
+ },
+ {
+  "name": "Marshal (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Status Virtue for the specialist in charge of a noble's stables; grants 50 extra experience points.",
+  "evidence": [
+   "lords-of-men::0306",
+   "lords-of-men::0307"
+  ]
+ },
+ {
+  "name": "Ferocity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by alaunts, mastiffs, warhorses and gyrfalcons in specific circumstances.",
+  "evidence": [
+   "lords-of-men::0247",
+   "lords-of-men::0249",
+   "lords-of-men::0275"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by horse templates such as the destrier and courser.",
+  "evidence": [
+   "lords-of-men::0275",
+   "lords-of-men::0276",
+   "lords-of-men::0278"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue found on the horse templates.",
+  "evidence": [
+   "lords-of-men::0275",
+   "lords-of-men::0279"
+  ]
+ },
+ {
+  "name": "Perfect Balance",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue representing working ponies' sure-footedness on treacherous mountain paths.",
+  "evidence": [
+   "lords-of-men::0280",
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Keen Vision",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by the gyrfalcon.",
+  "evidence": [
+   "lords-of-men::0294"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue many falconers possess.",
+  "evidence": [
+   "lords-of-men::0306"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue for a knight holding at least a single manor.",
+  "evidence": [
+   "lords-of-men::0357"
+  ]
+ },
+ {
+  "name": "Great Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue for a character whose land is so large it requires infeudation.",
+  "evidence": [
+   "lords-of-men::0357"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue making a character rich relative to his social class; wealthy knights need tourney only one season a year.",
+  "evidence": [
+   "lords-of-men::0353",
+   "lords-of-men::0356",
+   "lords-of-men::0357"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "A character with this Virtue may not be caught up in romance except with its object.",
+  "evidence": [
+   "lords-of-men::0314"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw (minor) found on warhorses and gained by rounceys.",
+  "evidence": [
+   "lords-of-men::0275",
+   "lords-of-men::0278"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw on draught horses and working ponies.",
+  "evidence": [
+   "lords-of-men::0279",
+   "lords-of-men::0280"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by the gyrfalcon.",
+  "evidence": [
+   "lords-of-men::0294"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw making a character poor for his class; poor knights must tourney three seasons a year.",
+  "evidence": [
+   "lords-of-men::0353",
+   "lords-of-men::0356",
+   "lords-of-men::0357"
+  ]
+ },
+ {
+  "name": "Lost Love",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "A character with this Flaw may not become involved in other romances.",
+  "evidence": [
+   "lords-of-men::0314"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to track, assess and pursue prey and to follow hunting customs.",
+  "evidence": [
+   "lords-of-men::0255",
+   "lords-of-men::0257",
+   "lords-of-men::0263"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to tame, command and train animals, including hawks and hounds.",
+  "evidence": [
+   "lords-of-men::0250",
+   "lords-of-men::0255",
+   "lords-of-men::0286"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing knowledge of the accepted format of noble hunting.",
+  "evidence": [
+   "lords-of-men::0254",
+   "lords-of-men::0305"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability essential for understanding terrain when positioning the relay and reducing the Terrain Bonus.",
+  "evidence": [
+   "lords-of-men::0258",
+   "lords-of-men::0265",
+   "lords-of-men::0266"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability tested heavily during the chase.",
+  "evidence": [
+   "lords-of-men::0260",
+   "lords-of-men::0278"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by hounds and prey during the chase.",
+  "evidence": [
+   "lords-of-men::0246",
+   "lords-of-men::0260"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability possessed by hounds, horses and birds in their templates.",
+  "evidence": [
+   "lords-of-men::0246",
+   "lords-of-men::0294"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by animals for bites and hooves.",
+  "evidence": [
+   "lords-of-men::0246",
+   "lords-of-men::0275"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of lymers and peregrine falcons.",
+  "evidence": [
+   "lords-of-men::0246",
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of the gyrfalcon in cold climates.",
+  "evidence": [
+   "lords-of-men::0294"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of pack leaders and lanners enabling group attacks.",
+  "evidence": [
+   "lords-of-men::0248",
+   "lords-of-men::0296"
+  ]
+ },
+ {
+  "name": "Profession: Master of Kennels",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing the care, breeding and treatment of hounds; required for kennel Living Conditions bonuses.",
+  "evidence": [
+   "lords-of-men::0250",
+   "lords-of-men::0304",
+   "lords-of-men::0305"
+  ]
+ },
+ {
+  "name": "Profession: Marshal",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability for understanding, purchasing and caring for horses; functions as Medicine for animals.",
+  "evidence": [
+   "lords-of-men::0285",
+   "lords-of-men::0306"
+  ]
+ },
+ {
+  "name": "Profession: Falconer",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing care, breeding and acquisition of hawks and falcons.",
+  "evidence": [
+   "lords-of-men::0291",
+   "lords-of-men::0306"
+  ]
+ },
+ {
+  "name": "Profession: Herald",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to recognize knights by device, recall their deeds, adjudicate tournament law and locate tournaments.",
+  "evidence": [
+   "lords-of-men::0340",
+   "lords-of-men::0341"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to arrange romantic meetings and understand the politics of patronage.",
+  "evidence": [
+   "lords-of-men::0310",
+   "lords-of-men::0317",
+   "lords-of-men::0318"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that is the primary means of pursuing a lady in fin' amors.",
+  "evidence": [
+   "lords-of-men::0310"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability among those favored by master of kennels, falconer and marshal Virtues.",
+  "evidence": [
+   "lords-of-men::0305",
+   "lords-of-men::0306"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that Profession Marshal substitutes for in treating animal diseases.",
+  "evidence": [
+   "lords-of-men::0306"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Combat Ability used to compute a knight's tournament Labor Points.",
+  "evidence": [
+   "lords-of-men::0353"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Combat Ability used to compute a knight's tournament Labor Points.",
+  "evidence": [
+   "lords-of-men::0353"
+  ]
+ },
+ {
+  "name": "Martial Abilities",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Category of Abilities that masters of kennels and marshals may take freely.",
+  "evidence": [
+   "lords-of-men::0305",
+   "lords-of-men::0307"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm to which some destriers and faerie/magical horses are aligned.",
+  "evidence": [
+   "lords-of-men::0272",
+   "lords-of-men::0276"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Realm of faeries, who may offer knights arms or horses with unusual powers.",
+  "evidence": [
+   "lords-of-men::0272",
+   "lords-of-men::0276",
+   "lords-of-men::0341"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm invoked at tournaments through patron saints; Divine horses exist.",
+  "evidence": [
+   "lords-of-men::0272",
+   "lords-of-men::0276",
+   "lords-of-men::0341"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of diabolic forces offering bargains at tournaments; Infernal horses exist.",
+  "evidence": [
+   "lords-of-men::0272",
+   "lords-of-men::0276",
+   "lords-of-men::0332"
+  ]
+ },
+ {
+  "name": "Lymer",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Heavy-jowled scent hound related to the bloodhound, trained to track silently.",
+  "evidence": [
+   "lords-of-men::0243",
+   "lords-of-men::0244",
+   "lords-of-men::0246"
+  ]
+ },
+ {
+  "name": "Running Dog",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Pack hound that pursues prey in pairs by scent, resembling the foxhound.",
+  "evidence": [
+   "lords-of-men::0244",
+   "lords-of-men::0248"
+  ]
+ },
+ {
+  "name": "St. Hubert Hound",
+  "type": "Creature",
+  "aliases": [
+   "St. Hubert"
+  ],
+  "description": "The best breed of running dog, bred by the abbot of St. Hubert; slow but with unrivaled nose.",
+  "evidence": [
+   "lords-of-men::0244"
+  ]
+ },
+ {
+  "name": "Greyhound",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fast sight hound used to catch and bring down prey; the best come from Scotland.",
+  "evidence": [
+   "lords-of-men::0244",
+   "lords-of-men::0247"
+  ]
+ },
+ {
+  "name": "Wolfhound",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Shaggy-coated Irish hound performing the same role as the greyhound.",
+  "evidence": [
+   "lords-of-men::0244",
+   "lords-of-men::0245"
+  ]
+ },
+ {
+  "name": "Alaunt",
+  "type": "Creature",
+  "aliases": [
+   "Great Dane"
+  ],
+  "description": "Powerful fighting hound (Great Dane) brought forward for the final kill.",
+  "evidence": [
+   "lords-of-men::0244",
+   "lords-of-men::0245",
+   "lords-of-men::0247"
+  ]
+ },
+ {
+  "name": "Mastiff",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Shaggy, vicious guard and hunting dog used against boar or bear.",
+  "evidence": [
+   "lords-of-men::0245",
+   "lords-of-men::0249"
+  ]
+ },
+ {
+  "name": "Harrier",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Small dog used to chase hares in bow and stable hunting.",
+  "evidence": [
+   "lords-of-men::0243",
+   "lords-of-men::0245"
+  ]
+ },
+ {
+  "name": "Bird Dog",
+  "type": "Creature",
+  "aliases": [
+   "spaniel",
+   "espagnol"
+  ],
+  "description": "Dog trained for hawking; the best come from Iberia and are called espagnols or spaniels.",
+  "evidence": [
+   "lords-of-men::0243",
+   "lords-of-men::0245"
+  ]
+ },
+ {
+  "name": "Unicorn",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical beast almost impossible to catch; hunting one brings Reputation.",
+  "evidence": [
+   "lords-of-men::0269"
+  ]
+ },
+ {
+  "name": "Hart",
+  "type": "Creature",
+  "aliases": [
+   "stag"
+  ],
+  "description": "Stag, the object of most hunts, hunted in spring and summer.",
+  "evidence": [
+   "lords-of-men::0269",
+   "lords-of-men::0270"
+  ]
+ },
+ {
+  "name": "Boar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Malicious, dangerous prey hunted from midsummer through autumn with a boar spear.",
+  "evidence": [
+   "lords-of-men::0270"
+  ]
+ },
+ {
+  "name": "Bear",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dangerous prey with great stamina, hunted in all seasons except spring.",
+  "evidence": [
+   "lords-of-men::0270",
+   "lords-of-men::0271"
+  ]
+ },
+ {
+  "name": "Hare",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Safe prey, better pursued by sighthounds; also hawking prey.",
+  "evidence": [
+   "lords-of-men::0271",
+   "lords-of-men::0290"
+  ]
+ },
+ {
+  "name": "Wolf",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Feared predator whose hunting is a necessity rather than an honor.",
+  "evidence": [
+   "lords-of-men::0271"
+  ]
+ },
+ {
+  "name": "Fox",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Cunning prey that gives good sport but little prestige.",
+  "evidence": [
+   "lords-of-men::0271",
+   "lords-of-men::0272"
+  ]
+ },
+ {
+  "name": "Otter",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Riverine predator hunted with disdain in summer or autumn.",
+  "evidence": [
+   "lords-of-men::0272"
+  ]
+ },
+ {
+  "name": "Reindeer",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fabled Scandinavian prey said to give good sport.",
+  "evidence": [
+   "lords-of-men::0270"
+  ]
+ },
+ {
+  "name": "Fallow Deer",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Rare deer.",
+  "evidence": [
+   "lords-of-men::0270"
+  ]
+ },
+ {
+  "name": "Roe Deer",
+  "type": "Creature",
+  "aliases": [
+   "roe"
+  ],
+  "description": "Deer considered too small for serious attention.",
+  "evidence": [
+   "lords-of-men::0270"
+  ]
+ },
+ {
+  "name": "Destrier",
+  "type": "Creature",
+  "aliases": [
+   "Noble Warhorse"
+  ],
+  "description": "Noble warhorse of the highest status, often Spanish and often aligned with a realm.",
+  "evidence": [
+   "lords-of-men::0274",
+   "lords-of-men::0276",
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Courser",
+  "type": "Creature",
+  "aliases": [
+   "warhorse"
+  ],
+  "description": "The most common combat-trained warhorse.",
+  "evidence": [
+   "lords-of-men::0276",
+   "lords-of-men::0277"
+  ]
+ },
+ {
+  "name": "Rouncey",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Utility horse with courser combat training, favored by squires.",
+  "evidence": [
+   "lords-of-men::0276",
+   "lords-of-men::0277",
+   "lords-of-men::0278"
+  ]
+ },
+ {
+  "name": "Palfrey",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Standard riding horse for general use and travel.",
+  "evidence": [
+   "lords-of-men::0278",
+   "lords-of-men::0279"
+  ]
+ },
+ {
+  "name": "Jennet",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A palfrey ridden by a lady, always a mare.",
+  "evidence": [
+   "lords-of-men::0278",
+   "lords-of-men::0279"
+  ]
+ },
+ {
+  "name": "Hackney",
+  "type": "Creature",
+  "aliases": [
+   "Draught Horse"
+  ],
+  "description": "Draught horse used for farm work and pulling carts.",
+  "evidence": [
+   "lords-of-men::0279",
+   "lords-of-men::0280"
+  ]
+ },
+ {
+  "name": "Working Pony",
+  "type": "Creature",
+  "aliases": [
+   "Fell pony",
+   "Icelandic pony"
+  ],
+  "description": "Sturdy pony (Fell or Icelandic) suited for rough terrain and as a pack animal.",
+  "evidence": [
+   "lords-of-men::0280",
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Barb",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Horse from North Africa, Muslim Iberia or the Levant that makes a fine courser or destrier.",
+  "evidence": [
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Horse of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Exceptional horse; many destriers are Horses of Virtue.",
+  "evidence": [
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "Beast of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Beasts of Virtue"
+  ],
+  "description": "Exemplar of its kind possessing mythic powers; the best quarry after magical animals.",
+  "evidence": [
+   "lords-of-men::0268",
+   "lords-of-men::0269"
+  ]
+ },
+ {
+  "name": "Hawk of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A finely trained Hawk of Virtue is a gift worthy of one's liege.",
+  "evidence": [
+   "lords-of-men::0321"
+  ]
+ },
+ {
+  "name": "Falcon of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Rare falcon with burning feathers sought as a tournament prize in a story seed.",
+  "evidence": [
+   "lords-of-men::0334"
+  ]
+ },
+ {
+  "name": "Gyrfalcon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Largest and most prized falcon, from cold northern lands; the base template for hawks and falcons.",
+  "evidence": [
+   "lords-of-men::0293",
+   "lords-of-men::0294",
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Peregrine Falcon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Smaller ambush-predator falcon that attacks with a swooping dive.",
+  "evidence": [
+   "lords-of-men::0295",
+   "lords-of-men::0296"
+  ]
+ },
+ {
+  "name": "Goshawk",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Hawk flown from the fist, aggressive toward small prey.",
+  "evidence": [
+   "lords-of-men::0296"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Small but very fast falcon for small prey.",
+  "evidence": [
+   "lords-of-men::0296"
+  ]
+ },
+ {
+  "name": "Lanner",
+  "type": "Creature",
+  "aliases": [],
+  "description": "North African falcon easy to train and taught to hunt in pairs.",
+  "evidence": [
+   "lords-of-men::0296",
+   "lords-of-men::0297"
+  ]
+ },
+ {
+  "name": "Sparrowhawk",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Most common hawk in Mythic Europe, notoriously fragile.",
+  "evidence": [
+   "lords-of-men::0290",
+   "lords-of-men::0297"
+  ]
+ },
+ {
+  "name": "Partridge",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Game bird hunted by falcons.",
+  "evidence": [
+   "lords-of-men::0290",
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Duck",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Large bird brought down by paired hawks.",
+  "evidence": [
+   "lords-of-men::0288",
+   "lords-of-men::0291"
+  ]
+ },
+ {
+  "name": "Goose",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Prey animal; the largest prey a wild gyrfalcon can kill.",
+  "evidence": [
+   "lords-of-men::0291",
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Pheasant",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Typical hawking prey animal.",
+  "evidence": [
+   "lords-of-men::0291"
+  ]
+ },
+ {
+  "name": "Heron",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Typical hawking prey animal.",
+  "evidence": [
+   "lords-of-men::0291"
+  ]
+ },
+ {
+  "name": "Crane",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Large bird hunted by paired hawks.",
+  "evidence": [
+   "lords-of-men::0288",
+   "lords-of-men::0291"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical beast one would not hunt with hounds.",
+  "evidence": [
+   "lords-of-men::0269"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A corrupting demon sponsors a silent tournament of undead knights in a story seed.",
+  "evidence": [
+   "lords-of-men::0332"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [
+   "fairy"
+  ],
+  "description": "Faeries seek out knights at tournaments to offer enchanted arms or horses, and transform hunters into beasts.",
+  "evidence": [
+   "lords-of-men::0268",
+   "lords-of-men::0341",
+   "lords-of-men::0353"
+  ]
+ },
+ {
+  "name": "De Amore",
+  "type": "Item",
+  "aliases": [
+   "Incipit liber amoris et curtesie"
+  ],
+  "description": "Book by Andreas Capellanus (1174) setting the rules of fin' amors; full title Incipit liber amoris et curtesie.",
+  "evidence": [
+   "lords-of-men::0308"
+  ]
+ },
+ {
+  "name": "Boar Spear",
+  "type": "Item",
+  "aliases": [],
+  "description": "Special spear with a bar across the haft for boar hunting.",
+  "evidence": [
+   "lords-of-men::0270"
+  ]
+ },
+ {
+  "name": "Jesses",
+  "type": "Item",
+  "aliases": [],
+  "description": "Leather or silk cords securing a hawk to its perch.",
+  "evidence": [
+   "lords-of-men::0287"
+  ]
+ },
+ {
+  "name": "Terret",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ring on a jess slipped over a perch or finger.",
+  "evidence": [
+   "lords-of-men::0287"
+  ]
+ },
+ {
+  "name": "Creep",
+  "type": "Item",
+  "aliases": [],
+  "description": "Great leather glove worn by a hawker.",
+  "evidence": [
+   "lords-of-men::0287"
+  ]
+ },
+ {
+  "name": "Hawk Hood",
+  "type": "Item",
+  "aliases": [
+   "hood"
+  ],
+  "description": "Embroidered or bejeweled hood keeping a hawk calm, a fashion from the court of Sicily.",
+  "evidence": [
+   "lords-of-men::0287"
+  ]
+ },
+ {
+  "name": "Horse Collar",
+  "type": "Item",
+  "aliases": [],
+  "description": "New device allowing a horse to outperform an ox in draught work.",
+  "evidence": [
+   "lords-of-men::0274",
+   "lords-of-men::0280"
+  ]
+ },
+ {
+  "name": "Tournament Enchantments",
+  "type": "Item",
+  "aliases": [],
+  "description": "Minor enchantments sold by Verditius agents, such as reins that cannot be cut and saddles that grasp their rider.",
+  "evidence": [
+   "lords-of-men::0341"
+  ]
+ },
+ {
+  "name": "Hunting",
+  "type": "Concept",
+  "aliases": [
+   "The Hunt"
+  ],
+  "description": "Prestigious noble sport governed by etiquette; nobles accept supernatural aid but not spells that ruin the sport.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0241",
+   "lords-of-men::0242"
+  ]
+ },
+ {
+  "name": "Forest",
+  "type": "Concept",
+  "aliases": [
+   "royal forest"
+  ],
+  "description": "Legal hunting reserve held by the king, not necessarily wooded.",
+  "evidence": [
+   "lords-of-men::0240",
+   "lords-of-men::0241"
+  ]
+ },
+ {
+  "name": "Warren",
+  "type": "Concept",
+  "aliases": [
+   "chase"
+  ],
+  "description": "Reserved hunting area granted to a noble or clergyman.",
+  "evidence": [
+   "lords-of-men::0240"
+  ]
+ },
+ {
+  "name": "Hunting with Hounds",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The most prestigious form of hunting: quest, assembly, relay, finding, chase, kill, and unmaking.",
+  "evidence": [
+   "lords-of-men::0254",
+   "lords-of-men::0263"
+  ]
+ },
+ {
+  "name": "Bow and Stable Hunting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Driven hunt in which mounted hunters flush game toward a line of archers.",
+  "evidence": [
+   "lords-of-men::0264",
+   "lords-of-men::0265"
+  ]
+ },
+ {
+  "name": "The Quest",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pre-dawn search for suitable prey by huntsmen with lymers.",
+  "evidence": [
+   "lords-of-men::0255"
+  ]
+ },
+ {
+  "name": "The Assembly",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hunt breakfast where huntsmen present droppings and the prey is chosen.",
+  "evidence": [
+   "lords-of-men::0257"
+  ]
+ },
+ {
+  "name": "The Relay",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Positioning of fresh hounds along the prey's predicted route; can reduce the Terrain Bonus.",
+  "evidence": [
+   "lords-of-men::0258",
+   "lords-of-men::0265",
+   "lords-of-men::0266"
+  ]
+ },
+ {
+  "name": "The Chase",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pursuit phase resolved by Pursuit Totals against Evasion Totals over rounds.",
+  "evidence": [
+   "lords-of-men::0260",
+   "lords-of-men::0261"
+  ]
+ },
+ {
+  "name": "Unmaking",
+  "type": "Concept",
+  "aliases": [
+   "Curee"
+  ],
+  "description": "Butchering of the slain prey, followed by the curee, the rewarding of the dogs.",
+  "evidence": [
+   "lords-of-men::0263"
+  ]
+ },
+ {
+  "name": "Pursuit Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hound Perception + Hunt + stress die minus fatigue, opposed to the prey's Evasion Total.",
+  "evidence": [
+   "lords-of-men::0261"
+  ]
+ },
+ {
+  "name": "Evasion Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Prey's Dexterity + Athletics + Terrain Bonus + stress die minus fatigue.",
+  "evidence": [
+   "lords-of-men::0261"
+  ]
+ },
+ {
+  "name": "Terrain Bonus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "+6 bonus to a native prey's Evasion Total, reduced by the relay and hunters.",
+  "evidence": [
+   "lords-of-men::0261",
+   "lords-of-men::0265",
+   "lords-of-men::0266"
+  ]
+ },
+ {
+  "name": "Taming Creatures",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Seasonal activity accumulating Intelligence + Animal Handling points to tame an animal.",
+  "evidence": [
+   "lords-of-men::0250",
+   "lords-of-men::0251"
+  ]
+ },
+ {
+  "name": "Loyalty Test",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Test of an animal's loyalty, subject to Gift penalties.",
+  "evidence": [
+   "lords-of-men::0251",
+   "lords-of-men::0252",
+   "lords-of-men::0288"
+  ]
+ },
+ {
+  "name": "Aging Roll",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roll animals make seasonally once they reach a certain age.",
+  "evidence": [
+   "lords-of-men::0250",
+   "lords-of-men::0284",
+   "lords-of-men::0290"
+  ]
+ },
+ {
+  "name": "Living Conditions Modifier",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Modifier to aging granted by good kennels, stables or mews.",
+  "evidence": [
+   "lords-of-men::0250",
+   "lords-of-men::0285",
+   "lords-of-men::0304"
+  ]
+ },
+ {
+  "name": "Confidence Score",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Score of animals like alaunts and warhorses, used in taming totals.",
+  "evidence": [
+   "lords-of-men::0247",
+   "lords-of-men::0250",
+   "lords-of-men::0275"
+  ]
+ },
+ {
+  "name": "Personality Traits",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Traits such as Loyal, gained by tamed animals and patronage recipients.",
+  "evidence": [
+   "lords-of-men::0251",
+   "lords-of-men::0318"
+  ]
+ },
+ {
+  "name": "Qualities",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Creature Qualities such as Domesticated, Pursuit Predator and Fast Runner.",
+  "evidence": [
+   "lords-of-men::0246",
+   "lords-of-men::0272",
+   "lords-of-men::0294"
+  ]
+ },
+ {
+  "name": "Pursuit Predator",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Creature Quality of hounds and gyrfalcons.",
+  "evidence": [
+   "lords-of-men::0246",
+   "lords-of-men::0247",
+   "lords-of-men::0294"
+  ]
+ },
+ {
+  "name": "Ambush Predator",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Creature Quality of the peregrine falcon.",
+  "evidence": [
+   "lords-of-men::0295"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural power rating that realm-aligned horses may possess.",
+  "evidence": [
+   "lords-of-men::0272",
+   "lords-of-men::0276",
+   "lords-of-men::0281"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical talent whose social penalties apply to commanding animals and hawking.",
+  "evidence": [
+   "lords-of-men::0251",
+   "lords-of-men::0288"
+  ]
+ },
+ {
+  "name": "Hawking",
+  "type": "Concept",
+  "aliases": [
+   "Falconry"
+  ],
+  "description": "Falconry, a prestigious noble pursuit of hunting with trained birds of prey.",
+  "evidence": [
+   "lords-of-men::0286",
+   "lords-of-men::0287",
+   "lords-of-men::0288"
+  ]
+ },
+ {
+  "name": "Establishment",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Kennels, stables or mews with a quality, capacity, maintenance and Living Conditions modifier.",
+  "evidence": [
+   "lords-of-men::0292",
+   "lords-of-men::0293",
+   "lords-of-men::0302"
+  ]
+ },
+ {
+  "name": "Kennels",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Establishment for hounds whose size indicates noble prestige.",
+  "evidence": [
+   "lords-of-men::0299",
+   "lords-of-men::0302"
+  ]
+ },
+ {
+  "name": "Mews",
+  "type": "Concept",
+  "aliases": [],
+  "description": "House for falcons and hawks.",
+  "evidence": [
+   "lords-of-men::0290",
+   "lords-of-men::0301",
+   "lords-of-men::0302"
+  ]
+ },
+ {
+  "name": "Stables",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Establishment for horses.",
+  "evidence": [
+   "lords-of-men::0284",
+   "lords-of-men::0302",
+   "lords-of-men::0303"
+  ]
+ },
+ {
+  "name": "Fin' Amors",
+  "type": "Concept",
+  "aliases": [
+   "courtly love"
+  ],
+  "description": "Courtly love: elaborate rules of romance between noble suitors and married ladies, condemned by the Church.",
+  "evidence": [
+   "lords-of-men::0308",
+   "lords-of-men::0309",
+   "lords-of-men::0311"
+  ]
+ },
+ {
+  "name": "Twelve Laws of Love",
+  "type": "Concept",
+  "aliases": [
+   "12 Laws of Love"
+  ],
+  "description": "Rules of love listed by Andreas Capellanus.",
+  "evidence": [
+   "lords-of-men::0313"
+  ]
+ },
+ {
+  "name": "Patronage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Distribution of land, money, favors and titles, affecting Reputation and Gratitude.",
+  "evidence": [
+   "lords-of-men::0316",
+   "lords-of-men::0317",
+   "lords-of-men::0319"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of standing with a group such as Local, Clergy, Order of Hermes, Nobles, or Academics.",
+  "evidence": [
+   "lords-of-men::0242",
+   "lords-of-men::0318",
+   "lords-of-men::0319"
+  ]
+ },
+ {
+  "name": "Prudhomme Reputation",
+  "type": "Concept",
+  "aliases": [
+   "Prudhomme",
+   "Noble Reputation"
+  ],
+  "description": "Noble Reputation as an upstanding man, raised by tournaments and gifts.",
+  "evidence": [
+   "lords-of-men::0276",
+   "lords-of-men::0317",
+   "lords-of-men::0350"
+  ]
+ },
+ {
+  "name": "Gratitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points earned by exceptional gifts or patronage, useful in future stories.",
+  "evidence": [
+   "lords-of-men::0318",
+   "lords-of-men::0320",
+   "lords-of-men::0321"
+  ]
+ },
+ {
+  "name": "Tournament",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mock-war event of the 13th century offering experience, reputation, and ransom wealth.",
+  "evidence": [
+   "lords-of-men::0325",
+   "lords-of-men::0328",
+   "lords-of-men::0330"
+  ]
+ },
+ {
+  "name": "Melee",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mock battle between two teams on the final day of a tournament.",
+  "evidence": [
+   "lords-of-men::0325",
+   "lords-of-men::0338",
+   "lords-of-men::0348"
+  ]
+ },
+ {
+  "name": "Commencailles",
+  "type": "Concept",
+  "aliases": [
+   "vespers"
+  ],
+  "description": "Individual trials of sword and lance at vespers before the melee.",
+  "evidence": [
+   "lords-of-men::0325",
+   "lords-of-men::0344"
+  ]
+ },
+ {
+  "name": "Regars",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Review parade of both sides before the melee.",
+  "evidence": [
+   "lords-of-men::0325"
+  ]
+ },
+ {
+  "name": "Estor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Signal to charge in the tournament melee.",
+  "evidence": [
+   "lords-of-men::0326",
+   "lords-of-men::0338"
+  ]
+ },
+ {
+  "name": "Fiance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Submission of a defeated knight, securing a ransom.",
+  "evidence": [
+   "lords-of-men::0326",
+   "lords-of-men::0339"
+  ]
+ },
+ {
+  "name": "Recets",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Safe havens in the melee field where no fighting is allowed.",
+  "evidence": [
+   "lords-of-men::0334",
+   "lords-of-men::0335",
+   "lords-of-men::0338"
+  ]
+ },
+ {
+  "name": "Lists",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hoardings marking starting points and site of jousting.",
+  "evidence": [
+   "lords-of-men::0334"
+  ]
+ },
+ {
+  "name": "Bohort",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Informal, impromptu tournament with blunted or wooden weapons.",
+  "evidence": [
+   "lords-of-men::0328"
+  ]
+ },
+ {
+  "name": "Tirocinia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tournaments for younger, less-experienced knights.",
+  "evidence": [
+   "lords-of-men::0328",
+   "lords-of-men::0329"
+  ]
+ },
+ {
+  "name": "Joust",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Contest of two knights charging with couched lances.",
+  "evidence": [
+   "lords-of-men::0329",
+   "lords-of-men::0345",
+   "lords-of-men::0346"
+  ]
+ },
+ {
+  "name": "Grand Charge",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The main melee charge, adjudicated by random encounters or mass combat.",
+  "evidence": [
+   "lords-of-men::0326",
+   "lords-of-men::0348",
+   "lords-of-men::0349"
+  ]
+ },
+ {
+  "name": "Melee Events Table",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Table of targets encountered in the melee, modified by Prudhomme Reputation.",
+  "evidence": [
+   "lords-of-men::0345",
+   "lords-of-men::0346",
+   "lords-of-men::0348"
+  ]
+ },
+ {
+  "name": "Ransom",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Payment (usually horse, armor or weapons) extracted from a surrendering knight.",
+  "evidence": [
+   "lords-of-men::0339"
+  ]
+ },
+ {
+  "name": "Company",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Group of knights riding under a single banner in tournaments, with its own Reputation.",
+  "evidence": [
+   "lords-of-men::0340",
+   "lords-of-men::0351"
+  ]
+ },
+ {
+  "name": "Non-Lethal Combat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional combat rules used for bohorts and tournament melee.",
+  "evidence": [
+   "lords-of-men::0328",
+   "lords-of-men::0343"
+  ]
+ },
+ {
+  "name": "Shock of the Charge",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional combat rule used to resolve jousting.",
+  "evidence": [
+   "lords-of-men::0345"
+  ]
+ },
+ {
+  "name": "Labor Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points describing business development, also applied to errant knights' tourney income.",
+  "evidence": [
+   "lords-of-men::0353",
+   "lords-of-men::0354"
+  ]
+ },
+ {
+  "name": "Mythic Pound",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Unit of account based on a pound of silver, divided into 20 shillings or 240 pence.",
+  "evidence": [
+   "lords-of-men::0332",
+   "lords-of-men::0356",
+   "lords-of-men::0358"
+  ]
+ },
+ {
+  "name": "Knight Service",
+  "type": "Concept",
+  "aliases": [
+   "scutage"
+  ],
+  "description": "Military obligation owed on a manor, sometimes paid as scutage.",
+  "evidence": [
+   "lords-of-men::0358",
+   "lords-of-men::0359"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Code, whose position on sponsoring knights or selling enchanted devices is questioned.",
+  "evidence": [
+   "lords-of-men::0336",
+   "lords-of-men::0342"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Community of Hermetic magi that may be affected by hunts or seek tough men at tournaments.",
+  "evidence": [
+   "lords-of-men::0268",
+   "lords-of-men::0293",
+   "lords-of-men::0347"
+  ]
+ },
+ {
+  "name": "Feudal System",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vassal-liege relationships of mutual obligation running through society.",
+  "evidence": [
+   "lords-of-men::0316"
+  ]
+ }
+]

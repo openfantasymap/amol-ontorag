@@ -1,0 +1,2016 @@
+[
+ {
+  "name": "The Luciferans",
+  "type": "Faction",
+  "aliases": [
+   "Luciferans",
+   "Luciferan"
+  ],
+  "description": "A misguided Infernal tradition that worships Lucifer as a kinder, benevolent God; strongest in 1220 within the Church in Germany, Austria and Bohemia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0609",
+   "realms-of-power-the-infernal::0610"
+  ]
+ },
+ {
+  "name": "Strigae",
+  "type": "Faction",
+  "aliases": [
+   "strigae",
+   "night witches"
+  ],
+  "description": "Misguided Infernal tradition of night witches who worship demons as pagan gods, gathering in covens of 13 led by a senior infernalist bound to a demon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0612",
+   "realms-of-power-the-infernal::0618",
+   "realms-of-power-the-infernal::0619"
+  ]
+ },
+ {
+  "name": "The Witch-Hammers",
+  "type": "Faction",
+  "aliases": [
+   "Witch-Hammers",
+   "witch-hammer"
+  ],
+  "description": "Unusual Infernal tradition of overzealous inquisitors who unknowingly practice maleficia while persecuting other supposed witches and heretics, guided by the malleus epistula.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621",
+   "realms-of-power-the-infernal::0622",
+   "realms-of-power-the-infernal::0625"
+  ]
+ },
+ {
+  "name": "Dark Gnostics",
+  "type": "Faction",
+  "aliases": [
+   "Dark Gnostic"
+  ],
+  "description": "Corrupt Infernal tradition of Gnostic heretics who preach that sinful acts have moral value, often using the serpent as their symbol.",
+  "evidence": [
+   "realms-of-power-the-infernal::0633",
+   "realms-of-power-the-infernal::0636",
+   "realms-of-power-the-infernal::0639"
+  ]
+ },
+ {
+  "name": "Gnostics",
+  "type": "Faction",
+  "aliases": [
+   "Gnosticism"
+  ],
+  "description": "Varied religious groups of the first millennium teaching that the world is Hell and the Old Testament God was the Devil; credited by the Church with spreading devil-worship.",
+  "evidence": [
+   "realms-of-power-the-infernal::0633",
+   "realms-of-power-the-infernal::0635"
+  ]
+ },
+ {
+  "name": "The Dread Host",
+  "type": "Faction",
+  "aliases": [
+   "Dread Host",
+   "the Host"
+  ],
+  "description": "Corrupt Infernal tradition whose members bind demons and the dead, seeking to become Infernal ghosts in Hell's hierarchy after death.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640",
+   "realms-of-power-the-infernal::0641",
+   "realms-of-power-the-infernal::0645"
+  ]
+ },
+ {
+  "name": "The Mulhidun",
+  "type": "Faction",
+  "aliases": [
+   "Mulhidun",
+   "Mulhid"
+  ],
+  "description": "Infernal tradition of devil-worshipers near Mosul and Seljuk lands who revere Enais, the Peacock Angel, and summon and command demons as servants.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647",
+   "realms-of-power-the-infernal::0648",
+   "realms-of-power-the-infernal::0650"
+  ]
+ },
+ {
+  "name": "Damhadh-Duidsan",
+  "type": "Faction",
+  "description": "Infernal Hermetic societas descended from the hedge wizard Damhadh-Duidas within House Ex Miscellanea, using Ogam runes for curses.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0654",
+   "realms-of-power-the-infernal::0656"
+  ]
+ },
+ {
+  "name": "Ordo Vagorum",
+  "type": "Faction",
+  "aliases": [
+   "Order of Vagrants",
+   "vagantes",
+   "vagabond order"
+  ],
+  "description": "The 'Order of Vagrants', a mock religious order of wandering clerks (vagantes) that is an Infernal societas, with chapters in Paris, Austria and northern Italy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0658",
+   "realms-of-power-the-infernal::0661",
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "Goliards",
+  "type": "Faction",
+  "aliases": [
+   "Goliard"
+  ],
+  "description": "Name for the hedonist vagantes, supposedly after Bishop Golias; also a Mercere societas of Redcaps with loose ties to the Ordo Vagorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0658",
+   "realms-of-power-the-infernal::0661",
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "Vagi Scholares",
+  "type": "Faction",
+  "description": "'Wandering scholars', a lesser chapter of the Ordo Vagorum centered in Austria and the eastern Alps.",
+  "evidence": [
+   "realms-of-power-the-infernal::0661"
+  ]
+ },
+ {
+  "name": "Eberhardini",
+  "type": "Faction",
+  "description": "A clan of vagantes from northern Italy forming one chapter of the Ordo Vagorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0661"
+  ]
+ },
+ {
+  "name": "Witches of Thessaly",
+  "type": "Faction",
+  "aliases": [
+   "Thessalians",
+   "Thessalian"
+  ],
+  "description": "Infernal Hermetic societas of Thessalian witches, some of whom joined House Ex Miscellanea, practicing chthonic magic and curses.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0664",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Daughters of Erictho",
+  "type": "Faction",
+  "aliases": [
+   "the Daughters"
+  ],
+  "description": "The 'wild' Thessalian witches who never joined the Order, dwelling in the Cambunian Mountains; mostly infernalists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0670",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Benandanti",
+  "type": "Faction",
+  "aliases": [
+   "nightwalkers"
+  ],
+  "description": "Nightwalkers of northeast Italy, born with a caul, who battle the stregoni in dreams with fennel swords using powers of the same Infernal realm.",
+  "evidence": [
+   "realms-of-power-the-infernal::0614",
+   "realms-of-power-the-infernal::0615",
+   "realms-of-power-the-infernal::0616"
+  ]
+ },
+ {
+  "name": "Stregoni",
+  "type": "Faction",
+  "aliases": [
+   "strega",
+   "strego"
+  ],
+  "description": "Evil witches of northeast Italy who transform into owls to spread misfortune, each group ruled by a male witch (strego).",
+  "evidence": [
+   "realms-of-power-the-infernal::0614",
+   "realms-of-power-the-infernal::0615",
+   "realms-of-power-the-infernal::0617"
+  ]
+ },
+ {
+  "name": "Ophites",
+  "type": "Faction",
+  "description": "Gnostic sect that worships the serpent of paradise as the symbol of God and revels in original sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0637",
+   "realms-of-power-the-infernal::0638"
+  ]
+ },
+ {
+  "name": "Brethren of the Free Spirit",
+  "type": "Faction",
+  "description": "Gnostic sect with Infernal ties teaching that each member is God and so may indulge every desire.",
+  "evidence": [
+   "realms-of-power-the-infernal::0637",
+   "realms-of-power-the-infernal::0638"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "aliases": [
+   "Catharism",
+   "Catharist"
+  ],
+  "description": "Southern French heretics whom the Luciferans try to infiltrate; Catharism is a Gnostic-derived Divine religion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0610",
+   "realms-of-power-the-infernal::0626",
+   "realms-of-power-the-infernal::0635"
+  ]
+ },
+ {
+  "name": "Orléans Heretics",
+  "type": "Faction",
+  "aliases": [
+   "heretics of Orléans"
+  ],
+  "description": "Heretical priests uncovered in Orléans in 1022, accused by Aréfast of orgies and demon summoning; some escaped.",
+  "evidence": [
+   "realms-of-power-the-infernal::0625",
+   "realms-of-power-the-infernal::0626",
+   "realms-of-power-the-infernal::0627"
+  ]
+ },
+ {
+  "name": "Princes of Mecklenburg",
+  "type": "Faction",
+  "aliases": [
+   "Mecklenburgs",
+   "Mecklenburg family"
+  ],
+  "description": "Declining Sorbian noble family in northern Germany who worship the demon Radegast and are members of the Dread Host.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640",
+   "realms-of-power-the-infernal::0642",
+   "realms-of-power-the-infernal::0643"
+  ]
+ },
+ {
+  "name": "Yezidi",
+  "type": "Faction",
+  "aliases": [
+   "Yazidi",
+   "Dasin"
+  ],
+  "description": "Real-world Kurdish religion venerating Malak Ta'us, the Peacock Angel, oppressed as devil-worshipers; distinct from the Mulhidun.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647",
+   "realms-of-power-the-infernal::0648"
+  ]
+ },
+ {
+  "name": "Volkhvy",
+  "type": "Faction",
+  "description": "Primitive pagan shamans of the Novgorod Tribunal.",
+  "evidence": [
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Koldun",
+  "type": "Faction",
+  "description": "Volkhvy who have forsaken pagan ways for sorcery, similar to the witches of Thessaly.",
+  "evidence": [
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Cistercian Order",
+  "type": "Faction",
+  "description": "Monastic order whose vows Joachim of Flora took.",
+  "evidence": [
+   "realms-of-power-the-infernal::0633"
+  ]
+ },
+ {
+  "name": "Ordo Miscellany",
+  "type": "Faction",
+  "description": "Pralix's alliance of hedge wizards that fought Damhan-Allaidh and became House Ex Miscellanea.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0656"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi, not immune to Infernal corruption among its members.",
+  "evidence": [
+   "realms-of-power-the-infernal::0652",
+   "realms-of-power-the-infernal::0654",
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Seljuks",
+  "type": "Faction",
+  "description": "Rulers of lands east of the Byzantine Empire where the Mulhidun live.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647"
+  ]
+ },
+ {
+  "name": "Fourth Lateran Council",
+  "type": "Concept",
+  "description": "Church council that condemned Joachim of Flora's essays as heretical.",
+  "evidence": [
+   "realms-of-power-the-infernal::0635"
+  ]
+ },
+ {
+  "name": "Council of Ancyra",
+  "type": "Concept",
+  "description": "Council of 314 A.D. to which the Canon Episcopi is allegedly attributed.",
+  "evidence": [
+   "realms-of-power-the-infernal::0613"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "description": "Hermetic House of the Quaesitores; its first Primus Fenicil found a letter like the malleus epistula, and the Duresca scrolls suggest a secret agenda.",
+  "evidence": [
+   "realms-of-power-the-infernal::0622",
+   "realms-of-power-the-infernal::0623"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Hermetic House formed from the Ordo Miscellany that absorbed the Damhadh-Duidsan and some Thessalian witches.",
+  "evidence": [
+   "realms-of-power-the-infernal::0654",
+   "realms-of-power-the-infernal::0656",
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "House of the Redcaps; some Redcaps are infernalist Goliards whose exposure the House fears.",
+  "evidence": [
+   "realms-of-power-the-infernal::0659",
+   "realms-of-power-the-infernal::0660",
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "description": "Hermetic House with ties to universities; suitable for a magus vaganti.",
+  "evidence": [
+   "realms-of-power-the-infernal::0660",
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "Outcast Hermetic House whose treatment is feared; speculated to have had chthonically tainted magic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0660",
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House referenced through the treatment of Tytalus diabolists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0660"
+  ]
+ },
+ {
+  "name": "Tribunal of Thebes",
+  "type": "Tribunal",
+  "description": "Hermetic Tribunal encompassing Thessaly.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "description": "Pagan-land Tribunal home to the Volkhvy and Koldun.",
+  "evidence": [
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Fudarus",
+  "type": "Covenant",
+  "description": "Place where the Redcap Golias allegedly lived with infernalists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0659",
+   "realms-of-power-the-infernal::0660"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores",
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators; some call overzealous inquisitors 'witch-hammers' and watch suspected infernalists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0622",
+   "realms-of-power-the-infernal::0652",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [
+   "Hoplites"
+  ],
+  "description": "Hermetic enforcers who regard the Daughters of Erictho as enemies of the Order.",
+  "evidence": [
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcaps"
+  ],
+  "description": "Messengers of House Mercere, some of whom have joined the Goliards.",
+  "evidence": [
+   "realms-of-power-the-infernal::0659",
+   "realms-of-power-the-infernal::0660",
+   "realms-of-power-the-infernal::0661"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "aliases": [
+   "infernalists"
+  ],
+  "description": "A person who practices Infernal powers or worship, knowingly or not.",
+  "evidence": [
+   "realms-of-power-the-infernal::0600",
+   "realms-of-power-the-infernal::0601",
+   "realms-of-power-the-infernal::0650"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "CharacterType",
+  "description": "Mythic Companion template used for non-Gifted members of Infernal traditions.",
+  "evidence": [
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Spirit Master",
+  "type": "CharacterType",
+  "aliases": [
+   "Spirit Masters"
+  ],
+  "description": "Character design template recommended for the Daughters of Erictho.",
+  "evidence": [
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "Powerful companion character type used for Diabolists and Daughters of Erictho.",
+  "evidence": [
+   "realms-of-power-the-infernal::0657",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge wizards"
+  ],
+  "description": "Non-Hermetic wizard such as Damhadh-Duidas.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0656"
+  ]
+ },
+ {
+  "name": "Vagantes",
+  "type": "CharacterType",
+  "aliases": [
+   "vaganti",
+   "vagabonds"
+  ],
+  "description": "Wandering tonsured clerks who become strolling players; members of the Ordo Vagorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0658",
+   "realms-of-power-the-infernal::0661"
+  ]
+ },
+ {
+  "name": "Lucifer",
+  "type": "Character",
+  "aliases": [
+   "the light-bringer"
+  ],
+  "description": "The light-bringer who led the rebellion against Heaven; worshiped by the Luciferans as a benevolent God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0603",
+   "realms-of-power-the-infernal::0609"
+  ]
+ },
+ {
+  "name": "The Devil",
+  "type": "Character",
+  "aliases": [
+   "Satan"
+  ],
+  "description": "Satan, adversary whose wiles corrupt mankind; popularly imagined as a shaggy masculine demon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0604",
+   "realms-of-power-the-infernal::0612",
+   "realms-of-power-the-infernal::0617"
+  ]
+ },
+ {
+  "name": "St. Paul",
+  "type": "Character",
+  "aliases": [
+   "Saul"
+  ],
+  "description": "Apostle regarded by Luciferans as the first Luciferan and their patron saint, his vision on the road to Damascus being sent by Lucifer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0609"
+  ]
+ },
+ {
+  "name": "St. John",
+  "type": "Character",
+  "description": "Author of Revelation who, Luciferans claim, mistook Lucifer for Christ.",
+  "evidence": [
+   "realms-of-power-the-infernal::0605"
+  ]
+ },
+ {
+  "name": "Jesus Christ",
+  "type": "Character",
+  "aliases": [
+   "Christ"
+  ],
+  "description": "Christian savior, voice in Paul's vision.",
+  "evidence": [
+   "realms-of-power-the-infernal::0603",
+   "realms-of-power-the-infernal::0633"
+  ]
+ },
+ {
+  "name": "Pan",
+  "type": "Character",
+  "description": "Wild god of satyrs and faerie revelry whose supposed death left a void demons exploited.",
+  "evidence": [
+   "realms-of-power-the-infernal::0614"
+  ]
+ },
+ {
+  "name": "Diana",
+  "type": "Character",
+  "description": "Roman goddess of the hunt; name given to a she-demon worshiped by strigae.",
+  "evidence": [
+   "realms-of-power-the-infernal::0612",
+   "realms-of-power-the-infernal::0617"
+  ]
+ },
+ {
+  "name": "Herodias",
+  "type": "Character",
+  "description": "Evil biblical woman; name given by the educated to the she-demon of the strigae.",
+  "evidence": [
+   "realms-of-power-the-infernal::0617"
+  ]
+ },
+ {
+  "name": "Fenicil",
+  "type": "Character",
+  "description": "First Primus of House Guernicus who reportedly burned a diabolical letter resembling the malleus epistula.",
+  "evidence": [
+   "realms-of-power-the-infernal::0622",
+   "realms-of-power-the-infernal::0623"
+  ]
+ },
+ {
+  "name": "Conrad",
+  "type": "Character",
+  "description": "Inquisitor described in the 1233 letter who suggested names of accused to victims.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621"
+  ]
+ },
+ {
+  "name": "Pope Gregory IX",
+  "type": "Character",
+  "description": "Pope to whom the Archbishop of Mainz wrote in 1233 about the inquisitor Conrad.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621"
+  ]
+ },
+ {
+  "name": "Archbishop of Mainz",
+  "type": "Character",
+  "description": "Wrote to Pope Gregory IX in 1233 about abuses of inquisition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621"
+  ]
+ },
+ {
+  "name": "St. Jerome",
+  "type": "Character",
+  "description": "Churchman to whom some copies of the malleus epistula are attributed.",
+  "evidence": [
+   "realms-of-power-the-infernal::0624"
+  ]
+ },
+ {
+  "name": "Pope Leo",
+  "type": "Character",
+  "description": "Pope to whom some copies of the malleus epistula are attributed.",
+  "evidence": [
+   "realms-of-power-the-infernal::0624"
+  ]
+ },
+ {
+  "name": "Origen",
+  "type": "Character",
+  "description": "Theologian impossibly credited with one version of the malleus epistula.",
+  "evidence": [
+   "realms-of-power-the-infernal::0624"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "description": "Emperor claimed as signatory on 1220 copies of the malleus epistula.",
+  "evidence": [
+   "realms-of-power-the-infernal::0624"
+  ]
+ },
+ {
+  "name": "Pope Innocent III",
+  "type": "Character",
+  "description": "Pope claimed as signatory on 1220 copies of the malleus epistula.",
+  "evidence": [
+   "realms-of-power-the-infernal::0624"
+  ]
+ },
+ {
+  "name": "Aréfast",
+  "type": "Character",
+  "description": "Nobleman of northern France who exposed the Orléans heretics in 1022 using inquisitorial methods.",
+  "evidence": [
+   "realms-of-power-the-infernal::0625",
+   "realms-of-power-the-infernal::0626",
+   "realms-of-power-the-infernal::0627"
+  ]
+ },
+ {
+  "name": "Bishop of Orléans",
+  "type": "Character",
+  "description": "Feared not all Orléans heretics had been captured.",
+  "evidence": [
+   "realms-of-power-the-infernal::0627"
+  ]
+ },
+ {
+  "name": "Joachim of Flora",
+  "type": "Character",
+  "aliases": [
+   "Abbot Joachim"
+  ],
+  "description": "Half-mythical Calabrian abbot and prophet who predicted a new age in 1260; revered by Gnostic infernalists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0633",
+   "realms-of-power-the-infernal::0634",
+   "realms-of-power-the-infernal::0635"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "description": "Figure of romance to whom Joachim is compared.",
+  "evidence": [
+   "realms-of-power-the-infernal::0634"
+  ]
+ },
+ {
+  "name": "Judith",
+  "type": "Character",
+  "description": "Biblical widow whose story Joachim used to calculate 1260.",
+  "evidence": [
+   "realms-of-power-the-infernal::0635"
+  ]
+ },
+ {
+  "name": "Radegast",
+  "type": "Creature",
+  "description": "Demon (possibly former faerie lord or ancestor) worshiped by the Princes of Mecklenburg.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640",
+   "realms-of-power-the-infernal::0641",
+   "realms-of-power-the-infernal::0643"
+  ]
+ },
+ {
+  "name": "Adolv",
+  "type": "Character",
+  "aliases": [
+   "Count of Mecklenburg"
+  ],
+  "description": "Very old Count of Mecklenburg, his life sustained by spirits bound to his body.",
+  "evidence": [
+   "realms-of-power-the-infernal::0641"
+  ]
+ },
+ {
+  "name": "Mechthild",
+  "type": "Character",
+  "description": "Countess of Mecklenburg and most powerful member of the family, skilled at Summoning and Binding with Hierarchy Score 7.",
+  "evidence": [
+   "realms-of-power-the-infernal::0641",
+   "realms-of-power-the-infernal::0642",
+   "realms-of-power-the-infernal::0643"
+  ]
+ },
+ {
+  "name": "Kaspar",
+  "type": "Character",
+  "description": "Mechthild's eldest son from a previous marriage, physically dominant but dimwitted, holding real power in the castle.",
+  "evidence": [
+   "realms-of-power-the-infernal::0641",
+   "realms-of-power-the-infernal::0642",
+   "realms-of-power-the-infernal::0643"
+  ]
+ },
+ {
+  "name": "Miklos",
+  "type": "Character",
+  "description": "Illegitimate Gifted son of a Mecklenburg who refuses to worship Radegast.",
+  "evidence": [
+   "realms-of-power-the-infernal::0643",
+   "realms-of-power-the-infernal::0644"
+  ]
+ },
+ {
+  "name": "Enais",
+  "type": "Creature",
+  "aliases": [
+   "Peacock Angel"
+  ],
+  "description": "The Peacock Angel revered by the Mulhidun, who extinguished Hell's fires and released its demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0648",
+   "realms-of-power-the-infernal::0649",
+   "realms-of-power-the-infernal::0650"
+  ]
+ },
+ {
+  "name": "Malak Ta'us",
+  "type": "Character",
+  "description": "The Peacock Angel of the real Yezidi religion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647"
+  ]
+ },
+ {
+  "name": "Sheikh Adii ibn Mustafa",
+  "type": "Character",
+  "description": "Reformer of the Yezidi religion in 1162, considered a saint.",
+  "evidence": [
+   "realms-of-power-the-infernal::0648"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "description": "Leader of the crusade against Damhan-Allaidh whose death Damhadh-Duidas may have caused.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0654",
+   "realms-of-power-the-infernal::0655"
+  ]
+ },
+ {
+  "name": "Damhan-Allaidh",
+  "type": "Character",
+  "aliases": [
+   "the Spider"
+  ],
+  "description": "The Spider, hedge wizard crushed by Pralix in 814, perhaps not wholly vanquished.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0655",
+   "realms-of-power-the-infernal::0656"
+  ]
+ },
+ {
+  "name": "Damhadh-Duidas",
+  "type": "Character",
+  "description": "Gaelic hedge wizard ('malice-writer') who joined the Ordo Miscellany and founded the Infernal Damhadh-Duidsan lineage.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0654",
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Bishop Golias",
+  "type": "Character",
+  "aliases": [
+   "Golias"
+  ],
+  "description": "Tenth-century hedonist after whom Goliards are named; said to have been a Redcap living at Fudarus.",
+  "evidence": [
+   "realms-of-power-the-infernal::0658",
+   "realms-of-power-the-infernal::0659"
+  ]
+ },
+ {
+  "name": "Erictho",
+  "type": "Character",
+  "description": "Legendary Thessalian witch described in Lucan's Pharsalia, namesake of the Daughters of Erictho.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "description": "Hermetic figure who came from Thessaly.",
+  "evidence": [
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Veia",
+  "type": "Character",
+  "description": "Trianoma's sister who stole secrets from Bonisagus and fled.",
+  "evidence": [
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Hermetic founder from whom Veia stole secrets.",
+  "evidence": [
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Lucan",
+  "type": "Character",
+  "description": "Author of the Pharsalia describing Erictho.",
+  "evidence": [
+   "realms-of-power-the-infernal::0668"
+  ]
+ },
+ {
+  "name": "Selene",
+  "type": "Creature",
+  "description": "Succubus named for the Greek goddess, summoned by the Daughters in the rite of drawing down the moon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0669"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "demons",
+   "shaitan"
+  ],
+  "description": "Fallen beings of the Infernal realm that deceive and corrupt mankind.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601",
+   "realms-of-power-the-infernal::0612",
+   "realms-of-power-the-infernal::0649"
+  ]
+ },
+ {
+  "name": "Spirit of Deceit",
+  "type": "Creature",
+  "aliases": [
+   "Spirits of Deceit"
+  ],
+  "description": "Demon type that deludes mankind; one disguised as a snake corrupts a parish in a story hook.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601",
+   "realms-of-power-the-infernal::0636",
+   "realms-of-power-the-infernal::0637"
+  ]
+ },
+ {
+  "name": "Deluders",
+  "type": "Creature",
+  "description": "Demons that trick men into thinking them divine.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601"
+  ]
+ },
+ {
+  "name": "False Gods",
+  "type": "Creature",
+  "description": "Demons around which cults form, teaching worship is not sinful.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601"
+  ]
+ },
+ {
+  "name": "Lilin",
+  "type": "Creature",
+  "description": "Demons that accompany stregoni covens.",
+  "evidence": [
+   "realms-of-power-the-infernal::0615"
+  ]
+ },
+ {
+  "name": "Furies",
+  "type": "Creature",
+  "description": "Order of demons, a member of which may accompany a strego's coven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0615"
+  ]
+ },
+ {
+  "name": "White Horseman",
+  "type": "Creature",
+  "description": "Demon released by breaking the first seal, a conqueror with a bow.",
+  "evidence": [
+   "realms-of-power-the-infernal::0606",
+   "realms-of-power-the-infernal::0607"
+  ]
+ },
+ {
+  "name": "Red Horseman",
+  "type": "Creature",
+  "description": "Demon of the second seal who takes peace from the earth.",
+  "evidence": [
+   "realms-of-power-the-infernal::0607"
+  ]
+ },
+ {
+  "name": "Black Horseman",
+  "type": "Creature",
+  "description": "Demon of the third seal bearing balances.",
+  "evidence": [
+   "realms-of-power-the-infernal::0607"
+  ]
+ },
+ {
+  "name": "Pale Horseman",
+  "type": "Creature",
+  "aliases": [
+   "Death"
+  ],
+  "description": "Demon of the fourth seal named Death, followed by Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0607"
+  ]
+ },
+ {
+  "name": "Great Beast",
+  "type": "Creature",
+  "description": "Apocalyptic beast numbered 666, which Luciferans say refers to Rome.",
+  "evidence": [
+   "realms-of-power-the-infernal::0605"
+  ]
+ },
+ {
+  "name": "Serpent of Eden",
+  "type": "Creature",
+  "description": "Serpent of paradise honored by the Ophites as God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0637",
+   "realms-of-power-the-infernal::0638"
+  ]
+ },
+ {
+  "name": "Infernal Ghost",
+  "type": "Creature",
+  "description": "What Dread Host members hope to become after death, demons in Hell's hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640"
+  ]
+ },
+ {
+  "name": "Giants",
+  "type": "Creature",
+  "description": "Ancestors of Damhan-Allaidh and Damhadh-Duidas.",
+  "evidence": [
+   "realms-of-power-the-infernal::0656",
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Malleus Epistula",
+  "type": "Item",
+  "aliases": [
+   "hammer-letter",
+   "hammer of the witches"
+  ],
+  "description": "Chain letter from the 5th century instructing inquisitors to torture and burn witches; a summa (Quality 26) on the Witch-Hammer Favored Abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0622",
+   "realms-of-power-the-infernal::0624",
+   "realms-of-power-the-infernal::0629"
+  ]
+ },
+ {
+  "name": "Duresca Scrolls",
+  "type": "Item",
+  "description": "Documents unearthed in Iberia suggesting a House Guernicus agenda, describing the Peripheral Code as malleus magorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0622",
+   "realms-of-power-the-infernal::0623"
+  ]
+ },
+ {
+  "name": "Canon Episcopi",
+  "type": "Item",
+  "description": "Church document declaring night rides illusions of faithless minds.",
+  "evidence": [
+   "realms-of-power-the-infernal::0613",
+   "realms-of-power-the-infernal::0618"
+  ]
+ },
+ {
+  "name": "Book of Revelation",
+  "type": "Item",
+  "aliases": [
+   "Revelation"
+  ],
+  "description": "Biblical book the Luciferans interpret as Lucifer's triumph; sacred to Yezidis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0604",
+   "realms-of-power-the-infernal::0605",
+   "realms-of-power-the-infernal::0648"
+  ]
+ },
+ {
+  "name": "Black Book",
+  "type": "Item",
+  "description": "Sacred Yezidi text.",
+  "evidence": [
+   "realms-of-power-the-infernal::0648"
+  ]
+ },
+ {
+  "name": "Seven Seals",
+  "type": "Item",
+  "description": "Seals of the great book of the heavens that Luciferans break to loose demons of the Apocalypse.",
+  "evidence": [
+   "realms-of-power-the-infernal::0605",
+   "realms-of-power-the-infernal::0606"
+  ]
+ },
+ {
+  "name": "Kolossoi",
+  "type": "Item",
+  "description": "Dolls or figurines used by Thessalian witches for vengeful hexes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0669",
+   "realms-of-power-the-infernal::0670"
+  ]
+ },
+ {
+  "name": "Virus Lunare",
+  "type": "Item",
+  "aliases": [
+   "moon-juice"
+  ],
+  "description": "'Moon-juice' left by Selene, acting as an Arcane Connection to the seduced man.",
+  "evidence": [
+   "realms-of-power-the-infernal::0669",
+   "realms-of-power-the-infernal::0670"
+  ]
+ },
+ {
+  "name": "Infernal Relics",
+  "type": "Item",
+  "description": "Objects binding the dead, sold by the Dread Host as false relics.",
+  "evidence": [
+   "realms-of-power-the-infernal::0641"
+  ]
+ },
+ {
+  "name": "Pharsalia",
+  "type": "Item",
+  "description": "Lucan's work of 65 A.D. describing Erictho.",
+  "evidence": [
+   "realms-of-power-the-infernal::0668"
+  ]
+ },
+ {
+  "name": "Debauchery",
+  "type": "Ability",
+  "description": "Infernal Power favored by Luciferans and Strigae.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0608",
+   "realms-of-power-the-infernal::0612"
+  ]
+ },
+ {
+  "name": "Diablerie",
+  "type": "Ability",
+  "description": "Infernal Power favored by Luciferans and Dark Gnostics.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0605",
+   "realms-of-power-the-infernal::0633"
+  ]
+ },
+ {
+  "name": "Malediction",
+  "type": "Ability",
+  "description": "Infernal cursing Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0653"
+  ]
+ },
+ {
+  "name": "Sense Passions",
+  "type": "Ability",
+  "description": "Infernal Ability favored by Luciferans.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602"
+  ]
+ },
+ {
+  "name": "Effusion",
+  "type": "Ability",
+  "description": "Infernal Power favored by Strigae and the Dread Host.",
+  "evidence": [
+   "realms-of-power-the-infernal::0612",
+   "realms-of-power-the-infernal::0640"
+  ]
+ },
+ {
+  "name": "Phantasm",
+  "type": "Ability",
+  "description": "Infernal Power favored by Strigae and Dark Gnostics.",
+  "evidence": [
+   "realms-of-power-the-infernal::0612",
+   "realms-of-power-the-infernal::0633"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "description": "Infernal ability favored by Strigae.",
+  "evidence": [
+   "realms-of-power-the-infernal::0612"
+  ]
+ },
+ {
+  "name": "Ablating",
+  "type": "Ability",
+  "description": "Infernal Power favored by Witch-Hammers and Mulhidun.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621",
+   "realms-of-power-the-infernal::0647"
+  ]
+ },
+ {
+  "name": "Incantation",
+  "type": "Ability",
+  "description": "Infernal Method favored by several traditions.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621",
+   "realms-of-power-the-infernal::0633",
+   "realms-of-power-the-infernal::0653"
+  ]
+ },
+ {
+  "name": "Psychomachia",
+  "type": "Ability",
+  "description": "Infernal Power favored by Witch-Hammers and Ordo Vagorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621",
+   "realms-of-power-the-infernal::0658"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Ability",
+  "description": "Infernal Power for calling demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0621",
+   "realms-of-power-the-infernal::0640",
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "description": "Ability favored by Dark Gnostics.",
+  "evidence": [
+   "realms-of-power-the-infernal::0633"
+  ]
+ },
+ {
+  "name": "Binding",
+  "type": "Ability",
+  "description": "Infernal Power for binding spirits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640",
+   "realms-of-power-the-infernal::0642",
+   "realms-of-power-the-infernal::0647"
+  ]
+ },
+ {
+  "name": "Commanding",
+  "type": "Ability",
+  "description": "Infernal Power for commanding spirits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647",
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Consumption",
+  "type": "Ability",
+  "description": "Infernal Power favored by Damhadh-Duidsan and Ordo Vagorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0658"
+  ]
+ },
+ {
+  "name": "Shapechanging",
+  "type": "Ability",
+  "description": "Ability favored by Damhadh-Duidsan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Corruption",
+  "type": "Ability",
+  "description": "Infernal Power favored by Ordo Vagorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0658"
+  ]
+ },
+ {
+  "name": "Chthonic Magic",
+  "type": "Ability",
+  "description": "Supernatural Ability of the Witches of Thessaly.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Ability",
+  "description": "Ability favored by the Witches of Thessaly.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Language",
+  "type": "Ability",
+  "description": "Ability; score 2 needed to use Ogam.",
+  "evidence": [
+   "realms-of-power-the-infernal::0654"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Ability",
+  "description": "Divine Power that Debauchery may be disguised as for unknowing Luciferans.",
+  "evidence": [
+   "realms-of-power-the-infernal::0608"
+  ]
+ },
+ {
+  "name": "Adjuration",
+  "type": "Ability",
+  "description": "Divine Power that Diablerie may be disguised as.",
+  "evidence": [
+   "realms-of-power-the-infernal::0608"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Ability",
+  "description": "Divine Power that Malediction may be disguised as.",
+  "evidence": [
+   "realms-of-power-the-infernal::0608"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Virtue",
+  "description": "Virtue very common among the Damhadh-Duidsan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0656",
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Puissant Corpus",
+  "type": "Virtue",
+  "description": "Free Virtue for Damhadh-Duidsan magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Necessary Condition",
+  "type": "Flaw",
+  "description": "Flaw (runes) for Damhadh-Duidsan magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "description": "Required option for Goliards.",
+  "evidence": [
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "description": "Alternative requirement for Goliards.",
+  "evidence": [
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "description": "Goliards must have a sinful Compulsion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "Diabolic Past",
+  "type": "Flaw",
+  "description": "Explains an Infernal background for vagantes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "Student of the Infernal",
+  "type": "Virtue",
+  "description": "Explains an Infernal background for vagantes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0662"
+  ]
+ },
+ {
+  "name": "Affinity with Vim",
+  "type": "Virtue",
+  "description": "Free Virtue for Thessalian Ex Miscellanea magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Painful Magic",
+  "type": "Flaw",
+  "description": "Free Flaw for Thessalian Ex Miscellanea magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Magical aptitude; Miklos has it, and a Daughter's child has a False Gift.",
+  "evidence": [
+   "realms-of-power-the-infernal::0643",
+   "realms-of-power-the-infernal::0644",
+   "realms-of-power-the-infernal::0670"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form in which Thessalians have Affinity.",
+  "evidence": [
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Infernal Traditions",
+  "type": "Concept",
+  "description": "Optional groups of like-minded infernalists defined by Methods, Powers and Favored Abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0600",
+   "realms-of-power-the-infernal::0601"
+  ]
+ },
+ {
+  "name": "Misguided Traditions",
+  "type": "Concept",
+  "description": "Infernal traditions deluded into believing they do good.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601"
+  ]
+ },
+ {
+  "name": "Corrupt Traditions",
+  "type": "Concept",
+  "description": "Infernal traditions of knowingly evil people or placatory cults.",
+  "evidence": [
+   "realms-of-power-the-infernal::0631"
+  ]
+ },
+ {
+  "name": "Hermetic Traditions",
+  "type": "Concept",
+  "description": "Infernal societates within the Order of Hermes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0652"
+  ]
+ },
+ {
+  "name": "Methods and Powers",
+  "type": "Concept",
+  "description": "Infernal Methods associated with Powers; new Powers need a Method and Methods at least two Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0600"
+  ]
+ },
+ {
+  "name": "Infernal Supernatural Abilities",
+  "type": "Concept",
+  "description": "Also Supernatural Virtues takable at creation or initiated via corrupt Mystery Cults.",
+  "evidence": [
+   "realms-of-power-the-infernal::0600"
+  ]
+ },
+ {
+  "name": "Maleficia",
+  "type": "Concept",
+  "description": "Infernal sorcery used by infernalists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0605",
+   "realms-of-power-the-infernal::0619",
+   "realms-of-power-the-infernal::0639"
+  ]
+ },
+ {
+  "name": "Infernalism",
+  "type": "Concept",
+  "description": "Practice of using Infernal power, always producing evil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601",
+   "realms-of-power-the-infernal::0631"
+  ]
+ },
+ {
+  "name": "Favored Abilities",
+  "type": "Concept",
+  "description": "Abilities associated with each Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0657"
+  ]
+ },
+ {
+  "name": "Hermetic Mystery Cult",
+  "type": "Concept",
+  "aliases": [
+   "Mystery Cult"
+  ],
+  "description": "Cult whose corrupted rites may initiate Infernal abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0600"
+  ]
+ },
+ {
+  "name": "Hermetic Societas",
+  "type": "Concept",
+  "aliases": [
+   "societas",
+   "societates"
+  ],
+  "description": "A regular gathering of like-minded magi to practice and teach; plural societates.",
+  "evidence": [
+   "realms-of-power-the-infernal::0652"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Magical resource; the Benandanti battle protects a vis source.",
+  "evidence": [
+   "realms-of-power-the-infernal::0616",
+   "realms-of-power-the-infernal::0617"
+  ]
+ },
+ {
+  "name": "Vis Prava",
+  "type": "Concept",
+  "description": "Corrupted vis resulting if the stregoni win.",
+  "evidence": [
+   "realms-of-power-the-infernal::0617"
+  ]
+ },
+ {
+  "name": "Debilitation",
+  "type": "Concept",
+  "description": "Condition inflicted on those killed in a night battle.",
+  "evidence": [
+   "realms-of-power-the-infernal::0617"
+  ]
+ },
+ {
+  "name": "Infernal Might",
+  "type": "Concept",
+  "description": "Might score of demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0606"
+  ]
+ },
+ {
+  "name": "Hierarchy Score",
+  "type": "Concept",
+  "description": "Measure of Infernal standing; Mechthild has 7.",
+  "evidence": [
+   "realms-of-power-the-infernal::0642"
+  ]
+ },
+ {
+  "name": "Danse Macabre",
+  "type": "Concept",
+  "description": "Dread Host practice of possessed troupes dancing to death.",
+  "evidence": [
+   "realms-of-power-the-infernal::0644",
+   "realms-of-power-the-infernal::0645"
+  ]
+ },
+ {
+  "name": "Drawing Down the Moon",
+  "type": "Concept",
+  "aliases": [
+   "Thessalian crime"
+  ],
+  "description": "Thessalian sexual sorcery now summoning Selene.",
+  "evidence": [
+   "realms-of-power-the-infernal::0668",
+   "realms-of-power-the-infernal::0669",
+   "realms-of-power-the-infernal::0670"
+  ]
+ },
+ {
+  "name": "Ogam",
+  "type": "Concept",
+  "aliases": [
+   "Ogam writing"
+  ],
+  "description": "Gaelic arcane writing used by the Damhadh-Duidsan for incantations.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0654",
+   "realms-of-power-the-infernal::0655"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Link to a target; virus lunare serves as one.",
+  "evidence": [
+   "realms-of-power-the-infernal::0669",
+   "realms-of-power-the-infernal::0670"
+  ]
+ },
+ {
+  "name": "Hermetic Oath",
+  "type": "Concept",
+  "aliases": [
+   "the Oath"
+  ],
+  "description": "Oath sworn to join the Order.",
+  "evidence": [
+   "realms-of-power-the-infernal::0654",
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [
+   "malleus magorum"
+  ],
+  "description": "Hermetic law called malleus magorum in the Duresca scrolls.",
+  "evidence": [
+   "realms-of-power-the-infernal::0623"
+  ]
+ },
+ {
+  "name": "True Names",
+  "type": "Concept",
+  "description": "Demonic names recorded in Mulhidun grimoires.",
+  "evidence": [
+   "realms-of-power-the-infernal::0649"
+  ]
+ },
+ {
+  "name": "Test of the Cold Water",
+  "type": "Concept",
+  "description": "Ordeal to prove guilt mentioned in the malleus epistula.",
+  "evidence": [
+   "realms-of-power-the-infernal::0629"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [
+   "Marched"
+  ],
+  "description": "Hermetic outlawry; infernalist Redcaps could be Marched.",
+  "evidence": [
+   "realms-of-power-the-infernal::0660"
+  ]
+ },
+ {
+  "name": "Spontaneous Casting",
+  "type": "Concept",
+  "description": "Magic skill attributed to House Diedne.",
+  "evidence": [
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Faerie regiones reached through portals near Thessalian caves.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of Hell and demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601",
+   "realms-of-power-the-infernal::0649",
+   "realms-of-power-the-infernal::0616"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm of God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0601",
+   "realms-of-power-the-infernal::0609",
+   "realms-of-power-the-infernal::0652"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magical"
+  ],
+  "description": "Realm of magic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0670",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Realm of faeries.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0671"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "Divine influence encroaching on pagan power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0612",
+   "realms-of-power-the-infernal::0641",
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "description": "Infernal abode of demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0606",
+   "realms-of-power-the-infernal::0640",
+   "realms-of-power-the-infernal::0648"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Place",
+  "description": "Paradise from which demons were cast out.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0609"
+  ]
+ },
+ {
+  "name": "Damascus",
+  "type": "Place",
+  "description": "City on whose road Saul had his vision.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602",
+   "realms-of-power-the-infernal::0603"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "City Saul sought to bring prisoners to.",
+  "evidence": [
+   "realms-of-power-the-infernal::0602"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "City Luciferans identify with the Great Beast.",
+  "evidence": [
+   "realms-of-power-the-infernal::0605",
+   "realms-of-power-the-infernal::0614"
+  ]
+ },
+ {
+  "name": "Germany",
+  "type": "Place",
+  "description": "Region of Luciferan strength and the Mecklenburgs.",
+  "evidence": [
+   "realms-of-power-the-infernal::0610",
+   "realms-of-power-the-infernal::0640",
+   "realms-of-power-the-infernal::0645"
+  ]
+ },
+ {
+  "name": "Austria",
+  "type": "Place",
+  "description": "Region of Luciferans and Vagi Scholares.",
+  "evidence": [
+   "realms-of-power-the-infernal::0610",
+   "realms-of-power-the-infernal::0661"
+  ]
+ },
+ {
+  "name": "Bohemia",
+  "type": "Place",
+  "description": "Region with Luciferan strength.",
+  "evidence": [
+   "realms-of-power-the-infernal::0610"
+  ]
+ },
+ {
+  "name": "Cologne",
+  "type": "Place",
+  "description": "City with a thriving Luciferan community.",
+  "evidence": [
+   "realms-of-power-the-infernal::0610"
+  ]
+ },
+ {
+  "name": "Krems",
+  "type": "Place",
+  "description": "City near Vienna with a Luciferan community.",
+  "evidence": [
+   "realms-of-power-the-infernal::0610"
+  ]
+ },
+ {
+  "name": "Vienna",
+  "type": "Place",
+  "description": "City near Krems.",
+  "evidence": [
+   "realms-of-power-the-infernal::0610"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "description": "Where the Duresca scrolls were found.",
+  "evidence": [
+   "realms-of-power-the-infernal::0623"
+  ]
+ },
+ {
+  "name": "Orléans",
+  "type": "Place",
+  "description": "Town where heresy was uncovered in 1022.",
+  "evidence": [
+   "realms-of-power-the-infernal::0625",
+   "realms-of-power-the-infernal::0627"
+  ]
+ },
+ {
+  "name": "Cathedral of Sainte Croix",
+  "type": "Place",
+  "description": "Cathedral in Orléans whose priests were arrested.",
+  "evidence": [
+   "realms-of-power-the-infernal::0626"
+  ]
+ },
+ {
+  "name": "Calabria",
+  "type": "Place",
+  "description": "Homeland of Joachim of Flora.",
+  "evidence": [
+   "realms-of-power-the-infernal::0633"
+  ]
+ },
+ {
+  "name": "Curazzo",
+  "type": "Place",
+  "description": "Monastery Joachim was made abbot of.",
+  "evidence": [
+   "realms-of-power-the-infernal::0633",
+   "realms-of-power-the-infernal::0634"
+  ]
+ },
+ {
+  "name": "Mecklenburg",
+  "type": "Place",
+  "description": "Seat of the Princes of Mecklenburg in northern Germany.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640"
+  ]
+ },
+ {
+  "name": "Rostock",
+  "type": "Place",
+  "description": "City near Mecklenburg.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640"
+  ]
+ },
+ {
+  "name": "Lübeck",
+  "type": "Place",
+  "description": "City near Mecklenburg.",
+  "evidence": [
+   "realms-of-power-the-infernal::0640"
+  ]
+ },
+ {
+  "name": "Mosul",
+  "type": "Place",
+  "description": "Persian city north of which the Mulhidun live.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Place",
+  "description": "Empire west of Mulhidun lands.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647",
+   "realms-of-power-the-infernal::0624"
+  ]
+ },
+ {
+  "name": "Persia",
+  "type": "Place",
+  "description": "Region of the Mulhidun.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647",
+   "realms-of-power-the-infernal::0649"
+  ]
+ },
+ {
+  "name": "Armenia",
+  "type": "Place",
+  "description": "Region of the Mulhidun hills.",
+  "evidence": [
+   "realms-of-power-the-infernal::0647",
+   "realms-of-power-the-infernal::0649"
+  ]
+ },
+ {
+  "name": "British Isles",
+  "type": "Place",
+  "description": "Where Pralix crushed Damhan-Allaidh.",
+  "evidence": [
+   "realms-of-power-the-infernal::0653",
+   "realms-of-power-the-infernal::0656"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "description": "Center of the Ordo Vagorum.",
+  "evidence": [
+   "realms-of-power-the-infernal::0661"
+  ]
+ },
+ {
+  "name": "Thessaly",
+  "type": "Place",
+  "description": "Greek region home to the Thessalian witches.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663",
+   "realms-of-power-the-infernal::0664"
+  ]
+ },
+ {
+  "name": "Cambunian Mountains",
+  "type": "Place",
+  "description": "Mountains where the Daughters of Erictho dwell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Greece",
+  "type": "Place",
+  "description": "Region reached by Ex Miscellanea.",
+  "evidence": [
+   "realms-of-power-the-infernal::0663"
+  ]
+ },
+ {
+  "name": "Garden of Eden",
+  "type": "Place",
+  "description": "Paradise of the serpent.",
+  "evidence": [
+   "realms-of-power-the-infernal::0637",
+   "realms-of-power-the-infernal::0638"
+  ]
+ }
+]

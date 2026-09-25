@@ -1,0 +1,1492 @@
+[
+ {
+  "name": "Pretense",
+  "type": "Concept",
+  "aliases": [
+   "Pretences",
+   "Pretenses"
+  ],
+  "description": "Faerie substitute for Abilities; faeries buy Pretenses with points like Ability points and need no Virtues to have them.",
+  "evidence": [
+   "realms-of-power-faerie::0244",
+   "realms-of-power-faerie::0247",
+   "realms-of-power-faerie::0250"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Score",
+   "Might"
+  ],
+  "description": "A faerie's spiritual strength; player faeries begin at 5, and it grants innate Magic Resistance equal to the score.",
+  "evidence": [
+   "realms-of-power-faerie::0249",
+   "realms-of-power-faerie::0250",
+   "realms-of-power-faerie::0251"
+  ]
+ },
+ {
+  "name": "Might Points",
+  "type": "Concept",
+  "aliases": [
+   "Might Pool"
+  ],
+  "description": "Points equal to a faerie's Might score, spent to activate powers and normally fully recovered over 24 hours.",
+  "evidence": [
+   "realms-of-power-faerie::0251",
+   "realms-of-power-faerie::0332"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance to supernatural effects; Faerie Might grants it innately, though faerie bodies and props are not blocked by it.",
+  "evidence": [
+   "realms-of-power-faerie::0250",
+   "realms-of-power-faerie::0268",
+   "realms-of-power-faerie::0332"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "description": "The mystical force by which faeries arrange matter into bodies and props, and which defines their taboos.",
+  "evidence": [
+   "realms-of-power-faerie::0263",
+   "realms-of-power-faerie::0268",
+   "realms-of-power-faerie::0313"
+  ]
+ },
+ {
+  "name": "Cognizance",
+  "type": "Concept",
+  "description": "A faerie's level of awareness of its own nature, which governs its goals and its capacity to change roles or develop powers.",
+  "evidence": [
+   "realms-of-power-faerie::0309",
+   "realms-of-power-faerie::0310",
+   "realms-of-power-faerie::0312"
+  ]
+ },
+ {
+  "name": "Taboo",
+  "type": "Concept",
+  "description": "A symbolic object or action that repels a faerie, defined in its glamour; every faerie character must have one.",
+  "evidence": [
+   "realms-of-power-faerie::0248",
+   "realms-of-power-faerie::0313"
+  ]
+ },
+ {
+  "name": "Folk Charms",
+  "type": "Concept",
+  "description": "Trinkets and signs made to repel faeries, such as the Italian finger sign or Greek painted eyes; a class of faerie taboo.",
+  "evidence": [
+   "realms-of-power-faerie::0316"
+  ]
+ },
+ {
+  "name": "Iron",
+  "type": "Concept",
+  "description": "A supremely magical metal woven into many faerie stories as a ward, though miners, crafters and urban faeries often tolerate it.",
+  "evidence": [
+   "realms-of-power-faerie::0318"
+  ]
+ },
+ {
+  "name": "Religious Symbols",
+  "type": "Concept",
+  "description": "A class of faerie taboo; such faeries flee church bells, and many powerful faeries cannot enter the Dominion uninvited.",
+  "evidence": [
+   "realms-of-power-faerie::0322"
+  ]
+ },
+ {
+  "name": "Intricacy Points",
+  "type": "Concept",
+  "description": "Points representing complex portions of a faerie's glamour, used to raise a power's Initiative or reduce its Might cost.",
+  "evidence": [
+   "realms-of-power-faerie::0333",
+   "realms-of-power-faerie::0334",
+   "realms-of-power-faerie::0338"
+  ]
+ },
+ {
+  "name": "Until (Duration)",
+  "type": "Concept",
+  "aliases": [
+   "Until"
+  ],
+  "description": "A Duration lasting until a certain thing occurs; treated as equivalent to Year but not requiring a Ritual.",
+  "evidence": [
+   "realms-of-power-faerie::0334",
+   "realms-of-power-faerie::0335"
+  ]
+ },
+ {
+  "name": "Constant Powers",
+  "type": "Concept",
+  "description": "Greater, Lesser or Personal Powers made to trigger automatically at sunrise and sunset, costing Might each time.",
+  "evidence": [
+   "realms-of-power-faerie::0339",
+   "realms-of-power-faerie::0332"
+  ]
+ },
+ {
+  "name": "Faerie Power",
+  "type": "Concept",
+  "aliases": [
+   "Faerie Powers",
+   "Greater and Lesser Faerie Powers"
+  ],
+  "description": "Spell-like powers of faeries designed via Virtues, activated by spending Might Points, with Penetration based on Might.",
+  "evidence": [
+   "realms-of-power-faerie::0331",
+   "realms-of-power-faerie::0332",
+   "realms-of-power-faerie::0346"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Magical substance; faeries of greater Might contain more vis, and using the vis from a faerie's anchor destroys it permanently.",
+  "evidence": [
+   "realms-of-power-faerie::0250",
+   "realms-of-power-faerie::0267",
+   "realms-of-power-faerie::0281"
+  ]
+ },
+ {
+  "name": "Anchor",
+  "type": "Concept",
+  "description": "The seat of a faerie's spiritual essence; if its vis is used the faerie is permanently dead.",
+  "evidence": [
+   "realms-of-power-faerie::0267",
+   "realms-of-power-faerie::0281"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A mystical link between objects and people; faeries can see them and need them to use powers beyond Touch in other Realms' areas.",
+  "evidence": [
+   "realms-of-power-faerie::0281",
+   "realms-of-power-faerie::0284",
+   "realms-of-power-faerie::0332"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "The prevailing supernatural aura, which affects faerie Might recovery and regeneration time via the Realm Interaction Table.",
+  "evidence": [
+   "realms-of-power-faerie::0261",
+   "realms-of-power-faerie::0266"
+  ]
+ },
+ {
+  "name": "Regeneration",
+  "type": "Concept",
+  "description": "Faerie bodies regenerate as suits their story; if killed they rebuild a body over months based on Might and Aura.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265",
+   "realms-of-power-faerie::0266"
+  ]
+ },
+ {
+  "name": "Permanent Death",
+  "type": "Concept",
+  "description": "Faeries are permanently killed only by forces outside their story, such as destruction of Might, miracles, Infernal agents, or use of anchor vis.",
+  "evidence": [
+   "realms-of-power-faerie::0267"
+  ]
+ },
+ {
+  "name": "Equipment Without Encumbrance",
+  "type": "Concept",
+  "description": "Faeries suffer no Encumbrance for traditional props, which are made of glamour and can be reconstituted.",
+  "evidence": [
+   "realms-of-power-faerie::0263"
+  ]
+ },
+ {
+  "name": "Size",
+  "type": "Concept",
+  "description": "Score for body size affecting Characteristics and wound penalties; humanoid faeries choose from Size +2 to -3 normally.",
+  "evidence": [
+   "realms-of-power-faerie::0274",
+   "realms-of-power-faerie::0275",
+   "realms-of-power-faerie::0276"
+  ]
+ },
+ {
+  "name": "Social Interaction Virtues and Flaws",
+  "type": "Concept",
+  "description": "Faerie Virtues and Flaws governing interaction with humans that replace Social Status Virtues.",
+  "evidence": [
+   "realms-of-power-faerie::0303",
+   "realms-of-power-faerie::0248"
+  ]
+ },
+ {
+  "name": "Personality Flaws",
+  "type": "Concept",
+  "description": "Faeries may have up to three Minor and one Major Personality Flaw, often tied to their form or role.",
+  "evidence": [
+   "realms-of-power-faerie::0327"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "description": "Faeries do not have Confidence scores, lacking the internal spark of inspiration.",
+  "evidence": [
+   "realms-of-power-faerie::0326"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "description": "Aging effect that faeries cannot suffer unless they have a Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0262"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Faeries may not have The Gift or any Virtue or Flaw specific to Hermetic magi.",
+  "evidence": [
+   "realms-of-power-faerie::0324"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic Magic Resistance which does not block faerie bodies or props.",
+  "evidence": [
+   "realms-of-power-faerie::0268"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "description": "For a faerie power, Might Score minus five times Might cost plus Penetration bonus.",
+  "evidence": [
+   "realms-of-power-faerie::0331",
+   "realms-of-power-faerie::0332",
+   "realms-of-power-faerie::0300"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Concept",
+  "description": "At storyguide discretion, Improved Powers can grant mastery-like special abilities for a faerie power.",
+  "evidence": [
+   "realms-of-power-faerie::0334"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Human knowledge of faeries learned through experience; few faeries possess it.",
+  "evidence": [
+   "realms-of-power-faerie::0257",
+   "realms-of-power-faerie::0284",
+   "realms-of-power-faerie::0317"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability used with Faerie Sight and to detect supernatural aid or weapons.",
+  "evidence": [
+   "realms-of-power-faerie::0284",
+   "realms-of-power-faerie::0289",
+   "realms-of-power-faerie::0358"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability used for attacks with natural weapons such as teeth, claws, horns and hooves.",
+  "evidence": [
+   "realms-of-power-faerie::0271"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Combat Ability; an example faerie sword grants +2 to it through Grant Puissance.",
+  "evidence": [
+   "realms-of-power-faerie::0281",
+   "realms-of-power-faerie::0282",
+   "realms-of-power-faerie::0343"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue (also a Pretense) letting a faerie speak whatever language its audience speaks, at no Might cost.",
+  "evidence": [
+   "realms-of-power-faerie::0285",
+   "realms-of-power-faerie::0250",
+   "realms-of-power-faerie::0283"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "description": "Language Ability; a human typically begins with Living Language 5.",
+  "evidence": [
+   "realms-of-power-faerie::0247"
+  ]
+ },
+ {
+  "name": "Fast Might Recovery",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting a faerie restore its entire Might Pool in six hours.",
+  "evidence": [
+   "realms-of-power-faerie::0253"
+  ]
+ },
+ {
+  "name": "Feast of the Fae",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting a faerie recover 5 Might by receiving traditional sacrifices from humans, once per day.",
+  "evidence": [
+   "realms-of-power-faerie::0254"
+  ]
+ },
+ {
+  "name": "Feast of the Dead",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting a faerie recover 2 Might after draining a Long Term Fatigue level or causing a Medium Wound to a human.",
+  "evidence": [
+   "realms-of-power-faerie::0255"
+  ]
+ },
+ {
+  "name": "Increased Faerie Might",
+  "type": "Virtue",
+  "description": "Major or Minor Supernatural Virtue increasing Might by 15 or 5 respectively.",
+  "evidence": [
+   "realms-of-power-faerie::0256",
+   "realms-of-power-faerie::0249"
+  ]
+ },
+ {
+  "name": "Time or Place of Power",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue making Might 10 higher at a time or place linked to the faerie's role.",
+  "evidence": [
+   "realms-of-power-faerie::0257"
+  ]
+ },
+ {
+  "name": "Huge",
+  "type": "Virtue",
+  "description": "Major General Virtue (faeries only) making the character far larger, adjusting Size, Characteristics and Body levels.",
+  "evidence": [
+   "realms-of-power-faerie::0278",
+   "realms-of-power-faerie::0274"
+  ]
+ },
+ {
+  "name": "External Vis",
+  "type": "Virtue",
+  "description": "Minor or Major Supernatural Virtue placing the faerie's anchor in a traditional prop that can be carried far from its body.",
+  "evidence": [
+   "realms-of-power-faerie::0281",
+   "realms-of-power-faerie::0282"
+  ]
+ },
+ {
+  "name": "Faerie Beast",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue: the character appears to be an animal with all advantages of a faerie body.",
+  "evidence": [
+   "realms-of-power-faerie::0283"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting faeries tell glamour from mundane, see Arcane Connections and read each other's glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0284",
+   "realms-of-power-faerie::0249"
+  ]
+ },
+ {
+  "name": "Humanoid Faerie",
+  "type": "Virtue",
+  "aliases": [
+   "Humanoid Form"
+  ],
+  "description": "Minor Supernatural Virtue giving a material body of roughly human shape.",
+  "evidence": [
+   "realms-of-power-faerie::0286",
+   "realms-of-power-faerie::0249"
+  ]
+ },
+ {
+  "name": "Hybrid Form",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue giving a body mixing human and animal elements.",
+  "evidence": [
+   "realms-of-power-faerie::0287",
+   "realms-of-power-faerie::0271"
+  ]
+ },
+ {
+  "name": "Immune to (Source of Damage)",
+  "type": "Virtue",
+  "description": "Minor or Major Supernatural Virtue making a faerie take no damage from a nominated force such as cold, fire or iron.",
+  "evidence": [
+   "realms-of-power-faerie::0288"
+  ]
+ },
+ {
+  "name": "Improved Damage",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue enhancing a natural weapon by up to +5 Damage.",
+  "evidence": [
+   "realms-of-power-faerie::0289"
+  ]
+ },
+ {
+  "name": "Improved Initiative",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue increasing a natural weapon's Initiative by 3.",
+  "evidence": [
+   "realms-of-power-faerie::0290"
+  ]
+ },
+ {
+  "name": "Improved Soak",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue increasing Soak by 2; may be taken more than once.",
+  "evidence": [
+   "realms-of-power-faerie::0291"
+  ]
+ },
+ {
+  "name": "Puissant Pretense",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue giving +2 to rolls with a particular Pretense.",
+  "evidence": [
+   "realms-of-power-faerie::0292"
+  ]
+ },
+ {
+  "name": "Residual Power",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue automatically triggering a faerie power when the body is destroyed.",
+  "evidence": [
+   "realms-of-power-faerie::0293"
+  ]
+ },
+ {
+  "name": "Positive Folktales",
+  "type": "Virtue",
+  "description": "Minor Social Interaction Virtue: the faerie type is in local folklore and treated with respect and caution.",
+  "evidence": [
+   "realms-of-power-faerie::0307"
+  ]
+ },
+ {
+  "name": "Infiltrator",
+  "type": "Virtue",
+  "description": "Minor or Major Social Interaction Virtue for a faerie that lives as a human, costing as the mimicked Social Status.",
+  "evidence": [
+   "realms-of-power-faerie::0308",
+   "realms-of-power-faerie::0306",
+   "realms-of-power-faerie::0324"
+  ]
+ },
+ {
+  "name": "Passes for Human",
+  "type": "Virtue",
+  "description": "Free Social Interaction choice: the faerie suffers no social consequences as it can seem human, living at society's margins.",
+  "evidence": [
+   "realms-of-power-faerie::0306",
+   "realms-of-power-faerie::0249"
+  ]
+ },
+ {
+  "name": "Narrowly Cognizant",
+  "type": "Virtue",
+  "description": "Free Supernatural choice: the faerie can improve itself in ways traditional for its type.",
+  "evidence": [
+   "realms-of-power-faerie::0311",
+   "realms-of-power-faerie::0249",
+   "realms-of-power-faerie::0266"
+  ]
+ },
+ {
+  "name": "Highly Cognizant",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue: the faerie knows creative humans can change faeries and seeks such change.",
+  "evidence": [
+   "realms-of-power-faerie::0312",
+   "realms-of-power-faerie::0266"
+  ]
+ },
+ {
+  "name": "Reputation as Confidence",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue giving false Confidence points equal to the faerie's highest Reputation, spent on rolls supporting it.",
+  "evidence": [
+   "realms-of-power-faerie::0326"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue granting 25 spell levels for fluid spontaneous-like effects within a theme.",
+  "evidence": [
+   "realms-of-power-faerie::0328",
+   "realms-of-power-faerie::0335"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Virtue",
+  "aliases": [
+   "Greater Powers"
+  ],
+  "description": "Major Supernatural Virtue granting 50 spell levels of formulaic-like powers with Might cost magnitude/2.",
+  "evidence": [
+   "realms-of-power-faerie::0329",
+   "realms-of-power-faerie::0335",
+   "realms-of-power-faerie::0346"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "aliases": [
+   "Lesser Powers"
+  ],
+  "description": "Minor Supernatural Virtue granting formulaic-like powers costing Might equal to magnitude.",
+  "evidence": [
+   "realms-of-power-faerie::0330",
+   "realms-of-power-faerie::0335",
+   "realms-of-power-faerie::0346"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue granting 25 levels for a Personal-range power.",
+  "evidence": [
+   "realms-of-power-faerie::0331",
+   "realms-of-power-faerie::0335"
+  ]
+ },
+ {
+  "name": "Ritual Power",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue granting 25 levels of ritual effects, which also reduce Might Score when used.",
+  "evidence": [
+   "realms-of-power-faerie::0336",
+   "realms-of-power-faerie::0337",
+   "realms-of-power-faerie::0335"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue giving 5 intricacy points to spend on powers.",
+  "evidence": [
+   "realms-of-power-faerie::0338",
+   "realms-of-power-faerie::0333",
+   "realms-of-power-faerie::0337"
+  ]
+ },
+ {
+  "name": "Pretentious",
+  "type": "Virtue",
+  "description": "Virtue that may change the multiplier for Pretense points.",
+  "evidence": [
+   "realms-of-power-faerie::0247"
+  ]
+ },
+ {
+  "name": "Ostentatious",
+  "type": "Virtue",
+  "description": "Virtue that may change the multiplier for Pretense points.",
+  "evidence": [
+   "realms-of-power-faerie::0247"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue suited to humans that many combat-oriented faeries also take.",
+  "evidence": [
+   "realms-of-power-faerie::0280"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "description": "Virtue whose storyguide advice mechanism is echoed by a faerie guidance power.",
+  "evidence": [
+   "realms-of-power-faerie::0359",
+   "realms-of-power-faerie::0288"
+  ]
+ },
+ {
+  "name": "Puissant (Single Weapon)",
+  "type": "Virtue",
+  "description": "Virtue popularly granted by faeries through Grant (Minor Virtue).",
+  "evidence": [
+   "realms-of-power-faerie::0343"
+  ]
+ },
+ {
+  "name": "Decreased Might",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: the faerie has only 1 point of Might instead of 5.",
+  "evidence": [
+   "realms-of-power-faerie::0258"
+  ]
+ },
+ {
+  "name": "Restricted Might",
+  "type": "Flaw",
+  "description": "Major or Minor Supernatural Flaw rendering the faerie nearly powerless under certain conditions.",
+  "evidence": [
+   "realms-of-power-faerie::0259"
+  ]
+ },
+ {
+  "name": "Slow Might Recovery",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw: the faerie recovers only one Might Point per day.",
+  "evidence": [
+   "realms-of-power-faerie::0260"
+  ]
+ },
+ {
+  "name": "Might Recovery Requires Vitality",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw requiring rest and a meal in a human community to regain Might.",
+  "evidence": [
+   "realms-of-power-faerie::0261"
+  ]
+ },
+ {
+  "name": "Little",
+  "type": "Flaw",
+  "description": "Major General Flaw (faeries only) making the character far smaller.",
+  "evidence": [
+   "realms-of-power-faerie::0279",
+   "realms-of-power-faerie::0274"
+  ]
+ },
+ {
+  "name": "Intangible Flesh",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw: the character is immaterial and cannot physically influence the world.",
+  "evidence": [
+   "realms-of-power-faerie::0295",
+   "realms-of-power-faerie::0273"
+  ]
+ },
+ {
+  "name": "Poor Combatant",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: loses 2 Attack and Defense with one combat Pretense.",
+  "evidence": [
+   "realms-of-power-faerie::0296"
+  ]
+ },
+ {
+  "name": "Reduced Damage",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw decreasing a natural weapon's Damage by 2.",
+  "evidence": [
+   "realms-of-power-faerie::0297"
+  ]
+ },
+ {
+  "name": "Reduced Initiative",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw decreasing a natural weapon's Initiative by 3.",
+  "evidence": [
+   "realms-of-power-faerie::0298"
+  ]
+ },
+ {
+  "name": "Reduced Soak",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw reducing Soak by 2 due to contact with a Ward.",
+  "evidence": [
+   "realms-of-power-faerie::0299"
+  ]
+ },
+ {
+  "name": "Role Requires Suffering",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: the faerie feels pain and suffers wound penalties like a human.",
+  "evidence": [
+   "realms-of-power-faerie::0300",
+   "realms-of-power-faerie::0332"
+  ]
+ },
+ {
+  "name": "Susceptible to Deprivation",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: the faerie suffers human consequences without air, food and water.",
+  "evidence": [
+   "realms-of-power-faerie::0301"
+  ]
+ },
+ {
+  "name": "Vulnerable to (Substance)",
+  "type": "Flaw",
+  "description": "Minor or Major Supernatural Flaw giving Soak 0 against a particular substance.",
+  "evidence": [
+   "realms-of-power-faerie::0302"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "description": "Major Social Interaction Flaw giving -6 in social situations where appearance matters.",
+  "evidence": [
+   "realms-of-power-faerie::0304"
+  ]
+ },
+ {
+  "name": "Negative Reaction",
+  "type": "Flaw",
+  "description": "Minor Social Interaction Flaw giving -3 on all social rolls.",
+  "evidence": [
+   "realms-of-power-faerie::0305"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: the faerie is unaware it can change its role.",
+  "evidence": [
+   "realms-of-power-faerie::0310",
+   "realms-of-power-faerie::0266"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: the faerie cannot touch things protected by its ward, which burns it and blocks Might regeneration.",
+  "evidence": [
+   "realms-of-power-faerie::0314",
+   "realms-of-power-faerie::0249",
+   "realms-of-power-faerie::0250"
+  ]
+ },
+ {
+  "name": "Sovereign Ward",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw: the faerie cannot harm anyone defended by its ward and is destroyed by its touch.",
+  "evidence": [
+   "realms-of-power-faerie::0315",
+   "realms-of-power-faerie::0267"
+  ]
+ },
+ {
+  "name": "Aloof",
+  "type": "Flaw",
+  "description": "Flaw that may change the multiplier for Pretense points.",
+  "evidence": [
+   "realms-of-power-faerie::0247"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "description": "Flaw that combat-limiting faerie Flaws must not merely duplicate.",
+  "evidence": [
+   "realms-of-power-faerie::0294"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "description": "Flaw suggested for Infiltrators whose faerie nature would destroy their status.",
+  "evidence": [
+   "realms-of-power-faerie::0308"
+  ]
+ },
+ {
+  "name": "Dwarf",
+  "type": "Flaw",
+  "description": "Mortal Flaw that faeries may not take.",
+  "evidence": [
+   "realms-of-power-faerie::0274"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Flaw",
+  "description": "Mortal Virtue/Flaw that faeries may not take.",
+  "evidence": [
+   "realms-of-power-faerie::0274"
+  ]
+ },
+ {
+  "name": "Reduced Power",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw subtracting 5 intricacy points from a faerie's powers.",
+  "evidence": [
+   "realms-of-power-faerie::0339"
+  ]
+ },
+ {
+  "name": "Slow Power",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw requiring an extra round of preparation for a power.",
+  "evidence": [
+   "realms-of-power-faerie::0340"
+  ]
+ },
+ {
+  "name": "Binding Oath",
+  "type": "Spell",
+  "description": "Ritual faerie power (Vim) enforcing a solemnly sworn oath; oathbreakers are warned and then suffer a Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0341"
+  ]
+ },
+ {
+  "name": "Grant (Major Virtue)",
+  "type": "Spell",
+  "description": "Ritual faerie power (Vim) imposing a named Major Virtue on a target, temporarily or permanently.",
+  "evidence": [
+   "realms-of-power-faerie::0342"
+  ]
+ },
+ {
+  "name": "Grant (Minor Virtue)",
+  "type": "Spell",
+  "description": "Ritual faerie power (Vim) imposing a named Minor Virtue; many faerie enchanted objects use it.",
+  "evidence": [
+   "realms-of-power-faerie::0343"
+  ]
+ },
+ {
+  "name": "Grant (Major Flaw)",
+  "type": "Spell",
+  "description": "Ritual faerie power (Vim) imposing a named Major Flaw as a curse.",
+  "evidence": [
+   "realms-of-power-faerie::0344"
+  ]
+ },
+ {
+  "name": "Grant (Minor Flaw)",
+  "type": "Spell",
+  "description": "Ritual faerie power (Vim) imposing a named Minor Flaw upon a victim.",
+  "evidence": [
+   "realms-of-power-faerie::0345"
+  ]
+ },
+ {
+  "name": "Adhere",
+  "type": "Spell",
+  "description": "Faerie power (Corpus) preventing a rider from dismounting a faerie animal, as with kelpies.",
+  "evidence": [
+   "realms-of-power-faerie::0347"
+  ]
+ },
+ {
+  "name": "Allure",
+  "type": "Spell",
+  "description": "Faerie power (Mentem) granting +3 to impress or convince others.",
+  "evidence": [
+   "realms-of-power-faerie::0348"
+  ]
+ },
+ {
+  "name": "Cause Fatigue",
+  "type": "Spell",
+  "description": "Faerie power causing a human to lose a fatigue level.",
+  "evidence": [
+   "realms-of-power-faerie::0349"
+  ]
+ },
+ {
+  "name": "Cause Drowsiness",
+  "type": "Spell",
+  "description": "Faerie power (Corpus or Animal) causing a touched human to fall asleep.",
+  "evidence": [
+   "realms-of-power-faerie::0350"
+  ]
+ },
+ {
+  "name": "Cause Sickness",
+  "type": "Spell",
+  "description": "Faerie power (Corpus) causing a serious illness by touch or poisoning objects.",
+  "evidence": [
+   "realms-of-power-faerie::0351"
+  ]
+ },
+ {
+  "name": "Craft Magical Trinket",
+  "type": "Spell",
+  "description": "Faerie power creating a glamour object letting its holder use a particular Virtue once.",
+  "evidence": [
+   "realms-of-power-faerie::0352"
+  ]
+ },
+ {
+  "name": "Damaging Effect",
+  "type": "Spell",
+  "description": "Faerie power making the faerie's glamour weapons deal +5 Damage for two minutes.",
+  "evidence": [
+   "realms-of-power-faerie::0353"
+  ]
+ },
+ {
+  "name": "Eidolon",
+  "type": "Spell",
+  "description": "Faerie power (Imaginem) creating a visible and audible illusory form directed by the faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0354",
+   "realms-of-power-faerie::0295"
+  ]
+ },
+ {
+  "name": "Enthralling Sound",
+  "type": "Spell",
+  "description": "Faerie power (Mentem) creating a chosen emotion in a group that hears it.",
+  "evidence": [
+   "realms-of-power-faerie::0355"
+  ]
+ },
+ {
+  "name": "Enthrallment",
+  "type": "Spell",
+  "description": "Faerie power (Mentem) taking complete control of a human's mind for a day through eye contact.",
+  "evidence": [
+   "realms-of-power-faerie::0356"
+  ]
+ },
+ {
+  "name": "Fearful Flaming Eyes",
+  "type": "Spell",
+  "description": "Faerie power (Corpus) paralyzing a human who makes eye contact.",
+  "evidence": [
+   "realms-of-power-faerie::0357"
+  ]
+ },
+ {
+  "name": "Grant Puissance in (Ability)",
+  "type": "Spell",
+  "description": "Faerie power (Corpus) granting bonuses to humans' rolls in an activity.",
+  "evidence": [
+   "realms-of-power-faerie::0358",
+   "realms-of-power-faerie::0281"
+  ]
+ },
+ {
+  "name": "Loosely Material",
+  "type": "Spell",
+  "description": "Minor faerie power suited to immaterial faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0273",
+   "realms-of-power-faerie::0295"
+  ]
+ },
+ {
+  "name": "Circular Ward Against the Faeries of the Wood",
+  "type": "Spell",
+  "description": "Hermetic spell targeting the material a faerie is made from, effective against faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0268"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Hermetic spell targeting the spiritual nature of faeries, effective against them.",
+  "evidence": [
+   "realms-of-power-faerie::0268"
+  ]
+ },
+ {
+  "name": "Enslave the Mortal Mind",
+  "type": "Spell",
+  "description": "ReMe spell used as the model for the Enthrallment faerie power.",
+  "evidence": [
+   "realms-of-power-faerie::0356"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form associated with faerie powers for Magic Resistance purposes.",
+  "evidence": [
+   "realms-of-power-faerie::0347",
+   "realms-of-power-faerie::0357",
+   "realms-of-power-faerie::0358"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form associated with faerie powers for Magic Resistance purposes.",
+  "evidence": [
+   "realms-of-power-faerie::0348",
+   "realms-of-power-faerie::0355",
+   "realms-of-power-faerie::0356"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form associated with faerie powers for Magic Resistance purposes.",
+  "evidence": [
+   "realms-of-power-faerie::0354"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form associated with faerie powers for Magic Resistance purposes.",
+  "evidence": [
+   "realms-of-power-faerie::0341",
+   "realms-of-power-faerie::0342",
+   "realms-of-power-faerie::0343"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form associated with faerie powers for Magic Resistance purposes.",
+  "evidence": [
+   "realms-of-power-faerie::0350"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "The realm of faeries, spirits that draw matter about themselves with glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0262",
+   "realms-of-power-faerie::0324"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Divine realm; many powerful faeries cannot enter it uninvited by God.",
+  "evidence": [
+   "realms-of-power-faerie::0322",
+   "realms-of-power-faerie::0324"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm whose agents can destroy faeries; faeries may not have its powers.",
+  "evidence": [
+   "realms-of-power-faerie::0267",
+   "realms-of-power-faerie::0324"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "description": "Realm whose elemental spirits also build bodies of matter; faeries may not have its powers.",
+  "evidence": [
+   "realms-of-power-faerie::0268",
+   "realms-of-power-faerie::0324"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "description": "Faerie otherworld to which seemingly dead faeries may be dispelled for millennia.",
+  "evidence": [
+   "realms-of-power-faerie::0267",
+   "realms-of-power-faerie::0271"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House studying faeries; its magi theorize about faerie death and Until durations.",
+  "evidence": [
+   "realms-of-power-faerie::0267",
+   "realms-of-power-faerie::0322",
+   "realms-of-power-faerie::0334"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House whose chapter gives rules for mundane animals.",
+  "evidence": [
+   "realms-of-power-faerie::0270"
+  ]
+ },
+ {
+  "name": "Summer Court",
+  "type": "Faction",
+  "description": "Faerie court that makes war on the Winter Court at the Equinox.",
+  "evidence": [
+   "realms-of-power-faerie::0264"
+  ]
+ },
+ {
+  "name": "Winter Court",
+  "type": "Faction",
+  "description": "Faerie court that makes war on the Summer Court at the Equinox.",
+  "evidence": [
+   "realms-of-power-faerie::0264"
+  ]
+ },
+ {
+  "name": "Mongols",
+  "type": "Faction",
+  "description": "Invaders whose siege of a covenant is an example use of mass trinkets.",
+  "evidence": [
+   "realms-of-power-faerie::0352"
+  ]
+ },
+ {
+  "name": "Black Terrors",
+  "type": "Creature",
+  "description": "Faeries with typical Might 1.",
+  "evidence": [
+   "realms-of-power-faerie::0264"
+  ]
+ },
+ {
+  "name": "Kubu",
+  "type": "Creature",
+  "description": "Faerie with typical Might 1.",
+  "evidence": [
+   "realms-of-power-faerie::0264"
+  ]
+ },
+ {
+  "name": "Brownie",
+  "type": "Creature",
+  "description": "Household faerie with low Might; one type is completed and moves on when given clothes.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0320"
+  ]
+ },
+ {
+  "name": "Centaur",
+  "type": "Creature",
+  "description": "Faerie with typical Might 5.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Dwarf (Faerie)",
+  "type": "Creature",
+  "description": "Faerie with typical Might 5 that may seek to become a dwarf king.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0311"
+  ]
+ },
+ {
+  "name": "Faerie Dog",
+  "type": "Creature",
+  "description": "Faerie with typical Might 5.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Faun",
+  "type": "Creature",
+  "description": "Faerie with typical Might 5.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Kelpie",
+  "type": "Creature",
+  "description": "Faerie animal with Might 5 that uses Adhere against riders.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0347"
+  ]
+ },
+ {
+  "name": "Satyr",
+  "type": "Creature",
+  "description": "Faerie with typical Might 5.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Sprite",
+  "type": "Creature",
+  "description": "Faerie with typical Might 5.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Barking Beast",
+  "type": "Creature",
+  "description": "Faerie with typical Might 10.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Glanconer",
+  "type": "Creature",
+  "description": "Faerie with typical Might 10.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Minor Knight",
+  "type": "Creature",
+  "description": "Faerie with typical Might 10.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Triton",
+  "type": "Creature",
+  "description": "Faerie with typical Might 10.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Unicorn",
+  "type": "Creature",
+  "description": "Faerie with typical Might 10.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Mormo",
+  "type": "Creature",
+  "description": "Moderately powerful faerie, Might 11-20.",
+  "evidence": [
+   "realms-of-power-faerie::0264"
+  ]
+ },
+ {
+  "name": "Orm",
+  "type": "Creature",
+  "description": "Faerie dragon-like being whose Might varies with Size, from 11-20 up to 35.",
+  "evidence": [
+   "realms-of-power-faerie::0264",
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Ghula",
+  "type": "Creature",
+  "description": "Faerie with typical Might 20.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Valkyrie",
+  "type": "Creature",
+  "description": "Faerie with typical Might 20.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Faerie Champion",
+  "type": "Creature",
+  "description": "Faerie with typical Might 25.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Gorgon",
+  "type": "Creature",
+  "description": "Faerie with typical Might 25.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Fachan",
+  "type": "Creature",
+  "description": "Faerie with typical Might 30.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Faerie Noble",
+  "type": "Creature",
+  "description": "Faerie with typical Might 35.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Lamia",
+  "type": "Creature",
+  "description": "Faerie with typical Might 35.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Lamashtu",
+  "type": "Creature",
+  "description": "Extremely powerful faerie with Might 45.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Jinn",
+  "type": "Creature",
+  "description": "Faeries released from bottles who offer three wishes followed by death.",
+  "evidence": [
+   "realms-of-power-faerie::0320"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "description": "Minor, major and great dragons span Might 31-75.",
+  "evidence": [
+   "realms-of-power-faerie::0265",
+   "realms-of-power-faerie::0277"
+  ]
+ },
+ {
+  "name": "Jove",
+  "type": "Character",
+  "description": "Pagan deity given as an earth-shaking faerie figure of Might 51-75.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Black Faced Hermes",
+  "type": "Character",
+  "description": "Faerie figure listed in the Might table with no applicable Might score.",
+  "evidence": [
+   "realms-of-power-faerie::0265"
+  ]
+ },
+ {
+  "name": "Yallery Brown",
+  "type": "Character",
+  "description": "Faerie released from under a stone who worked in gratitude, then tormented his master to death after being thanked.",
+  "evidence": [
+   "realms-of-power-faerie::0320"
+  ]
+ },
+ {
+  "name": "Thor",
+  "type": "Character",
+  "description": "God to whom a tree was once sacred; on the Isle of Man it and a Thor's-hammer fishbone still ward off faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0316"
+  ]
+ },
+ {
+  "name": "Witch Bottles",
+  "type": "Item",
+  "description": "Folk charms of Yorkshire that repel faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0316"
+  ]
+ },
+ {
+  "name": "Isle of Man",
+  "type": "Place",
+  "description": "Place where a tree once sacred to Thor and a fishbone charm ward off faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0316"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "description": "Place where people make a finger sign as a folk charm.",
+  "evidence": [
+   "realms-of-power-faerie::0316"
+  ]
+ },
+ {
+  "name": "Greece",
+  "type": "Place",
+  "description": "Place where people paint eyes as a charm against the evil eye.",
+  "evidence": [
+   "realms-of-power-faerie::0316"
+  ]
+ },
+ {
+  "name": "Yorkshire",
+  "type": "Place",
+  "description": "Region whose faeries are repelled by witch bottles.",
+  "evidence": [
+   "realms-of-power-faerie::0316"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Place",
+  "description": "Region where wild mountain roses repel vampiric faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0317"
+  ]
+ },
+ {
+  "name": "The Abandoned Shrine",
+  "type": "Place",
+  "description": "Scenery story element with random-generation tables.",
+  "evidence": [
+   "realms-of-power-faerie::0240",
+   "realms-of-power-faerie::0241",
+   "realms-of-power-faerie::0242"
+  ]
+ }
+]

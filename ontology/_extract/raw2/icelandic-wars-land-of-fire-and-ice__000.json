@@ -1,0 +1,1700 @@
+[
+ {
+  "name": "Hadrianus",
+  "type": "Character",
+  "aliases": [
+   "Hadrianus of House Flambeau"
+  ],
+  "description": "Archmagus of House Flambeau who sailed for Iceland in 1214 hunting the Order of Odin, was attacked by Pan Caudarax, fell into Twilight and drowned; his ghost later haunted a Scottish island.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0003",
+   "icelandic-wars-land-of-fire-and-ice::0004"
+  ]
+ },
+ {
+  "name": "Julius",
+  "type": "Character",
+  "aliases": [
+   "Archmagus Julius",
+   "Julian"
+  ],
+  "description": "Archmagus of House Flambeau and Ignem specialist who, with Lavinia, leads the Hermetic crusade against Iceland and kills Biorn Egilsson.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0004",
+   "icelandic-wars-land-of-fire-and-ice::0012",
+   "icelandic-wars-land-of-fire-and-ice::0021"
+  ]
+ },
+ {
+  "name": "Lavinia",
+  "type": "Character",
+  "aliases": [
+   "Quaesitor Lavinia",
+   "Archmaga Lavinia"
+  ],
+  "description": "Archmaga and Quaesitor of House Guernicus, an Intellego specialist skilled in wards and necromancy, who calls the War Tribunal at Durenmar and co-leads the crusade.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0004",
+   "icelandic-wars-land-of-fire-and-ice::0006",
+   "icelandic-wars-land-of-fire-and-ice::0011"
+  ]
+ },
+ {
+  "name": "Albinus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archmagus of House Ex Miscellanea and Theban spirit master whose spells can defeat the Icelandic guardians; he may join the crusade or side with the hreppur.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0023",
+   "icelandic-wars-land-of-fire-and-ice::0026",
+   "icelandic-wars-land-of-fire-and-ice::0027"
+  ]
+ },
+ {
+  "name": "Biorn Egilsson",
+  "type": "Character",
+  "aliases": [],
+  "description": "Old galdraman and leader of the galdramen hreppur, slain by Julius on the Night of Tears after requesting a dialog in Latin.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0023",
+   "icelandic-wars-land-of-fire-and-ice::0032"
+  ]
+ },
+ {
+  "name": "Bard",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the Icelandic giant community who opposes the Hermetic invasion and leads the assault on the crusaders' mystic tower.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0013",
+   "icelandic-wars-land-of-fire-and-ice::0035",
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Gull Hellirsson",
+  "type": "Character",
+  "aliases": [
+   "Gull"
+  ],
+  "description": "Leader of the fire giants, a Jotunn of the Clan of Geirrod who wields a dwarf-forged warhammer able to break wards and seeks vengeance on Julius's forces.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0038",
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Vigdis",
+  "type": "Character",
+  "aliases": [
+   "Norn lady Vigdis"
+  ],
+  "description": "Norn lady, an Orlog landvaettir lady, who warns the magi of Julius's planned attack on Scartaris and can grant landvaettir attendants.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0037"
+  ]
+ },
+ {
+  "name": "Magnus Gizurarson",
+  "type": "Character",
+  "aliases": [
+   "Bishop Magnus",
+   "Bishop of Skalholt"
+  ],
+  "description": "Bishop of Skalholt whose son is slain in the killings; he leads a delegation to Rome petitioning the Pope against the Order of Hermes and chairs the settlement.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0014",
+   "icelandic-wars-land-of-fire-and-ice::0035",
+   "icelandic-wars-land-of-fire-and-ice::0047"
+  ]
+ },
+ {
+  "name": "Gunnar Loftursson",
+  "type": "Character",
+  "aliases": [
+   "Gunnar"
+  ],
+  "description": "Neighboring bondi and church warden who seeks ond from Vindolanda's magi to save his gravely ill daughter.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032",
+   "icelandic-wars-land-of-fire-and-ice::0033"
+  ]
+ },
+ {
+  "name": "Asta",
+  "type": "Character",
+  "aliases": [],
+  "description": "Galdrakona wife of Gunnar Loftursson, targeted by the crusaders, who sustains a Biarg spirit with spell song to keep her daughter alive.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032",
+   "icelandic-wars-land-of-fire-and-ice::0033"
+  ]
+ },
+ {
+  "name": "Iain",
+  "type": "Character",
+  "aliases": [],
+  "description": "Vindolanda figure who can command the gate spirit to swallow the gatestone and seal off Scartaris from the mainland.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0014"
+  ]
+ },
+ {
+  "name": "Prima of House Ex Miscellanea",
+  "type": "Character",
+  "aliases": [],
+  "description": "Head of House Ex Miscellanea who refuses all outside contact while preparing for an apocalypse she has predicted for decades.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0011",
+   "icelandic-wars-land-of-fire-and-ice::0012"
+  ]
+ },
+ {
+  "name": "The Pope",
+  "type": "Character",
+  "aliases": [
+   "Pope"
+  ],
+  "description": "Petitioned by Bishop Magnus in Rome; may excommunicate all Christian members of the Order of Hermes.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0047",
+   "icelandic-wars-land-of-fire-and-ice::0053"
+  ]
+ },
+ {
+  "name": "Pan Caudarax",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dragon and first guardian of Iceland who destroyed Hadrianus's ship; he can shapeshift into a lindorm or kraken and commands an attendant host.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0003",
+   "icelandic-wars-land-of-fire-and-ice::0026"
+  ]
+ },
+ {
+  "name": "Vindsvall",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Iceland's second guardian, an immense storm-colored eagle spirit as old as the land, bound by the ancients to protect the island, with Weather Mastery and Spiritual Form.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0017",
+   "icelandic-wars-land-of-fire-and-ice::0027"
+  ]
+ },
+ {
+  "name": "The Gray Bull",
+  "type": "Creature",
+  "aliases": [
+   "Gray Bull",
+   "Grey Bull"
+  ],
+  "description": "Iceland's third guardian, a spirit bull tamed by the Dominion at Skalholt in 1105 and held as Bishop Magnus's stud; if freed it grows into a vast aurochs.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0019",
+   "icelandic-wars-land-of-fire-and-ice::0020",
+   "icelandic-wars-land-of-fire-and-ice::0028"
+  ]
+ },
+ {
+  "name": "The Host",
+  "type": "Creature",
+  "aliases": [
+   "guardian Host",
+   "attendant host"
+  ],
+  "description": "Around two thousand landvaettir attending the current guardian of Iceland, able to heal it, grant it Might, shapeshift and cast spell effects.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0022",
+   "icelandic-wars-land-of-fire-and-ice::0023",
+   "icelandic-wars-land-of-fire-and-ice::0026"
+  ]
+ },
+ {
+  "name": "Landvaettir",
+  "type": "Creature",
+  "aliases": [
+   "landvaettir watchers"
+  ],
+  "description": "Icelandic land spirits who watch the coasts, serve the guardians and bargain with galdramen; they pledge to avenge Biorn Egilsson.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0017",
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ]
+ },
+ {
+  "name": "Landvaettir lords",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Powerful landvaettir who held the galdramen leader in esteem and give attendant spirits to all galdramen during the conflict.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ]
+ },
+ {
+  "name": "Landvaettir attendant",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit given to each galdraman during the war, with Might equal to Song Talent x5, reducing casting time and accepting bargains for little vis.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0035",
+   "icelandic-wars-land-of-fire-and-ice::0037"
+  ]
+ },
+ {
+  "name": "Orlog spirits",
+  "type": "Creature",
+  "aliases": [
+   "Norns",
+   "Orlogspirits",
+   "Orlog"
+  ],
+  "description": "Prophetic landvaettir (Norns) whose foresight coordinates the Icelandic assault and can help set ambushes.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0037",
+   "icelandic-wars-land-of-fire-and-ice::0048"
+  ]
+ },
+ {
+  "name": "Yfel spirits",
+  "type": "Creature",
+  "aliases": [
+   "Yfel lords",
+   "Yfel"
+  ],
+  "description": "Malign landvaettir whose lords take captured Julius for amusement and who can suppress a captive's Gift.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0045"
+  ]
+ },
+ {
+  "name": "Biarg spirits",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Healing/protective spirits to whom ond (Creo, Corpus or Vim vis) is offered; one sustains Asta's daughter.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0033"
+  ]
+ },
+ {
+  "name": "Jotunn spirits",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirits called upon by giants through Jotunn Affinity.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Fylgja",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Guardian spirit that warns a galdrakona of approaching danger.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0033",
+   "icelandic-wars-land-of-fire-and-ice::0034"
+  ]
+ },
+ {
+  "name": "Giants",
+  "type": "Creature",
+  "aliases": [
+   "giant community",
+   "giant clans"
+  ],
+  "description": "Icelandic giant clans who, after kin are slain, gather behind Bard to oppose the Hermetic invasion.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0001",
+   "icelandic-wars-land-of-fire-and-ice::0035",
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Fire giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Giants led by Gull Hellirsson.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Lindorm",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Serpentine dragon form Pan Caudarax adopts before diving into the sea.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0026"
+  ]
+ },
+ {
+  "name": "Kraken",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Sea monster form in which Pan Caudarax attacks the ships from below.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0026"
+  ]
+ },
+ {
+  "name": "Drake images",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Lesser dragon images Pan Caudarax sends to assess the strength of the armada.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0026"
+  ]
+ },
+ {
+  "name": "Gate spirit",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of Vindolanda's gateway that can swallow the gatestone to seal off Scartaris.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0014"
+  ]
+ },
+ {
+  "name": "Ghost of Hadrianus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of the drowned archmagus haunting a Scottish island, who blames the Order of Odin before resting.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0003",
+   "icelandic-wars-land-of-fire-and-ice::0004"
+  ]
+ },
+ {
+  "name": "Beast of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical beast whose combat stats Host members use when shapeshifted.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House of Hadrianus and Julius; its primus demands vengeance and most crusader hoplites come from it.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0004",
+   "icelandic-wars-land-of-fire-and-ice::0023"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Hermetic House of Lavinia whose members long lobbied for action against the Order of Odin.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0004",
+   "icelandic-wars-land-of-fire-and-ice::0009",
+   "icelandic-wars-land-of-fire-and-ice::0051"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Hermetic House normally joined by hedge magicians; home of Albinus, and a proposed home for the galdramen hreppur.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0011",
+   "icelandic-wars-land-of-fire-and-ice::0023",
+   "icelandic-wars-land-of-fire-and-ice::0052"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "Hermetic House whose members theorize Bjornaer magi in animal form may evade the guardians.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0030",
+   "icelandic-wars-land-of-fire-and-ice::0051"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Shapeshifting Hermetic House whose magi in animal form evade the guardians and ferry materials for a Hermes Portal.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0030",
+   "icelandic-wars-land-of-fire-and-ice::0031"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House that engages with the church to have the excommunication lifted and sends emissaries to Iceland.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0051"
+  ]
+ },
+ {
+  "name": "Loch Leglean",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal of a magus who investigates Hadrianus's ghost in 1224.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0004"
+  ]
+ },
+ {
+  "name": "War Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Special Tribunal called by Lavinia at Durenmar in 1230 to organize the Hermetic Crusade, declaring all Icelandic magicians enemies of the Order.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0006",
+   "icelandic-wars-land-of-fire-and-ice::0011",
+   "icelandic-wars-land-of-fire-and-ice::0013"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Highest Hermetic tribunal to which elder magi may appeal the crusade and which may recognize the hreppur's membership.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0013",
+   "icelandic-wars-land-of-fire-and-ice::0043"
+  ]
+ },
+ {
+  "name": "Vindolanda",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Secret covenant located in Iceland, believed destroyed three centuries ago, with a mainland site and gateway; home of the Toframanna Saga player magi.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0004",
+   "icelandic-wars-land-of-fire-and-ice::0007",
+   "icelandic-wars-land-of-fire-and-ice::0009"
+  ]
+ },
+ {
+  "name": "Scartaris",
+  "type": "Covenant",
+  "aliases": [
+   "Scartaris complex",
+   "Scartaris Sanctum"
+  ],
+  "description": "Vindolanda's Icelandic complex and sanctum beneath glacial ice, target of Julius's assault.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0013",
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0037"
+  ]
+ },
+ {
+  "name": "Sinus Wodinis",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant of House Bjornaer magi on an island off southeast Norway, out of touch with the Order for decades.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0030",
+   "icelandic-wars-land-of-fire-and-ice::0031"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Site where Lavinia calls the War Tribunal in 1230.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0006"
+  ]
+ },
+ {
+  "name": "Mystic Tower",
+  "type": "Covenant",
+  "aliases": [
+   "Hermetic tower",
+   "crusader base"
+  ],
+  "description": "Crusader base conjured in Iceland's southeastern highlands and protected by the Aegis of the Hearth, later assaulted by the giants.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0030",
+   "icelandic-wars-land-of-fire-and-ice::0041",
+   "icelandic-wars-land-of-fire-and-ice::0045"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Hermetic order of magi, formed on a join-or-die policy, which launches the crusade against Iceland.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0001",
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0043"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Rumored rival order of Norse wizards blamed for destroying Scandinavian covenants and Hadrianus's death, probably a myth.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0004",
+   "icelandic-wars-land-of-fire-and-ice::0043"
+  ]
+ },
+ {
+  "name": "Galdramen hreppur",
+  "type": "Faction",
+  "aliases": [
+   "hreppur"
+  ],
+  "description": "Association of Icelandic galdramen led by Biorn Egilsson, targeted by the crusade and possibly integrated into the Order.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0008",
+   "icelandic-wars-land-of-fire-and-ice::0011",
+   "icelandic-wars-land-of-fire-and-ice::0052"
+  ]
+ },
+ {
+  "name": "Hermetic Crusade",
+  "type": "Faction",
+  "aliases": [
+   "crusaders",
+   "Hermetic Armada",
+   "crusader faction"
+  ],
+  "description": "The pro-war crusader faction and expedition led by Julius and Lavinia against Iceland's magicians.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0006",
+   "icelandic-wars-land-of-fire-and-ice::0010",
+   "icelandic-wars-land-of-fire-and-ice::0013"
+  ]
+ },
+ {
+  "name": "Clan of Geirrod",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Giant clan whose Jotunn tongue Gull speaks.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Galdraman",
+  "type": "CharacterType",
+  "aliases": [
+   "galdramen"
+  ],
+  "description": "Icelandic magician who works galdor magic by bargaining with and summoning spirits.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0008",
+   "icelandic-wars-land-of-fire-and-ice::0032",
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ]
+ },
+ {
+  "name": "Galdrakona",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Female galdor practitioner.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032",
+   "icelandic-wars-land-of-fire-and-ice::0034"
+  ]
+ },
+ {
+  "name": "Seithkona",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Icelandic seith witch, among those slain by crusaders.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032",
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ]
+ },
+ {
+  "name": "Trollson",
+  "type": "CharacterType",
+  "aliases": [
+   "trollsynir"
+  ],
+  "description": "Troll-blooded Icelandic being with shapeshifting powers.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0031",
+   "icelandic-wars-land-of-fire-and-ice::0035",
+   "icelandic-wars-land-of-fire-and-ice::0044"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Combat-oriented Hermetic magi accompanying the crusade.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0023",
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0037"
+  ]
+ },
+ {
+  "name": "Archmagus",
+  "type": "CharacterType",
+  "aliases": [
+   "archmaga",
+   "archmagi"
+  ],
+  "description": "Senior magus of great power, such as Hadrianus, Julius, Lavinia and Albinus.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0001",
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0023"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic messenger who reports the discovery of Hadrianus's ghost.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0004"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic judge; Lavinia declares the War Tribunal legal as Quaesitor.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0013"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [
+   "prima",
+   "primi"
+  ],
+  "description": "Head of a Hermetic House.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0004",
+   "icelandic-wars-land-of-fire-and-ice::0011",
+   "icelandic-wars-land-of-fire-and-ice::0051"
+  ]
+ },
+ {
+  "name": "Hedge wizard",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic magician.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0009"
+  ]
+ },
+ {
+  "name": "Toframenn",
+  "type": "CharacterType",
+  "aliases": [
+   "toframen"
+  ],
+  "description": "Icelandic term for the magi of Vindolanda.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032"
+  ]
+ },
+ {
+  "name": "Bondi",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Icelandic free farmer.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032"
+  ]
+ },
+ {
+  "name": "Storgodi",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Powerful Icelandic chieftain in legal terms.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0024",
+   "icelandic-wars-land-of-fire-and-ice::0025"
+  ]
+ },
+ {
+  "name": "Godar",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Icelandic chieftains involved in peace negotiations.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0050"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "grogs"
+  ],
+  "description": "Hermetic soldier/servant.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0018",
+   "icelandic-wars-land-of-fire-and-ice::0023",
+   "icelandic-wars-land-of-fire-and-ice::0029"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-magus player character type.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0018",
+   "icelandic-wars-land-of-fire-and-ice::0024"
+  ]
+ },
+ {
+  "name": "Filius",
+  "type": "CharacterType",
+  "aliases": [
+   "filii"
+  ],
+  "description": "Apprentice/student of a magus.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0003"
+  ]
+ },
+ {
+  "name": "Theban spirit master",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Spirit-magic specialist of the Theban tradition, as Albinus is.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0023"
+  ]
+ },
+ {
+  "name": "Hermetic theurgist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magus practicing Hermetic Theurgy who could learn to summon landvaettir.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0054"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis of the Heath",
+   "Aegis"
+  ],
+  "description": "Warding ritual; a modified version gives +75 magic resistance to the armada ships and protects the crusader tower.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021",
+   "icelandic-wars-land-of-fire-and-ice::0024",
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Kill the Living Air",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell cast spontaneously with vis that badly drains Vindsvall's Might.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0027"
+  ]
+ },
+ {
+  "name": "Leap of Homecoming",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Travel spell letting magi escape to home.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0029",
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Hermes Portal",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual creating a portal; crusaders build one in the southeastern highlands to move forces.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0030",
+   "icelandic-wars-land-of-fire-and-ice::0031",
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Clenching Hand of the Crushed Heart",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell; six vis-backed castings incapacitate Gull.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Dwarf-forged warhammer",
+  "type": "Item",
+  "aliases": [
+   "battle hammer"
+  ],
+  "description": "Gull's magical battle hammer, head over 1000 lbs, with the Break Wards power able to shatter the Aegis of the Hearth.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0039",
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Spirit bottle",
+  "type": "Item",
+  "aliases": [],
+  "description": "Device Albinus uses to capture Vindsvall.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0027"
+  ]
+ },
+ {
+  "name": "Gatestone",
+  "type": "Item",
+  "aliases": [],
+  "description": "Stone of Vindolanda's gateway that the gate spirit can swallow to seal the passage.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0014"
+  ]
+ },
+ {
+  "name": "Casting tokens",
+  "type": "Item",
+  "aliases": [],
+  "description": "Tokens from Aegis casters allowing Pan Caudarax to bypass the wards.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0024",
+   "icelandic-wars-land-of-fire-and-ice::0029"
+  ]
+ },
+ {
+  "name": "Weather Mastery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vindsvall's power to generate any weather effect up to 12th magnitude.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016"
+  ]
+ },
+ {
+  "name": "Spiritual Form",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power letting guardians and Host become material or immaterial and travel at 100 times speed.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0019",
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "Shapeshift",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Power/ability to change form or size, used by the Gray Bull, the Host and Gull (dragons).",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0019",
+   "icelandic-wars-land-of-fire-and-ice::0022",
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Grant Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Host power granting temporary Might to the guardian.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "Heal Guardian",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Host power healing the guardian one Health level per 10 Might.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "Spell Powers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Host power creating spell effects equal to permanent Might.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "Jotunn Spells",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gull's power to invoke fire magics directly using Stamina.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038",
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Immunity to Fire",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gull's immunity to heat and flame from his Jotunn Affinity.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Break Wards",
+  "type": "Concept",
+  "aliases": [],
+  "description": "PeVi power of Gull's warhammer that dispels wards with successive strikes.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Furious Attacks",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Attacks usable against multiple opponents in a round without penalty.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0019"
+  ]
+ },
+ {
+  "name": "Guardians of Iceland",
+  "type": "Concept",
+  "aliases": [
+   "guardian"
+  ],
+  "description": "Ancient bound protectors of Iceland against hostile magic: Pan Caudarax, Vindsvall and the Gray Bull.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0019"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "State Hadrianus falls into after botching a spell; his ghost later reaches final Twilight.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0003",
+   "icelandic-wars-land-of-fire-and-ice::0004"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [
+   "Might"
+  ],
+  "description": "Measure of a magical creature's power.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0019",
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection against magic, provided by Parma, Aegis, or landvaettir bargains.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0017",
+   "icelandic-wars-land-of-fire-and-ice::0026",
+   "icelandic-wars-land-of-fire-and-ice::0028"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [
+   "Parma"
+  ],
+  "description": "Hermetic magic resistance; magi may teach it to galdramen.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0017",
+   "icelandic-wars-land-of-fire-and-ice::0021",
+   "icelandic-wars-land-of-fire-and-ice::0036"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "ond"
+  ],
+  "description": "Raw magical power used to boost spells; called ond in Iceland.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0010",
+   "icelandic-wars-land-of-fire-and-ice::0027",
+   "icelandic-wars-land-of-fire-and-ice::0033"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [
+   "certámen"
+  ],
+  "description": "Magical duel; Julius wins certamen deciding the War Tribunal dispute.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0012"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "Law of the Order under which hreppur membership would make the conflict illegal.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0011"
+  ]
+ },
+ {
+  "name": "Hermetic Oath",
+  "type": "Concept",
+  "aliases": [
+   "the Oath"
+  ],
+  "description": "Oath sworn to join the Order of Hermes.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0011"
+  ]
+ },
+ {
+  "name": "Landvaettir bargains",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Deals galdramen make with spirits that can give magic resistance.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0017",
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ]
+ },
+ {
+  "name": "Galdor magic",
+  "type": "Concept",
+  "aliases": [
+   "galdor"
+  ],
+  "description": "Icelandic spirit-invoking magic of the galdramen, possibly integrated into Hermetic Theory.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0034",
+   "icelandic-wars-land-of-fire-and-ice::0054"
+  ]
+ },
+ {
+  "name": "Spell song",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Galdor chant sustaining a Biarg spirit.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0033"
+  ]
+ },
+ {
+  "name": "Song Talent",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Galdraman ability determining attendant spirit Might.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ]
+ },
+ {
+  "name": "Ol-spirit",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Part of a galdraman's soul, torn by Julius's spell.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032"
+  ]
+ },
+ {
+  "name": "External Soul",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Giant trait keeping the soul outside the body; Gull and his son possess it.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038",
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Interfering with the mundanes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic crime the crusaders commit by killing mundanes.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0036",
+   "icelandic-wars-land-of-fire-and-ice::0048"
+  ]
+ },
+ {
+  "name": "Forfeit immunity",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic status; Icelanders killing magi not under it are outlaws.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0053"
+  ]
+ },
+ {
+  "name": "Outlawry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Icelandic legal penalty for raids and killings.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0025",
+   "icelandic-wars-land-of-fire-and-ice::0053"
+  ]
+ },
+ {
+  "name": "Renunciation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic expulsion; crusaders or Vindolanda magi may be renounced.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021",
+   "icelandic-wars-land-of-fire-and-ice::0043",
+   "icelandic-wars-land-of-fire-and-ice::0053"
+  ]
+ },
+ {
+  "name": "Excommunication",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Papal sanction on Christian Hermetic members sought by Bishop Magnus.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0047",
+   "icelandic-wars-land-of-fire-and-ice::0051"
+  ]
+ },
+ {
+  "name": "Toframanna Saga",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Saga setting from Land of Fire and Ice centered on Vindolanda.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0001",
+   "icelandic-wars-land-of-fire-and-ice::0002"
+  ]
+ },
+ {
+  "name": "Night of Tears",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Night when crusaders slay the inhabitants of twelve farmsteads harboring magicians.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032"
+  ]
+ },
+ {
+  "name": "Hermetic Theory",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magic theory into which Albinus may integrate galdor.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0054"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit-summoning art that galdramen may be taught.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0054"
+  ]
+ },
+ {
+  "name": "Spontaneous magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Unprepared spellcasting.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0027",
+   "icelandic-wars-land-of-fire-and-ice::0029"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gifts"
+  ],
+  "description": "Magical talent that Yfel spirits can suppress.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0045"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical dwelling of Gull's son.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Cathedral magic schools",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Icelandic clerical sorcery schools closed by investigation.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0051"
+  ]
+ },
+ {
+  "name": "Wards",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protective magic against fire, mundane weapons, spirits.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021",
+   "icelandic-wars-land-of-fire-and-ice::0037",
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Jotunn Affinity",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Giant magical ability to work with Jotunn spirits; Gull's is with Fire.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038",
+   "icelandic-wars-land-of-fire-and-ice::0039"
+  ]
+ },
+ {
+  "name": "Transform",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Giant ability; Gull's specialty is trolls.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Gull's is specialized in volcanoes.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Climb",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Gull's is specialized in mountains.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Gull's is specialized in warhammer.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Gull's is specialized in molten metal.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Speak Jotunn",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Giant language skill.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Potency",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Boosts Gull's Jotunn Affinity.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0038"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Foresight talent common among Icelandic magicians.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0014",
+   "icelandic-wars-land-of-fire-and-ice::0015"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Foresight talent.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0014",
+   "icelandic-wars-land-of-fire-and-ice::0015"
+  ]
+ },
+ {
+  "name": "Divination",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Foresight talent.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0014",
+   "icelandic-wars-land-of-fire-and-ice::0015"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language of the Order; Biorn calls out in it.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032",
+   "icelandic-wars-land-of-fire-and-ice::0045"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of creation.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0029",
+   "icelandic-wars-land-of-fire-and-ice::0033"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of control.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0029"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of transformation.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0021"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of destruction.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021",
+   "icelandic-wars-land-of-fire-and-ice::0026"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of perception; Lavinia specialty.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of fire; Julius specialty.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021",
+   "icelandic-wars-land-of-fire-and-ice::0037"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of magic itself.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021",
+   "icelandic-wars-land-of-fire-and-ice::0026",
+   "icelandic-wars-land-of-fire-and-ice::0029"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of plants.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0021"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of the body.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0033",
+   "icelandic-wars-land-of-fire-and-ice::0041"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of mind.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0034"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of air/weather.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of animals.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0019",
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine realm whose power tamed the Gray Bull.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0020",
+   "icelandic-wars-land-of-fire-and-ice::0024"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of magic of spirits, guardians and vis.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0016",
+   "icelandic-wars-land-of-fire-and-ice::0022"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm suspected as source of Order of Odin's powers.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Landvaettir could be presented as faeries.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0048"
+  ]
+ },
+ {
+  "name": "Iceland",
+  "type": "Place",
+  "aliases": [
+   "Mythic Iceland"
+  ],
+  "description": "Remote Norse colony guarded by ancients, target of the Hermetic crusade.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0001",
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0013"
+  ]
+ },
+ {
+  "name": "Bergen",
+  "type": "Place",
+  "aliases": [],
+  "description": "Port from which Hadrianus sailed.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002"
+  ]
+ },
+ {
+  "name": "Scottish Isles",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Hadrianus's body washed up and haunted.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0003",
+   "icelandic-wars-land-of-fire-and-ice::0004"
+  ]
+ },
+ {
+  "name": "Skalholt",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cathedral seat where the Gray Bull was captured.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0020",
+   "icelandic-wars-land-of-fire-and-ice::0035"
+  ]
+ },
+ {
+  "name": "Snaefellsnes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Icelandic peninsula where Vindolanda lies.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0018"
+  ]
+ },
+ {
+  "name": "Dagverdara",
+  "type": "Place",
+  "aliases": [],
+  "description": "Vindolanda's farmstead.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0032"
+  ]
+ },
+ {
+  "name": "Norway",
+  "type": "Place",
+  "aliases": [],
+  "description": "Location of Sinus Wodinis.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0030",
+   "icelandic-wars-land-of-fire-and-ice::0031"
+  ]
+ },
+ {
+  "name": "Helluland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Destination of fleeing trollsynir and giants.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0044"
+  ]
+ },
+ {
+  "name": "Bremen",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archbishopric journeyed to by Magnus.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0047"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where the Pope is petitioned.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0047"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "aliases": [
+   "Norse lands"
+  ],
+  "description": "Norse lands where covenants were destroyed.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0002",
+   "icelandic-wars-land-of-fire-and-ice::0008"
+  ]
+ },
+ {
+  "name": "Icelandic highlands",
+  "type": "Place",
+  "aliases": [
+   "southeastern highlands"
+  ],
+  "description": "Where the Gray Bull wanders; southeastern highlands host the Hermes Portal.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0019",
+   "icelandic-wars-land-of-fire-and-ice::0030"
+  ]
+ },
+ {
+  "name": "Western quarter",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of Iceland where crusaders hunt witches.",
+  "evidence": [
+   "icelandic-wars-land-of-fire-and-ice::0033",
+   "icelandic-wars-land-of-fire-and-ice::0036"
+  ]
+ }
+]

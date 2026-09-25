@@ -1,0 +1,2925 @@
+[
+ {
+  "name": "Cursewood",
+  "type": "Place",
+  "aliases": [
+   "Cursed Woods"
+  ],
+  "description": "A cursed, Infernal-tainted forest visited by an earlier expedition of magi, where an infernal artifact lies hidden.",
+  "evidence": [
+   "mythic-locations::0240",
+   "mythic-locations::0241"
+  ]
+ },
+ {
+  "name": "Magnus the Quaesitor",
+  "type": "Character",
+  "aliases": [
+   "Magnus"
+  ],
+  "description": "A Quaesitor investigating a Hermetic maga suspected of diabolism who asks veteran magi to help pursue the criminals into the Cursewood.",
+  "evidence": [
+   "mythic-locations::0241"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigator of crimes against the Order, such as diabolism.",
+  "evidence": [
+   "mythic-locations::0241"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "An enforcer who tracks criminals on behalf of Quaesitores.",
+  "evidence": [
+   "mythic-locations::0241"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mundane covenant servants and guards who accompany magi on expeditions.",
+  "evidence": [
+   "mythic-locations::0240"
+  ]
+ },
+ {
+  "name": "Infernal Artifact of the Cursewood",
+  "type": "Item",
+  "aliases": [
+   "Infernal artifact"
+  ],
+  "description": "An Infernal artifact that can reform or move to another form if destroyed; it can only be permanently destroyed in a place of Dominion aura 5+ by an ordained clergyman with True Faith spending a Faith Point.",
+  "evidence": [
+   "mythic-locations::0240",
+   "mythic-locations::0241",
+   "mythic-locations::0242"
+  ]
+ },
+ {
+  "name": "Terentia",
+  "type": "Character",
+  "aliases": [],
+  "description": "A figure who is forever drawn to the Infernal artifact of the Cursewood wherever it is hidden.",
+  "evidence": [
+   "mythic-locations::0242"
+  ]
+ },
+ {
+  "name": "Diabolism",
+  "type": "Concept",
+  "aliases": [
+   "diabolist",
+   "infernalist"
+  ],
+  "description": "Infernalist practice; a Hermetic maga and her infernalist cohorts are suspected of it.",
+  "evidence": [
+   "mythic-locations::0241"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Holy virtue possessed by pious clergy; needed to destroy the Infernal artifact of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0242"
+  ]
+ },
+ {
+  "name": "Faith Point",
+  "type": "Concept",
+  "aliases": [
+   "Faith Score"
+  ],
+  "description": "A point of Faith spent to invoke divine power, e.g. to destroy an Infernal artifact.",
+  "evidence": [
+   "mythic-locations::0242"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [
+   "Dominion aura",
+   "Magic aura",
+   "Faerie aura",
+   "Infernal aura",
+   "Divine aura"
+  ],
+  "description": "Supernatural aura of a place, rated by strength and Realm (Divine/Dominion, Faerie, Magic, Infernal), e.g. Inner Farne has Divine aura 2.",
+  "evidence": [
+   "mythic-locations::0242",
+   "mythic-locations::0253",
+   "mythic-locations::0329"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Divine realm",
+   "Dominion"
+  ],
+  "description": "One of the four supernatural realms; represented at the Farne Islands by Saint Cuthbert's miracle-working hermitage.",
+  "evidence": [
+   "mythic-locations::0243",
+   "mythic-locations::0244",
+   "mythic-locations::0301"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "Faerie realm"
+  ],
+  "description": "Supernatural realm of faeries, who dwell in the legends of the villages near the Farne Islands.",
+  "evidence": [
+   "mythic-locations::0243",
+   "mythic-locations::0244",
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [
+   "Magic Realm",
+   "Magic realm"
+  ],
+  "description": "Supernatural realm whose travelers migrate with the seabirds of the Farnes; Big Harcar is a vestige leading into it.",
+  "evidence": [
+   "mythic-locations::0244",
+   "mythic-locations::0273",
+   "mythic-locations::0274"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "Infernal realm",
+   "Hell"
+  ],
+  "description": "Realm of demons; represented at the Farne Islands by the demons imprisoned on Megstone.",
+  "evidence": [
+   "mythic-locations::0244",
+   "mythic-locations::0281"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi; the duel at the Poisoned Earth is famous within it.",
+  "evidence": [
+   "mythic-locations::0241",
+   "mythic-locations::0321",
+   "mythic-locations::0325"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The magical Gift, whose presence heightens the superstition of Northumbrian sailors.",
+  "evidence": [
+   "mythic-locations::0249"
+  ]
+ },
+ {
+  "name": "Farne Islands",
+  "type": "Place",
+  "aliases": [
+   "the Farnes",
+   "Farnes"
+  ],
+  "description": "A group of about 28 islands off the Northumberland coast, avoided by locals as demon-haunted, touched by all four supernatural realms.",
+  "evidence": [
+   "mythic-locations::0243",
+   "mythic-locations::0245",
+   "mythic-locations::0246"
+  ]
+ },
+ {
+  "name": "Northumberland",
+  "type": "Place",
+  "aliases": [],
+  "description": "The northernmost county of England, troubled by Scottish invasions, administered by the king's sheriff at Newcastle; contains the Farne Islands.",
+  "evidence": [
+   "mythic-locations::0246",
+   "mythic-locations::0247"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Stonehenge"
+  ],
+  "description": "The Hermetic Tribunal in whose territory the Farne Islands and Somerset lie.",
+  "evidence": [
+   "mythic-locations::0244",
+   "mythic-locations::0331"
+  ]
+ },
+ {
+  "name": "Saint Cuthbert",
+  "type": "Character",
+  "aliases": [
+   "Cuthbert"
+  ],
+  "description": "Seventh-century hermit and later bishop who lived on Inner Farne, performed miracles there, and drove the demons out to Megstone; the most popular saint in Northern England.",
+  "evidence": [
+   "mythic-locations::0245",
+   "mythic-locations::0253",
+   "mythic-locations::0283"
+  ]
+ },
+ {
+  "name": "Inner Farne",
+  "type": "Place",
+  "aliases": [
+   "House Island"
+  ],
+  "description": "The largest Farne island (16 acres), also called House Island, with Divine aura 2 rising to 4 in Saint Cuthbert's chapel and hermitage.",
+  "evidence": [
+   "mythic-locations::0253",
+   "mythic-locations::0254",
+   "mythic-locations::0255"
+  ]
+ },
+ {
+  "name": "Holy Island",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island seven miles up the coast from the Farnes, home to Lindisfarne Priory.",
+  "evidence": [
+   "mythic-locations::0246",
+   "mythic-locations::0316"
+  ]
+ },
+ {
+  "name": "Lindisfarne Priory",
+  "type": "Place",
+  "aliases": [],
+  "description": "Priory on Holy Island famed for illuminated scriptures; its library holds the Vitae of Saint Cuthbert and Bede's works.",
+  "evidence": [
+   "mythic-locations::0246",
+   "mythic-locations::0316"
+  ]
+ },
+ {
+  "name": "Staple Sound",
+  "type": "Place",
+  "aliases": [],
+  "description": "A mile-wide channel separating the inner and outer Farne Islands.",
+  "evidence": [
+   "mythic-locations::0246",
+   "mythic-locations::0250",
+   "mythic-locations::0312"
+  ]
+ },
+ {
+  "name": "Newcastle",
+  "type": "Place",
+  "aliases": [],
+  "description": "Seat of the king's sheriff who administers Northumberland; an English port.",
+  "evidence": [
+   "mythic-locations::0247",
+   "mythic-locations::0309"
+  ]
+ },
+ {
+  "name": "Bamburgh Castle",
+  "type": "Place",
+  "aliases": [
+   "Bamburgh"
+  ],
+  "description": "Heavily garrisoned English fortress, former capital of Bernicia and Northumbria, whose constable holds wardship over the Farne Islands.",
+  "evidence": [
+   "mythic-locations::0247",
+   "mythic-locations::0248",
+   "mythic-locations::0250"
+  ]
+ },
+ {
+  "name": "Bernicia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Saxon kingdom whose capital was Bamburgh.",
+  "evidence": [
+   "mythic-locations::0248"
+  ]
+ },
+ {
+  "name": "Northumbria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Saxon kingdom, successor to Bernicia, with its capital at Bamburgh.",
+  "evidence": [
+   "mythic-locations::0248"
+  ]
+ },
+ {
+  "name": "John Wascelin",
+  "type": "Character",
+  "aliases": [
+   "Wascelyn",
+   "constable of Bamburgh"
+  ],
+  "description": "Current constable of Bamburgh Castle with nominal suzerainty over the Farne Islands.",
+  "evidence": [
+   "mythic-locations::0248",
+   "mythic-locations::0318"
+  ]
+ },
+ {
+  "name": "Seahouses",
+  "type": "Place",
+  "aliases": [],
+  "description": "Fishing village on the Northumberland coast where a boat can be hired to the Farnes.",
+  "evidence": [
+   "mythic-locations::0250",
+   "mythic-locations::0265"
+  ]
+ },
+ {
+  "name": "The Wideopens",
+  "type": "Place",
+  "aliases": [
+   "East Wideopen",
+   "West Wideopen",
+   "Wideopens"
+  ],
+  "description": "Twin islands (East and West Wideopen) with the deepest soil, used to bury shipwrecked sailors; a regio tunnel links East Wideopen to the mainland.",
+  "evidence": [
+   "mythic-locations::0250",
+   "mythic-locations::0259",
+   "mythic-locations::0260"
+  ]
+ },
+ {
+  "name": "The Kettle",
+  "type": "Place",
+  "aliases": [
+   "Kettle"
+  ],
+  "description": "Deep calm pool on the north side of Inner Farne, the island's only harbor, kept calm by Eider Ducks of Virtue.",
+  "evidence": [
+   "mythic-locations::0251",
+   "mythic-locations::0253"
+  ]
+ },
+ {
+  "name": "Knoxes Reef",
+  "type": "Place",
+  "aliases": [],
+  "description": "Inner Farne feature that remains above water at high tide.",
+  "evidence": [
+   "mythic-locations::0251",
+   "mythic-locations::0261"
+  ]
+ },
+ {
+  "name": "Selkie",
+  "type": "Creature",
+  "aliases": [
+   "selkies"
+  ],
+  "description": "Faeries who take the shape of seals; the women make Faerie spouses trapped by their seal-skins, the men are skilled lovers.",
+  "evidence": [
+   "mythic-locations::0251",
+   "mythic-locations::0266",
+   "mythic-locations::0305"
+  ]
+ },
+ {
+  "name": "Megstone",
+  "type": "Place",
+  "aliases": [],
+  "description": "Isolated rock with Infernal aura 1 where Saint Cuthbert imprisoned 144 demons, trapped at zero Might for centuries.",
+  "evidence": [
+   "mythic-locations::0253",
+   "mythic-locations::0281",
+   "mythic-locations::0282"
+  ]
+ },
+ {
+  "name": "Bartholomew",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hermit who dwelt at Inner Farne from 1150 to 1193 and wrote the Farne Meditations.",
+  "evidence": [
+   "mythic-locations::0254",
+   "mythic-locations::0310",
+   "mythic-locations::0316"
+  ]
+ },
+ {
+  "name": "Farne Meditations",
+  "type": "Item",
+  "aliases": [],
+  "description": "Book by the hermit Bartholomew; a Summa on Divine Lore, Level 3, Quality 6, recording his spiritual insights.",
+  "evidence": [
+   "mythic-locations::0254",
+   "mythic-locations::0310",
+   "mythic-locations::0316"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "pawn",
+   "pawns of vis"
+  ],
+  "description": "Raw magical power harvested from sources, measured in pawns of a given Art (e.g. Creo vis from barley on Inner Farne).",
+  "evidence": [
+   "mythic-locations::0254",
+   "mythic-locations::0261",
+   "mythic-locations::0311"
+  ]
+ },
+ {
+  "name": "Profession: Sailor",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to pilot and navigate boats.",
+  "evidence": [
+   "mythic-locations::0255",
+   "mythic-locations::0256"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [
+   "Area Lore: Northumberland",
+   "Area Lore: Somerset"
+  ],
+  "description": "Knowledge of a region, e.g. Area Lore: Northumberland, Somerset, British Isles.",
+  "evidence": [
+   "mythic-locations::0250",
+   "mythic-locations::0256",
+   "mythic-locations::0324"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used for rowing and physical feats.",
+  "evidence": [
+   "mythic-locations::0256",
+   "mythic-locations::0297"
+  ]
+ },
+ {
+  "name": "Saint Cuthbert's Gut",
+  "type": "Place",
+  "aliases": [],
+  "description": "Channel between West Wideopen and Inner Farne, dangerous in stormy weather.",
+  "evidence": [
+   "mythic-locations::0259"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "A supernatural layered area; the tunnel from East Wideopen and the Islestone/Glororum Shads lie within one with Magic aura.",
+  "evidence": [
+   "mythic-locations::0260",
+   "mythic-locations::0284"
+  ]
+ },
+ {
+  "name": "Drowned Dead",
+  "type": "Creature",
+  "aliases": [
+   "revenants"
+  ],
+  "description": "Revenant corpses of sailors buried on the Wideopens that emerge from the tunnel on All Hallow's Eve.",
+  "evidence": [
+   "mythic-locations::0260"
+  ]
+ },
+ {
+  "name": "The Bridges",
+  "type": "Place",
+  "aliases": [
+   "Solan Rock",
+   "Knocklin Ends"
+  ],
+  "description": "Inner Farne features (with Solan Rock and Knocklin Ends) forming a crescent island at low tide; Aquam vis spume collects here on Saint Cuthbert's feast day.",
+  "evidence": [
+   "mythic-locations::0261"
+  ]
+ },
+ {
+  "name": "Big and Little Scarcar",
+  "type": "Place",
+  "aliases": [
+   "Scarcars"
+  ],
+  "description": "Two rock pillars in the inner Farnes with a narrow gut where a small boat can be moored safely.",
+  "evidence": [
+   "mythic-locations::0262"
+  ]
+ },
+ {
+  "name": "The Bush",
+  "type": "Place",
+  "aliases": [],
+  "description": "Paired islets with Divine aura 1 where Saint Cuthbert meditated for a year underwater; a site for a Test of Faith.",
+  "evidence": [
+   "mythic-locations::0263"
+  ]
+ },
+ {
+  "name": "Test of Faith",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An ordeal that can raise a character's Faith Score, such as a year spent on the Bush.",
+  "evidence": [
+   "mythic-locations::0263"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with Stamina to survive prayerfully while submerged on the Bush.",
+  "evidence": [
+   "mythic-locations::0263"
+  ]
+ },
+ {
+  "name": "Outer Farnes",
+  "type": "Place",
+  "aliases": [
+   "outer islands"
+  ],
+  "description": "The outer group of Farne islands, haunted by demons in local belief and home to faeries and magical creatures.",
+  "evidence": [
+   "mythic-locations::0250",
+   "mythic-locations::0264",
+   "mythic-locations::0302"
+  ]
+ },
+ {
+  "name": "Staple Island",
+  "type": "Place",
+  "aliases": [],
+  "description": "Outer island with Faerie aura 2 (5 in undersea grottoes), seat of the selkie king's court.",
+  "evidence": [
+   "mythic-locations::0264",
+   "mythic-locations::0265",
+   "mythic-locations::0266"
+  ]
+ },
+ {
+  "name": "Selkie King",
+  "type": "Character",
+  "aliases": [
+   "selkie-king"
+  ],
+  "description": "Faerie king of the selkies who holds court under Staple Island; his hidden name, which is external vis, was stolen by Brown Wullie.",
+  "evidence": [
+   "mythic-locations::0265",
+   "mythic-locations::0266",
+   "mythic-locations::0269"
+  ]
+ },
+ {
+  "name": "Grey Seal",
+  "type": "Creature",
+  "aliases": [
+   "seals"
+  ],
+  "description": "Variegated seals that haul out on the Farnes to breed; statistics given for cow and bull seals.",
+  "evidence": [
+   "mythic-locations::0265",
+   "mythic-locations::0306",
+   "mythic-locations::0307"
+  ]
+ },
+ {
+  "name": "Skeney Car",
+  "type": "Place",
+  "aliases": [],
+  "description": "Southernmost tip of Staple Island; any mortal jumping into the sea there is brought to the selkie king's court.",
+  "evidence": [
+   "mythic-locations::0266"
+  ]
+ },
+ {
+  "name": "Osgood",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hermit abjurer living on Crumstone who is a Drowned Man serving Leviathan by luring ships onto Big Harcar, while also rescuing mariners.",
+  "evidence": [
+   "mythic-locations::0266",
+   "mythic-locations::0285",
+   "mythic-locations::0286"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of faeries; its possessors know selkie traditions and the nature of the King's Name.",
+  "evidence": [
+   "mythic-locations::0266",
+   "mythic-locations::0269",
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Brown Wullie",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of six exiled rebel selkies on Brownsman Island who has stolen the selkie king's name.",
+  "evidence": [
+   "mythic-locations::0266",
+   "mythic-locations::0267",
+   "mythic-locations::0305"
+  ]
+ },
+ {
+  "name": "Selkie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue indicating descent from selkies, possibly from the selkie king.",
+  "evidence": [
+   "mythic-locations::0266"
+  ]
+ },
+ {
+  "name": "Brownsman Island",
+  "type": "Place",
+  "aliases": [
+   "Brownsman"
+  ],
+  "description": "Outer island with Faerie aura 2 occupied by rebel selkies; joined to Staple Island at low water.",
+  "evidence": [
+   "mythic-locations::0264",
+   "mythic-locations::0267"
+  ]
+ },
+ {
+  "name": "Brownsman's Gut",
+  "type": "Place",
+  "aliases": [],
+  "description": "Channel separating Brownsman Island from Staple Island at high tide.",
+  "evidence": [
+   "mythic-locations::0267"
+  ]
+ },
+ {
+  "name": "North Wamses",
+  "type": "Place",
+  "aliases": [],
+  "description": "Magical island being competing in size with South Wamses; wide but squat.",
+  "evidence": [
+   "mythic-locations::0268",
+   "mythic-locations::0270"
+  ]
+ },
+ {
+  "name": "South Wamses",
+  "type": "Place",
+  "aliases": [],
+  "description": "Magical island being, tall but narrow, plotting with the Nameless Rock to outgrow North Wamses.",
+  "evidence": [
+   "mythic-locations::0268",
+   "mythic-locations::0270"
+  ]
+ },
+ {
+  "name": "The Wamses",
+  "type": "Creature",
+  "aliases": [
+   "Wamses"
+  ],
+  "description": "Two islands that are Magic Things (Magic Might 25 Terram) fighting for dominance by changing size, yielding Muto and Terram vis.",
+  "evidence": [
+   "mythic-locations::0268",
+   "mythic-locations::0270",
+   "mythic-locations::0271"
+  ]
+ },
+ {
+  "name": "Nameless Rock",
+  "type": "Place",
+  "aliases": [],
+  "description": "Magic Thing island east of South Wamses, conspiring to join with it.",
+  "evidence": [
+   "mythic-locations::0268",
+   "mythic-locations::0270",
+   "mythic-locations::0271"
+  ]
+ },
+ {
+  "name": "Wamses Gut",
+  "type": "Place",
+  "aliases": [],
+  "description": "Channel forming between North and South Wamses at high tide.",
+  "evidence": [
+   "mythic-locations::0268"
+  ]
+ },
+ {
+  "name": "Faerie Heritage",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw a player taking Brown Wullie as character would have.",
+  "evidence": [
+   "mythic-locations::0269"
+  ]
+ },
+ {
+  "name": "The King's Name",
+  "type": "Item",
+  "aliases": [],
+  "description": "The selkie king's name, a form of audible vis (five pawns of Animal) trapped in a seashell; using it destroys the king.",
+  "evidence": [
+   "mythic-locations::0269",
+   "mythic-locations::0270",
+   "mythic-locations::0305"
+  ]
+ },
+ {
+  "name": "Orogenesis",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of the Wamses (CrTe 20) adding rock to the island at the cost of permanent Might.",
+  "evidence": [
+   "mythic-locations::0270",
+   "mythic-locations::0271"
+  ]
+ },
+ {
+  "name": "The Longest Race",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of the Wamses (ReTe 30) letting an island heave itself a few paces.",
+  "evidence": [
+   "mythic-locations::0271"
+  ]
+ },
+ {
+  "name": "Magic Thing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature Virtue for magical beings such as the Wamses and the arsenical pseudoelemental.",
+  "evidence": [
+   "mythic-locations::0270",
+   "mythic-locations::0271",
+   "mythic-locations::0340"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Magic Might",
+   "Faerie Might",
+   "Infernal Might"
+  ],
+  "description": "Supernatural power rating of creatures (Magic, Faerie or Infernal Might), spent to use powers.",
+  "evidence": [
+   "mythic-locations::0270",
+   "mythic-locations::0282",
+   "mythic-locations::0297"
+  ]
+ },
+ {
+  "name": "Roddam and Green",
+  "type": "Place",
+  "aliases": [
+   "Roddam"
+  ],
+  "description": "Two rocky pillars in Piper Gut; once per year Roddam gains a Magic aura and a present person can judge the Wamses' contest for Intellego vis.",
+  "evidence": [
+   "mythic-locations::0272"
+  ]
+ },
+ {
+  "name": "Piper Gut",
+  "type": "Place",
+  "aliases": [],
+  "description": "Wide channel separating Big Harcar from North Wamses.",
+  "evidence": [
+   "mythic-locations::0272",
+   "mythic-locations::0273"
+  ]
+ },
+ {
+  "name": "Big and Little Harcar",
+  "type": "Place",
+  "aliases": [
+   "Big Harcar",
+   "Little Harcar"
+  ],
+  "description": "Islands with Magic aura 2; Big Harcar is a level 4 vestige tethered to Leviathan and the site of many wrecks.",
+  "evidence": [
+   "mythic-locations::0273",
+   "mythic-locations::0274",
+   "mythic-locations::0309"
+  ]
+ },
+ {
+  "name": "Twilight Void",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of the Magic Realm whose Aquam province houses the being Leviathan.",
+  "evidence": [
+   "mythic-locations::0273",
+   "mythic-locations::0274"
+  ]
+ },
+ {
+  "name": "Vestige",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A tether to a being in the Magic Realm that can serve as a gateway into it; Big Harcar is a level 4 vestige.",
+  "evidence": [
+   "mythic-locations::0274"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural ability to see through illusions and invisible spirits.",
+  "evidence": [
+   "mythic-locations::0273",
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to notice things, e.g. the sculptural features of Big Harcar.",
+  "evidence": [
+   "mythic-locations::0273",
+   "mythic-locations::0295"
+  ]
+ },
+ {
+  "name": "Leviathan",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Vast ancient being of the Aquam province of the Twilight Void tethered to Big Harcar, which desires the destruction of certain ships; Osgood's master.",
+  "evidence": [
+   "mythic-locations::0274",
+   "mythic-locations::0275",
+   "mythic-locations::0317"
+  ]
+ },
+ {
+  "name": "Clove Car",
+  "type": "Place",
+  "aliases": [
+   "Blue Caps"
+  ],
+  "description": "Low-lying hidden rock that shreds ship hulls near Big Harcar.",
+  "evidence": [
+   "mythic-locations::0273",
+   "mythic-locations::0276"
+  ]
+ },
+ {
+  "name": "Craford's Gut",
+  "type": "Place",
+  "aliases": [],
+  "description": "The only safe water between Longstone End and Little Harcar.",
+  "evidence": [
+   "mythic-locations::0276"
+  ]
+ },
+ {
+  "name": "Longstone",
+  "type": "Place",
+  "aliases": [
+   "Longstone Island",
+   "Longstone End",
+   "Northern Hares"
+  ],
+  "description": "Outer island with Magic aura 3 favored by magical seabirds; has a fish-shaped rock that turns jumpers into fish; best site for a covenant.",
+  "evidence": [
+   "mythic-locations::0277",
+   "mythic-locations::0278",
+   "mythic-locations::0318"
+  ]
+ },
+ {
+  "name": "Fool's Light",
+  "type": "Concept",
+  "aliases": [
+   "ignis fatuus"
+  ],
+  "description": "Ignis fatuus, a mysterious light on the Northern Hares that causes wrecks.",
+  "evidence": [
+   "mythic-locations::0277"
+  ]
+ },
+ {
+  "name": "Gruagachan",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hedge wizards whose tattoos resemble the carving on Longstone's fish rock.",
+  "evidence": [
+   "mythic-locations::0278"
+  ]
+ },
+ {
+  "name": "Knivestone",
+  "type": "Place",
+  "aliases": [],
+  "description": "Three knife-like rocks among the outer Farnes.",
+  "evidence": [
+   "mythic-locations::0279"
+  ]
+ },
+ {
+  "name": "Evil Spirits",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The lowest demonic order, to which the demons of Megstone belong.",
+  "evidence": [
+   "mythic-locations::0281",
+   "mythic-locations::0308",
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Demons of Futility",
+  "type": "Creature",
+  "aliases": [
+   "Demons of Megstone"
+  ],
+  "description": "Evil spirit demons (Infernal Might 5 Aquam) imprisoned on Megstone who drown sailors and encourage despair; appear as short black hooded creatures riding goats.",
+  "evidence": [
+   "mythic-locations::0281",
+   "mythic-locations::0308",
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aging damage; the imprisoned Megstone demons are riddled with it.",
+  "evidence": [
+   "mythic-locations::0281",
+   "mythic-locations::0308"
+  ]
+ },
+ {
+  "name": "Islestone Shad",
+  "type": "Place",
+  "aliases": [
+   "Glororum Shad"
+  ],
+  "description": "Islet entrance (with Glororum Shad) to a regio with a Magic aura of 3 containing a half-living tree.",
+  "evidence": [
+   "mythic-locations::0284"
+  ]
+ },
+ {
+  "name": "Hermetic Architecture",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mystery Initiation that might allow extending regiones.",
+  "evidence": [
+   "mythic-locations::0284"
+  ]
+ },
+ {
+  "name": "Crumstone",
+  "type": "Place",
+  "aliases": [],
+  "description": "Isolated islet with Magic aura 2 where Osgood lives in a hut.",
+  "evidence": [
+   "mythic-locations::0285",
+   "mythic-locations::0309"
+  ]
+ },
+ {
+  "name": "Abjurer",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A criminal of status forced to abjure the kingdom rather than face execution.",
+  "evidence": [
+   "mythic-locations::0285",
+   "mythic-locations::0311"
+  ]
+ },
+ {
+  "name": "Drowned Man",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A person who died at sea and was returned to life by a mysterious sea power, like Osgood.",
+  "evidence": [
+   "mythic-locations::0285"
+  ]
+ },
+ {
+  "name": "Bréhat Archipelago",
+  "type": "Place",
+  "aliases": [
+   "Bréhat"
+  ],
+  "description": "Island group off Brittany's north coast, an alternative location for the Farne Islands.",
+  "evidence": [
+   "mythic-locations::0288",
+   "mythic-locations::0292"
+  ]
+ },
+ {
+  "name": "Saint Maudez",
+  "type": "Character",
+  "aliases": [
+   "Saint Mawes"
+  ],
+  "description": "Sixth-century saint who cleared Maudez Island of vermin; can substitute for Saint Cuthbert.",
+  "evidence": [
+   "mythic-locations::0288"
+  ]
+ },
+ {
+  "name": "Orthon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Breton noble version of Osgood in the Bréhat variant.",
+  "evidence": [
+   "mythic-locations::0288"
+  ]
+ },
+ {
+  "name": "Brijuni Islands",
+  "type": "Place",
+  "aliases": [
+   "Brioni",
+   "Veliki Brijun",
+   "Mali Brijun"
+  ],
+  "description": "Island group off Croatia in the northern Adriatic, an alternative Farne location.",
+  "evidence": [
+   "mythic-locations::0289",
+   "mythic-locations::0292"
+  ]
+ },
+ {
+  "name": "Istrian Peninsula",
+  "type": "Place",
+  "aliases": [],
+  "description": "Peninsula near the Brijuni Islands, home to the oppidum of Histria.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Bonosus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Repudiated fifth-century bishop of Sardica who exiled himself to Veliki Brijun and initiated the Bonosian heresy.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Bonosian heresy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Heresy teaching Mary had other children after Jesus, persisting into the eighth century.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Saint Jerome",
+  "type": "Character",
+  "aliases": [
+   "Sveti Jerolim"
+  ],
+  "description": "Saint after whom Bonosus named an island (Sveti Jerolim).",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Obrad",
+  "type": "Character",
+  "aliases": [],
+  "description": "Exiled Serbian župan version of Osgood in the Brijuni variant.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Histria",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Oppidum on the Istrian Peninsula in the Transylvanian Tribunal.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Shrouded Bay",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Oppidum on the island of Cres in the Transylvanian Tribunal.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Oppidum",
+  "type": "Concept",
+  "aliases": [
+   "oppida"
+  ],
+  "description": "What magi of the Transylvanian Tribunal have instead of covenants.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal whose magi dwell in oppida.",
+  "evidence": [
+   "mythic-locations::0289"
+  ]
+ },
+ {
+  "name": "Loch Cuan",
+  "type": "Place",
+  "aliases": [
+   "Strangford Loch"
+  ],
+  "description": "Huge sea loch in Ulster (Strangford Loch) with legendary 365 islands; an alternative Farne location.",
+  "evidence": [
+   "mythic-locations::0290",
+   "mythic-locations::0292"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal containing Ulster and Loch Cuan.",
+  "evidence": [
+   "mythic-locations::0290"
+  ]
+ },
+ {
+  "name": "Machaoi Island",
+  "type": "Place",
+  "aliases": [
+   "Machaoi"
+  ],
+  "description": "Island in Loch Cuan home to Saint Machaoi; its monastery was destroyed in a battle between Pralix and Diedne in 806.",
+  "evidence": [
+   "mythic-locations::0290",
+   "mythic-locations::0292"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus who fought a magical battle with Diedne in 806 at Machaoi Island.",
+  "evidence": [
+   "mythic-locations::0290"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "Hermetic House whose magi fought Pralix and Averna of Tytalus; destroyed in the Schism War.",
+  "evidence": [
+   "mythic-locations::0290",
+   "mythic-locations::0320",
+   "mythic-locations::0325"
+  ]
+ },
+ {
+  "name": "Pontine Islands",
+  "type": "Place",
+  "aliases": [
+   "Ponza",
+   "Ventotene",
+   "Santo Stefano"
+  ],
+  "description": "Island group in the Tyrrhenian Sea in the Roman Tribunal, legendarily occupied by sirens.",
+  "evidence": [
+   "mythic-locations::0291",
+   "mythic-locations::0292"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal containing the Pontine Islands and Sardinia.",
+  "evidence": [
+   "mythic-locations::0291",
+   "mythic-locations::0328"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Raiders whose attacks left Ponza vacant.",
+  "evidence": [
+   "mythic-locations::0291"
+  ]
+ },
+ {
+  "name": "Sirens",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries of legend occupying the Pontine Islands; treated as tritons.",
+  "evidence": [
+   "mythic-locations::0291"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural alteration from prolonged exposure to auras, e.g. warped puffins.",
+  "evidence": [
+   "mythic-locations::0294",
+   "mythic-locations::0302",
+   "mythic-locations::0325"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Animal companion bonded to a magus; many Farne creatures would suit.",
+  "evidence": [
+   "mythic-locations::0294"
+  ]
+ },
+ {
+  "name": "Fish",
+  "type": "Creature",
+  "aliases": [
+   "Crab",
+   "Dogfish",
+   "Dolphin",
+   "Eel",
+   "Grey Mullet",
+   "Mackerel",
+   "Octopus",
+   "Salmon",
+   "Sole"
+  ],
+  "description": "Generic template for fish of the Farnes, with variants crab, dogfish, dolphin, eel, grey mullet, mackerel, octopus, salmon, sole.",
+  "evidence": [
+   "mythic-locations::0295",
+   "mythic-locations::0296"
+  ]
+ },
+ {
+  "name": "Remora",
+  "type": "Creature",
+  "aliases": [
+   "Echeneis"
+  ],
+  "description": "Magic Animal fish (Magic Might 20 Aquam) able to hold ships motionless with its Holdfast power.",
+  "evidence": [
+   "mythic-locations::0297",
+   "mythic-locations::0298"
+  ]
+ },
+ {
+  "name": "Holdfast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Remora power duplicating any movement-inhibiting spell up to level 35.",
+  "evidence": [
+   "mythic-locations::0297",
+   "mythic-locations::0298"
+  ]
+ },
+ {
+  "name": "Magic Animal",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue marking a creature as a magical animal.",
+  "evidence": [
+   "mythic-locations::0297",
+   "mythic-locations::0300"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by the remora and demons of futility.",
+  "evidence": [
+   "mythic-locations::0297",
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Magical Seabirds",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magic Animal birds arriving at the Farnes from March, whose overwintering location is unknown.",
+  "evidence": [
+   "mythic-locations::0299",
+   "mythic-locations::0255"
+  ]
+ },
+ {
+  "name": "Eider Duck of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Eider Duck",
+   "Saint Cuthbert's Ducks",
+   "Cuddy Ducks",
+   "Elder Duck of Virtue"
+  ],
+  "description": "Magic Animal eider ducks aligned to both Magic and Divine, whose Quell the Savage Waves power calms waves.",
+  "evidence": [
+   "mythic-locations::0300",
+   "mythic-locations::0301",
+   "mythic-locations::0253"
+  ]
+ },
+ {
+  "name": "Quell the Savage Waves",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Eider Duck power (ReAq 35) dampening waves within ten paces.",
+  "evidence": [
+   "mythic-locations::0301"
+  ]
+ },
+ {
+  "name": "Lesser Benediction",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue aligning a creature to the Divine as well as another realm.",
+  "evidence": [
+   "mythic-locations::0300",
+   "mythic-locations::0301"
+  ]
+ },
+ {
+  "name": "Homing Instinct",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Eider Duck of Virtue.",
+  "evidence": [
+   "mythic-locations::0300"
+  ]
+ },
+ {
+  "name": "Puffin Joker",
+  "type": "Creature",
+  "aliases": [
+   "Fratercula Hilaris",
+   "Tommy Noddys",
+   "puffins"
+  ],
+  "description": "Puffin warped by the magic of the Outer Farnes whose silly dance compels laughter.",
+  "evidence": [
+   "mythic-locations::0302",
+   "mythic-locations::0303"
+  ]
+ },
+ {
+  "name": "Mentem Monstrosity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Warping Flaw of the Puffin Joker.",
+  "evidence": [
+   "mythic-locations::0302"
+  ]
+ },
+ {
+  "name": "Storm Birds",
+  "type": "Creature",
+  "aliases": [
+   "Cormorant",
+   "Petrel",
+   "Fulmar"
+  ],
+  "description": "Cormorants, petrels and fulmars associated with stormy weather.",
+  "evidence": [
+   "mythic-locations::0304"
+  ]
+ },
+ {
+  "name": "External Vis",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the selkie king, whose vis is his name.",
+  "evidence": [
+   "mythic-locations::0305"
+  ]
+ },
+ {
+  "name": "Master of Skills",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Faerie role of selkie men challenging mortals in contests.",
+  "evidence": [
+   "mythic-locations::0305"
+  ]
+ },
+ {
+  "name": "Faerie Spouse",
+  "type": "CharacterType",
+  "aliases": [
+   "Faerie Spouses Trapped by a Trinket"
+  ],
+  "description": "Faerie role of selkie women trapped by a trinket (their seal skin).",
+  "evidence": [
+   "mythic-locations::0305"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of grey seals aiding air deprivation rolls.",
+  "evidence": [
+   "mythic-locations::0306",
+   "mythic-locations::0307"
+  ]
+ },
+ {
+  "name": "Puissant Swim",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue boosting swimming, possessed by seals and demons of futility.",
+  "evidence": [
+   "mythic-locations::0306",
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Vita Sancti Cuthberti",
+  "type": "Item",
+  "aliases": [
+   "Vita"
+  ],
+  "description": "Hagiography of Saint Cuthbert, tractatus on Organization Lore: The Church; two versions by Bede.",
+  "evidence": [
+   "mythic-locations::0310",
+   "mythic-locations::0316"
+  ]
+ },
+ {
+  "name": "Venerable Bede",
+  "type": "Character",
+  "aliases": [
+   "Bede"
+  ],
+  "description": "Local saint who wrote two Vitae of Saint Cuthbert and the Ecclesiastical History of the English People.",
+  "evidence": [
+   "mythic-locations::0310",
+   "mythic-locations::0316"
+  ]
+ },
+ {
+  "name": "The Ecclesiastical History of the English People",
+  "type": "Item",
+  "aliases": [],
+  "description": "Encyclopedia by Bede of four tractatus of Quality 9.",
+  "evidence": [
+   "mythic-locations::0310",
+   "mythic-locations::0316"
+  ]
+ },
+ {
+  "name": "Organization Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of organizations, e.g. Organization Lore: The Church and Order of Hermes.",
+  "evidence": [
+   "mythic-locations::0310",
+   "mythic-locations::0324"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability covered by Bede's history (saints).",
+  "evidence": [
+   "mythic-locations::0310"
+  ]
+ },
+ {
+  "name": "Divine Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of the Divine; the Farne Meditations is a summa on it.",
+  "evidence": [
+   "mythic-locations::0310"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A mystical link to a source; washed-up vis is an Arcane Connection to its origin.",
+  "evidence": [
+   "mythic-locations::0311"
+  ]
+ },
+ {
+  "name": "Genius Procellosus",
+  "type": "Creature",
+  "aliases": [
+   "storm spirit"
+  ],
+  "description": "Storm spirit of the elements (Magic Might 10 Auram) claiming a Farne rock and calling storms; appears as a seabird.",
+  "evidence": [
+   "mythic-locations::0312",
+   "mythic-locations::0313",
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Storm-Calling",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of the storm spirit duplicating Creo or Rego Auram effects up to level 35.",
+  "evidence": [
+   "mythic-locations::0313",
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to overcome Magic Resistance with powers.",
+  "evidence": [
+   "mythic-locations::0313",
+   "mythic-locations::0340"
+  ]
+ },
+ {
+  "name": "Magic Spirit",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue marking a creature as a magical spirit.",
+  "evidence": [
+   "mythic-locations::0312",
+   "mythic-locations::0344"
+  ]
+ },
+ {
+  "name": "Crushing Doubt",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Demon of Futility power preventing victims from spending Confidence.",
+  "evidence": [
+   "mythic-locations::0315"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Demonic power imposing a Trait such as Helpless.",
+  "evidence": [
+   "mythic-locations::0308",
+   "mythic-locations::0315"
+  ]
+ },
+ {
+  "name": "Coagulation",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Demonic power to form a physical body.",
+  "evidence": [
+   "mythic-locations::0315"
+  ]
+ },
+ {
+  "name": "Conjuring the Mystic Tower",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell to create a tower; impractical on the Farnes as too obvious.",
+  "evidence": [
+   "mythic-locations::0318"
+  ]
+ },
+ {
+  "name": "Poisoned Earth",
+  "type": "Place",
+  "aliases": [
+   "battlefield"
+  ],
+  "description": "Former Roman lead mine in the Mendip Hills with Magic aura 5, site of a Schism War duel between Averna and the Diedne.",
+  "evidence": [
+   "mythic-locations::0320",
+   "mythic-locations::0321",
+   "mythic-locations::0329"
+  ]
+ },
+ {
+  "name": "Mendip Hills",
+  "type": "Place",
+  "aliases": [],
+  "description": "Low limestone hills in Somerset, richest Roman lead source in Britain.",
+  "evidence": [
+   "mythic-locations::0320",
+   "mythic-locations::0324",
+   "mythic-locations::0336"
+  ]
+ },
+ {
+  "name": "Averna of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Averna"
+  ],
+  "description": "Corporeal necromancer who fought the Diedne at the Mendip site during the Schism War, leaving undead guardians.",
+  "evidence": [
+   "mythic-locations::0321",
+   "mythic-locations::0325",
+   "mythic-locations::0331"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House of Averna, whose magi tell horror stories of the site.",
+  "evidence": [
+   "mythic-locations::0321"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War within the Order during which Averna dueled the Diedne.",
+  "evidence": [
+   "mythic-locations::0321"
+  ]
+ },
+ {
+  "name": "March",
+  "type": "Concept",
+  "aliases": [
+   "Marched"
+  ],
+  "description": "Hermetic punishment (Wizard's March) Averna would have faced in peacetime.",
+  "evidence": [
+   "mythic-locations::0321"
+  ]
+ },
+ {
+  "name": "Defixione",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lead curse-tablet necromancy practiced by descendants of Guorna the Fetid.",
+  "evidence": [
+   "mythic-locations::0321"
+  ]
+ },
+ {
+  "name": "Guorna the Fetid",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hermetic figure whose descendants practice defixione cursing.",
+  "evidence": [
+   "mythic-locations::0321"
+  ]
+ },
+ {
+  "name": "Necromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic of the dead practiced by Averna.",
+  "evidence": [
+   "mythic-locations::0321",
+   "mythic-locations::0325"
+  ]
+ },
+ {
+  "name": "Somerset",
+  "type": "Place",
+  "aliases": [],
+  "description": "English county ('Land of Summer') with no winter faeries; contains the Mendip Hills.",
+  "evidence": [
+   "mythic-locations::0324",
+   "mythic-locations::0330",
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "Bath",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place in Somerset described elsewhere in the book.",
+  "evidence": [
+   "mythic-locations::0324",
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Hermetic seekers who assessed the Mendip site.",
+  "evidence": [
+   "mythic-locations::0325"
+  ]
+ },
+ {
+  "name": "Blue Apples of Twilight",
+  "type": "Item",
+  "aliases": [
+   "Apples of Twilight",
+   "Blue Apples"
+  ],
+  "description": "Poisonous blue apples from a tree rising over a Roman slave grave 13 times a year; fermented, they yield Perdo vis.",
+  "evidence": [
+   "mythic-locations::0325",
+   "mythic-locations::0327",
+   "mythic-locations::0335"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Wizard's Twilight; the apples may force magi into Temporary Twilight.",
+  "evidence": [
+   "mythic-locations::0335"
+  ]
+ },
+ {
+  "name": "Cave of the Inscription",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cave under the Mendips with Magic aura 6 bearing the Inscription that binds Winter faeries; site of Averna's laboratory.",
+  "evidence": [
+   "mythic-locations::0326",
+   "mythic-locations::0330",
+   "mythic-locations::0331"
+  ]
+ },
+ {
+  "name": "Summer Fae of Somerset",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Summer faeries that the Second Working could trap.",
+  "evidence": [
+   "mythic-locations::0326",
+   "mythic-locations::0331"
+  ]
+ },
+ {
+  "name": "Rio Tinto",
+  "type": "Place",
+  "aliases": [],
+  "description": "Iberian lead source, alternative location.",
+  "evidence": [
+   "mythic-locations::0328"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal containing Rio Tinto.",
+  "evidence": [
+   "mythic-locations::0328"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal containing the Harz mountains and Cologne.",
+  "evidence": [
+   "mythic-locations::0328"
+  ]
+ },
+ {
+  "name": "Harz Mountains",
+  "type": "Place",
+  "aliases": [],
+  "description": "Largest lead mines in Europe in 1220.",
+  "evidence": [
+   "mythic-locations::0328"
+  ]
+ },
+ {
+  "name": "Cologne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Great lead market in the Rhine Tribunal.",
+  "evidence": [
+   "mythic-locations::0328"
+  ]
+ },
+ {
+  "name": "Argentiera",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sardinian lead mine in the Roman Tribunal.",
+  "evidence": [
+   "mythic-locations::0328"
+  ]
+ },
+ {
+  "name": "Silver Lady",
+  "type": "Character",
+  "aliases": [
+   "Queen of the Lifeless Hills",
+   "Queen of the Hills"
+  ],
+  "description": "Faerie (Faerie Might 35 Corpus) Queen of the Lifeless Hills guarding the poisoned land, riding a lead hog and killing miners.",
+  "evidence": [
+   "mythic-locations::0328",
+   "mythic-locations::0347",
+   "mythic-locations::0348"
+  ]
+ },
+ {
+  "name": "The Inscription",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ancient story on a cave wall binding Winter from Somerset; Averna believed it a Titan weapon.",
+  "evidence": [
+   "mythic-locations::0330",
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "Second Working",
+  "type": "Item",
+  "aliases": [
+   "Second Inscription"
+  ],
+  "description": "Unread working that, if inscribed, would trap the Summer Fae of Somerset.",
+  "evidence": [
+   "mythic-locations::0331",
+   "mythic-locations::0332",
+   "mythic-locations::0333"
+  ]
+ },
+ {
+  "name": "Watching Ward",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Averna's single-use ward (PeCo 40) that turns victims to maggots.",
+  "evidence": [
+   "mythic-locations::0331",
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "Titans",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ancients whose war between Faerie and Magic left the Inscription.",
+  "evidence": [
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "King Bladud",
+  "type": "Character",
+  "aliases": [
+   "Bladud"
+  ],
+  "description": "Chthonic wizard-king who rediscovered the Inscription.",
+  "evidence": [
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "Apollo",
+  "type": "Character",
+  "aliases": [],
+  "description": "God whom Bladud sought to woo.",
+  "evidence": [
+   "mythic-locations::0332"
+  ]
+ },
+ {
+  "name": "Wookey Hole",
+  "type": "Place",
+  "aliases": [],
+  "description": "Caverns in the Mendip Hills where a witch faerie is imprisoned as a stalagmite.",
+  "evidence": [
+   "mythic-locations::0336"
+  ]
+ },
+ {
+  "name": "Witch of Wookey Hole",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Blear-eyed hag faerie turned into a stalagmite by a Glastonbury monk; source of Perdo vis.",
+  "evidence": [
+   "mythic-locations::0336",
+   "mythic-locations::0337"
+  ]
+ },
+ {
+  "name": "Glastonbury",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abbey whose abbot sent a monk against the Witch.",
+  "evidence": [
+   "mythic-locations::0336"
+  ]
+ },
+ {
+  "name": "Spirit Anchor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An object anchoring a faerie; the stalagmite ball of the Witch.",
+  "evidence": [
+   "mythic-locations::0336"
+  ]
+ },
+ {
+  "name": "Somerset Levels",
+  "type": "Place",
+  "aliases": [],
+  "description": "Marshy Somerset coast where magical teasels grow.",
+  "evidence": [
+   "mythic-locations::0338"
+  ]
+ },
+ {
+  "name": "Magical Teasel",
+  "type": "Item",
+  "aliases": [],
+  "description": "Pixie-grown teasel giving +2 to thread-crafting and containing Herbam vis.",
+  "evidence": [
+   "mythic-locations::0338"
+  ]
+ },
+ {
+  "name": "Pixies",
+  "type": "Creature",
+  "aliases": [
+   "pisgies"
+  ],
+  "description": "Minor faeries of Somerset, jovial and rarely malicious; called pisgies in Cornwall and Devon.",
+  "evidence": [
+   "mythic-locations::0338",
+   "mythic-locations::0339"
+  ]
+ },
+ {
+  "name": "Joan the Wad",
+  "type": "Character",
+  "aliases": [
+   "Joan the Torch"
+  ],
+  "description": "Will-o-the-wisp Queen of the Pisgies in Devon and Cornwall.",
+  "evidence": [
+   "mythic-locations::0339"
+  ]
+ },
+ {
+  "name": "Cornwall",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region neighboring Somerset where pisgies are vicious.",
+  "evidence": [
+   "mythic-locations::0339"
+  ]
+ },
+ {
+  "name": "Devon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region neighboring Somerset.",
+  "evidence": [
+   "mythic-locations::0339"
+  ]
+ },
+ {
+  "name": "Arsenical Pseudoelemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Earth spirit (Magic Might 20 Terram) made cruel by arsenic salts.",
+  "evidence": [
+   "mythic-locations::0340",
+   "mythic-locations::0341",
+   "mythic-locations::0342"
+  ]
+ },
+ {
+  "name": "Way of the Poisoned Land",
+  "type": "Virtue",
+  "aliases": [
+   "Ways of the Poisoned Earth"
+  ],
+  "description": "Virtue granting bonuses in poisoned places.",
+  "evidence": [
+   "mythic-locations::0340",
+   "mythic-locations::0341"
+  ]
+ },
+ {
+  "name": "Crush",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Pseudoelemental power.",
+  "evidence": [
+   "mythic-locations::0341",
+   "mythic-locations::0342"
+  ]
+ },
+ {
+  "name": "Slake Elemental Thirst",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Pseudoelemental power (PeAq 15) draining fluid.",
+  "evidence": [
+   "mythic-locations::0342"
+  ]
+ },
+ {
+  "name": "Arsenical Skeletons",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Undead animated by Averna's Ritual, poisonous.",
+  "evidence": [
+   "mythic-locations::0343",
+   "mythic-locations::0344"
+  ]
+ },
+ {
+  "name": "Distorted Ghosts",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ghosts of miners bound and warped by Averna (Magic Might 6 Mentem).",
+  "evidence": [
+   "mythic-locations::0344",
+   "mythic-locations::0345",
+   "mythic-locations::0347"
+  ]
+ },
+ {
+  "name": "Donning the Corporeal Veil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Lesser Power letting ghosts take material form.",
+  "evidence": [
+   "mythic-locations::0344",
+   "mythic-locations::0346"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [],
+  "description": "Claims its Founder made Roman ghosts black.",
+  "evidence": [
+   "mythic-locations::0347"
+  ]
+ },
+ {
+  "name": "Alchemical Sublimation",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Silver Lady power melting base metals.",
+  "evidence": [
+   "mythic-locations::0350"
+  ]
+ },
+ {
+  "name": "Allure",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Silver Lady power granting +3 to impress.",
+  "evidence": [
+   "mythic-locations::0350",
+   "mythic-locations::0351"
+  ]
+ },
+ {
+  "name": "Breath of the Poisoned Land",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Silver Lady power releasing arsenic breeze.",
+  "evidence": [
+   "mythic-locations::0350",
+   "mythic-locations::0351"
+  ]
+ },
+ {
+  "name": "Cause Poisoning",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Silver Lady power coating objects in lead or arsenic.",
+  "evidence": [
+   "mythic-locations::0351"
+  ]
+ },
+ {
+  "name": "Lead Mania",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Silver Lady power similar to Blessing of Childlike Bliss.",
+  "evidence": [
+   "mythic-locations::0352"
+  ]
+ },
+ {
+  "name": "Spirit Away",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Faerie power to whisk humans into Faerie lands.",
+  "evidence": [
+   "mythic-locations::0352"
+  ]
+ },
+ {
+  "name": "Stench of Twenty Corpses",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ArM5 spell basis for Breath of the Poisoned Land.",
+  "evidence": [
+   "mythic-locations::0351"
+  ]
+ },
+ {
+  "name": "Blessing of Childlike Bliss",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ArM5 spell basis for Lead Mania.",
+  "evidence": [
+   "mythic-locations::0352"
+  ]
+ },
+ {
+  "name": "Silver Lady's Mount",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Lead-armored hog that is an extension of the Silver Lady's body.",
+  "evidence": [
+   "mythic-locations::0352",
+   "mythic-locations::0353"
+  ]
+ },
+ {
+  "name": "Averna's Hogs",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Small savage humanoid hog faeries with lead in their flesh.",
+  "evidence": [
+   "mythic-locations::0353",
+   "mythic-locations::0354",
+   "mythic-locations::0355"
+  ]
+ },
+ {
+  "name": "Supernatural Agility",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Averna's hogs' power for tricks.",
+  "evidence": [
+   "mythic-locations::0355"
+  ]
+ },
+ {
+  "name": "Pandius",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Vessel of Iniquity demon who teaches secret poisoning; appears as a scorpion-man.",
+  "evidence": [
+   "mythic-locations::0355",
+   "mythic-locations::0356",
+   "mythic-locations::0359"
+  ]
+ },
+ {
+  "name": "Maggots",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tiny flying demons causing madness, serving Pandius.",
+  "evidence": [
+   "mythic-locations::0355",
+   "mythic-locations::0356"
+  ]
+ },
+ {
+  "name": "Vessels of Iniquity",
+  "type": "Faction",
+  "aliases": [
+   "Vessel of Iniquity"
+  ],
+  "description": "Demonic order of Pandius.",
+  "evidence": [
+   "mythic-locations::0356"
+  ]
+ },
+ {
+  "name": "Envisioning",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Demonic power to twist dreams.",
+  "evidence": [
+   "mythic-locations::0356",
+   "mythic-locations::0357"
+  ]
+ },
+ {
+  "name": "Contagious Obsession",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Pandius's contagious obsession power.",
+  "evidence": [
+   "mythic-locations::0358",
+   "mythic-locations::0359"
+  ]
+ },
+ {
+  "name": "Possession",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Demonic power to control a host.",
+  "evidence": [
+   "mythic-locations::0358"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection that demonic powers must penetrate.",
+  "evidence": [
+   "mythic-locations::0357",
+   "mythic-locations::0358",
+   "mythic-locations::0359"
+  ]
+ },
+ {
+  "name": "Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual spells, e.g. animating skeletons.",
+  "evidence": [
+   "mythic-locations::0343",
+   "mythic-locations::0344"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0254"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0272"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0268"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0335"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0313"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0270"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0261"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0312"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0278"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0338"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0313"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0344"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0268"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art named in effect or vis descriptions.",
+  "evidence": [
+   "mythic-locations::0315"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0295"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0297"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0295"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0295"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0306"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Bow",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0350"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0350"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0350"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0350"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0350"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0343"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0356"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in creature statistics.",
+  "evidence": [
+   "mythic-locations::0356"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0295"
+  ]
+ },
+ {
+  "name": "Great Strength",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0297"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0297"
+  ]
+ },
+ {
+  "name": "Puissant Brawl",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0296"
+  ]
+ },
+ {
+  "name": "Clumsy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0300"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0300"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0302"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0302"
+  ]
+ },
+ {
+  "name": "Carefree",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0306"
+  ]
+ },
+ {
+  "name": "Weak Willed",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0314"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0344"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0348"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0348"
+  ]
+ },
+ {
+  "name": "Humanoid Faerie",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0348"
+  ]
+ },
+ {
+  "name": "Cognizant Within Role",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0348"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0349"
+  ]
+ },
+ {
+  "name": "Hybrid Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Increased Faerie Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Vulnerable to Gold",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Little",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Negative Reaction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Positive Folktales",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0354"
+  ]
+ },
+ {
+  "name": "Poor Memory",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0340"
+  ]
+ },
+ {
+  "name": "Short Attention Span",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0340"
+  ]
+ },
+ {
+  "name": "Simple Minded",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0340"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Creature/character Virtue or Flaw listed in statistics.",
+  "evidence": [
+   "mythic-locations::0306"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Quality for creature powers.",
+  "evidence": [
+   "mythic-locations::0270"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Quality for creature powers.",
+  "evidence": [
+   "mythic-locations::0297"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Quality for creature powers.",
+  "evidence": [
+   "mythic-locations::0344"
+  ]
+ }
+]

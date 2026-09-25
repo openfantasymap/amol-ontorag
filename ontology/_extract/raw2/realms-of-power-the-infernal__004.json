@@ -1,0 +1,2211 @@
+[
+ {
+  "name": "Malachi",
+  "type": "Character",
+  "description": "A nine-year-old devil child in a young man's body, son of the demon Abrigor, who travels Europe seeking objects of power while unknowingly releasing imprisoned demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0480",
+   "realms-of-power-the-infernal::0481"
+  ]
+ },
+ {
+  "name": "Abrigor",
+  "type": "Creature",
+  "description": "A demon, father of Malachi, who gains the service of demons freed through Malachi's quests; he is vulnerable to volcanic glass.",
+  "evidence": [
+   "realms-of-power-the-infernal::0480",
+   "realms-of-power-the-infernal::0481"
+  ]
+ },
+ {
+  "name": "Richard of Glastonbury",
+  "type": "Character",
+  "description": "A diabolist monk raised by diabolist monks at Glastonbury Abbey, skilled in Incantation and Diablerie, who commits sins of blasphemy and idolatry while believing his Powers are not evil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0490",
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0535"
+  ]
+ },
+ {
+  "name": "Nicolai",
+  "type": "Character",
+  "aliases": [
+   "Nicolai, the Summoner"
+  ],
+  "description": "A Lithuanian pagan summoner and merchant with the Summoning Art, who summons and bargains with spirits for a price.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561",
+   "realms-of-power-the-infernal::0562",
+   "realms-of-power-the-infernal::0563"
+  ]
+ },
+ {
+  "name": "Moratamis",
+  "type": "Character",
+  "description": "A person named as the target of an example Goetic command to slay him at Semita Errabunda.",
+  "evidence": [
+   "realms-of-power-the-infernal::0560",
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Isabelle",
+  "type": "Character",
+  "description": "A woman living at the covenant of Semita Errabunda, named in an example command of a Psychomachia maleficium.",
+  "evidence": [
+   "realms-of-power-the-infernal::0529"
+  ]
+ },
+ {
+  "name": "Releganta of Flambeau",
+  "type": "Character",
+  "aliases": [
+   "Releganta",
+   "Raquel"
+  ],
+  "description": "A Spanish False Maga from Leon whose Gift is corrupted by the Infernal; lustful, practicing Chthonic Magic and Hex, and apprentice of the infernalist Rasus of Flambeau.",
+  "evidence": [
+   "realms-of-power-the-infernal::0592",
+   "realms-of-power-the-infernal::0594",
+   "realms-of-power-the-infernal::0595"
+  ]
+ },
+ {
+  "name": "Rasus of Flambeau",
+  "type": "Character",
+  "description": "A magus of House Flambeau and secret infernalist who seduced Raquel and trained her as Releganta; he deals with ghosts and spirits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0595",
+   "realms-of-power-the-infernal::0596"
+  ]
+ },
+ {
+  "name": "Rudolphus of House Bonisagus",
+  "type": "Character",
+  "aliases": [
+   "Rudolphus"
+  ],
+  "description": "One of the most infamous Venatores, Wizard's Marched in 1151 A.D. for persecuting demons so much that they turned their wrath on the Order.",
+  "evidence": [
+   "realms-of-power-the-infernal::0570"
+  ]
+ },
+ {
+  "name": "Solomon",
+  "type": "Character",
+  "description": "Biblical figure whose secret arts are believed by many to be a source of the Ars Goetia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0537"
+  ]
+ },
+ {
+  "name": "Witch of Endor",
+  "type": "Character",
+  "description": "Biblical figure whose secret arts are believed by many to be a source of the Ars Goetia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0537"
+  ]
+ },
+ {
+  "name": "The Devil",
+  "type": "Character",
+  "aliases": [
+   "Satan"
+  ],
+  "description": "The lord of Hell who takes his due from failed infernalists and whom diabolists declare belief in when renouncing God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0484",
+   "realms-of-power-the-infernal::0530",
+   "realms-of-power-the-infernal::0510"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "demons",
+   "devils"
+  ],
+  "description": "Infernal spirits with corporeal bodies of pure spirit, summoned, bound, commanded, and hunted in the Infernal and Goetic rules; they have Infernal Might and Hierarchy Scores.",
+  "evidence": [
+   "realms-of-power-the-infernal::0539",
+   "realms-of-power-the-infernal::0547",
+   "realms-of-power-the-infernal::0568"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "description": "Spirit of the dead; a diabolist whose body is destroyed may become one, and Goetic Mastery applies to spells targeting ghosts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0503",
+   "realms-of-power-the-infernal::0590"
+  ]
+ },
+ {
+  "name": "Hobgoblin",
+  "type": "Creature",
+  "description": "A creature often used as the form of the phantasmal being sent into a victim's mind by a Phantasm maleficium.",
+  "evidence": [
+   "realms-of-power-the-infernal::0526"
+  ]
+ },
+ {
+  "name": "Faerie shade",
+  "type": "Creature",
+  "description": "An incorporeal being with Might that may be targeted by spells with Goetic Mastery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0590"
+  ]
+ },
+ {
+  "name": "Semita Errabunda",
+  "type": "Covenant",
+  "description": "A covenant named in example commands of Infernal effects and Goetic Arts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0529",
+   "realms-of-power-the-infernal::0560"
+  ]
+ },
+ {
+  "name": "Glastonbury Abbey",
+  "type": "Place",
+  "aliases": [
+   "Glastonbury"
+  ],
+  "description": "Abbey where Richard of Glastonbury was abandoned and raised by diabolist monks.",
+  "evidence": [
+   "realms-of-power-the-infernal::0535",
+   "realms-of-power-the-infernal::0536"
+  ]
+ },
+ {
+  "name": "Lithuania",
+  "type": "Place",
+  "description": "Baltic region where Nicolai grew up in a pagan village destroyed by Christian knights.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Kiev",
+  "type": "Place",
+  "description": "City where Nicolai met the wandering merchant-summoner who became his teacher.",
+  "evidence": [
+   "realms-of-power-the-infernal::0563"
+  ]
+ },
+ {
+  "name": "Leon",
+  "type": "Place",
+  "aliases": [
+   "Iberia"
+  ],
+  "description": "Region of northwestern Iberia where Releganta grew up in a small village.",
+  "evidence": [
+   "realms-of-power-the-infernal::0594"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "description": "The abode of the Infernal whose power infernalists draw on and which claims souls of failed maleficia casters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0483",
+   "realms-of-power-the-infernal::0484",
+   "realms-of-power-the-infernal::0547"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "The realm of Hell whose power fuels maleficia, Goetic Arts and Infernal Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0482",
+   "realms-of-power-the-infernal::0486",
+   "realms-of-power-the-infernal::0504"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "The realm of God; Diablerie cannot affect it and phantasms are dispelled by it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0504",
+   "realms-of-power-the-infernal::0521"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "The realm of Magic; black magic is metaphysically still part of it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0566",
+   "realms-of-power-the-infernal::0544"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Supernatural realm whose creatures and effects Diablerie can affect.",
+  "evidence": [
+   "realms-of-power-the-infernal::0504",
+   "realms-of-power-the-infernal::0544"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "description": "The Divine aura, in which phantasms cannot survive and where scouring tends to turn up demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0521",
+   "realms-of-power-the-infernal::0541"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "description": "Hermetic House of Releganta and her master Rasus.",
+  "evidence": [
+   "realms-of-power-the-infernal::0592",
+   "realms-of-power-the-infernal::0595"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "description": "Hermetic House in which diabolism was discovered in the early 900s.",
+  "evidence": [
+   "realms-of-power-the-infernal::0567"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "description": "Hermetic House of the infamous Venator Rudolphus.",
+  "evidence": [
+   "realms-of-power-the-infernal::0570"
+  ]
+ },
+ {
+  "name": "House Quaesitor",
+  "type": "House",
+  "description": "Hermetic House referenced in connection with dealings with devils.",
+  "evidence": [
+   "realms-of-power-the-infernal::0570"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of magi which prohibits dealing with demons and has no official position on demon-hunters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0566",
+   "realms-of-power-the-infernal::0568",
+   "realms-of-power-the-infernal::0569"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "description": "Hermetic investigators who watch magi with demon-focused spells and have reservations about the Venatores.",
+  "evidence": [
+   "realms-of-power-the-infernal::0567",
+   "realms-of-power-the-infernal::0569",
+   "realms-of-power-the-infernal::0582"
+  ]
+ },
+ {
+  "name": "Venatores",
+  "type": "Faction",
+  "aliases": [
+   "Apotropaic Magi",
+   "Venator",
+   "Hunters"
+  ],
+  "description": "A loose group of demon-hunting magi from any House who pass their knowledge through an advanced apprenticeship; poorly regarded in the Order.",
+  "evidence": [
+   "realms-of-power-the-infernal::0569",
+   "realms-of-power-the-infernal::0570",
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Sho'elim 'ov",
+  "type": "Faction",
+  "aliases": [
+   "sho'el 'ov",
+   "spirit borrowers",
+   "spirit consulters"
+  ],
+  "description": "Ancient Jewish summoners and necromancers, 'spirit borrowers', considered the first sorcerers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0564"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "aliases": [
+   "infernalists"
+  ],
+  "description": "A practitioner of Infernal powers such as the maleficia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0482",
+   "realms-of-power-the-infernal::0483",
+   "realms-of-power-the-infernal::0493"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "CharacterType",
+  "description": "A Mythic Companion who has renounced God and sworn to Satan in exchange for Infernal blessings and the maleficia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0530",
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0533"
+  ]
+ },
+ {
+  "name": "Sorcerer",
+  "type": "CharacterType",
+  "aliases": [
+   "summoners",
+   "thaumaturgists"
+  ],
+  "description": "A practitioner of the Goetic Arts, strongly stigmatized in Mythic Europe.",
+  "evidence": [
+   "realms-of-power-the-infernal::0537",
+   "realms-of-power-the-infernal::0538"
+  ]
+ },
+ {
+  "name": "Summoner",
+  "type": "CharacterType",
+  "description": "A Mythic Companion versed in the Goetic Art of Summoning, often living as a hermit with ghostly servants and a ghostly warder.",
+  "evidence": [
+   "realms-of-power-the-infernal::0564",
+   "realms-of-power-the-infernal::0565"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "A companion aligned with a supernatural power who takes twice as many Virtue points as Flaws.",
+  "evidence": [
+   "realms-of-power-the-infernal::0480",
+   "realms-of-power-the-infernal::0530",
+   "realms-of-power-the-infernal::0531"
+  ]
+ },
+ {
+  "name": "Chthonic Magus",
+  "type": "CharacterType",
+  "description": "A magus attuned to both Magical and Infernal auras through Chthonic Magic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0584",
+   "realms-of-power-the-infernal::0587"
+  ]
+ },
+ {
+  "name": "Energumen",
+  "type": "CharacterType",
+  "description": "A human possessed by a demon, targeted by Exorcise the Filthy Spirit.",
+  "evidence": [
+   "realms-of-power-the-infernal::0578"
+  ]
+ },
+ {
+  "name": "Demon-Hunter",
+  "type": "CharacterType",
+  "description": "Magi who push the Code to seek out and destroy demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0568",
+   "realms-of-power-the-infernal::0571"
+  ]
+ },
+ {
+  "name": "Maleficia",
+  "type": "Concept",
+  "aliases": [
+   "maleficium"
+  ],
+  "description": "Infernal effects resembling Hermetic spells, cast with a Method plus a Power: stress die + Characteristic + Method + Power + aura.",
+  "evidence": [
+   "realms-of-power-the-infernal::0482",
+   "realms-of-power-the-infernal::0485",
+   "realms-of-power-the-infernal::0493"
+  ]
+ },
+ {
+  "name": "Unholy Methods",
+  "type": "Concept",
+  "aliases": [
+   "Method"
+  ],
+  "description": "The Infernal 'Techniques' of maleficia, Debauchery and Incantation, describing what the infernalist must do.",
+  "evidence": [
+   "realms-of-power-the-infernal::0486",
+   "realms-of-power-the-infernal::0495"
+  ]
+ },
+ {
+  "name": "Unholy Powers",
+  "type": "Concept",
+  "aliases": [
+   "Power"
+  ],
+  "description": "The six Infernal Powers combined with Methods to describe maleficia effects.",
+  "evidence": [
+   "realms-of-power-the-infernal::0496",
+   "realms-of-power-the-infernal::0495"
+  ]
+ },
+ {
+  "name": "Warping Points",
+  "type": "Concept",
+  "description": "Points gained from failed maleficia and supernatural effects, which may trigger Vituperation or Twilight.",
+  "evidence": [
+   "realms-of-power-the-infernal::0483",
+   "realms-of-power-the-infernal::0532"
+  ]
+ },
+ {
+  "name": "Vituperation",
+  "type": "Concept",
+  "description": "The Infernal counterpart of Twilight, checked when an infernalist gains two or more Warping Points.",
+  "evidence": [
+   "realms-of-power-the-infernal::0483",
+   "realms-of-power-the-infernal::0503",
+   "realms-of-power-the-infernal::0591"
+  ]
+ },
+ {
+  "name": "Hierarchy Score",
+  "type": "Concept",
+  "description": "A measure of an infernalist's or demon's repute in Hell, which protects against failed maleficia and modifies Goetic totals.",
+  "evidence": [
+   "realms-of-power-the-infernal::0483",
+   "realms-of-power-the-infernal::0540",
+   "realms-of-power-the-infernal::0570"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "description": "Confidence Score and Points, spent to boost maleficia and gained through sin or ablation.",
+  "evidence": [
+   "realms-of-power-the-infernal::0490",
+   "realms-of-power-the-infernal::0493",
+   "realms-of-power-the-infernal::0549"
+  ]
+ },
+ {
+  "name": "Infernal Blessing",
+  "type": "Concept",
+  "description": "A Diablerie effect of Forsaken Duration granting Infernal power, lost upon redemption.",
+  "evidence": [
+   "realms-of-power-the-infernal::0504",
+   "realms-of-power-the-infernal::0508"
+  ]
+ },
+ {
+  "name": "Infernal Curse",
+  "type": "Concept",
+  "description": "Maledictions, usually of Forsaken Duration, that remain until dispelled.",
+  "evidence": [
+   "realms-of-power-the-infernal::0516"
+  ]
+ },
+ {
+  "name": "Crossroads (Range)",
+  "type": "Concept",
+  "aliases": [
+   "Range Crossroads"
+  ],
+  "description": "Infernal Range letting the caster affect a target on a road intersecting his own; equal to Range Voice.",
+  "evidence": [
+   "realms-of-power-the-infernal::0486",
+   "realms-of-power-the-infernal::0587"
+  ]
+ },
+ {
+  "name": "Cursed (Duration)",
+  "type": "Concept",
+  "aliases": [
+   "Duration Cursed"
+  ],
+  "description": "Infernal conditional Duration that triggers an effect under a stated uncommon circumstance; equal to Duration Sun.",
+  "evidence": [
+   "realms-of-power-the-infernal::0486",
+   "realms-of-power-the-infernal::0487",
+   "realms-of-power-the-infernal::0587"
+  ]
+ },
+ {
+  "name": "Forsaken (Duration)",
+  "type": "Concept",
+  "aliases": [
+   "Duration Forsaken"
+  ],
+  "description": "Infernal Duration lasting as long as the target is tainted by the Infernal; canceled by repentance; equal to Duration Year.",
+  "evidence": [
+   "realms-of-power-the-infernal::0487",
+   "realms-of-power-the-infernal::0488",
+   "realms-of-power-the-infernal::0504"
+  ]
+ },
+ {
+  "name": "Passion (Target)",
+  "type": "Concept",
+  "aliases": [
+   "Target Passion"
+  ],
+  "description": "Infernal Target affecting a group through their passions; equal to Target Group.",
+  "evidence": [
+   "realms-of-power-the-infernal::0488",
+   "realms-of-power-the-infernal::0587"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Concept",
+  "description": "Group casting of maleficia where participants pool Method scores.",
+  "evidence": [
+   "realms-of-power-the-infernal::0492",
+   "realms-of-power-the-infernal::0587"
+  ]
+ },
+ {
+  "name": "Sacrifice",
+  "type": "Concept",
+  "description": "Ritual sacrifice giving a bonus to maleficia and Goetic effects.",
+  "evidence": [
+   "realms-of-power-the-infernal::0493",
+   "realms-of-power-the-infernal::0538"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power used to boost maleficia and spells.",
+  "evidence": [
+   "realms-of-power-the-infernal::0493",
+   "realms-of-power-the-infernal::0494"
+  ]
+ },
+ {
+  "name": "Infernal Vis",
+  "type": "Concept",
+  "description": "Vis tainted by the Infernal, usable by infernalists; comes as vis infesta, sordida and prava.",
+  "evidence": [
+   "realms-of-power-the-infernal::0494",
+   "realms-of-power-the-infernal::0551",
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Vis Infesta",
+  "type": "Concept",
+  "description": "The least corrupted grade of Infernal vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0507",
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Vis Sordida",
+  "type": "Concept",
+  "description": "A middle grade of Infernal vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0507",
+   "realms-of-power-the-infernal::0551",
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Vis Prava",
+  "type": "Concept",
+  "description": "The most corrupted grade of Infernal vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0507",
+   "realms-of-power-the-infernal::0551",
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that maleficia and spells must penetrate.",
+  "evidence": [
+   "realms-of-power-the-infernal::0485",
+   "realms-of-power-the-infernal::0506",
+   "realms-of-power-the-infernal::0553"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "description": "Measure of an effect overcoming Magic Resistance, used by maleficia and Goetic Arts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0485",
+   "realms-of-power-the-infernal::0538"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A sympathetic link needed to affect distant creatures or targets.",
+  "evidence": [
+   "realms-of-power-the-infernal::0502",
+   "realms-of-power-the-infernal::0504",
+   "realms-of-power-the-infernal::0507"
+  ]
+ },
+ {
+  "name": "True Name",
+  "type": "Concept",
+  "description": "A demon's name, which serves as an Arcane Connection for summoning it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0539",
+   "realms-of-power-the-infernal::0573",
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural aura bonus to maleficia and Goetic totals.",
+  "evidence": [
+   "realms-of-power-the-infernal::0482",
+   "realms-of-power-the-infernal::0540"
+  ]
+ },
+ {
+  "name": "Infernal Aura",
+  "type": "Concept",
+  "description": "Aura of the Infernal realm, which Diablerie can create and Psychomachia can tarnish.",
+  "evidence": [
+   "realms-of-power-the-infernal::0491",
+   "realms-of-power-the-infernal::0505",
+   "realms-of-power-the-infernal::0528"
+  ]
+ },
+ {
+  "name": "Infernal Regio",
+  "type": "Concept",
+  "description": "A regio of the Infernal that Diablerie can create.",
+  "evidence": [
+   "realms-of-power-the-infernal::0506"
+  ]
+ },
+ {
+  "name": "Tarnished Aura",
+  "type": "Concept",
+  "description": "An Infernal aura imbued with a personality trait.",
+  "evidence": [
+   "realms-of-power-the-infernal::0528",
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0533"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Score",
+   "Infernal Might"
+  ],
+  "description": "Supernatural power score of creatures, used as the Target Level of Goetic Arts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0504",
+   "realms-of-power-the-infernal::0541",
+   "realms-of-power-the-infernal::0548"
+  ]
+ },
+ {
+  "name": "Might Pool",
+  "type": "Concept",
+  "description": "A creature's pool of Might Points, restorable or reducible by effects.",
+  "evidence": [
+   "realms-of-power-the-infernal::0506",
+   "realms-of-power-the-infernal::0574"
+  ]
+ },
+ {
+  "name": "Possession",
+  "type": "Concept",
+  "description": "A demon's Power to inhabit a human body.",
+  "evidence": [
+   "realms-of-power-the-infernal::0552",
+   "realms-of-power-the-infernal::0578"
+  ]
+ },
+ {
+  "name": "Scouring",
+  "type": "Concept",
+  "description": "Summoning a non-specific spirit from the surrounding area.",
+  "evidence": [
+   "realms-of-power-the-infernal::0540",
+   "realms-of-power-the-infernal::0541"
+  ]
+ },
+ {
+  "name": "Summoning Circle",
+  "type": "Concept",
+  "description": "A circle drawn by a sorcerer to hold a summoned spirit.",
+  "evidence": [
+   "realms-of-power-the-infernal::0539",
+   "realms-of-power-the-infernal::0542",
+   "realms-of-power-the-infernal::0552"
+  ]
+ },
+ {
+  "name": "Bargaining with Demons",
+  "type": "Concept",
+  "description": "The dangerous practice of trading with summoned demons for aid.",
+  "evidence": [
+   "realms-of-power-the-infernal::0543",
+   "realms-of-power-the-infernal::0547"
+  ]
+ },
+ {
+  "name": "Ablation Points",
+  "type": "Concept",
+  "description": "Points gained by Ablating a spirit, spent on Confidence, Capability, Health, Immortality, Insight, Knowledge, Might, Power or Vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0548",
+   "realms-of-power-the-infernal::0549",
+   "realms-of-power-the-infernal::0550"
+  ]
+ },
+ {
+  "name": "Ars Goetia",
+  "type": "Concept",
+  "aliases": [
+   "Goetic Arts"
+  ],
+  "description": "'The howling art'; the four Goetic Arts of sorcery, supposedly from Solomon and the Witch of Endor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0537",
+   "realms-of-power-the-infernal::0538",
+   "realms-of-power-the-infernal::0589"
+  ]
+ },
+ {
+  "name": "Nigromancy",
+  "type": "Concept",
+  "aliases": [
+   "black magic",
+   "diabolism",
+   "dark magic"
+  ],
+  "description": "Black magic concerned with the Infernal; still part of the Magic realm.",
+  "evidence": [
+   "realms-of-power-the-infernal::0566"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Oath",
+   "the Code"
+  ],
+  "description": "Hermetic law forbidding dealing with demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0566",
+   "realms-of-power-the-infernal::0567",
+   "realms-of-power-the-infernal::0568"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Hermetic legal rulings, both for and against demon-hunters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0568"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [
+   "Wizard's Marched"
+  ],
+  "description": "Hermetic sentence of death and destruction, applied to Rudolphus in 1151.",
+  "evidence": [
+   "realms-of-power-the-infernal::0570"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Concept",
+  "description": "Ability to master spells, with special abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0582",
+   "realms-of-power-the-infernal::0589"
+  ]
+ },
+ {
+  "name": "Apotropaic Mastery",
+  "type": "Concept",
+  "description": "Spell mastery ability adding Mastery Score x Hierarchy Score to spells targeting Infernal Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0582"
+  ]
+ },
+ {
+  "name": "Goetic Mastery",
+  "type": "Concept",
+  "description": "Spell mastery ability adding a Goetic Art to casting totals for spells targeting spirits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0589",
+   "realms-of-power-the-infernal::0590"
+  ]
+ },
+ {
+  "name": "Apotropaic Spells",
+  "type": "Concept",
+  "description": "Hermetic spells for combating demons, considered questionable by many magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0571",
+   "realms-of-power-the-infernal::0574"
+  ]
+ },
+ {
+  "name": "Infernal Magic",
+  "type": "Concept",
+  "description": "Forms of Hermetic magic aligned with the Infernal: Chthonic, Goetic, and False Magic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0583"
+  ]
+ },
+ {
+  "name": "Goetic Magic",
+  "type": "Concept",
+  "description": "Adapting the Ars Goetia to Hermetic magic via Rego and Vim.",
+  "evidence": [
+   "realms-of-power-the-infernal::0589"
+  ]
+ },
+ {
+  "name": "False Magic",
+  "type": "Concept",
+  "description": "Magic from a False Gift, corrupted by Infernal powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0591",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "False Gift",
+  "type": "Concept",
+  "description": "A version of The Gift corrupted by the Infernal, leading to Vituperation instead of Twilight.",
+  "evidence": [
+   "realms-of-power-the-infernal::0591",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "Hermetic magical experience from Warping, replaced by Vituperation for the False Gift.",
+  "evidence": [
+   "realms-of-power-the-infernal::0532",
+   "realms-of-power-the-infernal::0591"
+  ]
+ },
+ {
+  "name": "Infernal Traditions",
+  "type": "Concept",
+  "aliases": [
+   "traditions"
+  ],
+  "description": "Groups of infernalists (covens, sabbats, cults) with shared Favored Abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0597",
+   "realms-of-power-the-infernal::0598",
+   "realms-of-power-the-infernal::0599"
+  ]
+ },
+ {
+  "name": "Favored Abilities",
+  "type": "Concept",
+  "description": "Four Supernatural Abilities in which an Infernal tradition specializes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0598",
+   "realms-of-power-the-infernal::0599"
+  ]
+ },
+ {
+  "name": "Infernal Reputation",
+  "type": "Concept",
+  "description": "Reputation among demons, gained through ablation, binding or commanding.",
+  "evidence": [
+   "realms-of-power-the-infernal::0551",
+   "realms-of-power-the-infernal::0555",
+   "realms-of-power-the-infernal::0560"
+  ]
+ },
+ {
+  "name": "Profaning the Holy",
+  "type": "Concept",
+  "description": "Process that allows Divine vis to be used by infernalists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0495"
+  ]
+ },
+ {
+  "name": "Wizard's Sigil",
+  "type": "Concept",
+  "description": "A magus's characteristic magical signature; Releganta's is a feeling of emptiness.",
+  "evidence": [
+   "realms-of-power-the-infernal::0596"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "A bonded spirit; a chthonic or Goetic magus may bind a demon or spirit as familiar.",
+  "evidence": [
+   "realms-of-power-the-infernal::0564",
+   "realms-of-power-the-infernal::0587",
+   "realms-of-power-the-infernal::0589"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Concept",
+  "description": "A focus doubling the lowest Art; stacks with Chthonic Magic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0587",
+   "realms-of-power-the-infernal::0588"
+  ]
+ },
+ {
+  "name": "Mortal Sin",
+  "type": "Concept",
+  "description": "State of a person whose death secures a soul for Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0484"
+  ]
+ },
+ {
+  "name": "Laboratory",
+  "type": "Concept",
+  "description": "Lab rules used for binding spells into spirits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0553",
+   "realms-of-power-the-infernal::0554"
+  ]
+ },
+ {
+  "name": "Debauchery",
+  "type": "Ability",
+  "description": "Unholy Method requiring the infernalist to corrupt her body through sin, suffering Fatigue or a Wound; uses Stamina.",
+  "evidence": [
+   "realms-of-power-the-infernal::0486",
+   "realms-of-power-the-infernal::0489",
+   "realms-of-power-the-infernal::0490"
+  ]
+ },
+ {
+  "name": "Incantation",
+  "type": "Ability",
+  "description": "Unholy Method of chanting words of power, costing a Confidence Point; uses Communication and allows use of vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0486",
+   "realms-of-power-the-infernal::0494",
+   "realms-of-power-the-infernal::0491"
+  ]
+ },
+ {
+  "name": "Consumption",
+  "type": "Ability",
+  "description": "Unholy Power drawing on the life and health of living beings to twist flesh or steal life.",
+  "evidence": [
+   "realms-of-power-the-infernal::0497",
+   "realms-of-power-the-infernal::0498",
+   "realms-of-power-the-infernal::0501"
+  ]
+ },
+ {
+  "name": "Diablerie",
+  "type": "Ability",
+  "description": "Unholy Power over supernatural realms and creatures, used to summon, resist and command demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0504",
+   "realms-of-power-the-infernal::0505",
+   "realms-of-power-the-infernal::0507"
+  ]
+ },
+ {
+  "name": "Effusion",
+  "type": "Ability",
+  "description": "Unholy Power letting infernalists affect the elements unnaturally without creating anything.",
+  "evidence": [
+   "realms-of-power-the-infernal::0510",
+   "realms-of-power-the-infernal::0511",
+   "realms-of-power-the-infernal::0513"
+  ]
+ },
+ {
+  "name": "Malediction",
+  "type": "Ability",
+  "description": "Unholy Power of curses, general via Incantation and destructive via Debauchery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0516",
+   "realms-of-power-the-infernal::0517",
+   "realms-of-power-the-infernal::0519"
+  ]
+ },
+ {
+  "name": "Phantasm",
+  "type": "Ability",
+  "description": "Unholy Power of illusions and perception, dispelled by the Divine.",
+  "evidence": [
+   "realms-of-power-the-infernal::0521",
+   "realms-of-power-the-infernal::0524",
+   "realms-of-power-the-infernal::0525"
+  ]
+ },
+ {
+  "name": "Psychomachia",
+  "type": "Ability",
+  "description": "Unholy Power over mind and emotions, making targets want to sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0528",
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0533"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "description": "Knowledge of the Infernal, added to seasonal maleficia rituals.",
+  "evidence": [
+   "realms-of-power-the-infernal::0490",
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Ability",
+  "description": "Supernatural Ability to tell good from evil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0491"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability used to maintain summoning circles and concentration.",
+  "evidence": [
+   "realms-of-power-the-infernal::0539",
+   "realms-of-power-the-infernal::0545",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Ability used in contested rolls when bargaining with spirits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0543",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Chthonic Magic",
+  "type": "Ability",
+  "description": "Supernatural Ability/Hermetic Virtue of low magic associated with underworld gods, attuning the magus to Magic and Infernal auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0584",
+   "realms-of-power-the-infernal::0586",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Ability",
+  "description": "Supernatural Ability of cursing, possessed by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0592",
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability for which Chthonic Magic may substitute in dark lab work.",
+  "evidence": [
+   "realms-of-power-the-infernal::0586",
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "description": "Hermetic protective ability; a sorcerer can lower his ward as a magus does his Parma.",
+  "evidence": [
+   "realms-of-power-the-infernal::0542",
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Ability to see through magical and faerie illusions.",
+  "evidence": [
+   "realms-of-power-the-infernal::0522",
+   "realms-of-power-the-infernal::0561",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Knowledge of the magic realm, possessed by Nicolai.",
+  "evidence": [
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability; unholy Methods may substitute for it in chthonic rituals.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0587"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Academic Ability; unholy Methods may substitute for it in chthonic rituals.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0587"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Academic Ability, corrupted in Richard of Glastonbury.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability, corrupted in Richard of Glastonbury.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Knowledge of the Church.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Legal knowledge Ability.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Knowledge of an area, used in scouring.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0541"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "description": "Knowledge of the Order.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Craft Hex Toys",
+  "type": "Ability",
+  "description": "Releganta's craft of making cursing wax figurines.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Craft Amulets",
+  "type": "Ability",
+  "description": "Supernatural Ability that eases making angelic amulets.",
+  "evidence": [
+   "realms-of-power-the-infernal::0585"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability used with Command the Vile Spirit.",
+  "evidence": [
+   "realms-of-power-the-infernal::0581"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "description": "Ability that could power a variant of Incantation using dissonant songs.",
+  "evidence": [
+   "realms-of-power-the-infernal::0495"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Hermetic Ability.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Language Ability.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Art",
+  "description": "Goetic Art of drawing a spirit into the sorcerer's presence within a circle.",
+  "evidence": [
+   "realms-of-power-the-infernal::0538",
+   "realms-of-power-the-infernal::0539",
+   "realms-of-power-the-infernal::0544"
+  ]
+ },
+ {
+  "name": "Ablating",
+  "type": "Art",
+  "description": "Goetic Art of tearing essence from a spirit, permanently reducing its Might; always an Infernal Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0538",
+   "realms-of-power-the-infernal::0546",
+   "realms-of-power-the-infernal::0548"
+  ]
+ },
+ {
+  "name": "Binding",
+  "type": "Art",
+  "description": "Goetic Art of changing a spirit so it becomes part of a person or thing.",
+  "evidence": [
+   "realms-of-power-the-infernal::0538",
+   "realms-of-power-the-infernal::0552",
+   "realms-of-power-the-infernal::0553"
+  ]
+ },
+ {
+  "name": "Commanding",
+  "type": "Art",
+  "description": "Goetic Art of issuing a command a spirit must obey.",
+  "evidence": [
+   "realms-of-power-the-infernal::0538",
+   "realms-of-power-the-infernal::0557",
+   "realms-of-power-the-infernal::0558"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form; maleficia count as Vim effects; demon-targeting spells use Vim.",
+  "evidence": [
+   "realms-of-power-the-infernal::0485",
+   "realms-of-power-the-infernal::0567",
+   "realms-of-power-the-infernal::0589"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique used to ward and command demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0567",
+   "realms-of-power-the-infernal::0580",
+   "realms-of-power-the-infernal::0589"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Technique used to destroy demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0567",
+   "realms-of-power-the-infernal::0578",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique used in Creo Vim demon spells.",
+  "evidence": [
+   "realms-of-power-the-infernal::0572",
+   "realms-of-power-the-infernal::0574"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique used in Intellego Vim demon spells.",
+  "evidence": [
+   "realms-of-power-the-infernal::0574"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Technique used in Muto Vim binding spells.",
+  "evidence": [
+   "realms-of-power-the-infernal::0574",
+   "realms-of-power-the-infernal::0576"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form; Releganta is Puissant in it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0592",
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form, requisite for Early Punishment for the Sinful Witch.",
+  "evidence": [
+   "realms-of-power-the-infernal::0576",
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Diabolist (Virtue)",
+  "type": "Virtue",
+  "description": "Free Special Virtue required of diabolists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0530",
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Summoner (Virtue)",
+  "type": "Virtue",
+  "description": "Free Special Virtue required of Summoners.",
+  "evidence": [
+   "realms-of-power-the-infernal::0565",
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "description": "Supernatural Virtue enabling magic; can be cursed or duplicated as a False Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0507",
+   "realms-of-power-the-infernal::0520",
+   "realms-of-power-the-infernal::0591"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "description": "Minor General Virtue option for diabolists and summoners.",
+  "evidence": [
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0561",
+   "realms-of-power-the-infernal::0565"
+  ]
+ },
+ {
+  "name": "Student of (Infernal)",
+  "type": "Virtue",
+  "description": "Minor General Virtue option for diabolists and summoners.",
+  "evidence": [
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0565"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue option for diabolists and summoners.",
+  "evidence": [
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0565"
+  ]
+ },
+ {
+  "name": "Demon Blood",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue.",
+  "evidence": [
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0565"
+  ]
+ },
+ {
+  "name": "Book Learner",
+  "type": "Virtue",
+  "description": "Virtue of Richard of Glastonbury.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "description": "Virtue that cannot be granted by Infernal blessing.",
+  "evidence": [
+   "realms-of-power-the-infernal::0509",
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Privileged Upbringing",
+  "type": "Virtue",
+  "description": "Virtue that cannot be granted by Infernal blessing.",
+  "evidence": [
+   "realms-of-power-the-infernal::0509"
+  ]
+ },
+ {
+  "name": "Good Teacher",
+  "type": "Virtue",
+  "description": "Virtue of Richard of Glastonbury.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Great Communication",
+  "type": "Virtue",
+  "description": "Virtue of Richard of Glastonbury.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0536"
+  ]
+ },
+ {
+  "name": "Great Intelligence",
+  "type": "Virtue",
+  "description": "Virtue granted to Richard as Infernal Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0536"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "description": "Virtue.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Virtue.",
+  "evidence": [
+   "realms-of-power-the-infernal::0536",
+   "realms-of-power-the-infernal::0561",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Affinity with (Ability)",
+  "type": "Virtue",
+  "description": "Virtue; binding a spirit lets a character learn its Abilities as if with Affinity.",
+  "evidence": [
+   "realms-of-power-the-infernal::0536",
+   "realms-of-power-the-infernal::0554"
+  ]
+ },
+ {
+  "name": "Puissant (Ability)",
+  "type": "Virtue",
+  "aliases": [
+   "Puissant Mentem",
+   "Puissant Perdo"
+  ],
+  "description": "Virtue granting bonus to an Ability or Art.",
+  "evidence": [
+   "realms-of-power-the-infernal::0536",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "description": "Virtue of Nicolai.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "description": "Virtue of Nicolai.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "description": "Virtue of Nicolai.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "description": "Virtue of Nicolai.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Virtue",
+  "description": "Virtue of Nicolai.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561",
+   "realms-of-power-the-infernal::0562"
+  ]
+ },
+ {
+  "name": "Good Characteristics",
+  "type": "Virtue",
+  "description": "Virtue for points spent on Characteristics.",
+  "evidence": [
+   "realms-of-power-the-infernal::0549"
+  ]
+ },
+ {
+  "name": "Diedne Magic",
+  "type": "Virtue",
+  "description": "Hermetic Virtue; with Chthonic Magic the lowest Art is tripled.",
+  "evidence": [
+   "realms-of-power-the-infernal::0588"
+  ]
+ },
+ {
+  "name": "Vengeful Powers",
+  "type": "Flaw",
+  "description": "Flaw causing evil consequences whenever Infernal powers are used virtuously.",
+  "evidence": [
+   "realms-of-power-the-infernal::0484",
+   "realms-of-power-the-infernal::0504"
+  ]
+ },
+ {
+  "name": "Tainted with Evil",
+  "type": "Flaw",
+  "description": "Minor Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0492",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Diabolic Past",
+  "type": "Flaw",
+  "description": "Major Story Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0531",
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0565"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "description": "Flaw magi with Infernal Power should take.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0566"
+  ]
+ },
+ {
+  "name": "Monastic Vows",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Delusion",
+  "type": "Flaw",
+  "description": "Flaw; Richard believes his Powers are not evil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0536"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534"
+  ]
+ },
+ {
+  "name": "Corrupted Abilities",
+  "type": "Flaw",
+  "description": "Flaw gained through Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0534",
+   "realms-of-power-the-infernal::0536"
+  ]
+ },
+ {
+  "name": "False Power",
+  "type": "Flaw",
+  "description": "Flaw making supernatural powers appear unholy; required for the False Gift.",
+  "evidence": [
+   "realms-of-power-the-infernal::0585",
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Flaw",
+  "description": "Flaw of Nicolai.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Outcast",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Oversensitive",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Social Handicap",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0561"
+  ]
+ },
+ {
+  "name": "Infamous Master",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0592",
+   "realms-of-power-the-infernal::0596"
+  ]
+ },
+ {
+  "name": "Lecherous",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "Overconfident",
+  "type": "Flaw",
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0592"
+  ]
+ },
+ {
+  "name": "These shall give their power and strength unto the beast",
+  "type": "Spell",
+  "description": "Debauchery/Consumption 20 ritual transferring Strength.",
+  "evidence": [
+   "realms-of-power-the-infernal::0497"
+  ]
+ },
+ {
+  "name": "A golden cup, full of abominations",
+  "type": "Spell",
+  "description": "Debauchery/Consumption 25 impregnating a woman with a man's seed.",
+  "evidence": [
+   "realms-of-power-the-infernal::0501",
+   "realms-of-power-the-infernal::0502"
+  ]
+ },
+ {
+  "name": "Break the body, bend the will / One can injure, one can kill",
+  "type": "Spell",
+  "description": "Incantation/Consumption 30 healing a target by wounding a victim.",
+  "evidence": [
+   "realms-of-power-the-infernal::0502"
+  ]
+ },
+ {
+  "name": "Cast away your mortal soul / And keep it safe in mortal bowl",
+  "type": "Spell",
+  "description": "Incantation/Consumption 50 transferring the caster's soul into a vis-containing vessel.",
+  "evidence": [
+   "realms-of-power-the-infernal::0502",
+   "realms-of-power-the-infernal::0503"
+  ]
+ },
+ {
+  "name": "And he causeth all to receive a mark",
+  "type": "Spell",
+  "description": "Debauchery/Diablerie 25 making an object an Arcane Connection to a creature.",
+  "evidence": [
+   "realms-of-power-the-infernal::0507"
+  ]
+ },
+ {
+  "name": "The image of the beast should speak",
+  "type": "Spell",
+  "description": "Debauchery/Diablerie 35 summoning a demon's image.",
+  "evidence": [
+   "realms-of-power-the-infernal::0507",
+   "realms-of-power-the-infernal::0508"
+  ]
+ },
+ {
+  "name": "And the dragon gave him his power",
+  "type": "Spell",
+  "description": "Incantation/Diablerie 40 Forsaken granting a Minor Virtue.",
+  "evidence": [
+   "realms-of-power-the-infernal::0508",
+   "realms-of-power-the-infernal::0509"
+  ]
+ },
+ {
+  "name": "The cage of every unclean and hateful bird",
+  "type": "Spell",
+  "description": "Incantation/Diablerie 50 enslaving a supernatural creature.",
+  "evidence": [
+   "realms-of-power-the-infernal::0509"
+  ]
+ },
+ {
+  "name": "The stone prepared, his gift to grant / With foulest craft he does enchant",
+  "type": "Spell",
+  "description": "Incantation/Effusion General preparing an object to hold maleficia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0511"
+  ]
+ },
+ {
+  "name": "Darkness has power over all things general / Weather and wind and all courses variable",
+  "type": "Spell",
+  "description": "Debauchery/Effusion 20 flying winds.",
+  "evidence": [
+   "realms-of-power-the-infernal::0511",
+   "realms-of-power-the-infernal::0512"
+  ]
+ },
+ {
+  "name": "Roll, you clouds, and thunder cry / And strike with flames from empty sky",
+  "type": "Spell",
+  "description": "Debauchery/Effusion 25 thunderstorm.",
+  "evidence": [
+   "realms-of-power-the-infernal::0515",
+   "realms-of-power-the-infernal::0516"
+  ]
+ },
+ {
+  "name": "I conjure this, by foul decree / In its same likeness unto me",
+  "type": "Spell",
+  "description": "Incantation/Effusion 25 summoning an object to the hand.",
+  "evidence": [
+   "realms-of-power-the-infernal::0516"
+  ]
+ },
+ {
+  "name": "As the vessels of a potter shall they be broken to shivers",
+  "type": "Spell",
+  "description": "Debauchery/Malediction 15 Medium Wound.",
+  "evidence": [
+   "realms-of-power-the-infernal::0517"
+  ]
+ },
+ {
+  "name": "The student must be forced to learn / and thus the worm begins to turn",
+  "type": "Spell",
+  "description": "Incantation/Malediction 20 bad-luck curse.",
+  "evidence": [
+   "realms-of-power-the-infernal::0517"
+  ]
+ },
+ {
+  "name": "Therefore shall all her plagues come in one day",
+  "type": "Spell",
+  "description": "Debauchery/Malediction 30 Cursed death curse.",
+  "evidence": [
+   "realms-of-power-the-infernal::0517",
+   "realms-of-power-the-infernal::0518"
+  ]
+ },
+ {
+  "name": "By evening ash and morning dew I send your charms away from you",
+  "type": "Spell",
+  "description": "Incantation/Malediction 50 removing a Major Virtue.",
+  "evidence": [
+   "realms-of-power-the-infernal::0518",
+   "realms-of-power-the-infernal::0520"
+  ]
+ },
+ {
+  "name": "For they are the spirits of devils, working miracles",
+  "type": "Spell",
+  "description": "Incantation/Phantasm 10 seeing through Infernal deception.",
+  "evidence": [
+   "realms-of-power-the-infernal::0521",
+   "realms-of-power-the-infernal::0522"
+  ]
+ },
+ {
+  "name": "Summon shapes of lustful need / And swiftly form a ghostly steed",
+  "type": "Spell",
+  "description": "Debauchery/Phantasm 20 phantasmal horse.",
+  "evidence": [
+   "realms-of-power-the-infernal::0522"
+  ]
+ },
+ {
+  "name": "I saw three unclean spirits, like frogs, out of the mouth of the dragon",
+  "type": "Spell",
+  "description": "Incantation/Phantasm 20 ominous vision.",
+  "evidence": [
+   "realms-of-power-the-infernal::0522",
+   "realms-of-power-the-infernal::0523"
+  ]
+ },
+ {
+  "name": "To stir the spirit, heart and fear / A shadow phantom hunts in here",
+  "type": "Spell",
+  "description": "Level 40 maleficium sending a phantasmal creature into a victim's mind.",
+  "evidence": [
+   "realms-of-power-the-infernal::0526",
+   "realms-of-power-the-infernal::0527"
+  ]
+ },
+ {
+  "name": "Babylon the great is fallen, and is become the habitation of devils",
+  "type": "Spell",
+  "description": "Debauchery/Psychomachia 15 tarnishing an Infernal aura.",
+  "evidence": [
+   "realms-of-power-the-infernal::0528"
+  ]
+ },
+ {
+  "name": "And the men had repented not of their deeds",
+  "type": "Spell",
+  "description": "Incantation/Psychomachia 10 sensing dominant emotion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0528"
+  ]
+ },
+ {
+  "name": "They shall make the whore desolate and naked, and shall eat her flesh",
+  "type": "Spell",
+  "description": "Debauchery/Psychomachia 45 group emotion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0528",
+   "realms-of-power-the-infernal::0529"
+  ]
+ },
+ {
+  "name": "I will make them of the synagogue of Satan; I will make them worship before thy feet",
+  "type": "Spell",
+  "description": "Incantation/Psychomachia 50 group command.",
+  "evidence": [
+   "realms-of-power-the-infernal::0529"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "description": "Standard demon-hunter spell stripping a demon of its Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0571",
+   "realms-of-power-the-infernal::0582"
+  ]
+ },
+ {
+  "name": "Circular Ward Against Demons",
+  "type": "Spell",
+  "description": "Standard demon-hunter ward that can also trap demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0571",
+   "realms-of-power-the-infernal::0572",
+   "realms-of-power-the-infernal::0582"
+  ]
+ },
+ {
+  "name": "Watching Ward",
+  "type": "Spell",
+  "description": "Spell used to trigger a prepared Circular Ward.",
+  "evidence": [
+   "realms-of-power-the-infernal::0571"
+  ]
+ },
+ {
+  "name": "Ward Against Demons",
+  "type": "Spell",
+  "description": "Arcane circle spell in which a summoned demon can be forced to appear.",
+  "evidence": [
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Fanning the Infernal Flames",
+  "type": "Spell",
+  "description": "CrVi Gen restoring a demon's Might Pool; known among infernalist magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0572"
+  ]
+ },
+ {
+  "name": "Plucking the Hair from the Billy Goat's Chin",
+  "type": "Spell",
+  "description": "CrVi 20 creating a temporary Arcane Connection to a demon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0572",
+   "realms-of-power-the-infernal::0573"
+  ]
+ },
+ {
+  "name": "Sulfurous Whispers",
+  "type": "Spell",
+  "description": "InVi 30 speaking with a demon via Arcane Connection.",
+  "evidence": [
+   "realms-of-power-the-infernal::0574"
+  ]
+ },
+ {
+  "name": "Early Punishment for the Sinful Witch",
+  "type": "Spell",
+  "description": "MuVi(Ig) Gen destroying an Infernal effect on an infernalist in white flame.",
+  "evidence": [
+   "realms-of-power-the-infernal::0576"
+  ]
+ },
+ {
+  "name": "The Wicked Jar",
+  "type": "Spell",
+  "description": "MuVi Gen binding a demon into a sealed jar.",
+  "evidence": [
+   "realms-of-power-the-infernal::0576",
+   "realms-of-power-the-infernal::0577"
+  ]
+ },
+ {
+  "name": "Bind the Devil's Hands",
+  "type": "Spell",
+  "description": "PeVi Gen hindering Infernal Powers in a room.",
+  "evidence": [
+   "realms-of-power-the-infernal::0578"
+  ]
+ },
+ {
+  "name": "Exorcise the Filthy Spirit",
+  "type": "Spell",
+  "description": "PeVi Gen reducing a possessing demon's Possession Might Pool.",
+  "evidence": [
+   "realms-of-power-the-infernal::0578"
+  ]
+ },
+ {
+  "name": "Lash of the Chastened Servant",
+  "type": "Spell",
+  "description": "PeVi 15 removing 5 Might from a demon; incurs suspicion of diabolism.",
+  "evidence": [
+   "realms-of-power-the-infernal::0578",
+   "realms-of-power-the-infernal::0579"
+  ]
+ },
+ {
+  "name": "Adjuration of the Hell-Sworn Spirit",
+  "type": "Spell",
+  "description": "ReVi 35 summoning a demon via its True Name.",
+  "evidence": [
+   "realms-of-power-the-infernal::0580"
+  ]
+ },
+ {
+  "name": "Cleanse the Verminous Vis",
+  "type": "Spell",
+  "description": "ReVi 15 transferring Infernal vis, reducing but not removing its taint.",
+  "evidence": [
+   "realms-of-power-the-infernal::0580",
+   "realms-of-power-the-infernal::0581"
+  ]
+ },
+ {
+  "name": "Command the Vile Spirit",
+  "type": "Spell",
+  "description": "ReVi 20 forcing a demon to obey.",
+  "evidence": [
+   "realms-of-power-the-infernal::0581"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Spell ineligible for Apotropaic Mastery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0582"
+  ]
+ },
+ {
+  "name": "Lifting the Dangling Puppet",
+  "type": "Spell",
+  "description": "ReCo 15 spell known by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Pilum of Fire",
+  "type": "Spell",
+  "description": "CrIg 20 spell known by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593"
+  ]
+ },
+ {
+  "name": "Loss of But a Moment's Memory",
+  "type": "Spell",
+  "description": "PeMe 15 spell known by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593",
+   "realms-of-power-the-infernal::0594"
+  ]
+ },
+ {
+  "name": "Blessing of Childlike Bliss",
+  "type": "Spell",
+  "description": "PeMe 25 spell known by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593",
+   "realms-of-power-the-infernal::0594"
+  ]
+ },
+ {
+  "name": "The Call to Slumber",
+  "type": "Spell",
+  "description": "ReMe 10 spell known by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593",
+   "realms-of-power-the-infernal::0594"
+  ]
+ },
+ {
+  "name": "Confusion of the Numbed Will",
+  "type": "Spell",
+  "description": "ReMe 15 spell known by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593",
+   "realms-of-power-the-infernal::0594"
+  ]
+ },
+ {
+  "name": "Wind of Mundane Silence",
+  "type": "Spell",
+  "description": "PeVi 20 spell known by Releganta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0593",
+   "realms-of-power-the-infernal::0594"
+  ]
+ },
+ {
+  "name": "Amulet bearing the sigils of angels",
+  "type": "Item",
+  "description": "Shape/material bonus item giving +7 to ward and banish demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0584",
+   "realms-of-power-the-infernal::0585"
+  ]
+ },
+ {
+  "name": "Hex Toys",
+  "type": "Item",
+  "aliases": [
+   "toys"
+  ],
+  "description": "Releganta's wax figurines crafted into Arcane Connections to punish people.",
+  "evidence": [
+   "realms-of-power-the-infernal::0595",
+   "realms-of-power-the-infernal::0596"
+  ]
+ },
+ {
+  "name": "Phylactery",
+  "type": "Item",
+  "description": "Shape/material bonus +5 protecting the wearer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0585"
+  ]
+ }
+]

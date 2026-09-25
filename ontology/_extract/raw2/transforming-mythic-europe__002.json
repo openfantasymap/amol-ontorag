@@ -1,0 +1,2816 @@
+[
+ {
+  "name": "Conjuring the Mystic Tower",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A spell which creates a single tower; filling larger underground areas requires a spell of greater complexity.",
+  "evidence": [
+   "transforming-mythic-europe::0241"
+  ]
+ },
+ {
+  "name": "A Network Reminiscent of Rome",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 20 ritual that creates a permanent stone road based roughly on Roman road dimensions, up to 3.78 miles long.",
+  "evidence": [
+   "transforming-mythic-europe::0244"
+  ]
+ },
+ {
+  "name": "Bridge of Wood",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Core spell (ArM5 p.135) cited as an example that creating a bridge needs no extra complexity magnitude.",
+  "evidence": [
+   "transforming-mythic-europe::0244"
+  ]
+ },
+ {
+  "name": "Creation of the Walls of Simple Cottages",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 20 ritual creating a series of identical stone cottage enclosures linked by thin stone so they count as an Individual target.",
+  "evidence": [
+   "transforming-mythic-europe::0246"
+  ]
+ },
+ {
+  "name": "Creation of a Legion of Appointed Cottages",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 30 ritual creating identical stone houses with roofs, floors, doors, shutters and plumbing, nine per casting.",
+  "evidence": [
+   "transforming-mythic-europe::0247"
+  ]
+ },
+ {
+  "name": "Creation of a Well-Appointed Town",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 30 ritual creating well-appointed cottages, the road between them and the water and sewage pipes within the road.",
+  "evidence": [
+   "transforming-mythic-europe::0248"
+  ]
+ },
+ {
+  "name": "A System of Narrow Canals",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 20 ritual creating a stone-lined canal network 2 paces deep and 5 wide, up to 1.26 miles long.",
+  "evidence": [
+   "transforming-mythic-europe::0251"
+  ]
+ },
+ {
+  "name": "Canals that Accommodate Seagoing Vessels",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 20 ritual creating a stone-lined canal wide and deep enough for seagoing ships, up to 909 paces long.",
+  "evidence": [
+   "transforming-mythic-europe::0252"
+  ]
+ },
+ {
+  "name": "The Creation of a Forest",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrHe 40 ritual that creates a thousand mature trees.",
+  "evidence": [
+   "transforming-mythic-europe::0255"
+  ]
+ },
+ {
+  "name": "The Creation of Acorns Aplenty",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrHe 20 ritual that creates a vast pile of acorns totaling 1,000 cubic paces.",
+  "evidence": [
+   "transforming-mythic-europe::0256"
+  ]
+ },
+ {
+  "name": "The Creation of Verdant Grassland",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrHe 10 ritual covering about 1.25 acres with thick grass a pace high.",
+  "evidence": [
+   "transforming-mythic-europe::0257"
+  ]
+ },
+ {
+  "name": "A Pile of Rotting Beef",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAn 35 spell creating ten cow carcasses of Sun duration, from whose decay natural bees are generated.",
+  "evidence": [
+   "transforming-mythic-europe::0260"
+  ]
+ },
+ {
+  "name": "Growth of Creeping Things",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell mentioned as an alternative way to generate bees, one of the insects created when destroying beef.",
+  "evidence": [
+   "transforming-mythic-europe::0260"
+  ]
+ },
+ {
+  "name": "A Careful Removal of a Perfect Landscape",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 35 ritual with Boundary target that slices off a piece of countryside and floats it through the air at a running horse's speed.",
+  "evidence": [
+   "transforming-mythic-europe::0261"
+  ]
+ },
+ {
+  "name": "The Second Remove of the Giant's Dance",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 35 ritual that uproots a structure such as Stonehenge and floats it through the air.",
+  "evidence": [
+   "transforming-mythic-europe::0263"
+  ]
+ },
+ {
+  "name": "Weather Made Good",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuAq 40 Boundary ritual preventing rain from falling on the island for a month.",
+  "evidence": [
+   "transforming-mythic-europe::0297"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Core ward ritual (ArM5 p.161), an obvious choice to cast around the whole island, though it may repel faeries.",
+  "evidence": [
+   "transforming-mythic-europe::0295"
+  ]
+ },
+ {
+  "name": "Circle of Beast Warding",
+  "type": "Spell",
+  "aliases": [
+   "Circle of Beat Warding"
+  ],
+  "description": "Core ward spell (ArM5 p.120) suggested as useful during individual stories on the island.",
+  "evidence": [
+   "transforming-mythic-europe::0295",
+   "transforming-mythic-europe::0296"
+  ]
+ },
+ {
+  "name": "Ward Against Faeries",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Family of elemental wards against faeries, suggested as useful during island stories.",
+  "evidence": [
+   "transforming-mythic-europe::0296"
+  ]
+ },
+ {
+  "name": "Ward Against the Beasts of Legend",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Core ward spell (ArM5 p.120) suggested as useful during individual stories.",
+  "evidence": [
+   "transforming-mythic-europe::0296"
+  ]
+ },
+ {
+  "name": "The Shrouded Glen",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ward spell that only works if the victim crosses the ward before seeing the island, requiring a marked boundary.",
+  "evidence": [
+   "transforming-mythic-europe::0303"
+  ]
+ },
+ {
+  "name": "The Command of Every Beast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAn 20 Boundary ritual letting the magus give a one-sentence command to every beast on the island.",
+  "evidence": [
+   "transforming-mythic-europe::0304"
+  ]
+ },
+ {
+  "name": "The Eyes of Every Beast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InAn 40 Boundary ritual letting the magus sense what the island's animals are seeing.",
+  "evidence": [
+   "transforming-mythic-europe::0305"
+  ]
+ },
+ {
+  "name": "Fumigant of Minor Demons",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeVi General Boundary ritual, a variant of Demon's Eternal Oblivion, destroying minor infernal spirits on the island.",
+  "evidence": [
+   "transforming-mythic-europe::0306"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Core spell (ArM5 p.160) of which Fumigant of Minor Demons is a variant.",
+  "evidence": [
+   "transforming-mythic-europe::0306"
+  ]
+ },
+ {
+  "name": "The Lost City",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeIm 45 Boundary ritual with Rego requisite that makes the island wall and everything within it invisible to outsiders.",
+  "evidence": [
+   "transforming-mythic-europe::0307"
+  ]
+ },
+ {
+  "name": "Murderous Woodland",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReHe 55 Boundary ritual that wakens every tree on the island to walk and fight on command.",
+  "evidence": [
+   "transforming-mythic-europe::0308"
+  ]
+ },
+ {
+  "name": "Remembered Messages",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuMe 20 Boundary ritual that replaces a prepared memory in everyone on the island with a single useful piece of information.",
+  "evidence": [
+   "transforming-mythic-europe::0309"
+  ]
+ },
+ {
+  "name": "Speech of the Warding Ring",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InTe 35 spell allowing characters to speak with far larger stones, such as the island's stone jacket.",
+  "evidence": [
+   "transforming-mythic-europe::0310"
+  ]
+ },
+ {
+  "name": "Stone Tell of the Mind that Sits",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Most popular Hermetic spell for interrogating rocks (ArM5 p.153), limited to a pace-sized target.",
+  "evidence": [
+   "transforming-mythic-europe::0310"
+  ]
+ },
+ {
+  "name": "Strange Tricks Using Canal Contents",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuAq 25 Boundary ritual transforming water in the island's canals into another natural liquid such as oil, wine or honey.",
+  "evidence": [
+   "transforming-mythic-europe::0311"
+  ]
+ },
+ {
+  "name": "A Spell for the Defense of the Realm Against Expected Invasion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuCo 50 Boundary ritual adding +3 Soak to all humans on the island for a day or night.",
+  "evidence": [
+   "transforming-mythic-europe::0312"
+  ]
+ },
+ {
+  "name": "Push of the Gentle Wave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Core spell (ArM5 p.124) that several faerie powers resemble, moving boats or swimmers with a current.",
+  "evidence": [
+   "transforming-mythic-europe::0287",
+   "transforming-mythic-europe::0299"
+  ]
+ },
+ {
+  "name": "Voice of the Lake",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Core spell (ArM5 p.122) that the faerie power Conversing with the Sea resembles.",
+  "evidence": [
+   "transforming-mythic-europe::0299"
+  ]
+ },
+ {
+  "name": "Stygian Waters",
+  "type": "Concept",
+  "aliases": [
+   "Stygian Mixture"
+  ],
+  "description": "Telechine power mixing Stygian water (Perdo vis) with sulfur to create a poison fatal to all men, beasts and plants.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0269"
+  ]
+ },
+ {
+  "name": "Toxic Visage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Telechine power whereby those who see the creature's true face die.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0269"
+  ]
+ },
+ {
+  "name": "Lord of Imaginem",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's Focus Power allowing any non-ritual Imaginem effect of level 40 or below.",
+  "evidence": [
+   "transforming-mythic-europe::0282",
+   "transforming-mythic-europe::0283"
+  ]
+ },
+ {
+  "name": "Distant Eidolon",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's power to create an illusory form to converse and deliver messages, giving him Arcane Connections.",
+  "evidence": [
+   "transforming-mythic-europe::0283"
+  ]
+ },
+ {
+  "name": "Extended Glamor",
+  "type": "Virtue",
+  "aliases": [
+   "Extend Glamor"
+  ],
+  "description": "Faerie power granting awareness of everything within a chosen domain and producing vis; lets faeries extend auras.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0283",
+   "transforming-mythic-europe::0284"
+  ]
+ },
+ {
+  "name": "Fleet of Woodchips or Rushes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's power creating an illusory fleet of a hundred crewed vessels to scare away invaders.",
+  "evidence": [
+   "transforming-mythic-europe::0284"
+  ]
+ },
+ {
+  "name": "Grant Lost Love Flaw",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's ritual power: shaking his cloak between two people ensures they never meet again.",
+  "evidence": [
+   "transforming-mythic-europe::0284"
+  ]
+ },
+ {
+  "name": "Growth and Shrinking",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's paired Focus Powers letting him alter his size with spells up to level 25.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0285"
+  ]
+ },
+ {
+  "name": "Manifestation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power manifesting consciousness among animals and plants within its glamour, simulating CrAn, ReAn, CrHe or ReHe effects.",
+  "evidence": [
+   "transforming-mythic-europe::0285"
+  ]
+ },
+ {
+  "name": "Shift Human Shapes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power allowing change of appearance to any human configuration, used by Manannan to roam the countryside.",
+  "evidence": [
+   "transforming-mythic-europe::0285",
+   "transforming-mythic-europe::0286"
+  ]
+ },
+ {
+  "name": "Spirit Away",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power allowing Manannan to act as threshold guardian and open gates into Faerie.",
+  "evidence": [
+   "transforming-mythic-europe::0284",
+   "transforming-mythic-europe::0286"
+  ]
+ },
+ {
+  "name": "Stroke of Death",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The power making Manannan's sword lethally sharp, an immediately fatal effect.",
+  "evidence": [
+   "transforming-mythic-europe::0282",
+   "transforming-mythic-europe::0286"
+  ]
+ },
+ {
+  "name": "Summon the Rider of the Waves",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's power, similar to Push of the Gentle Wave, to upturn boats or force ships away from the island.",
+  "evidence": [
+   "transforming-mythic-europe::0287"
+  ]
+ },
+ {
+  "name": "Transform into Impenetrable Fog",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's power to become a great cloud hiding the island.",
+  "evidence": [
+   "transforming-mythic-europe::0287"
+  ]
+ },
+ {
+  "name": "Transform into Tide",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's power to become the upper layer of the sea, carrying boats as he wishes.",
+  "evidence": [
+   "transforming-mythic-europe::0287"
+  ]
+ },
+ {
+  "name": "Transform into Thunderstorm",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's power to become a vast bank of thunderclouds driving winds and hail at foes.",
+  "evidence": [
+   "transforming-mythic-europe::0287"
+  ]
+ },
+ {
+  "name": "Transform into Wheel of Flame",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Manannan's power to transform into a wheel of flame, his most dangerous physical combat form.",
+  "evidence": [
+   "transforming-mythic-europe::0287",
+   "transforming-mythic-europe::0288"
+  ]
+ },
+ {
+  "name": "Crafter of Water",
+  "type": "Concept",
+  "aliases": [
+   "Crafter of Aquam"
+  ],
+  "description": "Power duplicating any Creo or Rego Aquam spell of level 35 or below at 1 Might per magnitude; possessed by Phorcys and the Elemental Spirit of the Waves.",
+  "evidence": [
+   "transforming-mythic-europe::0271",
+   "transforming-mythic-europe::0322"
+  ]
+ },
+ {
+  "name": "Master of Water",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Phorcys' power duplicating any Muto or Perdo Aquam spell of level 35 or below.",
+  "evidence": [
+   "transforming-mythic-europe::0271",
+   "transforming-mythic-europe::0272"
+  ]
+ },
+ {
+  "name": "Enliven the Gross Water",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Phorcys' ritual power to create and control a water elemental of Might up to 39.",
+  "evidence": [
+   "transforming-mythic-europe::0270",
+   "transforming-mythic-europe::0271"
+  ]
+ },
+ {
+  "name": "Damaging Effect",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power increasing the damage of a weapon or bite by +5, possessed by Auvekoejaks, icthyocentaurs and death sharks.",
+  "evidence": [
+   "transforming-mythic-europe::0298",
+   "transforming-mythic-europe::0314",
+   "transforming-mythic-europe::0319"
+  ]
+ },
+ {
+  "name": "Conversing with the Sea",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Auvekoejak power allowing them to ask questions of their local part of the ocean.",
+  "evidence": [
+   "transforming-mythic-europe::0299"
+  ]
+ },
+ {
+  "name": "Transform into Human",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Auvekoejak power to take human form, treated as a level 25 effect.",
+  "evidence": [
+   "transforming-mythic-europe::0299"
+  ]
+ },
+ {
+  "name": "Flight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power letting the Inverted fly in their boats and throw nets and javelins over supernatural distances.",
+  "evidence": [
+   "transforming-mythic-europe::0315",
+   "transforming-mythic-europe::0317"
+  ]
+ },
+ {
+  "name": "Hound",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Death shark power letting it know the distance and direction of a particular dying human.",
+  "evidence": [
+   "transforming-mythic-europe::0319"
+  ]
+ },
+ {
+  "name": "Drown",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Elemental Spirit of the Waves power to engulf a smaller target after a melee hit, forcing deprivation rolls.",
+  "evidence": [
+   "transforming-mythic-europe::0320",
+   "transforming-mythic-europe::0322"
+  ]
+ },
+ {
+  "name": "Coagulation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demonic power manufacturing a solid body from ambient unformed matter; forced to be abandoned on Holy Saturday.",
+  "evidence": [
+   "transforming-mythic-europe::0354",
+   "transforming-mythic-europe::0357",
+   "transforming-mythic-europe::0359"
+  ]
+ },
+ {
+  "name": "Envisioning",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demonic power to appear in and distort mortal dreams.",
+  "evidence": [
+   "transforming-mythic-europe::0354",
+   "transforming-mythic-europe::0357"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demonic power imposing a temporary sinful Personality trait that may become permanent.",
+  "evidence": [
+   "transforming-mythic-europe::0354",
+   "transforming-mythic-europe::0357"
+  ]
+ },
+ {
+  "name": "His Master's Voice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rumael's power to summon lesser demons without controlling them.",
+  "evidence": [
+   "transforming-mythic-europe::0357"
+  ]
+ },
+ {
+  "name": "Master of Storm and Sea",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rumael's power to create Creo, Muto or Rego effects affecting storms and water.",
+  "evidence": [
+   "transforming-mythic-europe::0357"
+  ]
+ },
+ {
+  "name": "Shroud the Stench of the Pit",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rumael's power making an Infernal power appear magical, faerie or mundane.",
+  "evidence": [
+   "transforming-mythic-europe::0357"
+  ]
+ },
+ {
+  "name": "The Wealth of Nations",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rumael's power summoning up to 40 pounds of gold from wherever its absence causes most trouble.",
+  "evidence": [
+   "transforming-mythic-europe::0357",
+   "transforming-mythic-europe::0358"
+  ]
+ },
+ {
+  "name": "Dexithea",
+  "type": "Character",
+  "aliases": [],
+  "description": "A telechine, the last surviving of the titan smiths, who dwells deep in the sea and can craft magic items; Magic Might 45.",
+  "evidence": [
+   "transforming-mythic-europe::0266",
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0269"
+  ]
+ },
+ {
+  "name": "Telechines",
+  "type": "Creature",
+  "aliases": [
+   "Telechine"
+  ],
+  "description": "A small group of titans, wizards and smiths who fought for the Olympians, made Cronus' sickle and Poseidon's trident, then created a deadly poison.",
+  "evidence": [
+   "transforming-mythic-europe::0266",
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0269"
+  ]
+ },
+ {
+  "name": "Blood of the Telechines",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Heritage granting +1 Dexterity and an extra Major Virtue (usually Ways of the Waters), with the Supernatural Nuisance Flaw.",
+  "evidence": [
+   "transforming-mythic-europe::0269",
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Phorcys",
+  "type": "Character",
+  "aliases": [
+   "Aspect of Phorcys"
+  ],
+  "description": "Lord of the Barren Sea before Poseidon, god of death in the sea and father of sea monsters; an Aspect of him is a Magic spirit of Might 40.",
+  "evidence": [
+   "transforming-mythic-europe::0269",
+   "transforming-mythic-europe::0270",
+   "transforming-mythic-europe::0272"
+  ]
+ },
+ {
+  "name": "Poseidon",
+  "type": "Character",
+  "aliases": [
+   "Posideon"
+  ],
+  "description": "Olympian sea god, ally and possibly foster-son of the telechines, who usurped Phorcys' kingdom.",
+  "evidence": [
+   "transforming-mythic-europe::0266",
+   "transforming-mythic-europe::0270",
+   "transforming-mythic-europe::0356"
+  ]
+ },
+ {
+  "name": "Athena",
+  "type": "Character",
+  "aliases": [],
+  "description": "Olympian whose followers invaded Rhodes, home of the telechines.",
+  "evidence": [
+   "transforming-mythic-europe::0266"
+  ]
+ },
+ {
+  "name": "Cronus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titan whose sickle was created by the telechines.",
+  "evidence": [
+   "transforming-mythic-europe::0266"
+  ]
+ },
+ {
+  "name": "Olympians",
+  "type": "Faction",
+  "aliases": [
+   "Olympian Faeries"
+  ],
+  "description": "The Olympian gods who destroyed the telechines' fortress; faeries claiming Olympian descent hate telechines.",
+  "evidence": [
+   "transforming-mythic-europe::0266",
+   "transforming-mythic-europe::0269",
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Titanomachy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The war of titans and Olympians in which the telechines fought on the Olympian side.",
+  "evidence": [
+   "transforming-mythic-europe::0266"
+  ]
+ },
+ {
+  "name": "Manannan Mac Lir",
+  "type": "Character",
+  "aliases": [
+   "Manannan",
+   "Mannanan"
+  ],
+  "description": "Irish faerie sovereign and wizard-king, once god of Irish sailors and the Isle of Man; a shapeshifter with Faerie Might 55.",
+  "evidence": [
+   "transforming-mythic-europe::0280",
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0288"
+  ]
+ },
+ {
+  "name": "Tursus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Almost a faerie god of northern merfolk, lord of seal beaches, likely to accompany invading Norse; Faerie Might 40.",
+  "evidence": [
+   "transforming-mythic-europe::0280",
+   "transforming-mythic-europe::0290",
+   "transforming-mythic-europe::0291"
+  ]
+ },
+ {
+  "name": "Auvekoejaks",
+  "type": "Creature",
+  "aliases": [
+   "Auvekojaks"
+  ],
+  "description": "Vicious tribe of northern merfolk, minions of Tursus, seal or walrus from the waist down, who never run out of javelins.",
+  "evidence": [
+   "transforming-mythic-europe::0290",
+   "transforming-mythic-europe::0297",
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Frangarach",
+  "type": "Item",
+  "aliases": [
+   "Answerer",
+   "Fatal Sword"
+  ],
+  "description": "Manannan's sword, the Answerer, which always kills his opponent.",
+  "evidence": [
+   "transforming-mythic-europe::0289"
+  ]
+ },
+ {
+  "name": "Wave Sweeper",
+  "type": "Item",
+  "aliases": [],
+  "description": "Manannan's ship, which travels as swiftly as he wishes regardless of the wind.",
+  "evidence": [
+   "transforming-mythic-europe::0289"
+  ]
+ },
+ {
+  "name": "Enbarr",
+  "type": "Item",
+  "aliases": [
+   "Splendid Mane"
+  ],
+  "description": "Manannan's horse, Splendid Mane, which runs faster than the wind and trots across water.",
+  "evidence": [
+   "transforming-mythic-europe::0289"
+  ]
+ },
+ {
+  "name": "Breastplate of Manannan",
+  "type": "Item",
+  "aliases": [],
+  "description": "Manannan's breastplate that no weapon can pierce, Protection +20, resizing to his forms.",
+  "evidence": [
+   "transforming-mythic-europe::0282",
+   "transforming-mythic-europe::0289"
+  ]
+ },
+ {
+  "name": "Cloak of Manannan",
+  "type": "Item",
+  "aliases": [],
+  "description": "Manannan's cloak that can be any color, make him invisible, shelter a place in fog and prevent two people meeting again.",
+  "evidence": [
+   "transforming-mythic-europe::0289",
+   "transforming-mythic-europe::0284"
+  ]
+ },
+ {
+  "name": "Crane Skin Bag",
+  "type": "Item",
+  "aliases": [],
+  "description": "Manannan's bag of crane skin containing the External Vis Sources of dozens of dead Irish gods.",
+  "evidence": [
+   "transforming-mythic-europe::0289"
+  ]
+ },
+ {
+  "name": "Cup of Truth",
+  "type": "Item",
+  "aliases": [],
+  "description": "Manannan's cup which breaks if a lie is told by one who drinks from it.",
+  "evidence": [
+   "transforming-mythic-europe::0290"
+  ]
+ },
+ {
+  "name": "Helmet of Invisibility",
+  "type": "Item",
+  "aliases": [],
+  "description": "Helmet which, according to some, grants Manannan perfect invisibility (PeIm 40 effect).",
+  "evidence": [
+   "transforming-mythic-europe::0290"
+  ]
+ },
+ {
+  "name": "Treasures of Manannan",
+  "type": "Item",
+  "aliases": [],
+  "description": "Manannan's four or five magic items, which he may lend and which return to him if lost.",
+  "evidence": [
+   "transforming-mythic-europe::0288",
+   "transforming-mythic-europe::0289"
+  ]
+ },
+ {
+  "name": "Tir Tairngire",
+  "type": "Place",
+  "aliases": [
+   "Land of Promise",
+   "Emain Ablach",
+   "Isle of Apples",
+   "Isle of Women",
+   "Avalon"
+  ],
+  "description": "Manannan's realm, the Land of Promise, also called Emain Ablach, the Isle of Apples or Avalon.",
+  "evidence": [
+   "transforming-mythic-europe::0280",
+   "transforming-mythic-europe::0281"
+  ]
+ },
+ {
+  "name": "Isle of Arran",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island where a faerie once held Manannan's court; now claimed by a covenant of Criamon magi studying regiones.",
+  "evidence": [
+   "transforming-mythic-europe::0280"
+  ]
+ },
+ {
+  "name": "Covenant on the Isle of Arran",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant of Criamon magi studying regiones who can show the path to Manannan's realm.",
+  "evidence": [
+   "transforming-mythic-europe::0280"
+  ]
+ },
+ {
+  "name": "Isle of Man",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island of which Manannan was god until cast out by Saint Patrick; subject of a Grand Tribunal ruling on Tribunal membership.",
+  "evidence": [
+   "transforming-mythic-europe::0280",
+   "transforming-mythic-europe::0342"
+  ]
+ },
+ {
+  "name": "Icthyocentaurs",
+  "type": "Creature",
+  "aliases": [
+   "Icthyocentaur Warriors"
+  ],
+  "description": "Faerie tribe of amphibious, armored centaurs mimicking chivalric knights; can serve as companions.",
+  "evidence": [
+   "transforming-mythic-europe::0312",
+   "transforming-mythic-europe::0313",
+   "transforming-mythic-europe::0315"
+  ]
+ },
+ {
+  "name": "The Inverted",
+  "type": "Creature",
+  "aliases": [
+   "Inverted Fishers",
+   "Inverted Men"
+  ],
+  "description": "Merfolk-derived faeries placed on land who sail sky-boats and net birds as fishers do fish.",
+  "evidence": [
+   "transforming-mythic-europe::0315",
+   "transforming-mythic-europe::0316",
+   "transforming-mythic-europe::0318"
+  ]
+ },
+ {
+  "name": "Death Shark",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Psychopompic faerie shark, white with red eyes, that waits in the shallows until a sea-connected person dies.",
+  "evidence": [
+   "transforming-mythic-europe::0318",
+   "transforming-mythic-europe::0319"
+  ]
+ },
+ {
+  "name": "Elemental Spirit of the Waves",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Potent water elemental possibly penned inside the island's wall, dying and furious; Magic Might 35.",
+  "evidence": [
+   "transforming-mythic-europe::0319",
+   "transforming-mythic-europe::0320",
+   "transforming-mythic-europe::0322"
+  ]
+ },
+ {
+  "name": "Merfolk",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Aquatic faeries found in the North Sea, described in Realms of Power: Faerie.",
+  "evidence": [
+   "transforming-mythic-europe::0312",
+   "transforming-mythic-europe::0325",
+   "transforming-mythic-europe::0297"
+  ]
+ },
+ {
+  "name": "Selkies",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Seal faeries of the North Sea able to come onto land.",
+  "evidence": [
+   "transforming-mythic-europe::0312",
+   "transforming-mythic-europe::0325"
+  ]
+ },
+ {
+  "name": "Rumael",
+  "type": "Character",
+  "aliases": [
+   "The False Neptune"
+  ],
+  "description": "Demon posing as Neptune, creator and destroyer of Atlantis; Lord of the False Gods, patron of a kingdom that no longer exists; Infernal Might 40.",
+  "evidence": [
+   "transforming-mythic-europe::0356",
+   "transforming-mythic-europe::0357",
+   "transforming-mythic-europe::0358"
+  ]
+ },
+ {
+  "name": "Neptune",
+  "type": "Character",
+  "aliases": [],
+  "description": "Sea god whom Rumael falsely claims to be.",
+  "evidence": [
+   "transforming-mythic-europe::0356"
+  ]
+ },
+ {
+  "name": "The Wicked Boys of the Third Square",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Race of tiny demons with horse heads serving Rumael, who wreck things and steal beer and hats.",
+  "evidence": [
+   "transforming-mythic-europe::0356",
+   "transforming-mythic-europe::0359"
+  ]
+ },
+ {
+  "name": "False Gods",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Demonic order to which Rumael belongs, accompanied by animals that extend their bodies.",
+  "evidence": [
+   "transforming-mythic-europe::0356",
+   "transforming-mythic-europe::0358"
+  ]
+ },
+ {
+  "name": "Watchers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demons said to have fallen when they married into the Race of Men; possibly appointed to subvert kingdoms.",
+  "evidence": [
+   "transforming-mythic-europe::0353"
+  ]
+ },
+ {
+  "name": "Atlantis",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary realm reported by the Greeks and ruled by Poseidon, which Rumael claims to have created and destroyed.",
+  "evidence": [
+   "transforming-mythic-europe::0356"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Sorcerer who moved Stonehenge from Ireland as the grave marker of Uther Pendragon.",
+  "evidence": [
+   "transforming-mythic-europe::0262",
+   "transforming-mythic-europe::0263"
+  ]
+ },
+ {
+  "name": "Uther Pendragon",
+  "type": "Character",
+  "aliases": [],
+  "description": "King whose grave marker Stonehenge was, moved by Merlin.",
+  "evidence": [
+   "transforming-mythic-europe::0262",
+   "transforming-mythic-europe::0263"
+  ]
+ },
+ {
+  "name": "Brutus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Prince of the Trojans who used the Stone of London as an altar to Diana on landing in Britain.",
+  "evidence": [
+   "transforming-mythic-europe::0261",
+   "transforming-mythic-europe::0262"
+  ]
+ },
+ {
+  "name": "Diana",
+  "type": "Character",
+  "aliases": [],
+  "description": "Goddess to whom the Stone of London was an altar.",
+  "evidence": [
+   "transforming-mythic-europe::0261",
+   "transforming-mythic-europe::0262"
+  ]
+ },
+ {
+  "name": "Stone of London",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ancient stone in London said to be linked to the city's prosperity, a powerful tether for sovereignty magic.",
+  "evidence": [
+   "transforming-mythic-europe::0261",
+   "transforming-mythic-europe::0262"
+  ]
+ },
+ {
+  "name": "Stonehenge",
+  "type": "Place",
+  "aliases": [
+   "Giants' Dance"
+  ],
+  "description": "Monument of petrified giants moved from Ireland by Merlin, called the Giants' Dance.",
+  "evidence": [
+   "transforming-mythic-europe::0262",
+   "transforming-mythic-europe::0263"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Stonehenge"
+  ],
+  "description": "Tribunal bordering the North Sea, not yet defined in this edition, leaving room for troupe factions.",
+  "evidence": [
+   "transforming-mythic-europe::0336",
+   "transforming-mythic-europe::0345"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Normandy"
+  ],
+  "description": "Turbulent Tribunal full of Tytalus magi, with feudal covenant relations and contests over a common prize pool.",
+  "evidence": [
+   "transforming-mythic-europe::0336",
+   "transforming-mythic-europe::0345",
+   "transforming-mythic-europe::0347"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Rhineland",
+   "The Rhine"
+  ],
+  "description": "Factional Tribunal split between conservative covenants and the Lotharingian group seeking secession.",
+  "evidence": [
+   "transforming-mythic-europe::0336",
+   "transforming-mythic-europe::0345",
+   "transforming-mythic-europe::0346"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Loch Leglean"
+  ],
+  "description": "Tribunal whose insular magi a North Sea covenant might choose to join.",
+  "evidence": [
+   "transforming-mythic-europe::0336",
+   "transforming-mythic-europe::0346"
+  ]
+ },
+ {
+  "name": "Lotharingians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group of northern Rhineland covenants wishing to break away and form a new Tribunal.",
+  "evidence": [
+   "transforming-mythic-europe::0345",
+   "transforming-mythic-europe::0346"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House with many magi in Normandy, currently divided between two claimants for leadership.",
+  "evidence": [
+   "transforming-mythic-europe::0345",
+   "transforming-mythic-europe::0347",
+   "transforming-mythic-europe::0348"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House whose magi spread stories of wizards and awaits Blessed Cyprian's miracle.",
+  "evidence": [
+   "transforming-mythic-europe::0288",
+   "transforming-mythic-europe::0344"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House; Criamon magi claim the Isle of Arran and Saint Nerius was a Criamon.",
+  "evidence": [
+   "transforming-mythic-europe::0280",
+   "transforming-mythic-europe::0344"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcap"
+  ],
+  "description": "Hermetic messengers; the Redcaps of London would resist removal of the Stone of London.",
+  "evidence": [
+   "transforming-mythic-europe::0262",
+   "transforming-mythic-europe::0279"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigators whose concerns must be settled when founding the new realm.",
+  "evidence": [
+   "transforming-mythic-europe::0300",
+   "transforming-mythic-europe::0301"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Order-wide Tribunal whose rulings (e.g. on the Isle of Man) set precedent for Tribunal membership and creation.",
+  "evidence": [
+   "transforming-mythic-europe::0342",
+   "transforming-mythic-europe::0346",
+   "transforming-mythic-europe::0347"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Regional Hermetic governing bodies; the North Sea is treated as a natural border between them.",
+  "evidence": [
+   "transforming-mythic-europe::0342",
+   "transforming-mythic-europe::0345",
+   "transforming-mythic-europe::0261"
+  ]
+ },
+ {
+  "name": "Dedication",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Legal recognition of a covenant as a place given a particular task, drawing specialists from across the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0264"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magical duel that may be used to force Tytalus settlers off the island.",
+  "evidence": [
+   "transforming-mythic-europe::0347"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Order of Hermetic magi, drawn upon for specialists and governed by Tribunals.",
+  "evidence": [
+   "transforming-mythic-europe::0264",
+   "transforming-mythic-europe::0346"
+  ]
+ },
+ {
+  "name": "Saint Brendan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Patron of Irish sailors and arguably intercessor for islands in the Ocean.",
+  "evidence": [
+   "transforming-mythic-europe::0344"
+  ]
+ },
+ {
+  "name": "Blessed Cyprian",
+  "type": "Character",
+  "aliases": [],
+  "description": "Penitent magician who may perform a miracle to be recognized as a saint, long awaited by House Jerbiton.",
+  "evidence": [
+   "transforming-mythic-europe::0344"
+  ]
+ },
+ {
+  "name": "Saint Nerius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Criamon magus, saint of pious magi, not recognized by the Church.",
+  "evidence": [
+   "transforming-mythic-europe::0344"
+  ]
+ },
+ {
+  "name": "Saint Nicholas",
+  "type": "Character",
+  "aliases": [],
+  "description": "Patron of sailors, followed in some traditions by a little demon that torments naughty children.",
+  "evidence": [
+   "transforming-mythic-europe::0344"
+  ]
+ },
+ {
+  "name": "Saint Patrick",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who cast Manannan out of the Isle of Man and overcame the druids.",
+  "evidence": [
+   "transforming-mythic-europe::0280",
+   "transforming-mythic-europe::0350"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king whose treasure was lost in a tidal surge crossing the Wash.",
+  "evidence": [
+   "transforming-mythic-europe::0279",
+   "transforming-mythic-europe::0333"
+  ]
+ },
+ {
+  "name": "Treasure of King John",
+  "type": "Item",
+  "aliases": [],
+  "description": "King John's baggage train lost in the Wash; a small gold crown fragment may serve as an Arcane Connection to the rest.",
+  "evidence": [
+   "transforming-mythic-europe::0279"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Holy Roman Emperor based in Sicily, patron of arts, nearly atheist, a possible overlord for the island's king.",
+  "evidence": [
+   "transforming-mythic-europe::0328"
+  ]
+ },
+ {
+  "name": "Isabella II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Seven-year-old Queen of Jerusalem in Outremer, a possible sovereign for the island.",
+  "evidence": [
+   "transforming-mythic-europe::0329"
+  ]
+ },
+ {
+  "name": "Philip Augustus",
+  "type": "Character",
+  "aliases": [
+   "Phillip"
+  ],
+  "description": "King of France and great master of politics in Western Europe, perpetually seeking land for his sons.",
+  "evidence": [
+   "transforming-mythic-europe::0330"
+  ]
+ },
+ {
+  "name": "Philip Hurepel",
+  "type": "Character",
+  "aliases": [],
+  "description": "Nineteen-year-old landless son of Philip Augustus who might be appointed ruler.",
+  "evidence": [
+   "transforming-mythic-europe::0330"
+  ]
+ },
+ {
+  "name": "Richard, Duke of Cornwall",
+  "type": "Character",
+  "aliases": [],
+  "description": "Teenage brother of Henry III, a gifted administrator who in real history buys the title of Holy Roman Emperor.",
+  "evidence": [
+   "transforming-mythic-europe::0331"
+  ]
+ },
+ {
+  "name": "Henry III",
+  "type": "Character",
+  "aliases": [
+   "King Henry of England"
+  ],
+  "description": "Young King of England whose realm is run by a Council of Regency; had to repeat his coronation.",
+  "evidence": [
+   "transforming-mythic-europe::0331",
+   "transforming-mythic-europe::0338",
+   "transforming-mythic-europe::0351"
+  ]
+ },
+ {
+  "name": "Valdemar II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Expansionist crusader King of Denmark with Baltic territories.",
+  "evidence": [
+   "transforming-mythic-europe::0332"
+  ]
+ },
+ {
+  "name": "William Longespee",
+  "type": "Character",
+  "aliases": [
+   "William Longsword",
+   "William Longespée"
+  ],
+  "description": "Earl of Salisbury, bastard son of Henry II, a loyal general and naval raider, enemy of Peter de Roches.",
+  "evidence": [
+   "transforming-mythic-europe::0333",
+   "transforming-mythic-europe::0334"
+  ]
+ },
+ {
+  "name": "Henry II",
+  "type": "Character",
+  "aliases": [],
+  "description": "King who praised his bastard son William Longespee.",
+  "evidence": [
+   "transforming-mythic-europe::0333"
+  ]
+ },
+ {
+  "name": "Richard the Lionheart",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legitimate son of Henry II.",
+  "evidence": [
+   "transforming-mythic-europe::0333"
+  ]
+ },
+ {
+  "name": "Earl of Norfolk",
+  "type": "Character",
+  "aliases": [],
+  "description": "Powerful English noble facing the North Sea, husband of William Longespee's mother.",
+  "evidence": [
+   "transforming-mythic-europe::0333"
+  ]
+ },
+ {
+  "name": "Peter de Roches",
+  "type": "Character",
+  "aliases": [],
+  "description": "Churchman who has care of the young king and all but rules England; hates William Longespee.",
+  "evidence": [
+   "transforming-mythic-europe::0333"
+  ]
+ },
+ {
+  "name": "Normans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "English families who came over with the Conqueror, in fragile peace with the Poitevins.",
+  "evidence": [
+   "transforming-mythic-europe::0333",
+   "transforming-mythic-europe::0334"
+  ]
+ },
+ {
+  "name": "Poitevins",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Faction who came to England with King John's wife and are currently ascendant.",
+  "evidence": [
+   "transforming-mythic-europe::0333",
+   "transforming-mythic-europe::0334"
+  ]
+ },
+ {
+  "name": "Plantagenet",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Royal family of England, not known for patience.",
+  "evidence": [
+   "transforming-mythic-europe::0331"
+  ]
+ },
+ {
+  "name": "Patrick, Count of Dunbar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Powerful noble with lands on both sides of the Anglo-Scottish border, claiming descent from Duncan.",
+  "evidence": [
+   "transforming-mythic-europe::0335"
+  ]
+ },
+ {
+  "name": "Malcolm Big-Head",
+  "type": "Character",
+  "aliases": [
+   "Malcom Big-Head"
+  ],
+  "description": "Ancestor of the current Scottish royal line, who defeated MacBeth.",
+  "evidence": [
+   "transforming-mythic-europe::0335"
+  ]
+ },
+ {
+  "name": "MacBeth the Good",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scottish king defeated by Malcolm Big-Head.",
+  "evidence": [
+   "transforming-mythic-europe::0335"
+  ]
+ },
+ {
+  "name": "Lulach the Unready",
+  "type": "Character",
+  "aliases": [],
+  "description": "Adopted son of MacBeth.",
+  "evidence": [
+   "transforming-mythic-europe::0335"
+  ]
+ },
+ {
+  "name": "Duncan Bad Blooded",
+  "type": "Character",
+  "aliases": [],
+  "description": "MacBeth's predecessor, claimed ancestor of the Earls of Dunbar.",
+  "evidence": [
+   "transforming-mythic-europe::0335"
+  ]
+ },
+ {
+  "name": "Jon Haraldsson",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mormaer of Caithness and Earl of Orkney, holding land from Scotland and Norway; implicated in burning a bishop.",
+  "evidence": [
+   "transforming-mythic-europe::0336"
+  ]
+ },
+ {
+  "name": "Bishop Adam",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bishop of Caithness, possibly a faerie, found as a baby in a basket and killed over a butter tax.",
+  "evidence": [
+   "transforming-mythic-europe::0336"
+  ]
+ },
+ {
+  "name": "Pandulf Marca",
+  "type": "Character",
+  "aliases": [],
+  "description": "Italian-born bishop of Norwich, papal legate and chairman of England's Council of Regency, known for nepotism.",
+  "evidence": [
+   "transforming-mythic-europe::0350",
+   "transforming-mythic-europe::0351"
+  ]
+ },
+ {
+  "name": "James the Legate",
+  "type": "Character",
+  "aliases": [
+   "James"
+  ],
+  "description": "Papal chaplain linked to Saint Victor in Paris, appointed legate to Scotland and the Isles in 1220; an Augustinian.",
+  "evidence": [
+   "transforming-mythic-europe::0352"
+  ]
+ },
+ {
+  "name": "Council of Regency",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Council which runs England on behalf of Henry III, chaired by Pandulf.",
+  "evidence": [
+   "transforming-mythic-europe::0351"
+  ]
+ },
+ {
+  "name": "Augustinian Order",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Religious order of which the legate James is a member.",
+  "evidence": [
+   "transforming-mythic-europe::0352"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "aliases": [
+   "Roman Church"
+  ],
+  "description": "The Roman Church, claiming universal power in Mythic Europe, with which the new kingdom must come to terms.",
+  "evidence": [
+   "transforming-mythic-europe::0343",
+   "transforming-mythic-europe::0348",
+   "transforming-mythic-europe::0350"
+  ]
+ },
+ {
+  "name": "Jews",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Western Jewish communities who might flee persecution to the magical country.",
+  "evidence": [
+   "transforming-mythic-europe::0337",
+   "transforming-mythic-europe::0338"
+  ]
+ },
+ {
+  "name": "North Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Shallow sea chosen as the site for the magical island, a natural border between Hermetic Tribunals.",
+  "evidence": [
+   "transforming-mythic-europe::0323",
+   "transforming-mythic-europe::0324",
+   "transforming-mythic-europe::0342"
+  ]
+ },
+ {
+  "name": "Dogger Bank",
+  "type": "Place",
+  "aliases": [],
+  "description": "Shallowest part of the North Sea and a rich fishing ground whose destruction would cause famine and war.",
+  "evidence": [
+   "transforming-mythic-europe::0270",
+   "transforming-mythic-europe::0324",
+   "transforming-mythic-europe::0325"
+  ]
+ },
+ {
+  "name": "Dover Strait",
+  "type": "Place",
+  "aliases": [
+   "Dover Straight"
+  ],
+  "description": "Strait averaging 33 paces deep.",
+  "evidence": [
+   "transforming-mythic-europe::0324"
+  ]
+ },
+ {
+  "name": "Shetland Islands",
+  "type": "Place",
+  "aliases": [],
+  "description": "Islands marking the northern limit of the shallower North Sea.",
+  "evidence": [
+   "transforming-mythic-europe::0324"
+  ]
+ },
+ {
+  "name": "London",
+  "type": "Place",
+  "aliases": [],
+  "description": "City containing the Stone of London, with its Redcaps and faerie courts.",
+  "evidence": [
+   "transforming-mythic-europe::0261",
+   "transforming-mythic-europe::0262"
+  ]
+ },
+ {
+  "name": "Rhodes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the telechines, invaded by followers of Athena.",
+  "evidence": [
+   "transforming-mythic-europe::0266"
+  ]
+ },
+ {
+  "name": "The Wash",
+  "type": "Place",
+  "aliases": [],
+  "description": "Estuary where King John's baggage train was lost in a tidal surge.",
+  "evidence": [
+   "transforming-mythic-europe::0279"
+  ]
+ },
+ {
+  "name": "Alexandria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Canal city praised for the purity of its air.",
+  "evidence": [
+   "transforming-mythic-europe::0249"
+  ]
+ },
+ {
+  "name": "Ravenna",
+  "type": "Place",
+  "aliases": [],
+  "description": "Canal city praised for the purity of its air.",
+  "evidence": [
+   "transforming-mythic-europe::0249"
+  ]
+ },
+ {
+  "name": "Atlantic Ocean",
+  "type": "Place",
+  "aliases": [],
+  "description": "The epitomic Ocean, with majestic waves that may provide a weak aura tether.",
+  "evidence": [
+   "transforming-mythic-europe::0273"
+  ]
+ },
+ {
+  "name": "Irish Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sea around which faeries claiming Manannan's role are found.",
+  "evidence": [
+   "transforming-mythic-europe::0280"
+  ]
+ },
+ {
+  "name": "Outremer",
+  "type": "Place",
+  "aliases": [],
+  "description": "The crusader east where Isabella II resides.",
+  "evidence": [
+   "transforming-mythic-europe::0329"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "aliases": [],
+  "description": "Center of Frederick II's power.",
+  "evidence": [
+   "transforming-mythic-europe::0328"
+  ]
+ },
+ {
+  "name": "Debatable Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Borderland between England and Scotland where Patrick of Dunbar acts as judge.",
+  "evidence": [
+   "transforming-mythic-europe::0335"
+  ]
+ },
+ {
+  "name": "Nidaros",
+  "type": "Place",
+  "aliases": [
+   "Trondheim"
+  ],
+  "description": "Norwegian archiepiscopal see, now Trondheim, claiming authority over Scottish bishops.",
+  "evidence": [
+   "transforming-mythic-europe::0349",
+   "transforming-mythic-europe::0350"
+  ]
+ },
+ {
+  "name": "Saint Victor",
+  "type": "Place",
+  "aliases": [],
+  "description": "Church in Paris to which the legate James is linked.",
+  "evidence": [
+   "transforming-mythic-europe::0352"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aura connected to the Magic Realm, developing via natural beauty, ancient structures, great rituals or magical creatures.",
+  "evidence": [
+   "transforming-mythic-europe::0265",
+   "transforming-mythic-europe::0266",
+   "transforming-mythic-europe::0277"
+  ]
+ },
+ {
+  "name": "Faerie Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aura created by powerful faeries, aiding spellcasting and lab work.",
+  "evidence": [
+   "transforming-mythic-europe::0294",
+   "transforming-mythic-europe::0284"
+  ]
+ },
+ {
+  "name": "Magical Tether",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystical link that anchors an aura; created by rituals of level 45+, age of structures, or natural beauty.",
+  "evidence": [
+   "transforming-mythic-europe::0266",
+   "transforming-mythic-europe::0274",
+   "transforming-mythic-europe::0275"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power which forms in Magic auras and is scarce on a newly created island.",
+  "evidence": [
+   "transforming-mythic-europe::0277",
+   "transforming-mythic-europe::0278",
+   "transforming-mythic-europe::0294"
+  ]
+ },
+ {
+  "name": "Tainted Vis",
+  "type": "Concept",
+  "aliases": [
+   "Vis Sordida"
+  ],
+  "description": "Vis sordida of Infernal origin that adds to casting totals but adds botch dice and sinful traits.",
+  "evidence": [
+   "transforming-mythic-europe::0358",
+   "transforming-mythic-europe::0359"
+  ]
+ },
+ {
+  "name": "Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic spells required for permanent creations and Boundary targets, minimum level 20, needing vis.",
+  "evidence": [
+   "transforming-mythic-europe::0244",
+   "transforming-mythic-europe::0246",
+   "transforming-mythic-europe::0303"
+  ]
+ },
+ {
+  "name": "Boundary",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spell target covering an area within a marked boundary; the island's wall serves as one.",
+  "evidence": [
+   "transforming-mythic-europe::0295",
+   "transforming-mythic-europe::0303"
+  ]
+ },
+ {
+  "name": "Ring and Circle Wards",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Wards traced as a ring, difficult to cast around an island.",
+  "evidence": [
+   "transforming-mythic-europe::0295"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link to a target used in magic; a fragment of King John's treasure might be one.",
+  "evidence": [
+   "transforming-mythic-europe::0279",
+   "transforming-mythic-europe::0283",
+   "transforming-mythic-europe::0286"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magic resistance, which does not resist Manannan's flaming form damage.",
+  "evidence": [
+   "transforming-mythic-europe::0282",
+   "transforming-mythic-europe::0286"
+  ]
+ },
+ {
+  "name": "Spirit of Place",
+  "type": "Creature",
+  "aliases": [
+   "Genius Loci"
+  ],
+  "description": "Spirit tied to a location's aura, resisting its theft; Genius Loci in Realms of Power: Magic.",
+  "evidence": [
+   "transforming-mythic-europe::0263",
+   "transforming-mythic-europe::0264"
+  ]
+ },
+ {
+  "name": "External Vis Source",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Virtue holding a faerie's vis in external treasures; Manannan's bag holds those of dead Irish gods.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0289"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance to supernatural effects; kings gain some from coronation.",
+  "evidence": [
+   "transforming-mythic-europe::0320",
+   "transforming-mythic-europe::0341"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Faerie realm and faerie beings, which follow settlers and bring vis and auras.",
+  "evidence": [
+   "transforming-mythic-europe::0284",
+   "transforming-mythic-europe::0286",
+   "transforming-mythic-europe::0294"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power to which areas of great natural beauty are innately connected.",
+  "evidence": [
+   "transforming-mythic-europe::0260",
+   "transforming-mythic-europe::0266"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Infernal realm of demons, whose hierarchy vies over the new kingdom.",
+  "evidence": [
+   "transforming-mythic-europe::0306",
+   "transforming-mythic-europe::0353",
+   "transforming-mythic-europe::0358"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine realm's influence, which Manannan cannot face down.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0348"
+  ]
+ },
+ {
+  "name": "Coronation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Elaborate ceremony, involving bishops, a great church and anointing, required to establish a new king.",
+  "evidence": [
+   "transforming-mythic-europe::0338",
+   "transforming-mythic-europe::0339",
+   "transforming-mythic-europe::0340"
+  ]
+ },
+ {
+  "name": "Papal Legate",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Envoy with most of the powers of the Pope, sent to distant realms.",
+  "evidence": [
+   "transforming-mythic-europe::0350",
+   "transforming-mythic-europe::0352"
+  ]
+ },
+ {
+  "name": "Demon Weakness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Each demon's vulnerability, knowable with Infernal Lore, which forces flight or prevents harm to a protected group.",
+  "evidence": [
+   "transforming-mythic-europe::0354",
+   "transforming-mythic-europe::0355",
+   "transforming-mythic-europe::0358"
+  ]
+ },
+ {
+  "name": "Ways of the Waters",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting bonuses in water, usual extra Major Virtue for telechine blood.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0269",
+   "transforming-mythic-europe::0320"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw held by telechine descendants and Phorcys.",
+  "evidence": [
+   "transforming-mythic-europe::0269",
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Magic Human",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Dexithea marking her as a Magic being in human form.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Death Prophecy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Dexithea.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Strong Willed",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Dexithea.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Dexithea and Phorcys.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Plagued by Olympian Faeries",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Dexithea's flaw reflecting enmity of Olympian faeries.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw held by Dexithea and Phorcys.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Good Teacher",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue of Dexithea.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Great Characteristic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue raising characteristics, held by Dexithea and Phorcys.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue raising characteristics.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0270",
+   "transforming-mythic-europe::0313"
+  ]
+ },
+ {
+  "name": "Keen Vision",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue of Dexithea.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Puissant Smith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Dexithea's minor Virtue boosting Craft: Smith.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue of Dexithea.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Ways of the Deep Earth",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue of Dexithea.",
+  "evidence": [
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Magic Spirit",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Phorcys' essential nature as a spirit of Magic.",
+  "evidence": [
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Phorcys' Virtue marking him as an aspect of a greater being.",
+  "evidence": [
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "No Fatigue",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Quality freeing a creature from fatigue.",
+  "evidence": [
+   "transforming-mythic-europe::0270",
+   "transforming-mythic-europe::0320"
+  ]
+ },
+ {
+  "name": "Huge",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue increasing Size, held by Manannan, Tursus and icthyocentaurs.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0291",
+   "transforming-mythic-europe::0313"
+  ]
+ },
+ {
+  "name": "Highly Cognizant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue of Manannan.",
+  "evidence": [
+   "transforming-mythic-europe::0281"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue held by Manannan, Tursus and other faeries.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0291",
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue and Pretense for speaking.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0291",
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Increased Might",
+  "type": "Virtue",
+  "aliases": [
+   "Increased Faerie Might"
+  ],
+  "description": "Faerie Virtue raising Might.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0291"
+  ]
+ },
+ {
+  "name": "Sight Beyond Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue of Manannan.",
+  "evidence": [
+   "transforming-mythic-europe::0281"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie Flaw; Manannan's against the Dominion, Tursus' against Norse sea chants.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0291"
+  ]
+ },
+ {
+  "name": "Grant Major Virtue",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue letting the creature grant Virtues or items to mortals.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0281"
+  ]
+ },
+ {
+  "name": "Greater Faerie Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue granting a greater power.",
+  "evidence": [
+   "transforming-mythic-europe::0281",
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Quality allowing spell-like use of a whole category of effects.",
+  "evidence": [
+   "transforming-mythic-europe::0267",
+   "transforming-mythic-europe::0270",
+   "transforming-mythic-europe::0281"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Tursus and needed by icthyocentaurs.",
+  "evidence": [
+   "transforming-mythic-europe::0291",
+   "transforming-mythic-europe::0313"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie Flaw of lacking full awareness, common among the faeries here.",
+  "evidence": [
+   "transforming-mythic-europe::0291",
+   "transforming-mythic-europe::0298",
+   "transforming-mythic-europe::0318"
+  ]
+ },
+ {
+  "name": "Hybrid Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue of half-human forms.",
+  "evidence": [
+   "transforming-mythic-europe::0298",
+   "transforming-mythic-europe::0313"
+  ]
+ },
+ {
+  "name": "Personal Faerie Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue held by Auvekoejaks.",
+  "evidence": [
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Restricted Might",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Auvekoejak flaw restricting Might on land.",
+  "evidence": [
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Sovereign Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie Flaw; broken codes can destroy the faerie.",
+  "evidence": [
+   "transforming-mythic-europe::0298",
+   "transforming-mythic-europe::0313",
+   "transforming-mythic-europe::0316"
+  ]
+ },
+ {
+  "name": "Aloof",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie Flaw of Auvekoejaks.",
+  "evidence": [
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Feast of the Dead",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue suitable for Auvekoejak companions.",
+  "evidence": [
+   "transforming-mythic-europe::0297",
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue granting a lesser power.",
+  "evidence": [
+   "transforming-mythic-europe::0313",
+   "transforming-mythic-europe::0316",
+   "transforming-mythic-europe::0318"
+  ]
+ },
+ {
+  "name": "Humanoid Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue of the Inverted.",
+  "evidence": [
+   "transforming-mythic-europe::0316"
+  ]
+ },
+ {
+  "name": "Monstrous Form",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Death shark flaw.",
+  "evidence": [
+   "transforming-mythic-europe::0318"
+  ]
+ },
+ {
+  "name": "Magic Thing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Nature of the Elemental Spirit of the Waves.",
+  "evidence": [
+   "transforming-mythic-europe::0320"
+  ]
+ },
+ {
+  "name": "Poor Memory",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Elemental Spirit of the Waves.",
+  "evidence": [
+   "transforming-mythic-europe::0320"
+  ]
+ },
+ {
+  "name": "Short Attention Span",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Elemental Spirit of the Waves.",
+  "evidence": [
+   "transforming-mythic-europe::0320"
+  ]
+ },
+ {
+  "name": "Simple Minded",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Elemental Spirit of the Waves.",
+  "evidence": [
+   "transforming-mythic-europe::0320"
+  ]
+ },
+ {
+  "name": "Temporary Magical Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Quality whereby wounds reduce the elemental's Might pool.",
+  "evidence": [
+   "transforming-mythic-europe::0320"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw cited as causing predictable breaches of secrecy.",
+  "evidence": [
+   "transforming-mythic-europe::0302"
+  ]
+ },
+ {
+  "name": "Gently Gifted",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue letting magi rule directly without the Gift's social penalty.",
+  "evidence": [
+   "transforming-mythic-europe::0302"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0261",
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0261",
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0286"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0355"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0351"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0295"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0305"
+  ]
+ },
+ {
+  "name": "Craft: Smith",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0271",
+   "transforming-mythic-europe::0313"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0271"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0291",
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0271"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0315"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0288"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0315"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0315",
+   "transforming-mythic-europe::0318"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0315",
+   "transforming-mythic-europe::0319"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0291"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0291"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0288"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0271"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in creature statistics or rolls in this text.",
+  "evidence": [
+   "transforming-mythic-europe::0356"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0242",
+   "transforming-mythic-europe::0256"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0263",
+   "transforming-mythic-europe::0307"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0271"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0260",
+   "transforming-mythic-europe::0268"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0305"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0242",
+   "transforming-mythic-europe::0243",
+   "transforming-mythic-europe::0267"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0254"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0268",
+   "transforming-mythic-europe::0270"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0260",
+   "transforming-mythic-europe::0298"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0283"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0285",
+   "transforming-mythic-europe::0311"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0263",
+   "transforming-mythic-europe::0264"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0287",
+   "transforming-mythic-europe::0318"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0287"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used in this text's spells and powers.",
+  "evidence": [
+   "transforming-mythic-europe::0283",
+   "transforming-mythic-europe::0354"
+  ]
+ }
+]

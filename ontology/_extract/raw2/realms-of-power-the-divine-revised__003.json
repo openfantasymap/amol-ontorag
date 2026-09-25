@@ -1,0 +1,3344 @@
+[
+ {
+  "name": "Holy Societates",
+  "type": "Faction",
+  "aliases": [
+   "Holy Societas"
+  ],
+  "description": "Traditions that teach Holy Magic as a favored Ability, typically associated with the Order of Hermes, which can train Gifted and unGifted holy magi.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0360",
+   "realms-of-power-the-divine-revised::0361"
+  ]
+ },
+ {
+  "name": "Sol Invictus",
+  "type": "Faction",
+  "aliases": [
+   "Cult of Sol Invictus",
+   "Invicti",
+   "Invictine magi"
+  ],
+  "description": "A holy societas descended from a Roman monotheistic sun cult worshipping Deus Sol Invictus; its Gifted members joined House Jerbiton and practice holy magic in 1220.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0361",
+   "realms-of-power-the-divine-revised::0365",
+   "realms-of-power-the-divine-revised::0366"
+  ]
+ },
+ {
+  "name": "Deus Sol Invictus",
+  "type": "Concept",
+  "description": "The 'unconquered sun', the name of the one God worshipped by the Sol Invictus cult, proclaimed official deity of Rome under Elagabalus and Aurelian.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0361",
+   "realms-of-power-the-divine-revised::0362",
+   "realms-of-power-the-divine-revised::0441"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Virtue",
+  "description": "Supernatural capacity for magic aligned with the Divine; Holy Societates teach it as a favored Ability and it is required to adopt a holy societas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0360",
+   "realms-of-power-the-divine-revised::0361",
+   "realms-of-power-the-divine-revised::0366"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Ability",
+  "description": "A holy power Ability listed among the favored Abilities of Sol Invictus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0361"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "description": "A holy power Ability listed among the favored Abilities of Sol Invictus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0361"
+  ]
+ },
+ {
+  "name": "Invocation",
+  "type": "Ability",
+  "description": "A holy power Ability listed among the favored Abilities of Sol Invictus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0361"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of Hermetic magi; Holy Societates are typically associated with it, and the Church has no unified opinion of it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0360",
+   "realms-of-power-the-divine-revised::0364",
+   "realms-of-power-the-divine-revised::0396"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "description": "Hermetic House which invited Gifted Invicti to join during the expansion following the Founding.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0365"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "description": "A pagan cult, unfriendly to the Invicti, whose disintegration parallels the founding of the Order of Hermes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0365",
+   "realms-of-power-the-divine-revised::0369"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "The inborn capacity for Hermetic magic; several Invicti possessed it and joined the Order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0365",
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "Elagabalus",
+  "type": "Character",
+  "description": "Roman emperor who declared Sol Invictus the State religion in the early third century and was removed four years later.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0362",
+   "realms-of-power-the-divine-revised::0364"
+  ]
+ },
+ {
+  "name": "Aurelian",
+  "type": "Character",
+  "description": "Roman emperor from 270, son of a Sol priestess, who proclaimed Deus Sol Invictus the official deity and built a temple and college in Rome.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0362"
+  ]
+ },
+ {
+  "name": "Constantine",
+  "type": "Character",
+  "aliases": [
+   "Emperor Constantine"
+  ],
+  "description": "Roman emperor who supported Sol Invictus early, then converted to Christianity after seeing a glowing cross in 312 and made it the Empire's religion.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0363",
+   "realms-of-power-the-divine-revised::0375"
+  ]
+ },
+ {
+  "name": "Plutarch",
+  "type": "Character",
+  "description": "Ancient writer who told of a seer proclaiming that 'Great Pan is dead'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0361"
+  ]
+ },
+ {
+  "name": "Pan",
+  "type": "Character",
+  "aliases": [
+   "Great Pan"
+  ],
+  "description": "Pagan god whose reported death convinced Romans their gods were not immortal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0361"
+  ]
+ },
+ {
+  "name": "Emesa",
+  "type": "Place",
+  "description": "Syrian city where the Sol cultists kept a hidden temple with relics from Elagabalus' reign; liberated by Crusaders in 1110.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0363",
+   "realms-of-power-the-divine-revised::0364"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "Seat of the pope and center of Christ's Church; site of Aurelian's sun temple and where the Invicti revived services.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0362",
+   "realms-of-power-the-divine-revised::0364",
+   "realms-of-power-the-divine-revised::0416"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "The realm of power of God; Sol Invictus is aligned with it and theologians associate Purgatory with it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0362",
+   "realms-of-power-the-divine-revised::0401"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "The realm of Hell and demons, recognized by the Invicti; some suggest Purgatory is a lesser circle of it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0364",
+   "realms-of-power-the-divine-revised::0401"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "description": "Realm of power recognized by the Invicti as distinct from Faerie and Infernal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0364"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie",
+   "fay"
+  ],
+  "description": "Realm of the fay; the Invicti must molest faeries, a Hermetic crime, and faerie powers may ignore Dominion penalties during Christmas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0364",
+   "realms-of-power-the-divine-revised::0365",
+   "realms-of-power-the-divine-revised::0373"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "description": "The Divine aura of Christian civilization, which lowers on holiday eves, is reduced by interdiction, and can be tempered by holy influence.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0368",
+   "realms-of-power-the-divine-revised::0373",
+   "realms-of-power-the-divine-revised::0389"
+  ]
+ },
+ {
+  "name": "Holy Church",
+  "type": "Faction",
+  "aliases": [
+   "The Church",
+   "Latin Church"
+  ],
+  "description": "The Christian Church, the most influential institution in Mythic Europe, divided into secular and regular clergy and between Latin West and Greek East.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0367",
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0413"
+  ]
+ },
+ {
+  "name": "Christianity",
+  "type": "Concept",
+  "description": "The dominant religion of Mythic Europe in 1220, shaping every aspect of mundane society.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0367",
+   "realms-of-power-the-divine-revised::0368",
+   "realms-of-power-the-divine-revised::0390"
+  ]
+ },
+ {
+  "name": "Jesus Christ",
+  "type": "Character",
+  "aliases": [
+   "Christ",
+   "Jesus"
+  ],
+  "description": "The Son of God, crucified, resurrected and ascended into heaven, whose life is commemorated by Christian holy days.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0370",
+   "realms-of-power-the-divine-revised::0390",
+   "realms-of-power-the-divine-revised::0461"
+  ]
+ },
+ {
+  "name": "Shepherd of Hermas",
+  "type": "Item",
+  "description": "Early Christian text (c. 140 A.D.) quoted describing a vision of the Church as an aged lady.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0367"
+  ]
+ },
+ {
+  "name": "Hermas",
+  "type": "Character",
+  "description": "Narrator of the Shepherd of Hermas who has a vision of the Church as an aged lady.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0367"
+  ]
+ },
+ {
+  "name": "Sibyl",
+  "type": "Character",
+  "description": "Figure Hermas mistakenly believes the aged woman of his vision to be.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0367"
+  ]
+ },
+ {
+  "name": "Ars Notoria",
+  "type": "Ability",
+  "aliases": [
+   "Notory Art"
+  ],
+  "description": "The Notory Art of King Solomon; a Supernatural (also Academic and Arcane) Ability reciting orations called the Rings of Solomon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0368",
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "King Solomon",
+  "type": "Character",
+  "aliases": [
+   "Solomon"
+  ],
+  "description": "Biblical king from whom the Christian rituals of wisdom and learning of Ars Notoria are handed down.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0368"
+  ]
+ },
+ {
+  "name": "Pope Innocent III",
+  "type": "Character",
+  "aliases": [
+   "Innocent III"
+  ],
+  "description": "Pope who opened the Fourth Lateran Council in 1215, placed England under interdict in 1208, and declared a Crusade against the Cathars in 1209.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0369",
+   "realms-of-power-the-divine-revised::0388",
+   "realms-of-power-the-divine-revised::0411"
+  ]
+ },
+ {
+  "name": "Fourth Lateran Council",
+  "type": "Concept",
+  "description": "Church council of 1215 ruling that every Christian must take penance and the Eucharist yearly or be excommunicated.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0369",
+   "realms-of-power-the-divine-revised::0380"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The Ars Magica setting of Europe in 1220 A.D., essentially Christendom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0368",
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0390"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "Holy city where the Church began at Pentecost; taken by the First Crusade and recaptured by Saladin in 1187.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0370",
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0432"
+  ]
+ },
+ {
+  "name": "Twelve Apostles",
+  "type": "Faction",
+  "aliases": [
+   "apostles"
+  ],
+  "description": "The apostles who spread the story of Jesus Christ after Pentecost.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0370"
+  ]
+ },
+ {
+  "name": "St. Paul",
+  "type": "Character",
+  "aliases": [
+   "Saint Paul"
+  ],
+  "description": "Apostle whose letters form part of the New Testament; greater saint and patron of Greece.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0370",
+   "realms-of-power-the-divine-revised::0393",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St. John the Evangelist",
+  "type": "Character",
+  "aliases": [
+   "St. John"
+  ],
+  "description": "Apostle whose apocalyptic revelations close the New Testament; greater saint and patron of Asia Minor, friendship, and writers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0370",
+   "realms-of-power-the-divine-revised::0439",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "The Bible",
+  "type": "Item",
+  "aliases": [
+   "Scriptures",
+   "New Testament",
+   "Old Testament"
+  ],
+  "description": "Christian Scriptures of Old and New Testaments; a Summa on Theology (Level 10, Quality 3) and Church Lore (Level 3, Quality 3).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0370",
+   "realms-of-power-the-divine-revised::0438",
+   "realms-of-power-the-divine-revised::0439"
+  ]
+ },
+ {
+  "name": "Easter",
+  "type": "Concept",
+  "description": "The most important Christian holy day, celebrating Christ's resurrection, on the first Sunday after the first full moon after the spring equinox.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0371"
+  ]
+ },
+ {
+  "name": "Palm Sunday",
+  "type": "Concept",
+  "description": "The Sunday before Easter, recognizing Jesus' arrival in Jerusalem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0371"
+  ]
+ },
+ {
+  "name": "Good Friday",
+  "type": "Concept",
+  "description": "Day of mourning commemorating Christ's death on the cross.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0371",
+   "realms-of-power-the-divine-revised::0372"
+  ]
+ },
+ {
+  "name": "Lent",
+  "type": "Concept",
+  "description": "Forty-day season of fasting before Easter, sometimes thought of as a spiritual tithe.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0372"
+  ]
+ },
+ {
+  "name": "Pentecost",
+  "type": "Concept",
+  "aliases": [
+   "Whitsunday"
+  ],
+  "description": "Celebration fifty days after Easter of the Holy Ghost appearing to the apostles; also called Whitsunday.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0370",
+   "realms-of-power-the-divine-revised::0372"
+  ]
+ },
+ {
+  "name": "All Saints' Day",
+  "type": "Concept",
+  "aliases": [
+   "All Hallows' Day"
+  ],
+  "description": "Feast on 1 November remembering all the saints.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0372",
+   "realms-of-power-the-divine-revised::0373",
+   "realms-of-power-the-divine-revised::0459"
+  ]
+ },
+ {
+  "name": "All Hallows' Eve",
+  "type": "Concept",
+  "description": "Eve of All Saints' Day, reputed particularly evil as spirits and demons tempt those outdoors.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0373"
+  ]
+ },
+ {
+  "name": "Christmas",
+  "type": "Concept",
+  "description": "Feast of Christ's nativity on December 25, beginning a twelve-day holy season during which realm boundaries blur.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0373",
+   "realms-of-power-the-divine-revised::0363"
+  ]
+ },
+ {
+  "name": "Epiphany",
+  "type": "Concept",
+  "description": "Feast on January 6 of the Apparition of the Magi, ending the Christmas season.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0373",
+   "realms-of-power-the-divine-revised::0363"
+  ]
+ },
+ {
+  "name": "Holy Innocents Day",
+  "type": "Concept",
+  "description": "December 28 feast when children are sometimes allowed to run the Church.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0373"
+  ]
+ },
+ {
+  "name": "Feast of Fools",
+  "type": "Concept",
+  "description": "Celebration on January 1 reversing traditional roles such as bishop and jester.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0373"
+  ]
+ },
+ {
+  "name": "Natalis Invicti",
+  "type": "Concept",
+  "description": "Day honoring the sun god's birth (December 25), adopted for the celebration of Christ's birth.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0363"
+  ]
+ },
+ {
+  "name": "Holy War",
+  "type": "Concept",
+  "description": "Christian doctrine of religiously sanctioned war, developing from Augustine's just war into crusade doctrine.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0375",
+   "realms-of-power-the-divine-revised::0376"
+  ]
+ },
+ {
+  "name": "St. Augustine of Hippo",
+  "type": "Character",
+  "aliases": [
+   "St Augustine"
+  ],
+  "description": "Church father (354-430) who enunciated a theory of just war and wrote The City of God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0376",
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "Pope Gregory VII",
+  "type": "Character",
+  "description": "Pope (d. 1085) who enunciated a holy war theory underlying the Crusade.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0376"
+  ]
+ },
+ {
+  "name": "Pope Urban II",
+  "type": "Character",
+  "aliases": [
+   "Urban II"
+  ],
+  "description": "Pope who preached the First Crusade at the Council of Clermont in 1095.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0376",
+   "realms-of-power-the-divine-revised::0431",
+   "realms-of-power-the-divine-revised::0432"
+  ]
+ },
+ {
+  "name": "Council of Clermont",
+  "type": "Concept",
+  "description": "1095 council where Urban II called for the First Crusade.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0376",
+   "realms-of-power-the-divine-revised::0432"
+  ]
+ },
+ {
+  "name": "Crusades",
+  "type": "Concept",
+  "description": "Church-sanctioned holy wars to regain the Holy Land, of which four have struck by 1220.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0388",
+   "realms-of-power-the-divine-revised::0431"
+  ]
+ },
+ {
+  "name": "First Crusade",
+  "type": "Concept",
+  "description": "Crusade from 1095 that found the Holy Lance, took Jerusalem and founded the Latin Kingdom of Jerusalem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0407",
+   "realms-of-power-the-divine-revised::0432"
+  ]
+ },
+ {
+  "name": "Second Crusade",
+  "type": "Concept",
+  "description": "Crusade after the fall of Edessa in 1144 that accomplished little besides the capture of Lisbon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Third Crusade",
+  "type": "Concept",
+  "description": "Crusade led by Frederick Barbarossa, Philip II and Richard I after Saladin recaptured Jerusalem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Fourth Crusade",
+  "type": "Concept",
+  "description": "1204 crusade diverted by the Venetians to sack Constantinople, sealing the East-West division.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0434"
+  ]
+ },
+ {
+  "name": "Albigensian Crusade",
+  "type": "Concept",
+  "description": "Crusade against the Cathars in Southern France declared by Innocent III in 1209.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0411"
+  ]
+ },
+ {
+  "name": "Inquisition",
+  "type": "Faction",
+  "description": "Church institution whose founding soon follows the Albigensian crusade.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379"
+  ]
+ },
+ {
+  "name": "Pope Zacharias",
+  "type": "Character",
+  "description": "Eighth-century pope who allied with Pepin the Short.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377"
+  ]
+ },
+ {
+  "name": "Pepin the Short",
+  "type": "Character",
+  "description": "Frankish ruler who restored the pope to power over the Papal States.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "description": "Son of Pepin crowned Holy Roman Emperor in 800, strengthening Western Europe.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377"
+  ]
+ },
+ {
+  "name": "Papal States",
+  "type": "Place",
+  "description": "Territories over which Pepin restored papal power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "Seat of the Eastern patriarchate, sacked by the Fourth Crusade in 1204.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377",
+   "realms-of-power-the-divine-revised::0427",
+   "realms-of-power-the-divine-revised::0434"
+  ]
+ },
+ {
+  "name": "Byzantium",
+  "type": "Place",
+  "aliases": [
+   "Byzantine Empire"
+  ],
+  "description": "The Eastern Christian empire, separated from the Latin Church and now reluctantly under a Western patriarch.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377",
+   "realms-of-power-the-divine-revised::0425",
+   "realms-of-power-the-divine-revised::0434"
+  ]
+ },
+ {
+  "name": "Treaty of Verdun",
+  "type": "Concept",
+  "description": "843 treaty dividing the Frankish empire.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377"
+  ]
+ },
+ {
+  "name": "Great Schism",
+  "type": "Concept",
+  "description": "The schism between Latin and Greek Churches, complete by about 1054.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0378",
+   "realms-of-power-the-divine-revised::0426",
+   "realms-of-power-the-divine-revised::0427"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "description": "New emperor who promised to lead another crusade from Germany.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379"
+  ]
+ },
+ {
+  "name": "Franciscans",
+  "type": "Faction",
+  "aliases": [
+   "Franciscan friars"
+  ],
+  "description": "Order of friars founded by Francis preaching poverty and living by charity in towns.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0437",
+   "realms-of-power-the-divine-revised::0438"
+  ]
+ },
+ {
+  "name": "Dominicans",
+  "type": "Faction",
+  "aliases": [
+   "Dominican friars"
+  ],
+  "description": "Order of friars founded by Dominic to combat heresy, with chapters at Paris, Bologna, Rome.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0437"
+  ]
+ },
+ {
+  "name": "St. Thomas Aquinas",
+  "type": "Character",
+  "description": "Theologian who will write the Summa Theologiae later in the thirteenth century.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0380"
+  ]
+ },
+ {
+  "name": "Summa Theologiae",
+  "type": "Item",
+  "description": "Theological work by Thomas Aquinas to be written later in the 13th century.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0380"
+  ]
+ },
+ {
+  "name": "Dante",
+  "type": "Character",
+  "description": "Author of the Divine Comedy, to be written later in the thirteenth century.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0380"
+  ]
+ },
+ {
+  "name": "Divine Comedy",
+  "type": "Item",
+  "description": "Dante's great medieval work, not yet written in 1220.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0380"
+  ]
+ },
+ {
+  "name": "Excommunication",
+  "type": "Concept",
+  "aliases": [
+   "Anathema"
+  ],
+  "description": "Declaration that a sinner has left the Church, losing sacramental benefits and Faith Points; also called Anathema.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0380",
+   "realms-of-power-the-divine-revised::0381",
+   "realms-of-power-the-divine-revised::0387"
+  ]
+ },
+ {
+  "name": "Interdict",
+  "type": "Concept",
+  "aliases": [
+   "Interdiction"
+  ],
+  "description": "A form of excommunication excluding an entire area from the sacraments, reducing the Dominion by 1 each year.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0387",
+   "realms-of-power-the-divine-revised::0388",
+   "realms-of-power-the-divine-revised::0389"
+  ]
+ },
+ {
+  "name": "Sacraments",
+  "type": "Concept",
+  "description": "Seven holy ceremonies with supernatural effects that often impart Faith Points and only affect willing participants.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0381",
+   "realms-of-power-the-divine-revised::0382",
+   "realms-of-power-the-divine-revised::0391"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "description": "Points used as if the character had True Faith, granted by sacraments and relics, spent like Confidence.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0380",
+   "realms-of-power-the-divine-revised::0382",
+   "realms-of-power-the-divine-revised::0405"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Holy Virtue granting a Faith Score and Magic Resistance; Christian magi may possess it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0382",
+   "realms-of-power-the-divine-revised::0400",
+   "realms-of-power-the-divine-revised::0448"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "description": "Points spent to bolster rolls; penance grants a Confidence Point.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0380",
+   "realms-of-power-the-divine-revised::0384",
+   "realms-of-power-the-divine-revised::0418"
+  ]
+ },
+ {
+  "name": "Baptism",
+  "type": "Concept",
+  "description": "Sacrament cleansing original sin, driving away possessing spirits and canceling non-Divine supernatural effects; baptismal names cannot be True Names.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0382",
+   "realms-of-power-the-divine-revised::0383"
+  ]
+ },
+ {
+  "name": "Confirmation",
+  "type": "Concept",
+  "description": "Sacrament in which a Christian receives the Holy Spirit, granting a Faith Point.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0383"
+  ]
+ },
+ {
+  "name": "Marriage",
+  "type": "Concept",
+  "description": "Sacrament joining two people against temptation, granting both a Faith Point and a holy connection.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0383",
+   "realms-of-power-the-divine-revised::0384"
+  ]
+ },
+ {
+  "name": "Penance",
+  "type": "Concept",
+  "description": "Sacrament of confession and absolution that grants a Confidence Point and a holy connection to the confessor.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0384",
+   "realms-of-power-the-divine-revised::0394"
+  ]
+ },
+ {
+  "name": "The Eucharist",
+  "type": "Concept",
+  "aliases": [
+   "Holy Communion",
+   "The Mass"
+  ],
+  "description": "The most sacred sacrament, turning bread and wine into Christ's body and blood; grants a Faith Point.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0384",
+   "realms-of-power-the-divine-revised::0385"
+  ]
+ },
+ {
+  "name": "Ordination",
+  "type": "Concept",
+  "aliases": [
+   "Holy Orders"
+  ],
+  "description": "Sacrament of joining holy orders, granting a Faith Point and spiritual authority over an aura.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0385"
+  ]
+ },
+ {
+  "name": "Extreme Unction",
+  "type": "Concept",
+  "aliases": [
+   "Last Rites"
+  ],
+  "description": "Last Rites absolving mortal sins and protecting the soul from supernatural powers for three days after death.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0385",
+   "realms-of-power-the-divine-revised::0386"
+  ]
+ },
+ {
+  "name": "True Name",
+  "type": "Concept",
+  "description": "A name usable for magical purposes; baptismal names cannot serve as True Names.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0382"
+  ]
+ },
+ {
+  "name": "Holy Connection",
+  "type": "Concept",
+  "description": "A sacramental bond between people (godparents, confessor, bishop) that some holy powers can affect.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0383",
+   "realms-of-power-the-divine-revised::0384",
+   "realms-of-power-the-divine-revised::0385"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Place",
+  "aliases": [
+   "Realm of Purgatory"
+  ],
+  "description": "Temporary state of punishment for penitent sinners, reachable through gateways, associated by theologians with the Divine Realm.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0386",
+   "realms-of-power-the-divine-revised::0400",
+   "realms-of-power-the-divine-revised::0401"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "description": "Permanent place of punishment for those who reject God completely.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0386",
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Place",
+  "description": "God's kingdom, home of the saints.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0400",
+   "realms-of-power-the-divine-revised::0442"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "description": "King of England whose rebellion against the Church led to the 1208 interdict.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0388"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "description": "Kingdom placed under interdict in 1208.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0388",
+   "realms-of-power-the-divine-revised::0459",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "Nicene Creed",
+  "type": "Item",
+  "description": "Early Christian creed (325 A.D.); the Latin addition of 'filioque' was a point of East-West dispute.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0390",
+   "realms-of-power-the-divine-revised::0426",
+   "realms-of-power-the-divine-revised::0427"
+  ]
+ },
+ {
+  "name": "Original Sin",
+  "type": "Concept",
+  "description": "Sinfulness inherited from the Fall of Adam and Eve, cleansed by baptism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0382",
+   "realms-of-power-the-divine-revised::0392"
+  ]
+ },
+ {
+  "name": "Venial Sin",
+  "type": "Concept",
+  "description": "Light sins committed daily that add to time in Purgatory.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0392"
+  ]
+ },
+ {
+  "name": "Mortal Sin",
+  "type": "Concept",
+  "description": "Grave sin removing a person from the state of grace, requiring penance and absolution.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0392",
+   "realms-of-power-the-divine-revised::0393"
+  ]
+ },
+ {
+  "name": "Seven Deadly Sins",
+  "type": "Concept",
+  "aliases": [
+   "capital vices"
+  ],
+  "description": "Pride, Wrath, Envy, Sloth, Lust, Gluttony and Avarice, the 'capital vices' leading to mortal sin.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0393"
+  ]
+ },
+ {
+  "name": "Seven Capital Virtues",
+  "type": "Concept",
+  "description": "Four cardinal virtues (Wisdom, Temperance, Courage, Justice) and three theological virtues (Faith, Hope, Charity).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0393",
+   "realms-of-power-the-divine-revised::0394"
+  ]
+ },
+ {
+  "name": "St. Gregory",
+  "type": "Character",
+  "description": "Called the deadly sins the 'capital vices'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0393"
+  ]
+ },
+ {
+  "name": "Plato",
+  "type": "Character",
+  "description": "Ancient philosopher from whom the cardinal virtues derive.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0394"
+  ]
+ },
+ {
+  "name": "Adam and Eve",
+  "type": "Character",
+  "description": "First humans whose Fall is the source of original sin.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0392"
+  ]
+ },
+ {
+  "name": "Fasting",
+  "type": "Concept",
+  "description": "Usual act of penance: one meal a day, abstaining from meat and wine, typically for forty days.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0394",
+   "realms-of-power-the-divine-revised::0395"
+  ]
+ },
+ {
+  "name": "Roman Penitential",
+  "type": "Item",
+  "description": "Halitgar's penitential listing penances for magical and sacrilegious acts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0396",
+   "realms-of-power-the-divine-revised::0397",
+   "realms-of-power-the-divine-revised::0398"
+  ]
+ },
+ {
+  "name": "Halitgar",
+  "type": "Character",
+  "description": "Author of the Roman Penitential.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0396"
+  ]
+ },
+ {
+  "name": "Penitentials",
+  "type": "Item",
+  "description": "Reference books for confessors listing appropriate penances for sinful acts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0396"
+  ]
+ },
+ {
+  "name": "Sortes Sanctorum",
+  "type": "Concept",
+  "description": "Divinatory oracles whose use the Roman Penitential punishes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0398"
+  ]
+ },
+ {
+  "name": "Trial by Ordeal",
+  "type": "Concept",
+  "description": "Court procedure invoking God's intervention to prove innocence; churchmen barred from it in 1215.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0402",
+   "realms-of-power-the-divine-revised::0403",
+   "realms-of-power-the-divine-revised::0404"
+  ]
+ },
+ {
+  "name": "Test of the Cold Water",
+  "type": "Concept",
+  "description": "Most common ordeal: the accused is thrown into water and floats if innocent.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0404"
+  ]
+ },
+ {
+  "name": "Judgment of the Glowing Iron",
+  "type": "Concept",
+  "description": "Ordeal of carrying red-hot iron; innocent if wounds are uninfected after three days.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0404"
+  ]
+ },
+ {
+  "name": "Test of the Boiling Water",
+  "type": "Concept",
+  "description": "Ordeal of removing a stone from a boiling cauldron.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0404"
+  ]
+ },
+ {
+  "name": "Ordeal of the Bier",
+  "type": "Concept",
+  "description": "Ordeal in murder cases where the victim bleeds if the guilty touches the body.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0404"
+  ]
+ },
+ {
+  "name": "Trial by Combat",
+  "type": "Concept",
+  "description": "Ordeal where accused and accuser fight; rare in 1220, seen only in lands of Saxon heritage.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0404",
+   "realms-of-power-the-divine-revised::0405"
+  ]
+ },
+ {
+  "name": "Ordeal of the Cross",
+  "type": "Concept",
+  "description": "Ordeal where both parties hold arms outstretched before the cross; first to drop loses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0405"
+  ]
+ },
+ {
+  "name": "Just Temper",
+  "type": "Concept",
+  "description": "A temper of the Dominion that could favor the innocent in ordeals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0403"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Virtue",
+  "description": "Minor General Virtue most commonly conferring finger bones or True Cross fragments.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0405"
+  ]
+ },
+ {
+  "name": "Relics",
+  "type": "Item",
+  "description": "Holy remains and objects with Faith Points and Divine Might; saints' remains are disseminated throughout Mythic Europe.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0405",
+   "realms-of-power-the-divine-revised::0442",
+   "realms-of-power-the-divine-revised::0443"
+  ]
+ },
+ {
+  "name": "Fragments of the True Cross",
+  "type": "Item",
+  "aliases": [
+   "Finger bones of saints"
+  ],
+  "description": "Common relics with 1 Faith Point and Divine Might 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0405"
+  ]
+ },
+ {
+  "name": "Bones of St Martin",
+  "type": "Item",
+  "description": "Healing relics at the Church of St Martin in Tours with Faith 4 and Divine Might 40.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0405",
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "Church of St Martin",
+  "type": "Place",
+  "description": "Church at Tours housing the bones of St Martin, a pilgrimage site for healing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "Tours",
+  "type": "Place",
+  "description": "French city where St Martin was bishop and is entombed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0406",
+   "realms-of-power-the-divine-revised::0463",
+   "realms-of-power-the-divine-revised::0464"
+  ]
+ },
+ {
+  "name": "Mantle of Nerius",
+  "type": "Item",
+  "description": "Mantle made by Verditius magus Ceylan for Nerius, letting the wearer survive without food; Faith 3, Divine Might 30; now lost.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0406",
+   "realms-of-power-the-divine-revised::0407"
+  ]
+ },
+ {
+  "name": "Nerius",
+  "type": "Character",
+  "aliases": [
+   "St Nerius",
+   "Saint Nerius"
+  ],
+  "description": "Criamon magus who reconciled his power with God and became St Nerius, patron saint of Christian magi (Divine Might 50), martyred at Fudarus in 1039.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0406",
+   "realms-of-power-the-divine-revised::0443",
+   "realms-of-power-the-divine-revised::0465"
+  ]
+ },
+ {
+  "name": "Ceylan",
+  "type": "Character",
+  "description": "Verditius magus, amicus of Nerius, who gave him his mantle.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House of Ceylan, maker of the Mantle of Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "Valoran",
+  "type": "Character",
+  "description": "Disciple of Nerius who inherited the mantle and then disappeared.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0407"
+  ]
+ },
+ {
+  "name": "The Holy Lance",
+  "type": "Item",
+  "aliases": [
+   "Lance of Longinus"
+  ],
+  "description": "Spear of Longinus found by the First Crusade in 1098 and lost in 1101; Faith 7, Divine Might 70, can invoke Celestial Immunity on ten people.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0407",
+   "realms-of-power-the-divine-revised::0408",
+   "realms-of-power-the-divine-revised::0432"
+  ]
+ },
+ {
+  "name": "Longinus",
+  "type": "Character",
+  "description": "Roman soldier who pierced Christ's side with a spear.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0407"
+  ]
+ },
+ {
+  "name": "Pilate",
+  "type": "Character",
+  "description": "Roman governor petitioned to break the legs of the crucified.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0408"
+  ]
+ },
+ {
+  "name": "Waldensians",
+  "type": "Faction",
+  "description": "Heretical followers of Peter Waldo, declared heretics in 1184 for Donatism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0409",
+   "realms-of-power-the-divine-revised::0410"
+  ]
+ },
+ {
+  "name": "Peter Waldo",
+  "type": "Character",
+  "description": "Wealthy Lyon merchant who gave away his wealth in the late 1100s and founded the Waldensians.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0409",
+   "realms-of-power-the-divine-revised::0410"
+  ]
+ },
+ {
+  "name": "Donatism",
+  "type": "Concept",
+  "description": "Ancient heresy that sacraments are invalid when performed by unworthy priests.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0410"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "aliases": [
+   "Albigensians",
+   "Catharism"
+  ],
+  "description": "Dualist heretics (Albigensians) localized in Languedoc, distinguishing perfecti from followers and practicing the consolamentum.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0410",
+   "realms-of-power-the-divine-revised::0411",
+   "realms-of-power-the-divine-revised::0412"
+  ]
+ },
+ {
+  "name": "Manichaeism",
+  "type": "Concept",
+  "description": "Older dualist heresy resembling Catharism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0411"
+  ]
+ },
+ {
+  "name": "Perfecti",
+  "type": "CharacterType",
+  "description": "Cathar men and women striving to overcome their physical bodies to become perfect spiritual beings.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0411"
+  ]
+ },
+ {
+  "name": "Consolamentum",
+  "type": "Concept",
+  "description": "Cathar ritual laying on of hands substituted for sacraments.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0411"
+  ]
+ },
+ {
+  "name": "Pater Noster",
+  "type": "Item",
+  "aliases": [
+   "Lord's Prayer"
+  ],
+  "description": "The 'Our Father', later called the Lord's Prayer, recited by Cathars.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0411",
+   "realms-of-power-the-divine-revised::0412"
+  ]
+ },
+ {
+  "name": "Languedoc",
+  "type": "Place",
+  "description": "Region where the Cathars were localized.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0411"
+  ]
+ },
+ {
+  "name": "Lyon",
+  "type": "Place",
+  "description": "City of Peter Waldo; St Guinefort is venerated in a diocese there.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0410",
+   "realms-of-power-the-divine-revised::0464"
+  ]
+ },
+ {
+  "name": "Maurillac",
+  "type": "Place",
+  "description": "Where seven Waldensians were executed in 1214.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0410"
+  ]
+ },
+ {
+  "name": "Bishop of Toul",
+  "type": "Character",
+  "description": "Ordered all Waldensians chained and tried in 1192.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0410"
+  ]
+ },
+ {
+  "name": "King of Aragon",
+  "type": "Character",
+  "description": "Banished the Waldensians from his lands in 1194.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0410"
+  ]
+ },
+ {
+  "name": "Heresy",
+  "type": "Concept",
+  "description": "Belief conflicting with established Church teaching, corrected and ultimately punished by burning.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0409",
+   "realms-of-power-the-divine-revised::0402"
+  ]
+ },
+ {
+  "name": "Secular Clergy",
+  "type": "Faction",
+  "description": "Clergy administering to human society from within it (bishops, priests, deacons).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0414"
+  ]
+ },
+ {
+  "name": "Regular Clergy",
+  "type": "Faction",
+  "description": "Clergy bound by a Rule and divided into orders, living removed from society.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0414"
+  ]
+ },
+ {
+  "name": "Bishop",
+  "type": "CharacterType",
+  "description": "Clergyman with spiritual authority over a diocese, able to confirm, ordain, excommunicate and pronounce interdict.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0381",
+   "realms-of-power-the-divine-revised::0414",
+   "realms-of-power-the-divine-revised::0415"
+  ]
+ },
+ {
+  "name": "Archbishop",
+  "type": "CharacterType",
+  "description": "Bishop of a very important city overseeing other bishops in a region.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0414"
+  ]
+ },
+ {
+  "name": "Pope",
+  "type": "CharacterType",
+  "description": "Bishop of Rome, successor of Peter with spiritual authority over Christendom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0416",
+   "realms-of-power-the-divine-revised::0443"
+  ]
+ },
+ {
+  "name": "Cardinals",
+  "type": "CharacterType",
+  "description": "Papal advisers who elect the pope's successor.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0416"
+  ]
+ },
+ {
+  "name": "Legates",
+  "type": "CharacterType",
+  "description": "Personal representatives of the pope sent throughout Europe.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0416",
+   "realms-of-power-the-divine-revised::0427"
+  ]
+ },
+ {
+  "name": "Parish Priest",
+  "type": "CharacterType",
+  "description": "Priest overseeing a parish and performing its sacraments.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0416"
+  ]
+ },
+ {
+  "name": "Deacon",
+  "type": "CharacterType",
+  "description": "Cleric below the priest who looks after Church funds and assists in the Eucharist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0417"
+  ]
+ },
+ {
+  "name": "Subdeacon",
+  "type": "CharacterType",
+  "description": "Assists the deacon with the implements of the Mass.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0417"
+  ]
+ },
+ {
+  "name": "Minor Orders",
+  "type": "CharacterType",
+  "description": "Clerks such as porters, lectors, exorcists and acolytes who need not be ordained.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0417"
+  ]
+ },
+ {
+  "name": "Diocese",
+  "type": "Concept",
+  "description": "Area under a bishop's spiritual authority.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0414",
+   "realms-of-power-the-divine-revised::0477"
+  ]
+ },
+ {
+  "name": "Parish",
+  "type": "Concept",
+  "description": "Smallest unit of a diocese, often the size of a manor.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0416"
+  ]
+ },
+ {
+  "name": "Canons",
+  "type": "CharacterType",
+  "description": "Cathedral administrative staff who elect a new bishop.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0414"
+  ]
+ },
+ {
+  "name": "Bishop of Bayeux",
+  "type": "Character",
+  "description": "Bishop who wielded a mace at the Battle of Hastings.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0415"
+  ]
+ },
+ {
+  "name": "Archbishop Turpin",
+  "type": "Character",
+  "description": "Heroic figure from The Song of Roland.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0415"
+  ]
+ },
+ {
+  "name": "The Song of Roland",
+  "type": "Item",
+  "description": "Epic featuring Archbishop Turpin.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0415"
+  ]
+ },
+ {
+  "name": "St. Peter",
+  "type": "Character",
+  "aliases": [
+   "Saint Peter"
+  ],
+  "description": "Chief apostle and first bishop of Rome, greater saint (Divine Might 75) and patron of the Church, popes, and fishermen.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0416",
+   "realms-of-power-the-divine-revised::0462",
+   "realms-of-power-the-divine-revised::0463"
+  ]
+ },
+ {
+  "name": "Exorcism",
+  "type": "Concept",
+  "description": "Christian rite costing a Confidence or Faith point that helps a possessed person break free of infernal influence.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0417",
+   "realms-of-power-the-divine-revised::0418"
+  ]
+ },
+ {
+  "name": "Adjuration",
+  "type": "Concept",
+  "description": "Holy tradition effects that achieve immediate results against possession.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0418"
+  ]
+ },
+ {
+  "name": "Roman Ritual",
+  "type": "Item",
+  "description": "Instructions for performing exorcism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0418"
+  ]
+ },
+ {
+  "name": "Monasteries",
+  "type": "Place",
+  "description": "Self-sufficient religious houses governed by a Rule, dominated by an abbey church.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0419"
+  ]
+ },
+ {
+  "name": "Rule of St. Benedict",
+  "type": "Concept",
+  "aliases": [
+   "The Rule"
+  ],
+  "description": "Rule established by Benedict governing monastic life of opus Dei, lectio divina and opus manuum.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0419",
+   "realms-of-power-the-divine-revised::0421",
+   "realms-of-power-the-divine-revised::0423"
+  ]
+ },
+ {
+  "name": "St. Benedict of Nursia",
+  "type": "Character",
+  "aliases": [
+   "Benedict"
+  ],
+  "description": "Founder of the monastic Rule; area saint and patron of Europe, monks, and farm workers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0419",
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "Benedictines",
+  "type": "Faction",
+  "description": "Monastic houses of men and women following Benedict's Rule.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0419",
+   "realms-of-power-the-divine-revised::0422",
+   "realms-of-power-the-divine-revised::0423"
+  ]
+ },
+ {
+  "name": "Decadence",
+  "type": "Creature",
+  "description": "Fat golden demon with heavy chains and a giant mouth, dressed as a monk.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0420"
+  ]
+ },
+ {
+  "name": "Sodomy",
+  "type": "Creature",
+  "description": "Wiry clawed demonic spirit, part human and part wolf, dressed as a monk.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0420"
+  ]
+ },
+ {
+  "name": "Apathy",
+  "type": "Creature",
+  "description": "Cold insubstantial faceless shadow demon dressed as a monk.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0420"
+  ]
+ },
+ {
+  "name": "The Offices",
+  "type": "Concept",
+  "aliases": [
+   "Matins",
+   "Compline"
+  ],
+  "description": "The monastic day of hours: Matins, Lauds, Prime, Terce, Sext, Nones, Vespers, Compline.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0420",
+   "realms-of-power-the-divine-revised::0421"
+  ]
+ },
+ {
+  "name": "Abbot",
+  "type": "CharacterType",
+  "description": "Elected head of a monastery, often of social status similar to bishops.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0421",
+   "realms-of-power-the-divine-revised::0422",
+   "realms-of-power-the-divine-revised::0477"
+  ]
+ },
+ {
+  "name": "Abbess",
+  "type": "CharacterType",
+  "description": "Head of a convent.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0422"
+  ]
+ },
+ {
+  "name": "Prior",
+  "type": "CharacterType",
+  "description": "Chief assistant chosen by the abbot.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0421",
+   "realms-of-power-the-divine-revised::0422"
+  ]
+ },
+ {
+  "name": "Cellarer",
+  "type": "CharacterType",
+  "description": "Monk in charge of temporal affairs of the house.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0421",
+   "realms-of-power-the-divine-revised::0422"
+  ]
+ },
+ {
+  "name": "Chapter",
+  "type": "Concept",
+  "description": "All the monks gathered for official business; elects the abbot.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0421",
+   "realms-of-power-the-divine-revised::0422"
+  ]
+ },
+ {
+  "name": "Cluny",
+  "type": "Place",
+  "description": "Monastery founded in 910 that led the Cluniac Order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0423"
+  ]
+ },
+ {
+  "name": "Cluniac Order",
+  "type": "Faction",
+  "description": "Benedictine reform emphasizing worship and freedom from noble control.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0423"
+  ]
+ },
+ {
+  "name": "Citeaux",
+  "type": "Place",
+  "description": "Founded in 1098, origin of the Cistercian Order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0423"
+  ]
+ },
+ {
+  "name": "Cistercian Order",
+  "type": "Faction",
+  "aliases": [
+   "Cistercians"
+  ],
+  "description": "Twelfth-century reform returning to Benedict's Rule, poverty and isolation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0423"
+  ]
+ },
+ {
+  "name": "Orthodox Church",
+  "type": "Faction",
+  "aliases": [
+   "Eastern Church",
+   "Greek Church"
+  ],
+  "description": "Eastern Greek Church following the Eastern patriarch's liturgy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0424",
+   "realms-of-power-the-divine-revised::0426"
+  ]
+ },
+ {
+  "name": "St. John of Damascus",
+  "type": "Character",
+  "description": "Greatest Eastern theologian (670s-760s), outlined Orthodox Christianity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0424"
+  ]
+ },
+ {
+  "name": "Blessed Virgin Mary",
+  "type": "Character",
+  "aliases": [
+   "Virgin Mary",
+   "Mary"
+  ],
+  "description": "Mother of Christ, most venerated saint with Divine Might 100, entombed in Ephesus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0425",
+   "realms-of-power-the-divine-revised::0459",
+   "realms-of-power-the-divine-revised::0461"
+  ]
+ },
+ {
+  "name": "Iconoclastic Controversy",
+  "type": "Concept",
+  "description": "Quarrel from the 700s in Byzantium over veneration of icons.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0425"
+  ]
+ },
+ {
+  "name": "St. Basil of Caesarea",
+  "type": "Character",
+  "description": "Author of the single Rule governing Byzantine monasteries.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0426"
+  ]
+ },
+ {
+  "name": "Filioque",
+  "type": "Concept",
+  "description": "'And the Son' added by the West to the Nicene Creed, a cause of schism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0426",
+   "realms-of-power-the-divine-revised::0427"
+  ]
+ },
+ {
+  "name": "Eastern Patriarch",
+  "type": "CharacterType",
+  "description": "Head of the Eastern Church.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0426",
+   "realms-of-power-the-divine-revised::0427"
+  ]
+ },
+ {
+  "name": "Militant Orders",
+  "type": "Faction",
+  "aliases": [
+   "crusading orders"
+  ],
+  "description": "Orders of warrior monks established to aid the crusades; four major ones in 1220.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0428"
+  ]
+ },
+ {
+  "name": "Knights Hospitaller",
+  "type": "Faction",
+  "aliases": [
+   "Hospitallers"
+  ],
+  "description": "Knights Hospitaller of St. John in Jerusalem, following the Rule of St. Augustine, approved 1113.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0428",
+   "realms-of-power-the-divine-revised::0473"
+  ]
+ },
+ {
+  "name": "Knights Templar",
+  "type": "Faction",
+  "aliases": [
+   "Templars"
+  ],
+  "description": "Order of Poor Knights of the Temple of Solomon, founded c. 1119, bankers said to practice secret mysteries.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0428",
+   "realms-of-power-the-divine-revised::0429",
+   "realms-of-power-the-divine-revised::0473"
+  ]
+ },
+ {
+  "name": "Order of Santiago",
+  "type": "Faction",
+  "description": "Iberian crusading order founded 1170 by Ferdinand II of Leon, involved in the Reconquista.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0429"
+  ]
+ },
+ {
+  "name": "Teutonic Knights",
+  "type": "Faction",
+  "description": "Order of the Hospital of Saint Mary of the Teutons of Jerusalem, founded 1190, militarized 1198.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0429",
+   "realms-of-power-the-divine-revised::0430",
+   "realms-of-power-the-divine-revised::0461"
+  ]
+ },
+ {
+  "name": "Council of Troyes",
+  "type": "Concept",
+  "description": "1128 council at which the Templars received their Rule.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0429"
+  ]
+ },
+ {
+  "name": "Ferdinand II of Leon",
+  "type": "Character",
+  "description": "Founded the Order of Santiago in 1170.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0429"
+  ]
+ },
+ {
+  "name": "Reconquista",
+  "type": "Concept",
+  "description": "Re-conquering of the Iberian peninsula from Muslim invaders.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0429"
+  ]
+ },
+ {
+  "name": "St. James the Great",
+  "type": "Character",
+  "aliases": [
+   "St. James the Apostle"
+  ],
+  "description": "Apostle of Compostela; greater saint, patron of Spain, pilgrims, laborers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0429",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "Acre",
+  "type": "Place",
+  "description": "Where the Teutonic Knights served as a Hospitaller order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0429",
+   "realms-of-power-the-divine-revised::0430"
+  ]
+ },
+ {
+  "name": "Seljuk Turks",
+  "type": "Faction",
+  "description": "Militant Turks who occupied Baghdad and seized Jerusalem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0431"
+  ]
+ },
+ {
+  "name": "Manzikert",
+  "type": "Place",
+  "description": "Where the Turks routed the Byzantine army in 1071.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0431"
+  ]
+ },
+ {
+  "name": "Nicea",
+  "type": "Place",
+  "description": "City reached by Turks and recaptured by crusaders.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0431",
+   "realms-of-power-the-divine-revised::0432"
+  ]
+ },
+ {
+  "name": "Antioch",
+  "type": "Place",
+  "description": "City conquered by crusaders, where the holy lance was discovered.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0432"
+  ]
+ },
+ {
+  "name": "Latin Kingdom of Jerusalem",
+  "type": "Place",
+  "description": "Crusader kingdom established on Christmas Day 1100.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Edessa",
+  "type": "Place",
+  "description": "Crusader city whose fall in 1144 triggered the Second Crusade.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Saladin",
+  "type": "Character",
+  "description": "Saracen leader who recaptured Jerusalem in 1187.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Frederick Barbarossa",
+  "type": "Character",
+  "description": "Monarch who drowned en route in the Third Crusade.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Philip II of France",
+  "type": "Character",
+  "description": "Monarch who fell ill and returned from the Third Crusade.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Richard I of England",
+  "type": "Character",
+  "description": "Negotiated a truce allowing pilgrims into Jerusalem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Venetians",
+  "type": "Faction",
+  "description": "Diverted the Fourth Crusade to Constantinople.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0434"
+  ]
+ },
+ {
+  "name": "Universities",
+  "type": "Faction",
+  "aliases": [
+   "studia generalia"
+  ],
+  "description": "Studia generalia of masters and students organized like guilds with four faculties.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0435",
+   "realms-of-power-the-divine-revised::0436"
+  ]
+ },
+ {
+  "name": "University of Paris",
+  "type": "Place",
+  "aliases": [
+   "Paris"
+  ],
+  "description": "Prominent university known for theology and liberal arts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0435",
+   "realms-of-power-the-divine-revised::0436",
+   "realms-of-power-the-divine-revised::0437"
+  ]
+ },
+ {
+  "name": "University of Bologna",
+  "type": "Place",
+  "aliases": [
+   "Bologna"
+  ],
+  "description": "University known for law and emerging medicine.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0435",
+   "realms-of-power-the-divine-revised::0436",
+   "realms-of-power-the-divine-revised::0437"
+  ]
+ },
+ {
+  "name": "Oxford",
+  "type": "Place",
+  "description": "English university gaining note for mathematics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0436"
+  ]
+ },
+ {
+  "name": "Salamanca",
+  "type": "Place",
+  "description": "Spanish city with a newly established university.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0436"
+  ]
+ },
+ {
+  "name": "Friars",
+  "type": "Faction",
+  "description": "Mendicant orders (Dominican and Franciscan) calling for poverty in service to the Church.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0435",
+   "realms-of-power-the-divine-revised::0437"
+  ]
+ },
+ {
+  "name": "Dominic",
+  "type": "Character",
+  "description": "Founder of the Dominican order to combat heresy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0437"
+  ]
+ },
+ {
+  "name": "Francis",
+  "type": "Character",
+  "description": "Son of an Italian cloth merchant who founded the Franciscans in 1210.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0437"
+  ]
+ },
+ {
+  "name": "Sentences",
+  "type": "Item",
+  "aliases": [
+   "Quatuor Libri Sententiarum"
+  ],
+  "description": "Peter the Lombard's four-book theology textbook; Divine Lore and Theology summae, Quality 9.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0439",
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "Peter the Lombard",
+  "type": "Character",
+  "description": "Author of the Sentences (c.1100-1160).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "The City of God",
+  "type": "Item",
+  "description": "St Augustine's tractatus on Church Lore (Quality 12).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "Consolations of Philosophy",
+  "type": "Item",
+  "description": "Boethius' tractatus on Philosophiae (Quality 9).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "Boethius",
+  "type": "Character",
+  "description": "Author of Consolations of Philosophy (480-525).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "The Celestial Hierarchy",
+  "type": "Item",
+  "aliases": [
+   "Caelestis Hierarchia"
+  ],
+  "description": "Summa on Dominion Lore describing the nine angelic choirs, attributed to Dionysius the Areopagite.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0440",
+   "realms-of-power-the-divine-revised::0441"
+  ]
+ },
+ {
+  "name": "Dionysius the Areopagite",
+  "type": "Character",
+  "description": "Greek convert of St Paul believed to have written The Celestial Hierarchy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0441"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Academic Ability taught by the Bible and the Sentences.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0438",
+   "realms-of-power-the-divine-revised::0439"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Lore Ability taught by the Bible and The City of God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0439",
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Ability taught by The Celestial Hierarchy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0441"
+  ]
+ },
+ {
+  "name": "Divine Lore",
+  "type": "Ability",
+  "description": "Ability taught by Book I of the Sentences.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0439"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Academic Ability taught by Consolations of Philosophy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0440"
+  ]
+ },
+ {
+  "name": "Saints",
+  "type": "CharacterType",
+  "description": "Holy dead accepted into heaven who intercede and grant miracles; greater, area and local saints.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0442",
+   "realms-of-power-the-divine-revised::0443",
+   "realms-of-power-the-divine-revised::0459"
+  ]
+ },
+ {
+  "name": "Cult of Saints",
+  "type": "Concept",
+  "description": "Popular veneration of saints through feasts, pilgrimages and relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0442"
+  ]
+ },
+ {
+  "name": "Canonization",
+  "type": "Concept",
+  "description": "Process by which the Church declares a saint, now decided by the pope.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0443"
+  ]
+ },
+ {
+  "name": "The Golden Legend",
+  "type": "Item",
+  "description": "Jacobus de Voragine's authoritative saints' lives, written around 1260.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0444"
+  ]
+ },
+ {
+  "name": "Jacobus de Voragine",
+  "type": "Character",
+  "description": "Author of The Golden Legend.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0444"
+  ]
+ },
+ {
+  "name": "Patron Saint",
+  "type": "Concept",
+  "description": "The saint most familiar to a person or place, to whom petitions are addressed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0445",
+   "realms-of-power-the-divine-revised::0446"
+  ]
+ },
+ {
+  "name": "Invoking a Saint",
+  "type": "Concept",
+  "description": "Daily Communication + Charm roll asking a saint for a miracle.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0445",
+   "realms-of-power-the-divine-revised::0446",
+   "realms-of-power-the-divine-revised::0447"
+  ]
+ },
+ {
+  "name": "Threatening a Saint",
+  "type": "Concept",
+  "description": "'Humiliation of a saint': Presence + Leadership roll forcing a miracle after a failed invocation, risking curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0449",
+   "realms-of-power-the-divine-revised::0450"
+  ]
+ },
+ {
+  "name": "Divine Might",
+  "type": "Concept",
+  "description": "Measure of a Divine being's or relic's power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0405",
+   "realms-of-power-the-divine-revised::0449",
+   "realms-of-power-the-divine-revised::0459"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Protection from supernatural powers; some saintly powers grant it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0382",
+   "realms-of-power-the-divine-revised::0453",
+   "realms-of-power-the-divine-revised::0454"
+  ]
+ },
+ {
+  "name": "Saints' Miracles",
+  "type": "Concept",
+  "description": "Supernatural deeds performed by saints expressed as powers channelled from God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0451"
+  ]
+ },
+ {
+  "name": "Acknowledgment of Evil",
+  "type": "Concept",
+  "description": "Saint power forcing any demon in voice range to declare its Infernal nature.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452"
+  ]
+ },
+ {
+  "name": "Apparition",
+  "type": "Concept",
+  "description": "Saint power creating a physical but invulnerable manifestation of the saint.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452"
+  ]
+ },
+ {
+  "name": "Celestial Immunity",
+  "type": "Concept",
+  "description": "Saint power making the recipient immune to physical damage while the threat lasts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452",
+   "realms-of-power-the-divine-revised::0407",
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "Cure Blindness",
+  "type": "Concept",
+  "description": "Saint power permanently restoring sight.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452",
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "Expel Demons",
+  "type": "Concept",
+  "description": "Saint power expelling a demon back to Hell, like Demon's Eternal Oblivion.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452"
+  ]
+ },
+ {
+  "name": "Grant of Serenity",
+  "type": "Concept",
+  "description": "Saint power calming a petitioner and nullifying malign Mentem spells.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452",
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Mass Healing",
+  "type": "Concept",
+  "description": "Saint power healing a crowd of all diseases and wounds.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Raise the Dead",
+  "type": "Concept",
+  "description": "Saint power restoring life to a corpse whose soul is not in heaven.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Resist Temptation",
+  "type": "Concept",
+  "description": "Saint power granting Magic Resistance against demonic temptation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Sanctuary of Virginity",
+  "type": "Concept",
+  "description": "Saint power miraculously protecting a follower's virginity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Scourging of Snakes",
+  "type": "Concept",
+  "description": "Saint power expelling all snakes from an island up to the size of Ireland.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454"
+  ]
+ },
+ {
+  "name": "Straighten the Crippled",
+  "type": "Concept",
+  "description": "Saint power healing the lame and deformed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454",
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "The Dutiful Shepherd",
+  "type": "Concept",
+  "description": "Saint power sending an image of the saint to lead a lost petitioner to safety.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454"
+  ]
+ },
+ {
+  "name": "The Faithful Made Whole",
+  "type": "Concept",
+  "description": "Saint power curing all disease and physical wounds.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454",
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "The Incombustible Shroud",
+  "type": "Concept",
+  "description": "Saint power rendering the target immune to fire.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454"
+  ]
+ },
+ {
+  "name": "The Laborer's Boon",
+  "type": "Concept",
+  "description": "Saint power mending or replacing a broken tool.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454",
+   "realms-of-power-the-divine-revised::0455"
+  ]
+ },
+ {
+  "name": "The Leap of the Faithful",
+  "type": "Concept",
+  "description": "Saint power instantly transporting a person any distance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0455"
+  ]
+ },
+ {
+  "name": "Tomorrow's Bounty",
+  "type": "Concept",
+  "description": "Saint power creating food for a large crowd.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0455"
+  ]
+ },
+ {
+  "name": "Blindness",
+  "type": "Concept",
+  "description": "Saint curse permanently blinding the target.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0456"
+  ]
+ },
+ {
+  "name": "Blisters of Humility",
+  "type": "Concept",
+  "description": "Saint curse covering the target with boils for a week.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0456"
+  ]
+ },
+ {
+  "name": "Dysenteric Infliction",
+  "type": "Concept",
+  "description": "Saint curse destroying the target with fatal dysentery.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0456"
+  ]
+ },
+ {
+  "name": "Flabbergast the Impertinent",
+  "type": "Concept",
+  "description": "Saint curse casting the target into a loud, exhausting night's sleep.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0456"
+  ]
+ },
+ {
+  "name": "Humility of Caesar",
+  "type": "Concept",
+  "description": "Saint curse throwing a rider from his horse or felling him on his face.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0456"
+  ]
+ },
+ {
+  "name": "Ignis Domini",
+  "type": "Concept",
+  "description": "'The Fire of God', a saint curse bringing a pillar of fire from heaven (+30 damage).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0456",
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "Rebuke the Unfaithful",
+  "type": "Concept",
+  "description": "Saint curse threatening death within thirty days unless the target mends his ways.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "Smiting of the Lord",
+  "type": "Concept",
+  "description": "Saint curse hurling a lightning bolt for +35 damage.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "Swallowed Alive and Sent to Hell",
+  "type": "Concept",
+  "description": "Saint curse opening a chasm that drops the target into Hell.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "Terrify the Unbeliever",
+  "type": "Concept",
+  "description": "Saint curse making the target flee in terror until dawn.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "The Earth's Riches",
+  "type": "Concept",
+  "description": "Saint power turning sticks and stones into gold and gems.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0457",
+   "realms-of-power-the-divine-revised::0458"
+  ]
+ },
+ {
+  "name": "The Feast of Worms",
+  "type": "Concept",
+  "description": "Saint curse infesting the target's body with maggots.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0458"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "description": "Hermetic spell to which the Expel Demons power is compared.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452"
+  ]
+ },
+ {
+  "name": "Enchantment of Detachment",
+  "type": "Spell",
+  "description": "Hermetic Mentem spell similar to Grant of Serenity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Touch of Midas",
+  "type": "Spell",
+  "description": "Hermetic spell whose value comparison is used for The Earth's Riches.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0458"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452",
+   "realms-of-power-the-divine-revised::0454"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452",
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0452",
+   "realms-of-power-the-divine-revised::0453"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454",
+   "realms-of-power-the-divine-revised::0456"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454",
+   "realms-of-power-the-divine-revised::0456"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0454",
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0455"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form used to classify saints' powers and curses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0457"
+  ]
+ },
+ {
+  "name": "Greater Saint",
+  "type": "CharacterType",
+  "description": "Saints of Divine Might 75, typically apostles or Church fathers, venerated throughout Mythic Europe.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0459",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "Area Saint",
+  "type": "CharacterType",
+  "description": "Saints of Divine Might about 50 venerated over large areas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0459",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "Local Saint",
+  "type": "CharacterType",
+  "description": "Saints of Divine Might 25 venerated by a town or two.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0459",
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Joseph",
+  "type": "Character",
+  "description": "Elderly widower to whom Mary was bequeathed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0462"
+  ]
+ },
+ {
+  "name": "Angel Gabriel",
+  "type": "Creature",
+  "aliases": [
+   "Gabriel"
+  ],
+  "description": "Angel who told Mary she would conceive the Son of God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0462"
+  ]
+ },
+ {
+  "name": "Angel Michael",
+  "type": "Creature",
+  "aliases": [
+   "Michael"
+  ],
+  "description": "Angel whose aid St Nerius asked to resist the vision of the Enigma.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0465",
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "Ephesus",
+  "type": "Place",
+  "description": "City where Mary spent her last days and where her tomb is.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0462"
+  ]
+ },
+ {
+  "name": "Nazareth",
+  "type": "Place",
+  "description": "Mary's hometown.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0462"
+  ]
+ },
+ {
+  "name": "Bethlehem",
+  "type": "Place",
+  "description": "Where Mary delivered Jesus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0462"
+  ]
+ },
+ {
+  "name": "Herod",
+  "type": "Character",
+  "description": "Persecutor from whom Mary and family fled to Egypt.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0462"
+  ]
+ },
+ {
+  "name": "St Ambrose",
+  "type": "Character",
+  "description": "Wrote that Mary first saw the Resurrection; greater saint, patron of bishops, learning and bees.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0462",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "Simon Magus",
+  "type": "Character",
+  "description": "Sorcerer in Nero's employ whose demons St Peter dispelled.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0463"
+  ]
+ },
+ {
+  "name": "Nero",
+  "type": "Character",
+  "description": "Emperor who crucified Peter.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0463"
+  ]
+ },
+ {
+  "name": "St Martin of Tours",
+  "type": "Character",
+  "aliases": [
+   "St Martin"
+  ],
+  "description": "Soldier turned bishop of Tours; area saint (Divine Might 50), patron of soldiers, horses and beggars.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0463",
+   "realms-of-power-the-divine-revised::0464",
+   "realms-of-power-the-divine-revised::0406"
+  ]
+ },
+ {
+  "name": "Amiens",
+  "type": "Place",
+  "description": "Where Martin gave his cloak to a beggar.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0464"
+  ]
+ },
+ {
+  "name": "Arian Heresy",
+  "type": "Concept",
+  "description": "Heresy St Martin combated.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0464"
+  ]
+ },
+ {
+  "name": "St Guinefort",
+  "type": "Character",
+  "description": "A greyhound venerated as a local saint (Divine Might 25), patron of protecting local children.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0464",
+   "realms-of-power-the-divine-revised::0465"
+  ]
+ },
+ {
+  "name": "Criamon",
+  "type": "House",
+  "aliases": [
+   "House Criamon"
+  ],
+  "description": "Hermetic House to which St Nerius belonged.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0465"
+  ]
+ },
+ {
+  "name": "Enigma",
+  "type": "Concept",
+  "description": "Criamon mystery Nerius discovered in a secret Alpine well.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0465"
+  ]
+ },
+ {
+  "name": "Provencal Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where St Nerius was born.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0465"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal meeting of 1039 during which St Nerius was martyred.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "Fudarus",
+  "type": "Covenant",
+  "description": "Domus Magnus of House Tytalus, where St Nerius was martyred.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "description": "Hermetic House whose domus magnus is Fudarus; its magi joined the attack on Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "description": "Hermetic House whose magi declared a Wizard's March against St Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "description": "Hermetic House whose wizards joined the martyrdom of Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466",
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "description": "Hermetic sentence of death declared against St Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Hermetic magical duel; St Nerius never lost a match.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Magical resource; St Nerius could cure the sick without it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "description": "Realm St Nerius is said to protect.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0466"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Covenant whose Great Library holds St Nerius' autobiographical scrolls.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "Great Library of Durenmar",
+  "type": "Place",
+  "description": "Library holding twelve scrolls of St Nerius' travels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St Andrew",
+  "type": "Character",
+  "description": "Greater saint, patron of Scotland, fishermen, and sailors.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St Matthew",
+  "type": "Character",
+  "description": "Greater saint, patron of tax collectors and bankers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St Thomas",
+  "type": "Character",
+  "description": "Greater saint, patron of India, architects and surveyors.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St Jude",
+  "type": "Character",
+  "description": "Greater saint, patron of lost causes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St Jerome",
+  "type": "Character",
+  "description": "Greater saint, patron of scholars.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St Edward the Confessor",
+  "type": "Character",
+  "description": "Area saint, patron of England.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467"
+  ]
+ },
+ {
+  "name": "St Patrick",
+  "type": "Character",
+  "description": "Area saint, patron of Ireland.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467",
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Thomas a Becket",
+  "type": "Character",
+  "description": "Area saint, patron of Canterbury.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467",
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Denis",
+  "type": "Character",
+  "description": "Area saint, patron of Paris.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467",
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Boniface",
+  "type": "Character",
+  "description": "Area saint, patron of Germany, brewers and tailors.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0467",
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Wenceslaus",
+  "type": "Character",
+  "description": "Area saint, patron of Bohemia.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Finnbarr",
+  "type": "Character",
+  "description": "Local saint, patron of Cork.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Gilbert",
+  "type": "Character",
+  "description": "Local saint, patron of Sempringham.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Godric",
+  "type": "Character",
+  "description": "Local saint, patron of Durham and Finchale.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St David of Thessalonike",
+  "type": "Character",
+  "description": "Local saint, patron of Thessalonike.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Kevin",
+  "type": "Character",
+  "description": "Local saint, patron of Dublin.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Eulogius",
+  "type": "Character",
+  "description": "Local saint, patron of Cordoba.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Irene",
+  "type": "Character",
+  "description": "Local saint, patron of Thessalonica.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Gotthard",
+  "type": "Character",
+  "description": "Local saint, patron of Hildesheim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "St Adalbert",
+  "type": "Character",
+  "description": "Local saint, patron of Prague.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0468"
+  ]
+ },
+ {
+  "name": "Adalbero, Bishop of Laon",
+  "type": "Character",
+  "description": "Author of the Poem to King Robert (c.1025) on the three orders of society.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0469"
+  ]
+ },
+ {
+  "name": "Book of Solomon",
+  "type": "Item",
+  "description": "Book whose copies teach the Notory Art.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "Rings of Solomon",
+  "type": "Concept",
+  "description": "Orations recited through Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "Ars Notoria (Virtue)",
+  "type": "Virtue",
+  "description": "Major Hermetic/Supernatural Virtue granting Ars Notoria 1, requiring scores of 4 in Artes Liberales and four languages.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0469",
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "Holy Music (Virtue)",
+  "type": "Virtue",
+  "description": "Major Supernatural Method Virtue granting Holy Music 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0476"
+  ]
+ },
+ {
+  "name": "Holy Music",
+  "type": "Ability",
+  "description": "Supernatural Ability like Meditation gaining divine insight through music, taught by the Cantores.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0476"
+  ]
+ },
+ {
+  "name": "Cantores",
+  "type": "Faction",
+  "description": "Holy tradition that primarily teaches Holy Music.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0476"
+  ]
+ },
+ {
+  "name": "Senior Clergy",
+  "type": "Virtue",
+  "description": "Major Social Status Virtue: presbyter, archpriest, bishop, or abbot with spiritual authority and Reputation 4.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0477"
+  ]
+ },
+ {
+  "name": "Brother Chaplain",
+  "type": "Virtue",
+  "description": "Minor Social Status: a priest of a crusading order answerable only to the pope.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0472"
+  ]
+ },
+ {
+  "name": "Brother Knight",
+  "type": "Virtue",
+  "description": "Minor Social Status: a knight of a crusading order sworn to obedience, poverty, and chastity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0473"
+  ]
+ },
+ {
+  "name": "Brother Sergeant",
+  "type": "Virtue",
+  "description": "Minor Social Status: non-knight member of a crusading order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0474"
+  ]
+ },
+ {
+  "name": "Eastern Priest",
+  "type": "Virtue",
+  "description": "Minor Status Virtue like Priest but without required celibacy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0475"
+  ]
+ },
+ {
+  "name": "Priest",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue prerequisite for Senior Clergy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0475",
+   "realms-of-power-the-divine-revised::0477"
+  ]
+ },
+ {
+  "name": "Monastic Vows (Hermetic)",
+  "type": "Flaw",
+  "aliases": [
+   "Monastic Vows"
+  ],
+  "description": "Major Hermetic Flaw; Monastic Vows can prerequisite Senior Clergy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0477"
+  ]
+ },
+ {
+  "name": "Excommunicate",
+  "type": "Flaw",
+  "description": "Major Story Flaw: cast out of the Church, bad Reputation 3, no sacramental benefits.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0478"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Flaw",
+  "description": "Major Story and Supernatural Flaw introduced among Christian Flaws.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470"
+  ]
+ },
+ {
+  "name": "Unbaptised",
+  "type": "Flaw",
+  "description": "Major Story Flaw among the new Christian Flaws.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470"
+  ]
+ },
+ {
+  "name": "Failed Monk",
+  "type": "Flaw",
+  "aliases": [
+   "Failed Nun"
+  ],
+  "description": "Minor Status Flaw: cast out of a cloistered order, poor Reputation 2; Failed Nun for women.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0470",
+   "realms-of-power-the-divine-revised::0479"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "description": "Major Virtue that combined with Senior Clergy places one among the wealthiest.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0477"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Virtue that with Senior Clergy means controlling an influential diocese or abbey.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0477"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability required at 4 for Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "Magister in Artibus",
+  "type": "Virtue",
+  "description": "Social Status allowing Ars Notoria at character creation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "description": "Social Status allowing Ars Notoria at character creation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0471"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "description": "Hermetic assembly where magi bring charges.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0388"
+  ]
+ },
+ {
+  "name": "Holy Spirit",
+  "type": "Concept",
+  "aliases": [
+   "Holy Ghost"
+  ],
+  "description": "Third person of the Trinity received at Confirmation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0383",
+   "realms-of-power-the-divine-revised::0390"
+  ]
+ },
+ {
+  "name": "Holy Roman Empire",
+  "type": "Place",
+  "description": "Empire whose emperor Charlemagne was crowned; an area of saint veneration.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377",
+   "realms-of-power-the-divine-revised::0459"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Region the Crusades sought to regain from Muslims.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377",
+   "realms-of-power-the-divine-revised::0379",
+   "realms-of-power-the-divine-revised::0433"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "description": "Muslim invaders of Europe.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0377",
+   "realms-of-power-the-divine-revised::0378"
+  ]
+ }
+]

@@ -1,0 +1,2354 @@
+[
+ {
+  "name": "Mystery",
+  "type": "Concept",
+  "aliases": [
+   "Mysteries",
+   "The Mysteries"
+  ],
+  "description": "A secret; the term describes both a cult that teaches secrets and the secret magics themselves, represented as Virtues and Flaws acquired after character generation.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0020"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Faction",
+  "aliases": [
+   "Esoteric Mysteries",
+   "Esoteric Mystery",
+   "Mystery Cults"
+  ],
+  "description": "A secretive organization that practices and teaches Mysteries, counting members across House boundaries; also called the Esoteric Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0008",
+   "the-mysteries-revised::0020",
+   "the-mysteries-revised::0026"
+  ]
+ },
+ {
+  "name": "Exoteric Mysteries",
+  "type": "Concept",
+  "aliases": [
+   "Exoteric Mystery",
+   "House Mysteries"
+  ],
+  "description": "The House Mysteries of Houses Criamon, Verditius, Merinita, and Bjornaer; Initiation into them is synonymous with membership in those Houses.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0019"
+  ]
+ },
+ {
+  "name": "Mystery Houses",
+  "type": "Concept",
+  "description": "The four Houses of Criamon, Bjornaer, Merinita, and Verditius, the smallest of the 12 Houses, which tend to look inward.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0016"
+  ]
+ },
+ {
+  "name": "True Lineages",
+  "type": "Concept",
+  "description": "One of the three groupings of Houses; Houses Bonisagus, Guernicus, Mercere, and Tremere are True Lineages.",
+  "evidence": [
+   "the-mysteries-revised::0007"
+  ]
+ },
+ {
+  "name": "Societates",
+  "type": "Concept",
+  "description": "Grouping of Houses comprising Flambeau, Jerbiton, Tytalus, and Ex Miscellanea.",
+  "evidence": [
+   "the-mysteries-revised::0007"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "description": "The process of learning a new Mystery, entering a Mystery Cult, or increasing status in one; it profoundly changes the magus and cannot be undone by magic.",
+  "evidence": [
+   "the-mysteries-revised::0019",
+   "the-mysteries-revised::0034",
+   "the-mysteries-revised::0035"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "description": "A written text, similar to a Lab Text, describing the rites, Quests, Ordeals, and Sacrifices of a successful Initiation; following it grants a bonus to the Initiation Total.",
+  "evidence": [
+   "the-mysteries-revised::0020",
+   "the-mysteries-revised::0033",
+   "the-mysteries-revised::0050"
+  ]
+ },
+ {
+  "name": "Initiation Total",
+  "type": "Concept",
+  "description": "Presence + (Mystery Cult) Lore + Script Bonus, compared against a Target Level (15/21 for known Minor/Major Virtues, 18/30 for new ones) with no die roll.",
+  "evidence": [
+   "the-mysteries-revised::0048",
+   "the-mysteries-revised::0049"
+  ]
+ },
+ {
+  "name": "Initiation Ordeal",
+  "type": "Concept",
+  "aliases": [
+   "Ordeal"
+  ],
+  "description": "A terrible rite such as branding or walking through fire that permanently marks the Initiate with a new Flaw and reduces Target Levels of later Initiations.",
+  "evidence": [
+   "the-mysteries-revised::0039",
+   "the-mysteries-revised::0040",
+   "the-mysteries-revised::0049"
+  ]
+ },
+ {
+  "name": "Initiation Quest",
+  "type": "Concept",
+  "aliases": [
+   "Quest"
+  ],
+  "description": "A story-based requirement of an Initiation Script involving a journey, danger, and challenges; takes at least one season.",
+  "evidence": [
+   "the-mysteries-revised::0039",
+   "the-mysteries-revised::0040",
+   "the-mysteries-revised::0041"
+  ]
+ },
+ {
+  "name": "Unique Quest",
+  "type": "Concept",
+  "description": "A very specific Quest that no similar Quester could repeat, such as bringing the head of the Minotaur; grants +6 instead of +3.",
+  "evidence": [
+   "the-mysteries-revised::0050",
+   "the-mysteries-revised::0054"
+  ]
+ },
+ {
+  "name": "Initiation Sacrifice",
+  "type": "Concept",
+  "description": "The least taxing Initiation requirement: a sacrifice of time, wealth, books, a talisman, or even an apprentice or familiar.",
+  "evidence": [
+   "the-mysteries-revised::0039",
+   "the-mysteries-revised::0041"
+  ]
+ },
+ {
+  "name": "Ordeal Flaws",
+  "type": "Concept",
+  "description": "Flaws inflicted by Initiation Ordeals; they cannot be lost in play or overcome by Hermetic magic.",
+  "evidence": [
+   "the-mysteries-revised::0034",
+   "the-mysteries-revised::0039"
+  ]
+ },
+ {
+  "name": "Sacrifice of Power",
+  "type": "Concept",
+  "description": "Taking a Hermetic Flaw as an Ordeal, considered mythically very appropriate for Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0045",
+   "the-mysteries-revised::0052"
+  ]
+ },
+ {
+  "name": "Experimental Scripts",
+  "type": "Concept",
+  "description": "Process by which a Mystagogue devises a new Initiation Script through risky experimentation using the Extraordinary Results chart and a validity roll.",
+  "evidence": [
+   "the-mysteries-revised::0066",
+   "the-mysteries-revised::0067",
+   "the-mysteries-revised::0068"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "CharacterType",
+  "description": "A magus who conducts Initiation or teaches Mysteries; a role rather than a title, often a senior cult member with high Presence and (Mystery Cult) Lore.",
+  "evidence": [
+   "the-mysteries-revised::0020",
+   "the-mysteries-revised::0046"
+  ]
+ },
+ {
+  "name": "Initiate",
+  "type": "CharacterType",
+  "description": "A member of a Mystery Cult, or one undergoing the rite to become such.",
+  "evidence": [
+   "the-mysteries-revised::0019",
+   "the-mysteries-revised::0034"
+  ]
+ },
+ {
+  "name": "Probationer",
+  "type": "CharacterType",
+  "description": "One who seeks entry to a Mystery Cult but has not yet been Initiated.",
+  "evidence": [
+   "the-mysteries-revised::0021",
+   "the-mysteries-revised::0031"
+  ]
+ },
+ {
+  "name": "Mystae",
+  "type": "CharacterType",
+  "description": "A magus who has Mystery Virtues; members of a Mystery Cult.",
+  "evidence": [
+   "the-mysteries-revised::0014",
+   "the-mysteries-revised::0020"
+  ]
+ },
+ {
+  "name": "Hierophant",
+  "type": "CharacterType",
+  "description": "One of many titles for the leader of a Mystery Cult.",
+  "evidence": [
+   "the-mysteries-revised::0019"
+  ]
+ },
+ {
+  "name": "Eremite",
+  "type": "CharacterType",
+  "description": "A magus who prefers isolation from the rest of the Order; a hermit.",
+  "evidence": [
+   "the-mysteries-revised::0019"
+  ]
+ },
+ {
+  "name": "Degree",
+  "type": "Concept",
+  "description": "A rank of status or Initiation within a Mystery Cult; each degree typically teaches a distinct Mystery Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0019",
+   "the-mysteries-revised::0037",
+   "the-mysteries-revised::0044"
+  ]
+ },
+ {
+  "name": "Outer Mysteries",
+  "type": "Concept",
+  "description": "The most basic Mysteries known to all Initiates of a Mystery Cult, often prerequisites for more advanced Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0020"
+  ]
+ },
+ {
+  "name": "Common Magics",
+  "type": "Concept",
+  "aliases": [
+   "Common Mysteries",
+   "Curious Common Magics"
+  ],
+  "description": "Mystery Virtues once secret but now well known throughout the Order, which any character may take at creation.",
+  "evidence": [
+   "the-mysteries-revised::0018",
+   "the-mysteries-revised::0097",
+   "the-mysteries-revised::0107"
+  ]
+ },
+ {
+  "name": "Esoteric Magic",
+  "type": "Concept",
+  "description": "Secret variations on standard Hermetic magic practiced by those who belong to Mystery Cults.",
+  "evidence": [
+   "the-mysteries-revised::0019"
+  ]
+ },
+ {
+  "name": "Mystery Virtues",
+  "type": "Concept",
+  "description": "Virtues gained through Initiation into Mysteries; they can be taught to non-Initiates only under special circumstances such as a Minor Breakthrough.",
+  "evidence": [
+   "the-mysteries-revised::0014",
+   "the-mysteries-revised::0034"
+  ]
+ },
+ {
+  "name": "School",
+  "type": "Concept",
+  "description": "A loose grouping of associated Mystery Virtues, such as the school of Hermetic Astrology.",
+  "evidence": [
+   "the-mysteries-revised::0021"
+  ]
+ },
+ {
+  "name": "Philosophy",
+  "type": "Concept",
+  "description": "The pursuit and love of wisdom, often used as a code word for magic.",
+  "evidence": [
+   "the-mysteries-revised::0020"
+  ]
+ },
+ {
+  "name": "Secular",
+  "type": "Concept",
+  "description": "Worldly as opposed to religious; Hermetic magic is secular because Bonisagus removed invocation of names and powers from the Techniques and Forms.",
+  "evidence": [
+   "the-mysteries-revised::0011",
+   "the-mysteries-revised::0021"
+  ]
+ },
+ {
+  "name": "Hermetic Magic",
+  "type": "Concept",
+  "description": "Bonisagus's closed, secular system of magic that directly manipulates magical elements of Creation without invoking spirits or deities.",
+  "evidence": [
+   "the-mysteries-revised::0011",
+   "the-mysteries-revised::0013"
+  ]
+ },
+ {
+  "name": "Minor Breakthrough",
+  "type": "Concept",
+  "description": "Research achievement usually required to teach Mystery Virtues to non-Initiates.",
+  "evidence": [
+   "the-mysteries-revised::0014"
+  ]
+ },
+ {
+  "name": "Hermetic Breakthrough",
+  "type": "Concept",
+  "description": "Research breakthrough that may allow a hedge magic tradition to be adapted to Hermetic theory.",
+  "evidence": [
+   "the-mysteries-revised::0025",
+   "the-mysteries-revised::0069"
+  ]
+ },
+ {
+  "name": "Hedge Magic",
+  "type": "Concept",
+  "aliases": [
+   "hedge wizards"
+  ],
+  "description": "Non-Hermetic magical traditions; some have been reworked into Hermetic theory or Mystery Cults.",
+  "evidence": [
+   "the-mysteries-revised::0010",
+   "the-mysteries-revised::0012",
+   "the-mysteries-revised::0069"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "The supernatural talent needed to work Hermetic magic; its social problems are well known, and Mysteries may alter it.",
+  "evidence": [
+   "the-mysteries-revised::0010",
+   "the-mysteries-revised::0013",
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "The magus's protective magic, cast every nightfall; Rhiannon had to forgo it for her Initiation rite.",
+  "evidence": [
+   "the-mysteries-revised::0027"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "description": "The oath binding Hermetic magi; teaching Mystery abilities to non-Initiates is not a breach of it.",
+  "evidence": [
+   "the-mysteries-revised::0014"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "description": "Formal Hermetic conflict by which enemies could hunt down known members of a Mystery Cult.",
+  "evidence": [
+   "the-mysteries-revised::0024"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Hermetic magical duel; defeating a Tremere Archmagus at certamen is an example Quest.",
+  "evidence": [
+   "the-mysteries-revised::0040",
+   "the-mysteries-revised::0087"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "description": "The test ending apprenticeship; many young magi fly the nest after their Gauntlets.",
+  "evidence": [
+   "the-mysteries-revised::0026",
+   "the-mysteries-revised::0027",
+   "the-mysteries-revised::0074"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power paid as cult dues, typically a pawn a year, with seven or more pawns for a new degree.",
+  "evidence": [
+   "the-mysteries-revised::0023",
+   "the-mysteries-revised::0079",
+   "the-mysteries-revised::0080"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "description": "A magus's personal enchanted item, which may be sacrificed in Initiation; Darius sacrificed his long spear talisman.",
+  "evidence": [
+   "the-mysteries-revised::0041",
+   "the-mysteries-revised::0059",
+   "the-mysteries-revised::0060"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "A magus's bonded magical companion, which may be sacrificed in an Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0041",
+   "the-mysteries-revised::0051",
+   "the-mysteries-revised::0086"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Place",
+  "description": "A hidden magical area; an example Initiation takes place in a regio beneath a cathedral.",
+  "evidence": [
+   "the-mysteries-revised::0052",
+   "the-mysteries-revised::0084"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Final Twilight"
+  ],
+  "description": "Hermetic magical state; texts written by authors close to Final Twilight are rumored dangerous to memorize.",
+  "evidence": [
+   "the-mysteries-revised::0105"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Magical side effect from continuous magical protection such as long-term Fortification of the Memory Palace.",
+  "evidence": [
+   "the-mysteries-revised::0106"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that spells must penetrate to affect a target, including spirits being commanded.",
+  "evidence": [
+   "the-mysteries-revised::0106",
+   "the-mysteries-revised::0112",
+   "the-mysteries-revised::0116"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Magical link; a bound spell and its container become Arcane Connections to each other, and a fire serves as one to elemental fire spirits.",
+  "evidence": [
+   "the-mysteries-revised::0109",
+   "the-mysteries-revised::0113",
+   "the-mysteries-revised::0117"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "description": "A spirit's magical strength; a bound spirit must have Might at least equal to the sustained spell's level.",
+  "evidence": [
+   "the-mysteries-revised::0108",
+   "the-mysteries-revised::0111",
+   "the-mysteries-revised::0112"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "description": "Magical ritual slowing aging; creating an enhanced one is an example of a favor between magi.",
+  "evidence": [
+   "the-mysteries-revised::0086"
+  ]
+ },
+ {
+  "name": "Memory Palace",
+  "type": "Concept",
+  "description": "A mnemonic structure of rooms and loci used in the Art of Memory, traditionally a square villa with a central courtyard; number of rooms equals Art of Memory score.",
+  "evidence": [
+   "the-mysteries-revised::0098",
+   "the-mysteries-revised::0100"
+  ]
+ },
+ {
+  "name": "Loci",
+  "type": "Concept",
+  "aliases": [
+   "Locus"
+  ],
+  "description": "Locations within a memory palace, five per room, each holding a complex piece of information.",
+  "evidence": [
+   "the-mysteries-revised::0098",
+   "the-mysteries-revised::0100",
+   "the-mysteries-revised::0104"
+  ]
+ },
+ {
+  "name": "Heartbeast",
+  "type": "Concept",
+  "aliases": [
+   "heartbeasts"
+  ],
+  "description": "A House Bjornaer magic that does not fit Bonisagus's theoretical framework well.",
+  "evidence": [
+   "the-mysteries-revised::0007"
+  ]
+ },
+ {
+  "name": "Corruption of House Tytalus",
+  "type": "Concept",
+  "description": "A recent infernal fall within House Tytalus that reminds the Order how easily magic slips into Infernal sorcery.",
+  "evidence": [
+   "the-mysteries-revised::0010"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "description": "Both the ancient Roman priesthood and the modern Hermetic group that adopted its name.",
+  "evidence": [
+   "the-mysteries-revised::0009",
+   "the-mysteries-revised::0018"
+  ]
+ },
+ {
+  "name": "Mercuralia",
+  "type": "Concept",
+  "description": "A Neo-Mercurian yearly festival requiring attendance.",
+  "evidence": [
+   "the-mysteries-revised::0082"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Creature",
+  "aliases": [
+   "Daimons"
+  ],
+  "description": "Spiritual intelligences, primarily of pagan heroes and fallen gods, more powerful than ghosts and elementals.",
+  "evidence": [
+   "the-mysteries-revised::0005",
+   "the-mysteries-revised::0018",
+   "the-mysteries-revised::0019"
+  ]
+ },
+ {
+  "name": "Gnostics",
+  "type": "Faction",
+  "aliases": [
+   "Gnostic"
+  ],
+  "description": "Those who sought salvation in secret knowledge; heretical magical religions of the early Christian era exterminated by the Church.",
+  "evidence": [
+   "the-mysteries-revised::0019",
+   "the-mysteries-revised::0084"
+  ]
+ },
+ {
+  "name": "Hermetic Alchemy",
+  "type": "Concept",
+  "description": "Mystery school developed from alchemical knowledge first translated into Latin in 1134 from the Islamic world.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0097"
+  ]
+ },
+ {
+  "name": "Hermetic Astrology",
+  "type": "Concept",
+  "description": "School of Virtues concerned with the influence of the stars on magic.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0021"
+  ]
+ },
+ {
+  "name": "Divination & Augury",
+  "type": "Virtue",
+  "aliases": [
+   "Divination"
+  ],
+  "description": "Mystery of divination; a wise magus learned through it that Flora was innocent.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0093"
+  ]
+ },
+ {
+  "name": "Spell Binding",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue for binding spells into containers where a spirit is compelled to sustain the spell indefinitely.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0107",
+   "the-mysteries-revised::0108"
+  ]
+ },
+ {
+  "name": "Performance Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue letting a magus conceal spellcasting using the actions and words of a chosen Ability and maintain spells without Concentration rolls.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0118",
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Planetary Magic",
+  "type": "Virtue",
+  "description": "A common Virtue once a Mystery secret before being betrayed.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0097",
+   "the-mysteries-revised::0107"
+  ]
+ },
+ {
+  "name": "Potent Magic",
+  "type": "Virtue",
+  "aliases": [
+   "Minor Potent Magic",
+   "Major Potent Magic"
+  ],
+  "description": "Common Virtue; Major Potent Magic requires and replaces Minor Potent Magic.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0050"
+  ]
+ },
+ {
+  "name": "Vulgar Alchemy",
+  "type": "Virtue",
+  "description": "Common Virtue once a Mystery secret taught only by certain cults.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0107"
+  ]
+ },
+ {
+  "name": "Withstand Casting",
+  "type": "Virtue",
+  "description": "Common Magic Virtue listed in Chapter 4.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Cyclic Magic (Astrological)",
+  "type": "Virtue",
+  "description": "Astrological variant of Cyclic Magic listed among the Curious Common Magics.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "description": "Virtue that can be stacked Minor/Major through Initiation; an Astrological version appears among common magics.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0067"
+  ]
+ },
+ {
+  "name": "Mutable Virtue or Flaw",
+  "type": "Concept",
+  "description": "Rule option listed among the Curious Common Magics.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Vulnerable Casting",
+  "type": "Flaw",
+  "description": "Flaw listed among the Curious Common Magics.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Philosophic Alchemy",
+  "type": "Virtue",
+  "description": "Mystery of the Hermetic Alchemy school.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "The Lesser Elixir",
+  "type": "Virtue",
+  "aliases": [
+   "Lesser Elixir"
+  ],
+  "description": "Alchemical Mystery of Chapter 5.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "The Great Elixir",
+  "type": "Virtue",
+  "aliases": [
+   "Great Elixir"
+  ],
+  "description": "Alchemical Mystery of Chapter 5.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Order of the Green Cockerel",
+  "type": "Faction",
+  "description": "Alchemical group described in the Hermetic Alchemy chapter.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Periapt",
+  "type": "Virtue",
+  "description": "Hermetic Astrology Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Celestial Magic",
+  "type": "Virtue",
+  "description": "Hermetic Astrology Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Magical Armillary Sphere",
+  "type": "Item",
+  "description": "Astrological device described in the Hermetic Astrology chapter.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Magoi of the Star",
+  "type": "Faction",
+  "description": "Astrological group described in the Hermetic Astrology chapter.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Astrological Correspondences",
+  "type": "Concept",
+  "description": "Astrological reference material in the Hermetic Astrology chapter.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Dream Interpreter",
+  "type": "Virtue",
+  "description": "Divination Mystery Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Spirit Magic",
+  "type": "Concept",
+  "description": "Mystery school of spirit magic (Chapter 8).",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Empowerment",
+  "type": "Virtue",
+  "description": "Spirit magic Mystery Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Spirit Familiar",
+  "type": "Virtue",
+  "description": "Spirit magic Mystery Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Inscription on the Soul",
+  "type": "Virtue",
+  "description": "Spirit magic Mystery Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Living Ghost",
+  "type": "Virtue",
+  "description": "Spirit magic Mystery Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Names of Power",
+  "type": "Virtue",
+  "description": "Hermetic Theurgy Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Invocation Magic",
+  "type": "Virtue",
+  "description": "Hermetic Theurgy Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Virtue",
+  "description": "Mystery of theurgists seeking to become gods.",
+  "evidence": [
+   "the-mysteries-revised::0000",
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Theurgic Spirit Familiar",
+  "type": "Virtue",
+  "description": "Hermetic Theurgy Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Ascendancy to the Hall of Heroes",
+  "type": "Virtue",
+  "description": "Theurgic Mystery granting apotheosis into the Hall of Heroes.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0094"
+  ]
+ },
+ {
+  "name": "Hall of Heroes",
+  "type": "Place",
+  "description": "Destination of apotheosis to which the Philosophers of Rome aspire.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0094"
+  ]
+ },
+ {
+  "name": "Hermetic Synthemata",
+  "type": "Virtue",
+  "description": "Hermetic Theurgy Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Synthemata Magia",
+  "type": "Virtue",
+  "description": "Hermetic Theurgy Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Great Talisman",
+  "type": "Virtue",
+  "description": "Mystery of Chapter 10.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Consummate Talisman",
+  "type": "Virtue",
+  "description": "Mystery of Chapter 10.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Arithmetic Magic",
+  "type": "Concept",
+  "description": "Mystery school of Chapter 11.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Numerology",
+  "type": "Virtue",
+  "description": "Arithmetic Magic Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Geometry",
+  "type": "Virtue",
+  "description": "Arithmetic Magic Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Architecture",
+  "type": "Virtue",
+  "description": "Arithmetic Magic Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Dream Magic",
+  "type": "Virtue",
+  "description": "Mystery of dreams.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "The Greater Dream Grimoire",
+  "type": "Item",
+  "description": "Dream Mystery text described in Chapter 12.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "The Dream Landscape",
+  "type": "Place",
+  "description": "Dream realm described in the Mysteries of Dreams chapter.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Mercurian Magic",
+  "type": "Concept",
+  "description": "Mystery school of Chapter 13 tied to Mercurian groups in the Order.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Hermetic Sacrifice",
+  "type": "Virtue",
+  "description": "Mercurian Magic Mystery.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "Immortal Magi",
+  "type": "Concept",
+  "description": "Appendix topic of The Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0005"
+  ]
+ },
+ {
+  "name": "Ceremonial Casting",
+  "type": "Ability",
+  "description": "New Mastery Ability introduced in Chapter 4.",
+  "evidence": [
+   "the-mysteries-revised::0004"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "True Lineage whose magi study Mystery Cult rites seeking breakthroughs.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0025"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "True Lineage House.",
+  "evidence": [
+   "the-mysteries-revised::0007"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "True Lineage House.",
+  "evidence": [
+   "the-mysteries-revised::0007"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "True Lineage House (printed as Termere).",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0040"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Societas House; Darius and Lucius are its members.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0056",
+   "the-mysteries-revised::0071"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Societas House.",
+  "evidence": [
+   "the-mysteries-revised::0007"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Societas House whose infernal Corruption remains in memory.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0010"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Societas House; Diana is a member.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0022"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Mystery House of the Exoteric Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0019",
+   "the-mysteries-revised::0071"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Mystery House known for heartbeasts and shape-changers.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0016",
+   "the-mysteries-revised::0071"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Mystery House of the Exoteric Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0019",
+   "the-mysteries-revised::0071"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Mystery House of enchanters.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0016",
+   "the-mysteries-revised::0071"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The organization of Hermetic magi, divided into 12 Houses.",
+  "evidence": [
+   "the-mysteries-revised::0006",
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0014"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Founder who created the secular Hermetic magic system and welcomed the four Exoteric Mysteries into the Order.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0011",
+   "the-mysteries-revised::0012"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "description": "Founder who worked hard to bring the Order together.",
+  "evidence": [
+   "the-mysteries-revised::0012"
+  ]
+ },
+ {
+  "name": "Flambeau",
+  "type": "Character",
+  "description": "Founder quoted: 'Adjungite nobis an perete!' — Join us or die!",
+  "evidence": [
+   "the-mysteries-revised::0026"
+  ]
+ },
+ {
+  "name": "Criamon",
+  "type": "Character",
+  "description": "Founder of a Mystery House.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0012"
+  ]
+ },
+ {
+  "name": "Bjornaer",
+  "type": "Character",
+  "description": "Founder of a Mystery House.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0012"
+  ]
+ },
+ {
+  "name": "Merinita",
+  "type": "Character",
+  "description": "Founder of a Mystery House.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0012"
+  ]
+ },
+ {
+  "name": "Verditius",
+  "type": "Character",
+  "description": "Founder of a Mystery House.",
+  "evidence": [
+   "the-mysteries-revised::0007",
+   "the-mysteries-revised::0012"
+  ]
+ },
+ {
+  "name": "Diana of Ex Miscellanea",
+  "type": "Character",
+  "description": "A Mystagogue of the Disciples of the Worm.",
+  "evidence": [
+   "the-mysteries-revised::0022"
+  ]
+ },
+ {
+  "name": "Lucius",
+  "type": "Character",
+  "description": "A sodalis who vanished for three days last solstice, an example of suspicious behavior.",
+  "evidence": [
+   "the-mysteries-revised::0023"
+  ]
+ },
+ {
+  "name": "Svetlana",
+  "type": "Character",
+  "description": "Maga making late-night journeys to Gallows Wood, supposedly harvesting vis.",
+  "evidence": [
+   "the-mysteries-revised::0023"
+  ]
+ },
+ {
+  "name": "Rhiannon",
+  "type": "Character",
+  "description": "Maga undergoing an Initiation rite alone and without Parma Magica, who passes when a stag appears.",
+  "evidence": [
+   "the-mysteries-revised::0027",
+   "the-mysteries-revised::0028",
+   "the-mysteries-revised::0029"
+  ]
+ },
+ {
+  "name": "Hedvig of the Rhine",
+  "type": "Character",
+  "description": "Legendary maga devoured by werewolves while awaiting induction into a Mystery Cult.",
+  "evidence": [
+   "the-mysteries-revised::0028"
+  ]
+ },
+ {
+  "name": "Winifred of the Four Oaks",
+  "type": "Character",
+  "description": "Initiate of the Knights of the Green Stone who passed her acceptance by being frozen in fear.",
+  "evidence": [
+   "the-mysteries-revised::0028",
+   "the-mysteries-revised::0029"
+  ]
+ },
+ {
+  "name": "Darius filius Xerxes",
+  "type": "Character",
+  "aliases": [
+   "Darius"
+  ],
+  "description": "Flambeau Hoplite of Semita Errabunda, Initiated into the Legion of Mithras as Raven and then Bride.",
+  "evidence": [
+   "the-mysteries-revised::0056",
+   "the-mysteries-revised::0058",
+   "the-mysteries-revised::0061"
+  ]
+ },
+ {
+  "name": "Xerxes",
+  "type": "Character",
+  "description": "Parens of Darius.",
+  "evidence": [
+   "the-mysteries-revised::0056"
+  ]
+ },
+ {
+  "name": "Pepino",
+  "type": "Character",
+  "description": "Hoplite and Legion of Mithras member who introduced and taught Darius.",
+  "evidence": [
+   "the-mysteries-revised::0056",
+   "the-mysteries-revised::0057",
+   "the-mysteries-revised::0062"
+  ]
+ },
+ {
+  "name": "Sebastiano",
+  "type": "Character",
+  "description": "Lion of Mithras and Mystagogue at Darius's Initiations, with Presence +3 and Lore 7.",
+  "evidence": [
+   "the-mysteries-revised::0058",
+   "the-mysteries-revised::0059",
+   "the-mysteries-revised::0064"
+  ]
+ },
+ {
+  "name": "Lucius of Flambeau",
+  "type": "Character",
+  "description": "Founder of the Seventh Wave cult who self-Initiates into Affinity with Art (Aquam).",
+  "evidence": [
+   "the-mysteries-revised::0071",
+   "the-mysteries-revised::0072",
+   "the-mysteries-revised::0073"
+  ]
+ },
+ {
+  "name": "Flora",
+  "type": "Character",
+  "description": "Maga falsely accused before Tribunal whose casting sigil was faked.",
+  "evidence": [
+   "the-mysteries-revised::0093"
+  ]
+ },
+ {
+  "name": "Constantine",
+  "type": "Character",
+  "description": "Example magus who binds Sunlight Without Flame with a fire elemental.",
+  "evidence": [
+   "the-mysteries-revised::0113"
+  ]
+ },
+ {
+  "name": "Mari Amwithig",
+  "type": "Character",
+  "description": "Constantine's rival, a Perdo specialist.",
+  "evidence": [
+   "the-mysteries-revised::0113"
+  ]
+ },
+ {
+  "name": "Tertullian",
+  "type": "Character",
+  "description": "Quoted authority on initiation rites.",
+  "evidence": [
+   "the-mysteries-revised::0050"
+  ]
+ },
+ {
+  "name": "Mithras",
+  "type": "Character",
+  "description": "Deity whose secret rites the Legion of Mithras teaches.",
+  "evidence": [
+   "the-mysteries-revised::0057",
+   "the-mysteries-revised::0062"
+  ]
+ },
+ {
+  "name": "Knights of the Green Stone",
+  "type": "Faction",
+  "description": "Mystery Cult contesting the decline of magic, questing to bring magic fully into the world.",
+  "evidence": [
+   "the-mysteries-revised::0005",
+   "the-mysteries-revised::0009",
+   "the-mysteries-revised::0028"
+  ]
+ },
+ {
+  "name": "Mystic Fraternity of Samos",
+  "type": "Faction",
+  "aliases": [
+   "Samos Cult",
+   "Pythagoreans"
+  ],
+  "description": "Pythagorean Mystery Cult that openly advertises its existence.",
+  "evidence": [
+   "the-mysteries-revised::0005",
+   "the-mysteries-revised::0024",
+   "the-mysteries-revised::0025"
+  ]
+ },
+ {
+  "name": "Children of Hermes",
+  "type": "Faction",
+  "description": "Mystery Cult seeking other cults' secrets for its messianic religion; requires vis dues and recruits young magi.",
+  "evidence": [
+   "the-mysteries-revised::0005",
+   "the-mysteries-revised::0025",
+   "the-mysteries-revised::0079"
+  ]
+ },
+ {
+  "name": "Philosophers of Rome",
+  "type": "Faction",
+  "description": "Hedonistic scholarly Mystery Cult aspiring to godhood.",
+  "evidence": [
+   "the-mysteries-revised::0005",
+   "the-mysteries-revised::0040",
+   "the-mysteries-revised::0083"
+  ]
+ },
+ {
+  "name": "Legion of Mithras",
+  "type": "Faction",
+  "description": "Mystery Cult requiring exemplary service to the Order; degrees include Raven, Bride, and Lion.",
+  "evidence": [
+   "the-mysteries-revised::0005",
+   "the-mysteries-revised::0056",
+   "the-mysteries-revised::0096"
+  ]
+ },
+ {
+  "name": "Disciples of the Worm",
+  "type": "Faction",
+  "description": "Mystery Cult whose rites involve an ancient crypt and the mysteries of the maggots.",
+  "evidence": [
+   "the-mysteries-revised::0005",
+   "the-mysteries-revised::0022"
+  ]
+ },
+ {
+  "name": "Neo-Mercurians",
+  "type": "Faction",
+  "aliases": [
+   "Neo-Mercurian temple"
+  ],
+  "description": "Mercurian Mystery Cult of magical archaeology, celebrating Mercuralia.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0079",
+   "the-mysteries-revised::0082"
+  ]
+ },
+ {
+  "name": "Volshebnii Mechtateli",
+  "type": "Faction",
+  "description": "Dream society that recruits from younger magi.",
+  "evidence": [
+   "the-mysteries-revised::0004",
+   "the-mysteries-revised::0096"
+  ]
+ },
+ {
+  "name": "Seventh Wave",
+  "type": "Faction",
+  "description": "New cult founded by Lucius of Flambeau to rediscover lost magics of a ruined Fens covenant.",
+  "evidence": [
+   "the-mysteries-revised::0071",
+   "the-mysteries-revised::0072"
+  ]
+ },
+ {
+  "name": "Quaesitors",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitor"
+  ],
+  "description": "Hermetic investigators who observe cult rites.",
+  "evidence": [
+   "the-mysteries-revised::0025",
+   "the-mysteries-revised::0070",
+   "the-mysteries-revised::0093"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "description": "Looks askance at magic practitioners.",
+  "evidence": [
+   "the-mysteries-revised::0010",
+   "the-mysteries-revised::0021"
+  ]
+ },
+ {
+  "name": "Raven of Mithras",
+  "type": "CharacterType",
+  "description": "First degree of the Legion of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0058",
+   "the-mysteries-revised::0061"
+  ]
+ },
+ {
+  "name": "Bride of Mithras",
+  "type": "CharacterType",
+  "description": "Second degree of the Legion of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0062"
+  ]
+ },
+ {
+  "name": "Lion of Mithras",
+  "type": "CharacterType",
+  "description": "Rank in the Legion of Mithras held by Sebastiano.",
+  "evidence": [
+   "the-mysteries-revised::0058"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "description": "Magus who serves the Order; Darius and Pepino are Hoplites.",
+  "evidence": [
+   "the-mysteries-revised::0056"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "description": "Messengers of the Order.",
+  "evidence": [
+   "the-mysteries-revised::0014",
+   "the-mysteries-revised::0026"
+  ]
+ },
+ {
+  "name": "Archmagus",
+  "type": "CharacterType",
+  "description": "Senior magus title.",
+  "evidence": [
+   "the-mysteries-revised::0040"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "description": "Head of a House; the Primus knows how the Library of Durenmar was enchanted.",
+  "evidence": [
+   "the-mysteries-revised::0105"
+  ]
+ },
+ {
+  "name": "Holy Magi",
+  "type": "CharacterType",
+  "description": "Magi who practice magic in a religious form.",
+  "evidence": [
+   "the-mysteries-revised::0011"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Covenant to which magi may send knowledge by Redcap.",
+  "evidence": [
+   "the-mysteries-revised::0014"
+  ]
+ },
+ {
+  "name": "Library of Durenmar",
+  "type": "Place",
+  "description": "Enchanted to prevent Memory Palace of the Sage being performed within.",
+  "evidence": [
+   "the-mysteries-revised::0105"
+  ]
+ },
+ {
+  "name": "Semita Errabunda",
+  "type": "Covenant",
+  "description": "Covenant of Darius.",
+  "evidence": [
+   "the-mysteries-revised::0056"
+  ]
+ },
+ {
+  "name": "Natura Antiqua",
+  "type": "Covenant",
+  "description": "Ruined covenant in the Fens of the Stonehenge Tribunal.",
+  "evidence": [
+   "the-mysteries-revised::0069"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal containing the Fens and Natura Antiqua.",
+  "evidence": [
+   "the-mysteries-revised::0069"
+  ]
+ },
+ {
+  "name": "Loch Leglean",
+  "type": "Tribunal",
+  "description": "Region with a stone circle to be mapped.",
+  "evidence": [
+   "the-mysteries-revised::0079"
+  ]
+ },
+ {
+  "name": "The Fens",
+  "type": "Place",
+  "description": "Wetlands where Natura Antiqua and the Seventh Wave lie.",
+  "evidence": [
+   "the-mysteries-revised::0069",
+   "the-mysteries-revised::0072"
+  ]
+ },
+ {
+  "name": "Gallows Wood",
+  "type": "Place",
+  "description": "Wood where Svetlana harvested vis.",
+  "evidence": [
+   "the-mysteries-revised::0023"
+  ]
+ },
+ {
+  "name": "Egypt",
+  "type": "Place",
+  "description": "Destination of Neo-Mercurian journeys.",
+  "evidence": [
+   "the-mysteries-revised::0079"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Pilgrimage destination.",
+  "evidence": [
+   "the-mysteries-revised::0010"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting.",
+  "evidence": [
+   "the-mysteries-revised::0009",
+   "the-mysteries-revised::0040",
+   "the-mysteries-revised::0078"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "Magi claim descent from Rome.",
+  "evidence": [
+   "the-mysteries-revised::0018"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "Infernal realm"
+  ],
+  "description": "Realm of demons.",
+  "evidence": [
+   "the-mysteries-revised::0010",
+   "the-mysteries-revised::0111"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "One of the four realms.",
+  "evidence": [
+   "the-mysteries-revised::0111",
+   "the-mysteries-revised::0115"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "One of the four realms.",
+  "evidence": [
+   "the-mysteries-revised::0111",
+   "the-mysteries-revised::0115"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [
+   "Magic realm"
+  ],
+  "description": "One of the four realms.",
+  "evidence": [
+   "the-mysteries-revised::0111",
+   "the-mysteries-revised::0115"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "the-mysteries-revised::0032",
+   "the-mysteries-revised::0103"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "the-mysteries-revised::0032",
+   "the-mysteries-revised::0103"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "the-mysteries-revised::0110"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "the-mysteries-revised::0093"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form.",
+  "evidence": [
+   "the-mysteries-revised::0032",
+   "the-mysteries-revised::0101"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form.",
+  "evidence": [
+   "the-mysteries-revised::0032"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form.",
+  "evidence": [
+   "the-mysteries-revised::0110"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form.",
+  "evidence": [
+   "the-mysteries-revised::0110"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form.",
+  "evidence": [
+   "the-mysteries-revised::0110"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form.",
+  "evidence": [
+   "the-mysteries-revised::0071"
+  ]
+ },
+ {
+  "name": "(Mystery Cult) Lore",
+  "type": "Ability",
+  "description": "The Organization Lore of a particular cult, covering legends, rites, passwords, symbolism.",
+  "evidence": [
+   "the-mysteries-revised::0033",
+   "the-mysteries-revised::0035",
+   "the-mysteries-revised::0048"
+  ]
+ },
+ {
+  "name": "Legion of Mithras Lore",
+  "type": "Ability",
+  "description": "Mystery Cult Lore of the Legion of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0057",
+   "the-mysteries-revised::0058"
+  ]
+ },
+ {
+  "name": "Seventh Wave Lore",
+  "type": "Ability",
+  "description": "Mystery Cult Lore of the Seventh Wave.",
+  "evidence": [
+   "the-mysteries-revised::0072",
+   "the-mysteries-revised::0073"
+  ]
+ },
+ {
+  "name": "Natura Antiqua Cult Lore",
+  "type": "Ability",
+  "description": "Example new Mystery Cult Lore.",
+  "evidence": [
+   "the-mysteries-revised::0069"
+  ]
+ },
+ {
+  "name": "Organization Lore",
+  "type": "Ability",
+  "description": "Lore of an organization.",
+  "evidence": [
+   "the-mysteries-revised::0025",
+   "the-mysteries-revised::0069"
+  ]
+ },
+ {
+  "name": "Art of Memory",
+  "type": "Ability",
+  "description": "Academic Ability for memory palaces.",
+  "evidence": [
+   "the-mysteries-revised::0098",
+   "the-mysteries-revised::0099",
+   "the-mysteries-revised::0100"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability Darius learns to instruct Initiates.",
+  "evidence": [
+   "the-mysteries-revised::0058",
+   "the-mysteries-revised::0061",
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Core Hermetic Ability.",
+  "evidence": [
+   "the-mysteries-revised::0017",
+   "the-mysteries-revised::0092",
+   "the-mysteries-revised::0102"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Law Ability usable for memorizing court proceedings.",
+  "evidence": [
+   "the-mysteries-revised::0102"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Bows",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "description": "Ability that qualifies for Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0119"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "description": "Virtue Darius gains via Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0058",
+   "the-mysteries-revised::0061"
+  ]
+ },
+ {
+  "name": "Strong Willed",
+  "type": "Virtue",
+  "description": "Virtue Sebastiano was Initiated into.",
+  "evidence": [
+   "the-mysteries-revised::0058"
+  ]
+ },
+ {
+  "name": "Clear Thinker",
+  "type": "Virtue",
+  "description": "Virtue for Legion second degree.",
+  "evidence": [
+   "the-mysteries-revised::0062"
+  ]
+ },
+ {
+  "name": "Affinity with Art",
+  "type": "Virtue",
+  "description": "Virtue Lucius seeks for Aquam.",
+  "evidence": [
+   "the-mysteries-revised::0071"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "description": "Cannot be Initiated.",
+  "evidence": [
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "Hermetic Prestige",
+  "type": "Virtue",
+  "description": "Cannot be Initiated.",
+  "evidence": [
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "description": "Birth Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "description": "Birth Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Circumstance Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Virtue",
+  "description": "Circumstance Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Virtue",
+  "description": "Circumstance Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0047"
+  ]
+ },
+ {
+  "name": "Mythic Blood",
+  "type": "Virtue",
+  "description": "Intrinsic magical ability; cannot be taught.",
+  "evidence": [
+   "the-mysteries-revised::0014"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Virtue",
+  "description": "Lets magi bind Faerie spirits.",
+  "evidence": [
+   "the-mysteries-revised::0111"
+  ]
+ },
+ {
+  "name": "Cabal Legacy",
+  "type": "Flaw",
+  "description": "Minor Hermetic Story Flaw for apprentices Initiated into Mystery Cults.",
+  "evidence": [
+   "the-mysteries-revised::0018",
+   "the-mysteries-revised::0074",
+   "the-mysteries-revised::0076"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "description": "Flaw via fire Ordeal.",
+  "evidence": [
+   "the-mysteries-revised::0053"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "description": "Darius's Minor Ordeal Flaw.",
+  "evidence": [
+   "the-mysteries-revised::0059",
+   "the-mysteries-revised::0065"
+  ]
+ },
+ {
+  "name": "Deficient Form",
+  "type": "Flaw",
+  "description": "Sacrifice of Power Ordeal Flaw.",
+  "evidence": [
+   "the-mysteries-revised::0052"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "description": "Substitute Flaw.",
+  "evidence": [
+   "the-mysteries-revised::0065"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "description": "Major Story Flaw.",
+  "evidence": [
+   "the-mysteries-revised::0077"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "description": "Well-known Ritual.",
+  "evidence": [
+   "the-mysteries-revised::0007"
+  ]
+ },
+ {
+  "name": "Ball of Abysmal Flame",
+  "type": "Spell",
+  "description": "Spell young magi invent.",
+  "evidence": [
+   "the-mysteries-revised::0013"
+  ]
+ },
+ {
+  "name": "Enhance the Memory Palace",
+  "type": "Spell",
+  "description": "CrMe 20 locus spell.",
+  "evidence": [
+   "the-mysteries-revised::0103"
+  ]
+ },
+ {
+  "name": "Constructing the Memory Palace",
+  "type": "Spell",
+  "description": "CrMe 20 Ritual permanent locus.",
+  "evidence": [
+   "the-mysteries-revised::0104"
+  ]
+ },
+ {
+  "name": "Memory Palace of the Sage",
+  "type": "Spell",
+  "description": "CrMe 25 Ritual memorizing a whole text.",
+  "evidence": [
+   "the-mysteries-revised::0105"
+  ]
+ },
+ {
+  "name": "Fortification of the Memory Palace",
+  "type": "Spell",
+  "description": "ReMe General protects the memory palace.",
+  "evidence": [
+   "the-mysteries-revised::0106"
+  ]
+ },
+ {
+  "name": "Sustain a Spell of (Form)",
+  "type": "Spell",
+  "description": "ReVi General Ritual binding a spell to a container.",
+  "evidence": [
+   "the-mysteries-revised::0108",
+   "the-mysteries-revised::0109"
+  ]
+ },
+ {
+  "name": "Sustain a Spell of Fire",
+  "type": "Spell",
+  "description": "Example ReVi(Ig) container ritual.",
+  "evidence": [
+   "the-mysteries-revised::0109"
+  ]
+ },
+ {
+  "name": "Delayed Sustenance of Fire",
+  "type": "Spell",
+  "description": "Delayed ReVi(Ig) container ritual.",
+  "evidence": [
+   "the-mysteries-revised::0109",
+   "the-mysteries-revised::0113"
+  ]
+ },
+ {
+  "name": "Coerce the Spirit of Fire",
+  "type": "Spell",
+  "description": "ReIg 20 threatens fiery spirit.",
+  "evidence": [
+   "the-mysteries-revised::0116"
+  ]
+ },
+ {
+  "name": "Summoning the Spirit of Fire",
+  "type": "Spell",
+  "description": "ReIg 40 calls fiery spirit.",
+  "evidence": [
+   "the-mysteries-revised::0117"
+  ]
+ },
+ {
+  "name": "Sunlight Without Flame",
+  "type": "Spell",
+  "description": "Level 15 variant of Lamp Without Flame.",
+  "evidence": [
+   "the-mysteries-revised::0113"
+  ]
+ },
+ {
+  "name": "Lamp Without Flame",
+  "type": "Spell",
+  "description": "Standard light spell.",
+  "evidence": [
+   "the-mysteries-revised::0113"
+  ]
+ },
+ {
+  "name": "Werewolf",
+  "type": "Creature",
+  "description": "Devoured Hedvig of the Rhine.",
+  "evidence": [
+   "the-mysteries-revised::0028"
+  ]
+ },
+ {
+  "name": "Minotaur",
+  "type": "Creature",
+  "description": "Unique Quest target.",
+  "evidence": [
+   "the-mysteries-revised::0054",
+   "the-mysteries-revised::0055"
+  ]
+ },
+ {
+  "name": "Elemental",
+  "type": "Creature",
+  "description": "Lesser spirit usable in Spell Binding.",
+  "evidence": [
+   "the-mysteries-revised::0096",
+   "the-mysteries-revised::0102"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "description": "Named spirits; binding them is necromancy.",
+  "evidence": [
+   "the-mysteries-revised::0096",
+   "the-mysteries-revised::0102"
+  ]
+ },
+ {
+  "name": "Fire Elemental",
+  "type": "Creature",
+  "description": "Fiery spirit.",
+  "evidence": [
+   "the-mysteries-revised::0113",
+   "the-mysteries-revised::0117"
+  ]
+ },
+ {
+  "name": "Beast of Virtue",
+  "type": "Creature",
+  "description": "Not a disembodied spirit.",
+  "evidence": [
+   "the-mysteries-revised::0111"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "description": "Quest target.",
+  "evidence": [
+   "the-mysteries-revised::0040",
+   "the-mysteries-revised::0087"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "description": "Infernal spirits.",
+  "evidence": [
+   "the-mysteries-revised::0011",
+   "the-mysteries-revised::0019"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "description": "Divine spirits.",
+  "evidence": [
+   "the-mysteries-revised::0010",
+   "the-mysteries-revised::0011"
+  ]
+ }
+]

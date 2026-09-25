@@ -1,0 +1,4023 @@
+[
+ {
+  "name": "Bath",
+  "type": "Place",
+  "aliases": [
+   "City of Bath",
+   "Aqua Sulis",
+   "The Baths"
+  ],
+  "description": "Town in Somerset, Stonehenge Tribunal, on the River Avon, famed since ancient times for healing hot springs founded by King Bladud; now dominated by the Church and its priory.",
+  "evidence": [
+   "mythic-locations::0019",
+   "mythic-locations::0030",
+   "mythic-locations::0043"
+  ]
+ },
+ {
+  "name": "Bear Island",
+  "type": "Place",
+  "aliases": [
+   "Arktonnessos",
+   "Oros Arkton",
+   "Bear Mountain"
+  ],
+  "description": "Peninsula off Anatolia on the southern shore of the Sea of Marmara in the Thebes Tribunal, visited by Jason and the Argonauts; home to the Gegenees, the Idaian Daktyls and the bound titaness Dindyméné.",
+  "evidence": [
+   "mythic-locations::0017",
+   "mythic-locations::0092",
+   "mythic-locations::0097"
+  ]
+ },
+ {
+  "name": "Cursewood",
+  "type": "Place",
+  "aliases": [
+   "The Cursed Woods",
+   "Cursed Wood"
+  ],
+  "description": "Cursed, haunted forest in remote Pomerania near Novgorod, Rhine Tribunal, where a Tytalus magus vanished over a century ago; it has an Infernal aura.",
+  "evidence": [
+   "mythic-locations::0020",
+   "mythic-locations::0005",
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "Farne Islands",
+  "type": "Place",
+  "aliases": [
+   "The Farnes"
+  ],
+  "description": "Small archipelago in the Stonehenge Tribunal off Northumberland, with a saint's influence on the inner islands and wilder forces, selkie courts and demons on the outer ones.",
+  "evidence": [
+   "mythic-locations::0021",
+   "mythic-locations::0006",
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Inner Farne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island of the Farne Islands once home to a saint who drove demons from it to the outer islands.",
+  "evidence": [
+   "mythic-locations::0021",
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "Crumstone Rock",
+  "type": "Place",
+  "aliases": [
+   "Crumstone"
+  ],
+  "description": "Outer islet of the Farne Islands whose mysterious inhabitant is one of the archipelago's mysteries.",
+  "evidence": [
+   "mythic-locations::0021",
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "Megstone",
+  "type": "Place",
+  "aliases": [],
+  "description": "Isolated islet of the Farne Islands associated with the Demons of Megstone.",
+  "evidence": [
+   "mythic-locations::0006",
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Poisoned Battlefield",
+  "type": "Place",
+  "aliases": [
+   "The Poisoned Earth",
+   "The Battlefield"
+  ],
+  "description": "Arsenic-poisoned site in the Mendip Hills, Stonehenge Tribunal, once haunted by an archnecromancer, druid ghosts and dead Roman miners.",
+  "evidence": [
+   "mythic-locations::0022",
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Mendip Hills",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hills in Somerset where Roman miners worked and where the Poisoned Battlefield lies.",
+  "evidence": [
+   "mythic-locations::0022",
+   "mythic-locations::0007",
+   "mythic-locations::0002"
+  ]
+ },
+ {
+  "name": "Wookey Hole",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cave site near the Poisoned Battlefield associated with the Witch of Wookey Hole.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Buckland Saint Mary",
+  "type": "Place",
+  "aliases": [],
+  "description": "Somerset place described as where the faeries fear to go.",
+  "evidence": [
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Purgatory of Saint Patrick",
+  "type": "Place",
+  "aliases": [
+   "Purgatory of St Patrick",
+   "St Patrick's Purgatory"
+  ],
+  "description": "Irish pilgrimage site in the Hibernian Tribunal: a cave under an island in a lake, said to be a gate to Purgatory opened by Saint Patrick, leading onward to the Earthly Paradise or Hell.",
+  "evidence": [
+   "mythic-locations::0023",
+   "mythic-locations::0007",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Saint's Island",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island on the lake whose cave is the entrance to the Purgatory of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Patrick's Island",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island associated with the Purgatory of Saint Patrick, home of the Canons of Patrick's Island.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Otherworld of purgation reachable through Saint Patrick's cave, containing sites such as the Field of Chains, the Wheel of Fire and the Bridge to Paradise.",
+  "evidence": [
+   "mythic-locations::0023",
+   "mythic-locations::0007",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Earthly Paradise",
+  "type": "Place",
+  "aliases": [],
+  "description": "Paradise that survivors of the Purgatory of Saint Patrick may enter.",
+  "evidence": [
+   "mythic-locations::0023",
+   "mythic-locations::0008",
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Infernal realm to which those trapped in Purgatory may be consigned; its Mouth is one of Purgatory's features.",
+  "evidence": [
+   "mythic-locations::0023",
+   "mythic-locations::0007",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Fallen Temple of Mercury",
+  "type": "Place",
+  "aliases": [
+   "Temple of Mercury",
+   "fallen temple of Mercury"
+  ],
+  "description": "Large ruined Roman temple complex built by Augustus, the size of a small town, lying in a Magic regio whose entrance can be in any former Roman territory; a source of Mercurian rituals.",
+  "evidence": [
+   "mythic-locations::0024",
+   "mythic-locations::0025",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Faerie Toy Market on Devil's Lane",
+  "type": "Place",
+  "aliases": [
+   "Toy Fair in Devil's Lane",
+   "Devil's Lane Toymarket",
+   "Toy Market",
+   "toy fair"
+  ],
+  "description": "Faerie regio with entrances in many cities selling magical toys made by hidden elves, containing a Merinita covenant.",
+  "evidence": [
+   "mythic-locations::0026",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Devil's Lane",
+  "type": "Place",
+  "aliases": [],
+  "description": "Street of the faerie toy market regio.",
+  "evidence": [
+   "mythic-locations::0009",
+   "mythic-locations::0013",
+   "mythic-locations::0026"
+  ]
+ },
+ {
+  "name": "Devil's Lane Covenant",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Merinita covenant built within the faerie toy fair regio; not secret, and known to the Redcaps.",
+  "evidence": [
+   "mythic-locations::0026",
+   "mythic-locations::0009",
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Realm of the Truffles",
+  "type": "Place",
+  "aliases": [
+   "Truffle Regio",
+   "Truffle Realm"
+  ],
+  "description": "Regio that is a source of truffles, located near Dijon, in Périgord, Istria or the Bohemian Forest, ruled by the Truffle Matron.",
+  "evidence": [
+   "mythic-locations::0027",
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Wolf's Court",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cairn in a remote wolf-haunted forest, nominally in the Provençal Tribunal, where the wronged ask the wolves for justice at the rising of the full moon.",
+  "evidence": [
+   "mythic-locations::0028",
+   "mythic-locations::0010",
+   "mythic-locations::0011"
+  ]
+ },
+ {
+  "name": "Fane of Vengeance",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site within the Wolf's Court chapter.",
+  "evidence": [
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Majarida Mountains",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains whose wolves are associated with the Wolf's Court.",
+  "evidence": [
+   "mythic-locations::0003",
+   "mythic-locations::0011"
+  ]
+ },
+ {
+  "name": "Sea of Marmara",
+  "type": "Place",
+  "aliases": [
+   "Propontis"
+  ],
+  "description": "Sea on the north coast of Anatolia on whose southern shore lies Bear Island.",
+  "evidence": [
+   "mythic-locations::0017",
+   "mythic-locations::0097",
+   "mythic-locations::0099"
+  ]
+ },
+ {
+  "name": "Anatolia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region whose coast Bear Island lies off.",
+  "evidence": [
+   "mythic-locations::0017",
+   "mythic-locations::0098"
+  ]
+ },
+ {
+  "name": "Pomerania",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of remote forests near Novgorod where the Cursewood lies.",
+  "evidence": [
+   "mythic-locations::0020",
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Somerset",
+  "type": "Place",
+  "aliases": [],
+  "description": "English county containing Bath, the Mendip Hills and many local legends.",
+  "evidence": [
+   "mythic-locations::0030",
+   "mythic-locations::0043",
+   "mythic-locations::0091"
+  ]
+ },
+ {
+  "name": "Temple of Apollo in London",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lost temple in New Troy (London), founded by the Hyperboreans, where Bladud fell to his death and is buried.",
+  "evidence": [
+   "mythic-locations::0032",
+   "mythic-locations::0038",
+   "mythic-locations::0039"
+  ]
+ },
+ {
+  "name": "New Troy",
+  "type": "Place",
+  "aliases": [
+   "London"
+  ],
+  "description": "Ancient name for London.",
+  "evidence": [
+   "mythic-locations::0032"
+  ]
+ },
+ {
+  "name": "University at Stamford",
+  "type": "Place",
+  "aliases": [
+   "Stamford University"
+  ],
+  "description": "University of necromancers founded by Bladud at Stamford and later suppressed by the Church for heresy.",
+  "evidence": [
+   "mythic-locations::0032",
+   "mythic-locations::0034",
+   "mythic-locations::0039"
+  ]
+ },
+ {
+  "name": "Stamford",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town with odd traditions, site of Bladud's university and possibly a second fermenter.",
+  "evidence": [
+   "mythic-locations::0039",
+   "mythic-locations::0040",
+   "mythic-locations::0086"
+  ]
+ },
+ {
+  "name": "Kaerbadon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Capital of King Bladud, suggested as the site of the Battle of Mons Badonicus.",
+  "evidence": [
+   "mythic-locations::0038"
+  ]
+ },
+ {
+  "name": "Glastonbury",
+  "type": "Place",
+  "aliases": [],
+  "description": "Area near Bath liked by faeries, who conflate it with Avalon; home of monks opposed to Joscelin.",
+  "evidence": [
+   "mythic-locations::0038",
+   "mythic-locations::0089"
+  ]
+ },
+ {
+  "name": "Glastonbury Tor",
+  "type": "Place",
+  "aliases": [],
+  "description": "Pre-Roman site the Bishop of Wells can allow magi to examine.",
+  "evidence": [
+   "mythic-locations::0089",
+   "mythic-locations::0090"
+  ]
+ },
+ {
+  "name": "Avalon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary place faeries conflate with Glastonbury.",
+  "evidence": [
+   "mythic-locations::0038"
+  ]
+ },
+ {
+  "name": "Isle of Man",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island Christianized by Saint Patrick where a faerie in Mannanan's form prevents a stable covenant.",
+  "evidence": [
+   "mythic-locations::0032"
+  ]
+ },
+ {
+  "name": "Bath Abbey",
+  "type": "Place",
+  "aliases": [
+   "Bath Priory",
+   "Priory at Bath"
+  ],
+  "description": "The Norman cathedral priory of Bath, still called Bath Abbey by locals, operated by around 40 monks and running the baths.",
+  "evidence": [
+   "mythic-locations::0035",
+   "mythic-locations::0036",
+   "mythic-locations::0033"
+  ]
+ },
+ {
+  "name": "Bishop's Quarter",
+  "type": "Place",
+  "aliases": [],
+  "description": "South-east corner of Bath containing the palace, priory and baths.",
+  "evidence": [
+   "mythic-locations::0043"
+  ]
+ },
+ {
+  "name": "Hospital of Saint John the Baptist",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hospital inside Bath for the infirm poor, whose inmates in blue robes are called the Blue Alms.",
+  "evidence": [
+   "mythic-locations::0037"
+  ]
+ },
+ {
+  "name": "Wells",
+  "type": "Place",
+  "aliases": [],
+  "description": "City of Joscelin's birth, seat of the Bishop of Somerset, where he plans to build a great cathedral.",
+  "evidence": [
+   "mythic-locations::0035",
+   "mythic-locations::0036",
+   "mythic-locations::0089"
+  ]
+ },
+ {
+  "name": "River Avon",
+  "type": "Place",
+  "aliases": [],
+  "description": "River on which Bath lies.",
+  "evidence": [
+   "mythic-locations::0043"
+  ]
+ },
+ {
+  "name": "Sijilmasa",
+  "type": "Place",
+  "aliases": [],
+  "description": "Saharan caravan town with wonderful healing baths built by a mysterious benefactor.",
+  "evidence": [
+   "mythic-locations::0044",
+   "mythic-locations::0045"
+  ]
+ },
+ {
+  "name": "Baden",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town on the border of the Greater Alps and Rhine Tribunals containing a Mercere House.",
+  "evidence": [
+   "mythic-locations::0044"
+  ]
+ },
+ {
+  "name": "Hot Baths",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the three main public baths of Bath.",
+  "evidence": [
+   "mythic-locations::0068"
+  ]
+ },
+ {
+  "name": "Cross Baths",
+  "type": "Place",
+  "aliases": [
+   "Baths of the Cross"
+  ],
+  "description": "Baths of Bath used by lepers.",
+  "evidence": [
+   "mythic-locations::0066",
+   "mythic-locations::0068"
+  ]
+ },
+ {
+  "name": "Baths of Alaron",
+  "type": "Place",
+  "aliases": [
+   "King's Bath"
+  ],
+  "description": "One of Bath's three main baths, named for Bladud's consort or for Latin inscriptions; renamed the King's Bath in 1225.",
+  "evidence": [
+   "mythic-locations::0068",
+   "mythic-locations::0032"
+  ]
+ },
+ {
+  "name": "Baths of Bladud",
+  "type": "Place",
+  "aliases": [
+   "Greek Baths"
+  ],
+  "description": "Possible fourth, hidden set of baths deep underground lit by Bladud's ceaseless fires, whose waters suppress the Gift's social effects.",
+  "evidence": [
+   "mythic-locations::0068",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Keynsham",
+  "type": "Place",
+  "aliases": [],
+  "description": "Village northeast of Bath named for Saint Keyne.",
+  "evidence": [
+   "mythic-locations::0075"
+  ]
+ },
+ {
+  "name": "Abbey of Saint Keyne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abbey at Keynsham whose monks guard Saint Keyne's Well.",
+  "evidence": [
+   "mythic-locations::0075",
+   "mythic-locations::0076"
+  ]
+ },
+ {
+  "name": "Saint Keyne's Well",
+  "type": "Place",
+  "aliases": [],
+  "description": "Miraculous well; whichever spouse drinks first gains the upper hand in marriage.",
+  "evidence": [
+   "mythic-locations::0076"
+  ]
+ },
+ {
+  "name": "Mount Saint Michael",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place where Saint Keyne's brother lived and she left a magical chair.",
+  "evidence": [
+   "mythic-locations::0076"
+  ]
+ },
+ {
+  "name": "Somerset Moors and Levels",
+  "type": "Place",
+  "aliases": [],
+  "description": "Wild marshy areas west of Bath where Saint Keyne turned snakes and dragons to stone.",
+  "evidence": [
+   "mythic-locations::0076",
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Stanton Drew",
+  "type": "Place",
+  "aliases": [],
+  "description": "Megalithic rings west of Bath formed from a wedding party turned to stone; their tears hold Terram vis.",
+  "evidence": [
+   "mythic-locations::0076",
+   "mythic-locations::0077"
+  ]
+ },
+ {
+  "name": "Pagan's Hill",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hill above Chewstoke, site of an Imperial Mercurian temple with a Magic aura of 2.",
+  "evidence": [
+   "mythic-locations::0077",
+   "mythic-locations::0078"
+  ]
+ },
+ {
+  "name": "Chewstoke",
+  "type": "Place",
+  "aliases": [],
+  "description": "Village west of Stanton Drew below Pagan's Hill.",
+  "evidence": [
+   "mythic-locations::0077"
+  ]
+ },
+ {
+  "name": "Ilchester",
+  "type": "Place",
+  "aliases": [],
+  "description": "County town under strong Dominion where the boy Roger Bacon lives.",
+  "evidence": [
+   "mythic-locations::0091"
+  ]
+ },
+ {
+  "name": "Ilchester Priory",
+  "type": "Place",
+  "aliases": [],
+  "description": "Priory from which the property of Roger Bacon's family is held.",
+  "evidence": [
+   "mythic-locations::0091"
+  ]
+ },
+ {
+  "name": "Temple of Jupiter Ammon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lost temple in Cyrene in the Libyan desert, source of true Sal Ammoniac.",
+  "evidence": [
+   "mythic-locations::0082",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Mount Etna",
+  "type": "Place",
+  "aliases": [],
+  "description": "Volcano that throws out a salt similar to Sal Ammoniac; also a variant location for Purgatory.",
+  "evidence": [
+   "mythic-locations::0083",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whose Latin conquest affected Bear Island; the relics of the Magi's gifts were kept there until 1204.",
+  "evidence": [
+   "mythic-locations::0084",
+   "mythic-locations::0098",
+   "mythic-locations::0115"
+  ]
+ },
+ {
+  "name": "Colchis",
+  "type": "Place",
+  "aliases": [],
+  "description": "Distant land on the Black Sea where the Golden Fleece waited.",
+  "evidence": [
+   "mythic-locations::0092"
+  ]
+ },
+ {
+  "name": "Artakia",
+  "type": "Place",
+  "aliases": [],
+  "description": "The only inhabited town on Bear Island, with a cathedral of St. Tryphaena and a Dominion aura of 2.",
+  "evidence": [
+   "mythic-locations::0101",
+   "mythic-locations::0097",
+   "mythic-locations::0098"
+  ]
+ },
+ {
+  "name": "Kyzikos",
+  "type": "Place",
+  "aliases": [
+   "Kyzikos City"
+  ],
+  "description": "Ruined ancient city on Bear Island, once minting gold staters, devastated by earthquakes.",
+  "evidence": [
+   "mythic-locations::0102",
+   "mythic-locations::0092",
+   "mythic-locations::0098"
+  ]
+ },
+ {
+  "name": "Fair Haven",
+  "type": "Place",
+  "aliases": [
+   "Fair Haven Harbor"
+  ],
+  "description": "Artakia's harbor, the island's sole commercial port, site of Jason's shrine to Athena.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0101",
+   "mythic-locations::0103"
+  ]
+ },
+ {
+  "name": "City Harbor",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kyzikos' harbor, now unused, where the Altar of Apollo of Landings stands.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0102",
+   "mythic-locations::0103"
+  ]
+ },
+ {
+  "name": "Chytus Harbor",
+  "type": "Place",
+  "aliases": [
+   "Mole Harbor",
+   "Bar Harbor"
+  ],
+  "description": "Man-made harbor on Bear Island's eastern tip where Herakles fought the Gegenees; Faerie aura 3, strewn with vis-bearing boulders.",
+  "evidence": [
+   "mythic-locations::0110",
+   "mythic-locations::0093",
+   "mythic-locations::0103"
+  ]
+ },
+ {
+  "name": "Mount Dindymon",
+  "type": "Place",
+  "aliases": [
+   "Mt. Dindymon"
+  ],
+  "description": "Double-peaked tallest mountain of Bear Island, beneath which the titaness Dindyméné is bound.",
+  "evidence": [
+   "mythic-locations::0115",
+   "mythic-locations::0094",
+   "mythic-locations::0104"
+  ]
+ },
+ {
+  "name": "Mount Klapsi",
+  "type": "Place",
+  "aliases": [],
+  "description": "Western mountain of Bear Island, wooded wilderness with boars, bears and lions.",
+  "evidence": [
+   "mythic-locations::0104"
+  ]
+ },
+ {
+  "name": "Bear Mountain",
+  "type": "Place",
+  "aliases": [],
+  "description": "Eastern mountain of Bear Island's range.",
+  "evidence": [
+   "mythic-locations::0104"
+  ]
+ },
+ {
+  "name": "The Isthmus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Low swampy isthmus joining Bear Island to the mainland.",
+  "evidence": [
+   "mythic-locations::0105"
+  ]
+ },
+ {
+  "name": "Cathedral of St. Tryphaena",
+  "type": "Place",
+  "aliases": [],
+  "description": "Large ugly cathedral in Artakia holding St. Tryphaena's relics; Dominion aura 5.",
+  "evidence": [
+   "mythic-locations::0107",
+   "mythic-locations::0101",
+   "mythic-locations::0106"
+  ]
+ },
+ {
+  "name": "Shrine of Jasonian Athena",
+  "type": "Place",
+  "aliases": [],
+  "description": "Stone shrine built by Jason at Fair Haven; Faerie aura 1.",
+  "evidence": [
+   "mythic-locations::0109",
+   "mythic-locations::0092"
+  ]
+ },
+ {
+  "name": "Altar of Apollo of Landings",
+  "type": "Place",
+  "aliases": [],
+  "description": "Shrine built by Jason at City Harbor; Faerie aura 1 and terminus of the Jasonian Way.",
+  "evidence": [
+   "mythic-locations::0109",
+   "mythic-locations::0118",
+   "mythic-locations::0092"
+  ]
+ },
+ {
+  "name": "Spring of Artakia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Spring northwest of Artakia with a Magic aura 2 yielding Aquam vis.",
+  "evidence": [
+   "mythic-locations::0111",
+   "mythic-locations::0106"
+  ]
+ },
+ {
+  "name": "Leimonian Plain",
+  "type": "Place",
+  "aliases": [
+   "The Meadow"
+  ],
+  "description": "Grassy plain between Kyzikos and the Thracian Harbor, holding King Kyzikos' tumulus with an Infernal aura 4.",
+  "evidence": [
+   "mythic-locations::0112",
+   "mythic-locations::0106"
+  ]
+ },
+ {
+  "name": "Thracian Harbor",
+  "type": "Place",
+  "aliases": [],
+  "description": "Bear Island harbor with a perpetual inward wind; Magic aura 2.",
+  "evidence": [
+   "mythic-locations::0113"
+  ]
+ },
+ {
+  "name": "Temenos of Dindyméné",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sacred grove between the peaks of Mount Dindymon with Magic and Faerie auras 3, doorway to a Magic and a Faerie regio.",
+  "evidence": [
+   "mythic-locations::0115",
+   "mythic-locations::0116",
+   "mythic-locations::0112"
+  ]
+ },
+ {
+  "name": "Jasonian Way",
+  "type": "Place",
+  "aliases": [],
+  "description": "Faerie regio path (aura 7) from the Altar of Apollo of Landings to Mount Dindymon's summit.",
+  "evidence": [
+   "mythic-locations::0118",
+   "mythic-locations::0119",
+   "mythic-locations::0100"
+  ]
+ },
+ {
+  "name": "Faerie Regio of Dindyméné",
+  "type": "Place",
+  "aliases": [],
+  "description": "Faerie regio entered from the temenos on Mount Dindymon.",
+  "evidence": [
+   "mythic-locations::0005",
+   "mythic-locations::0112",
+   "mythic-locations::0115"
+  ]
+ },
+ {
+  "name": "Magic Regio of Dindyméné",
+  "type": "Place",
+  "aliases": [],
+  "description": "Magic regio entered from the temenos on Mount Dindymon.",
+  "evidence": [
+   "mythic-locations::0005",
+   "mythic-locations::0112",
+   "mythic-locations::0115"
+  ]
+ },
+ {
+  "name": "Isle of the Sleeping Fomóir",
+  "type": "Place",
+  "aliases": [],
+  "description": "Alternative version of Bear Island relocated west of Ireland in the Hibernian Tribunal and tied to St. Brendan's voyage.",
+  "evidence": [
+   "mythic-locations::0095",
+   "mythic-locations::0096"
+  ]
+ },
+ {
+  "name": "Isle of the Blessed",
+  "type": "Place",
+  "aliases": [
+   "Promised Land of the Saints"
+  ],
+  "description": "Fabled isle west of Ireland sought by Brendan the Navigator.",
+  "evidence": [
+   "mythic-locations::0095"
+  ]
+ },
+ {
+  "name": "Troad",
+  "type": "Place",
+  "aliases": [],
+  "description": "Area in which Bear Island sits.",
+  "evidence": [
+   "mythic-locations::0097"
+  ]
+ },
+ {
+  "name": "Hallstadt",
+  "type": "Place",
+  "aliases": [],
+  "description": "Salt mines in the Greater Alps Tribunal haunted by faeries.",
+  "evidence": [
+   "mythic-locations::0082"
+  ]
+ },
+ {
+  "name": "Thebes Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal containing Bear Island.",
+  "evidence": [
+   "mythic-locations::0017",
+   "mythic-locations::0095"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal containing Bath, the Farne Islands and the Poisoned Battlefield.",
+  "evidence": [
+   "mythic-locations::0019",
+   "mythic-locations::0021",
+   "mythic-locations::0022"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal containing the Cursewood; a Truffle Matron location option.",
+  "evidence": [
+   "mythic-locations::0020",
+   "mythic-locations::0027",
+   "mythic-locations::0044"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal containing the Purgatory of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0023",
+   "mythic-locations::0095",
+   "mythic-locations::0005"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal option for the Truffle Matron and Cursewood variant.",
+  "evidence": [
+   "mythic-locations::0027",
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal option for the Truffle Matron.",
+  "evidence": [
+   "mythic-locations::0027"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Nominal Tribunal of the Wolf's Court.",
+  "evidence": [
+   "mythic-locations::0028"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal bordering the Rhine, home of the Hallstadt faeries.",
+  "evidence": [
+   "mythic-locations::0044",
+   "mythic-locations::0082"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [],
+  "description": "Roaming magi of this House catalog fantastic sites.",
+  "evidence": [
+   "mythic-locations::0015"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [],
+  "description": "House of the Redcaps, which catalogs sites and controls properties including baths.",
+  "evidence": [
+   "mythic-locations::0015",
+   "mythic-locations::0044",
+   "mythic-locations::0065"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose magus vanished in the Cursewood; many Tytali suffer cthonic leprosy and seek Bladud's cure.",
+  "evidence": [
+   "mythic-locations::0020",
+   "mythic-locations::0066",
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose covenant lies in the faerie toy fair.",
+  "evidence": [
+   "mythic-locations::0026",
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose social societies may meet at baths.",
+  "evidence": [
+   "mythic-locations::0064"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose vexillations may hold planning meetings at thermal baths.",
+  "evidence": [
+   "mythic-locations::0064",
+   "mythic-locations::0004"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose magi hold meditation circles; a Criamon seeks a new Bonisagus.",
+  "evidence": [
+   "mythic-locations::0064",
+   "mythic-locations::0091"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [],
+  "description": "House of a magus seeking Mithraic initiation on Bear Island.",
+  "evidence": [
+   "mythic-locations::0108"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of magi that visits, catalogs and appropriates supernatural sites of Mythic Europe.",
+  "evidence": [
+   "mythic-locations::0000",
+   "mythic-locations::0015",
+   "mythic-locations::0021"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group interested in lost ancient magic, believing Britain was an Atlantean penal colony.",
+  "evidence": [
+   "mythic-locations::0024",
+   "mythic-locations::0039"
+  ]
+ },
+ {
+  "name": "Legion of Mithras",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Popular Hermetic Mystery Cult whose Initiation Scripts send initiates to heroic sites.",
+  "evidence": [
+   "mythic-locations::0108"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Roman cult, an antecedent of the Order whose rituals Bonisagus drew on.",
+  "evidence": [
+   "mythic-locations::0024",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Luperci",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Brotherhood tied to the Lupercalia, presented as a Hermetic Mystery Cult.",
+  "evidence": [
+   "mythic-locations::0011",
+   "mythic-locations::0014"
+  ]
+ },
+ {
+  "name": "Wolf Brothers",
+  "type": "Faction",
+  "aliases": [
+   "Wolf Brotherhood"
+  ],
+  "description": "Group connected to the Wolf's Court.",
+  "evidence": [
+   "mythic-locations::0011"
+  ]
+ },
+ {
+  "name": "Doliónes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Original Greek inhabitants of Bear Island, ruled by King Kyzikos.",
+  "evidence": [
+   "mythic-locations::0098",
+   "mythic-locations::0111",
+   "mythic-locations::0112"
+  ]
+ },
+ {
+  "name": "Argonauts",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Jason's 54 companions aboard the Argo.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0093",
+   "mythic-locations::0017"
+  ]
+ },
+ {
+  "name": "Hyperboreans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient people who founded the Temple of Apollo in London.",
+  "evidence": [
+   "mythic-locations::0039"
+  ]
+ },
+ {
+  "name": "Atlanteans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient people believed by Seekers to have used Britain as a penal colony.",
+  "evidence": [
+   "mythic-locations::0039"
+  ]
+ },
+ {
+  "name": "Canons of Patrick's Island",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Religious community at the Purgatory of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Market Guild",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Council of merchants of the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Rat Pack",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group in the alleyways of the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Somerset hedge magicians' cult",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Defunct Mystery cult among Somerset hedge magicians descended from Bladud's university, which Anne could revive.",
+  "evidence": [
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Latin conquerors",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Victors of the siege of Constantinople who weakly rule Bear Island.",
+  "evidence": [
+   "mythic-locations::0098",
+   "mythic-locations::0101"
+  ]
+ },
+ {
+  "name": "Nicaea Empire",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Byzantine successor state pushing north, expected to reclaim Bear Island.",
+  "evidence": [
+   "mythic-locations::0099"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Faction",
+  "aliases": [
+   "Empire of the Romans"
+  ],
+  "description": "Empire to which Bear Island formerly belonged.",
+  "evidence": [
+   "mythic-locations::0017",
+   "mythic-locations::0102"
+  ]
+ },
+ {
+  "name": "Bladud",
+  "type": "Character",
+  "aliases": [
+   "King Bladud",
+   "Prince Bladud",
+   "Wolf Lord"
+  ],
+  "description": "Legendary Celtic prince and cthonic wizard-king who founded Bath and its hot springs, founded a university at Stamford, and died when his enchanted wings failed over the Temple of Apollo.",
+  "evidence": [
+   "mythic-locations::0032",
+   "mythic-locations::0066",
+   "mythic-locations::0038"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure whose followers help catalog sites.",
+  "evidence": [
+   "mythic-locations::0015"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder who based some Hermetic theory on Mercurian rituals.",
+  "evidence": [
+   "mythic-locations::0024",
+   "mythic-locations::0091"
+  ]
+ },
+ {
+  "name": "Leir",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of Bladud.",
+  "evidence": [
+   "mythic-locations::0032"
+  ]
+ },
+ {
+  "name": "Mannanan Mac Leir",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magician-king, arguably Bladud's grandson, fought by Saint Patrick on the Isle of Man.",
+  "evidence": [
+   "mythic-locations::0032"
+  ]
+ },
+ {
+  "name": "Saint Patrick",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who opened a gate to Purgatory and Christianized the Isle of Man.",
+  "evidence": [
+   "mythic-locations::0023",
+   "mythic-locations::0032"
+  ]
+ },
+ {
+  "name": "Alaron",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bladud's consort, after whom Geoffrey of Monmouth says the baths were named.",
+  "evidence": [
+   "mythic-locations::0032",
+   "mythic-locations::0068"
+  ]
+ },
+ {
+  "name": "Geoffrey of Monmouth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of the History of the Kings of Britain recording Bath's foundation.",
+  "evidence": [
+   "mythic-locations::0032",
+   "mythic-locations::0038",
+   "mythic-locations::0068"
+  ]
+ },
+ {
+  "name": "Sulis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Local goddess of Bath's springs identified by Romans with Minerva.",
+  "evidence": [
+   "mythic-locations::0035"
+  ]
+ },
+ {
+  "name": "Minerva",
+  "type": "Character",
+  "aliases": [],
+  "description": "Goddess to whom Bladud dedicated the springs.",
+  "evidence": [
+   "mythic-locations::0032",
+   "mythic-locations::0035"
+  ]
+ },
+ {
+  "name": "Claudius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Emperor who ordered Bath's buildings rebuilt.",
+  "evidence": [
+   "mythic-locations::0035"
+  ]
+ },
+ {
+  "name": "Alfred the Great",
+  "type": "Character",
+  "aliases": [],
+  "description": "King who redesigned Bath as a borough.",
+  "evidence": [
+   "mythic-locations::0035"
+  ]
+ },
+ {
+  "name": "Saint Alphege",
+  "type": "Character",
+  "aliases": [],
+  "description": "Under whom Bath Abbey adopted the Benedictine Rule.",
+  "evidence": [
+   "mythic-locations::0035"
+  ]
+ },
+ {
+  "name": "William II",
+  "type": "Character",
+  "aliases": [],
+  "description": "King who sold Bath to John of Tours in 1088.",
+  "evidence": [
+   "mythic-locations::0035"
+  ]
+ },
+ {
+  "name": "John of Tours",
+  "type": "Character",
+  "aliases": [],
+  "description": "Physician and Bishop of Somerset who moved his seat to Bath and built its priory.",
+  "evidence": [
+   "mythic-locations::0035",
+   "mythic-locations::0036"
+  ]
+ },
+ {
+  "name": "Joscelin of Wells",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bishop of Bath since 1206 who wishes to move his seat to Wells and build a cathedral; a potential ally of magi.",
+  "evidence": [
+   "mythic-locations::0036",
+   "mythic-locations::0089",
+   "mythic-locations::0090"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "aliases": [],
+  "description": "King who built the king's house in Bath.",
+  "evidence": [
+   "mythic-locations::0036",
+   "mythic-locations::0088"
+  ]
+ },
+ {
+  "name": "Henry III",
+  "type": "Character",
+  "aliases": [],
+  "description": "John's son, the young king who uses the king's house in Bath.",
+  "evidence": [
+   "mythic-locations::0036",
+   "mythic-locations::0089"
+  ]
+ },
+ {
+  "name": "William Brewer",
+  "type": "Character",
+  "aliases": [],
+  "description": "Lord of the Exchequer and multi-county sheriff, loathed but influential; seeks his secret enemies.",
+  "evidence": [
+   "mythic-locations::0088"
+  ]
+ },
+ {
+  "name": "Weyland the Smith",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magician-king who made magic items and flew.",
+  "evidence": [
+   "mythic-locations::0039"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary king whose victory at Mons Badonicus faeries enact near Bath.",
+  "evidence": [
+   "mythic-locations::0038"
+  ]
+ },
+ {
+  "name": "Saint Keyne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pious virgin saint whose well and prayers produce miracles near Keynsham.",
+  "evidence": [
+   "mythic-locations::0075",
+   "mythic-locations::0076"
+  ]
+ },
+ {
+  "name": "King Melchior",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the three Magi, possibly linked to Sal Almelke.",
+  "evidence": [
+   "mythic-locations::0084"
+  ]
+ },
+ {
+  "name": "Roger Bacon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Eight-year-old boy near Ilchester foreseen as a new Bonisagus.",
+  "evidence": [
+   "mythic-locations::0091"
+  ]
+ },
+ {
+  "name": "Jason",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek hero who visited Bear Island with the Argonauts.",
+  "evidence": [
+   "mythic-locations::0017",
+   "mythic-locations::0092",
+   "mythic-locations::0093"
+  ]
+ },
+ {
+  "name": "Herakles",
+  "type": "Character",
+  "aliases": [],
+  "description": "Argonaut who defended the Argo against the Gegenees.",
+  "evidence": [
+   "mythic-locations::0093",
+   "mythic-locations::0099",
+   "mythic-locations::0110"
+  ]
+ },
+ {
+  "name": "Argos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Shipwright who built the Argo and carved the statue of Dindyméné.",
+  "evidence": [
+   "mythic-locations::0094",
+   "mythic-locations::0100"
+  ]
+ },
+ {
+  "name": "King Kyzikos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ruler of Bear Island killed by Jason; buried in a tumulus on the Leimonian Plain.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0093",
+   "mythic-locations::0112"
+  ]
+ },
+ {
+  "name": "Kleité",
+  "type": "Character",
+  "aliases": [],
+  "description": "King Kyzikos' wife who hanged herself on his tumulus.",
+  "evidence": [
+   "mythic-locations::0112"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "aliases": [],
+  "description": "God who bound Dindyméné beneath Mount Dindymon.",
+  "evidence": [
+   "mythic-locations::0100"
+  ]
+ },
+ {
+  "name": "Alexander the Great",
+  "type": "Character",
+  "aliases": [],
+  "description": "Conqueror of Bear Island who built two bridges to the mainland.",
+  "evidence": [
+   "mythic-locations::0098",
+   "mythic-locations::0101",
+   "mythic-locations::0102"
+  ]
+ },
+ {
+  "name": "St. Tryphaena",
+  "type": "Character",
+  "aliases": [
+   "Tryphaena"
+  ],
+  "description": "First-century martyr of Kyzikos, patron saint of Bear Island.",
+  "evidence": [
+   "mythic-locations::0101",
+   "mythic-locations::0107"
+  ]
+ },
+ {
+  "name": "Thales of Miletus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek sage whose ghost haunts Kyzikos.",
+  "evidence": [
+   "mythic-locations::0096"
+  ]
+ },
+ {
+  "name": "Brendan the Navigator",
+  "type": "Character",
+  "aliases": [
+   "St. Brendan"
+  ],
+  "description": "Irish monk whose voyage is tied to the Isle of the Sleeping Fomóir.",
+  "evidence": [
+   "mythic-locations::0095",
+   "mythic-locations::0096"
+  ]
+ },
+ {
+  "name": "Apollonios Rhodios",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of the Argonautika.",
+  "evidence": [
+   "mythic-locations::0092"
+  ]
+ },
+ {
+  "name": "Athena",
+  "type": "Character",
+  "aliases": [],
+  "description": "Goddess honored by Jason's shrine at Fair Haven.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0109"
+  ]
+ },
+ {
+  "name": "Apollo of Landings",
+  "type": "Character",
+  "aliases": [],
+  "description": "Aspect of Apollo revered by sailors.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0109"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman god whose temple and rituals are a Hermetic resource.",
+  "evidence": [
+   "mythic-locations::0024",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Augustus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Builder of the Temple of Mercury.",
+  "evidence": [
+   "mythic-locations::0024"
+  ]
+ },
+ {
+  "name": "Regulus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Tytalus magus who vanished in the Cursewood.",
+  "evidence": [
+   "mythic-locations::0005",
+   "mythic-locations::0006",
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Julia of House Merinita",
+  "type": "Character",
+  "aliases": [],
+  "description": "Merinita maga of the Devil's Lane Covenant.",
+  "evidence": [
+   "mythic-locations::0009",
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Bartholomew of House Merinita",
+  "type": "Character",
+  "aliases": [],
+  "description": "Merinita magus of the Devil's Lane Covenant.",
+  "evidence": [
+   "mythic-locations::0009",
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Walter the Book Merchant",
+  "type": "Character",
+  "aliases": [],
+  "description": "Merchant of the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Brother Bressal",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure in the Purgatory chapter.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Anne",
+  "type": "Creature",
+  "aliases": [
+   "Anne, a Lady Not Noble But Suitable"
+  ],
+  "description": "Forgotten God of Britain's waters in human form serving at Bath's priory; Magic Might 30 (Aquam).",
+  "evidence": [
+   "mythic-locations::0046",
+   "mythic-locations::0047",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Minerva Sulis",
+  "type": "Creature",
+  "aliases": [
+   "Sulis Minerva"
+  ],
+  "description": "Sleeping Romano-Celtic goddess of Bath; Faerie Might 25; grants requested vengeance via curse tablets.",
+  "evidence": [
+   "mythic-locations::0055",
+   "mythic-locations::0056",
+   "mythic-locations::0057"
+  ]
+ },
+ {
+  "name": "Xaphan",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon, stoker of Hell's fires and lord of arsonists.",
+  "evidence": [
+   "mythic-locations::0051"
+  ]
+ },
+ {
+  "name": "Balneator",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Merry Devil lord encouraging conspiracy and fornication in the baths; Infernal Might 25.",
+  "evidence": [
+   "mythic-locations::0060",
+   "mythic-locations::0061",
+   "mythic-locations::0063"
+  ]
+ },
+ {
+  "name": "Merry Devil",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon encouraging group hedonism.",
+  "evidence": [
+   "mythic-locations::0060"
+  ]
+ },
+ {
+  "name": "Averna's Hogs",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creatures of the Poisoned Battlefield chapter.",
+  "evidence": [
+   "mythic-locations::0091"
+  ]
+ },
+ {
+  "name": "Gegenees",
+  "type": "Creature",
+  "aliases": [
+   "Gegenes"
+  ],
+  "description": "Savage six-armed giants of Bear Island.",
+  "evidence": [
+   "mythic-locations::0093",
+   "mythic-locations::0110",
+   "mythic-locations::0119"
+  ]
+ },
+ {
+  "name": "Idaian Daktyls",
+  "type": "Creature",
+  "aliases": [
+   "Idaian Daktyl"
+  ],
+  "description": "Ten mystical metal-worker and healer servants of Dindyméné.",
+  "evidence": [
+   "mythic-locations::0017",
+   "mythic-locations::0094",
+   "mythic-locations::0100"
+  ]
+ },
+ {
+  "name": "Dindyméné",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Titaness mother-goddess bound beneath Mount Dindymon.",
+  "evidence": [
+   "mythic-locations::0094",
+   "mythic-locations::0100",
+   "mythic-locations::0104"
+  ]
+ },
+ {
+  "name": "Halcyon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Mythical Greek bird that told the Argonauts how to escape.",
+  "evidence": [
+   "mythic-locations::0094",
+   "mythic-locations::0099"
+  ]
+ },
+ {
+  "name": "Fugitive Stone",
+  "type": "Creature",
+  "aliases": [
+   "Wandering Stone"
+  ],
+  "description": "Roaming mooring stone, Magic Might 10, chained in Artakia, longing for Jason.",
+  "evidence": [
+   "mythic-locations::0111",
+   "mythic-locations::0113"
+  ]
+ },
+ {
+  "name": "Fomóir",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magic giant roused at the summit of the Isle of the Sleeping Fomóir.",
+  "evidence": [
+   "mythic-locations::0095",
+   "mythic-locations::0096"
+  ]
+ },
+ {
+  "name": "Tuatha Dé Danann",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries enslaved to the Fomóir.",
+  "evidence": [
+   "mythic-locations::0096"
+  ]
+ },
+ {
+  "name": "Guardian dog of Pagan's Hill",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit in the form of a huge dog guarding the Mercurian temple.",
+  "evidence": [
+   "mythic-locations::0078"
+  ]
+ },
+ {
+  "name": "Stone snakes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Petrified snakes containing vis.",
+  "evidence": [
+   "mythic-locations::0076"
+  ]
+ },
+ {
+  "name": "Stanton Drew stone people",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dancers turned to stone who weep Terram vis.",
+  "evidence": [
+   "mythic-locations::0077"
+  ]
+ },
+ {
+  "name": "Penitent Ghosts",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Disfigured ghosts of Bath bath thieves.",
+  "evidence": [
+   "mythic-locations::0075"
+  ]
+ },
+ {
+  "name": "Hallstadt faeries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Salt-mine faeries demanding salt hearts.",
+  "evidence": [
+   "mythic-locations::0082"
+  ]
+ },
+ {
+  "name": "Balls of Bladud",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Local will-o-the-wisps.",
+  "evidence": [
+   "mythic-locations::0041"
+  ]
+ },
+ {
+  "name": "Selkies",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Seal-folk of the Farne Islands.",
+  "evidence": [
+   "mythic-locations::0021",
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Puffin Joker",
+  "type": "Creature",
+  "aliases": [
+   "Fratercula Hilaris"
+  ],
+  "description": "Magical puffin causing laughter.",
+  "evidence": [
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Echeneis, the Remora",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fish of the Farne Islands.",
+  "evidence": [
+   "mythic-locations::0012",
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Eider Duck of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical seabird of the Farnes.",
+  "evidence": [
+   "mythic-locations::0012",
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Grey Seal",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Seal of the Farnes.",
+  "evidence": [
+   "mythic-locations::0007",
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Genius Procellosus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Storm spirit of the Farnes.",
+  "evidence": [
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Demons of Futility",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demons of the Farnes.",
+  "evidence": [
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Demons of Megstone",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demons of the Farnes.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Pixies",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Minor faeries of Somerset.",
+  "evidence": [
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Witch of Wookey Hole",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Figure near the Poisoned Battlefield.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Wyzwanie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of the Cursed Wood.",
+  "evidence": [
+   "mythic-locations::0006",
+   "mythic-locations::0012"
+  ]
+ },
+ {
+  "name": "Goblin Rats",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Rats of Devil's Lane.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Mengalaz the Rat",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Rat of the toy market.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Worker Elves",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elves making toys.",
+  "evidence": [
+   "mythic-locations::0013",
+   "mythic-locations::0026"
+  ]
+ },
+ {
+  "name": "Foremen Elves",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elf overseers.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Truffle Matron",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ruler of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0027",
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Truffle Daughters",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Offspring of the Truffle Matron.",
+  "evidence": [
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Truffle Workers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Inhabitants of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Truffle Drones",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Inhabitants of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Wild Boar of the Woods",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creature of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0013",
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Awakened Trees",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Trees of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Earth Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental of the Truffle chapter.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "The She-Wolf",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of vengeance granting revenge.",
+  "evidence": [
+   "mythic-locations::0010",
+   "mythic-locations::0011",
+   "mythic-locations::0014"
+  ]
+ },
+ {
+  "name": "Pasiel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Duke of Purgatory.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Iurgatores",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Brawling fiends of Purgatory.",
+  "evidence": [
+   "mythic-locations::0013",
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Werewolves",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Lycanthropes of Mythic Europe.",
+  "evidence": [
+   "mythic-locations::0014",
+   "mythic-locations::0067"
+  ]
+ },
+ {
+  "name": "Wolf of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical wolf.",
+  "evidence": [
+   "mythic-locations::0014"
+  ]
+ },
+ {
+  "name": "Great Stone of Bladud",
+  "type": "Item",
+  "aliases": [],
+  "description": "Stone enchanted to be perpetually hot.",
+  "evidence": [
+   "mythic-locations::0037",
+   "mythic-locations::0038",
+   "mythic-locations::0033"
+  ]
+ },
+ {
+  "name": "Great Fermenter of the Seven Salts",
+  "type": "Item",
+  "aliases": [
+   "Fermenter of Bladud",
+   "Bladud's engine"
+  ],
+  "description": "Bladud's alchemical engine of four barrels.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0073",
+   "mythic-locations::0074"
+  ]
+ },
+ {
+  "name": "Stamford Fermenter",
+  "type": "Item",
+  "aliases": [],
+  "description": "Second fermenter at Stamford.",
+  "evidence": [
+   "mythic-locations::0040",
+   "mythic-locations::0086"
+  ]
+ },
+ {
+  "name": "Xoanon of Dindyméné",
+  "type": "Item",
+  "aliases": [],
+  "description": "Statue carved by Argos from a vine stump.",
+  "evidence": [
+   "mythic-locations::0005",
+   "mythic-locations::0094",
+   "mythic-locations::0100"
+  ]
+ },
+ {
+  "name": "Argo",
+  "type": "Item",
+  "aliases": [],
+  "description": "Jason's magic ship.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0017"
+  ]
+ },
+ {
+  "name": "Golden Fleece",
+  "type": "Item",
+  "aliases": [],
+  "description": "Object of Jason's quest.",
+  "evidence": [
+   "mythic-locations::0092",
+   "mythic-locations::0099"
+  ]
+ },
+ {
+  "name": "Head of the statue of Minerva",
+  "type": "Item",
+  "aliases": [],
+  "description": "Buried head holding 7 pawns of Aquam vis.",
+  "evidence": [
+   "mythic-locations::0055",
+   "mythic-locations::0058"
+  ]
+ },
+ {
+  "name": "Altar stone of Pagan's Hill",
+  "type": "Item",
+  "aliases": [],
+  "description": "Limestone slab turning quicksilver into Intellego vis.",
+  "evidence": [
+   "mythic-locations::0077",
+   "mythic-locations::0078"
+  ]
+ },
+ {
+  "name": "Willow Wicker Dolls",
+  "type": "Item",
+  "aliases": [],
+  "description": "Dolls warding against weak faeries.",
+  "evidence": [
+   "mythic-locations::0078",
+   "mythic-locations::0079"
+  ]
+ },
+ {
+  "name": "Saint Keyne's chair",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical chair on Mount Saint Michael.",
+  "evidence": [
+   "mythic-locations::0076"
+  ]
+ },
+ {
+  "name": "Mirror of Souls",
+  "type": "Item",
+  "aliases": [],
+  "description": "Mirror in Purgatory that can find any soul.",
+  "evidence": [
+   "mythic-locations::0013",
+   "mythic-locations::0023"
+  ]
+ },
+ {
+  "name": "The Furnace",
+  "type": "Item",
+  "aliases": [],
+  "description": "Furnace in Purgatory that changes Essential Nature.",
+  "evidence": [
+   "mythic-locations::0013",
+   "mythic-locations::0023"
+  ]
+ },
+ {
+  "name": "Fountain of Youth",
+  "type": "Item",
+  "aliases": [],
+  "description": "Fountain of eternal youth in Purgatory.",
+  "evidence": [
+   "mythic-locations::0013",
+   "mythic-locations::0023"
+  ]
+ },
+ {
+  "name": "Annals of Mercury",
+  "type": "Item",
+  "aliases": [],
+  "description": "Text in the Temple of Mercury.",
+  "evidence": [
+   "mythic-locations::0008"
+  ]
+ },
+ {
+  "name": "Staters of Kyzikos",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ancient gold coins found on Bear Island.",
+  "evidence": [
+   "mythic-locations::0100",
+   "mythic-locations::0102"
+  ]
+ },
+ {
+  "name": "Bladud's enchanted wings",
+  "type": "Item",
+  "aliases": [],
+  "description": "Wings that failed over the Temple of Apollo.",
+  "evidence": [
+   "mythic-locations::0032"
+  ]
+ },
+ {
+  "name": "Lead curse tablets",
+  "type": "Item",
+  "aliases": [],
+  "description": "Tablets thrown into the waters.",
+  "evidence": [
+   "mythic-locations::0057",
+   "mythic-locations::0075"
+  ]
+ },
+ {
+  "name": "Relics of the gifts of the Magi",
+  "type": "Item",
+  "aliases": [],
+  "description": "Relics once in Constantinople.",
+  "evidence": [
+   "mythic-locations::0084"
+  ]
+ },
+ {
+  "name": "Wild fire",
+  "type": "Item",
+  "aliases": [
+   "Greek fire"
+  ],
+  "description": "Byzantine naval weapon.",
+  "evidence": [
+   "mythic-locations::0081",
+   "mythic-locations::0072"
+  ]
+ },
+ {
+  "name": "Sal Gemmce",
+  "type": "Item",
+  "aliases": [],
+  "description": "One of the seven salts in Bladud's fermenter.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0081",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Sal Petrce",
+  "type": "Item",
+  "aliases": [],
+  "description": "One of the seven salts in Bladud's fermenter.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0081",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Sal Armonak",
+  "type": "Item",
+  "aliases": [],
+  "description": "One of the seven salts in Bladud's fermenter.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0081",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Sal Albrod",
+  "type": "Item",
+  "aliases": [],
+  "description": "One of the seven salts in Bladud's fermenter.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0081",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Sal Alkine",
+  "type": "Item",
+  "aliases": [],
+  "description": "One of the seven salts in Bladud's fermenter.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0081",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Sal Conim",
+  "type": "Item",
+  "aliases": [],
+  "description": "One of the seven salts in Bladud's fermenter.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0081",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Sal Almelke",
+  "type": "Item",
+  "aliases": [],
+  "description": "One of the seven salts in Bladud's fermenter.",
+  "evidence": [
+   "mythic-locations::0072",
+   "mythic-locations::0081",
+   "mythic-locations::0083"
+  ]
+ },
+ {
+  "name": "Angel Eyes Potion",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Bird Bane",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Book of Beasts",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Dove Hat",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Forest Giant",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Girdle of Change",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Green Flame Powder",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Hat That Grants the Over-Anxious Father Peace of Mind",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Hen Dust",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Inverted Water Wheel",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Love Potion",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Magic Money Box",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Miraculous Beer Mug",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "One Romantic Evening",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Rain Parasol",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Rat Pipe",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Siege of Constantinople",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Silvery Miraculous Daffodil Wand",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Scrying Bowls",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Wand of Dancing Flowers",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Wand of Horses",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Wooden Knights",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical toy sold at the faerie toy market.",
+  "evidence": [
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Poisoned Sap",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis site of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "Apples of Indigo Hue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis site of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "Crystal Geodes",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis site of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "The Silver Fish",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis site of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "The Lightning Tree",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis site of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0006"
+  ]
+ },
+ {
+  "name": "Blue Apples of Twilight",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis of the Poisoned Battlefield.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Teasels of Somerset Levels",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis of the Poisoned Battlefield.",
+  "evidence": [
+   "mythic-locations::0007"
+  ]
+ },
+ {
+  "name": "Beech Tree of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis source of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Poplar Tree of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis source of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Magical Truffles",
+  "type": "Item",
+  "aliases": [],
+  "description": "Truffles of the Truffle Regio.",
+  "evidence": [
+   "mythic-locations::0013",
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Purification",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "The Scrying Pool",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Raising the Auxiliaries for a Day",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Penetrate the Regio",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Skin Blessing of Mercury",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Transformation of Flesh to Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Wizard's Initiation",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Consecration of Mercury's House",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Commune with Mercury",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic version of a Mercurian ritual.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009"
+  ]
+ },
+ {
+  "name": "Retrieve From Purgatory",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Option in the Purgatory chapter.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Mercurian Rituals",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rituals from the Fallen Temple.",
+  "evidence": [
+   "mythic-locations::0008",
+   "mythic-locations::0009",
+   "mythic-locations::0024"
+  ]
+ },
+ {
+  "name": "Ritual of Passing on the Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The She-Wolf's ritual.",
+  "evidence": [
+   "mythic-locations::0010",
+   "mythic-locations::0011"
+  ]
+ },
+ {
+  "name": "Lupercalia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roman festival tied to the Luperci.",
+  "evidence": [
+   "mythic-locations::0010",
+   "mythic-locations::0011"
+  ]
+ },
+ {
+  "name": "Interpretatio Romana",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Concept in the Wolf's Court.",
+  "evidence": [
+   "mythic-locations::0010"
+  ]
+ },
+ {
+  "name": "Titanomachy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War of the Titans.",
+  "evidence": [
+   "mythic-locations::0100"
+  ]
+ },
+ {
+  "name": "Enliven the Gross Waters",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Anne's Ritual Power creating water elementals.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0100"
+  ]
+ },
+ {
+  "name": "Memory of the Waters",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Anne's power.",
+  "evidence": [
+   "mythic-locations::0049"
+  ]
+ },
+ {
+  "name": "Control the Waters",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Focus Power.",
+  "evidence": [
+   "mythic-locations::0049",
+   "mythic-locations::0057"
+  ]
+ },
+ {
+  "name": "Inconspicuousness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Anne's power.",
+  "evidence": [
+   "mythic-locations::0050"
+  ]
+ },
+ {
+  "name": "Requested Vengeance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minerva Sulis's power.",
+  "evidence": [
+   "mythic-locations::0057"
+  ]
+ },
+ {
+  "name": "Form of Wickedness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon power.",
+  "evidence": [
+   "mythic-locations::0061"
+  ]
+ },
+ {
+  "name": "Form of Man",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon power.",
+  "evidence": [
+   "mythic-locations::0062"
+  ]
+ },
+ {
+  "name": "Contagious Obsession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon power.",
+  "evidence": [
+   "mythic-locations::0062"
+  ]
+ },
+ {
+  "name": "Pleasant Clouds in the Mind",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Illusion power.",
+  "evidence": [
+   "mythic-locations::0062",
+   "mythic-locations::0063"
+  ]
+ },
+ {
+  "name": "Possession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon power.",
+  "evidence": [
+   "mythic-locations::0063"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0046"
+  ]
+ },
+ {
+  "name": "Unaffected by the Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0046"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Human Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056",
+   "mythic-locations::0060"
+  ]
+ },
+ {
+  "name": "Increased Faerie Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Personal Faerie Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Place of Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Puissant Carouse",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0060"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0039"
+  ]
+ },
+ {
+  "name": "Spiritual Pact",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0014"
+  ]
+ },
+ {
+  "name": "External vis source",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0046",
+   "mythic-locations::0049"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0046"
+  ]
+ },
+ {
+  "name": "Ritual Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0046",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Tireless",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0046"
+  ]
+ },
+ {
+  "name": "No Fatigue",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0047"
+  ]
+ },
+ {
+  "name": "Improved Abilities",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or creature Quality listed for a being (Anne, Minerva Sulis, Balneator) or setting feature described here.",
+  "evidence": [
+   "mythic-locations::0047"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw or Inferiority listed for Anne or Minerva Sulis of Bath.",
+  "evidence": [
+   "mythic-locations::0046"
+  ]
+ },
+ {
+  "name": "Anchored to the Baths",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw or Inferiority listed for Anne or Minerva Sulis of Bath.",
+  "evidence": [
+   "mythic-locations::0046"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw or Inferiority listed for Anne or Minerva Sulis of Bath.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw or Inferiority listed for Anne or Minerva Sulis of Bath.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Intangible Flesh",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw or Inferiority listed for Anne or Minerva Sulis of Bath.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0029",
+   "mythic-locations::0033",
+   "mythic-locations::0098"
+  ]
+ },
+ {
+  "name": "Organization Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0029",
+   "mythic-locations::0033",
+   "mythic-locations::0098"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0029",
+   "mythic-locations::0033",
+   "mythic-locations::0098"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0029",
+   "mythic-locations::0033",
+   "mythic-locations::0098"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Dead Language",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Magical Meditation",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in lore rolls or listed in creature statistics in this text (e.g. Anne of Bath).",
+  "evidence": [
+   "mythic-locations::0047",
+   "mythic-locations::0048"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in creature powers and vis descriptions in this text.",
+  "evidence": [
+   "mythic-locations::0048",
+   "mythic-locations::0050",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power whose auras appear at Mount Dindymon and the Spring of Artakia.",
+  "evidence": [
+   "mythic-locations::0106",
+   "mythic-locations::0115"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power with numerous auras on Bear Island tied to Jason's visit.",
+  "evidence": [
+   "mythic-locations::0106",
+   "mythic-locations::0115"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power with an aura at King Kyzikos' tumulus.",
+  "evidence": [
+   "mythic-locations::0106",
+   "mythic-locations::0112"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power manifest as Dominion auras such as at the Cathedral of St. Tryphaena.",
+  "evidence": [
+   "mythic-locations::0107"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0106"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0046",
+   "mythic-locations::0101"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0024",
+   "mythic-locations::0026",
+   "mythic-locations::0118"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0069",
+   "mythic-locations::0110"
+  ]
+ },
+ {
+  "name": "Vis sordida",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0112"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0068",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0046",
+   "mythic-locations::0111"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Infernal Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0060"
+  ]
+ },
+ {
+  "name": "Warping Score",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0070"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0039",
+   "mythic-locations::0070"
+  ]
+ },
+ {
+  "name": "Insight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0038",
+   "mythic-locations::0072"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0024",
+   "mythic-locations::0038",
+   "mythic-locations::0069"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0073",
+   "mythic-locations::0108"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0069",
+   "mythic-locations::0074"
+  ]
+ },
+ {
+  "name": "Disease Recovery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0066"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0061",
+   "mythic-locations::0062"
+  ]
+ },
+ {
+  "name": "Ceremony of Welcome",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0064"
+  ]
+ },
+ {
+  "name": "Vexillation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0064"
+  ]
+ },
+ {
+  "name": "Essential Nature",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0023"
+  ]
+ },
+ {
+  "name": "Lycanthropy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0067"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0075",
+   "mythic-locations::0096"
+  ]
+ },
+ {
+  "name": "Forgotten God",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0046"
+  ]
+ },
+ {
+  "name": "Extended Glamor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0057"
+  ]
+ },
+ {
+  "name": "Pretenses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0056"
+  ]
+ },
+ {
+  "name": "Tractatus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0068"
+  ]
+ },
+ {
+  "name": "Tartaran Regiones",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Celestial Regiones",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0013"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic or setting concept referenced in the description of the Mythic Locations sites.",
+  "evidence": [
+   "mythic-locations::0000",
+   "mythic-locations::0015"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Type of character referenced in the Mythic Locations text.",
+  "evidence": [
+   "mythic-locations::0015",
+   "mythic-locations::0020"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Type of character referenced in the Mythic Locations text.",
+  "evidence": [
+   "mythic-locations::0015",
+   "mythic-locations::0065"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Type of character referenced in the Mythic Locations text.",
+  "evidence": [
+   "mythic-locations::0000",
+   "mythic-locations::0113"
+  ]
+ },
+ {
+  "name": "Learned Magician",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Type of character referenced in the Mythic Locations text.",
+  "evidence": [
+   "mythic-locations::0072"
+  ]
+ },
+ {
+  "name": "Hedge magician",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Type of character referenced in the Mythic Locations text.",
+  "evidence": [
+   "mythic-locations::0069"
+  ]
+ }
+]

@@ -1,0 +1,2019 @@
+[
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Tribunal of Rome"
+  ],
+  "description": "Hermetic Tribunal spanning the Italian peninsula, Corsica, Sardinia, Sicily, the southern Alps and northern Africa; a land of intrigue, corruption and conflict among Magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0001",
+   "tribunals-of-hermes-rome::0023",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Hermetic order of wizards, founded in part by ten Roman Magi, whose roots lie in the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0001",
+   "tribunals-of-hermes-rome::0104",
+   "tribunals-of-hermes-rome::0057"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Provençal"
+  ],
+  "description": "Neighboring Tribunal containing Doissetep, Windgraven and Mistridge; it feuds with the Roman Tribunal after Hermetic interference in Sicily.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0089",
+   "tribunals-of-hermes-rome::0090"
+  ]
+ },
+ {
+  "name": "Tribunal of the Greater Alps",
+  "type": "Tribunal",
+  "aliases": [
+   "Greater Alps"
+  ],
+  "description": "Tribunal bordering the Roman Tribunal in the Alps, which a new Roman covenant must not infringe upon.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0037"
+  ]
+ },
+ {
+  "name": "Tamgor of Quaesitor",
+  "type": "Character",
+  "aliases": [
+   "Tamgor"
+  ],
+  "description": "Quaesitor who journeyed through the Roman Tribunal's covenants to gather information ahead of Jarane's triad, recording his findings in a journal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0013",
+   "tribunals-of-hermes-rome::0021"
+  ]
+ },
+ {
+  "name": "Jarane of Quaesitor",
+  "type": "Character",
+  "aliases": [
+   "Jarane"
+  ],
+  "description": "Highly respected Quaesitor who plans to lead a triad of Quaesitoris into Italy to fix the Roman Tribunal's problems.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0077"
+  ]
+ },
+ {
+  "name": "Arliandus of Magvillus",
+  "type": "Character",
+  "aliases": [
+   "Arliandus"
+  ],
+  "description": "Quaesitor of Magvillus, named as perhaps the most respected member of House Quaesitor.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007"
+  ]
+ },
+ {
+  "name": "Guernicus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Quaesitor, one of the three Order founders who called the Roman Tribunal home; invoked in oaths by Quaesitors.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0022",
+   "tribunals-of-hermes-rome::0104"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Magvillus"
+  ],
+  "description": "Domus Magnus of House Quaesitor in the mountains of southern Italy; a scheming covenant that owns Sicily and wields great influence over the Tribunal and its Treaty.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0009",
+   "tribunals-of-hermes-rome::0033",
+   "tribunals-of-hermes-rome::0037"
+  ]
+ },
+ {
+  "name": "House Quaesitor",
+  "type": "House",
+  "aliases": [
+   "Quaesitor",
+   "Quaesitoris"
+  ],
+  "description": "Hermetic House of judges and investigators whose Domus Magnus is Magvillus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0009",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Harco"
+  ],
+  "description": "Domus Magnus of House Mercere at the northwest edge of the Alps, an opulent, mercantile covenant with a Hermes Portal to Doissetep.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0008",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Doissetep",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Great covenant of the Provençal Tribunal, linked to Harco by a Hermes Portal and famous for its library.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0019",
+   "tribunals-of-hermes-rome::0021"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "One of the most respected Houses of the Order, with its Domus Magnus at Harco.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0008",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Mercere and one of three Order founders who called the Roman Tribunal home.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0104"
+  ]
+ },
+ {
+  "name": "Insatella",
+  "type": "Character",
+  "aliases": [],
+  "description": "Primus of House Mercere at Harco, deeply involved in mercantile affairs and unfriendly toward Tamgor.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0008",
+   "tribunals-of-hermes-rome::0009",
+   "tribunals-of-hermes-rome::0021"
+  ]
+ },
+ {
+  "name": "Guiseppe",
+  "type": "Character",
+  "aliases": [],
+  "description": "Visiting merchant at Harco who told Tamgor the covenant was honest in its trade.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0008"
+  ]
+ },
+ {
+  "name": "Hermes Portal",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical portal allowing travel between covenants; Harco maintains one leading to Magvillus and to Doissetep.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0009",
+   "tribunals-of-hermes-rome::0021"
+  ]
+ },
+ {
+  "name": "Duresca scrolls",
+  "type": "Item",
+  "aliases": [],
+  "description": "Scrolls of ages past possibly connected to the power machinations within Magvillus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0010"
+  ]
+ },
+ {
+  "name": "Sansaron",
+  "type": "Covenant",
+  "aliases": [
+   "Sansaron Covenant"
+  ],
+  "description": "Isolationist covenant in magical caverns beneath a temple in the ruins of Carthage in North Africa; infiltrated by vengeful hedge wizards.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0011",
+   "tribunals-of-hermes-rome::0012",
+   "tribunals-of-hermes-rome::0106"
+  ]
+ },
+ {
+  "name": "Ahmen",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of Sansaron's five custos, who met and grudgingly hosted Tamgor.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0011",
+   "tribunals-of-hermes-rome::0012"
+  ]
+ },
+ {
+  "name": "Narisian",
+  "type": "Character",
+  "aliases": [],
+  "description": "Head of Sansaron, abrupt and unwelcoming to Tamgor.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0012",
+   "tribunals-of-hermes-rome::0013"
+  ]
+ },
+ {
+  "name": "Verdi",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus Magnus of House Verditius, hidden in a concealed valley on Sardinia; beautiful but rife with plots to control the Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0013",
+   "tribunals-of-hermes-rome::0014",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House of item-makers whose Domus Magnus is Verdi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0033",
+   "tribunals-of-hermes-rome::0109",
+   "tribunals-of-hermes-rome::0115"
+  ]
+ },
+ {
+  "name": "Verditius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Verditius and one of the three Order founders who called the Roman Tribunal home.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0104"
+  ]
+ },
+ {
+  "name": "Imanitosi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Primus of Verditius at Verdi, who dwells in a great mystical tower.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0014"
+  ]
+ },
+ {
+  "name": "Rellantali",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Liberal covenant on the island of Asinara with a strong ruler, suspicious of Magvillus and a longtime target of Verdi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0014",
+   "tribunals-of-hermes-rome::0015",
+   "tribunals-of-hermes-rome::0035"
+  ]
+ },
+ {
+  "name": "Netiriun",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young Magus of Rellantali who refused Tamgor entry, suspecting him of spying for Magvillus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0015"
+  ]
+ },
+ {
+  "name": "Vardian's Tomb",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Independent covenant in the catacombs near Rome, divested from the Order and split between Jerbiton and necromancer factions.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0016",
+   "tribunals-of-hermes-rome::0017",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Fortunatas of Jerbiton",
+  "type": "Character",
+  "aliases": [
+   "Fortunatas"
+  ],
+  "description": "One of the two heads of Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0016"
+  ]
+ },
+ {
+  "name": "Rubaton Ex Miscellanea",
+  "type": "Character",
+  "aliases": [
+   "Rubaton"
+  ],
+  "description": "One of the two heads of Vardian's Tomb, associated with its necromancer faction.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0016"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Hermetic House to which Rubaton of Vardian's Tomb belongs.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0016"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton",
+   "Jerbitons"
+  ],
+  "description": "Hermetic House that allied with Pope Sylvester II to found Literatus and is its most common House.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0036",
+   "tribunals-of-hermes-rome::0057",
+   "tribunals-of-hermes-rome::0112"
+  ]
+ },
+ {
+  "name": "Postestas",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Postestas"
+  ],
+  "description": "Tremere covenant on cliffs overlooking the Adriatic, well regarded and seeking to lead a new Roman order.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0017",
+   "tribunals-of-hermes-rome::0018",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House with a power-hungry reputation whose members lead Postestas.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0017",
+   "tribunals-of-hermes-rome::0033",
+   "tribunals-of-hermes-rome::0035"
+  ]
+ },
+ {
+  "name": "Garvil",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of Postestas who speaks of preserving order in the Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0018"
+  ]
+ },
+ {
+  "name": "Literatus",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Literatus"
+  ],
+  "description": "Covenant near Bologna with a vast library, founded through Pope Sylvester II and House Jerbiton, mixing mundane and magic and secretly Infernally corrupt.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0019",
+   "tribunals-of-hermes-rome::0036",
+   "tribunals-of-hermes-rome::0057"
+  ]
+ },
+ {
+  "name": "Amberitus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Head of Literatus, who preaches cooperation among the Tribunal's Magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0019",
+   "tribunals-of-hermes-rome::0020",
+   "tribunals-of-hermes-rome::0036"
+  ]
+ },
+ {
+  "name": "Treaty of the Roman Tribunal",
+  "type": "Concept",
+  "aliases": [
+   "the Treaty"
+  ],
+  "description": "Treaty drafted by Iernilus in 1068 limiting Magi's dealings with mundanes and sales of magic items; part of the Peripheral Code.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0027",
+   "tribunals-of-hermes-rome::0116",
+   "tribunals-of-hermes-rome::0119"
+  ]
+ },
+ {
+  "name": "Luctatio",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Newly founded covenant near Milan in Lombardy, led by Arasen of Tytalus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0020",
+   "tribunals-of-hermes-rome::0021",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Arasen",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hospitable Tytalus Magus who leads Luctatio.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0021"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House to which Arasen belongs.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0021",
+   "tribunals-of-hermes-rome::0035",
+   "tribunals-of-hermes-rome::0115"
+  ]
+ },
+ {
+  "name": "Feritel",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "One of two independent covenants in Italy divested from the Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House suited to Rellantali's missions; a Flambeau sent by Magvillus executed Juden.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0035",
+   "tribunals-of-hermes-rome::0109",
+   "tribunals-of-hermes-rome::0114"
+  ]
+ },
+ {
+  "name": "Flambeau",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of the Order who hunted hedge wizards, destroying Vardian's Skull and slaying three hedge wizards in the catacombs near Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0104",
+   "tribunals-of-hermes-rome::0105"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Order founder who stalked and slew hedge wizards alongside Flambeau.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0104"
+  ]
+ },
+ {
+  "name": "Bjornaer",
+  "type": "Character",
+  "aliases": [],
+  "description": "Shapechanger founder of the Order of Hermes.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0104"
+  ]
+ },
+ {
+  "name": "Diedne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Druid founder of the Order of Hermes.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0104"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder who created a theory of magic; his followers at Auctus sought a new theory.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0108"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [],
+  "description": "Followers of Bonisagus who joined in the covenant of Auctus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0108"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House whose followers joined at Auctus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0108"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House; a Sardinian Merinita theorizes the Mercurians fled into Faerieland.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0101",
+   "tribunals-of-hermes-rome::0108"
+  ]
+ },
+ {
+  "name": "Auctus",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Auctus"
+  ],
+  "description": "Covenant near Verdi where Bonisagus, Criamon and Merinita followers sought a new magic theory; destroyed by Verdi's political attacks.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0108",
+   "tribunals-of-hermes-rome::0111"
+  ]
+ },
+ {
+  "name": "Calabria (covenant)",
+  "type": "Covenant",
+  "aliases": [
+   "Calabria"
+  ],
+  "description": "Covenant in southern Italy weakened by a Verdi-instigated Mussulman invasion; its Magi fled to Novgorod.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0108",
+   "tribunals-of-hermes-rome::0110",
+   "tribunals-of-hermes-rome::0112"
+  ]
+ },
+ {
+  "name": "Bellaquin",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Provençal covenant that followed Literatus' example of joining mundane and magic.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0113"
+  ]
+ },
+ {
+  "name": "Windgraven",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Provençal covenant whose Magi accompanied Charles of Anjou to Sicily.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0089",
+   "tribunals-of-hermes-rome::0090"
+  ]
+ },
+ {
+  "name": "Mistridge",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Provençal covenant, Windgraven's traditional enemy, whose Magi aided the Sicilian Vespers.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0090"
+  ]
+ },
+ {
+  "name": "Iernilus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Stubborn, fair-minded Quaesitor who drafted the Treaty of the Roman Tribunal, finalized in 1068.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0115",
+   "tribunals-of-hermes-rome::0116"
+  ]
+ },
+ {
+  "name": "Juden of Verditius",
+  "type": "Character",
+  "aliases": [
+   "Juden"
+  ],
+  "description": "Magus of Verdi who murdered clergy on Sardinia to restore magic and was killed under a Wizard's March.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0109",
+   "tribunals-of-hermes-rome::0110"
+  ]
+ },
+ {
+  "name": "Marcelo of Verdi",
+  "type": "Character",
+  "aliases": [
+   "Marcelo"
+  ],
+  "description": "Magus of Verdi who has long tried to fathom the magic of the Roman roads.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0098"
+  ]
+ },
+ {
+  "name": "Terith of Jerbiton",
+  "type": "Character",
+  "aliases": [
+   "Terith"
+  ],
+  "description": "Jerbiton researcher who seeks evidence of a diabolic pact tainting Italy and theorizes the Mercurians turned to diabolism.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0042",
+   "tribunals-of-hermes-rome::0101"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [
+   "Mercurians"
+  ],
+  "description": "Ancient Roman magical cult rooted in the Cult of Hermes, worshipping Mercury; disbanded in 412 and an inspiration for Hermetic magic.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0097",
+   "tribunals-of-hermes-rome::0100",
+   "tribunals-of-hermes-rome::0102"
+  ]
+ },
+ {
+  "name": "Cult of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Greek magical cult from which the Cult of Mercury drew its ideals; its artifacts later reached Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0048",
+   "tribunals-of-hermes-rome::0097"
+  ]
+ },
+ {
+  "name": "Hasophis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary founder of the Cult of Mercury, said to be buried in the southern Alps.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0099"
+  ]
+ },
+ {
+  "name": "Great Iron Tree",
+  "type": "Item",
+  "aliases": [],
+  "description": "Legendary tree enchanted by one hundred Mercurians for a mysterious task.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0099"
+  ]
+ },
+ {
+  "name": "Tarhutis",
+  "type": "Creature",
+  "aliases": [
+   "Mercury"
+  ],
+  "description": "Ancient god worshipped by the Romans as Mercury, whose awakening may have destroyed the Cult of Mercury.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0100",
+   "tribunals-of-hermes-rome::0101"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "aliases": [],
+  "description": "God worshipped by the Cult of Mercury and common folk in temples throughout Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0098",
+   "tribunals-of-hermes-rome::0100"
+  ]
+ },
+ {
+  "name": "Roman roads",
+  "type": "Place",
+  "aliases": [],
+  "description": "Roads that seem to form a great magical network created with the Cult of Mercury.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0098"
+  ]
+ },
+ {
+  "name": "Age of Chaos",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Period of about 350 years after the Cult of Mercury's fall when Italian wizards lived in lawless fear and battle.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0103",
+   "tribunals-of-hermes-rome::0115"
+  ]
+ },
+ {
+  "name": "Hedge wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge wizards"
+  ],
+  "description": "Non-Hermetic wizards, many hunted by Flambeau and Tytalus; some fled to Africa plotting revenge.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0103",
+   "tribunals-of-hermes-rome::0104",
+   "tribunals-of-hermes-rome::0106"
+  ]
+ },
+ {
+  "name": "Vardian's Skull",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ancient artifact of three hedge wizards destroyed by Flambeau; its power created the Magical Aura of Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0104",
+   "tribunals-of-hermes-rome::0105"
+  ]
+ },
+ {
+  "name": "Varator",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon of vengeance tied to the hedge wizard refugees plotting against the Order.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0106",
+   "tribunals-of-hermes-rome::0107"
+  ]
+ },
+ {
+  "name": "Peris",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon controlling many diabolists in northern Italy's cities, patron of the Della Torre, who took flesh as Eccelino da Romano.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0063",
+   "tribunals-of-hermes-rome::0067",
+   "tribunals-of-hermes-rome::0087"
+  ]
+ },
+ {
+  "name": "Deriten",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon who made a pact with Frederick Barbarossa and sought to claim Peris' lands.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0067",
+   "tribunals-of-hermes-rome::0072",
+   "tribunals-of-hermes-rome::0073"
+  ]
+ },
+ {
+  "name": "Brazen Head",
+  "type": "Item",
+  "aliases": [],
+  "description": "Prophetic device gained by Gerbert in Toledo, allegedly Infernal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0056"
+  ]
+ },
+ {
+  "name": "Golden dove of Constantine",
+  "type": "Creature",
+  "aliases": [
+   "golden seer",
+   "Holy Regent"
+  ],
+  "description": "Golden dove bearing the Holy Word that helped Constantine root out Infernal corruption; since lost.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0044"
+  ]
+ },
+ {
+  "name": "Donation of Constantine",
+  "type": "Item",
+  "aliases": [],
+  "description": "Document recording Constantine's gift of the Western Empire to the Papacy; those who saw it died within a year.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0047"
+  ]
+ },
+ {
+  "name": "Pope Sylvester II",
+  "type": "Character",
+  "aliases": [
+   "Gerbert of Aurillac",
+   "Gerbert",
+   "Sylvester II"
+  ],
+  "description": "Scholar-Pope and magician who, with House Jerbiton, founded Literatus; his body vanished after his death.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0055",
+   "tribunals-of-hermes-rome::0056",
+   "tribunals-of-hermes-rome::0057"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [
+   "Frederick"
+  ],
+  "description": "King of Sicily and Emperor who allied with Literatus and was secretly corrupted by it; remembered as the Anti-Christ.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0074",
+   "tribunals-of-hermes-rome::0079",
+   "tribunals-of-hermes-rome::0083"
+  ]
+ },
+ {
+  "name": "Frederick Barbarossa",
+  "type": "Character",
+  "aliases": [],
+  "description": "Holy Roman Emperor and secret diabolist pawn of the demon Deriten who warred on the northern Italian cities.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0067",
+   "tribunals-of-hermes-rome::0068",
+   "tribunals-of-hermes-rome::0072"
+  ]
+ },
+ {
+  "name": "Eccelino da Romano",
+  "type": "Character",
+  "aliases": [
+   "Eccelino"
+  ],
+  "description": "Tyrant of Verona and Lombardy, possessed by the demon Peris until Magi drove it out in 1259.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0087",
+   "tribunals-of-hermes-rome::0088"
+  ]
+ },
+ {
+  "name": "Robert Guiscard",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norman mercenary who conquered southern Italy with magic items bought from Roman Magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0060",
+   "tribunals-of-hermes-rome::0061",
+   "tribunals-of-hermes-rome::0114"
+  ]
+ },
+ {
+  "name": "Roger the Great",
+  "type": "Character",
+  "aliases": [],
+  "description": "Robert Guiscard's nephew, named King of Sicily.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0061"
+  ]
+ },
+ {
+  "name": "Innocent III",
+  "type": "Character",
+  "aliases": [
+   "Pope Innocent III"
+  ],
+  "description": "Pope whose pontificate marks the height of Papal power, possibly aided by otherworldly power.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0031",
+   "tribunals-of-hermes-rome::0075",
+   "tribunals-of-hermes-rome::0076"
+  ]
+ },
+ {
+  "name": "Innocent IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pope who deposed and excommunicated Frederick II.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0083"
+  ]
+ },
+ {
+  "name": "Gregory IX",
+  "type": "Character",
+  "aliases": [
+   "Pope Gregory IX"
+  ],
+  "description": "Pope who excommunicated Frederick II.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0081"
+  ]
+ },
+ {
+  "name": "Boniface VIII",
+  "type": "Character",
+  "aliases": [
+   "Benedetto Gaetani"
+  ],
+  "description": "Vile diabolist Pope who duped Celestine V into resigning.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0085",
+   "tribunals-of-hermes-rome::0091"
+  ]
+ },
+ {
+  "name": "Celestine V",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saintly Pope overwhelmed by intrigue and duped into resigning.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0091"
+  ]
+ },
+ {
+  "name": "Pope Leo I",
+  "type": "Character",
+  "aliases": [
+   "Leo"
+  ],
+  "description": "Pope who declared the Church independent and turned Attila from Rome, reputedly with demons at his command.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0047"
+  ]
+ },
+ {
+  "name": "Constantine",
+  "type": "Character",
+  "aliases": [
+   "Emperor Constantine"
+  ],
+  "description": "Roman Emperor who recognized Christianity and, aided by a golden dove, rooted out Infernal corruption.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0044",
+   "tribunals-of-hermes-rome::0047"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of the Franks and Lombards crowned Emperor of the Romans.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0051",
+   "tribunals-of-hermes-rome::0053"
+  ]
+ },
+ {
+  "name": "Otto III",
+  "type": "Character",
+  "aliases": [],
+  "description": "German Emperor tutored by Gerbert, killed in a Roman revolt.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0056",
+   "tribunals-of-hermes-rome::0059"
+  ]
+ },
+ {
+  "name": "Henry III",
+  "type": "Character",
+  "aliases": [],
+  "description": "German ruler who reputedly controlled popes by blackmail over diabolism.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0059"
+  ]
+ },
+ {
+  "name": "Charles of Anjou",
+  "type": "Character",
+  "aliases": [],
+  "description": "French count crowned King of Sicily in 1266, bringing Windgraven Magi into Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0089"
+  ]
+ },
+ {
+  "name": "Manfred",
+  "type": "Character",
+  "aliases": [
+   "Prince of Taranto"
+  ],
+  "description": "Bastard son of Frederick II, possibly demon-spawned, who took Sicily's crown before being killed.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0089"
+  ]
+ },
+ {
+  "name": "Della Torre",
+  "type": "Faction",
+  "aliases": [
+   "Della Torre family"
+  ],
+  "description": "Milanese family in pact with the demon Peris who organized the Lombard League.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0067",
+   "tribunals-of-hermes-rome::0069",
+   "tribunals-of-hermes-rome::0071"
+  ]
+ },
+ {
+  "name": "Della Scala",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Family ruling Verona.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0086"
+  ]
+ },
+ {
+  "name": "Lombard League",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Alliance of Lombard communes formed at Pontida to defeat Frederick Barbarossa, reformed against Frederick II.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0071",
+   "tribunals-of-hermes-rome::0072",
+   "tribunals-of-hermes-rome::0079"
+  ]
+ },
+ {
+  "name": "Guelph",
+  "type": "Faction",
+  "aliases": [
+   "Guelphs"
+  ],
+  "description": "Papalist party of the northern Italian cities.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0077",
+   "tribunals-of-hermes-rome::0082"
+  ]
+ },
+ {
+  "name": "Ghibelline",
+  "type": "Faction",
+  "aliases": [
+   "Ghibellines"
+  ],
+  "description": "Imperialist party of the northern Italian cities.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0077",
+   "tribunals-of-hermes-rome::0083"
+  ]
+ },
+ {
+  "name": "Podesta",
+  "type": "CharacterType",
+  "aliases": [
+   "Podestas"
+  ],
+  "description": "Imperially appointed executive officers of northern communes, later kept by city councils.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0069",
+   "tribunals-of-hermes-rome::0072",
+   "tribunals-of-hermes-rome::0073"
+  ]
+ },
+ {
+  "name": "Holy Roman Empire",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Empire north of Italy with theoretical control over northern Italy, in conflict with the Papacy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0029",
+   "tribunals-of-hermes-rome::0031",
+   "tribunals-of-hermes-rome::0051"
+  ]
+ },
+ {
+  "name": "Kingdom of Sicily",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Kingdom ruling southern Italy and Sicily, with its capital at Palermo.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0031",
+   "tribunals-of-hermes-rome::0061"
+  ]
+ },
+ {
+  "name": "Papal States",
+  "type": "Place",
+  "aliases": [
+   "Patrimony of Saint Peter"
+  ],
+  "description": "Papal domain running from Rome to Bologna.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0031",
+   "tribunals-of-hermes-rome::0032",
+   "tribunals-of-hermes-rome::0075"
+  ]
+ },
+ {
+  "name": "Inquisition",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Newly formed Church body against heretics, strengthened by Frederick II.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0081",
+   "tribunals-of-hermes-rome::0084"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "aliases": [
+   "Mussulmans"
+  ],
+  "description": "Islamic invaders of Sicily and southern Italy; small enclaves still practice their own magic.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0053",
+   "tribunals-of-hermes-rome::0110"
+  ]
+ },
+ {
+  "name": "Magyars",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Nomadic Hungarian raiders of northern Italy; small enclaves remain.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0053",
+   "tribunals-of-hermes-rome::0111"
+  ]
+ },
+ {
+  "name": "Lombards",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Germanic tribe that ruled northern Italy for 200 years.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0050",
+   "tribunals-of-hermes-rome::0051"
+  ]
+ },
+ {
+  "name": "Visigoths",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Germanic invaders who sacked Rome, reputedly led by a demonic monster.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0045",
+   "tribunals-of-hermes-rome::0046"
+  ]
+ },
+ {
+  "name": "Vandals",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Germanic invaders who sacked Rome and conquered Sicily and Sardinia.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0046"
+  ]
+ },
+ {
+  "name": "Visigoth monster",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Huge four-armed obsidian-furred monster that led the Visigoths into Rome, banished by a young priest.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0045"
+  ]
+ },
+ {
+  "name": "She-wolf of Rome",
+  "type": "Creature",
+  "aliases": [],
+  "description": "She-wolf that raised Romulus and Remus, perhaps a powerful faerie still living.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0040",
+   "tribunals-of-hermes-rome::0041"
+  ]
+ },
+ {
+  "name": "Romulus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary founder of Rome who killed his twin Remus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0040"
+  ]
+ },
+ {
+  "name": "Remus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Twin of Romulus, whose shade may still haunt Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0040"
+  ]
+ },
+ {
+  "name": "Sirens",
+  "type": "Creature",
+  "aliases": [
+   "sirens"
+  ],
+  "description": "Creatures whose song on the Straits of Messina lures sailors to death.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0010",
+   "tribunals-of-hermes-rome::0090"
+  ]
+ },
+ {
+  "name": "Cyclopes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creatures east of Sicily to whom sailors make sacrifices.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0010"
+  ]
+ },
+ {
+  "name": "The Devil",
+  "type": "Creature",
+  "aliases": [
+   "Dark One",
+   "Lord of Flies",
+   "Dark Lord of Hell"
+  ],
+  "description": "Infernal lord seeking to corrupt Italy and destroy Christianity.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0042",
+   "tribunals-of-hermes-rome::0045",
+   "tribunals-of-hermes-rome::0046"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "Infernal realm"
+  ],
+  "description": "Realm of demons whose corruption pervades Italy and the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0023",
+   "tribunals-of-hermes-rome::0063",
+   "tribunals-of-hermes-rome::0106"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine realm whose influence has contributed to the fading of magic in Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0023",
+   "tribunals-of-hermes-rome::0072",
+   "tribunals-of-hermes-rome::0096"
+  ]
+ },
+ {
+  "name": "Magic realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm of magic, fading from Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0108"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Faerie realm whose Auras shrank in Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0108"
+  ]
+ },
+ {
+  "name": "Faerieland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Faerie realm where the Mercurians may have fled, where a day is a year.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0101"
+  ]
+ },
+ {
+  "name": "Magical Aura",
+  "type": "Concept",
+  "aliases": [
+   "Aura"
+  ],
+  "description": "Mystical aura such as the one imbued in Vardian's Tomb by Vardian's Skull.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0105",
+   "tribunals-of-hermes-rome::0108"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Magical resource bitterly fought over and fading in the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0023",
+   "tribunals-of-hermes-rome::0027",
+   "tribunals-of-hermes-rome::0113"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical duel used to compel covenants in Tribunal politics.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0111",
+   "tribunals-of-hermes-rome::0116"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "aliases": [
+   "Wizard's Wars"
+  ],
+  "description": "Sanctioned magical war between Magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0110",
+   "tribunals-of-hermes-rome::0115"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Order-sanctioned death sentence, as imposed on Juden.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0109"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic law defied by Roman Magi in mundane dealings.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0066",
+   "tribunals-of-hermes-rome::0077"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Body of Hermetic precedent including the Treaty of the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0119"
+  ]
+ },
+ {
+  "name": "Domus Magnus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A House's chief covenant.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0007",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Head of a Hermetic House.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0008",
+   "tribunals-of-hermes-rome::0014"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [
+   "apprentice's Gauntlet"
+  ],
+  "description": "Test ending apprenticeship.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0009"
+  ]
+ },
+ {
+  "name": "Custos",
+  "type": "CharacterType",
+  "aliases": [
+   "custos"
+  ],
+  "description": "Covenant guard or servant.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0011"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "Grogs"
+  ],
+  "description": "Covenant soldiers or servants.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0106"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mundane covenant inhabitants.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0008",
+   "tribunals-of-hermes-rome::0018"
+  ]
+ },
+ {
+  "name": "Consors",
+  "type": "CharacterType",
+  "aliases": [
+   "consortis"
+  ],
+  "description": "Covenant associates used as intermediaries.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0117"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "Magi"
+  ],
+  "description": "Hermetic wizard.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0001",
+   "tribunals-of-hermes-rome::0023"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitoris"
+  ],
+  "description": "Hermetic judge.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0009",
+   "tribunals-of-hermes-rome::0113"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Magi researching the Cult of Mercury's history.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0097",
+   "tribunals-of-hermes-rome::0100"
+  ]
+ },
+ {
+  "name": "Tribunal meeting",
+  "type": "Concept",
+  "aliases": [
+   "emergency Tribunal meeting"
+  ],
+  "description": "Gathering of a Tribunal's Magi; Roman meetings are held every seven years in Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0068",
+   "tribunals-of-hermes-rome::0111",
+   "tribunals-of-hermes-rome::0119"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "the Gifted"
+  ],
+  "description": "Magical talent.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0056"
+  ]
+ },
+ {
+  "name": "Invested device",
+  "type": "Item",
+  "aliases": [
+   "magic item"
+  ],
+  "description": "Enchanted item; the Treaty limits sales to mundanes.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0117",
+   "tribunals-of-hermes-rome::0119"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [
+   "city of Rome"
+  ],
+  "description": "Holy city and heart of the Empire.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0001",
+   "tribunals-of-hermes-rome::0040"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "aliases": [
+   "Italian peninsula"
+  ],
+  "description": "Peninsula forming the core of the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0023",
+   "tribunals-of-hermes-rome::0029"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "aliases": [],
+  "description": "Fertile island owned by Magvillus, likely site for new covenants.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0030",
+   "tribunals-of-hermes-rome::0037"
+  ]
+ },
+ {
+  "name": "Sardinia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island where Verdi is hidden.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0030",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Corsica",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island contested by Pisa and Genoa.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0030",
+   "tribunals-of-hermes-rome::0031"
+  ]
+ },
+ {
+  "name": "Asinara",
+  "type": "Place",
+  "aliases": [],
+  "description": "Small island north of Sardinia where Rellantali lies.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0014",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Carthage",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient city whose ruins shelter Sansaron.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0011",
+   "tribunals-of-hermes-rome::0041"
+  ]
+ },
+ {
+  "name": "Tunis",
+  "type": "Place",
+  "aliases": [],
+  "description": "North African port reputed home to pirates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0010",
+   "tribunals-of-hermes-rome::0011"
+  ]
+ },
+ {
+  "name": "Cagliari",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sardinian port near Verdi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0013",
+   "tribunals-of-hermes-rome::0109"
+  ]
+ },
+ {
+  "name": "Vieste",
+  "type": "Place",
+  "aliases": [],
+  "description": "Italian port city.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0010"
+  ]
+ },
+ {
+  "name": "Ostia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Rome's port.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0016"
+  ]
+ },
+ {
+  "name": "Venice",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Treaty meetings are held.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0031",
+   "tribunals-of-hermes-rome::0115",
+   "tribunals-of-hermes-rome::0119"
+  ]
+ },
+ {
+  "name": "Milan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lombard city near Luctatio.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0020",
+   "tribunals-of-hermes-rome::0066",
+   "tribunals-of-hermes-rome::0069"
+  ]
+ },
+ {
+  "name": "Bologna",
+  "type": "Place",
+  "aliases": [],
+  "description": "City near Literatus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0019",
+   "tribunals-of-hermes-rome::0033"
+  ]
+ },
+ {
+  "name": "Palermo",
+  "type": "Place",
+  "aliases": [],
+  "description": "Capital of the Kingdom of Sicily.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0061",
+   "tribunals-of-hermes-rome::0090"
+  ]
+ },
+ {
+  "name": "Lombardy",
+  "type": "Place",
+  "aliases": [],
+  "description": "War-torn northern Italian region.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0029",
+   "tribunals-of-hermes-rome::0033",
+   "tribunals-of-hermes-rome::0050"
+  ]
+ },
+ {
+  "name": "Venetia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northern Italian region.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0029"
+  ]
+ },
+ {
+  "name": "Calabria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Western southern Italian region.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0010",
+   "tribunals-of-hermes-rome::0030"
+  ]
+ },
+ {
+  "name": "Apulia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Eastern southern Italian region.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0030"
+  ]
+ },
+ {
+  "name": "Po Valley",
+  "type": "Place",
+  "aliases": [],
+  "description": "Beast-infested valley south of the Alps.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0020",
+   "tribunals-of-hermes-rome::0029"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains dividing Italy from France and the Empire.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0029",
+   "tribunals-of-hermes-rome::0037"
+  ]
+ },
+ {
+  "name": "Apennines",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains running the length of Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0017",
+   "tribunals-of-hermes-rome::0029"
+  ]
+ },
+ {
+  "name": "Gulf of Taranto",
+  "type": "Place",
+  "aliases": [],
+  "description": "Gulf dividing southern Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0030"
+  ]
+ },
+ {
+  "name": "Tyrrhenian Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Harsh western sea.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0030"
+  ]
+ },
+ {
+  "name": "Adriatic Sea",
+  "type": "Place",
+  "aliases": [
+   "Adriatic"
+  ],
+  "description": "Wild eastern sea.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0017",
+   "tribunals-of-hermes-rome::0030"
+  ]
+ },
+ {
+  "name": "Ionic Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Pirated southern sea.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0030"
+  ]
+ },
+ {
+  "name": "Straits of Messina",
+  "type": "Place",
+  "aliases": [],
+  "description": "Straits where sirens sing.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0090"
+  ]
+ },
+ {
+  "name": "Mount Etna",
+  "type": "Place",
+  "aliases": [],
+  "description": "Volcano to whose pit Frederick II's soul was carried.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0084"
+  ]
+ },
+ {
+  "name": "Catacombs of Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "Catacombs housing Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0016",
+   "tribunals-of-hermes-rome::0098",
+   "tribunals-of-hermes-rome::0104"
+  ]
+ },
+ {
+  "name": "Pontida",
+  "type": "Place",
+  "aliases": [],
+  "description": "Monastery where the Lombard League formed.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0071"
+  ]
+ },
+ {
+  "name": "Verona",
+  "type": "Place",
+  "aliases": [],
+  "description": "City ruled by Della Scala and Eccelino.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0086",
+   "tribunals-of-hermes-rome::0087"
+  ]
+ },
+ {
+  "name": "Padua",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Eccelino built eight prisons.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0087"
+  ]
+ },
+ {
+  "name": "Pavia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Imperialist city.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0066",
+   "tribunals-of-hermes-rome::0071",
+   "tribunals-of-hermes-rome::0072"
+  ]
+ },
+ {
+  "name": "Toledo",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Gerbert learned magic and gained the Brazen Head.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0056"
+  ]
+ },
+ {
+  "name": "University of Naples",
+  "type": "Place",
+  "aliases": [],
+  "description": "University founded by Frederick II and staffed by former Literatus apprentices.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0079"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "aliases": [],
+  "description": "Eastern capital.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0043",
+   "tribunals-of-hermes-rome::0075"
+  ]
+ },
+ {
+  "name": "Novgorod",
+  "type": "Place",
+  "aliases": [],
+  "description": "Distant city where Calabria's Magi fled.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0112"
+  ]
+ },
+ {
+  "name": "Sicilian Vespers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1282 Palermo revolt against French rule aided by Mistridge Magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0090"
+  ]
+ },
+ {
+  "name": "Diet of Roncaglia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Assembly defining Imperial rights, prompting a Tribunal decree against Literatus interfering.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0068"
+  ]
+ },
+ {
+  "name": "Concordat of Worms",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1122 agreement ending the Investiture Contest.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0062",
+   "tribunals-of-hermes-rome::0094"
+  ]
+ },
+ {
+  "name": "Capitulation of Neuss",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Agreement defining Papal lands.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0075"
+  ]
+ },
+ {
+  "name": "Punic Wars",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Wars destroying Carthage, possibly with Infernal aid.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0041",
+   "tribunals-of-hermes-rome::0042"
+  ]
+ },
+ {
+  "name": "Albigensian heretics",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Heretics rife in northern Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0076"
+  ]
+ },
+ {
+  "name": "Franciscan Order",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Religious order supported by Innocent III.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0076"
+  ]
+ },
+ {
+  "name": "Dominican Order",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Religious order supported by Innocent III.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0076"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "CharacterType",
+  "aliases": [
+   "diabolists",
+   "diabolism"
+  ],
+  "description": "Infernal worshippers; many diabolic groups in Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0054",
+   "tribunals-of-hermes-rome::0063",
+   "tribunals-of-hermes-rome::0067"
+  ]
+ },
+ {
+  "name": "Necromancer",
+  "type": "CharacterType",
+  "aliases": [
+   "necromancers"
+  ],
+  "description": "Faction at Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0017"
+  ]
+ },
+ {
+  "name": "Infernal pact",
+  "type": "Concept",
+  "aliases": [
+   "pact"
+  ],
+  "description": "Bargain with a demon.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0042",
+   "tribunals-of-hermes-rome::0067"
+  ]
+ }
+]

@@ -1,0 +1,1671 @@
+[
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting of Ars Magica, ruled by a noble warrior caste in the thirteenth century.",
+  "evidence": [
+   "lords-of-men::0000",
+   "lords-of-men::0011"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The mysterious Order of magicians lurking at the edges of noble society, forbidden to meddle in mundane affairs.",
+  "evidence": [
+   "lords-of-men::0000",
+   "lords-of-men::0011",
+   "lords-of-men::0013"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Church"
+  ],
+  "description": "A major landholder throughout Mythic Europe whose allies, excommunication, and interdiction shape noble politics.",
+  "evidence": [
+   "lords-of-men::0000",
+   "lords-of-men::0092",
+   "lords-of-men::0093"
+  ]
+ },
+ {
+  "name": "Realms of Power",
+  "type": "Realm",
+  "aliases": [
+   "the four Realms"
+  ],
+  "description": "The four Realms, against which a realistic mundane world can be contrasted in sagas.",
+  "evidence": [
+   "lords-of-men::0012"
+  ]
+ },
+ {
+  "name": "Gratitude",
+  "type": "Concept",
+  "aliases": [
+   "Gratitude points"
+  ],
+  "description": "A structured advancement system in which characters earn Gratitude points for exceptional service to their lord, redeemed for office, land, or goods.",
+  "evidence": [
+   "lords-of-men::0015",
+   "lords-of-men::0016",
+   "lords-of-men::0017"
+  ]
+ },
+ {
+  "name": "Advancement Requirements Table",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Table listing the Gratitude, abilities, and costs required to rise from serf to freeman, warrior to knight, and through noble offices.",
+  "evidence": [
+   "lords-of-men::0018",
+   "lords-of-men::0019",
+   "lords-of-men::0020"
+  ]
+ },
+ {
+  "name": "Patron",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue representing a close relationship with a friendly lord, letting the character influence how Gratitude is expressed.",
+  "evidence": [
+   "lords-of-men::0015",
+   "lords-of-men::0039"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue gained by a character raised to hold land; grants 12 points of agents and is a Major Social Virtue.",
+  "evidence": [
+   "lords-of-men::0016",
+   "lords-of-men::0019",
+   "lords-of-men::0103"
+  ]
+ },
+ {
+  "name": "Greater Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suited to a character given high noble office.",
+  "evidence": [
+   "lords-of-men::0016"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue needed by characters designed as officers of a lord.",
+  "evidence": [
+   "lords-of-men::0016",
+   "lords-of-men::0047",
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue representing expectation of inheritance; a variant applies to younger sons sheltered after lost causes.",
+  "evidence": [
+   "lords-of-men::0039"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting 12 points on the Agent Recruitment Table for thematically appropriate agents.",
+  "evidence": [
+   "lords-of-men::0103",
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Mercenary Captain",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Virtue that grants agents at character creation and requires underlings.",
+  "evidence": [
+   "lords-of-men::0103",
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting agents at character creation.",
+  "evidence": [
+   "lords-of-men::0103"
+  ]
+ },
+ {
+  "name": "Magister in Artibus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Social Virtue with agent resistance 3.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Listed as a Major Social Virtue on the Agent Recruitment Table.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Custos",
+  "type": "CharacterType",
+  "aliases": [
+   "custodes"
+  ],
+  "description": "Covenant guard; a Minor Social Virtue. Covenants raise unwanted children as custodes.",
+  "evidence": [
+   "lords-of-men::0104",
+   "lords-of-men::0114"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Virtue; clerks are employed by nobles to write letters and are often priests.",
+  "evidence": [
+   "lords-of-men::0104",
+   "lords-of-men::0041"
+  ]
+ },
+ {
+  "name": "Failed Apprentice",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Virtue on the Agent Recruitment Table.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Gentleman/woman",
+  "type": "Virtue",
+  "aliases": [
+   "Gentleman",
+   "Gentlewoman"
+  ],
+  "description": "Minor Social Virtue on the Agent Recruitment Table.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Mendicant Friar",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Virtue on the Agent Recruitment Table.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Priest",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Virtue; priests serve in noble households as clerks and chancellors.",
+  "evidence": [
+   "lords-of-men::0104",
+   "lords-of-men::0041",
+   "lords-of-men::0053"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Virtue on the Agent Recruitment Table.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Virtue with agent resistance 0.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Craftsman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Virtue with agent resistance 0.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Merchant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Virtue with agent resistance 0.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Peasant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Virtue; peasants provide food, labor, and soldiers for the nobility.",
+  "evidence": [
+   "lords-of-men::0104",
+   "lords-of-men::0000"
+  ]
+ },
+ {
+  "name": "Wanderer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Virtue with agent resistance 0.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Virtue excluded from the Agent Recruitment Table; Hermetic magi cannot be agents.",
+  "evidence": [
+   "lords-of-men::0104",
+   "lords-of-men::0099"
+  ]
+ },
+ {
+  "name": "Gossip",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Virtue adding +1 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue adding +1 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Protection",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue adding +1 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue adding +1 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue adding +3 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue adding +3 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major General Virtue adding +3 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Faerie Friend",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Listed among useful traits that add +1 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Magical Animal Companion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Listed among useful traits that add +1 to an agent's resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw; can arise from hidden bastards or younger sons wanted by authorities, and can be forged by intriguers.",
+  "evidence": [
+   "lords-of-men::0026",
+   "lords-of-men::0039",
+   "lords-of-men::0050"
+  ]
+ },
+ {
+  "name": "Story Flaw",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Category of Flaw that intriguers can uncover; agents dominated by coercion have one.",
+  "evidence": [
+   "lords-of-men::0049",
+   "lords-of-men::0101"
+  ]
+ },
+ {
+  "name": "Difficult Underlings",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw gained when a principal controls an agent who considers him a social inferior or hates him.",
+  "evidence": [
+   "lords-of-men::0101",
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Blackmail",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw representing an agent's attempt to shed a principal's control, or leverage used to dominate an agent.",
+  "evidence": [
+   "lords-of-men::0101",
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw likely to inconvenience a principal (-3 to agent resistance).",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Feud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw likely to inconvenience a principal.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Lycanthrope",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw likely to inconvenience a principal.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Plagued By Supernatural Entity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw likely to inconvenience a principal.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Black Sheep",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw likely to inconvenience a principal.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Dependent",
+  "type": "Flaw",
+  "aliases": [
+   "Dependant"
+  ],
+  "description": "Minor Flaw; a hostage dependent may be used to dominate an agent.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Diabolic Past",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw that can inconvenience a principal or be used as blackmail leverage.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw likely to inconvenience a principal.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw likely to inconvenience a principal.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw; a beloved may be held hostage to dominate an agent.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Branded Criminal",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Social Flaw with agent resistance -1.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Outcast",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Social Flaw with agent resistance -1.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Outlaw Leader",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Social Flaw that requires underlings.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Outlaw",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Social Flaw with agent resistance -3.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Outsider",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Social Flaw with agent resistance -3.",
+  "evidence": [
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Busybody",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Useful Minor Flaw adding +1 to agent resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Useful Minor Flaw adding +1 to agent resistance.",
+  "evidence": [
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Form of the Gift that makes ordinary people like merchants reluctant to deal with a magus.",
+  "evidence": [
+   "lords-of-men::0106"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Magical talent whose social penalty is subtracted from Leadership and agent-control rolls.",
+  "evidence": [
+   "lords-of-men::0099",
+   "lords-of-men::0107",
+   "lords-of-men::0109"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability required for offices like admiral and marshal and used to control agents and affinity.",
+  "evidence": [
+   "lords-of-men::0019",
+   "lords-of-men::0020",
+   "lords-of-men::0099"
+  ]
+ },
+ {
+  "name": "Profession: Steward",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability required for butler, steward, and treasurer offices.",
+  "evidence": [
+   "lords-of-men::0019",
+   "lords-of-men::0020"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability usually held by a chancellor.",
+  "evidence": [
+   "lords-of-men::0020"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to hire criminals, uncover information, spread rumors, and gauge class opinion.",
+  "evidence": [
+   "lords-of-men::0040",
+   "lords-of-men::0042",
+   "lords-of-men::0047"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social ability usable when persuading agents to perform tasks.",
+  "evidence": [
+   "lords-of-men::0109"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by saboteurs against sentries.",
+  "evidence": [
+   "lords-of-men::0044"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by sentries to detect saboteurs.",
+  "evidence": [
+   "lords-of-men::0044"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A character's standing, used to judge the interests of nobles and affected by deeds, rumors, and treatment of lords.",
+  "evidence": [
+   "lords-of-men::0015",
+   "lords-of-men::0112",
+   "lords-of-men::0118"
+  ]
+ },
+ {
+  "name": "Noble Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A fourth style of Reputation alongside Local, Hermetic, and Ecclesiastic, allowing members of the landed class to know about each other.",
+  "evidence": [
+   "lords-of-men::0113",
+   "lords-of-men::0116",
+   "lords-of-men::0117"
+  ]
+ },
+ {
+  "name": "Prudhomme",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The prize reputation for a male noble: a man tested and found sound, noble of blood, handsome, prowess in war, and suitable character.",
+  "evidence": [
+   "lords-of-men::0112",
+   "lords-of-men::0114"
+  ]
+ },
+ {
+  "name": "Affinity",
+  "type": "Concept",
+  "aliases": [
+   "country",
+   "Affinity score"
+  ],
+  "description": "The coalition of allied landholders around a magnate's demesne; also a bonus to social Ability rolls in a region.",
+  "evidence": [
+   "lords-of-men::0021",
+   "lords-of-men::0089",
+   "lords-of-men::0096"
+  ]
+ },
+ {
+  "name": "Caput",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The core lands at the center of a nobleman's affinity in England and France.",
+  "evidence": [
+   "lords-of-men::0089"
+  ]
+ },
+ {
+  "name": "Agents",
+  "type": "Concept",
+  "aliases": [
+   "agent"
+  ],
+  "description": "Directly controlled subordinates bound to a principal by emotional Bonds, limited in number by Presence and Intrigue or Leadership.",
+  "evidence": [
+   "lords-of-men::0099",
+   "lords-of-men::0101",
+   "lords-of-men::0109"
+  ]
+ },
+ {
+  "name": "Factor",
+  "type": "Concept",
+  "aliases": [
+   "factors"
+  ],
+  "description": "Hermetic term for a primary agent through whom a principal controls a network.",
+  "evidence": [
+   "lords-of-men::0100"
+  ]
+ },
+ {
+  "name": "Bond",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Personality Trait expressing why and how strongly an agent is attached to a principal.",
+  "evidence": [
+   "lords-of-men::0101",
+   "lords-of-men::0109",
+   "lords-of-men::0111"
+  ]
+ },
+ {
+  "name": "Agency Experience",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Experience points earned alongside Adventure Experience, spent to recruit agents and maintain Bonds.",
+  "evidence": [
+   "lords-of-men::0107",
+   "lords-of-men::0108",
+   "lords-of-men::0111"
+  ]
+ },
+ {
+  "name": "Agent Recruitment Table",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Table giving the resistance of potential agents by social status, flaws, and resources.",
+  "evidence": [
+   "lords-of-men::0103",
+   "lords-of-men::0104",
+   "lords-of-men::0105"
+  ]
+ },
+ {
+  "name": "Mesnie",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The household knights of a lord, fed, clothed, and equipped by him and expected to be loyal.",
+  "evidence": [
+   "lords-of-men::0034",
+   "lords-of-men::0037",
+   "lords-of-men::0039"
+  ]
+ },
+ {
+  "name": "Mesnie privée",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A select group of friends of a powerful lord within his mesnie who strongly reflect his tastes.",
+  "evidence": [
+   "lords-of-men::0039"
+  ]
+ },
+ {
+  "name": "Bacheler",
+  "type": "CharacterType",
+  "aliases": [
+   "bachelor"
+  ],
+  "description": "A member of a lord's mesnie; the title shows the knight has a patron.",
+  "evidence": [
+   "lords-of-men::0037",
+   "lords-of-men::0018"
+  ]
+ },
+ {
+  "name": "Carissimus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The captain of a mesnie, the lord's best friend or most skilled knight.",
+  "evidence": [
+   "lords-of-men::0040",
+   "lords-of-men::0018"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mounted warrior of the noble class; also a Minor Social Virtue.",
+  "evidence": [
+   "lords-of-men::0018",
+   "lords-of-men::0084",
+   "lords-of-men::0104"
+  ]
+ },
+ {
+  "name": "Squire",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A youth serving a knight who mentors him in the arts of war.",
+  "evidence": [
+   "lords-of-men::0084",
+   "lords-of-men::0015"
+  ]
+ },
+ {
+  "name": "Banneret",
+  "type": "CharacterType",
+  "aliases": [
+   "Knight Banneret"
+  ],
+  "description": "A landed noble with enough wealth to hire knights, usually from five manors.",
+  "evidence": [
+   "lords-of-men::0019",
+   "lords-of-men::0022"
+  ]
+ },
+ {
+  "name": "Baron",
+  "type": "CharacterType",
+  "aliases": [
+   "Greater Baron"
+  ],
+  "description": "A noble title above banneret; a greater baron has an Affinity bonus of +4.",
+  "evidence": [
+   "lords-of-men::0019",
+   "lords-of-men::0022",
+   "lords-of-men::0096"
+  ]
+ },
+ {
+  "name": "Earl",
+  "type": "CharacterType",
+  "aliases": [
+   "count"
+  ],
+  "description": "Senior noble of a shire whose household averages 140 people.",
+  "evidence": [
+   "lords-of-men::0022",
+   "lords-of-men::0059",
+   "lords-of-men::0096"
+  ]
+ },
+ {
+  "name": "Magnate",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Great noble with a sphere of influence, retinue, tenants, and affinity.",
+  "evidence": [
+   "lords-of-men::0018",
+   "lords-of-men::0021",
+   "lords-of-men::0022"
+  ]
+ },
+ {
+  "name": "Admiral",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Officer who finds, provisions, crews, and commands a lord's vessels of war.",
+  "evidence": [
+   "lords-of-men::0051",
+   "lords-of-men::0019"
+  ]
+ },
+ {
+  "name": "Butler",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Nominally the king's wine steward, responsible for feeding the court.",
+  "evidence": [
+   "lords-of-men::0052"
+  ]
+ },
+ {
+  "name": "Chancellor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Master of the king's correspondence and chief advisor on foreign relations and the Church, almost always a priest.",
+  "evidence": [
+   "lords-of-men::0053"
+  ]
+ },
+ {
+  "name": "Chamberlain",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Officer responsible for the king's chamber, retinue, and personal possessions.",
+  "evidence": [
+   "lords-of-men::0054"
+  ]
+ },
+ {
+  "name": "Constable",
+  "type": "CharacterType",
+  "aliases": [
+   "Constable of France"
+  ],
+  "description": "Royal officer title; in France the Constable leads the army and may countermand the king in battle.",
+  "evidence": [
+   "lords-of-men::0055"
+  ]
+ },
+ {
+  "name": "Counselor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A person who gives useful advice in the lord's select councils.",
+  "evidence": [
+   "lords-of-men::0056"
+  ]
+ },
+ {
+  "name": "Justiciar",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The king's primary officer for enforcing law, often acting as regent.",
+  "evidence": [
+   "lords-of-men::0057"
+  ]
+ },
+ {
+  "name": "Marshal",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Leader of the king's bodyguard and of the royal army in the field.",
+  "evidence": [
+   "lords-of-men::0058",
+   "lords-of-men::0062"
+  ]
+ },
+ {
+  "name": "Sheriff",
+  "type": "CharacterType",
+  "aliases": [
+   "Bailie",
+   "Sénéchal",
+   "Vogt",
+   "bailiff"
+  ],
+  "description": "Nobleman who pays the king for the right to collect royal revenues in a shire; equivalents are bailie, sénéchal, and vogt.",
+  "evidence": [
+   "lords-of-men::0059",
+   "lords-of-men::0060"
+  ]
+ },
+ {
+  "name": "Steward",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Officer responsible for all parts of the court not assigned to others; often a woman.",
+  "evidence": [
+   "lords-of-men::0062"
+  ]
+ },
+ {
+  "name": "Treasurer",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Guardian of the lord's wealth and treasury.",
+  "evidence": [
+   "lords-of-men::0063"
+  ]
+ },
+ {
+  "name": "Coroner",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "English office of four elected knights per shire who curb sheriffs, collect royal rights, and collect murdrum.",
+  "evidence": [
+   "lords-of-men::0066",
+   "lords-of-men::0067"
+  ]
+ },
+ {
+  "name": "Forest Warden",
+  "type": "CharacterType",
+  "aliases": [
+   "warden"
+  ],
+  "description": "Noble officer administering the king's forests, served by rangers and surveyors.",
+  "evidence": [
+   "lords-of-men::0068"
+  ]
+ },
+ {
+  "name": "Verderer",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Unpaid landowners appointed to track fines taken by forest wardens.",
+  "evidence": [
+   "lords-of-men::0069"
+  ]
+ },
+ {
+  "name": "Regarder",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Knights appointed every third year to census threats to forest animals.",
+  "evidence": [
+   "lords-of-men::0069"
+  ]
+ },
+ {
+  "name": "Agistor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Knights guarding the king's rights over animals pastured in the forest.",
+  "evidence": [
+   "lords-of-men::0069"
+  ]
+ },
+ {
+  "name": "Chancery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The clerical section of a large estate's household.",
+  "evidence": [
+   "lords-of-men::0041"
+  ]
+ },
+ {
+  "name": "Primogeniture",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Inheritance by the eldest son, now accepted for the thrones of England and France.",
+  "evidence": [
+   "lords-of-men::0028",
+   "lords-of-men::0072"
+  ]
+ },
+ {
+  "name": "Appanage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Non-heritable sections of an estate given to younger sons for their lifetime.",
+  "evidence": [
+   "lords-of-men::0030",
+   "lords-of-men::0031"
+  ]
+ },
+ {
+  "name": "Dowry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Money or goods paid by the bride's family to the bride upon marriage.",
+  "evidence": [
+   "lords-of-men::0032",
+   "lords-of-men::0034",
+   "lords-of-men::0035"
+  ]
+ },
+ {
+  "name": "Dower",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Payment by a husband's family to an heiress's father or guardian.",
+  "evidence": [
+   "lords-of-men::0036"
+  ]
+ },
+ {
+  "name": "Relief",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The largest vassal tax, levied on inherited land.",
+  "evidence": [
+   "lords-of-men::0076"
+  ]
+ },
+ {
+  "name": "Aids",
+  "type": "Concept",
+  "aliases": [
+   "aid"
+  ],
+  "description": "Taxes owed to a lord, theoretically voluntary gifts, for knighting, marriage, or ransom.",
+  "evidence": [
+   "lords-of-men::0076",
+   "lords-of-men::0077"
+  ]
+ },
+ {
+  "name": "Levy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Peasant warriors mustered by vassals.",
+  "evidence": [
+   "lords-of-men::0078",
+   "lords-of-men::0079"
+  ]
+ },
+ {
+  "name": "Scutage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A fine paid instead of sending knights to war, usually two pounds per knight in England.",
+  "evidence": [
+   "lords-of-men::0080",
+   "lords-of-men::0081"
+  ]
+ },
+ {
+  "name": "Wardship",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A liege's right over the lands and marriage of heirs and widows of his vassals.",
+  "evidence": [
+   "lords-of-men::0084",
+   "lords-of-men::0087"
+  ]
+ },
+ {
+  "name": "Disparagement",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Illegal selling of a ward's marriage or marriage to unsuitable persons.",
+  "evidence": [
+   "lords-of-men::0085",
+   "lords-of-men::0086"
+  ]
+ },
+ {
+  "name": "Excommunication",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Church's most powerful weapon, forbidding Christians to deal with the excommunicant.",
+  "evidence": [
+   "lords-of-men::0092",
+   "lords-of-men::0093"
+  ]
+ },
+ {
+  "name": "Interdiction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Forbidding Church services in all of a nobleman's lands.",
+  "evidence": [
+   "lords-of-men::0093"
+  ]
+ },
+ {
+  "name": "Amercement",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A fine negotiated with a judge to avoid gruesome physical punishment.",
+  "evidence": [
+   "lords-of-men::0060",
+   "lords-of-men::0061"
+  ]
+ },
+ {
+  "name": "Murdrum",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A fine on a community where a secretly killed person cannot be proven English rather than Norman.",
+  "evidence": [
+   "lords-of-men::0064",
+   "lords-of-men::0067"
+  ]
+ },
+ {
+  "name": "Deodand",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An object that has killed a person, collected by the coroner.",
+  "evidence": [
+   "lords-of-men::0066"
+  ]
+ },
+ {
+  "name": "Treasure Trove",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Valuable buried objects collected by the coroner.",
+  "evidence": [
+   "lords-of-men::0066"
+  ]
+ },
+ {
+  "name": "Abjuring the Realm",
+  "type": "Concept",
+  "aliases": [
+   "sanctuary"
+  ],
+  "description": "Process by which a felon in sanctuary confesses, forfeits goods, and leaves the realm.",
+  "evidence": [
+   "lords-of-men::0061",
+   "lords-of-men::0066"
+  ]
+ },
+ {
+  "name": "Royal Forest",
+  "type": "Concept",
+  "aliases": [
+   "Forest"
+  ],
+  "description": "In England, a legal term for areas declared the king's sole hunting preserves.",
+  "evidence": [
+   "lords-of-men::0068"
+  ]
+ },
+ {
+  "name": "Vassalage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Feudal bond between lord and vassal providing resources, advice, and warriors.",
+  "evidence": [
+   "lords-of-men::0070",
+   "lords-of-men::0072",
+   "lords-of-men::0074"
+  ]
+ },
+ {
+  "name": "Subinfeudation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nobles holding land from multiple lieges.",
+  "evidence": [
+   "lords-of-men::0078"
+  ]
+ },
+ {
+  "name": "Benefice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Church office with income in the gift of a lord.",
+  "evidence": [
+   "lords-of-men::0083",
+   "lords-of-men::0101"
+  ]
+ },
+ {
+  "name": "Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Warfare in distant lands, granting Reputation.",
+  "evidence": [
+   "lords-of-men::0024",
+   "lords-of-men::0116"
+  ]
+ },
+ {
+  "name": "Black Mass",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A diabolical rite that adds to a character's Reputation.",
+  "evidence": [
+   "lords-of-men::0116"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The law of the Order; covenants outbidding nobles for sheriff roles likely breaches it.",
+  "evidence": [
+   "lords-of-men::0060",
+   "lords-of-men::0086"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Hermetic investigators who judge breaches of the Code.",
+  "evidence": [
+   "lords-of-men::0060",
+   "lords-of-men::0086"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House seeking to run a case in a mortal court.",
+  "evidence": [
+   "lords-of-men::0086"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A community of magi that nobles may serve or that raise custodes.",
+  "evidence": [
+   "lords-of-men::0012",
+   "lords-of-men::0038",
+   "lords-of-men::0114"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural creatures' score affecting reputation experience from study.",
+  "evidence": [
+   "lords-of-men::0117"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Supernatural beings that may cause strife and answer human desires.",
+  "evidence": [
+   "lords-of-men::0027",
+   "lords-of-men::0114",
+   "lords-of-men::0115"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal being that may foster lies to cause strife.",
+  "evidence": [
+   "lords-of-men::0027",
+   "lords-of-men::0114"
+  ]
+ },
+ {
+  "name": "Dark Faerie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A faerie that leaves faerie-wrought weapons for a lost heir.",
+  "evidence": [
+   "lords-of-men::0115"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of a murder victim that may haunt killers.",
+  "evidence": [
+   "lords-of-men::0064",
+   "lords-of-men::0065"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creature scared off by a clever ruse.",
+  "evidence": [
+   "lords-of-men::0017"
+  ]
+ },
+ {
+  "name": "Greek Fire",
+  "type": "Item",
+  "aliases": [],
+  "description": "Weapon of Byzantine galleys used to destroy ships.",
+  "evidence": [
+   "lords-of-men::0051"
+  ]
+ },
+ {
+  "name": "Normans",
+  "type": "Faction",
+  "aliases": [
+   "Norman"
+  ],
+  "description": "Invaders of England whose culture favors primogeniture.",
+  "evidence": [
+   "lords-of-men::0030",
+   "lords-of-men::0064",
+   "lords-of-men::0073"
+  ]
+ },
+ {
+  "name": "Robert the Bruce",
+  "type": "Character",
+  "aliases": [],
+  "description": "Historical figure whose birth inspires a story seed.",
+  "evidence": [
+   "lords-of-men::0036"
+  ]
+ },
+ {
+  "name": "Thomas Becket",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archbishop of Canterbury whose mesnie deserted him.",
+  "evidence": [
+   "lords-of-men::0037"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "aliases": [
+   "King John of England"
+  ],
+  "description": "King of England who preferred being excommunicant.",
+  "evidence": [
+   "lords-of-men::0058",
+   "lords-of-men::0080",
+   "lords-of-men::0093"
+  ]
+ },
+ {
+  "name": "King Richard",
+  "type": "Character",
+  "aliases": [],
+  "description": "King whose forest law punished deer poachers.",
+  "evidence": [
+   "lords-of-men::0060"
+  ]
+ },
+ {
+  "name": "Philip Augustus",
+  "type": "Character",
+  "aliases": [
+   "Phillip"
+  ],
+  "description": "The current king of France.",
+  "evidence": [
+   "lords-of-men::0072"
+  ]
+ },
+ {
+  "name": "William the Conqueror",
+  "type": "Character",
+  "aliases": [
+   "William"
+  ],
+  "description": "Norman who divided England's lands.",
+  "evidence": [
+   "lords-of-men::0073"
+  ]
+ },
+ {
+  "name": "Henry II of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "King who claimed descent from Satan.",
+  "evidence": [
+   "lords-of-men::0112"
+  ]
+ },
+ {
+  "name": "Satan",
+  "type": "Character",
+  "aliases": [],
+  "description": "The Devil, claimed as ancestor by Henry II.",
+  "evidence": [
+   "lords-of-men::0112"
+  ]
+ },
+ {
+  "name": "Duke Simon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example noble with many vassals.",
+  "evidence": [
+   "lords-of-men::0101",
+   "lords-of-men::0102"
+  ]
+ },
+ {
+  "name": "Matthew",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young landed knight, Simon's vassal.",
+  "evidence": [
+   "lords-of-men::0101"
+  ]
+ },
+ {
+  "name": "Benedict",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bishop grateful to Duke Simon.",
+  "evidence": [
+   "lords-of-men::0102"
+  ]
+ },
+ {
+  "name": "Lord Corvinius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example lord.",
+  "evidence": [
+   "lords-of-men::0116"
+  ]
+ },
+ {
+  "name": "Count of Champagne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example liege.",
+  "evidence": [
+   "lords-of-men::0116"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom with coroners, forest law, and scutage.",
+  "evidence": [
+   "lords-of-men::0030",
+   "lords-of-men::0064",
+   "lords-of-men::0078"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom with appanage and constables.",
+  "evidence": [
+   "lords-of-men::0030",
+   "lords-of-men::0055",
+   "lords-of-men::0072"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region with dowry customs.",
+  "evidence": [
+   "lords-of-men::0032",
+   "lords-of-men::0033",
+   "lords-of-men::0035"
+  ]
+ },
+ {
+  "name": "Catalonia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where bequests to daughters are illegal.",
+  "evidence": [
+   "lords-of-men::0035"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where vassals serve 60 days.",
+  "evidence": [
+   "lords-of-men::0079"
+  ]
+ },
+ {
+  "name": "Byzantium",
+  "type": "Place",
+  "aliases": [],
+  "description": "Empire whose galleys use Greek fire.",
+  "evidence": [
+   "lords-of-men::0051"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Country with English offices.",
+  "evidence": [
+   "lords-of-men::0064"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Partly English-dominated country.",
+  "evidence": [
+   "lords-of-men::0064",
+   "lords-of-men::0067"
+  ]
+ },
+ {
+  "name": "Wales",
+  "type": "Place",
+  "aliases": [],
+  "description": "Partly English-dominated country.",
+  "evidence": [
+   "lords-of-men::0064",
+   "lords-of-men::0067"
+  ]
+ },
+ {
+  "name": "The Marches",
+  "type": "Place",
+  "aliases": [
+   "Marches"
+  ],
+  "description": "Area where judicial rights are delegated to nobles.",
+  "evidence": [
+   "lords-of-men::0066"
+  ]
+ },
+ {
+  "name": "Canterbury",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archbishopric of Thomas Becket.",
+  "evidence": [
+   "lords-of-men::0037"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Object of the Crusades.",
+  "evidence": [
+   "lords-of-men::0011"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Damnation for excommunicants.",
+  "evidence": [
+   "lords-of-men::0092"
+  ]
+ },
+ {
+  "name": "Battle of Grissors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Battle where English spears turned French cavalry.",
+  "evidence": [
+   "lords-of-men::0079"
+  ]
+ }
+]

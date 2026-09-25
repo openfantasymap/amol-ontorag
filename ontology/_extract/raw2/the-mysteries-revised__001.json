@@ -1,0 +1,2495 @@
+[
+ {
+  "name": "Performance Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Hermetic Virtue letting a magus replace spellcasting words or gestures by performing a mundane Ability such as music or hunting.",
+  "evidence": [
+   "the-mysteries-revised::0120",
+   "the-mysteries-revised::0121",
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Sorcerous Music",
+  "type": "Virtue",
+  "aliases": [
+   "Performance Magic (Music)"
+  ],
+  "description": "Performance Magic (Music); playing or singing can replace gestures and/or words of spellcasting.",
+  "evidence": [
+   "the-mysteries-revised::0120",
+   "the-mysteries-revised::0121"
+  ]
+ },
+ {
+  "name": "Subtle Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue interacting with Sorcerous Music that lets a caster sing without penalty for lacking gestures.",
+  "evidence": [
+   "the-mysteries-revised::0120",
+   "the-mysteries-revised::0121"
+  ]
+ },
+ {
+  "name": "Quiet Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue adjusting the words component of spellcasting under normal ArM5 rules.",
+  "evidence": [
+   "the-mysteries-revised::0121"
+  ]
+ },
+ {
+  "name": "Planetary Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue granting a Lab Total bonus to enchant devices by invoking a governing planet's astral influence via a Laboratory Horoscope.",
+  "evidence": [
+   "the-mysteries-revised::0124",
+   "the-mysteries-revised::0125",
+   "the-mysteries-revised::0212"
+  ]
+ },
+ {
+  "name": "Potent Magic",
+  "type": "Virtue",
+  "aliases": [
+   "Major Potent Magic",
+   "Minor Potent Magic"
+  ],
+  "description": "Minor or Major Hermetic Virtue attuning magic to a narrow field like a Magical Focus, granting +3/+6 to Lab Totals and Casting Score and allowing design of Potent spells.",
+  "evidence": [
+   "the-mysteries-revised::0128",
+   "the-mysteries-revised::0129",
+   "the-mysteries-revised::0132"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "aliases": [
+   "Major Magical Focus",
+   "Minor Magical Focus"
+  ],
+  "description": "Virtue attuning a magus's magic to a narrow (Minor) or wide (Major) field; compatible with Potent Magic and may be astrologically defined.",
+  "evidence": [
+   "the-mysteries-revised::0128",
+   "the-mysteries-revised::0156",
+   "the-mysteries-revised::0157"
+  ]
+ },
+ {
+  "name": "Vulgar Alchemy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Mystery Virtue derived from hedge alchemy, letting a maga discover new Shape and Material Bonuses through Arcane Experimentation.",
+  "evidence": [
+   "the-mysteries-revised::0138",
+   "the-mysteries-revised::0140",
+   "the-mysteries-revised::0146"
+  ]
+ },
+ {
+  "name": "Withstand Casting",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue taught by the Mercurian cult that reduces Fatigue lost from spellcasting by 1 level per level of the Virtue (minimum 1).",
+  "evidence": [
+   "the-mysteries-revised::0150",
+   "the-mysteries-revised::0151",
+   "the-mysteries-revised::0152"
+  ]
+ },
+ {
+  "name": "Vulnerable Casting",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Minor Hermetic Flaw causing the maga to lose extra Fatigue levels when casting fatiguing spells; common among Mercurian cult magi.",
+  "evidence": [
+   "the-mysteries-revised::0163",
+   "the-mysteries-revised::0164",
+   "the-mysteries-revised::0152"
+  ]
+ },
+ {
+  "name": "Life Boost",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that uses the magus's life-force (lost Fatigue) to power spells.",
+  "evidence": [
+   "the-mysteries-revised::0153"
+  ]
+ },
+ {
+  "name": "Life-Linked Spontaneous Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue where lost Fatigue powers spontaneous spells, making up shortfalls in casting totals.",
+  "evidence": [
+   "the-mysteries-revised::0153",
+   "the-mysteries-revised::0154"
+  ]
+ },
+ {
+  "name": "Cyclic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue or Flaw giving a bonus or penalty to magic during certain cycles; may be tied to astrological cycles.",
+  "evidence": [
+   "the-mysteries-revised::0159",
+   "the-mysteries-revised::0160"
+  ]
+ },
+ {
+  "name": "Astrological Cyclic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue or Flaw whose cycles follow astrological periods (male/female, cardinal/fixed/mutable, or elemental signs), with bonus of 3, 5, or 6.",
+  "evidence": [
+   "the-mysteries-revised::0159",
+   "the-mysteries-revised::0160"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw imposing extra Gift penalties; example of a Mutable Blatant Gift.",
+  "evidence": [
+   "the-mysteries-revised::0161"
+  ]
+ },
+ {
+  "name": "Puissant Art",
+  "type": "Virtue",
+  "aliases": [
+   "Puissant Terram"
+  ],
+  "description": "Virtue granting a bonus to an Art; exemplified as Mutable Puissant Terram.",
+  "evidence": [
+   "the-mysteries-revised::0161"
+  ]
+ },
+ {
+  "name": "Great Characteristic",
+  "type": "Virtue",
+  "aliases": [
+   "Great Strength"
+  ],
+  "description": "Virtue increasing a Characteristic such as Great Strength; stacking limits count Mutable versions twice.",
+  "evidence": [
+   "the-mysteries-revised::0162"
+  ]
+ },
+ {
+  "name": "Hermetic Alchemy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Hermetic Minor Virtue letting a magus extract more vis from an aura or extract Form-specific vis, using Shape and Material Bonuses.",
+  "evidence": [
+   "the-mysteries-revised::0166",
+   "the-mysteries-revised::0167",
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Philosophic Alchemy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor and Major Mystery Virtue building on Hermetic Alchemy; vis extraction digests on its own or produces ready-opened enchantment devices.",
+  "evidence": [
+   "the-mysteries-revised::0175",
+   "the-mysteries-revised::0176",
+   "the-mysteries-revised::0179"
+  ]
+ },
+ {
+  "name": "Lesser Elixir",
+  "type": "Virtue",
+  "aliases": [
+   "Lesser Elixir of Life"
+  ],
+  "description": "Minor Mystery Virtue enhancing a Longevity Ritual with extra ingredients whose Elixir Points raise the Aging Bonus; requires Hermetic Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0181",
+   "the-mysteries-revised::0182",
+   "the-mysteries-revised::0184"
+  ]
+ },
+ {
+  "name": "Great Elixir",
+  "type": "Virtue",
+  "aliases": [
+   "Greater Elixir",
+   "Elixir of Life",
+   "Elixir Vitae"
+  ],
+  "description": "Major Mystery Virtue letting an alchemist create and consume a potion that transforms him into an immortal being of the Magic realm; requires Unaging and Lesser Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0188",
+   "the-mysteries-revised::0189",
+   "the-mysteries-revised::0193"
+  ]
+ },
+ {
+  "name": "Unaging",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue sought by magi questing for eternal life; prerequisite for the Great Elixir and Initiated at the Green Kings degree.",
+  "evidence": [
+   "the-mysteries-revised::0181",
+   "the-mysteries-revised::0188",
+   "the-mysteries-revised::0203"
+  ]
+ },
+ {
+  "name": "Periapt",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Mystery Virtue allowing creation of astrological amulets as charged devices using a Periapt Horoscope as a single-use Lab Text.",
+  "evidence": [
+   "the-mysteries-revised::0213",
+   "the-mysteries-revised::0214",
+   "the-mysteries-revised::0215"
+  ]
+ },
+ {
+  "name": "Celestial Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Mystery Virtue replacing Planetary Magic; widens Laboratory Horoscopes, adds celestial Durations, favorable spellcasting hours and astrologically linked enchantments.",
+  "evidence": [
+   "the-mysteries-revised::0216",
+   "the-mysteries-revised::0217",
+   "the-mysteries-revised::0219"
+  ]
+ },
+ {
+  "name": "Ceremonial Casting",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery Ability discovered by the Cult of Mercury letting the maga apply Ceremonial Casting rules to a mastered spell.",
+  "evidence": [
+   "the-mysteries-revised::0165",
+   "the-mysteries-revised::0131"
+  ]
+ },
+ {
+  "name": "Still Casting",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery Ability that removes the gestures requirement of spellcasting.",
+  "evidence": [
+   "the-mysteries-revised::0121"
+  ]
+ },
+ {
+  "name": "Fast Casting",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to oppose a spell quickly, requiring determining the spell's Form.",
+  "evidence": [
+   "the-mysteries-revised::0122"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with Perception to determine the Form of a magical effect.",
+  "evidence": [
+   "the-mysteries-revised::0122"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [
+   "Artes Liberales (Astronomy)",
+   "Astronomy"
+  ],
+  "description": "Academic Ability; its Astronomy specialty is key to astrological magic, Laboratory Horoscopes and Periapts.",
+  "evidence": [
+   "the-mysteries-revised::0125",
+   "the-mysteries-revised::0212",
+   "the-mysteries-revised::0214"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability limiting Potency, Shape and Material Bonuses, Elixir Level and vis handling.",
+  "evidence": [
+   "the-mysteries-revised::0130",
+   "the-mysteries-revised::0145",
+   "the-mysteries-revised::0184"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in Vulgar Alchemy to identify new Material and Shape Bonuses.",
+  "evidence": [
+   "the-mysteries-revised::0138",
+   "the-mysteries-revised::0143",
+   "the-mysteries-revised::0145"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [
+   "Craft (Mechanisms)",
+   "Craft (Blacksmith)"
+  ],
+  "description": "Crafting Ability; Craft (Mechanisms or Clocks) or Craft (Blacksmith) is used to make an armillary sphere.",
+  "evidence": [
+   "the-mysteries-revised::0235",
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic realm"
+  ],
+  "description": "Realm of Power; the Great Elixir transforms a magus into a being aligned to it.",
+  "evidence": [
+   "the-mysteries-revised::0190",
+   "the-mysteries-revised::0193"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique used with Vim for vis extraction Lab Totals.",
+  "evidence": [
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0172"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique; Intellego Vim guidelines measure astrological time.",
+  "evidence": [
+   "the-mysteries-revised::0230",
+   "the-mysteries-revised::0212"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique used in Potent spells and the Great Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0190"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of destruction; pepper gives +2 Perdo.",
+  "evidence": [
+   "the-mysteries-revised::0177",
+   "the-mysteries-revised::0141"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of control; magnets give bonuses to Rego effects.",
+  "evidence": [
+   "the-mysteries-revised::0141",
+   "the-mysteries-revised::0174"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form covering beasts.",
+  "evidence": [
+   "the-mysteries-revised::0134"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of water.",
+  "evidence": [
+   "the-mysteries-revised::0134"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of air.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of the human body; relevant to Elixir ingredients.",
+  "evidence": [
+   "the-mysteries-revised::0135",
+   "the-mysteries-revised::0185"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of plants.",
+  "evidence": [
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of fire; Rufus extracts Ignem vis.",
+  "evidence": [
+   "the-mysteries-revised::0135",
+   "the-mysteries-revised::0174"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of images; cinnamon gives +4 Imaginem.",
+  "evidence": [
+   "the-mysteries-revised::0136",
+   "the-mysteries-revised::0140"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of minds.",
+  "evidence": [
+   "the-mysteries-revised::0136",
+   "the-mysteries-revised::0177"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of earth and metal.",
+  "evidence": [
+   "the-mysteries-revised::0136",
+   "the-mysteries-revised::0161",
+   "the-mysteries-revised::0239"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of magic itself; used for vis extraction and astrological measurement spells.",
+  "evidence": [
+   "the-mysteries-revised::0137",
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0230"
+  ]
+ },
+ {
+  "name": "Performance Duration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "New spell Duration lasting as long as the caster performs the Performance Ability; equivalent to Concentration.",
+  "evidence": [
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Laboratory Horoscope",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Horoscope cast for a season of lab work to gain an Astrological Modifier of +1 to +5 to the Lab Total.",
+  "evidence": [
+   "the-mysteries-revised::0124",
+   "the-mysteries-revised::0127",
+   "the-mysteries-revised::0217"
+  ]
+ },
+ {
+  "name": "Astrological Modifier",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bonus (+1 to +5) to Lab Total or casting score from a successful horoscope roll.",
+  "evidence": [
+   "the-mysteries-revised::0124",
+   "the-mysteries-revised::0126",
+   "the-mysteries-revised::0225"
+  ]
+ },
+ {
+  "name": "Potent Spell",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Formulaic spell designed with Casting Items whose Shape and Material Bonuses give a Potency added to Casting Score.",
+  "evidence": [
+   "the-mysteries-revised::0130",
+   "the-mysteries-revised::0131",
+   "the-mysteries-revised::0132"
+  ]
+ },
+ {
+  "name": "Potency",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Score of a Potent spell equal to the sum of its Casting Item bonuses, limited by Magic Theory.",
+  "evidence": [
+   "the-mysteries-revised::0130",
+   "the-mysteries-revised::0132"
+  ]
+ },
+ {
+  "name": "Casting Item",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Physical items in a Potent spell's design that the caster must touch to cast it.",
+  "evidence": [
+   "the-mysteries-revised::0130",
+   "the-mysteries-revised::0131",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Shape and Material Bonuses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bonuses from shapes and materials used in enchantment, Potent spells, vis extraction, and Elixirs; new alchemical entries added.",
+  "evidence": [
+   "the-mysteries-revised::0130",
+   "the-mysteries-revised::0140",
+   "the-mysteries-revised::0141"
+  ]
+ },
+ {
+  "name": "Mutable Virtue",
+  "type": "Concept",
+  "aliases": [
+   "Mutable Flaw"
+  ],
+  "description": "Astrological variant of a Virtue or Flaw applying only in the mutable signs; Major becomes Minor, Minor effects doubled.",
+  "evidence": [
+   "the-mysteries-revised::0161",
+   "the-mysteries-revised::0162"
+  ]
+ },
+ {
+  "name": "Mastery Ability",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spell Mastery abilities such as Still Casting and Ceremonial Casting.",
+  "evidence": [
+   "the-mysteries-revised::0121",
+   "the-mysteries-revised::0165"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Written laboratory notes allowing others to reproduce spells or enchantments.",
+  "evidence": [
+   "the-mysteries-revised::0127",
+   "the-mysteries-revised::0130",
+   "the-mysteries-revised::0145"
+  ]
+ },
+ {
+  "name": "Arcane Experimentation",
+  "type": "Concept",
+  "aliases": [
+   "Experimentation Bonus"
+  ],
+  "description": "ArM5 experiment rules providing an Experimentation Bonus; used by Vulgar Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0138",
+   "the-mysteries-revised::0142"
+  ]
+ },
+ {
+  "name": "Enchanted Device",
+  "type": "Concept",
+  "aliases": [
+   "Invested Device",
+   "Charged Device",
+   "Lesser Enchanted Device"
+  ],
+  "description": "Magical item created in the lab: invested, charged, or lesser enchanted devices.",
+  "evidence": [
+   "the-mysteries-revised::0124",
+   "the-mysteries-revised::0138",
+   "the-mysteries-revised::0139"
+  ]
+ },
+ {
+  "name": "Verditius Runes",
+  "type": "Concept",
+  "aliases": [
+   "Philosophiae"
+  ],
+  "description": "Verditius technique adding Philosophiae to Shape and Material Bonuses; incompatible with Vulgar Alchemy experimentation.",
+  "evidence": [
+   "the-mysteries-revised::0138",
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Fatigue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Exhaustion levels lost when casting spells; short-term for Formulaic, long-term for Ritual.",
+  "evidence": [
+   "the-mysteries-revised::0150",
+   "the-mysteries-revised::0163"
+  ]
+ },
+ {
+  "name": "Formulaic Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Learned fixed spells; Potency applies only to Formulaic spells.",
+  "evidence": [
+   "the-mysteries-revised::0131",
+   "the-mysteries-revised::0150"
+  ]
+ },
+ {
+  "name": "Ritual Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual spells causing long-term Fatigue and using Ceremonial Casting.",
+  "evidence": [
+   "the-mysteries-revised::0150",
+   "the-mysteries-revised::0165",
+   "the-mysteries-revised::0239"
+  ]
+ },
+ {
+  "name": "Spontaneous Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Improvised spellcasting; can use Ceremonial Casting.",
+  "evidence": [
+   "the-mysteries-revised::0131",
+   "the-mysteries-revised::0153"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Final Twilight"
+  ],
+  "description": "Magical state that can grant or impose Virtues/Flaws; Final Twilight ends most magi.",
+  "evidence": [
+   "the-mysteries-revised::0152",
+   "the-mysteries-revised::0183"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery Cult process for gaining Virtues, possibly involving Ordeals.",
+  "evidence": [
+   "the-mysteries-revised::0131",
+   "the-mysteries-revised::0157",
+   "the-mysteries-revised::0175"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hardship or Flaw taken as part of Initiation, e.g. loss of a Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0131",
+   "the-mysteries-revised::0175",
+   "the-mysteries-revised::0216"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Initiator in a Mystery Cult who teaches Virtues to Initiates.",
+  "evidence": [
+   "the-mysteries-revised::0157",
+   "the-mysteries-revised::0203",
+   "the-mysteries-revised::0206"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [
+   "Mysteries"
+  ],
+  "description": "Secret society teaching Mystery Virtues through Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0124",
+   "the-mysteries-revised::0165",
+   "the-mysteries-revised::0196"
+  ]
+ },
+ {
+  "name": "Astrological Spell",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spell cast with benefit of Potent Magic or Focus in a sign, planet, or house.",
+  "evidence": [
+   "the-mysteries-revised::0156",
+   "the-mysteries-revised::0161"
+  ]
+ },
+ {
+  "name": "Zodiac",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Astrological signs classified by gender, modality (cardinal, fixed, mutable) and element.",
+  "evidence": [
+   "the-mysteries-revised::0159",
+   "the-mysteries-revised::0160",
+   "the-mysteries-revised::0237"
+  ]
+ },
+ {
+  "name": "Astrological House",
+  "type": "Concept",
+  "aliases": [],
+  "description": "One of the astrological houses, e.g. Genitor (fourth) and Valetudo (sixth).",
+  "evidence": [
+   "the-mysteries-revised::0156",
+   "the-mysteries-revised::0157"
+  ]
+ },
+ {
+  "name": "Genitor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The fourth astrological house.",
+  "evidence": [
+   "the-mysteries-revised::0157"
+  ]
+ },
+ {
+  "name": "Valetudo",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The sixth astrological house.",
+  "evidence": [
+   "the-mysteries-revised::0157",
+   "the-mysteries-revised::0158"
+  ]
+ },
+ {
+  "name": "Planet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Astrological planets (Saturn, Jupiter, Mars, Venus, Mercury, Moon, Sun) governing effects and Green Cockerel degrees.",
+  "evidence": [
+   "the-mysteries-revised::0124",
+   "the-mysteries-revised::0201",
+   "the-mysteries-revised::0207"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Raw magical power in pawns, extracted from auras and used in enchantment and rituals.",
+  "evidence": [
+   "the-mysteries-revised::0166",
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0172"
+  ]
+ },
+ {
+  "name": "Vis Extraction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lab activity extracting Vim or Form-specific vis from an aura, enhanced by Hermetic Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0172",
+   "the-mysteries-revised::0176"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical aura of a location, source of extracted vis and a Lab Total modifier.",
+  "evidence": [
+   "the-mysteries-revised::0167",
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0173"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Laboratory ritual granting an Aging Bonus; base for the Lesser Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0181",
+   "the-mysteries-revised::0182",
+   "the-mysteries-revised::0183"
+  ]
+ },
+ {
+  "name": "Aging Crisis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aging event ending a Longevity Ritual's and Lesser Elixir's effectiveness.",
+  "evidence": [
+   "the-mysteries-revised::0182",
+   "the-mysteries-revised::0187"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points"
+  ],
+  "description": "Magical distortion; Longevity Rituals inflict Warping Points.",
+  "evidence": [
+   "the-mysteries-revised::0183",
+   "the-mysteries-revised::0193"
+  ]
+ },
+ {
+  "name": "Elixir Points",
+  "type": "Concept",
+  "aliases": [
+   "Elixir Level"
+  ],
+  "description": "Points from extra ingredients determining Elixir Level for the Lesser Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0182",
+   "the-mysteries-revised::0184",
+   "the-mysteries-revised::0185"
+  ]
+ },
+ {
+  "name": "Aging Bonus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bonus against aging from Longevity Ritual plus Elixir Level.",
+  "evidence": [
+   "the-mysteries-revised::0182",
+   "the-mysteries-revised::0184",
+   "the-mysteries-revised::0185"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [
+   "Might"
+  ],
+  "description": "Might score of a Magic being, granted by the Great Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0191",
+   "the-mysteries-revised::0193",
+   "the-mysteries-revised::0194"
+  ]
+ },
+ {
+  "name": "Immortal Magi",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magi transformed by the Great Elixir into immortal beings of the Magic realm.",
+  "evidence": [
+   "the-mysteries-revised::0193",
+   "the-mysteries-revised::0194"
+  ]
+ },
+ {
+  "name": "Great Work",
+  "type": "Concept",
+  "aliases": [
+   "True Work"
+  ],
+  "description": "Alchemical goal of attaining the Elixir Vitae and eternal life, pursued by the Green Cockerel.",
+  "evidence": [
+   "the-mysteries-revised::0195",
+   "the-mysteries-revised::0196",
+   "the-mysteries-revised::0199"
+  ]
+ },
+ {
+  "name": "Mystery Effect",
+  "type": "Concept",
+  "aliases": [
+   "Mystery Enchantment",
+   "Unique Mystery"
+  ],
+  "description": "Enchantment outside Hermetic theory usable only as part of a Mystery ritual.",
+  "evidence": [
+   "the-mysteries-revised::0190",
+   "the-mysteries-revised::0191"
+  ]
+ },
+ {
+  "name": "Great Convocation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gathering of Green Cockerel Initiates held every seven years in Alexandria.",
+  "evidence": [
+   "the-mysteries-revised::0197",
+   "the-mysteries-revised::0198"
+  ]
+ },
+ {
+  "name": "Fermentation Cycle",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Competition at the Green Cockerel Great Convocation for the best breakthrough.",
+  "evidence": [
+   "the-mysteries-revised::0198"
+  ]
+ },
+ {
+  "name": "Alchemy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Science of refining substances and seeking transmutation and the elixir, introduced to Europe from the Arabic world.",
+  "evidence": [
+   "the-mysteries-revised::0166",
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "Philosopher's Stone",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ultimate alchemical product, hatched from the Philosopher's Egg.",
+  "evidence": [
+   "the-mysteries-revised::0171"
+  ]
+ },
+ {
+  "name": "Ouroboros",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gnostic concept amalgamated into alchemical tradition.",
+  "evidence": [
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Sulfur-Mercury Theory",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Alchemical theory of metals present in early European alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Astrology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Study of stellar influence; a reputable science in Mythic Europe.",
+  "evidence": [
+   "the-mysteries-revised::0208",
+   "the-mysteries-revised::0209",
+   "the-mysteries-revised::0211"
+  ]
+ },
+ {
+  "name": "Hermetic Astrology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Knowledge working heavenly influences into Hermetic magic.",
+  "evidence": [
+   "the-mysteries-revised::0211",
+   "the-mysteries-revised::0212",
+   "the-mysteries-revised::0156"
+  ]
+ },
+ {
+  "name": "Horoscope",
+  "type": "Concept",
+  "aliases": [
+   "Daily Horoscope",
+   "Nativity Horoscope",
+   "Periapt Horoscope"
+  ],
+  "description": "Astrological chart used for magic: Laboratory, Periapt, Nativity, Daily and spellcasting horoscopes.",
+  "evidence": [
+   "the-mysteries-revised::0215",
+   "the-mysteries-revised::0223",
+   "the-mysteries-revised::0227"
+  ]
+ },
+ {
+  "name": "Astrological Duration",
+  "type": "Concept",
+  "aliases": [
+   "Astrological Minute",
+   "Astrological Hour",
+   "Astrological Day",
+   "Astrological Sign"
+  ],
+  "description": "Spell durations tied to heavenly movement: Minutes (Diameter), Hours, Days, Signs.",
+  "evidence": [
+   "the-mysteries-revised::0219",
+   "the-mysteries-revised::0221",
+   "the-mysteries-revised::0222"
+  ]
+ },
+ {
+  "name": "Favorable Hour",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hour identified via horoscope granting a casting bonus.",
+  "evidence": [
+   "the-mysteries-revised::0223",
+   "the-mysteries-revised::0225",
+   "the-mysteries-revised::0226"
+  ]
+ },
+ {
+  "name": "Astrologically Linked Enchantment",
+  "type": "Concept",
+  "aliases": [
+   "Seasonal Enchantments"
+  ],
+  "description": "Enchantment linked to a target by Nativity Horoscope or to a seasonal astrological cycle.",
+  "evidence": [
+   "the-mysteries-revised::0227",
+   "the-mysteries-revised::0228",
+   "the-mysteries-revised::0229"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Connection to a target that adds a Lab bonus to astrologically linked enchantments.",
+  "evidence": [
+   "the-mysteries-revised::0227",
+   "the-mysteries-revised::0233"
+  ]
+ },
+ {
+  "name": "Limit of Time",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic Limit which the armillary sphere does not break.",
+  "evidence": [
+   "the-mysteries-revised::0234"
+  ]
+ },
+ {
+  "name": "Fatalism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Belief that destiny is written in the stars; fashionable in the Roman Empire.",
+  "evidence": [
+   "the-mysteries-revised::0208"
+  ]
+ },
+ {
+  "name": "Divination",
+  "type": "Concept",
+  "aliases": [
+   "Divination (Astrology)"
+  ],
+  "description": "Magic of foretelling; astrology is covered under Divination and Augury.",
+  "evidence": [
+   "the-mysteries-revised::0212",
+   "the-mysteries-revised::0237"
+  ]
+ },
+ {
+  "name": "Build Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points for designing covenant libraries; Potency is added to spell level.",
+  "evidence": [
+   "the-mysteries-revised::0133"
+  ]
+ },
+ {
+  "name": "Ink of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Hermaic Ink"
+  ],
+  "description": "Alchemical ink (Hermaic Ink) made of myrrh, figs, dates, pine cones, wormwood, ibis wings; gives +3 Vim, +5 books.",
+  "evidence": [
+   "the-mysteries-revised::0143",
+   "the-mysteries-revised::0141",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Magical Armillary Sphere",
+  "type": "Item",
+  "aliases": [
+   "Armillary Sphere",
+   "spherical astrolabe"
+  ],
+  "description": "Enchanted armillary sphere showing astrological conditions and translating to other times; eases Astrological Duration calculations.",
+  "evidence": [
+   "the-mysteries-revised::0224",
+   "the-mysteries-revised::0234",
+   "the-mysteries-revised::0235"
+  ]
+ },
+ {
+  "name": "Astrolabe",
+  "type": "Item",
+  "aliases": [
+   "planar astrolabe"
+  ],
+  "description": "Planar astrolabe measuring star positions, favored in Divination (Astrology); +5 astrology bonus.",
+  "evidence": [
+   "the-mysteries-revised::0140",
+   "the-mysteries-revised::0237"
+  ]
+ },
+ {
+  "name": "Alembic",
+  "type": "Item",
+  "aliases": [],
+  "description": "Distilling flask with narrow neck; alchemical equipment.",
+  "evidence": [
+   "the-mysteries-revised::0170",
+   "the-mysteries-revised::0171"
+  ]
+ },
+ {
+  "name": "Pelican (alchemical still)",
+  "type": "Item",
+  "aliases": [],
+  "description": "Two-necked still returning distillate for re-distillation.",
+  "evidence": [
+   "the-mysteries-revised::0170",
+   "the-mysteries-revised::0171"
+  ]
+ },
+ {
+  "name": "Philosopher's Egg",
+  "type": "Item",
+  "aliases": [],
+  "description": "Special retort into which substances are distilled; the Philosopher's Stone hatches from it.",
+  "evidence": [
+   "the-mysteries-revised::0170",
+   "the-mysteries-revised::0171"
+  ]
+ },
+ {
+  "name": "Kerotakis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Closed vessel exposing metal leaves to vapors; credited to Mary the Jewess.",
+  "evidence": [
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0171"
+  ]
+ },
+ {
+  "name": "Cucurbit",
+  "type": "Item",
+  "aliases": [],
+  "description": "Flask with a still head attached.",
+  "evidence": [
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Shiver of the Lycanthrope",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InAn 10 Potent spell, Potency 8, silver-chased hazel wand.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Beast of Outlandish Size",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuAn 15 Potent spell, Potency 6, magnetite carved as Behemoth.",
+  "evidence": [
+   "the-mysteries-revised::0134"
+  ]
+ },
+ {
+  "name": "Cripple the Howling Wolf",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeAn 25 Potent spell, Potency 7, wolf bone set with magnetite.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Mastering the Unruly Beast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAn 25 Potent spell, Potency 7, carved wand set with magnetite.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Mighty Torrent of Water",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAq 20 Potent spell, Potency 7, carved jade with aquamarine.",
+  "evidence": [
+   "the-mysteries-revised::0134"
+  ]
+ },
+ {
+  "name": "Enchantment of the Scrying Pool",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InAq 30 Potent spell, Potency 7, jade inset with beryl.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Curse of the Desert",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeAq 25 Potent spell, Potency 8, jade-inlaid wand.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Stench of Twenty Corpses",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAu 10 Potent spell, Potency 6, green turquoise and a pin feather.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Talons of the Wind",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuAu 20 Potent spell, Potency 8, fan made from ship's sail.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Cheating the Reaper",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 30 Potent spell, Potency 8, disc inlaid with jasper, amber and sapphire.",
+  "evidence": [
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Whispers Through the Black Gate",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InCo 15 Potent spell, Potency 9, green turquoise and star ruby.",
+  "evidence": [
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Curse of Circe",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuCo(An) 30 Potent spell, Potency 7, pig skin.",
+  "evidence": [
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Grip of the Choking Hand",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeCo 25 Potent spell, Potency 10, human-bone wand bound with cord.",
+  "evidence": [
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Rise of the Feathery Body",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReCo 10 Potent spell, Potency 8, glove with a magnet sewn in.",
+  "evidence": [
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Ward Against Faeries of the Wood",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReHe 25 (gen.) Potent spell, Potency 9, iron horseshoe.",
+  "evidence": [
+   "the-mysteries-revised::0135"
+  ]
+ },
+ {
+  "name": "Pilum of Fire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrIg 20 spell; Potent version Potency 11 needs miniature lamp, hearth and wand; also enchanted into Notara's wand.",
+  "evidence": [
+   "the-mysteries-revised::0135",
+   "the-mysteries-revised::0228",
+   "the-mysteries-revised::0229"
+  ]
+ },
+ {
+  "name": "Trapping the Fire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuIg 25 Potent spell, Potency 9, fired clay bound in a net.",
+  "evidence": [
+   "the-mysteries-revised::0135",
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Wizard's Icy Grip",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeIg 30 Potent spell, Potency 7, wand with rock crystal sphere.",
+  "evidence": [
+   "the-mysteries-revised::0135",
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Haunt of the Living Ghost",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrIm(In) 35 Potent spell, Potency 8, rock crystal sphere on hazel wand.",
+  "evidence": [
+   "the-mysteries-revised::0135",
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Summoning the Distant Image",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InIm 25 Potent spell, Potency 8, rock crystal sphere on hazel wand.",
+  "evidence": [
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "The Captive Voice",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReIm 30 Potent spell, Potency 7, mask and necklace.",
+  "evidence": [
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Weight of a Thousand Hells",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrMe 25 Potent spell, Potency 9, dagger with amethyst and frankincense.",
+  "evidence": [
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Posing the Silent Question",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InMe 20 Potent spell, Potency 5, silver-chased hazel wand.",
+  "evidence": [
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Vision of the Haunting Spirits",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuMe(Im) 40 Potent spell, Potency 8, green turquoise and cinnamon.",
+  "evidence": [
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Confusion of the Numbed Will",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 15 Potent spell, Potency 7, magnet carved as a human skull.",
+  "evidence": [
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "The Crystal Dart",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuTe(Re) 10 Potent spell, Potency 6, dagger and spade.",
+  "evidence": [
+   "the-mysteries-revised::0136",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Ward Against Faeries of the Mountain",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 15 Potent spell, Potency 9, iron horseshoe.",
+  "evidence": [
+   "the-mysteries-revised::0136",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "The Enigma's Gift",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi 30 Potent spell, Potency 4, parchment inscribed with Ink of Hermes.",
+  "evidence": [
+   "the-mysteries-revised::0136",
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Sight of the Active Magics",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 40 Potent spell, Potency 6, hazel wand stained with Ink of Hermes.",
+  "evidence": [
+   "the-mysteries-revised::0137"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeVi 30 (gen.) Potent spell, Potency 12, red coral and frankincense.",
+  "evidence": [
+   "the-mysteries-revised::0137",
+   "the-mysteries-revised::0173"
+  ]
+ },
+ {
+  "name": "Disguise of the Putrid Aroma",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used as an example of a Potent version with a wand and magnetite.",
+  "evidence": [
+   "the-mysteries-revised::0131"
+  ]
+ },
+ {
+  "name": "Tracks of the Faerie Glow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell of which Hunter's Tracks of the Faerie Glow is a Performance variant.",
+  "evidence": [
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Hunter's Tracks of the Faerie Glow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Performance Duration variant of Tracks of the Faerie Glow, lasting while the caster hunts.",
+  "evidence": [
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Sung Lamp Without Flame",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Performance Duration light spell lasting while the caster sings.",
+  "evidence": [
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Maintaining the Demanding Spell",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Effect used in an enchanted device to maintain a concentration spell.",
+  "evidence": [
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rulership effect governed by the sun, used in an enchanting example.",
+  "evidence": [
+   "the-mysteries-revised::0125"
+  ]
+ },
+ {
+  "name": "Ward Against Heat and Flames",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Effect posited to extract Ignem vis via Hermetic Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0174"
+  ]
+ },
+ {
+  "name": "Divide the Gathered Essence",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReVi 25 spell transferring raw vis from an item into one or more containers.",
+  "evidence": [
+   "the-mysteries-revised::0173",
+   "the-mysteries-revised::0174"
+  ]
+ },
+ {
+  "name": "Become a Being of Magic",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuCo(Vi) 50 Mystery Effect of the Great Elixir transforming the magus into a magical creature.",
+  "evidence": [
+   "the-mysteries-revised::0190",
+   "the-mysteries-revised::0192"
+  ]
+ },
+ {
+  "name": "Grant Might",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi Mystery Effect of the Great Elixir granting Magic Might equal to half (level-20).",
+  "evidence": [
+   "the-mysteries-revised::0191",
+   "the-mysteries-revised::0192",
+   "the-mysteries-revised::0194"
+  ]
+ },
+ {
+  "name": "Sense the Hour",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 10 spell measuring astrological time around the magus.",
+  "evidence": [
+   "the-mysteries-revised::0231"
+  ]
+ },
+ {
+  "name": "Sight of the Astrological Hour",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 20 spell measuring astrological time at a visible point.",
+  "evidence": [
+   "the-mysteries-revised::0232",
+   "the-mysteries-revised::0223",
+   "the-mysteries-revised::0224"
+  ]
+ },
+ {
+  "name": "Divine Heaven's Aspect",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 30 spell reporting all astrological conditions at a visible or Arcane-connected point.",
+  "evidence": [
+   "the-mysteries-revised::0233"
+  ]
+ },
+ {
+  "name": "Know the Heavens",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Effect linked in a magical armillary sphere to report astrological conditions.",
+  "evidence": [
+   "the-mysteries-revised::0234"
+  ]
+ },
+ {
+  "name": "Duplicate the Mechanism",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Cr(In)Te 35 Ritual creating an exact duplicate of an existing mechanism.",
+  "evidence": [
+   "the-mysteries-revised::0239"
+  ]
+ },
+ {
+  "name": "Duplicate the Noble Mechanism",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Level 45 ritual variant creating a precious-metal mechanism.",
+  "evidence": [
+   "the-mysteries-revised::0239"
+  ]
+ },
+ {
+  "name": "Craft the Mechanism",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell creating a new mechanism without Intellego requisite.",
+  "evidence": [
+   "the-mysteries-revised::0239"
+  ]
+ },
+ {
+  "name": "Jahm of Alexandria",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ex Miscellanea magus who rediscovered Hermetic Alchemy in the tenth century (956 AD), origin of the Green Cockerel.",
+  "evidence": [
+   "the-mysteries-revised::0166",
+   "the-mysteries-revised::0196"
+  ]
+ },
+ {
+  "name": "Pseudo-Democritus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of the earliest known Greek alchemical text, Physika kai Mystika.",
+  "evidence": [
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Synesius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Stated that Pseudo-Democritus' work was in four books.",
+  "evidence": [
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Mary the Jewess",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early alchemist credited with inventing an efficient still, the water bath and the kerotakis.",
+  "evidence": [
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Bolos of Mendes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Probable ultimate origin of Pseudo-Democritus' tradition, two centuries before Christ.",
+  "evidence": [
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Zosimos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Late third-century alchemist whose Visions identify the alchemical process with Christ.",
+  "evidence": [
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "Jabir Ibn Hayyan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Arabic alchemist who stressed mercury and the four qualities.",
+  "evidence": [
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "Rhases",
+  "type": "Character",
+  "aliases": [],
+  "description": "Physician who wrote on alchemical theory and the elixir.",
+  "evidence": [
+   "the-mysteries-revised::0169",
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Avicenna",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of De Congelatione, denying real transmutation.",
+  "evidence": [
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "Albertus Magnus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scholar influenced by Avicenna on alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "Vincent of Beauvais",
+  "type": "Character",
+  "aliases": [],
+  "description": "13th-century encyclopedist discussing alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0169",
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Ramon Lull",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scholar discussing alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0169",
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Morienus Romanus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of Liber de Compositione Alchemiae.",
+  "evidence": [
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Robert of Chester",
+  "type": "Character",
+  "aliases": [
+   "Roger of Chester"
+  ],
+  "description": "Translated Liber de Compositione Alchemiae into Latin in 1144.",
+  "evidence": [
+   "the-mysteries-revised::0170",
+   "the-mysteries-revised::0196"
+  ]
+ },
+ {
+  "name": "Gerard of Cremona",
+  "type": "Character",
+  "aliases": [],
+  "description": "Translated De Aluminibus et Salibus.",
+  "evidence": [
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Thomas Aquinas",
+  "type": "Character",
+  "aliases": [
+   "Aquinas"
+  ],
+  "description": "Discussed alchemy in his works.",
+  "evidence": [
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Roger Bacon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Discussed alchemy in his encyclopedic works.",
+  "evidence": [
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "Jesus Christ",
+  "type": "Character",
+  "aliases": [],
+  "description": "Identified with the alchemical process in the Visions of Zosimos.",
+  "evidence": [
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "St. Augustine",
+  "type": "Character",
+  "aliases": [
+   "Augustine"
+  ],
+  "description": "Church father who attacked astrology in City of God.",
+  "evidence": [
+   "the-mysteries-revised::0209"
+  ]
+ },
+ {
+  "name": "Abu Ma'shar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of the Greater Introduction to Astrology.",
+  "evidence": [
+   "the-mysteries-revised::0210"
+  ]
+ },
+ {
+  "name": "Ptolemy",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of the Tetrabiblos; the Centiloquium is falsely ascribed to him.",
+  "evidence": [
+   "the-mysteries-revised::0210",
+   "the-mysteries-revised::0237"
+  ]
+ },
+ {
+  "name": "Firmicus Maternus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Writer on astrology whose works are used extensively.",
+  "evidence": [
+   "the-mysteries-revised::0210",
+   "the-mysteries-revised::0211"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ruler who had his children's horoscopes cast.",
+  "evidence": [
+   "the-mysteries-revised::0210",
+   "the-mysteries-revised::0211"
+  ]
+ },
+ {
+  "name": "Michael Scot",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gave astrological advice to Frederick II.",
+  "evidence": [
+   "the-mysteries-revised::0210",
+   "the-mysteries-revised::0211"
+  ]
+ },
+ {
+  "name": "Thabit ibn Qurra",
+  "type": "Character",
+  "aliases": [],
+  "description": "Arabic writer (836-901) of a formula to rid a place of scorpions.",
+  "evidence": [
+   "the-mysteries-revised::0211"
+  ]
+ },
+ {
+  "name": "Alfonso the Wise",
+  "type": "Character",
+  "aliases": [],
+  "description": "King under whom the Picatrix was translated.",
+  "evidence": [
+   "the-mysteries-revised::0211"
+  ]
+ },
+ {
+  "name": "Eratosthenes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Devised the armillary sphere in antiquity.",
+  "evidence": [
+   "the-mysteries-revised::0236",
+   "the-mysteries-revised::0237"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder whose breakthroughs let Hermetic magic ignore astral influences.",
+  "evidence": [
+   "the-mysteries-revised::0211",
+   "the-mysteries-revised::0212"
+  ]
+ },
+ {
+  "name": "Secret Master",
+  "type": "Character",
+  "aliases": [
+   "Secret Mistress"
+  ],
+  "description": "Sole Green Cockerel Initiate to have completed the Great Work, never seen by members; gender disputed.",
+  "evidence": [
+   "the-mysteries-revised::0199",
+   "the-mysteries-revised::0206",
+   "the-mysteries-revised::0207"
+  ]
+ },
+ {
+  "name": "Orlando",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus and musician who knows Sorcerous Music and Subtle Magic.",
+  "evidence": [
+   "the-mysteries-revised::0121",
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Furioso",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example Sorcerous Musician lacking Subtle Magic.",
+  "evidence": [
+   "the-mysteries-revised::0121"
+  ]
+ },
+ {
+  "name": "Harold",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus with Performance Magic (Hunt).",
+  "evidence": [
+   "the-mysteries-revised::0123"
+  ]
+ },
+ {
+  "name": "Astra",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga using Laboratory Horoscopes.",
+  "evidence": [
+   "the-mysteries-revised::0125",
+   "the-mysteries-revised::0217"
+  ]
+ },
+ {
+  "name": "Julius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus demonstrating Vulgar Alchemy experimentation.",
+  "evidence": [
+   "the-mysteries-revised::0146",
+   "the-mysteries-revised::0147",
+   "the-mysteries-revised::0148"
+  ]
+ },
+ {
+  "name": "Vita",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga with Life-Linked Spontaneous Magic.",
+  "evidence": [
+   "the-mysteries-revised::0153",
+   "the-mysteries-revised::0154"
+  ]
+ },
+ {
+  "name": "Stellus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example Initiate born under Capricorn.",
+  "evidence": [
+   "the-mysteries-revised::0157"
+  ]
+ },
+ {
+  "name": "Astera",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mystagogue of Stellus, born under Sagittarius.",
+  "evidence": [
+   "the-mysteries-revised::0157",
+   "the-mysteries-revised::0158"
+  ]
+ },
+ {
+  "name": "Stella",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga with astrological Cyclic Magic.",
+  "evidence": [
+   "the-mysteries-revised::0160"
+  ]
+ },
+ {
+  "name": "Raucus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus with Mutable Blatant Gift.",
+  "evidence": [
+   "the-mysteries-revised::0161"
+  ]
+ },
+ {
+  "name": "Effica",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga with Mutable Puissant Terram.",
+  "evidence": [
+   "the-mysteries-revised::0161"
+  ]
+ },
+ {
+  "name": "Rufus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus extracting vis with Hermetic Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0173",
+   "the-mysteries-revised::0174"
+  ]
+ },
+ {
+  "name": "Parella",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga using Major Philosophic Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0176",
+   "the-mysteries-revised::0177",
+   "the-mysteries-revised::0179"
+  ]
+ },
+ {
+  "name": "Desperata",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example alchemist maga who achieves the Great Elixir aged 161.",
+  "evidence": [
+   "the-mysteries-revised::0185",
+   "the-mysteries-revised::0192",
+   "the-mysteries-revised::0194"
+  ]
+ },
+ {
+  "name": "Erratus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example magus who miscalculates an Astrological Duration.",
+  "evidence": [
+   "the-mysteries-revised::0222"
+  ]
+ },
+ {
+  "name": "Notara",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example maga making astrologically linked enchantments, including a Pilum of Fire wand.",
+  "evidence": [
+   "the-mysteries-revised::0227",
+   "the-mysteries-revised::0228",
+   "the-mysteries-revised::0229"
+  ]
+ },
+ {
+  "name": "Order of the Green Cockerel",
+  "type": "Faction",
+  "aliases": [
+   "Green Cockerel"
+  ],
+  "description": "Secret Hermetic Mystery Cult of alchemists pursuing the Great Work (Elixir Vitae), in secret contact with Islamic wizards; has seven degrees.",
+  "evidence": [
+   "the-mysteries-revised::0195",
+   "the-mysteries-revised::0196",
+   "the-mysteries-revised::0197"
+  ]
+ },
+ {
+  "name": "Toads",
+  "type": "Faction",
+  "aliases": [],
+  "description": "First Green Cockerel degree: calcination, Saturn, black, lead; learns Planetary Magic.",
+  "evidence": [
+   "the-mysteries-revised::0201"
+  ]
+ },
+ {
+  "name": "White Swans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Second degree: dissolution, Jupiter, grayish-white, tin; learns Vulgar Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0202"
+  ]
+ },
+ {
+  "name": "Green Kings",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Third degree: separation, Mars, green, iron; Initiated into Unaging before exile.",
+  "evidence": [
+   "the-mysteries-revised::0203"
+  ]
+ },
+ {
+  "name": "Peacocks",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Fourth degree: conjunction, Venus, copper; learns Hermetic Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0204"
+  ]
+ },
+ {
+  "name": "Unicorns",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Fifth degree: fermentation, Mercury, white; ambassadors who learn the Lesser Elixir.",
+  "evidence": [
+   "the-mysteries-revised::0205"
+  ]
+ },
+ {
+  "name": "Pelicans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Sixth degree: distillation, Moon, silver, red; Mystagogues who learn Philosophic Alchemy.",
+  "evidence": [
+   "the-mysteries-revised::0206"
+  ]
+ },
+ {
+  "name": "Phoenix",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Seventh degree: coagulation, Sun, gold; learns the Great Elixir from the Secret Master.",
+  "evidence": [
+   "the-mysteries-revised::0207"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [
+   "Mercurian cult",
+   "Mercurian cults"
+  ],
+  "description": "Mercurian Mystery Cult teaching Withstand Casting and Ceremonial Casting; its magi often have Vulnerable Casting.",
+  "evidence": [
+   "the-mysteries-revised::0150",
+   "the-mysteries-revised::0163",
+   "the-mysteries-revised::0165"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Hermetic Order of magi.",
+  "evidence": [
+   "the-mysteries-revised::0124",
+   "the-mysteries-revised::0196",
+   "the-mysteries-revised::0197"
+  ]
+ },
+ {
+  "name": "Chaldeans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The most famous astrologers of the past.",
+  "evidence": [
+   "the-mysteries-revised::0208"
+  ]
+ },
+ {
+  "name": "Ex Miscellanea",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House to which Jahm of Alexandria belonged.",
+  "evidence": [
+   "the-mysteries-revised::0166"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "House of craftsman magi who use Verditius Runes and Craft in enchanting.",
+  "evidence": [
+   "the-mysteries-revised::0138",
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where mundane alchemy is still rare.",
+  "evidence": [
+   "the-mysteries-revised::0199"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where mundane alchemy is still rare.",
+  "evidence": [
+   "the-mysteries-revised::0199"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where mundane alchemy is still rare.",
+  "evidence": [
+   "the-mysteries-revised::0199"
+  ]
+ },
+ {
+  "name": "Alexandria",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where the Green Cockerel's Great Convocation is held every seven years.",
+  "evidence": [
+   "the-mysteries-revised::0198"
+  ]
+ },
+ {
+  "name": "Levant",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region frequently visited by Green Cockerel members.",
+  "evidence": [
+   "the-mysteries-revised::0197"
+  ]
+ },
+ {
+  "name": "North Africa",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region frequently visited by Green Cockerel members.",
+  "evidence": [
+   "the-mysteries-revised::0197"
+  ]
+ },
+ {
+  "name": "Granada",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region frequently visited by Green Cockerel members.",
+  "evidence": [
+   "the-mysteries-revised::0197"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The Ars Magica setting.",
+  "evidence": [
+   "the-mysteries-revised::0197",
+   "the-mysteries-revised::0199",
+   "the-mysteries-revised::0211"
+  ]
+ },
+ {
+  "name": "Roman Empire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where astrological fatalism grew fashionable.",
+  "evidence": [
+   "the-mysteries-revised::0208"
+  ]
+ },
+ {
+  "name": "Behemoth",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Great beast whose carved shape gives +3 great size.",
+  "evidence": [
+   "the-mysteries-revised::0134",
+   "the-mysteries-revised::0140"
+  ]
+ },
+ {
+  "name": "Lycanthrope",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Werewolf; silver gives +5 against lycanthropes.",
+  "evidence": [
+   "the-mysteries-revised::0141"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Beings warded by Ward Against Faeries spells using iron horseshoes.",
+  "evidence": [
+   "the-mysteries-revised::0135",
+   "the-mysteries-revised::0136"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal spirits; red coral +10 vs demons, cinquefoil drives them away.",
+  "evidence": [
+   "the-mysteries-revised::0140",
+   "the-mysteries-revised::0173"
+  ]
+ },
+ {
+  "name": "Physika kai Mystika",
+  "type": "Item",
+  "aliases": [],
+  "description": "Earliest Greek alchemical text, by Pseudo-Democritus.",
+  "evidence": [
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Gold-Making of Cleopatra",
+  "type": "Item",
+  "aliases": [
+   "Dialogue of Cleopatra"
+  ],
+  "description": "Gnostic alchemical text.",
+  "evidence": [
+   "the-mysteries-revised::0168"
+  ]
+ },
+ {
+  "name": "Visions of Zosimos",
+  "type": "Item",
+  "aliases": [],
+  "description": "Late third-century alchemical text.",
+  "evidence": [
+   "the-mysteries-revised::0168",
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "Turba Philosophorum",
+  "type": "Item",
+  "aliases": [],
+  "description": "Translation of an Arabic alchemical work using the marriage simile.",
+  "evidence": [
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "De Congelatione",
+  "type": "Item",
+  "aliases": [],
+  "description": "Avicenna's work denying real transmutation.",
+  "evidence": [
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "De Anima in Arte Alchimiae",
+  "type": "Item",
+  "aliases": [],
+  "description": "Work attributed to Avicenna supporting transmutation.",
+  "evidence": [
+   "the-mysteries-revised::0169"
+  ]
+ },
+ {
+  "name": "Liber de Compositione Alchemiae",
+  "type": "Item",
+  "aliases": [
+   "De Compositione Alchemiae"
+  ],
+  "description": "First Arabic alchemical work translated into Latin (1144).",
+  "evidence": [
+   "the-mysteries-revised::0170",
+   "the-mysteries-revised::0196"
+  ]
+ },
+ {
+  "name": "De Aluminibus et Salibus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Alchemical work attributed to Rhases.",
+  "evidence": [
+   "the-mysteries-revised::0170"
+  ]
+ },
+ {
+  "name": "City of God",
+  "type": "Item",
+  "aliases": [],
+  "description": "St. Augustine's work attacking astrology.",
+  "evidence": [
+   "the-mysteries-revised::0209"
+  ]
+ },
+ {
+  "name": "Greater Introduction to Astrology",
+  "type": "Item",
+  "aliases": [],
+  "description": "Abu Ma'shar's work, translated in 1133.",
+  "evidence": [
+   "the-mysteries-revised::0210"
+  ]
+ },
+ {
+  "name": "Tetrabiblos",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ptolemy's astrology text, translated 1138.",
+  "evidence": [
+   "the-mysteries-revised::0210"
+  ]
+ },
+ {
+  "name": "Centiloquium",
+  "type": "Item",
+  "aliases": [],
+  "description": "Aphorisms falsely ascribed to Ptolemy.",
+  "evidence": [
+   "the-mysteries-revised::0210"
+  ]
+ },
+ {
+  "name": "Picatrix",
+  "type": "Item",
+  "aliases": [],
+  "description": "Best known work of astral magic, translated under Alfonso the Wise.",
+  "evidence": [
+   "the-mysteries-revised::0211"
+  ]
+ }
+]

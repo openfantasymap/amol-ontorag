@@ -1,0 +1,3386 @@
+[
+ {
+  "name": "Andru filius Astrolabe",
+  "type": "Character",
+  "aliases": [
+   "Primus Andru",
+   "Andru"
+  ],
+  "description": "Primus of House Jerbiton, leader of the Covenant of Valnastium, who runs an intelligence network and a 'charm offensive' to have the Church accept Hermetic magic.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0263",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0317"
+  ]
+ },
+ {
+  "name": "Crucifixio",
+  "type": "Creature",
+  "description": "Andru's black cat familiar, a member of the Black Lineage, who could talk before he was bound.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Astrolabe",
+  "type": "Character",
+  "description": "Parens of Primus Andru and of Bronwyn, a Jerbiton magus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0248"
+  ]
+ },
+ {
+  "name": "Constance filia Frederich et Vortimer",
+  "type": "Character",
+  "aliases": [
+   "Constance filia Frederich",
+   "Constance"
+  ],
+  "description": "Lesser Secundus of House Jerbiton at Valnastium, over 130 years old, trained as a Verditius follower and a leading Crafter who builds grand laboratories.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242"
+  ]
+ },
+ {
+  "name": "Vortimer",
+  "type": "Character",
+  "description": "Constance's adoptive parens, a senior member of the lineage of Carolinus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241"
+  ]
+ },
+ {
+  "name": "Angela filia Constance",
+  "type": "Character",
+  "aliases": [
+   "Angela"
+  ],
+  "description": "Valnastium maga who crafts magical musical instruments, a Crafter, and acts as the covenant's factor at the Midsummer Fair.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242"
+  ]
+ },
+ {
+  "name": "Sourdine filia Bronwyn",
+  "type": "Character",
+  "aliases": [
+   "Sourdine",
+   "Lord Roland of the Val Gardenia"
+  ],
+  "description": "House Jerbiton's finest spy, Gently Gifted and a silent caster, one of the Primus's closest confidants who can appear as Lord Roland of the Val Gardenia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0243"
+  ]
+ },
+ {
+  "name": "Sirocco filia Andru",
+  "type": "Character",
+  "aliases": [
+   "Sirocco"
+  ],
+  "description": "Andru's filia, coordinating House Jerbiton's push into Islamic North Africa and investigating the fate of a lost covenant near Tunis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0244"
+  ]
+ },
+ {
+  "name": "Grazia filia Natura",
+  "type": "Character",
+  "aliases": [
+   "Grazia"
+  ],
+  "description": "Animál specialist who supervises Valnastium's stables, kennels and mews and is beginning to investigate taming griffins.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0245"
+  ]
+ },
+ {
+  "name": "Kalliope filia Bibliophilus",
+  "type": "Character",
+  "aliases": [
+   "Kalliope"
+  ],
+  "description": "Middle-aged magus, latest in an intermittent line of librarian-magi at Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0247"
+  ]
+ },
+ {
+  "name": "Bronwyn filia Astrolabe",
+  "type": "Character",
+  "aliases": [
+   "Bronwyn"
+  ],
+  "description": "Valnastium maga researching Hermetic phonotactics and metered spells, whose poetry is embarrassing doggerel.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0248"
+  ]
+ },
+ {
+  "name": "Larta",
+  "type": "Character",
+  "description": "The first Jerbiton to publicly acknowledge she could not cast spells; her name is now used for such members of House Jerbiton.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0249"
+  ]
+ },
+ {
+  "name": "Josephine",
+  "type": "Character",
+  "description": "Larta magus chef at Valnastium from the Engadine valley, whose food is as good as magical.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251"
+  ]
+ },
+ {
+  "name": "François",
+  "type": "Character",
+  "description": "Elderly, powerful Larta blacksmith of the Village of the Vale whose smithy is intensely magical and whose kin serve as grogs across the Order.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Chloe",
+  "type": "Character",
+  "description": "Valnastium's chief minstrel, a composer of ethereal choral prayers that are magical when performed by others; possibly a unique Natural Magician.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Carmine filia Susannah",
+  "type": "Character",
+  "aliases": [
+   "Carmine"
+  ],
+  "description": "Follower of Flambeau of Iberian ancestry, Andru's model, mistress and wife, the only non-Jerbiton magus living permanently at Valnastium; a member of the lineage of Abydaros.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0258",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0259"
+  ]
+ },
+ {
+  "name": "Susannah",
+  "type": "Character",
+  "description": "Carmine's Flambeau parens.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0258"
+  ]
+ },
+ {
+  "name": "Jerbiton",
+  "type": "Character",
+  "aliases": [
+   "the Founder"
+  ],
+  "description": "Founder of House Jerbiton, of Roman descent, who laid out Valnastium's gardens and ensured regular sacraments in the valley.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0265"
+  ]
+ },
+ {
+  "name": "Saint Cyprian",
+  "type": "Character",
+  "description": "Pre-Hermetic magus saint to whom Valnastium's main church is dedicated, often confused with Saint Cyprian of Carthage.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261"
+  ]
+ },
+ {
+  "name": "Adam",
+  "type": "Character",
+  "description": "Biblical first man to whom God granted dominion over the Earth; Andru believes the Dominion is mediated through this gift.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0263"
+  ]
+ },
+ {
+  "name": "Díedne",
+  "type": "Character",
+  "description": "Founder whose followers reputedly attacked a community of fifteen druids at Domleschg.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0282"
+  ]
+ },
+ {
+  "name": "Sabina",
+  "type": "Character",
+  "description": "Powerful Flambeau maga of Lukerbad in the previous century who disappeared; her laboratory has never been found.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0294"
+  ]
+ },
+ {
+  "name": "Pontius Pilate",
+  "type": "Character",
+  "description": "Unquiet spirit for whom Mount Pilatus is named, who punishes climbers with terrible weather; harvesting vis from his ghost was outlawed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0297"
+  ]
+ },
+ {
+  "name": "Hannibal",
+  "type": "Character",
+  "description": "Carthaginian general who held a council of war at the Cirque d'Annibal before marching into Italy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0281"
+  ]
+ },
+ {
+  "name": "Bishop Werner of Straussburg",
+  "type": "Character",
+  "description": "Ancestor of the Hapsburgs who built the castle of Hapsburg in the 11th century.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0274"
+  ]
+ },
+ {
+  "name": "Berthold V, Duke of Zähringen",
+  "type": "Character",
+  "description": "Founder of Berne in 1191, who named it after a bear he killed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0277"
+  ]
+ },
+ {
+  "name": "Berthold IV",
+  "type": "Character",
+  "description": "Zähringer who founded Fribourg in 1157.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0285"
+  ]
+ },
+ {
+  "name": "Artio",
+  "type": "Character",
+  "description": "Bear goddess worshipped by the ancient Celts of the Berne region.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0277"
+  ]
+ },
+ {
+  "name": "Saint Meinrad",
+  "type": "Character",
+  "description": "Hermit saint murdered at Einsiedeln in 861, whose tamed ravens followed his murderers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0283"
+  ]
+ },
+ {
+  "name": "Saint Hildegarde",
+  "type": "Character",
+  "description": "Abbess of Zurich who gave Saint Meinrad a figurine of the Virgin.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0283"
+  ]
+ },
+ {
+  "name": "Ida of Unspunnen",
+  "type": "Character",
+  "aliases": [
+   "Ida"
+  ],
+  "description": "Last heir of the Unspunnens, stolen away by Rudolph of Wadenschwyl, sparking war with the Zähringers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Rudolph of Wadenschwyl",
+  "type": "Character",
+  "description": "Knight allied to the Zähringers who eloped with Ida of Unspunnen.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Burkland, Count of Unspunnen",
+  "type": "Character",
+  "description": "Count of Unspunnen and foe of the Zähringers who established annual games at Interlaken.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Harder Man",
+  "type": "Character",
+  "description": "Possessed monk turned to stone as a face on Mount Harder, looking over the Oberland.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0293"
+  ]
+ },
+ {
+  "name": "Attila the Hun",
+  "type": "Character",
+  "description": "Said to have founded the castle of Spietz.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0293"
+  ]
+ },
+ {
+  "name": "Gargantua",
+  "type": "Creature",
+  "description": "Giant credited with throwing the Pierres de Niton and digging Lac Léman.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0288"
+  ]
+ },
+ {
+  "name": "Charles the Fat",
+  "type": "Character",
+  "description": "Emperor buried in the Munster Church of Reichenau in 888.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0302"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "description": "Frankish emperor linked to spurious Reichenau treasures, a Danube-Main canal attempt, and the conquest of Bavaria.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0302",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0325",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353"
+  ]
+ },
+ {
+  "name": "Laurens",
+  "type": "Character",
+  "description": "Dwarf king who rules the Rosegarten regio and cursed his roses to appear as stone.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0311",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0312"
+  ]
+ },
+ {
+  "name": "Saint Beatus",
+  "type": "Character",
+  "description": "British saint who converted the Jungfrau region and evicted a dragon from his cave.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0304"
+  ]
+ },
+ {
+  "name": "Saint Bernard",
+  "type": "Character",
+  "description": "Canonized founder of the Saint Bernard hospice monastery in 962, patron of Alpine travelers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0305"
+  ]
+ },
+ {
+  "name": "Saint Nicholas of Myra",
+  "type": "Character",
+  "description": "Saint to whom each house of Saint Bernard was originally dedicated.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0305"
+  ]
+ },
+ {
+  "name": "Gallus",
+  "type": "Character",
+  "aliases": [
+   "Saint Gall"
+  ],
+  "description": "Celtic monk from Iona whose hermitage grew into the monastery and town of Saint Gallen.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0309"
+  ]
+ },
+ {
+  "name": "Constantine the Great",
+  "type": "Character",
+  "description": "First Christian emperor who raised a column in Saint Bernard's Pass in 339 to replace a statue of Jupiter Penninus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0313"
+  ]
+ },
+ {
+  "name": "Saint Maurice",
+  "type": "Character",
+  "description": "Christian soldier martyred in 302 for refusing to worship Roman gods; his ring is a powerful relic.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0315"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [
+   "Frederick"
+  ],
+  "description": "Holy Roman Emperor who gained control of Zurich in 1218 and is ally of the Schwytzers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0321",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0341"
+  ]
+ },
+ {
+  "name": "Danu",
+  "type": "Character",
+  "description": "River goddess of tremendous power embodying the Danube and other rivers; in Faerie she is queen of the River.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0325",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326"
+  ]
+ },
+ {
+  "name": "Herakles",
+  "type": "Character",
+  "description": "Hero said to have killed the lindworm near Klagenfurt.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0337"
+  ]
+ },
+ {
+  "name": "Saint Wolfgang",
+  "type": "Character",
+  "aliases": [
+   "Wolfgang"
+  ],
+  "description": "Priest who founded a church in the Abersee valley in 976 where his axe fell and defeated the Devil.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0340"
+  ]
+ },
+ {
+  "name": "Paxon of Verditius",
+  "type": "Character",
+  "aliases": [
+   "Paxon"
+  ],
+  "description": "Verditius magus who currently holds the right to harvest vis from Staubbach Fall.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0342"
+  ]
+ },
+ {
+  "name": "Julius Caesar",
+  "type": "Character",
+  "aliases": [
+   "Caesar"
+  ],
+  "description": "Roman consul given command of the Alps in 59 BC who defeated the Helevetii.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0349"
+  ]
+ },
+ {
+  "name": "Drusus",
+  "type": "Character",
+  "description": "Roman who conquered Bavaria in 15 BC.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353"
+  ]
+ },
+ {
+  "name": "Otto I",
+  "type": "Character",
+  "description": "Emperor who recaptured Bavaria in 947 and defeated the Magyars at Lechfeld in 955.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0355"
+  ]
+ },
+ {
+  "name": "Geza",
+  "type": "Character",
+  "description": "Newly Christian King of the Magyars who made peace with Otto in 973.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353"
+  ]
+ },
+ {
+  "name": "Saint Stephen of Hungary",
+  "type": "Character",
+  "aliases": [
+   "Stephen"
+  ],
+  "description": "Geza's son, who married Gisela of Bavaria in 996.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0354"
+  ]
+ },
+ {
+  "name": "Gisela",
+  "type": "Character",
+  "description": "Daughter of Henry of Bavaria who married Stephen of Hungary.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353"
+  ]
+ },
+ {
+  "name": "Henry the Lion",
+  "type": "Character",
+  "description": "Duke from whom Frederick I confiscated Bavaria in 1180.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0354"
+  ]
+ },
+ {
+  "name": "Frederick I",
+  "type": "Character",
+  "description": "Emperor who granted Bavaria to Otto von Wittlesbach in 1180.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0354"
+  ]
+ },
+ {
+  "name": "Otto von Wittlesbach",
+  "type": "Character",
+  "description": "Count Palatine granted Bavaria in 1180.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0354"
+  ]
+ },
+ {
+  "name": "Marchio Liutpoldos",
+  "type": "Character",
+  "description": "Nobleman made overlord of the East March in 976, progenitor of the Babenbergs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0355",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0356"
+  ]
+ },
+ {
+  "name": "Conrad the Salian",
+  "type": "Character",
+  "description": "Emperor whose empire absorbed the Kingdom of Burgundy in 1033.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0351"
+  ]
+ },
+ {
+  "name": "Saint Sylvester",
+  "type": "Character",
+  "description": "Saint said to have slain the Leviathan dragon on New Year's Day 1000, possibly Pope Sylvester II.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0356",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0357"
+  ]
+ },
+ {
+  "name": "Pope Sylvester II",
+  "type": "Character",
+  "description": "Pope widely thought to be a magician, possibly the Saint Sylvester who slew the Leviathan.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0357"
+  ]
+ },
+ {
+  "name": "Trivia",
+  "type": "Character",
+  "description": "Threefold goddess of the roads, whose marble statue stands in a redcap exchange regio near Eisenstadt.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0331"
+  ]
+ },
+ {
+  "name": "Jupiter Penninus",
+  "type": "Character",
+  "aliases": [
+   "Jupiter"
+  ],
+  "description": "Pagan deity whose statue in Saint Bernard's Pass Constantine had destroyed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0313",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0305"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "description": "Hermetic House centred at Valnastium, pursuing a charm offensive toward the Church and hostile to faeries.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0249",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0266"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "description": "Hermetic House of craft magi; Constance and Angela were trained in its tradition, and it supports the Larta magi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0250"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "description": "Faerie-oriented House that dislikes Jerbiton views of faeries; dominates Journeys End and suffered a civil war.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0267",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "description": "Hermetic House some of whose members study Larta techniques and the Dolomite regio.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0250",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0333"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "description": "House of Redcaps, owners of the Copper Rooster inn, hiding behind a mundane merchant house.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0306",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0344"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "description": "Hermetic House; one member was Marched for trying to steal Heiligenblut's holy blood.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0291",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316"
+  ]
+ },
+ {
+  "name": "House Díedne",
+  "type": "House",
+  "description": "Destroyed House said to have performed human sacrifices at the Pierres de Niton.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0288"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "description": "Hermetic House whose purge destroyed settlements in Savoy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "description": "Hermetic House of Carmine and of Sabina of Lukerbad.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0258",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0294"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "description": "Hermetic House that would be interested in the talking bears of Berne.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0277"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "description": "Hermetic House whose members investigated the Augsburg catacombs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0324"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Hermetic order of magi to which the covenants and Houses belong.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0249",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0282",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0303"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "the Tribunal"
+  ],
+  "description": "The Hermetic tribunal covering the Alps, Bavaria and the eastern marches.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0268",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0331"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "description": "Order-wide tribunal before which chefs gather to prepare a banquet under a promoscundus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0252"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Transylvania"
+  ],
+  "description": "Neighbouring tribunal that includes the northern plains of Burgenland.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0331"
+  ]
+ },
+ {
+  "name": "Valnastium",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Valnastium"
+  ],
+  "description": "Ancient Jerbiton covenant and House seat in a Christian valley with a low aura, famed for its library and gardens.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0317"
+  ]
+ },
+ {
+  "name": "Belaquin",
+  "type": "Covenant",
+  "description": "Covenant in Provence whose grog sold Angela a club of faerie-forest wood.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Covenant that often has magician-librarians.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0247"
+  ]
+ },
+ {
+  "name": "Verdi",
+  "type": "Covenant",
+  "description": "Covenant that often has magician-librarians.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0247"
+  ]
+ },
+ {
+  "name": "Covenant of the Icy North",
+  "type": "Covenant",
+  "aliases": [
+   "Icy North"
+  ],
+  "description": "Motherhouse hosting the Midsummer Fair and claiming Rego vis from the Domleschg oak grove.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0257",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0282",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0344"
+  ]
+ },
+ {
+  "name": "Covenant Where Journeys End",
+  "type": "Covenant",
+  "aliases": [
+   "Journeys End"
+  ],
+  "description": "Ancient mostly-Merinita covenant in Savoy that claims many vis sources and is allied to the Dachstein giants.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0303",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0334"
+  ]
+ },
+ {
+  "name": "Covenant of the Sinews of Knowledge",
+  "type": "Covenant",
+  "description": "Covenant hidden behind a minor cataract feeding the Danube.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0325"
+  ]
+ },
+ {
+  "name": "Covenant of Tarragon Vale",
+  "type": "Covenant",
+  "description": "Covenant near Schwyz whose magi underwent the Vanishing Away.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0341"
+  ]
+ },
+ {
+  "name": "Rorschach Chapter",
+  "type": "Covenant",
+  "description": "Chapter of the Covenant of the Icy North with extensive property in Vienna.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0344"
+  ]
+ },
+ {
+  "name": "Black Lineage",
+  "type": "Faction",
+  "description": "Magical strain of black cats resident at Valnastium, descended from generations of cat familiars, with a feline hierarchy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Urbastis cult",
+  "type": "Faction",
+  "description": "Cult known through Legend Lore to the familiar Crucifixio.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Lineage of Carolinus",
+  "type": "Faction",
+  "description": "Mystery lineage of which Vortimer is a senior member.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241"
+  ]
+ },
+ {
+  "name": "Craft School",
+  "type": "Faction",
+  "aliases": [
+   "Crafters",
+   "Crafter movement"
+  ],
+  "description": "Hermetic movement prizing beautiful and functional objects, whose members (Crafters) are mostly mage-smiths.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242"
+  ]
+ },
+ {
+  "name": "Lineage of Abydaros",
+  "type": "Faction",
+  "description": "Mystery lineage to which Carmine belongs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0259"
+  ]
+ },
+ {
+  "name": "Meistersingers",
+  "type": "Faction",
+  "description": "New German minstrel tradition spreading joy via cynical parodies of nobility and Church.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Ierbii",
+  "type": "Faction",
+  "description": "Name the Rhaetian-speaking covenfolk of Valnastium call themselves.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261"
+  ]
+ },
+ {
+  "name": "Legion of Mithras",
+  "type": "Faction",
+  "description": "Mystery cult whose Alpine meeting place lies near Martigny.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0295"
+  ]
+ },
+ {
+  "name": "Moorish magicians",
+  "type": "Faction",
+  "description": "Shadowy tradition of North African magicians with tentative links to Jerbiton magi of Iberia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0244"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "description": "Hermetic investigators who examined the Augsburg catacombs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0324"
+  ]
+ },
+ {
+  "name": "Shadow Flambeau",
+  "type": "Faction",
+  "description": "Faction whose rise was a past Hermetic crisis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "description": "Magi who explore ruined Hermetic settlements, drawn to Savoy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316"
+  ]
+ },
+ {
+  "name": "Abbaye des Vignerons",
+  "type": "Faction",
+  "description": "Guild-like society of Vervay dedicated to viticulture, holding a festival every 15-20 years.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0318"
+  ]
+ },
+ {
+  "name": "Hapsburgs",
+  "type": "Faction",
+  "description": "Noble family named after the castle of Hapsburg in Vindonossa.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0274",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0293"
+  ]
+ },
+ {
+  "name": "House of Zähringen",
+  "type": "Faction",
+  "aliases": [
+   "Zähringers"
+  ],
+  "description": "Now-extinct noble family, founders of Berne and Fribourg, who tried to unite the Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0277",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0352"
+  ]
+ },
+ {
+  "name": "House of Savoy",
+  "type": "Faction",
+  "description": "Noble house ruling Savoy and building castles near Fribourg and Geneva.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0285",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0287",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316"
+  ]
+ },
+ {
+  "name": "Unspunnens",
+  "type": "Faction",
+  "description": "Noble family that ruled much of the Oberland, ending with the heiress Ida.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Kyburgers",
+  "type": "Faction",
+  "aliases": [
+   "Kyburgs"
+  ],
+  "description": "Noble family with a home castle near Winterthur and about 100 vassal castles.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0320"
+  ]
+ },
+ {
+  "name": "Kirburgers",
+  "type": "Faction",
+  "description": "Relatives-by-marriage who inherited the Zähringer lands, the most powerful indigenous nobles of the Western Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0352"
+  ]
+ },
+ {
+  "name": "Babenbergs",
+  "type": "Faction",
+  "aliases": [
+   "Poppon"
+  ],
+  "description": "Ruling family of Austria and Styria, descended from Marchio Liutpoldos.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0338",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0343",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0356"
+  ]
+ },
+ {
+  "name": "Hohenstaufens",
+  "type": "Faction",
+  "description": "Dynasty that received most of the Swabian pretender's lands.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0351"
+  ]
+ },
+ {
+  "name": "Wittlesbachs",
+  "type": "Faction",
+  "description": "Ruling family of Bavaria who gained the Rhenish Palatinate in 1214.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0354"
+  ]
+ },
+ {
+  "name": "Benedictines",
+  "type": "Faction",
+  "description": "Monastic order with abbeys at Einsiedeln, Pfeffers, Reichenau, Saint Bernard, Melk and elsewhere.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0283",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0290",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0302"
+  ]
+ },
+ {
+  "name": "Magyars",
+  "type": "Faction",
+  "description": "People who raided Bavaria until defeated at Lechfeld in 955.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353"
+  ]
+ },
+ {
+  "name": "Helevetii",
+  "type": "Faction",
+  "description": "Celtic tribe defeated by Caesar and resettled in the Alpine passes.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0349"
+  ]
+ },
+ {
+  "name": "Alemanni",
+  "type": "Faction",
+  "aliases": [
+   "Alemmanians"
+  ],
+  "description": "Tribe that settled the Alps roughly matching Bavaria, forming Alemmania.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0350"
+  ]
+ },
+ {
+  "name": "Burgundians",
+  "type": "Faction",
+  "description": "Tribe settled in what is now Savoy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0350"
+  ]
+ },
+ {
+  "name": "Schwytzers",
+  "type": "Faction",
+  "description": "People of Schwyz whose sudden appearance is linked to the Vanishing Away of Tarragon Vale.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0341"
+  ]
+ },
+ {
+  "name": "Domleschg druids",
+  "type": "Faction",
+  "description": "Community of 15 druids at Domleschg who resisted Díedne.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0282"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "description": "The Christian Church, whose declaration Andru seeks that Hermetic magic is enchantment.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0263",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0264"
+  ]
+ },
+ {
+  "name": "Larta Magi",
+  "type": "CharacterType",
+  "aliases": [
+   "Lartan",
+   "Lartan magus"
+  ],
+  "description": "Members of House Jerbiton unable to cast spells, virtuoso artists played as Mythic Companions.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0249",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0250"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "Character design framework from Hedge Magic used to build Larta magi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0249"
+  ]
+ },
+ {
+  "name": "Chef",
+  "type": "CharacterType",
+  "description": "Folk magician using Free Expression, Knack and Craft Lesser Charm to cook magical food.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251"
+  ]
+ },
+ {
+  "name": "Smith",
+  "type": "CharacterType",
+  "aliases": [
+   "Magical blacksmith"
+  ],
+  "description": "Magical blacksmith imbued with properties of iron, a village hedge magician using Natural Magic.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0254"
+  ]
+ },
+ {
+  "name": "Minstrel",
+  "type": "CharacterType",
+  "description": "Musician using almost-magical music to affect emotions.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Muse",
+  "type": "Virtue",
+  "description": "+1 Virtue: grants or enhances Free Expression in an artist while present.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0259",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0260"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [
+   "redcaps"
+  ],
+  "description": "Messenger of House Mercere; retired redcaps lodge at the Copper Rooster.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0306"
+  ]
+ },
+ {
+  "name": "Promoscundus",
+  "type": "CharacterType",
+  "description": "Title of the chef chosen as master of all chefs catering for the Grand Tribunal.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0252"
+  ]
+ },
+ {
+  "name": "Natural Magician",
+  "type": "CharacterType",
+  "aliases": [
+   "Natural Magicians"
+  ],
+  "description": "Practitioners of Natural Magic who collect objects of Virtue, disliked by Crafters.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "description": "Head of a Hermetic House.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0243"
+  ]
+ },
+ {
+  "name": "Greater Secundus",
+  "type": "CharacterType",
+  "description": "Second-ranking officer of House Jerbiton, who does not live in the Valley.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241"
+  ]
+ },
+ {
+  "name": "Lesser Secundus",
+  "type": "CharacterType",
+  "description": "House Jerbiton officer who must remain at Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241"
+  ]
+ },
+ {
+  "name": "Veil of Invisibility",
+  "type": "Spell",
+  "description": "Spell used as the model for Crucifixio's primary familiar power.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Panic of the Trembling Heart",
+  "type": "Spell",
+  "description": "Spell on which Crucifixio's secondary power is modelled, reversed to make people love cats.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Banner of Winter",
+  "type": "Item",
+  "description": "Artifact the Dachstein giants desire, letting them travel in the summer lands for extended periods.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0334"
+  ]
+ },
+ {
+  "name": "Ring of Saint Maurice",
+  "type": "Item",
+  "description": "Powerful relic held by the archbishop of Salzburg, said to make one undefeatable in battle.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0315",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0339"
+  ]
+ },
+ {
+  "name": "Holy Blood of Heiligenblut",
+  "type": "Item",
+  "description": "Vial of the blood of Jesus held in the church of Heiligenblut.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0291"
+  ]
+ },
+ {
+  "name": "Dragon's licking stone",
+  "type": "Item",
+  "description": "Rock in a dragon cave that ends hunger when licked; House Mercere would pay handsomely for it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0307"
+  ]
+ },
+ {
+  "name": "Emerald of Charlemagne",
+  "type": "Item",
+  "description": "A 28-pound 'emerald' of glass at Reichenau, among many spurious relics.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0302"
+  ]
+ },
+ {
+  "name": "Skull of the lindworm",
+  "type": "Item",
+  "description": "Skull of the lindworm kept by the people of Klagenfurt.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0337"
+  ]
+ },
+ {
+  "name": "Tatzelwurmli",
+  "type": "Creature",
+  "description": "Monstrous limbless land dragon in the Aare Gorge whose lair no covenant can harvest.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0271"
+  ]
+ },
+ {
+  "name": "Basilisk",
+  "type": "Creature",
+  "description": "Monster that hatches often in Basel; one hatched in Vienna in 1212.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0344",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0345"
+  ]
+ },
+ {
+  "name": "Barbegazi",
+  "type": "Creature",
+  "aliases": [
+   "gnomes of Pilatus"
+  ],
+  "description": "Small blue male gnomes of Pilatus with huge ski-like feet and weather powers (Faerie Might 20).",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0298",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0299"
+  ]
+ },
+ {
+  "name": "Folly Spirit",
+  "type": "Creature",
+  "aliases": [
+   "Folly Spirits"
+  ],
+  "description": "Alpine spirits inhabiting buildings that drive castle-building to lay eggs, perhaps eating ghosts.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0285",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0286"
+  ]
+ },
+ {
+  "name": "Blizzard demons",
+  "type": "Creature",
+  "description": "Alpine demons that cause blizzards, break travelers' faith and slay them.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0309",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0310"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [
+   "dragons"
+  ],
+  "description": "Creatures common in Alpine lore; in Vorarlberg linked to tempests and avalanches.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0306",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0319",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0322"
+  ]
+ },
+ {
+  "name": "Dragonet",
+  "type": "Creature",
+  "description": "Small, quick fire-breathing dragon with corrosive blood.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0307",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0308"
+  ]
+ },
+ {
+  "name": "Venedigers",
+  "type": "Creature",
+  "description": "'Men from Venice', a type of faerie in Vorarlberg.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0319"
+  ]
+ },
+ {
+  "name": "Fanes",
+  "type": "Creature",
+  "description": "Faeries who ruled a kingdom in the Ticino valley and await vengeance.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0317"
+  ]
+ },
+ {
+  "name": "Giants of Dachstein",
+  "type": "Creature",
+  "aliases": [
+   "Giants"
+  ],
+  "description": "Giants in a regio behind the Dachstein ice caves, aligned to Magic, allies of Journeys End.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0334",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0303"
+  ]
+ },
+ {
+  "name": "Salvani",
+  "type": "Creature",
+  "description": "Tribe of gnomes who wove moonlight into the Dolomites, turning them white.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0331",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0332"
+  ]
+ },
+ {
+  "name": "Lucent Faeries",
+  "type": "Creature",
+  "description": "Moon faeries of great interest to Alpine magi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0333"
+  ]
+ },
+ {
+  "name": "Lucifugus",
+  "type": "Creature",
+  "description": "Creature suspected of lairing in the Werfen ice caves.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0347"
+  ]
+ },
+ {
+  "name": "Ice wyrm",
+  "type": "Creature",
+  "description": "Monster that hibernates between feeds, another suspect for Werfen.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0347"
+  ]
+ },
+ {
+  "name": "Lindworm",
+  "type": "Creature",
+  "description": "Dragon near Klagenfurt with a taste for virgins, slain by Herakles.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0337"
+  ]
+ },
+ {
+  "name": "Leviathan",
+  "type": "Creature",
+  "description": "Gigantic dragon slain by Saint Sylvester, said to stretch beneath the Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0356",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0357"
+  ]
+ },
+ {
+  "name": "Nymphs",
+  "type": "Creature",
+  "aliases": [
+   "nymphae"
+  ],
+  "description": "Water nymphs, once Danu's handmaidens, dwelling in jeweled grotto regiones.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326"
+  ]
+ },
+ {
+  "name": "Tuatha de Danu",
+  "type": "Creature",
+  "description": "Danu's children, forced to become reclusive beneath the earth.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [
+   "faeries",
+   "fae"
+  ],
+  "description": "Creatures Jerbiton considers soulless parasites that steal human creativity.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0266",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0267"
+  ]
+ },
+ {
+  "name": "Succubus",
+  "type": "Creature",
+  "description": "Demon posing as a faerie partner.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0267"
+  ]
+ },
+ {
+  "name": "Griffin",
+  "type": "Creature",
+  "aliases": [
+   "griffins"
+  ],
+  "description": "Magical beast Grazia hopes to tame.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0245"
+  ]
+ },
+ {
+  "name": "Molosser",
+  "type": "Creature",
+  "description": "Large Roman dogs forming the basis of the St. Bernard breed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0306"
+  ]
+ },
+ {
+  "name": "St. Bernard dog",
+  "type": "Creature",
+  "description": "Dog breed in its infancy in 1220.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0306"
+  ]
+ },
+ {
+  "name": "Talking bears of Berne",
+  "type": "Creature",
+  "description": "Bears of Berne folklore led by a talking bear who saved a prince.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0277"
+  ]
+ },
+ {
+  "name": "Queen of the Herd",
+  "type": "Creature",
+  "description": "Champion cow of Martigny's festival, possibly once host of a protective faerie spirit.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0295"
+  ]
+ },
+ {
+  "name": "Summer Faeries",
+  "type": "Creature",
+  "description": "Faeries of the Arcadian summer lands who harried the Dachstein giants.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0334"
+  ]
+ },
+ {
+  "name": "Ghosts of Botzberg",
+  "type": "Creature",
+  "description": "Spirits of the AD 69 battle that recreate the fight with Hermetic magi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0280"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "devil",
+   "demons"
+  ],
+  "description": "Infernal beings; many faeries magi meet are disguised demons; devils build bridges.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0266",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0310",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0357"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0259"
+  ]
+ },
+ {
+  "name": "Knack",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Craft Lesser Charm",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Craft Greater Charm",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Busybody",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251"
+  ]
+ },
+ {
+  "name": "Venus's Blessing",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Gossip",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Patron",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Protection",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Heal",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Curse",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Exceptional Strength",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Weather Sense",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Long-winded",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Superior Armaments",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0254"
+  ]
+ },
+ {
+  "name": "Magic Item",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Carefree",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Mimicry",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Troupe Upbringing",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Well-travelled",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Enchanting Music",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Exceptional Communication",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Light Touch",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Larta chefs, smiths, minstrels or muses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0260"
+  ]
+ },
+ {
+  "name": "Gently Gifted",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with Sourdine.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0243"
+  ]
+ },
+ {
+  "name": "Silent Casting",
+  "type": "Virtue",
+  "aliases": [
+   "Silent Caster"
+  ],
+  "description": "Virtue named in the text, associated with Sourdine.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0243"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Virtue",
+  "description": "Virtue named in the text, associated with inheriting the Reichenau faerie wager.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0302"
+  ]
+ },
+ {
+  "name": "Reckless",
+  "type": "Flaw",
+  "description": "Flaw common among minstrels.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Lost Love",
+  "type": "Flaw",
+  "description": "Flaw linking an artist to a muse so the muse's physical presence is not required.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0260"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Legend Lore",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Occult Lore",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [
+   "Hermes Lore"
+  ],
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Scribe Latin",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Sing",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Speak Latin",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Speak Greek",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Brawling",
+  "type": "Ability",
+  "description": "Ability listed in the text (covers wrestling).",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0272"
+  ]
+ },
+ {
+  "name": "Play",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Blacksmithing",
+  "type": "Ability",
+  "description": "Ability listed in the text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Form of mind; Sourdine adjusts victims with Mentem spells and Crucifixio holds Mentem vis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0243"
+  ]
+ },
+ {
+  "name": "Animál",
+  "type": "Art",
+  "description": "Form of animals; Grazia's speciality.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0245"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Technique; Rego vis is claimed from the Domleschg oak grove.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0282"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Form of fire; fern seeds are believed to hold Ignem vis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0285"
+  ]
+ },
+ {
+  "name": "Imáginem",
+  "type": "Art",
+  "description": "Form of images; Staubbach Fall and the Werfen caves yield Imáginem vis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0342",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Form of air; barbegazi have Control Auram powers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0299"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Form of earth; barbegazi have Control Terram powers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0299"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "The Divine aura which Andru believes is mediated through the gift made to Adam; it suppresses magical auras.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0263",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0324"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Realm of faeries, including Arcadia and the River of Danu.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0296",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Realm of Magic"
+  ],
+  "description": "Realm of Magic, to which giants are aligned and Mount Pilatus may link.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0296",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0334"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of demons; sorcery is considered infernal in origin.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0263",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0309"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "Bonded magical animal companion; Valnastium magi often keep black cats as familiars.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0245"
+  ]
+ },
+ {
+  "name": "Cords",
+  "type": "Concept",
+  "description": "Gold, Silver and Bronze cords measuring a familiar's bond.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Bond Qualities",
+  "type": "Concept",
+  "description": "Powers granted by a familiar bond, e.g. Mental Communication.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "pawn"
+  ],
+  "description": "Raw magical power in pawns, harvested from sites and creatures.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0240",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0342",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Magical talent; Andru hopes to show it is a charism given by God.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0245",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0264"
+  ]
+ },
+ {
+  "name": "Charism",
+  "type": "Concept",
+  "description": "Gift given by God and stamped on the soul; Andru argues the Gift is one.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0264"
+  ]
+ },
+ {
+  "name": "Midsummer Fair",
+  "type": "Concept",
+  "aliases": [
+   "the Fair"
+  ],
+  "description": "Annual fair hosted by the Icy North where magi trade lab texts, animals and goods.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0257"
+  ]
+ },
+ {
+  "name": "Redcap network",
+  "type": "Concept",
+  "description": "House Mercere's Hermetic postal and trade network.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0245",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275"
+  ]
+ },
+ {
+  "name": "Necessary Condition",
+  "type": "Concept",
+  "description": "Magical requirement such as playing music for some Jerbiton magi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242"
+  ]
+ },
+ {
+  "name": "Casting foci",
+  "type": "Concept",
+  "description": "Items used by Verditius-trained magi in casting.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242"
+  ]
+ },
+ {
+  "name": "Natural Magic",
+  "type": "Concept",
+  "description": "Magic considered permissible enchantment, used by smiths and chefs, ignoring the Dominion.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0263"
+  ]
+ },
+ {
+  "name": "Hermetic phonotactics",
+  "type": "Concept",
+  "description": "Study of the voice as a tool to cast magic, Bronwyn's field.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0248"
+  ]
+ },
+ {
+  "name": "Metered spell",
+  "type": "Concept",
+  "aliases": [
+   "metered spells"
+  ],
+  "description": "Spell whose verbal component is poetry, easier to learn and cast.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0248"
+  ]
+ },
+ {
+  "name": "Jerbiton Gauntlet",
+  "type": "Concept",
+  "description": "Gauntlet of House Jerbiton, which Carmine has passed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0259"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural aura strength of a place; Valnastium's is unusually low.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0335",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346"
+  ]
+ },
+ {
+  "name": "Turb",
+  "type": "Concept",
+  "aliases": [
+   "contubernium",
+   "tent group"
+  ],
+  "description": "Hermetic collective noun for a group of grogs, from contubernium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0262"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "Concept",
+  "aliases": [
+   "shield-grog"
+  ],
+  "description": "Covenant soldier; Valnastium grogs work in tent groups of eight.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "Concept",
+  "description": "Mundane residents of a covenant.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261"
+  ]
+ },
+ {
+  "name": "Charm Offensive",
+  "type": "Concept",
+  "description": "Andru's campaign to have the Church declare Hermetic magic enchantment rather than sorcery.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0263",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0255"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Hidden supernatural area; Mount Pilatus, Rosegarten and the Dolomites involve regiones.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0296",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0311",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0333"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Tribunal rulings, e.g. pardoning Andru's war against a faerie king.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0317",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "Law of the Order which constrains Mercere interference.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0325"
+  ]
+ },
+ {
+  "name": "Marched",
+  "type": "Concept",
+  "description": "Hermetic punishment inflicted on a Tremere who tried to steal the holy blood.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0291"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Hermetic war that destroyed settlements in Savoy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316"
+  ]
+ },
+ {
+  "name": "Chapter house",
+  "type": "Concept",
+  "description": "Small Hermetic outpost used to gather vis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0300",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "description": "Supernatural might score of faeries.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0299"
+  ]
+ },
+ {
+  "name": "Atavism",
+  "type": "Concept",
+  "description": "One of the oldest forms of magic, by which Mittenwald's master carver role transfers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0327"
+  ]
+ },
+ {
+  "name": "Taking the Cure",
+  "type": "Concept",
+  "description": "Rules for spa treatment relieving minor physical afflictions for three years.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0277",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0278"
+  ]
+ },
+ {
+  "name": "Alpine wrestling",
+  "type": "Concept",
+  "description": "Strength-based wrestling style of the Alps, covered by Brawling.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0272",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0276"
+  ]
+ },
+ {
+  "name": "Vanishing Away",
+  "type": "Concept",
+  "description": "Disappearance of Tarragon Vale's magi, linked to the appearance of the Schwytzers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0341"
+  ]
+ },
+ {
+  "name": "Faustrecht",
+  "type": "Concept",
+  "description": "'Club law' in Rhaetia where rights go to the strongest.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0301"
+  ]
+ },
+ {
+  "name": "Removes",
+  "type": "Concept",
+  "description": "Three-course formal dining pattern of Valnastium banquets.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0256",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0257"
+  ]
+ },
+ {
+  "name": "Mulsum",
+  "type": "Concept",
+  "description": "Honeyed wine served with the first remove.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0256",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0257"
+  ]
+ },
+ {
+  "name": "Public vis source",
+  "type": "Concept",
+  "description": "Vis source whose harvest rights are traded, like Staubbach Fall.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0342"
+  ]
+ },
+ {
+  "name": "Lab texts",
+  "type": "Concept",
+  "description": "Laboratory texts traded at the Fair.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0241"
+  ]
+ },
+ {
+  "name": "Village of the Vale",
+  "type": "Place",
+  "description": "Village at Valnastium where François's smithy is.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0253"
+  ]
+ },
+ {
+  "name": "Library of Valnastium",
+  "type": "Place",
+  "description": "Temple of the Muses moved from Greece; one of the Order's finest mundane libraries that invented the shelf.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0245",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0246",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0247"
+  ]
+ },
+ {
+  "name": "Gardens of Valnastium",
+  "type": "Place",
+  "description": "Gardens laid out by Jerbiton with snails, dormice, bees, magical plants and funerary monuments.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0264",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0265"
+  ]
+ },
+ {
+  "name": "Church of Saint Cyprian",
+  "type": "Place",
+  "description": "Main church of Valnastium's valley, raised with Hermetic magic.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0261"
+  ]
+ },
+ {
+  "name": "Engadine valley",
+  "type": "Place",
+  "description": "Valley from which Josephine hails.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0251"
+  ]
+ },
+ {
+  "name": "Val Gardena",
+  "type": "Place",
+  "description": "Valley in the Dolomites where the Rosegarten can be seen at dusk.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0243",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0312"
+  ]
+ },
+ {
+  "name": "Tunis",
+  "type": "Place",
+  "description": "Place near which the last Hermetic covenant in North Africa was founded.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0244"
+  ]
+ },
+ {
+  "name": "North Africa",
+  "type": "Place",
+  "description": "Islamic territories House Jerbiton is pushing into.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0244"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "description": "Location of Jerbiton 'Roman' covenants.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0244",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0258"
+  ]
+ },
+ {
+  "name": "Provence",
+  "type": "Place",
+  "description": "Region of Belaquin and a medieval kingdom.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0242",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0350"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "See of the senior eastern bishop, recently sacked by crusaders.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0264"
+  ]
+ },
+ {
+  "name": "Jura Mountains",
+  "type": "Place",
+  "description": "Forested range northwest of the French Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0270",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0350"
+  ]
+ },
+ {
+  "name": "Oberland",
+  "type": "Place",
+  "description": "Hilly plateau, breadbasket of the western Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0270",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Great Saint Bernard Pass",
+  "type": "Place",
+  "aliases": [
+   "Saint Bernard's Pass"
+  ],
+  "description": "Important pass with a hospice monastery.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0270",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0305",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0313"
+  ]
+ },
+ {
+  "name": "Little Saint Bernard Pass",
+  "type": "Place",
+  "description": "Important pass with a second Saint Bernard house.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0270",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0305"
+  ]
+ },
+ {
+  "name": "Saint Gotthard Pass",
+  "type": "Place",
+  "aliases": [
+   "Saint Gotthard"
+  ],
+  "description": "New pass opened around 1220, its bridge said to be built by the Devil.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0270",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0314"
+  ]
+ },
+ {
+  "name": "Devil's Bridge",
+  "type": "Place",
+  "description": "Bridge in Saint Gotthard's Pass, said to be built by the Devil.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0283",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0284",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0310"
+  ]
+ },
+ {
+  "name": "Saint Gallen",
+  "type": "Place",
+  "description": "Monastery town founded by Gallus, whose abbot controls surrounding territories.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0270",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0309"
+  ]
+ },
+ {
+  "name": "Stiftsbibliothek",
+  "type": "Place",
+  "description": "Library of Saint Gallen.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0309"
+  ]
+ },
+ {
+  "name": "Aareschlucht",
+  "type": "Place",
+  "aliases": [
+   "Aare Gorge"
+  ],
+  "description": "Aare Gorge near Meiringen, lair of the Tatzelwurmli.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0271"
+  ]
+ },
+ {
+  "name": "Meiringen",
+  "type": "Place",
+  "description": "Village near the Aare Gorge.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0271"
+  ]
+ },
+ {
+  "name": "Appenzell",
+  "type": "Place",
+  "aliases": [
+   "Appenzellerland"
+  ],
+  "description": "Main village of Appenzellerland, known for wrestling.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0272"
+  ]
+ },
+ {
+  "name": "Baden",
+  "type": "Place",
+  "description": "Town with medicinal sulfur springs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0273"
+  ]
+ },
+ {
+  "name": "Vindonossa",
+  "type": "Place",
+  "description": "Ruined Roman fortress containing the castle of Hapsburg.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0274"
+  ]
+ },
+ {
+  "name": "Castle of Hapsburg",
+  "type": "Place",
+  "description": "Castle built by Bishop Werner of Straussburg.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0274"
+  ]
+ },
+ {
+  "name": "Basel",
+  "type": "Place",
+  "description": "Bishop-ruled merchant city on the Rhine.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275"
+  ]
+ },
+ {
+  "name": "Copper Rooster",
+  "type": "Place",
+  "description": "Mercere-owned inn in Basel used as a redcap message point.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275"
+  ]
+ },
+ {
+  "name": "Rhine",
+  "type": "Place",
+  "description": "Major river.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0274",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0275",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0319"
+  ]
+ },
+ {
+  "name": "Berne",
+  "type": "Place",
+  "description": "City founded 1191 by Berthold V, named for a bear.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0277"
+  ]
+ },
+ {
+  "name": "Constance",
+  "type": "Place",
+  "description": "Main city on Lake Constance, a wealthy bishopric.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0279",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0283"
+  ]
+ },
+ {
+  "name": "Lake Constance",
+  "type": "Place",
+  "description": "Lake regulating trade from Bavaria.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0279",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0320"
+  ]
+ },
+ {
+  "name": "Botzberg",
+  "type": "Place",
+  "aliases": [
+   "Mons Voctieus"
+  ],
+  "description": "Battle site of AD 69 where ghosts can be called up.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0280"
+  ]
+ },
+ {
+  "name": "Cirque d'Annibal",
+  "type": "Place",
+  "description": "Circle of ten monoliths where Hannibal held council; ill-omened.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0281"
+  ]
+ },
+ {
+  "name": "Domleschg",
+  "type": "Place",
+  "description": "Valley with 21 castles and a vis-bearing oak grove.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0282"
+  ]
+ },
+ {
+  "name": "Einsiedeln",
+  "type": "Place",
+  "description": "Benedictine abbey town, the tribunal's most important pilgrimage site.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0283",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0284"
+  ]
+ },
+ {
+  "name": "Zurich",
+  "type": "Place",
+  "aliases": [
+   "Turicum"
+  ],
+  "description": "Roman Turicum, imperial city.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0321",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0352"
+  ]
+ },
+ {
+  "name": "Fribourg",
+  "type": "Place",
+  "description": "Town founded in 1157 by Berthold IV.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0285"
+  ]
+ },
+ {
+  "name": "Geneva",
+  "type": "Place",
+  "description": "Bishop-ruled city.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0287"
+  ]
+ },
+ {
+  "name": "Pierres de Niton",
+  "type": "Place",
+  "description": "Two rocks in Lake Léman linked to Díedne sacrifices.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0288"
+  ]
+ },
+ {
+  "name": "Lake Léman",
+  "type": "Place",
+  "aliases": [
+   "Lac Léman"
+  ],
+  "description": "Lake near Geneva dug by Gargantua.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0288"
+  ]
+ },
+ {
+  "name": "Lausanne",
+  "type": "Place",
+  "description": "Fortified town near Geneva.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0289"
+  ]
+ },
+ {
+  "name": "Pfeffers",
+  "type": "Place",
+  "description": "Benedictine monastery with hot springs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0290"
+  ]
+ },
+ {
+  "name": "Heiligenblut",
+  "type": "Place",
+  "description": "Village holding a vial of Christ's blood.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0291"
+  ]
+ },
+ {
+  "name": "Interlaken",
+  "type": "Place",
+  "description": "Town between Lakes Thun and Brienz.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Unspunnen",
+  "type": "Place",
+  "description": "Castle overlooking Interlaken.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Mount Harder",
+  "type": "Place",
+  "description": "Mountain bearing the face of the Harder Man.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Lake Thun",
+  "type": "Place",
+  "description": "Lake with the castles of Thun and Oberhofen.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0293"
+  ]
+ },
+ {
+  "name": "Lake Brienz",
+  "type": "Place",
+  "description": "Lake near Interlaken.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0292"
+  ]
+ },
+ {
+  "name": "Oberhofen",
+  "type": "Place",
+  "description": "Hapsburg vassal castle on Lake Thun.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0293"
+  ]
+ },
+ {
+  "name": "Spietz",
+  "type": "Place",
+  "description": "Castle said to be founded by Attila.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0293"
+  ]
+ },
+ {
+  "name": "Lukerbad",
+  "type": "Place",
+  "description": "Hottest thermal pools in Europe, home of Sabina.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0294"
+  ]
+ },
+ {
+  "name": "Martigny",
+  "type": "Place",
+  "description": "Site of the Queen of the Herd festival.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0295"
+  ]
+ },
+ {
+  "name": "Mount Pilatus",
+  "type": "Place",
+  "description": "Center of Alpine myth with dragons, gnomes and Pilate's ghost.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0296",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0297"
+  ]
+ },
+ {
+  "name": "Lucerne",
+  "type": "Place",
+  "description": "Fishing village near Mount Pilatus rising with the Saint Gotthard Pass.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0297",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0298"
+  ]
+ },
+ {
+  "name": "Temple of Mercury",
+  "type": "Place",
+  "description": "Ruined temple near Mount Pilatus, former tribunal meeting place.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0300"
+  ]
+ },
+ {
+  "name": "Rhaetia",
+  "type": "Place",
+  "description": "Castle-strewn region centred on Chur.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0301",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0282"
+  ]
+ },
+ {
+  "name": "Chur",
+  "type": "Place",
+  "description": "Rhaetian capital, a Roman colony with a bishop.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0301",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0349"
+  ]
+ },
+ {
+  "name": "Reichenau",
+  "type": "Place",
+  "description": "Island abbey with spurious relics.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0302"
+  ]
+ },
+ {
+  "name": "The Righi",
+  "type": "Place",
+  "description": "Mountain once home to giants, owned by Journeys End.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0303"
+  ]
+ },
+ {
+  "name": "Schwyz",
+  "type": "Place",
+  "description": "Region near which Tarragon Vale lies.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0303",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0341"
+  ]
+ },
+ {
+  "name": "St Beatus' Cave",
+  "type": "Place",
+  "description": "Caves in the Jungfrau region once a saint's retreat.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0304"
+  ]
+ },
+ {
+  "name": "Hospice of Saint Bernard",
+  "type": "Place",
+  "description": "Benedictine hospice saving lost travelers, with Hermetic ties.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0305",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0306"
+  ]
+ },
+ {
+  "name": "Saint Pierre",
+  "type": "Place",
+  "description": "Village with Constantine's column.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0313"
+  ]
+ },
+ {
+  "name": "Saint Maurice",
+  "type": "Place",
+  "description": "Village named for the martyr.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0315"
+  ]
+ },
+ {
+  "name": "Savoy",
+  "type": "Place",
+  "description": "Region with many ruined Hermetic settlements.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316"
+  ]
+ },
+ {
+  "name": "Val Fanes",
+  "type": "Place",
+  "description": "Faerie valley in Ticino where Andru fought a faerie king.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0317"
+  ]
+ },
+ {
+  "name": "Vervay",
+  "type": "Place",
+  "description": "Center of the Abbaye des Vignerons.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0318"
+  ]
+ },
+ {
+  "name": "Vorarlberg",
+  "type": "Place",
+  "description": "Region with high faerie auras and dragons.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0319"
+  ]
+ },
+ {
+  "name": "Bregenz",
+  "type": "Place",
+  "description": "Regional capital of Vorarlberg.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0319"
+  ]
+ },
+ {
+  "name": "Winterthur",
+  "type": "Place",
+  "description": "Village near the Kyburgers' castle.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0320"
+  ]
+ },
+ {
+  "name": "Castle Kyburg",
+  "type": "Place",
+  "description": "Home castle of the Kyburgers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0320"
+  ]
+ },
+ {
+  "name": "Rosegarten",
+  "type": "Place",
+  "description": "Regio of dwarf king Laurens.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0311",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0312"
+  ]
+ },
+ {
+  "name": "Catinaccio",
+  "type": "Place",
+  "description": "Laurens's home.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0312"
+  ]
+ },
+ {
+  "name": "Bavaria",
+  "type": "Place",
+  "description": "Plateau region of the tribunal.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0322",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353"
+  ]
+ },
+ {
+  "name": "Brand",
+  "type": "Place",
+  "description": "Village where a scholar killed a dragon.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0322",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0323"
+  ]
+ },
+ {
+  "name": "Grave of the Dragon",
+  "type": "Place",
+  "description": "Rubble at Brand.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0323"
+  ]
+ },
+ {
+  "name": "Augsburg",
+  "type": "Place",
+  "description": "Mining city with secret catacombs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0324"
+  ]
+ },
+ {
+  "name": "Danube",
+  "type": "Place",
+  "description": "Major European river.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0325",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326"
+  ]
+ },
+ {
+  "name": "Mittenwald",
+  "type": "Place",
+  "description": "Home of the master carver.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0327"
+  ]
+ },
+ {
+  "name": "Munich",
+  "type": "Place",
+  "description": "Monastic town.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0328"
+  ]
+ },
+ {
+  "name": "Regensberg",
+  "type": "Place",
+  "description": "Seat of the duke of Bavaria with an unfinished cathedral.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0329",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0357"
+  ]
+ },
+ {
+  "name": "Eastern Marches",
+  "type": "Place",
+  "aliases": [
+   "East March",
+   "Ostarricchi"
+  ],
+  "description": "Eastern Alpine region.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0330",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0355"
+  ]
+ },
+ {
+  "name": "Brenner Pass",
+  "type": "Place",
+  "description": "Most significant eastern pass.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0329",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0330",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346"
+  ]
+ },
+ {
+  "name": "Vienna",
+  "type": "Place",
+  "description": "Ducal seat of Austria.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0344",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0345"
+  ]
+ },
+ {
+  "name": "Austria",
+  "type": "Place",
+  "description": "Oldest eastern duchy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0330",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0356"
+  ]
+ },
+ {
+  "name": "Burgenland",
+  "type": "Place",
+  "description": "Land of castles on the tribunal border.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0331"
+  ]
+ },
+ {
+  "name": "Eisenstadt",
+  "type": "Place",
+  "description": "Settlement marking the tribunal border.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0331"
+  ]
+ },
+ {
+  "name": "Dolomites",
+  "type": "Place",
+  "description": "Pale limestone mountains with a lunar faerie aura.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0331",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0335"
+  ]
+ },
+ {
+  "name": "Dachstein",
+  "type": "Place",
+  "description": "Ice caves leading to a regio of giants.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0334"
+  ]
+ },
+ {
+  "name": "Klagenfurt",
+  "type": "Place",
+  "description": "Carinthian town.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0337"
+  ]
+ },
+ {
+  "name": "Carinthia",
+  "type": "Place",
+  "description": "Duchy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0348",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0356"
+  ]
+ },
+ {
+  "name": "Melk",
+  "type": "Place",
+  "description": "Benedictine abbey with an excellent library.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0338"
+  ]
+ },
+ {
+  "name": "Habach Valley",
+  "type": "Place",
+  "description": "Lost emerald mine.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0338"
+  ]
+ },
+ {
+  "name": "Salzburg",
+  "type": "Place",
+  "description": "City of a powerful archbishop.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0339",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0355"
+  ]
+ },
+ {
+  "name": "St Wolfgang",
+  "type": "Place",
+  "description": "Pilgrimage church in the Abersee valley.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0340"
+  ]
+ },
+ {
+  "name": "Staubbach Fall",
+  "type": "Place",
+  "aliases": [
+   "Dust Fall"
+  ],
+  "description": "Waterfall near Lauterbrunnen yielding Imáginem vis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0342"
+  ]
+ },
+ {
+  "name": "Styria",
+  "type": "Place",
+  "description": "Border foothills.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0343"
+  ]
+ },
+ {
+  "name": "Werfen",
+  "type": "Place",
+  "description": "Ice caves with Imáginem vis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0346",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0347"
+  ]
+ },
+ {
+  "name": "Wörthsee",
+  "type": "Place",
+  "description": "Lake with drowned village.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0348"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "description": "Faerie realm.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0296",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0334"
+  ]
+ },
+ {
+  "name": "The River",
+  "type": "Place",
+  "description": "Faerie river ruled by Danu.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0326"
+  ]
+ },
+ {
+  "name": "Holy Roman Empire",
+  "type": "Place",
+  "description": "Empire containing the Alpine lands.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0351",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0310"
+  ]
+ },
+ {
+  "name": "Kingdom of Burgundy",
+  "type": "Place",
+  "aliases": [
+   "Transjuran Burgundy"
+  ],
+  "description": "Kingdom absorbed into the empire in 1033.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0316",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0351"
+  ]
+ },
+ {
+  "name": "Swabia",
+  "type": "Place",
+  "aliases": [
+   "Alemmania"
+  ],
+  "description": "Renamed Alemmanian duchy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0351",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0356"
+  ]
+ },
+ {
+  "name": "Noricum",
+  "type": "Place",
+  "description": "Celtic capital.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0355"
+  ]
+ },
+ {
+  "name": "Lechfeld",
+  "type": "Place",
+  "description": "Battle site in 955.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0353"
+  ]
+ },
+ {
+  "name": "Ticino",
+  "type": "Place",
+  "description": "Valley region.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0310",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0317"
+  ]
+ },
+ {
+  "name": "Jungfrau",
+  "type": "Place",
+  "description": "Region with St Beatus' caves.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0304"
+  ]
+ },
+ {
+  "name": "Lake Sonderdach",
+  "type": "Place",
+  "description": "Lake with a dragon.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0319"
+  ]
+ },
+ {
+  "name": "Vale Galina",
+  "type": "Place",
+  "description": "Vale with a dragon hoard.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0319"
+  ]
+ },
+ {
+  "name": "Thurgau",
+  "type": "Place",
+  "description": "Kirburger territory.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0352"
+  ]
+ },
+ {
+  "name": "Breisgau",
+  "type": "Place",
+  "description": "Zähringer center.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0352"
+  ]
+ }
+]

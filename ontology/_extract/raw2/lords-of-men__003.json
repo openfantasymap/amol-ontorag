@@ -1,0 +1,1608 @@
+[
+ {
+  "name": "Manor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The basic fief for game purposes: the land (around six hundred acres) traditionally required to maintain a knight, his family and household retainers, yielding about twenty pounds a year.",
+  "evidence": [
+   "lords-of-men::0364",
+   "lords-of-men::0366",
+   "lords-of-men::0363"
+  ]
+ },
+ {
+  "name": "Fief",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Land or another valuable right loaned by a lord to a vassal in exchange for military support, counsel and other benefits.",
+  "evidence": [
+   "lords-of-men::0361",
+   "lords-of-men::0364",
+   "lords-of-men::0453"
+  ]
+ },
+ {
+  "name": "Commendation Ceremony",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The ritual solemnizing the lord-vassal relationship, with oaths before mortal witnesses and God, typically including homage and an oath of fealty.",
+  "evidence": [
+   "lords-of-men::0361",
+   "lords-of-men::0362"
+  ]
+ },
+ {
+  "name": "Homage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Act in the commendation ceremony in which the kneeling vassal-to-be places his joined hands within the lord's hands and asks to become his vassal.",
+  "evidence": [
+   "lords-of-men::0361",
+   "lords-of-men::0362"
+  ]
+ },
+ {
+  "name": "Oath of Fealty",
+  "type": "Concept",
+  "aliases": [
+   "Fealty"
+  ],
+  "description": "Brief oath sworn by a new vassal on a Bible or relic promising the liege aid in war, good counsel and whatever else is customary.",
+  "evidence": [
+   "lords-of-men::0361",
+   "lords-of-men::0362"
+  ]
+ },
+ {
+  "name": "Knighthood",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ceremony creating a knight, often tied to vassalage since a knight usually joins the liege's household as a minor vassal.",
+  "evidence": [
+   "lords-of-men::0362",
+   "lords-of-men::0360"
+  ]
+ },
+ {
+  "name": "Scutage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A fine paid in lieu of knight service, costing up to three pounds per year.",
+  "evidence": [
+   "lords-of-men::0360"
+  ]
+ },
+ {
+  "name": "Mesnie",
+  "type": "Concept",
+  "aliases": [
+   "Mesnie Knights"
+  ],
+  "description": "A lord's household body of knights, costing about five pounds a year each to maintain.",
+  "evidence": [
+   "lords-of-men::0360"
+  ]
+ },
+ {
+  "name": "Subinfeudation",
+  "type": "Concept",
+  "aliases": [
+   "Subinfuedation"
+  ],
+  "description": "The process by which tenants-in-chief divide estates into smaller parcels to support warriors, forming a pyramid of power down to the individual knight.",
+  "evidence": [
+   "lords-of-men::0363"
+  ]
+ },
+ {
+  "name": "Tenants-in-Chief",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Powerful families holding land directly from the king of England in exchange for military service, forming England's upper nobility.",
+  "evidence": [
+   "lords-of-men::0363"
+  ]
+ },
+ {
+  "name": "Norman Invasion",
+  "type": "Concept",
+  "aliases": [
+   "Norman Conquest",
+   "the Conquest"
+  ],
+  "description": "The Norman Conquest of England in 1066, since which all English land has been owned by the king.",
+  "evidence": [
+   "lords-of-men::0363",
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom with the simplest feudal system, where all land is owned by the king; the peasantry model used in this book.",
+  "evidence": [
+   "lords-of-men::0363",
+   "lords-of-men::0431",
+   "lords-of-men::0454"
+  ]
+ },
+ {
+  "name": "Domesday Book",
+  "type": "Item",
+  "aliases": [],
+  "description": "Record that lists English manors, including one manor that had no inhabitants.",
+  "evidence": [
+   "lords-of-men::0364"
+  ]
+ },
+ {
+  "name": "Demesne",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Land reserved for the lord's own use, farmed on his behalf by villeins as part of their rent; usually the most fertile land of the manor.",
+  "evidence": [
+   "lords-of-men::0365",
+   "lords-of-men::0397",
+   "lords-of-men::0391"
+  ]
+ },
+ {
+  "name": "Acre",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Historical measure of land a person with an ox can plow in a day, treated as 4,840 square yards; relevant to Terram magic targeting.",
+  "evidence": [
+   "lords-of-men::0365",
+   "lords-of-men::0366"
+  ]
+ },
+ {
+  "name": "Hide",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Amount of land (120-144 acres) required to maintain a family of affluent free peasants, producing four pounds for a lord.",
+  "evidence": [
+   "lords-of-men::0367"
+  ]
+ },
+ {
+  "name": "Virgate",
+  "type": "Concept",
+  "aliases": [
+   "Yardland",
+   "Rood"
+  ],
+  "description": "Land a two-ox team could plow in a day, a quarter or sixth of a hide (24-32 acres), sufficient to support an unfree peasant family.",
+  "evidence": [
+   "lords-of-men::0367",
+   "lords-of-men::0368"
+  ]
+ },
+ {
+  "name": "Virgater",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Peasant who rents a virgate of land; worth about a pound a year to a lord.",
+  "evidence": [
+   "lords-of-men::0367",
+   "lords-of-men::0368",
+   "lords-of-men::0470"
+  ]
+ },
+ {
+  "name": "Bovate",
+  "type": "Concept",
+  "aliases": [
+   "Half-virgate"
+  ],
+  "description": "Land half the size of a virgate, used to supplement the income of families with other primary work.",
+  "evidence": [
+   "lords-of-men::0368"
+  ]
+ },
+ {
+  "name": "Bovater",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Peasant renting a bovate, often a miller, reeve, shepherd or manor servant.",
+  "evidence": [
+   "lords-of-men::0368",
+   "lords-of-men::0375",
+   "lords-of-men::0467"
+  ]
+ },
+ {
+  "name": "Cottar",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Peasant with ten acres or less, living by hired labor or a trade, such as a blacksmith; half of manorial peasant families.",
+  "evidence": [
+   "lords-of-men::0368",
+   "lords-of-men::0369",
+   "lords-of-men::0470"
+  ]
+ },
+ {
+  "name": "Village",
+  "type": "Place",
+  "aliases": [],
+  "description": "Settlement where villeins live, averaging around sixty families; becomes a town only through a charter granting legal rights.",
+  "evidence": [
+   "lords-of-men::0369",
+   "lords-of-men::0370"
+  ]
+ },
+ {
+  "name": "Town",
+  "type": "Place",
+  "aliases": [],
+  "description": "Settlement granted rights by an overlord in a charter, whose residents are free of villein service; an average town has perhaps three hundred people.",
+  "evidence": [
+   "lords-of-men::0369",
+   "lords-of-men::0370",
+   "lords-of-men::0458"
+  ]
+ },
+ {
+  "name": "City",
+  "type": "Place",
+  "aliases": [],
+  "description": "A settlement where a cathedral is.",
+  "evidence": [
+   "lords-of-men::0370"
+  ]
+ },
+ {
+  "name": "Large-field Farming",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Farming system using about half of Mythic Europe's agricultural land, suited only to heavy soils, found in central England and near large French and German cities.",
+  "evidence": [
+   "lords-of-men::0370",
+   "lords-of-men::0371",
+   "lords-of-men::0447"
+  ]
+ },
+ {
+  "name": "Farming (Renting)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Period English term for renting out land or manors, convenient for the Order of Hermes since paying for land use is not against the Code; falling from favor in 1220.",
+  "evidence": [
+   "lords-of-men::0371",
+   "lords-of-men::0372"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of magi, for whom renting land is convenient; its oldest covenants predate the manorial system and are thus allods.",
+  "evidence": [
+   "lords-of-men::0371",
+   "lords-of-men::0454",
+   "lords-of-men::0429"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Order's law, which does not forbid paying for land use.",
+  "evidence": [
+   "lords-of-men::0371",
+   "lords-of-men::0372"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The game setting, whose economy is essentially agricultural and whose manorial system is failing.",
+  "evidence": [
+   "lords-of-men::0365",
+   "lords-of-men::0391",
+   "lords-of-men::0367"
+  ]
+ },
+ {
+  "name": "Capital Messuage",
+  "type": "Concept",
+  "aliases": [
+   "Messuage"
+  ],
+  "description": "The lord's enclosed piece of land around his house, containing his hall, outbuildings and curtilage.",
+  "evidence": [
+   "lords-of-men::0375"
+  ]
+ },
+ {
+  "name": "Hall",
+  "type": "Concept",
+  "aliases": [
+   "Great Hall",
+   "Manorial Hall"
+  ],
+  "description": "The chief building of a manor and residence of the lord or his bailiff, typically a timber long house 60-75 feet long.",
+  "evidence": [
+   "lords-of-men::0376",
+   "lords-of-men::0379",
+   "lords-of-men::0380"
+  ]
+ },
+ {
+  "name": "Bailiff",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Appointed deputy who lives in the hall when the lord does not, keeps order in the manor court and cares for the famuli.",
+  "evidence": [
+   "lords-of-men::0376",
+   "lords-of-men::0422",
+   "lords-of-men::0468"
+  ]
+ },
+ {
+  "name": "Steward",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Lord's officer who convenes the manor court and sees to the lord's rights.",
+  "evidence": [
+   "lords-of-men::0376",
+   "lords-of-men::0422",
+   "lords-of-men::0474"
+  ]
+ },
+ {
+  "name": "Foundation Charm",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Charm placed in a hall's walls or foundations to protect the building, set by a hedge witch or via traditional sacrifice; may anchor a faerie guardian spirit.",
+  "evidence": [
+   "lords-of-men::0377"
+  ]
+ },
+ {
+  "name": "Witch Bottle",
+  "type": "Item",
+  "aliases": [],
+  "description": "Foundation charm that hexes minor magic users entering a building; can detect cursing power and the Gift and carries a PeCo effect up to level 40.",
+  "evidence": [
+   "lords-of-men::0377",
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Hedge Witch",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Minor magic user who can place foundation charms (see Hedge Magic).",
+  "evidence": [
+   "lords-of-men::0377"
+  ]
+ },
+ {
+  "name": "Hedge Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supplement whose rules can simulate witch bottles and hedge witches.",
+  "evidence": [
+   "lords-of-men::0377",
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "Magical potential that witch bottles can detect, letting magi identify young Gifted people as potential apprentices.",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Hermetic Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic of the Order of Hermes, which easily resists the weak hexes of witch bottles.",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique used in the witch bottle detection effects (InVi).",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form used in witch bottle detection effects (InVi) for the curse power and the Gift.",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of the witch bottle's harmful effect (PeCo).",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of the witch bottle's harmful body effect (PeCo).",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of magic affecting dirt; an acre to two feet deep is an Individual target with three size modifiers.",
+  "evidence": [
+   "lords-of-men::0366"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of a magical effect's ability to overcome resistance, listed for witch bottle effects.",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Castles in Lieu of Halls",
+  "type": "Concept",
+  "aliases": [],
+  "description": "On large estates a castle may replace the hall; castles are detailed in Covenants and summarized in Chapter Eight: Massed Combat.",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Covenants (supplement)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supplement describing castles in detail.",
+  "evidence": [
+   "lords-of-men::0378"
+  ]
+ },
+ {
+  "name": "Dovecote",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Small building housing several hundred doves or pigeons that tenants may not harm; attracts familiars and magical animals.",
+  "evidence": [
+   "lords-of-men::0381",
+   "lords-of-men::0389"
+  ]
+ },
+ {
+  "name": "Pinfold",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pen within a messuage for impounded stray animals, which become the lord's property.",
+  "evidence": [
+   "lords-of-men::0381",
+   "lords-of-men::0382"
+  ]
+ },
+ {
+  "name": "Curtilage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Unroofed land enclosed within the messuage's wall, used for orchards or holding court.",
+  "evidence": [
+   "lords-of-men::0375",
+   "lords-of-men::0384"
+  ]
+ },
+ {
+  "name": "Stackyard",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Robustly fenced area in the messuage where harvested grain is stacked before threshing.",
+  "evidence": [
+   "lords-of-men::0388",
+   "lords-of-men::0389"
+  ]
+ },
+ {
+  "name": "Steedles",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Small pillars raising granaries or grain stacks to prevent rodent infestation.",
+  "evidence": [
+   "lords-of-men::0386",
+   "lords-of-men::0388"
+  ]
+ },
+ {
+  "name": "Granary",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Building storing threshed grain and flour; a prime raider target.",
+  "evidence": [
+   "lords-of-men::0386"
+  ]
+ },
+ {
+  "name": "Scarecrow",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Straw manikin invented in a story seed after a plague; faeries are drawn to them and they can take on faerie roles, even forming armies.",
+  "evidence": [
+   "lords-of-men::0389",
+   "lords-of-men::0390"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "Faeries",
+   "Faerie realm"
+  ],
+  "description": "Faerie powers and creatures, drawn to scarecrows and folk practices, dwelling in the wasteland and playing with natural measures.",
+  "evidence": [
+   "lords-of-men::0389",
+   "lords-of-men::0405",
+   "lords-of-men::0428"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm whose servants take crow shape and whose minor demons flee intense masses.",
+  "evidence": [
+   "lords-of-men::0389",
+   "lords-of-men::0460"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine influence spread by clearing faerie wasteland and boosted by marathons of masses.",
+  "evidence": [
+   "lords-of-men::0405",
+   "lords-of-men::0459"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm protecting hallowed places such as churchyards.",
+  "evidence": [
+   "lords-of-men::0440"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aura that powerful magical creatures must stay within, which can be suppressed by intense masses.",
+  "evidence": [
+   "lords-of-men::0460"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical animals bonded to magi; dovecotes attract carnivorous familiars and potential familiars.",
+  "evidence": [
+   "lords-of-men::0389",
+   "lords-of-men::0411"
+  ]
+ },
+ {
+  "name": "Allod",
+  "type": "Concept",
+  "aliases": [
+   "Allodial land"
+  ],
+  "description": "Land held outright without feudal relationship; the oldest Hermetic covenants predate the manorial system and so are allods.",
+  "evidence": [
+   "lords-of-men::0391",
+   "lords-of-men::0454",
+   "lords-of-men::0455"
+  ]
+ },
+ {
+  "name": "Glebe",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Farmland reserved for the maintenance of the Church and its servants, tilled by or rented out by the priest.",
+  "evidence": [
+   "lords-of-men::0391",
+   "lords-of-men::0441",
+   "lords-of-men::0444"
+  ]
+ },
+ {
+  "name": "Arable",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The most precious land, used to grow grain and legumes.",
+  "evidence": [
+   "lords-of-men::0391",
+   "lords-of-men::0392"
+  ]
+ },
+ {
+  "name": "Meadow",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Land used for growing grass harvested as hay, which limits herd size over winter.",
+  "evidence": [
+   "lords-of-men::0391",
+   "lords-of-men::0393"
+  ]
+ },
+ {
+  "name": "Pasture",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Grazing land, primarily for sheep, often marginal land at the edge of the waste.",
+  "evidence": [
+   "lords-of-men::0391",
+   "lords-of-men::0394",
+   "lords-of-men::0405"
+  ]
+ },
+ {
+  "name": "Waste",
+  "type": "Concept",
+  "aliases": [
+   "Wasteland"
+  ],
+  "description": "Unplanted land, including woods and marshes; the domain of the faeries.",
+  "evidence": [
+   "lords-of-men::0391",
+   "lords-of-men::0405"
+  ]
+ },
+ {
+  "name": "Foldcourse",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A piece of land over which the right to graze sheep has been granted.",
+  "evidence": [
+   "lords-of-men::0394"
+  ]
+ },
+ {
+  "name": "Pannage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Right, paid for by villeins, to turn pigs loose in the woods.",
+  "evidence": [
+   "lords-of-men::0395"
+  ]
+ },
+ {
+  "name": "Famuli",
+  "type": "CharacterType",
+  "aliases": [
+   "Famulus"
+  ],
+  "description": "The lord's liveried household staff, lodged and fed by him, including laborers, shepherd, swineherd and dairymaid.",
+  "evidence": [
+   "lords-of-men::0397",
+   "lords-of-men::0467",
+   "lords-of-men::0468"
+  ]
+ },
+ {
+  "name": "Market Fair",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fair held on the lord's demesne where surplus is exchanged for manufactured goods, typically twice a year.",
+  "evidence": [
+   "lords-of-men::0399"
+  ]
+ },
+ {
+  "name": "City & Guild",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supplement covering towns, fairs, trade and businesses.",
+  "evidence": [
+   "lords-of-men::0369",
+   "lords-of-men::0399",
+   "lords-of-men::0436"
+  ]
+ },
+ {
+  "name": "Quern",
+  "type": "Item",
+  "aliases": [],
+  "description": "Hand mill for grinding grain, illegal in some places because lords demand use of their mill.",
+  "evidence": [
+   "lords-of-men::0400"
+  ]
+ },
+ {
+  "name": "Multure",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fee of a proportion of the grain milled, paid by millers renting mills.",
+  "evidence": [
+   "lords-of-men::0400",
+   "lords-of-men::0401"
+  ]
+ },
+ {
+  "name": "Commons",
+  "type": "Concept",
+  "aliases": [
+   "Village Green",
+   "Green"
+  ],
+  "description": "Village areas, typically pasture called the village green, set aside for villeins and regulated by the manor court.",
+  "evidence": [
+   "lords-of-men::0403",
+   "lords-of-men::0404"
+  ]
+ },
+ {
+  "name": "Tragedy of the Commons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Later idea popularized by the Enclosure Movement that commons are destroyed by overuse, which the book says does not apply because greens are regulated.",
+  "evidence": [
+   "lords-of-men::0403",
+   "lords-of-men::0404"
+  ]
+ },
+ {
+  "name": "Enclosure Movement",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Post-game-period English movement that popularized the tragedy-of-the-commons idea and gave greens to landed gentry.",
+  "evidence": [
+   "lords-of-men::0404"
+  ]
+ },
+ {
+  "name": "Turbary",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The right to cut peat.",
+  "evidence": [
+   "lords-of-men::0406"
+  ]
+ },
+ {
+  "name": "Forest",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Royal hunting land; in England much woodland is royal forest inspected by a forest warden.",
+  "evidence": [
+   "lords-of-men::0408",
+   "lords-of-men::0409"
+  ]
+ },
+ {
+  "name": "Forest Warden",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Royal officer inspecting the king's woodland and fining overgathering and illegal clearances.",
+  "evidence": [
+   "lords-of-men::0408",
+   "lords-of-men::0409"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of England who was excommunicated and later swore fealty to the pope; Devon and Cornwall paid him to be deforested.",
+  "evidence": [
+   "lords-of-men::0409",
+   "lords-of-men::0442"
+  ]
+ },
+ {
+  "name": "Devon",
+  "type": "Place",
+  "aliases": [],
+  "description": "English county whose people paid King John 2,200 marks and 20 palfreys to be deforested.",
+  "evidence": [
+   "lords-of-men::0409"
+  ]
+ },
+ {
+  "name": "Cornwall",
+  "type": "Place",
+  "aliases": [],
+  "description": "English county whose people paid King John 5,000 marks to be deforested.",
+  "evidence": [
+   "lords-of-men::0409"
+  ]
+ },
+ {
+  "name": "Parks and Lodges",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Portions of wasteland reserved by lords for pleasure and as game reserves.",
+  "evidence": [
+   "lords-of-men::0410"
+  ]
+ },
+ {
+  "name": "Right of Warren",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lord's right to trap and raise small game, extending to pests and even magical monsters and vis sources.",
+  "evidence": [
+   "lords-of-men::0411"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power; vis sources may belong to lords under warren, and a bishop may seek to tithe it.",
+  "evidence": [
+   "lords-of-men::0411",
+   "lords-of-men::0434"
+  ]
+ },
+ {
+  "name": "Mineral Rights",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rights to resources beneath the ground, held by the lord or king.",
+  "evidence": [
+   "lords-of-men::0412"
+  ]
+ },
+ {
+  "name": "Manor Court",
+  "type": "Concept",
+  "aliases": [
+   "Manorial Court"
+  ],
+  "description": "Court dealing with lesser matters like assault, minor thefts and disputes between villeins, convened by the steward.",
+  "evidence": [
+   "lords-of-men::0421",
+   "lords-of-men::0422",
+   "lords-of-men::0425"
+  ]
+ },
+ {
+  "name": "Manorial Rolls",
+  "type": "Item",
+  "aliases": [
+   "Court Roll"
+  ],
+  "description": "Long records of previous cases and debts kept by the court clerk.",
+  "evidence": [
+   "lords-of-men::0422",
+   "lords-of-men::0425"
+  ]
+ },
+ {
+  "name": "Heriot",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Death duty owed when a household head dies, often the peasant's best beast.",
+  "evidence": [
+   "lords-of-men::0415"
+  ]
+ },
+ {
+  "name": "Mortuary",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fine of the second-best beast collected at death to make good tithes assumed withheld, easing passage through Purgatory.",
+  "evidence": [
+   "lords-of-men::0415",
+   "lords-of-men::0416"
+  ]
+ },
+ {
+  "name": "Laity Objects",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Items given as gifts to the Church by dying people, such as the deathbed or best robe.",
+  "evidence": [
+   "lords-of-men::0415",
+   "lords-of-men::0416"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Place",
+  "aliases": [],
+  "description": "Afterlife state through which a peasant who paid mortuary has easier passage.",
+  "evidence": [
+   "lords-of-men::0416"
+  ]
+ },
+ {
+  "name": "Tallage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lord's right to levy any amount of money from his villeins at any time, proportional to their holdings.",
+  "evidence": [
+   "lords-of-men::0418",
+   "lords-of-men::0420"
+  ]
+ },
+ {
+  "name": "Gite",
+  "type": "Concept",
+  "aliases": [],
+  "description": "French tax consisting of a feast for the lord and retinue on his tour of inspection; sometimes sold to others.",
+  "evidence": [
+   "lords-of-men::0418",
+   "lords-of-men::0419",
+   "lords-of-men::0420"
+  ]
+ },
+ {
+  "name": "Royal Courts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Courts dealing with the king's rights and crimes punishable by death, such as murder and arson.",
+  "evidence": [
+   "lords-of-men::0421"
+  ]
+ },
+ {
+  "name": "Church Courts",
+  "type": "Concept",
+  "aliases": [
+   "Ecclesiastical Court"
+  ],
+  "description": "Courts dealing with priests and crimes against God or the Church.",
+  "evidence": [
+   "lords-of-men::0421",
+   "lords-of-men::0436"
+  ]
+ },
+ {
+  "name": "Jury of Inquisition",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Group appointed by the court to investigate a matter and report at the next session.",
+  "evidence": [
+   "lords-of-men::0423",
+   "lords-of-men::0424"
+  ]
+ },
+ {
+  "name": "Beadle",
+  "type": "CharacterType",
+  "aliases": [
+   "Messor"
+  ],
+  "description": "Villein officer, also called messor, acting as the reeve's enforcer, summoning people to court and collecting fines.",
+  "evidence": [
+   "lords-of-men::0422",
+   "lords-of-men::0476"
+  ]
+ },
+ {
+  "name": "Natural Measures",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measures based on the body or nature, such as salmon 'as thick as a man's wrist', which generally favor the lord.",
+  "evidence": [
+   "lords-of-men::0426",
+   "lords-of-men::0428"
+  ]
+ },
+ {
+  "name": "Tiny Eggs",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed in which a faerie makes every egg on a manor thimble-sized, disrupting dues and prompting witchcraft accusations.",
+  "evidence": [
+   "lords-of-men::0428"
+  ]
+ },
+ {
+  "name": "Weight in Gold",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed where an abbot promised a mercenary captain his weight in gold and seeks magi to feed him magically created food.",
+  "evidence": [
+   "lords-of-men::0428",
+   "lords-of-men::0429"
+  ]
+ },
+ {
+  "name": "Daniel",
+  "type": "Character",
+  "aliases": [],
+  "description": "Biblical figure who fixed a weigh-in with the help of God, whose miracle the abbot hopes to repeat.",
+  "evidence": [
+   "lords-of-men::0429"
+  ]
+ },
+ {
+  "name": "Warped Consors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed about highly Warped covenfolk from a fallen Autumn covenant causing strife with nobility and church.",
+  "evidence": [
+   "lords-of-men::0429",
+   "lords-of-men::0430"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warped"
+  ],
+  "description": "Magical distortion leaving covenfolk highly Warped, such as a man with a hand five times normal size.",
+  "evidence": [
+   "lords-of-men::0429",
+   "lords-of-men::0430"
+  ]
+ },
+ {
+  "name": "Autumn Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A covenant in its declining season; one in a neighboring Tribunal has fallen in a story seed.",
+  "evidence": [
+   "lords-of-men::0429"
+  ]
+ },
+ {
+  "name": "Spring Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A young covenant, the setting for the Swift Assarting story seed.",
+  "evidence": [
+   "lords-of-men::0444"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic regional body and court; the king of England may demand payment for fines levied at Tribunal.",
+  "evidence": [
+   "lords-of-men::0429",
+   "lords-of-men::0431",
+   "lords-of-men::0432"
+  ]
+ },
+ {
+  "name": "Seizure",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The automatic passing of a felon's goods to his lord.",
+  "evidence": [
+   "lords-of-men::0431"
+  ]
+ },
+ {
+  "name": "Fines for the King",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed where the king of England claims reparation when magi in England are fined by Tribunals.",
+  "evidence": [
+   "lords-of-men::0431",
+   "lords-of-men::0432"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House whose domus magna floats off the coast of Normandy, suspected of arranging the king's intervention.",
+  "evidence": [
+   "lords-of-men::0432"
+  ]
+ },
+ {
+  "name": "Domus Magna of House Tytalus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Tytalus headquarters that floats smugly off the coast of Normandy and causes strife in neighboring Tribunals.",
+  "evidence": [
+   "lords-of-men::0432"
+  ]
+ },
+ {
+  "name": "Normandy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where, like England, farmland must be held from the king.",
+  "evidence": [
+   "lords-of-men::0432",
+   "lords-of-men::0454",
+   "lords-of-men::0455"
+  ]
+ },
+ {
+  "name": "Merchet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fine paid to a lord for permission for serfs to marry, widely loathed by peasants.",
+  "evidence": [
+   "lords-of-men::0433",
+   "lords-of-men::0434"
+  ]
+ },
+ {
+  "name": "Leywrite",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Theoretical adultery tax charged on a woman who made herself unmarriageable by losing her virginity.",
+  "evidence": [
+   "lords-of-men::0434",
+   "lords-of-men::0435"
+  ]
+ },
+ {
+  "name": "Childwrite",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tax on unmarried pregnancy, often absorbed into leywrite.",
+  "evidence": [
+   "lords-of-men::0434",
+   "lords-of-men::0435"
+  ]
+ },
+ {
+  "name": "Tithe of Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed in which a bishop's representative inspects a covenant to tithe its vis, books and magic items.",
+  "evidence": [
+   "lords-of-men::0434"
+  ]
+ },
+ {
+  "name": "Fines for Being Fined",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rule that a peasant fined outside the manor court owes his lord equivalent compensation since the money was the lord's.",
+  "evidence": [
+   "lords-of-men::0436",
+   "lords-of-men::0437"
+  ]
+ },
+ {
+  "name": "Curate",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Local priest appointed by the bishop to care for souls in a parish; temporary curates serve perpetual curates.",
+  "evidence": [
+   "lords-of-men::0438",
+   "lords-of-men::0439",
+   "lords-of-men::0444"
+  ]
+ },
+ {
+  "name": "Rector",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Whoever has the right to collect a parish's tithes.",
+  "evidence": [
+   "lords-of-men::0439",
+   "lords-of-men::0442",
+   "lords-of-men::0444"
+  ]
+ },
+ {
+  "name": "Churchyard",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hallowed place protected by the Divine where villagers gather, drink, dance and hold informal markets.",
+  "evidence": [
+   "lords-of-men::0440"
+  ]
+ },
+ {
+  "name": "Hearth Mate",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A curate's domestic woman-of-all-work, effectively often a wife.",
+  "evidence": [
+   "lords-of-men::0441"
+  ]
+ },
+ {
+  "name": "Brotherhood of the Black Mask",
+  "type": "Faction",
+  "aliases": [
+   "the Brotherhood"
+  ],
+  "description": "League of annoyed minor English nobles that robs and beats Italian priests given livings; a social movement without a leader.",
+  "evidence": [
+   "lords-of-men::0442",
+   "lords-of-men::0443"
+  ]
+ },
+ {
+  "name": "Swift Assarting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed about brigands claiming to be former assarting workers of a covenant that actually assarted magically.",
+  "evidence": [
+   "lords-of-men::0443",
+   "lords-of-men::0444"
+  ]
+ },
+ {
+  "name": "Assarting",
+  "type": "Concept",
+  "aliases": [
+   "Assart"
+  ],
+  "description": "Carving new cropland or meadow from fertile wasteland; can be done magically, alarming nearby lords.",
+  "evidence": [
+   "lords-of-men::0447",
+   "lords-of-men::0448",
+   "lords-of-men::0443"
+  ]
+ },
+ {
+  "name": "Conquest",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Taking land by force, rare among lower nobility except in anarchy or civil war.",
+  "evidence": [
+   "lords-of-men::0449"
+  ]
+ },
+ {
+  "name": "Alms Land",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Land given to the Church in perpetuity, still held from a major noble who keeps rights like knight service.",
+  "evidence": [
+   "lords-of-men::0456"
+  ]
+ },
+ {
+  "name": "Charities",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lands given to the Church in exchange for services such as masses for the donor; increasingly offered to nunneries.",
+  "evidence": [
+   "lords-of-men::0457",
+   "lords-of-men::0459"
+  ]
+ },
+ {
+  "name": "Royal Charter",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Charter by which a town holds directly from the king, placing it beyond the agricultural aristocracy.",
+  "evidence": [
+   "lords-of-men::0458"
+  ]
+ },
+ {
+  "name": "Catching Up On Masses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed where priests perform a marathon of backlogged masses, boosting the Dominion and disturbing faeries and demons.",
+  "evidence": [
+   "lords-of-men::0458",
+   "lords-of-men::0459",
+   "lords-of-men::0460"
+  ]
+ },
+ {
+  "name": "Benedictine Monks",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Monks following the Benedictine model whose wilderness monasteries created allodial Church land.",
+  "evidence": [
+   "lords-of-men::0455"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Church"
+  ],
+  "description": "The greatest landholder in Mythic Europe, portrayed as oppressive by modern standards and supportive of serfdom.",
+  "evidence": [
+   "lords-of-men::0455",
+   "lords-of-men::0462",
+   "lords-of-men::0477"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House with a weaker focus on combat.",
+  "evidence": [
+   "lords-of-men::0462"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House with a weaker focus on combat.",
+  "evidence": [
+   "lords-of-men::0462"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House with a weaker focus on combat.",
+  "evidence": [
+   "lords-of-men::0462"
+  ]
+ },
+ {
+  "name": "Manticore",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Mechanical manticores ridden by undead knights, cited as a fantastic covenant option.",
+  "evidence": [
+   "lords-of-men::0460",
+   "lords-of-men::0461"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant servant-soldier characters whose backgrounds can draw on peasant material.",
+  "evidence": [
+   "lords-of-men::0461"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-magus player characters whose backgrounds can draw on peasant material.",
+  "evidence": [
+   "lords-of-men::0461"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "Magi"
+  ],
+  "description": "Hermetic wizard; magi prefer static laboratories and may identify Gifted apprentices.",
+  "evidence": [
+   "lords-of-men::0376",
+   "lords-of-men::0378",
+   "lords-of-men::0462"
+  ]
+ },
+ {
+  "name": "Serf",
+  "type": "CharacterType",
+  "aliases": [
+   "Villein"
+  ],
+  "description": "Unfree agricultural worker whose labor is owned by his lord in exchange for land; owes rent, week works and boon works.",
+  "evidence": [
+   "lords-of-men::0469",
+   "lords-of-men::0470",
+   "lords-of-men::0413"
+  ]
+ },
+ {
+  "name": "Week Works",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Serf labor obligation expressed as days per week, each measured from sunrise to noon.",
+  "evidence": [
+   "lords-of-men::0469",
+   "lords-of-men::0470"
+  ]
+ },
+ {
+  "name": "Boon Works",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Added days of labor theoretically performed out of love for the lord, who feeds laborers.",
+  "evidence": [
+   "lords-of-men::0469",
+   "lords-of-men::0470"
+  ]
+ },
+ {
+  "name": "Censum",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Annual fee excusing a peasant from week work for a year, sometimes used as a punishment.",
+  "evidence": [
+   "lords-of-men::0469",
+   "lords-of-men::0470"
+  ]
+ },
+ {
+  "name": "Ministeriales",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Villein knights in German duchies who pay for their keep with military service.",
+  "evidence": [
+   "lords-of-men::0471"
+  ]
+ },
+ {
+  "name": "Reeve",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Villein officer overseeing daily work, usually appointed on Michaelmas; lucrative but unpopular and prone to corruption.",
+  "evidence": [
+   "lords-of-men::0472",
+   "lords-of-men::0473",
+   "lords-of-men::0474"
+  ]
+ },
+ {
+  "name": "Michaelmas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Feast on 29 September, just after harvest, when reeves are usually appointed.",
+  "evidence": [
+   "lords-of-men::0472"
+  ]
+ },
+ {
+  "name": "Hayward",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Villein officer overseeing harvest laborers, guarding the crop and the pasture.",
+  "evidence": [
+   "lords-of-men::0403",
+   "lords-of-men::0476"
+  ]
+ },
+ {
+  "name": "Woodward",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Lesser office caring for the lord's plantations.",
+  "evidence": [
+   "lords-of-men::0476"
+  ]
+ },
+ {
+  "name": "Forester",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Lesser office caring for the lord's hunting wood.",
+  "evidence": [
+   "lords-of-men::0476"
+  ]
+ },
+ {
+  "name": "Ale-taster",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Officer, often a woman, ensuring ale brewed on the manor is fit for sale.",
+  "evidence": [
+   "lords-of-men::0477"
+  ]
+ },
+ {
+  "name": "East Anglia",
+  "type": "Place",
+  "aliases": [
+   "Anglia"
+  ],
+  "description": "Region where peasants maintain dykes and lords of marshy manors run large sheep flocks.",
+  "evidence": [
+   "lords-of-men::0476",
+   "lords-of-men::0394"
+  ]
+ },
+ {
+  "name": "The Wandering Poor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed about strangers who may be saints, God, demons or faeries in disguise.",
+  "evidence": [
+   "lords-of-men::0473",
+   "lords-of-men::0474"
+  ]
+ },
+ {
+  "name": "Famuli Matters",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seeds giving a below-stairs view of servants, such as cleaning up after crises.",
+  "evidence": [
+   "lords-of-men::0475",
+   "lords-of-men::0476"
+  ]
+ },
+ {
+  "name": "Half-free Peasant",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Free person who rents villein land and so owes villein service.",
+  "evidence": [
+   "lords-of-men::0478"
+  ]
+ },
+ {
+  "name": "Free Peasant",
+  "type": "CharacterType",
+  "aliases": [
+   "Free Man"
+  ],
+  "description": "Agricultural worker who owes no service to the lord for land, under ten percent of most manors' population.",
+  "evidence": [
+   "lords-of-men::0479",
+   "lords-of-men::0367"
+  ]
+ },
+ {
+  "name": "Church-scot",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Small fee many free peasants owe the Church each November.",
+  "evidence": [
+   "lords-of-men::0479"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal beings that walk the roads bringing temptation and leave their haunts during marathons of masses.",
+  "evidence": [
+   "lords-of-men::0460",
+   "lords-of-men::0474"
+  ]
+ },
+ {
+  "name": "Joining the Navy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed where a nobleman demands ship carriage from a port town near a covenant.",
+  "evidence": [
+   "lords-of-men::0407",
+   "lords-of-men::0408"
+  ]
+ }
+]

@@ -1,0 +1,2174 @@
+[
+ {
+  "name": "Knights of the Green Stone",
+  "type": "Faction",
+  "description": "A group of magi who believe the romances conceal the true story of the Grail and seek clues to a great artifact.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0600"
+  ]
+ },
+ {
+  "name": "Celeres of Bonisagus",
+  "type": "Character",
+  "aliases": [
+   "Celeres",
+   "Celeres of Cunfin"
+  ],
+  "description": "A Bonisagus magus living at Cunfin who strives to live by the chivalric ideals of the romances; next in seniority for Praeco after Renita, which worries Proctor.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0600",
+   "the-lion-and-the-lily-the-normandy-tribunal::0718"
+  ]
+ },
+ {
+  "name": "Salvirius",
+  "type": "Character",
+  "description": "A subtle faerie courtier of the Boar King who can teach Virtues, including Diedne Magic, to the Boar King's magus allies.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0600",
+   "the-lion-and-the-lily-the-normandy-tribunal::0601",
+   "the-lion-and-the-lily-the-normandy-tribunal::0610"
+  ]
+ },
+ {
+  "name": "The Boar King",
+  "type": "Creature",
+  "aliases": [
+   "Boar King"
+  ],
+  "description": "A faerie once worshiped by the Gauls who dwells in a wooden fortress in a Faerie regio (aura 7) and claims the forests of the Normandy Tribunal; a former ally of House Diedne.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0604",
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0607"
+  ]
+ },
+ {
+  "name": "Hill of Martyrs",
+  "type": "Place",
+  "description": "A hill in Paris to which Salvirius asks a magus to deliver a sealed message.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0601",
+   "the-lion-and-the-lily-the-normandy-tribunal::0602"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "description": "Enormous city and seat of the French royal court; a center of culture and vice where many Normandy magi obtain exotic supplies.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0601",
+   "the-lion-and-the-lily-the-normandy-tribunal::0650",
+   "the-lion-and-the-lily-the-normandy-tribunal::0652"
+  ]
+ },
+ {
+  "name": "River Seine",
+  "type": "Place",
+  "aliases": [
+   "Seine"
+  ],
+  "description": "River through Normandy and Paris; site of the Ships of Flame regiones and of Confluensis' earlier site and Dragon's Rest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0601",
+   "the-lion-and-the-lily-the-normandy-tribunal::0614",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Diedne Magic",
+  "type": "Virtue",
+  "description": "Major Hermetic Virtue that Salvirius can teach; acquiring it brings the Dark Secret Story Flaw.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0601",
+   "the-lion-and-the-lily-the-normandy-tribunal::0602"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "description": "Major Story Flaw acquired alongside Diedne Magic; also gained by characters in Jerome's child-rescue network.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0602",
+   "the-lion-and-the-lily-the-normandy-tribunal::0711",
+   "the-lion-and-the-lily-the-normandy-tribunal::0654"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic magical defense that scrying effects must overcome.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0601"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A magical link used for scrying; a twin brother forms one to a magus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0601",
+   "the-lion-and-the-lily-the-normandy-tribunal::0638"
+  ]
+ },
+ {
+  "name": "Major Hermetic Virtue",
+  "type": "Concept",
+  "description": "Category of Virtue, e.g. Diedne Magic and Life-Linked Spontaneous Magic.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0600",
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Faerie Regio",
+  "type": "Concept",
+  "description": "Regiones where faerie knights and the Boar King's court dwell.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0603",
+   "the-lion-and-the-lily-the-normandy-tribunal::0605"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "A supernatural region with its own aura, e.g. the Boar King's fortress and the Ships of Flame.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0614"
+  ]
+ },
+ {
+  "name": "The Grail",
+  "type": "Item",
+  "aliases": [
+   "Grail"
+  ],
+  "description": "The object of the romance quest, a physical object in early romances and a symbol of spiritual perfection in later ones.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0600",
+   "the-lion-and-the-lily-the-normandy-tribunal::0603"
+  ]
+ },
+ {
+  "name": "Perceval",
+  "type": "Item",
+  "description": "Chretien's romance in which the Grail was first introduced to the literature.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0603"
+  ]
+ },
+ {
+  "name": "Chretien",
+  "type": "Character",
+  "aliases": [
+   "Chretien de Troyes"
+  ],
+  "description": "Author of the romance Perceval, which introduced the Grail.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0603"
+  ]
+ },
+ {
+  "name": "Faerie Knights",
+  "type": "Creature",
+  "description": "Faerie knights who stand at crossroads in romance-style regiones and accompany the Boar King.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0603",
+   "the-lion-and-the-lily-the-normandy-tribunal::0609"
+  ]
+ },
+ {
+  "name": "Children of Odin",
+  "type": "Faction",
+  "aliases": [
+   "Child of Odin"
+  ],
+  "description": "A new, secretive Mystery Cult led by Queen Skuld claiming the heritage of Viking magic and seeking to restore Normandy to Norman rule.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0604",
+   "the-lion-and-the-lily-the-normandy-tribunal::0611",
+   "the-lion-and-the-lily-the-normandy-tribunal::0612"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Normandy"
+  ],
+  "description": "The Tribunal covering northern France whose forests the Boar King claims and whose politics the chapter describes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0626",
+   "the-lion-and-the-lily-the-normandy-tribunal::0681"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "Fallen Hermetic House that once allied with the Boar King and was destroyed in the Schism War.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0607",
+   "the-lion-and-the-lily-the-normandy-tribunal::0683"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [
+   "the Schism"
+  ],
+  "description": "The war in which House Diedne fell; Confluensis was sacked by Diedne magi during it.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0683",
+   "the-lion-and-the-lily-the-normandy-tribunal::0699"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House whose magi the Boar King hopes to recruit; Pernix of Merinita is one member.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0610",
+   "the-lion-and-the-lily-the-normandy-tribunal::0636"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House whose magi the Boar King hopes to recruit; Renita Bjornaer belonged to it.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0610"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores"
+  ],
+  "description": "Hermetic investigator and judge; Confluensis is dominated by Quaesitores.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0681",
+   "the-lion-and-the-lily-the-normandy-tribunal::0702"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [
+   "hoplites"
+  ],
+  "description": "Magi who enforce Hermetic justice alongside Quaesitores.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0604",
+   "the-lion-and-the-lily-the-normandy-tribunal::0681",
+   "the-lion-and-the-lily-the-normandy-tribunal::0709"
+  ]
+ },
+ {
+  "name": "Cult of the Boar King",
+  "type": "Faction",
+  "description": "A newly revived pagan cult attempting to re-consecrate a temple to the Boar King.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0606"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "description": "Measure of a faerie's power; the Boar King has Faerie Might 40 (Animal).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0606"
+  ]
+ },
+ {
+  "name": "Voice of the Woods",
+  "type": "Concept",
+  "description": "Boar King power letting him converse with and command woodland creatures and plants.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0607",
+   "the-lion-and-the-lily-the-normandy-tribunal::0608"
+  ]
+ },
+ {
+  "name": "Sylvan Sanctity",
+  "type": "Concept",
+  "description": "Boar King power revealing the location and number of human intruders in his forest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0607",
+   "the-lion-and-the-lily-the-normandy-tribunal::0608"
+  ]
+ },
+ {
+  "name": "Ancient Rage",
+  "type": "Concept",
+  "description": "Boar King power that sends him into a frothing fury with bonuses to Attack and Soak.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0608"
+  ]
+ },
+ {
+  "name": "Impaled by the Thorn",
+  "type": "Concept",
+  "description": "Boar King power: a hurled boar spear that paralyzes and suspends aging of its target.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0608",
+   "the-lion-and-the-lily-the-normandy-tribunal::0609"
+  ]
+ },
+ {
+  "name": "Call of the Hunter",
+  "type": "Concept",
+  "description": "Boar King power to appear anywhere in his forest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0609"
+  ]
+ },
+ {
+  "name": "Forest Paths",
+  "type": "Concept",
+  "description": "Mysteries of forest guardianship (from Guardians of the Forests) that the Boar King mimics to entice magi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0610"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [
+   "Mystery Cults"
+  ],
+  "description": "Hermetic tradition with secret modifications to theory revealed through Initiation.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0611",
+   "the-lion-and-the-lily-the-normandy-tribunal::0615",
+   "the-lion-and-the-lily-the-normandy-tribunal::0616"
+  ]
+ },
+ {
+  "name": "Queen Skuld",
+  "type": "Character",
+  "aliases": [
+   "Skuld"
+  ],
+  "description": "Hierophant and Mystagogue of the Children of Odin; formerly a Tytalus maga of Atramentum who joined Ex Miscellanea, vanished toward Scandinavia, and returned in 1205.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0611",
+   "the-lion-and-the-lily-the-normandy-tribunal::0614",
+   "the-lion-and-the-lily-the-normandy-tribunal::0615"
+  ]
+ },
+ {
+  "name": "Hierophant",
+  "type": "CharacterType",
+  "description": "Leader of a Mystery Cult; Queen Skuld is the Children of Odin's Hierophant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0611",
+   "the-lion-and-the-lily-the-normandy-tribunal::0615"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "CharacterType",
+  "description": "Cult member who conducts Initiations of others.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0615",
+   "the-lion-and-the-lily-the-normandy-tribunal::0616"
+  ]
+ },
+ {
+  "name": "Rollo",
+  "type": "Character",
+  "description": "Viking earl who captured Normandy in 911; Skuld claims descent from him.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0611"
+  ]
+ },
+ {
+  "name": "Philip II",
+  "type": "Character",
+  "aliases": [
+   "Philip Augustus",
+   "King Philip"
+  ],
+  "description": "King of France, called Augustus, who annexed Normandy and rules with divine mandate; target of several plots.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0611",
+   "the-lion-and-the-lily-the-normandy-tribunal::0619",
+   "the-lion-and-the-lily-the-normandy-tribunal::0622"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House possibly favored by the Children of Odin for Ignem; home of the milites.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0612",
+   "the-lion-and-the-lily-the-normandy-tribunal::0671"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form of fire; cult members need a good Ignem score.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0612"
+  ]
+ },
+ {
+  "name": "Montverte",
+  "type": "Covenant",
+  "description": "Normandy covenant with Scandinavian founders that holds lands through a knight companion and has contacts in the Hanse Parisienne.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0612",
+   "the-lion-and-the-lily-the-normandy-tribunal::0627",
+   "the-lion-and-the-lily-the-normandy-tribunal::0634",
+   "the-lion-and-the-lily-the-normandy-tribunal::0659"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "aliases": [
+   "Initiation Scripts"
+  ],
+  "description": "Special Laboratory Text containing instructions for a Mystery Initiation.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613",
+   "the-lion-and-the-lily-the-normandy-tribunal::0616"
+  ]
+ },
+ {
+  "name": "Life Boost",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue granted by Children of Odin Initiation Scripts.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Minor Magical Focus",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue (Shape-shifting) granted by Children of Odin scripts.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Life-Linked Spontaneous Magic",
+  "type": "Virtue",
+  "description": "Major Hermetic Virtue granted by Children of Odin scripts.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Blood Haze",
+  "type": "Flaw",
+  "description": "Minor Hermetic Flaw: the maga is crazed by bloodshed, penalizing Formulaic magic and Concentration in combat.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Flawed Parma Magica",
+  "type": "Flaw",
+  "description": "Minor Hermetic Flaw (Vim) possibly gained as a Children of Odin Ordeal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Deficient Technique",
+  "type": "Flaw",
+  "description": "Major Hermetic Flaw (Creo) possibly gained as a Children of Odin Ordeal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability penalized by the Blood Haze Flaw.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613"
+  ]
+ },
+ {
+  "name": "Ships of Flame",
+  "type": "Place",
+  "aliases": [
+   "burning ships"
+  ],
+  "description": "Three perpetually burning Viking longships in Magic regiones (aura 6) on the Seine; Skuld's laboratory is on one.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0614",
+   "the-lion-and-the-lily-the-normandy-tribunal::0615"
+  ]
+ },
+ {
+  "name": "Perdo Ignem",
+  "type": "Concept",
+  "description": "Technique/Form combination that might extinguish the Ships of Flame's fire.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0614"
+  ]
+ },
+ {
+  "name": "Haunt of the Living Ghost",
+  "type": "Spell",
+  "description": "Spell Queen Skuld uses to communicate with cult members.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0614",
+   "the-lion-and-the-lily-the-normandy-tribunal::0615"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus",
+   "Tytali"
+  ],
+  "description": "Hermetic House of conflict whose domus magna is Fudarus; currently split between two rival Primi, Harpax and Buliste.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0615",
+   "the-lion-and-the-lily-the-normandy-tribunal::0667",
+   "the-lion-and-the-lily-the-normandy-tribunal::0674"
+  ]
+ },
+ {
+  "name": "Atramentum",
+  "type": "Covenant",
+  "description": "Covenant where Skuld once resided as a Tytalus maga.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0615"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Hermetic House Skuld joined in 1178.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0615",
+   "the-lion-and-the-lily-the-normandy-tribunal::0632"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "description": "Northern rune-wielding magical tradition whose secrets the Children of Odin claim.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0615",
+   "the-lion-and-the-lily-the-normandy-tribunal::0618"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "description": "Process by which Mystery Cults reveal knowledge via Quest, Ordeal and Virtue.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0615",
+   "the-lion-and-the-lily-the-normandy-tribunal::0616"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "description": "Part of Initiation in which the Initiate gains a Flaw.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0613",
+   "the-lion-and-the-lily-the-normandy-tribunal::0616"
+  ]
+ },
+ {
+  "name": "Nordic Triumph",
+  "type": "Spell",
+  "description": "MuMe(He)(Te) 65 ritual turning a ship into a dragon-prowed longship and its crew into Viking warriors.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0616",
+   "the-lion-and-the-lily-the-normandy-tribunal::0617"
+  ]
+ },
+ {
+  "name": "Hermetic Sigil",
+  "type": "Concept",
+  "description": "Magical signature of a magus, which can be shrouded.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0616",
+   "the-lion-and-the-lily-the-normandy-tribunal::0617"
+  ]
+ },
+ {
+  "name": "Rune Magic",
+  "type": "Concept",
+  "description": "Magic of the Order of Odin that might be integrated into the Children of Odin's repertoire.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0618"
+  ]
+ },
+ {
+  "name": "Holy Oil of Consecration",
+  "type": "Item",
+  "aliases": [
+   "holy oil",
+   "oil of anointing"
+  ],
+  "description": "Holy oil of anointing for French kings, target of several plots, kept at Reims.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0619",
+   "the-lion-and-the-lily-the-normandy-tribunal::0621",
+   "the-lion-and-the-lily-the-normandy-tribunal::0622"
+  ]
+ },
+ {
+  "name": "Carolingians",
+  "type": "Faction",
+  "description": "Frankish royal dynasty; German nobles plot to restore one to the French throne.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0620",
+   "the-lion-and-the-lily-the-normandy-tribunal::0622"
+  ]
+ },
+ {
+  "name": "Capetians",
+  "type": "Faction",
+  "description": "Ruling French dynasty whose succession plotters hope to break.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0620",
+   "the-lion-and-the-lily-the-normandy-tribunal::0622"
+  ]
+ },
+ {
+  "name": "Merovech",
+  "type": "Character",
+  "description": "Ancestor of the Merovingians whose blood may carry kingship and supernatural powers.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0620",
+   "the-lion-and-the-lily-the-normandy-tribunal::0631",
+   "the-lion-and-the-lily-the-normandy-tribunal::0632"
+  ]
+ },
+ {
+  "name": "Merovingian Dynasty",
+  "type": "Faction",
+  "aliases": [
+   "Merovingians"
+  ],
+  "description": "Frankish dynasty whose descendants may carry the legacy of the Quinotaur.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0620",
+   "the-lion-and-the-lily-the-normandy-tribunal::0632"
+  ]
+ },
+ {
+  "name": "Bayeux Tapestry",
+  "type": "Item",
+  "description": "Tapestry at Bayeux that Skuld wants to aid Penetration on a spell against the French king.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0621"
+  ]
+ },
+ {
+  "name": "Bayeux",
+  "type": "Place",
+  "description": "Norman town housing the Bayeux Tapestry in its cathedral.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0621"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Wizard's Twilight"
+  ],
+  "description": "Wizard's Twilight, which can derange magi and caused Kybella's vision and constraints on Buliste.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0621",
+   "the-lion-and-the-lily-the-normandy-tribunal::0638",
+   "the-lion-and-the-lily-the-normandy-tribunal::0670"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [
+   "Prima",
+   "Primi"
+  ],
+  "description": "Leader of a Hermetic House.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0621",
+   "the-lion-and-the-lily-the-normandy-tribunal::0674"
+  ]
+ },
+ {
+  "name": "Reims Cathedral",
+  "type": "Place",
+  "aliases": [
+   "Reims"
+  ],
+  "description": "Cathedral where the holy oil is kept.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0621",
+   "the-lion-and-the-lily-the-normandy-tribunal::0622"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "description": "Hermetic regional meeting where votes and cases are decided.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0622",
+   "the-lion-and-the-lily-the-normandy-tribunal::0635"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "description": "Frankish emperor; the German nobles' candidate traces ancestry to him; subject of trouveres' tales.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0622",
+   "the-lion-and-the-lily-the-normandy-tribunal::0629"
+  ]
+ },
+ {
+  "name": "Pope Stephen II",
+  "type": "Character",
+  "description": "Pope whose ruling about a 'seven generations' reprieve German nobles misunderstand.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0622"
+  ]
+ },
+ {
+  "name": "St. Clotilde",
+  "type": "Character",
+  "description": "Wife of Clovis I; patron of the lame, invoked against sudden death and iniquitous husbands.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "Clovis I",
+  "type": "Character",
+  "description": "First Christian Merovingian king.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "St. Martin of Tours",
+  "type": "Character",
+  "description": "Fourth-century soldier turned monk then bishop who gave half his cloak to a beggar.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "St. Remi",
+  "type": "Character",
+  "description": "Bishop of Reims, Apostle of the Franks, who baptised Clovis I.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "St. Riquier",
+  "type": "Character",
+  "description": "Seventh-century pagan converted by Irish missionaries who became a bishop then hermit.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "St. Valery",
+  "type": "Character",
+  "description": "Sixth-century shepherd turned monk and hermit near Amiens.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "St. Vedast",
+  "type": "Character",
+  "description": "Bishop of Arras who prepared Clovis I for baptism; depicted with a wolf and goose.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "St. Louis",
+  "type": "Character",
+  "aliases": [
+   "Louis IX"
+  ],
+  "description": "Louis IX, currently 5 years old, who historically ascends in 1226 and is canonized in 1297.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0623"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm of Power whose encroachment the Boar King resents.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0625"
+  ]
+ },
+ {
+  "name": "Cunfin",
+  "type": "Covenant",
+  "description": "Covenant associated with a Cistercian monastery; a vassal of Confluensis and home of Celeres and Eloi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0600",
+   "the-lion-and-the-lily-the-normandy-tribunal::0627",
+   "the-lion-and-the-lily-the-normandy-tribunal::0714"
+  ]
+ },
+ {
+  "name": "Florum",
+  "type": "Covenant",
+  "description": "Mercantile covenant censured in 1088 for upsetting the local economy; rival of Fudarus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0627",
+   "the-lion-and-the-lily-the-normandy-tribunal::0635",
+   "the-lion-and-the-lily-the-normandy-tribunal::0657"
+  ]
+ },
+ {
+  "name": "Cistercian Order",
+  "type": "Faction",
+  "description": "Powerful monastic order with which Cunfin and Eloi are associated.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0627",
+   "the-lion-and-the-lily-the-normandy-tribunal::0700"
+  ]
+ },
+ {
+  "name": "Écuage",
+  "type": "Concept",
+  "description": "Payment in lieu of a knight's military service.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0628"
+  ]
+ },
+ {
+  "name": "Common Law",
+  "type": "Ability",
+  "description": "Ability best representing Normandy's legal system based on Frankish Tribal Law.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0628"
+  ]
+ },
+ {
+  "name": "Civil Law",
+  "type": "Ability",
+  "description": "Roman-based legal system used in the Provençal Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0628"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "description": "Southern French Tribunal using Civil Law.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0628"
+  ]
+ },
+ {
+  "name": "Trouvere",
+  "type": "CharacterType",
+  "aliases": [
+   "trouveres"
+  ],
+  "description": "Romantic troubadours of the Normandy Tribunal who sing tales of Charlemagne and Arthur.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0629",
+   "the-lion-and-the-lily-the-normandy-tribunal::0637"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [
+   "Arthur"
+  ],
+  "description": "Legendary king whose tales are sung by trouveres; Pellinore claims he was a Welsh chieftain-magician.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0629",
+   "the-lion-and-the-lily-the-normandy-tribunal::0672",
+   "the-lion-and-the-lily-the-normandy-tribunal::0673"
+  ]
+ },
+ {
+  "name": "Knight Errant",
+  "type": "CharacterType",
+  "description": "Young knights who ride in search of adventure like heroes of the romances.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0630",
+   "the-lion-and-the-lily-the-normandy-tribunal::0638"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House with ties to nobility and many agents in the Church; Jerome and Eloi belong to it.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0631",
+   "the-lion-and-the-lily-the-normandy-tribunal::0654",
+   "the-lion-and-the-lily-the-normandy-tribunal::0662"
+  ]
+ },
+ {
+  "name": "Purifying Touch",
+  "type": "Virtue",
+  "description": "Ability displayed by the Merovingian boy apprenticed by a Jerbiton maga.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0631"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "The capacity for magic; a Merovingian descendant might manifest it.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0632",
+   "the-lion-and-the-lily-the-normandy-tribunal::0685"
+  ]
+ },
+ {
+  "name": "Quinotaur",
+  "type": "Creature",
+  "description": "Legendary creature whose supernatural legacy passes to Merovingian descendants.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0632"
+  ]
+ },
+ {
+  "name": "Peregrinator",
+  "type": "CharacterType",
+  "description": "Wandering maga type from Guardians of the Forests.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0632"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where a Merovingian-descended Ex Miscellanea maga lives.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0632"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code",
+   "Oath"
+  ],
+  "description": "Hermetic law including the clause against bringing ruin on sodales.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0631",
+   "the-lion-and-the-lily-the-normandy-tribunal::0635",
+   "the-lion-and-the-lily-the-normandy-tribunal::0644"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "description": "Order-wide Tribunal that ruled in 865 against court wizards and in 1061 limited sales of magic items; held at Durenmar.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0634",
+   "the-lion-and-the-lily-the-normandy-tribunal::0635",
+   "the-lion-and-the-lily-the-normandy-tribunal::0677"
+  ]
+ },
+ {
+  "name": "Court Wizard",
+  "type": "Concept",
+  "description": "Magus bound as a vassal employee of a mundane lord, forbidden by the 865 Grand Tribunal ruling.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0634"
+  ]
+ },
+ {
+  "name": "Iola of Guernicus",
+  "type": "Character",
+  "aliases": [
+   "Iola"
+  ],
+  "description": "Magus who in 1047 distinguished court wizards as vassals rather than economic dependents.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0634"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Magi who argued against deeming economic relationships inadmissible.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0635"
+  ]
+ },
+ {
+  "name": "Consors",
+  "type": "Concept",
+  "description": "An acknowledged asset of the covenant, as which a companion lord may receive magical support.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0635"
+  ]
+ },
+ {
+  "name": "Infelicitas",
+  "type": "Covenant",
+  "description": "Covenant whose laboratories were destroyed in a raid, ruled illegal in 1130.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0636"
+  ]
+ },
+ {
+  "name": "Pernix of Merinita",
+  "type": "Character",
+  "aliases": [
+   "Pernix"
+  ],
+  "description": "Magus acquitted in 1179 after covertly healing a young nobleman.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0636"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi, of which most nobles are aware.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0637",
+   "the-lion-and-the-lily-the-normandy-tribunal::0676"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power harvested from sources.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0644",
+   "the-lion-and-the-lily-the-normandy-tribunal::0698"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Normandy Tribunal's local legal rulings, which covenants may try not to infringe.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0648",
+   "the-lion-and-the-lily-the-normandy-tribunal::0685"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "Divine aura spreading with farmland that impairs magic and corrodes vis sites and wards.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0648",
+   "the-lion-and-the-lily-the-normandy-tribunal::0655",
+   "the-lion-and-the-lily-the-normandy-tribunal::0666"
+  ]
+ },
+ {
+  "name": "Eboris",
+  "type": "Covenant",
+  "aliases": [
+   "Ivory Carvers"
+  ],
+  "description": "Paris covenant, the Ivory Carvers, senex of Paris with influence among the city's seedy districts and Byzantine émigrés.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0650",
+   "the-lion-and-the-lily-the-normandy-tribunal::0658",
+   "the-lion-and-the-lily-the-normandy-tribunal::0660"
+  ]
+ },
+ {
+  "name": "Oleron",
+  "type": "Covenant",
+  "description": "Self-sufficient covenant censured for trying to rescue Eleanor of Aquitaine; recruits sailors from Oleron island.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0654",
+   "the-lion-and-the-lily-the-normandy-tribunal::0659"
+  ]
+ },
+ {
+  "name": "Henry II",
+  "type": "Character",
+  "description": "English king who warred with Philip II; both offered concessions to magi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0654"
+  ]
+ },
+ {
+  "name": "Eleanor of Aquitaine",
+  "type": "Character",
+  "description": "Queen whom Oleron attempted to rescue from captivity.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0654"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal whose chief Quaesitor censured Oleron; most Cabal of the Crushed Viper members come from it.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0654",
+   "the-lion-and-the-lily-the-normandy-tribunal::0671"
+  ]
+ },
+ {
+  "name": "Masks",
+  "type": "Concept",
+  "aliases": [
+   "mask"
+  ],
+  "description": "Disposable mundane agents acting on behalf of a covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0656",
+   "the-lion-and-the-lily-the-normandy-tribunal::0657",
+   "the-lion-and-the-lily-the-normandy-tribunal::0660"
+  ]
+ },
+ {
+  "name": "Confluensis",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of the Confluence"
+  ],
+  "description": "Largest Quaesitorial covenant in Normandy, in the Cotentin swamps, built as giant stone flowers to maintain balance between covenants.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0657",
+   "the-lion-and-the-lily-the-normandy-tribunal::0681",
+   "the-lion-and-the-lily-the-normandy-tribunal::0682"
+  ]
+ },
+ {
+  "name": "University of Paris",
+  "type": "Place",
+  "description": "University whose law faculty has contacts with Confluensis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0657"
+  ]
+ },
+ {
+  "name": "Fudarus",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Fudarus"
+  ],
+  "description": "Domus magna of House Tytalus, controlling the Parisian Dyer's Guild; its resources are controlled by Harpax.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0657",
+   "the-lion-and-the-lily-the-normandy-tribunal::0667",
+   "the-lion-and-the-lily-the-normandy-tribunal::0675"
+  ]
+ },
+ {
+  "name": "Dyer's Guild",
+  "type": "Faction",
+  "description": "Small Parisian guild infiltrated by Fudarus, producing magically enhanced dyes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0657"
+  ]
+ },
+ {
+  "name": "Jon Baudin",
+  "type": "Character",
+  "description": "Guildmaster of the Dyer's Guild and Fudarus spy who plays two Daniel impersonators against each other.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0657",
+   "the-lion-and-the-lily-the-normandy-tribunal::0658"
+  ]
+ },
+ {
+  "name": "Daniel",
+  "type": "Character",
+  "description": "Tytalus magus who died six years ago; Fudarus factions impersonate him.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0657",
+   "the-lion-and-the-lily-the-normandy-tribunal::0658"
+  ]
+ },
+ {
+  "name": "Hanse Parisienne",
+  "type": "Faction",
+  "description": "Principal merchants' league of Paris with Montverte contacts.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0659"
+  ]
+ },
+ {
+  "name": "Anacron",
+  "type": "Character",
+  "description": "Eremite magus who has collaborated with Montverte on raids on covenants' Paris storehouses.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0659"
+  ]
+ },
+ {
+  "name": "Senex",
+  "type": "Concept",
+  "description": "Status of Eboris in Paris granting it the right to pursue sponsors of masks.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0660"
+  ]
+ },
+ {
+  "name": "Vassalage",
+  "type": "Concept",
+  "description": "Hermetic system in which weak covenants pay strong lieges for protection.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0663",
+   "the-lion-and-the-lily-the-normandy-tribunal::0664"
+  ]
+ },
+ {
+  "name": "Corruption of House Tytalus",
+  "type": "Concept",
+  "description": "Historic demonic corruption of House Tytalus under Tasgillia.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0666"
+  ]
+ },
+ {
+  "name": "Demon of Vendée",
+  "type": "Creature",
+  "description": "Demon trapped by a Magical ward in a sea cave at Vendée.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0666"
+  ]
+ },
+ {
+  "name": "Vendée",
+  "type": "Place",
+  "description": "Coastal region with rocky promontories where a demon is trapped.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0666"
+  ]
+ },
+ {
+  "name": "Cabal",
+  "type": "Concept",
+  "description": "Clandestine anonymous Tytalus organizations formed to achieve specific goals.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0667",
+   "the-lion-and-the-lily-the-normandy-tribunal::0668"
+  ]
+ },
+ {
+  "name": "Cabal of the Laden Cart",
+  "type": "Faction",
+  "description": "Tytalus cabal founded by Kybella to entrap Death, obsessed with the Ankeu.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0668",
+   "the-lion-and-the-lily-the-normandy-tribunal::0670"
+  ]
+ },
+ {
+  "name": "Kybella of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Kybella"
+  ],
+  "description": "Tytalus maga of Exspectatio whose Twilight vision of Death led her to found the Cabal of the Laden Cart.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0670"
+  ]
+ },
+ {
+  "name": "Exspectatio",
+  "type": "Covenant",
+  "description": "Covenant of Kybella and Adanos Lutorum.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0670",
+   "the-lion-and-the-lily-the-normandy-tribunal::0709"
+  ]
+ },
+ {
+  "name": "Ankeu",
+  "type": "Creature",
+  "description": "Spirit of Death that haunts Brittany with a creaking cart.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0670"
+  ]
+ },
+ {
+  "name": "Brittany",
+  "type": "Place",
+  "description": "Region with hundreds of mottes and castles, haunted by the Ankeu.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0643",
+   "the-lion-and-the-lily-the-normandy-tribunal::0668",
+   "the-lion-and-the-lily-the-normandy-tribunal::0670"
+  ]
+ },
+ {
+  "name": "Cabal of the Crushed Viper",
+  "type": "Faction",
+  "description": "Tytalus cabal opposing the chivalric ideal, members taking Arthurian pseudonyms.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0671",
+   "the-lion-and-the-lily-the-normandy-tribunal::0672",
+   "the-lion-and-the-lily-the-normandy-tribunal::0673"
+  ]
+ },
+ {
+  "name": "William Marshal",
+  "type": "Character",
+  "description": "Prominent English noble renowned at tourney who led attacks on the Welsh.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0671"
+  ]
+ },
+ {
+  "name": "Lancelot (cabal member)",
+  "type": "Character",
+  "aliases": [
+   "Lancelot"
+  ],
+  "description": "Cabal of the Crushed Viper member who befriends and betrays Flambeau milites.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0671",
+   "the-lion-and-the-lily-the-normandy-tribunal::0672"
+  ]
+ },
+ {
+  "name": "Vivian (cabal member)",
+  "type": "Character",
+  "aliases": [
+   "Vivian"
+  ],
+  "description": "Faerie-hating cabal member who targets troubadours.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0672"
+  ]
+ },
+ {
+  "name": "Pellinore (cabal member)",
+  "type": "Character",
+  "aliases": [
+   "Pellinore"
+  ],
+  "description": "Cabal member claiming descent from the real Arthur who manipulates churchmen against tournaments.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0671",
+   "the-lion-and-the-lily-the-normandy-tribunal::0672"
+  ]
+ },
+ {
+  "name": "Milites",
+  "type": "Faction",
+  "description": "Society of honor-bound knight-magi within House Flambeau.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0671"
+  ]
+ },
+ {
+  "name": "Hermetic Tourney",
+  "type": "Concept",
+  "aliases": [
+   "Tourney"
+  ],
+  "description": "Hermetic tournament of the Normandy Tribunal, reported by the Evangelium.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0673",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Harpax",
+  "type": "Character",
+  "aliases": [
+   "Primus Harpax"
+  ],
+  "description": "Tytalus Primus contesting leadership with his sister Buliste; controls Fudarus' resources and leads the Decimi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0674",
+   "the-lion-and-the-lily-the-normandy-tribunal::0675",
+   "the-lion-and-the-lily-the-normandy-tribunal::0678"
+  ]
+ },
+ {
+  "name": "Buliste",
+  "type": "Character",
+  "aliases": [
+   "Prima Buliste"
+  ],
+  "description": "Elder sister and rival Prima of Tytalus, controlling House spy networks; leads the Fideli.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0674",
+   "the-lion-and-the-lily-the-normandy-tribunal::0675",
+   "the-lion-and-the-lily-the-normandy-tribunal::0676"
+  ]
+ },
+ {
+  "name": "Decimi",
+  "type": "Faction",
+  "description": "Tytali loyal to Harpax who wear the tenth Primus' sigil.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0674",
+   "the-lion-and-the-lily-the-normandy-tribunal::0675"
+  ]
+ },
+ {
+  "name": "Fideli",
+  "type": "Faction",
+  "description": "Tytali loyal to Buliste's purple banner.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0674"
+  ]
+ },
+ {
+  "name": "Rod of the Primus",
+  "type": "Item",
+  "description": "Item giving control of the Fudarus building itself.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0675"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "description": "Formal Hermetic war, which the Tytalus Primi feud avoids.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0676",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Place",
+  "description": "Location of the Forum of Hermes where the Grand Tribunal meets.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0677",
+   "the-lion-and-the-lily-the-normandy-tribunal::0679",
+   "the-lion-and-the-lily-the-normandy-tribunal::0680"
+  ]
+ },
+ {
+  "name": "Forum of Hermes",
+  "type": "Place",
+  "description": "Chamber at Durenmar where Primi sit at Grand Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0677"
+  ]
+ },
+ {
+  "name": "Porphyrion of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Porphyrion"
+  ],
+  "description": "Powerful Archmage and eremite from the Rome Tribunal, a possible third contender for Tytalus Primus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0678",
+   "the-lion-and-the-lily-the-normandy-tribunal::0679"
+  ]
+ },
+ {
+  "name": "Rome Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Roman Tribunal"
+  ],
+  "description": "Tribunal Porphyrion moved from.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0679"
+  ]
+ },
+ {
+  "name": "Archmage",
+  "type": "CharacterType",
+  "description": "Title of a powerful magus such as Porphyrion.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0679"
+  ]
+ },
+ {
+  "name": "Cotentin Peninsula",
+  "type": "Place",
+  "aliases": [
+   "Cotentin"
+  ],
+  "description": "Peninsula nearly cut off by swamps where Confluensis hides.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0681",
+   "the-lion-and-the-lily-the-normandy-tribunal::0684"
+  ]
+ },
+ {
+  "name": "Dragon's Rest",
+  "type": "Covenant",
+  "description": "Mercer House vassal of Confluensis on its original Seine site, hub of the Tribunal's Mercere Portal network.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0681",
+   "the-lion-and-the-lily-the-normandy-tribunal::0682",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Hermetic House of Quaesitores; Confluensis was founded on Guernicus' instructions and serves its Primus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0681",
+   "the-lion-and-the-lily-the-normandy-tribunal::0682",
+   "the-lion-and-the-lily-the-normandy-tribunal::0704"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "House of Redcaps; its magi retained Dragon's Rest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0682",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Mercer House",
+  "type": "Concept",
+  "description": "A Redcap covenant such as Dragon's Rest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0681",
+   "the-lion-and-the-lily-the-normandy-tribunal::0714"
+  ]
+ },
+ {
+  "name": "Gargouille",
+  "type": "Creature",
+  "description": "Dragon whose lair in the Seine swamps was Confluensis' original site, now Dragon's Rest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0682",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Orchard of Sour Apples",
+  "type": "Place",
+  "aliases": [
+   "the Orchard"
+  ],
+  "description": "Island (the Orchard) northeast of Coutances, once a vassal covenant, with an Intellego vis orchard of sour apples.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0682",
+   "the-lion-and-the-lily-the-normandy-tribunal::0698"
+  ]
+ },
+ {
+  "name": "Tasgillia",
+  "type": "Character",
+  "description": "Diabolic Prima of Tytalus cast down by the Order.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0683",
+   "the-lion-and-the-lily-the-normandy-tribunal::0702",
+   "the-lion-and-the-lily-the-normandy-tribunal::0703"
+  ]
+ },
+ {
+  "name": "Terrae Cult",
+  "type": "Faction",
+  "description": "Terram-focused cult tradition within House Guernicus, possibly colonizers of Confluensis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0686",
+   "the-lion-and-the-lily-the-normandy-tribunal::0709"
+  ]
+ },
+ {
+  "name": "Mont Saint Michel",
+  "type": "Place",
+  "description": "Abbey whose quarry stone resembles Confluensis' buildings.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0686"
+  ]
+ },
+ {
+  "name": "Great Hall (Confluensis)",
+  "type": "Place",
+  "description": "Largest pad of the Sundew at Confluensis, with dining, training and storage.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0687",
+   "the-lion-and-the-lily-the-normandy-tribunal::0688"
+  ]
+ },
+ {
+  "name": "The Sundew",
+  "type": "Place",
+  "aliases": [
+   "Sundew"
+  ],
+  "description": "Enormous stone sundew sculpture supporting most of Confluensis' buildings.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0687",
+   "the-lion-and-the-lily-the-normandy-tribunal::0693"
+  ]
+ },
+ {
+  "name": "Pad of Gatherers",
+  "type": "Place",
+  "description": "Confluensis pad housing food producers.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0689"
+  ]
+ },
+ {
+  "name": "Pad of Crafters",
+  "type": "Place",
+  "description": "Confluensis pad home to tradesmen, ceramicists and paper makers.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0690"
+  ]
+ },
+ {
+  "name": "Pad of Parades",
+  "type": "Place",
+  "description": "Open pad used for events, Aegis rituals and Tribunal meetings.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0691"
+  ]
+ },
+ {
+  "name": "Furled Pad",
+  "type": "Place",
+  "description": "Unfurled pad used as mooring point.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0692"
+  ]
+ },
+ {
+  "name": "Bell Flower",
+  "type": "Place",
+  "description": "Bell-shaped stone flower supporting Confluensis magi's residences.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0693",
+   "the-lion-and-the-lily-the-normandy-tribunal::0694"
+  ]
+ },
+ {
+  "name": "Library Tower",
+  "type": "Place",
+  "description": "Oldest structure of Confluensis with council chamber, library and Mercere Portal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0694"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Covenant protective ritual performed on the Pad of Parades.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0691"
+  ]
+ },
+ {
+  "name": "Mercere Portal",
+  "type": "Item",
+  "description": "Magical portal linking Confluensis, Dragon's Rest, Cunfin, Harco and others.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0694",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Venelli",
+  "type": "Faction",
+  "description": "Celtic tribe whose remnants are Confluensis' covenfolk, with an ancient pact with swamp powers.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0694",
+   "the-lion-and-the-lily-the-normandy-tribunal::0695",
+   "the-lion-and-the-lily-the-normandy-tribunal::0699"
+  ]
+ },
+ {
+  "name": "Jersey",
+  "type": "Place",
+  "description": "Channel Island where Venelli relics and mercenary graves may be found.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0695",
+   "the-lion-and-the-lily-the-normandy-tribunal::0696"
+  ]
+ },
+ {
+  "name": "Ship of the Dead",
+  "type": "Creature",
+  "description": "Ship leaving Le Havre each All Hallows Night carrying drowned sailors' souls to Hell under a terrible Captain.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0695",
+   "the-lion-and-the-lily-the-normandy-tribunal::0696"
+  ]
+ },
+ {
+  "name": "Le Havre",
+  "type": "Place",
+  "description": "Port from which the Ship of the Dead departs.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0695"
+  ]
+ },
+ {
+  "name": "White Lady",
+  "type": "Creature",
+  "description": "Local faerie who may be sent as emissary to Confluensis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0697"
+  ]
+ },
+ {
+  "name": "Coutances",
+  "type": "Place",
+  "description": "Former Venelli capital, burned by Normans in 998.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0698",
+   "the-lion-and-the-lily-the-normandy-tribunal::0699"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "description": "Confluensis' powerful aura from its fresh/salt water location.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0698"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Technique; Intellego vis is found in the Orchard's apples.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0698",
+   "the-lion-and-the-lily-the-normandy-tribunal::0601"
+  ]
+ },
+ {
+  "name": "Renita Bjornaer",
+  "type": "Character",
+  "aliases": [
+   "Renita"
+  ],
+  "description": "Praeco and leader of Confluensis who died last winter, causing a succession crisis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0700",
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0718"
+  ]
+ },
+ {
+  "name": "Praeco",
+  "type": "CharacterType",
+  "description": "Eldest magus presiding over a Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0700",
+   "the-lion-and-the-lily-the-normandy-tribunal::0718"
+  ]
+ },
+ {
+  "name": "Proctor",
+  "type": "Character",
+  "description": "Ruthless Presiding Quaesitor of Normandy and leader of Confluensis, distrustful of Tytalus; his talisman is a fool's cap bell.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0700",
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0706"
+  ]
+ },
+ {
+  "name": "Presiding Quaesitor",
+  "type": "CharacterType",
+  "description": "Quaesitor presiding at Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0700",
+   "the-lion-and-the-lily-the-normandy-tribunal::0705"
+  ]
+ },
+ {
+  "name": "Jerome of Confluensis",
+  "type": "Character",
+  "aliases": [
+   "Jerome"
+  ],
+  "description": "Jerbiton magus, Tribunal liaison to French nobility who secretly rescues 'troublesome heirs'.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0700",
+   "the-lion-and-the-lily-the-normandy-tribunal::0711",
+   "the-lion-and-the-lily-the-normandy-tribunal::0712"
+  ]
+ },
+ {
+  "name": "Eloi of Cunfin",
+  "type": "Character",
+  "aliases": [
+   "Eloi"
+  ],
+  "description": "Pious Jerbiton magus of Cunfin, Jerome's filius, liaison to the Church.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0700",
+   "the-lion-and-the-lily-the-normandy-tribunal::0711",
+   "the-lion-and-the-lily-the-normandy-tribunal::0712"
+  ]
+ },
+ {
+  "name": "The Traitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Traitor"
+  ],
+  "description": "Voluntary exile from House Tytalus obliged to restart the House's stalled conflicts; bears a magical key.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0702",
+   "the-lion-and-the-lily-the-normandy-tribunal::0703",
+   "the-lion-and-the-lily-the-normandy-tribunal::0713"
+  ]
+ },
+ {
+  "name": "Promethea",
+  "type": "Character",
+  "description": "First Traitor, filia of Kalliste, who waited out the struggle against Tasgillia and became a Quaesitor.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0702"
+  ]
+ },
+ {
+  "name": "Kalliste",
+  "type": "Character",
+  "description": "Mater of Promethea.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0702"
+  ]
+ },
+ {
+  "name": "Magvillius",
+  "type": "Covenant",
+  "description": "Place Promethea went to await the end of the struggle.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0702"
+  ]
+ },
+ {
+  "name": "Analects of Tytalus",
+  "type": "Item",
+  "description": "Tytalus text judging Promethea's waiting a moral error.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0702"
+  ]
+ },
+ {
+  "name": "Traitor's Key",
+  "type": "Item",
+  "description": "Magical key borne by the Traitor since Tasgillia, rumored to weaken Fudarus' defenses.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0703"
+  ]
+ },
+ {
+  "name": "Aristarcus",
+  "type": "Character",
+  "description": "Filius of Proctor, a Traditionalist Guernicus who argues cases before Tribunal; familiar a swan.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0707"
+  ]
+ },
+ {
+  "name": "Transitionalist",
+  "type": "Faction",
+  "description": "Guernicus position held by Proctor and Cavillor.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0708"
+  ]
+ },
+ {
+  "name": "Traditionalist",
+  "type": "Faction",
+  "description": "Guernicus position held by Aristarcus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0707"
+  ]
+ },
+ {
+  "name": "Richard the Devil",
+  "type": "Character",
+  "description": "Figure whose penance bell Proctor believes his talisman to be.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0706"
+  ]
+ },
+ {
+  "name": "Fool's Cap Bell",
+  "type": "Item",
+  "description": "Proctor's talisman, a brass bell enchanted against Infernal influence.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0706"
+  ]
+ },
+ {
+  "name": "Cavillor",
+  "type": "Character",
+  "description": "Young Transitionalist Guernicus from the Roman Tribunal who defends accused magi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0708"
+  ]
+ },
+ {
+  "name": "Valerian",
+  "type": "Character",
+  "description": "Chief hoplite of Normandy, Terram master reputed to be in the Terrae cult, with an invisible spirit familiar.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0709",
+   "the-lion-and-the-lily-the-normandy-tribunal::0710"
+  ]
+ },
+ {
+  "name": "Adanos Lutorum",
+  "type": "Character",
+  "description": "Magus of Exspectatio reputed to belong to the Guernicus Terrae cult.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0709"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form of earth; Valerian is a known master.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0709",
+   "the-lion-and-the-lily-the-normandy-tribunal::0694"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "description": "Hermetic outlawry; the chief hoplite handles military planning.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0709"
+  ]
+ },
+ {
+  "name": "Artorius",
+  "type": "Character",
+  "description": "Gifted child rescued by Jerome.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0711"
+  ]
+ },
+ {
+  "name": "William the Bastard",
+  "type": "Character",
+  "description": "Who disappeared eight years in childhood before claiming Normandy then England.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0712"
+  ]
+ },
+ {
+  "name": "Treasures of Britain",
+  "type": "Item",
+  "description": "Legendary set including a magical chessboard sought by Jerome.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0712"
+  ]
+ },
+ {
+  "name": "Augustina of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Augustina"
+  ],
+  "description": "Current Traitor, trained by Buliste's mater, serving as a hoplite at Confluensis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0713"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "description": "Covenant connected to the Mercere Portal network.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Evangelium",
+  "type": "CharacterType",
+  "description": "Normandy Tribunal officer, always a Redcap, reporting Tourney results.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Myrina",
+  "type": "Character",
+  "description": "Current Evangelium, living at Dragon's Rest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0715"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "description": "Members of House Mercere who travel and carry messages.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0711",
+   "the-lion-and-the-lily-the-normandy-tribunal::0715",
+   "the-lion-and-the-lily-the-normandy-tribunal::0716"
+  ]
+ },
+ {
+  "name": "Stellatus",
+  "type": "Character",
+  "description": "Renita's sept-mate who left for Iberia.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0718"
+  ]
+ },
+ {
+  "name": "Somnifer of Lapis Crudus",
+  "type": "Character",
+  "aliases": [
+   "Somnifer"
+  ],
+  "description": "Candidate for Praeco.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0718"
+  ]
+ },
+ {
+  "name": "Lapis Crudus",
+  "type": "Covenant",
+  "description": "Covenant of Somnifer.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0718"
+  ]
+ },
+ {
+  "name": "Geirlaug of Montverte",
+  "type": "Character",
+  "aliases": [
+   "Geirlaug"
+  ],
+  "description": "Possible Praeco candidate.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0718"
+  ]
+ },
+ {
+  "name": "Lotharingian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal with a pro-Lotharingian faction.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0668",
+   "the-lion-and-the-lily-the-normandy-tribunal::0708"
+  ]
+ },
+ {
+  "name": "Pro-Lotharingian Faction",
+  "type": "Faction",
+  "description": "Magi retaining Cavillor as legal advisor.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0708"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "Magical animal companion of a magus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0709",
+   "the-lion-and-the-lily-the-normandy-tribunal::0713"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "description": "Magus's personal enchanted item.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0705",
+   "the-lion-and-the-lily-the-normandy-tribunal::0707",
+   "the-lion-and-the-lily-the-normandy-tribunal::0708"
+  ]
+ },
+ {
+  "name": "Longevity Potion",
+  "type": "Item",
+  "description": "Potion keeping Aristarcus youthful.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0707"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm of Power; aura of the Boar King's regio and formerly of the Orchard.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0605",
+   "the-lion-and-the-lily-the-normandy-tribunal::0698"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "description": "Realm of Power; the Ships of Flame are Magical regiones.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0614",
+   "the-lion-and-the-lily-the-normandy-tribunal::0666"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of demons; Proctor's talisman defends against it.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0706"
+  ]
+ }
+]

@@ -1,0 +1,2343 @@
+[
+ {
+  "name": "Fennel of Virtue",
+  "type": "Item",
+  "description": "An herb of virtue containing 2 pawns of Vim vis; when Enriched its hardened stalk wielded as a wand drives away evil spirits as a Greater Power.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0722"
+  ]
+ },
+ {
+  "name": "Mistletoe of Virtue",
+  "type": "Item",
+  "description": "Parasitic herb of virtue that, when Enriched by taking root in the wearer's flesh, grants the Supernatural Ability Divination & Augury but also Fragile Constitution; unenriched worth 2 pawns of Intellego vis.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0721",
+   "realms-of-power-magic::0722"
+  ]
+ },
+ {
+  "name": "Pennyroyal of Virtue",
+  "type": "Item",
+  "aliases": [
+   "Heal-All"
+  ],
+  "description": "Creeping mint-like herb containing 1 pawn of Corpus vis, known as Heal-All; when Enriched it confers a Greater Purifying Touch against an ailment determined by the ruling star.",
+  "evidence": [
+   "realms-of-power-magic::0721",
+   "realms-of-power-magic::0722"
+  ]
+ },
+ {
+  "name": "Periwinkle of Virtue",
+  "type": "Item",
+  "description": "Blue flower of virtue that when Enriched grants Venus's Blessing along with the Reckless Flaw; unenriched worth 1 pawn of Mentem vis.",
+  "evidence": [
+   "realms-of-power-magic::0721",
+   "realms-of-power-magic::0722"
+  ]
+ },
+ {
+  "name": "Centaury of Virtue",
+  "type": "Item",
+  "description": "Herb of Virtue listed with a +3 Flight shape and material bonus.",
+  "evidence": [
+   "realms-of-power-magic::0722"
+  ]
+ },
+ {
+  "name": "Cinquefoil of Virtue",
+  "type": "Item",
+  "description": "Herb of Virtue listed with shape and material bonuses of +3 Leadership and +1 Rego Mentem.",
+  "evidence": [
+   "realms-of-power-magic::0722"
+  ]
+ },
+ {
+  "name": "Herbs of Virtue",
+  "type": "Concept",
+  "description": "Plants that naturally contain vis and can be Enriched into charms that grant Virtues or powers.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0722"
+  ]
+ },
+ {
+  "name": "Objects of Virtue",
+  "type": "Concept",
+  "description": "Natural objects such as gems and formed stones that contain vis and can be Enriched to confer Virtues; rarely useful to magi due to zero Penetration and the Warping they cause.",
+  "evidence": [
+   "realms-of-power-magic::0723",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Enrichment",
+  "type": "Concept",
+  "aliases": [
+   "Enriched"
+  ],
+  "description": "The process of treating a Thing of Virtue (herb, object, tree) through a ritual procedure, usually over a season, so it confers a Virtue or power instead of being harvested for vis.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0723",
+   "realms-of-power-magic::0736"
+  ]
+ },
+ {
+  "name": "Shape and Material Bonuses",
+  "type": "Concept",
+  "description": "Bonuses associated with materials and shapes, used as inspiration for deriving the Virtues of Objects of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0722",
+   "realms-of-power-magic::0723",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "St. Michael",
+  "type": "Character",
+  "description": "Saint on whose sacred day fennel of virtue must be plucked to be Enriched.",
+  "evidence": [
+   "realms-of-power-magic::0720"
+  ]
+ },
+ {
+  "name": "Divination & Augury",
+  "type": "Ability",
+  "description": "Supernatural Ability granted by an Enriched Mistletoe of Virtue, using a unique method of consuming its berries for visions.",
+  "evidence": [
+   "realms-of-power-magic::0720"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "description": "Flaw imposed on the host of an Enriched Mistletoe of Virtue; also a Flaw of the falcon.",
+  "evidence": [
+   "realms-of-power-magic::0721",
+   "realms-of-power-magic::0807"
+  ]
+ },
+ {
+  "name": "Continent",
+  "type": "Flaw",
+  "description": "Flaw whose restriction the owner of Enriched Fennel of Virtue must observe, or its power fades.",
+  "evidence": [
+   "realms-of-power-magic::0720"
+  ]
+ },
+ {
+  "name": "Venus's Blessing",
+  "type": "Virtue",
+  "description": "Virtue granted by an Enriched Periwinkle of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0721"
+  ]
+ },
+ {
+  "name": "Reckless",
+  "type": "Flaw",
+  "description": "Flaw conferring impetuousness, granted by the Periwinkle of Virtue garland; also a Flaw of hounds.",
+  "evidence": [
+   "realms-of-power-magic::0722",
+   "realms-of-power-magic::0813"
+  ]
+ },
+ {
+  "name": "Amethyst of Virtue",
+  "type": "Item",
+  "description": "Gem containing 1 pawn of Mentem vis that, when Enriched, confers Lesser Immunity to drunkenness while touching the drinker's skin.",
+  "evidence": [
+   "realms-of-power-magic::0723"
+  ]
+ },
+ {
+  "name": "Bloodstone of Virtue",
+  "type": "Item",
+  "description": "Stone containing 1 pawn of Creo vis that, when Enriched, grants Rapid Convalescence while the bearer rests in bed.",
+  "evidence": [
+   "realms-of-power-magic::0723",
+   "realms-of-power-magic::0724"
+  ]
+ },
+ {
+  "name": "Bufonite of Virtue",
+  "type": "Item",
+  "aliases": [
+   "Toad Stone",
+   "Bufonites"
+  ],
+  "description": "A Toad Stone containing 2 pawns of Intellego vis that, when Enriched, has a Lesser Power to detect poison by turning red.",
+  "evidence": [
+   "realms-of-power-magic::0724",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Toad of Virtue",
+  "type": "Creature",
+  "description": "Toad from whose living head the Bufonite of Virtue must be removed for Enrichment.",
+  "evidence": [
+   "realms-of-power-magic::0724"
+  ]
+ },
+ {
+  "name": "Opal of Virtue",
+  "type": "Item",
+  "description": "Gem containing 2 pawns of Terram vis that when Enriched provides the Sure Traveler Virtue along with a minor Personality Flaw.",
+  "evidence": [
+   "realms-of-power-magic::0724",
+   "realms-of-power-magic::0725"
+  ]
+ },
+ {
+  "name": "Sapphire of Virtue",
+  "type": "Item",
+  "description": "Gem containing 1 pawn of Intellego vis that can be Enriched by full moonlight to confer the Intuition Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0725"
+  ]
+ },
+ {
+  "name": "Clam Shell of Virtue",
+  "type": "Item",
+  "description": "Shell containing 1 pawn of Terram vis that, Enriched under a waterfall, confers the Tough Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0725",
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Emerald of Virtue",
+  "type": "Item",
+  "description": "Gem containing 2 pawns of Animal vis that, Enriched in a snake's nest, grants Animal Ken restricted to serpents.",
+  "evidence": [
+   "realms-of-power-magic::0725",
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Jet of Virtue",
+  "type": "Item",
+  "description": "Jet containing 1 pawn of Perdo vis that when Enriched grants Puissant Stealth, lost if anyone but the owner sees it.",
+  "evidence": [
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Topaz of Virtue",
+  "type": "Item",
+  "description": "Gem containing 1 pawn of Mentem vis that when Enriched grants Puissant Leadership.",
+  "evidence": [
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Formed Stones",
+  "type": "Concept",
+  "aliases": [
+   "lusus naturae"
+  ],
+  "description": "Shaped stones, called lusus naturae, said to be formed by vis plastica, astral conjunctions or other causes; many are Objects of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0727"
+  ]
+ },
+ {
+  "name": "Vis Plastica",
+  "type": "Concept",
+  "description": "Creative force said by some to form shaped stones in the soil.",
+  "evidence": [
+   "realms-of-power-magic::0727"
+  ]
+ },
+ {
+  "name": "Vis Formativa",
+  "type": "Concept",
+  "description": "Force from astral conjunctions said to fertilize soil and rocks to produce formed stones.",
+  "evidence": [
+   "realms-of-power-magic::0727"
+  ]
+ },
+ {
+  "name": "Clach Crubain of Virtue",
+  "type": "Item",
+  "description": "Bent formed stone containing 1 pawn of Perdo vis that when Enriched with oil confers Lesser Immunity to arthritis.",
+  "evidence": [
+   "realms-of-power-magic::0727",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Ovum Anguinum of Virtue",
+  "type": "Item",
+  "aliases": [
+   "Serpent's Egg"
+  ],
+  "description": "Serpent's Egg formed stone containing 2 pawns of Creo vis that confers Improved Characteristics (Stamina), Improved Communication, or Tough depending on Enrichment.",
+  "evidence": [
+   "realms-of-power-magic::0727",
+   "realms-of-power-magic::0728",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Thunderbolt of Virtue",
+  "type": "Item",
+  "description": "Pointed stone that falls in thunderstorms, containing 1 pawn of Auram vis; Enriched it wards against Demons of the Air as a Greater Power.",
+  "evidence": [
+   "realms-of-power-magic::0728",
+   "realms-of-power-magic::0729",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Demons of the Air",
+  "type": "Creature",
+  "description": "Class of demons warded off by an Enriched Thunderbolt of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0728"
+  ]
+ },
+ {
+  "name": "Cornu Ammonis of Virtue",
+  "type": "Item",
+  "aliases": [
+   "Horn of Ammon"
+  ],
+  "description": "Horn of Ammon, a coiled stone with 2 pawns of Intellego vis that, Enriched, grants prophetic dream Visions to one sleeping on it.",
+  "evidence": [
+   "realms-of-power-magic::0729",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Glossopetrae of Virtue",
+  "type": "Item",
+  "aliases": [
+   "Stone Adder's Tongue"
+  ],
+  "description": "Stone Adder's Tongue containing 1 pawn of Aquam vis, Enriched to be an antidote to liquid poisons.",
+  "evidence": [
+   "realms-of-power-magic::0730",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Fairy Loaves of Virtue",
+  "type": "Item",
+  "description": "Flat bun-shaped formed stones containing 1 pawn of Muto vis each; Enriched, they keep milk fresh as a Lesser Power.",
+  "evidence": [
+   "realms-of-power-magic::0730",
+   "realms-of-power-magic::0731"
+  ]
+ },
+ {
+  "name": "Pliny the Elder",
+  "type": "Character",
+  "aliases": [
+   "Pliny"
+  ],
+  "description": "Classical author cited on the Cornu Ammonis, bears, boars, bulls, cats, lions and wolves.",
+  "evidence": [
+   "realms-of-power-magic::0729",
+   "realms-of-power-magic::0800",
+   "realms-of-power-magic::0816"
+  ]
+ },
+ {
+  "name": "Lesser Immunity",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue conferred by several Objects of Virtue, e.g. against drunkenness, arthritis or lightning.",
+  "evidence": [
+   "realms-of-power-magic::0723",
+   "realms-of-power-magic::0727",
+   "realms-of-power-magic::0739"
+  ]
+ },
+ {
+  "name": "Rapid Convalescence",
+  "type": "Virtue",
+  "description": "Minor General Virtue granted by an Enriched Bloodstone of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0723"
+  ]
+ },
+ {
+  "name": "Sure Traveler",
+  "type": "Virtue",
+  "description": "Minor Heroic Virtue provided by an Enriched Opal of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0724",
+   "realms-of-power-magic::0725"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "description": "Minor General Virtue conferred by an Enriched Sapphire of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0725"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Minor General Virtue giving +3 Soak, conferred by the Clam Shell or Ovum Anguinum of Virtue and possessed by many beasts and elementals.",
+  "evidence": [
+   "realms-of-power-magic::0725",
+   "realms-of-power-magic::0728",
+   "realms-of-power-magic::0799"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue granted, for serpents only, by an Enriched Emerald of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Puissant Stealth",
+  "type": "Virtue",
+  "description": "Minor General Virtue granted by Enriched Jet of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Puissant Leadership",
+  "type": "Virtue",
+  "description": "Minor General Virtue granted by an Enriched Topaz of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Minor General Virtue conferred by Ovum Anguinum of Virtue and common among beasts.",
+  "evidence": [
+   "realms-of-power-magic::0728",
+   "realms-of-power-magic::0799",
+   "realms-of-power-magic::0813"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw given by an Enriched Cornu Ammonis to one who sleeps on it.",
+  "evidence": [
+   "realms-of-power-magic::0729"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Virtue",
+  "description": "Virtue (from Realms of Power: Infernal) whose curse power is granted, aligned with Magic, by Blackthorn of Virtue thorns.",
+  "evidence": [
+   "realms-of-power-magic::0737"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Virtue",
+  "description": "Virtue provided by a wand Enriched from a Hazel Tree of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0738"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "Virtue/Ability granted by an Enriched mandrake root, whose writhing foretells the future.",
+  "evidence": [
+   "realms-of-power-magic::0742"
+  ]
+ },
+ {
+  "name": "Puissant Art",
+  "type": "Virtue",
+  "description": "Virtue that can be conferred by Enriching a vis-bearing item giving a Shape and Material bonus to a specific Art.",
+  "evidence": [
+   "realms-of-power-magic::0723"
+  ]
+ },
+ {
+  "name": "Magic Thing",
+  "type": "Virtue",
+  "description": "Inherited Virtue of magical beings that are things rather than creatures, such as the mandrake, Amiculum, kelpies and elementals.",
+  "evidence": [
+   "realms-of-power-magic::0740",
+   "realms-of-power-magic::0746",
+   "realms-of-power-magic::0760"
+  ]
+ },
+ {
+  "name": "Ways of the (Land)",
+  "type": "Virtue",
+  "aliases": [
+   "Ways of the Cavern",
+   "Ways of the River",
+   "Ways of the Storm",
+   "Ways of the Forest Fire"
+  ],
+  "description": "Virtue representing an elemental's intuitive understanding of the environment that spawned it, e.g. Ways of the Cavern, River, Storm, Forest Fire.",
+  "evidence": [
+   "realms-of-power-magic::0759",
+   "realms-of-power-magic::0762",
+   "realms-of-power-magic::0773"
+  ]
+ },
+ {
+  "name": "Poor Memory",
+  "type": "Flaw",
+  "description": "Inherited Flaw of all elementals.",
+  "evidence": [
+   "realms-of-power-magic::0759",
+   "realms-of-power-magic::0762"
+  ]
+ },
+ {
+  "name": "Short Attention Span",
+  "type": "Flaw",
+  "description": "Inherited Flaw of all elementals.",
+  "evidence": [
+   "realms-of-power-magic::0759",
+   "realms-of-power-magic::0762"
+  ]
+ },
+ {
+  "name": "Simple-Minded",
+  "type": "Flaw",
+  "description": "Inherited Flaw of all elementals, as they are neither alive nor truly sentient.",
+  "evidence": [
+   "realms-of-power-magic::0759",
+   "realms-of-power-magic::0762"
+  ]
+ },
+ {
+  "name": "Magical Friend",
+  "type": "Virtue",
+  "description": "Virtue possessed by the awakened cloak Amiculum.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "True Friend",
+  "type": "Virtue",
+  "description": "Virtue possessed by the awakened cloak Amiculum.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Flaw",
+  "description": "Flaw possessed by the kelpie.",
+  "evidence": [
+   "realms-of-power-magic::0750"
+  ]
+ },
+ {
+  "name": "Ferocity",
+  "type": "Virtue",
+  "description": "Minor beast-only Virtue granting Confidence points usable when the beast's natural ferocity is triggered.",
+  "evidence": [
+   "realms-of-power-magic::0794",
+   "realms-of-power-magic::0795",
+   "realms-of-power-magic::0750"
+  ]
+ },
+ {
+  "name": "Lightning Reflexes",
+  "type": "Virtue",
+  "description": "Virtue possessed by kelpies, adders and some fire elementals, prompting reflexive attacks.",
+  "evidence": [
+   "realms-of-power-magic::0750",
+   "realms-of-power-magic::0797",
+   "realms-of-power-magic::0788"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Virtue",
+  "description": "Virtue possessed by the wild boar and the sample earth elemental.",
+  "evidence": [
+   "realms-of-power-magic::0773",
+   "realms-of-power-magic::0801"
+  ]
+ },
+ {
+  "name": "Great Stamina",
+  "type": "Virtue",
+  "description": "Minor Virtue possessed by the sample earth elemental.",
+  "evidence": [
+   "realms-of-power-magic::0773"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Virtue",
+  "description": "Major Virtue of the sample air elemental letting it adopt forms of creatures it has seen.",
+  "evidence": [
+   "realms-of-power-magic::0783",
+   "realms-of-power-magic::0784"
+  ]
+ },
+ {
+  "name": "Keen Vision",
+  "type": "Virtue",
+  "description": "Minor Virtue of the sample air elemental and falcons.",
+  "evidence": [
+   "realms-of-power-magic::0783",
+   "realms-of-power-magic::0807"
+  ]
+ },
+ {
+  "name": "Puissant Hunt",
+  "type": "Virtue",
+  "description": "Minor Virtue of the sample water elemental.",
+  "evidence": [
+   "realms-of-power-magic::0778"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "description": "Flaw of adders and wolves.",
+  "evidence": [
+   "realms-of-power-magic::0797",
+   "realms-of-power-magic::0819"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "description": "Minor Flaw of bears and boars.",
+  "evidence": [
+   "realms-of-power-magic::0799",
+   "realms-of-power-magic::0801"
+  ]
+ },
+ {
+  "name": "Reclusive",
+  "type": "Flaw",
+  "description": "Flaw of the bear.",
+  "evidence": [
+   "realms-of-power-magic::0799"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "description": "Virtue of the wild boar.",
+  "evidence": [
+   "realms-of-power-magic::0801"
+  ]
+ },
+ {
+  "name": "Wrathful",
+  "type": "Flaw",
+  "description": "Minor Flaw of the wild boar.",
+  "evidence": [
+   "realms-of-power-magic::0801"
+  ]
+ },
+ {
+  "name": "Affinity with Brawl",
+  "type": "Virtue",
+  "description": "Virtue of the bull, reflecting how quickly it learns to fight.",
+  "evidence": [
+   "realms-of-power-magic::0803",
+   "realms-of-power-magic::0804"
+  ]
+ },
+ {
+  "name": "Oversensitive",
+  "type": "Flaw",
+  "description": "Flaw of the bull (to provocation).",
+  "evidence": [
+   "realms-of-power-magic::0803"
+  ]
+ },
+ {
+  "name": "Perfect Balance",
+  "type": "Virtue",
+  "description": "Virtue of the cat, granting bonuses to climbing and jumping.",
+  "evidence": [
+   "realms-of-power-magic::0805",
+   "realms-of-power-magic::0806"
+  ]
+ },
+ {
+  "name": "Puissant Awareness",
+  "type": "Virtue",
+  "description": "Virtue of the cat.",
+  "evidence": [
+   "realms-of-power-magic::0805"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "description": "Virtue of cats, hounds and wolves.",
+  "evidence": [
+   "realms-of-power-magic::0805",
+   "realms-of-power-magic::0813",
+   "realms-of-power-magic::0819"
+  ]
+ },
+ {
+  "name": "Nocturnal",
+  "type": "Flaw",
+  "description": "Flaw of the cat.",
+  "evidence": [
+   "realms-of-power-magic::0805"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "description": "Flaw of the courser horse (loud noises).",
+  "evidence": [
+   "realms-of-power-magic::0809"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "description": "Virtue of horses, hounds and wolves giving bonuses to endurance rolls.",
+  "evidence": [
+   "realms-of-power-magic::0809",
+   "realms-of-power-magic::0813",
+   "realms-of-power-magic::0814"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "description": "Flaw of the courser and palfrey.",
+  "evidence": [
+   "realms-of-power-magic::0809",
+   "realms-of-power-magic::0810"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Flaw of the destrier, charger and lion.",
+  "evidence": [
+   "realms-of-power-magic::0810",
+   "realms-of-power-magic::0811",
+   "realms-of-power-magic::0815"
+  ]
+ },
+ {
+  "name": "Puissant Brawl",
+  "type": "Virtue",
+  "description": "Virtue of the lion.",
+  "evidence": [
+   "realms-of-power-magic::0815"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "description": "Virtue of the lion.",
+  "evidence": [
+   "realms-of-power-magic::0815"
+  ]
+ },
+ {
+  "name": "Weakness",
+  "type": "Flaw",
+  "description": "Flaw of the lion (submission).",
+  "evidence": [
+   "realms-of-power-magic::0815"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Virtue",
+  "description": "Virtue of the stag (protect the herd).",
+  "evidence": [
+   "realms-of-power-magic::0817"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "description": "Flaw of the wolf (killing), reflecting its medieval perception as a bloodthirsty killer.",
+  "evidence": [
+   "realms-of-power-magic::0819",
+   "realms-of-power-magic::0820"
+  ]
+ },
+ {
+  "name": "Lesser Magic Power",
+  "type": "Virtue",
+  "description": "Virtue granted by the Rowan of Virtue amulet, equivalent to a Rego Vim ward.",
+  "evidence": [
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Clumsy",
+  "type": "Flaw",
+  "description": "Flaw of an animated tree.",
+  "evidence": [
+   "realms-of-power-magic::0733"
+  ]
+ },
+ {
+  "name": "Restricted Power",
+  "type": "Flaw",
+  "description": "Flaw of the Mandrake Root of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Weak Characteristics",
+  "type": "Flaw",
+  "description": "Flaw of the Mandrake Root of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "description": "Virtue of the Mandrake Root of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Virtue",
+  "description": "Minor Virtue and Ability possessed by Amiculum.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "Awakened Trees",
+  "type": "Creature",
+  "description": "Trees in Magic auras that are aware and capable of limited movement; at aura 6+ they are fully awake, having Cunning but no Might.",
+  "evidence": [
+   "realms-of-power-magic::0732",
+   "realms-of-power-magic::0736"
+  ]
+ },
+ {
+  "name": "Animated Tree",
+  "type": "Creature",
+  "description": "A tree made mobile by spells such as Lord of the Trees or by a spirit's Manifestation power; has no Might unless animated by Manifestation.",
+  "evidence": [
+   "realms-of-power-magic::0733",
+   "realms-of-power-magic::0734"
+  ]
+ },
+ {
+  "name": "Trees of Virtue",
+  "type": "Concept",
+  "description": "Usually awake trees with no Might containing 1-3 pawns of vis, which can be Enriched into charms granting Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0736"
+  ]
+ },
+ {
+  "name": "Blackthorn of Virtue",
+  "type": "Item",
+  "description": "Tree whose 13 Enriched thorns grant a Magic-aligned Hex power usable once each; may instead be harvested for 2 pawns of Perdo vis.",
+  "evidence": [
+   "realms-of-power-magic::0737"
+  ]
+ },
+ {
+  "name": "Hazel Tree of Virtue",
+  "type": "Item",
+  "description": "Tree with a symmetrical forked branch that can be Enriched into a Dowsing wand; contains 1 pawn of Intellego vis.",
+  "evidence": [
+   "realms-of-power-magic::0738"
+  ]
+ },
+ {
+  "name": "Oak of Virtue",
+  "type": "Item",
+  "description": "Oak whose heartwood, containing 2 pawns of Auram vis, can be Enriched to grant Lesser Immunity to lightning.",
+  "evidence": [
+   "realms-of-power-magic::0739"
+  ]
+ },
+ {
+  "name": "Rowan of Virtue",
+  "type": "Item",
+  "description": "Tree from which an Enriched protective amulet grants a ward against creatures of one supernatural Realm for seven years.",
+  "evidence": [
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Mandrake Root of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Mandrake of Virtue",
+   "Mandrake"
+  ],
+  "description": "Magic Thing root with Might 5 whose deadly scream kills those who hear it; may be Enriched to grant Premonitions or bonded as a homunculus familiar.",
+  "evidence": [
+   "realms-of-power-magic::0740",
+   "realms-of-power-magic::0741",
+   "realms-of-power-magic::0742"
+  ]
+ },
+ {
+  "name": "Deadly Scream",
+  "type": "Concept",
+  "description": "Greater Power of the mandrake root, deadly to all who hear it when pulled from the soil.",
+  "evidence": [
+   "realms-of-power-magic::0741"
+  ]
+ },
+ {
+  "name": "Stir the Slumbering Tree",
+  "type": "Spell",
+  "description": "Spell (ArM5 p.137) whose description notes most trees in Magic auras are awake.",
+  "evidence": [
+   "realms-of-power-magic::0732"
+  ]
+ },
+ {
+  "name": "Lord of the Trees",
+  "type": "Spell",
+  "description": "Hermetic spell that animates a tree; its combat statistics match those of an animated tree.",
+  "evidence": [
+   "realms-of-power-magic::0733",
+   "realms-of-power-magic::0734"
+  ]
+ },
+ {
+  "name": "Calling the Council of the Trees",
+  "type": "Spell",
+  "description": "Hermetic spell that can animate trees.",
+  "evidence": [
+   "realms-of-power-magic::0733",
+   "realms-of-power-magic::0734"
+  ]
+ },
+ {
+  "name": "Freeing the Striding Tree",
+  "type": "Spell",
+  "description": "Spell treated as equivalent to Manifestation for letting an animated tree uproot and move.",
+  "evidence": [
+   "realms-of-power-magic::0734"
+  ]
+ },
+ {
+  "name": "Crafter of Herbam",
+  "type": "Concept",
+  "description": "Common non-Hermetic power of nature spirits that can animate trees.",
+  "evidence": [
+   "realms-of-power-magic::0733"
+  ]
+ },
+ {
+  "name": "Manifestation",
+  "type": "Concept",
+  "description": "Spirit power by which a spirit inhabits and animates a tree, giving it temporary Might.",
+  "evidence": [
+   "realms-of-power-magic::0733",
+   "realms-of-power-magic::0734"
+  ]
+ },
+ {
+  "name": "War for the Woods",
+  "type": "Concept",
+  "description": "Story seed in which a covenant overharvests vis from a magical forest and awakened trees and forest spirits retaliate.",
+  "evidence": [
+   "realms-of-power-magic::0734",
+   "realms-of-power-magic::0735"
+  ]
+ },
+ {
+  "name": "The Mandrake's Scream",
+  "type": "Concept",
+  "description": "Story seed about a nobleman's son killed by a mandrake's scream at a hangman's tree.",
+  "evidence": [
+   "realms-of-power-magic::0744"
+  ]
+ },
+ {
+  "name": "Florae",
+  "type": "Creature",
+  "description": "Forest spirits that may protect a forest by animating its trees.",
+  "evidence": [
+   "realms-of-power-magic::0735",
+   "realms-of-power-magic::0736"
+  ]
+ },
+ {
+  "name": "Genius Loci",
+  "type": "Creature",
+  "description": "Spirit of place that may protect a forest by animating trees.",
+  "evidence": [
+   "realms-of-power-magic::0735"
+  ]
+ },
+ {
+  "name": "Airy Spirits",
+  "type": "Creature",
+  "description": "Spirits that often attend Trees of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0736"
+  ]
+ },
+ {
+  "name": "Homunculus",
+  "type": "Creature",
+  "description": "A mandrake root bonded by a hedge wizard like a familiar, looking like a six-inch little man.",
+  "evidence": [
+   "realms-of-power-magic::0742",
+   "realms-of-power-magic::0743"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "description": "Non-Hermetic magician who may Enrich mandrake roots or bond them as homunculi.",
+  "evidence": [
+   "realms-of-power-magic::0742",
+   "realms-of-power-magic::0743"
+  ]
+ },
+ {
+  "name": "Awakened Items",
+  "type": "Concept",
+  "description": "Magical devices that become magic things through lab accidents or exposure to the Magic Realm.",
+  "evidence": [
+   "realms-of-power-magic::0745"
+  ]
+ },
+ {
+  "name": "Amiculum",
+  "type": "Item",
+  "description": "An awakened white woolen cloak and former talisman of a Hermetic magus that returned from his Twilight as an independent magical being with Magic Might 5.",
+  "evidence": [
+   "realms-of-power-magic::0746",
+   "realms-of-power-magic::0747",
+   "realms-of-power-magic::0748"
+  ]
+ },
+ {
+  "name": "Cloak of the Duck's Feathers",
+  "type": "Spell",
+  "description": "Aquam effect held by Amiculum as a constant Lesser Power.",
+  "evidence": [
+   "realms-of-power-magic::0746",
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "Whiten the Wear of Travel",
+  "type": "Spell",
+  "description": "Amiculum's Lesser Power that removes dirt and mends small tears in the cloak.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "The Woolen Cloud",
+  "type": "Spell",
+  "description": "Amiculum's Lesser Power letting it float and carry up to two people.",
+  "evidence": [
+   "realms-of-power-magic::0746",
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "description": "A magus's personal enchanted item; Amiculum was its master's talisman.",
+  "evidence": [
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "State into which Amiculum's master went, from which the talisman returned as an independent being.",
+  "evidence": [
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic protection that Amiculum's powers need not penetrate to affect its master.",
+  "evidence": [
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "Kelpie",
+  "type": "Creature",
+  "description": "Carnivorous magical creature (Might 20 Aquam) of deep fresh-water pools, a mass of tentacles that can turn into a black stallion to lure and drown victims.",
+  "evidence": [
+   "realms-of-power-magic::0749",
+   "realms-of-power-magic::0750",
+   "realms-of-power-magic::0752"
+  ]
+ },
+ {
+  "name": "Equine Metamorphosis",
+  "type": "Concept",
+  "description": "Kelpie power transforming it into a black stallion.",
+  "evidence": [
+   "realms-of-power-magic::0750",
+   "realms-of-power-magic::0751"
+  ]
+ },
+ {
+  "name": "Equine Charisma",
+  "type": "Concept",
+  "description": "Kelpie power making itself alluring to victims.",
+  "evidence": [
+   "realms-of-power-magic::0751"
+  ]
+ },
+ {
+  "name": "Fleet of Foot",
+  "type": "Concept",
+  "description": "Kelpie power letting it travel three times a normal horse's speed in stallion form.",
+  "evidence": [
+   "realms-of-power-magic::0751"
+  ]
+ },
+ {
+  "name": "To Break a Kelpie",
+  "type": "Concept",
+  "description": "Story seed in which a Highland clan chief commissions a magical bridle to capture a kelpie, risking breach of the Peripheral Code.",
+  "evidence": [
+   "realms-of-power-magic::0752"
+  ]
+ },
+ {
+  "name": "Scottish Highlands",
+  "type": "Place",
+  "description": "Region whose clans figure in the kelpie story seed.",
+  "evidence": [
+   "realms-of-power-magic::0752"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Hermetic legal code; aiding a chieftain might breach it as interference with mundanes.",
+  "evidence": [
+   "realms-of-power-magic::0752"
+  ]
+ },
+ {
+  "name": "Elementals",
+  "type": "Creature",
+  "aliases": [
+   "Elemental"
+  ],
+  "description": "Magic Things composed of pure elemental matter that rarefy under magical impetus; not alive, ageless and without thought.",
+  "evidence": [
+   "realms-of-power-magic::0753",
+   "realms-of-power-magic::0754",
+   "realms-of-power-magic::0760"
+  ]
+ },
+ {
+  "name": "Rarefication",
+  "type": "Concept",
+  "aliases": [
+   "rarefy"
+  ],
+  "description": "Process by which raw elemental matter takes on pseudo-life and self-organizes into an elemental.",
+  "evidence": [
+   "realms-of-power-magic::0753",
+   "realms-of-power-magic::0756"
+  ]
+ },
+ {
+  "name": "Atoms",
+  "type": "Concept",
+  "aliases": [
+   "atomas"
+  ],
+  "description": "Four varieties of uncuttable building blocks of the universe (earth, water, air, fire), each with two qualities.",
+  "evidence": [
+   "realms-of-power-magic::0754"
+  ]
+ },
+ {
+  "name": "Corpuscles",
+  "type": "Concept",
+  "description": "Building blocks of matter with shape: cubes for earth, icosahedra for water, octahedra for air, tetrahedra for fire.",
+  "evidence": [
+   "realms-of-power-magic::0754",
+   "realms-of-power-magic::0755"
+  ]
+ },
+ {
+  "name": "Lunar Sphere",
+  "type": "Place",
+  "description": "Region beyond the region of fire separating the material and celestial realms.",
+  "evidence": [
+   "realms-of-power-magic::0755"
+  ]
+ },
+ {
+  "name": "Rarefy the Crude Water",
+  "type": "Spell",
+  "description": "Creo Aquam 30 Ritual spell creating a water elemental from a pool of water.",
+  "evidence": [
+   "realms-of-power-magic::0757",
+   "realms-of-power-magic::0758"
+  ]
+ },
+ {
+  "name": "Command the Living Fire",
+  "type": "Spell",
+  "description": "Rego Ignem 20 spell to control a fire elemental of up to Size 0.",
+  "evidence": [
+   "realms-of-power-magic::0758"
+  ]
+ },
+ {
+  "name": "Words of the Flickering Flame",
+  "type": "Spell",
+  "description": "Spell used to understand an elemental's communication.",
+  "evidence": [
+   "realms-of-power-magic::0760"
+  ]
+ },
+ {
+  "name": "Voice of the Lake",
+  "type": "Spell",
+  "description": "Spell used to understand an elemental's communication.",
+  "evidence": [
+   "realms-of-power-magic::0760"
+  ]
+ },
+ {
+  "name": "Incantation of Lightning",
+  "type": "Spell",
+  "description": "Spell which cast in a Magic aura can rarefy an elemental, per a story seed.",
+  "evidence": [
+   "realms-of-power-magic::0763"
+  ]
+ },
+ {
+  "name": "The Forgotten Child",
+  "type": "Concept",
+  "description": "Story seed where a magus unwittingly rarefies an elemental.",
+  "evidence": [
+   "realms-of-power-magic::0763"
+  ]
+ },
+ {
+  "name": "The Unforgiving Sea",
+  "type": "Concept",
+  "description": "Story seed about a magus trapped by a water elemental grown too powerful.",
+  "evidence": [
+   "realms-of-power-magic::0763",
+   "realms-of-power-magic::0764"
+  ]
+ },
+ {
+  "name": "Lunchtime in the Vis Stores",
+  "type": "Concept",
+  "description": "Story seed about a dormant earth elemental consuming a covenant's Terram vis.",
+  "evidence": [
+   "realms-of-power-magic::0764"
+  ]
+ },
+ {
+  "name": "Temporary Might",
+  "type": "Concept",
+  "description": "Magical Inferiority of all elementals making Might recovery difficult; broken-off pieces contain vis.",
+  "evidence": [
+   "realms-of-power-magic::0766",
+   "realms-of-power-magic::0767"
+  ]
+ },
+ {
+  "name": "No Fatigue",
+  "type": "Concept",
+  "description": "Magical Quality possessed by elementals and animated trees.",
+  "evidence": [
+   "realms-of-power-magic::0733",
+   "realms-of-power-magic::0766"
+  ]
+ },
+ {
+  "name": "Earth Elemental",
+  "type": "Creature",
+  "aliases": [
+   "genomus",
+   "genomi",
+   "gnomes",
+   "pygmaei",
+   "telluri"
+  ],
+  "description": "Genomi: territorial, patient elementals of unworked earth, strong and fast, that crush prey and thirst for moisture.",
+  "evidence": [
+   "realms-of-power-magic::0770",
+   "realms-of-power-magic::0771",
+   "realms-of-power-magic::0773"
+  ]
+ },
+ {
+  "name": "Water Elemental",
+  "type": "Creature",
+  "aliases": [
+   "lympha",
+   "lymphae",
+   "undines",
+   "undena",
+   "ondines",
+   "aquacolae",
+   "nymphs",
+   "alcyones"
+  ],
+  "description": "Lymphae: elementals of naturally occurring water, resilient and slow, that collect substances and drown opponents.",
+  "evidence": [
+   "realms-of-power-magic::0775",
+   "realms-of-power-magic::0776",
+   "realms-of-power-magic::0778"
+  ]
+ },
+ {
+  "name": "Air Elemental",
+  "type": "Creature",
+  "aliases": [
+   "zephyrus",
+   "zephyri",
+   "silvestres",
+   "sylphs",
+   "aeoliae",
+   "nenuphas",
+   "brontes"
+  ],
+  "description": "Zephyrus: restless, highly perceptive elementals of open air and weather, including wind, cloud and lightning elementals.",
+  "evidence": [
+   "realms-of-power-magic::0780",
+   "realms-of-power-magic::0781",
+   "realms-of-power-magic::0783"
+  ]
+ },
+ {
+  "name": "Fire Elemental",
+  "type": "Creature",
+  "aliases": [
+   "phlegethus",
+   "phlegethi",
+   "ignigena",
+   "vulcans",
+   "rolamandri",
+   "salamanders",
+   "aethnici"
+  ],
+  "description": "Phlegethi: elementals of naturally occurring flame that desire to burn and can beguile onlookers.",
+  "evidence": [
+   "realms-of-power-magic::0785",
+   "realms-of-power-magic::0786",
+   "realms-of-power-magic::0788"
+  ]
+ },
+ {
+  "name": "Crush",
+  "type": "Concept",
+  "description": "Obligatory Greater Power of earth elementals, a clubbing attack that can pin and damage equipment.",
+  "evidence": [
+   "realms-of-power-magic::0766",
+   "realms-of-power-magic::0772"
+  ]
+ },
+ {
+  "name": "The Red Touch",
+  "type": "Concept",
+  "description": "Earth elemental power rusting metal to dust.",
+  "evidence": [
+   "realms-of-power-magic::0772"
+  ]
+ },
+ {
+  "name": "Slake Thirst",
+  "type": "Concept",
+  "description": "Earth elemental power drawing water from targets.",
+  "evidence": [
+   "realms-of-power-magic::0772",
+   "realms-of-power-magic::0773"
+  ]
+ },
+ {
+  "name": "Drown",
+  "type": "Concept",
+  "description": "Obligatory Greater Power of water elementals, engulfing and drowning targets.",
+  "evidence": [
+   "realms-of-power-magic::0766",
+   "realms-of-power-magic::0777"
+  ]
+ },
+ {
+  "name": "Chill Touch",
+  "type": "Concept",
+  "description": "Water elemental power extracting heat for +10 damage.",
+  "evidence": [
+   "realms-of-power-magic::0777",
+   "realms-of-power-magic::0779"
+  ]
+ },
+ {
+  "name": "Sight of the River",
+  "type": "Concept",
+  "description": "Water elemental power to view any location connected by water.",
+  "evidence": [
+   "realms-of-power-magic::0777",
+   "realms-of-power-magic::0778"
+  ]
+ },
+ {
+  "name": "Crafter of Water",
+  "type": "Concept",
+  "description": "Power duplicating Creo or Rego Aquam spells of level 15 or below.",
+  "evidence": [
+   "realms-of-power-magic::0778",
+   "realms-of-power-magic::0779"
+  ]
+ },
+ {
+  "name": "Suffocate",
+  "type": "Concept",
+  "description": "Obligatory Greater Power of air elementals, entering a victim's lungs.",
+  "evidence": [
+   "realms-of-power-magic::0766",
+   "realms-of-power-magic::0782"
+  ]
+ },
+ {
+  "name": "Dissolution",
+  "type": "Concept",
+  "description": "Air elemental power making matter lose cohesion and melt.",
+  "evidence": [
+   "realms-of-power-magic::0782",
+   "realms-of-power-magic::0783"
+  ]
+ },
+ {
+  "name": "Jupiter's Touch",
+  "type": "Concept",
+  "description": "Air elemental power causing lightning for +30 damage.",
+  "evidence": [
+   "realms-of-power-magic::0783",
+   "realms-of-power-magic::0784"
+  ]
+ },
+ {
+  "name": "Charge of the Angry Winds",
+  "type": "Spell",
+  "description": "Spell mimicked as a power by the sample air elemental.",
+  "evidence": [
+   "realms-of-power-magic::0783",
+   "realms-of-power-magic::0784"
+  ]
+ },
+ {
+  "name": "Burn",
+  "type": "Concept",
+  "description": "Obligatory Greater Power of fire elementals, damaging and igniting what touches them.",
+  "evidence": [
+   "realms-of-power-magic::0766",
+   "realms-of-power-magic::0787"
+  ]
+ },
+ {
+  "name": "Fascination",
+  "type": "Concept",
+  "description": "Fire elemental power entrancing those who see its flames.",
+  "evidence": [
+   "realms-of-power-magic::0787",
+   "realms-of-power-magic::0789"
+  ]
+ },
+ {
+  "name": "Heat of the Searing Forge",
+  "type": "Spell",
+  "description": "Creo Ignem spell mimicked as a fire elemental power.",
+  "evidence": [
+   "realms-of-power-magic::0787",
+   "realms-of-power-magic::0788"
+  ]
+ },
+ {
+  "name": "Enliven the Gross Fire",
+  "type": "Concept",
+  "description": "Ritual power letting a fire elemental spawn more fire elementals.",
+  "evidence": [
+   "realms-of-power-magic::0788",
+   "realms-of-power-magic::0789"
+  ]
+ },
+ {
+  "name": "Salamander",
+  "type": "Creature",
+  "description": "Beast of Virtue not to be confused with fire elementals called salamanders.",
+  "evidence": [
+   "realms-of-power-magic::0785"
+  ]
+ },
+ {
+  "name": "Art & Academe",
+  "type": "Concept",
+  "description": "Supplement referenced for more details on elemental physics.",
+  "evidence": [
+   "realms-of-power-magic::0755"
+  ]
+ },
+ {
+  "name": "Mundane Beasts",
+  "type": "Concept",
+  "description": "Beasts of Mythic Europe with no Might and no vis, using Cunning instead of Intelligence.",
+  "evidence": [
+   "realms-of-power-magic::0790",
+   "realms-of-power-magic::0791"
+  ]
+ },
+ {
+  "name": "Beast Qualities",
+  "type": "Concept",
+  "description": "Features of animals affecting capabilities, from Houses of Hermes: Mystery Cults.",
+  "evidence": [
+   "realms-of-power-magic::0793"
+  ]
+ },
+ {
+  "name": "Adder",
+  "type": "Creature",
+  "aliases": [
+   "Viperis"
+  ],
+  "description": "Venomous small snake common in Mythic Europe except Ireland, with a Venomous Bite.",
+  "evidence": [
+   "realms-of-power-magic::0797",
+   "realms-of-power-magic::0798"
+  ]
+ },
+ {
+  "name": "Bear",
+  "type": "Creature",
+  "aliases": [
+   "Ursus",
+   "brown bear"
+  ],
+  "description": "Brown bear, a large shaggy beast of forests and mountains, ferocious when wounded.",
+  "evidence": [
+   "realms-of-power-magic::0799",
+   "realms-of-power-magic::0800"
+  ]
+ },
+ {
+  "name": "Wild Boar",
+  "type": "Creature",
+  "aliases": [
+   "Aper",
+   "la bête noire"
+  ],
+  "description": "Tusked forest beast of evil temper called la bête noire, hunted by noblemen.",
+  "evidence": [
+   "realms-of-power-magic::0801",
+   "realms-of-power-magic::0802"
+  ]
+ },
+ {
+  "name": "Bull",
+  "type": "Creature",
+  "aliases": [
+   "Taurus"
+  ],
+  "description": "Spanish-type bull easily provoked, fought by Moorish nobles and used in bull-baiting.",
+  "evidence": [
+   "realms-of-power-magic::0803",
+   "realms-of-power-magic::0804"
+  ]
+ },
+ {
+  "name": "Cat",
+  "type": "Creature",
+  "aliases": [
+   "Felis"
+  ],
+  "description": "Domestic cat with a reputation for evil among common folk, keen-eyed and agile.",
+  "evidence": [
+   "realms-of-power-magic::0805",
+   "realms-of-power-magic::0806"
+  ]
+ },
+ {
+  "name": "European Wildcat",
+  "type": "Creature",
+  "description": "Wild cat with thicker shaggy coat and bushy tail.",
+  "evidence": [
+   "realms-of-power-magic::0806"
+  ]
+ },
+ {
+  "name": "Falcon",
+  "type": "Creature",
+  "aliases": [
+   "Falco",
+   "gyrfalcon"
+  ],
+  "description": "Gyrfalcon, swiftest of birds, used by nobles to hunt game birds.",
+  "evidence": [
+   "realms-of-power-magic::0807",
+   "realms-of-power-magic::0808"
+  ]
+ },
+ {
+  "name": "Courser",
+  "type": "Creature",
+  "aliases": [
+   "Equus"
+  ],
+  "description": "Swift light horse like the Andalusian used for hunting and travel, not trained for battle.",
+  "evidence": [
+   "realms-of-power-magic::0809",
+   "realms-of-power-magic::0810"
+  ]
+ },
+ {
+  "name": "Charger",
+  "type": "Creature",
+  "description": "Light horse trained for battle, derived from the courser.",
+  "evidence": [
+   "realms-of-power-magic::0810"
+  ]
+ },
+ {
+  "name": "Palfrey",
+  "type": "Creature",
+  "description": "Gentle-gaited riding horse, often for ladies or inexperienced riders.",
+  "evidence": [
+   "realms-of-power-magic::0810"
+  ]
+ },
+ {
+  "name": "Destrier",
+  "type": "Creature",
+  "description": "Heavy war horse such as the Percheron, trained to charge and fight.",
+  "evidence": [
+   "realms-of-power-magic::0811",
+   "realms-of-power-magic::0812"
+  ]
+ },
+ {
+  "name": "Hound",
+  "type": "Creature",
+  "aliases": [
+   "Canis",
+   "bloodhound"
+  ],
+  "description": "Large hunting dog such as the bloodhound, loyal and keen-scented.",
+  "evidence": [
+   "realms-of-power-magic::0813",
+   "realms-of-power-magic::0814"
+  ]
+ },
+ {
+  "name": "Lion",
+  "type": "Creature",
+  "aliases": [
+   "Leo"
+  ],
+  "description": "Legendary fierce beast said by Pliny to have lived in Greece; will not attack a prostrate man.",
+  "evidence": [
+   "realms-of-power-magic::0815",
+   "realms-of-power-magic::0816"
+  ]
+ },
+ {
+  "name": "Stag",
+  "type": "Creature",
+  "aliases": [
+   "Cervus",
+   "red deer"
+  ],
+  "description": "Red deer, favorite quarry of hunters, which flees to protect its herd.",
+  "evidence": [
+   "realms-of-power-magic::0817",
+   "realms-of-power-magic::0818"
+  ]
+ },
+ {
+  "name": "Wolf",
+  "type": "Creature",
+  "aliases": [
+   "Lupus"
+  ],
+  "description": "Feared bloodthirsty pack predator found throughout Mythic Europe.",
+  "evidence": [
+   "realms-of-power-magic::0819",
+   "realms-of-power-magic::0820"
+  ]
+ },
+ {
+  "name": "Venomous Bite",
+  "type": "Concept",
+  "description": "Adder power inflicting adder venom if its Attack Advantage exceeds armor Protection.",
+  "evidence": [
+   "realms-of-power-magic::0797"
+  ]
+ },
+ {
+  "name": "Master of the Pack",
+  "type": "CharacterType",
+  "description": "Human who leads a pack of dogs as a trained group using Animal Handling.",
+  "evidence": [
+   "realms-of-power-magic::0814"
+  ]
+ },
+ {
+  "name": "Charles Martel",
+  "type": "Character",
+  "description": "Historical figure (8th century) since whose time destriers have been bred.",
+  "evidence": [
+   "realms-of-power-magic::0811"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "description": "Points that beasts with Ferocity may spend in battle under certain circumstances.",
+  "evidence": [
+   "realms-of-power-magic::0794",
+   "realms-of-power-magic::0795"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting whose beasts and nature are described.",
+  "evidence": [
+   "realms-of-power-magic::0741",
+   "realms-of-power-magic::0790",
+   "realms-of-power-magic::0796"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "description": "Land where the adder is not found.",
+  "evidence": [
+   "realms-of-power-magic::0798"
+  ]
+ },
+ {
+  "name": "Pyrenees",
+  "type": "Place",
+  "description": "Wilderness area where bears are common.",
+  "evidence": [
+   "realms-of-power-magic::0800"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Place",
+  "description": "Wilderness area where bears are common.",
+  "evidence": [
+   "realms-of-power-magic::0800"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "description": "Northern land where bears and gyrfalcons live.",
+  "evidence": [
+   "realms-of-power-magic::0800",
+   "realms-of-power-magic::0807"
+  ]
+ },
+ {
+  "name": "Russia",
+  "type": "Place",
+  "description": "Land where bears and gyrfalcons live.",
+  "evidence": [
+   "realms-of-power-magic::0800",
+   "realms-of-power-magic::0807"
+  ]
+ },
+ {
+  "name": "Iceland",
+  "type": "Place",
+  "description": "Cold northern land home to gyrfalcons.",
+  "evidence": [
+   "realms-of-power-magic::0807"
+  ]
+ },
+ {
+  "name": "Spain",
+  "type": "Place",
+  "description": "Land where Moorish nobles fight bulls from horseback.",
+  "evidence": [
+   "realms-of-power-magic::0804"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "description": "Land where the cat's bad reputation is unknown.",
+  "evidence": [
+   "realms-of-power-magic::0806"
+  ]
+ },
+ {
+  "name": "Achelous",
+  "type": "Place",
+  "description": "River in Greece bounding the lion's European range per Pliny.",
+  "evidence": [
+   "realms-of-power-magic::0816"
+  ]
+ },
+ {
+  "name": "Mestus",
+  "type": "Place",
+  "description": "River in Greece bounding the lion's European range per Pliny.",
+  "evidence": [
+   "realms-of-power-magic::0816"
+  ]
+ },
+ {
+  "name": "North Africa",
+  "type": "Place",
+  "description": "Region where lions and wolves live.",
+  "evidence": [
+   "realms-of-power-magic::0816",
+   "realms-of-power-magic::0820"
+  ]
+ },
+ {
+  "name": "Syria",
+  "type": "Place",
+  "description": "Region lions inhabited per Pliny.",
+  "evidence": [
+   "realms-of-power-magic::0816"
+  ]
+ },
+ {
+  "name": "India",
+  "type": "Place",
+  "description": "Land where Pliny writes of magical bulls.",
+  "evidence": [
+   "realms-of-power-magic::0803"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form; Fennel of Virtue contains Vim vis.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique; several Objects of Virtue contain Intellego vis.",
+  "evidence": [
+   "realms-of-power-magic::0721",
+   "realms-of-power-magic::0724",
+   "realms-of-power-magic::0729"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form; Pennyroyal of Virtue and mandrake contain Corpus vis.",
+  "evidence": [
+   "realms-of-power-magic::0721",
+   "realms-of-power-magic::0741"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form; Periwinkle, Amethyst and Topaz of Virtue contain Mentem vis.",
+  "evidence": [
+   "realms-of-power-magic::0722",
+   "realms-of-power-magic::0723",
+   "realms-of-power-magic::0726"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique; Ritual Creo spells can create elementals.",
+  "evidence": [
+   "realms-of-power-magic::0724",
+   "realms-of-power-magic::0756"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form of earth, governing earth elementals.",
+  "evidence": [
+   "realms-of-power-magic::0724",
+   "realms-of-power-magic::0772",
+   "realms-of-power-magic::0774"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form; Emerald of Virtue and Amiculum carry Animal vis.",
+  "evidence": [
+   "realms-of-power-magic::0726",
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Technique; Perdo spells can destroy elementals' matter.",
+  "evidence": [
+   "realms-of-power-magic::0726",
+   "realms-of-power-magic::0757",
+   "realms-of-power-magic::0768"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form of air, governing air elementals.",
+  "evidence": [
+   "realms-of-power-magic::0728",
+   "realms-of-power-magic::0782"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form of water, governing water elementals and kelpies.",
+  "evidence": [
+   "realms-of-power-magic::0730",
+   "realms-of-power-magic::0750",
+   "realms-of-power-magic::0777"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Technique; Fairy Loaves contain Muto vis.",
+  "evidence": [
+   "realms-of-power-magic::0730",
+   "realms-of-power-magic::0757"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique used to control elementals.",
+  "evidence": [
+   "realms-of-power-magic::0756",
+   "realms-of-power-magic::0757"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form of fire, governing fire elementals.",
+  "evidence": [
+   "realms-of-power-magic::0758",
+   "realms-of-power-magic::0787"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Form of plants; trees may yield Herbam vis.",
+  "evidence": [
+   "realms-of-power-magic::0736",
+   "realms-of-power-magic::0733"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form used in kelpie and water elemental powers.",
+  "evidence": [
+   "realms-of-power-magic::0751",
+   "realms-of-power-magic::0777"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power measured in pawns, found in Things of Virtue, trees and elementals.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0736",
+   "realms-of-power-magic::0767"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "description": "Aura of the Magic Realm in which things are superior examples of their kind and elementals can form.",
+  "evidence": [
+   "realms-of-power-magic::0732",
+   "realms-of-power-magic::0753",
+   "realms-of-power-magic::0756"
+  ]
+ },
+ {
+  "name": "Faerie Aura",
+  "type": "Concept",
+  "description": "Aura visited in the Enrichment of Fairy Loaves.",
+  "evidence": [
+   "realms-of-power-magic::0730"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "description": "Divine aura; mandrakes grow beneath hangman's trees outside it.",
+  "evidence": [
+   "realms-of-power-magic::0742"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Magical effect caused by Objects of Virtue; Warped raw matter may rarefy into an elemental.",
+  "evidence": [
+   "realms-of-power-magic::0723",
+   "realms-of-power-magic::0753"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "description": "Measure of supernatural power; awakened trees have none while elementals' Size depends on it.",
+  "evidence": [
+   "realms-of-power-magic::0732",
+   "realms-of-power-magic::0766"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance possessed independently by a kelpie mount.",
+  "evidence": [
+   "realms-of-power-magic::0749",
+   "realms-of-power-magic::0769"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Concept",
+  "description": "Class of magical power used by many Things of Virtue and creatures.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0728",
+   "realms-of-power-magic::0766"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Concept",
+  "description": "Class of magical power used by Things of Virtue and creatures.",
+  "evidence": [
+   "realms-of-power-magic::0724",
+   "realms-of-power-magic::0730",
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Link needed to curse a victim with Blackthorn of Virtue thorns.",
+  "evidence": [
+   "realms-of-power-magic::0737"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "Bonded animal of a Hermetic magus; mandrake homunculi are used similarly.",
+  "evidence": [
+   "realms-of-power-magic::0742"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Concept",
+  "description": "The order of magi, which knows spells catalyzing rarefication and names elementals.",
+  "evidence": [
+   "realms-of-power-magic::0743",
+   "realms-of-power-magic::0753",
+   "realms-of-power-magic::0780"
+  ]
+ },
+ {
+  "name": "Magical Qualities and Inferiorities",
+  "type": "Concept",
+  "description": "Purchased features of magic characters; elementals' Characteristics are bought with matching Qualities and Inferiorities.",
+  "evidence": [
+   "realms-of-power-magic::0761",
+   "realms-of-power-magic::0762"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "The supernatural Realm to which Things of Virtue, elementals and Blackthorn's Hex are aligned.",
+  "evidence": [
+   "realms-of-power-magic::0737",
+   "realms-of-power-magic::0740",
+   "realms-of-power-magic::0745"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Supernatural Realm; Fennel of Virtue weakens creatures of Infernal Might.",
+  "evidence": [
+   "realms-of-power-magic::0720",
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Supernatural Realm; the Rowan amulet can ward against its creatures.",
+  "evidence": [
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm which the Rowan of Virtue amulet cannot ward against.",
+  "evidence": [
+   "realms-of-power-magic::0740"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "magus",
+   "magi"
+  ],
+  "description": "Member of the Order of Hermes; Amiculum's master was one.",
+  "evidence": [
+   "realms-of-power-magic::0743",
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House; more than one Flambeau magus has accidentally rarefied a fire elemental.",
+  "evidence": [
+   "realms-of-power-magic::0756"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "description": "Home of magi, whose vis stores and nearby forests feature in story seeds.",
+  "evidence": [
+   "realms-of-power-magic::0735",
+   "realms-of-power-magic::0752",
+   "realms-of-power-magic::0764"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability used by animated trees, elementals and beasts for natural attacks.",
+  "evidence": [
+   "realms-of-power-magic::0734",
+   "realms-of-power-magic::0765",
+   "realms-of-power-magic::0799"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability all elementals must have at a score equal to their Might magnitude.",
+  "evidence": [
+   "realms-of-power-magic::0765",
+   "realms-of-power-magic::0807"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "description": "Ability water elementals use instead of Athletics.",
+  "evidence": [
+   "realms-of-power-magic::0765",
+   "realms-of-power-magic::0779"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability for getting powers past Magic Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0741",
+   "realms-of-power-magic::0773"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "description": "Ability used to ride a trained kelpie.",
+  "evidence": [
+   "realms-of-power-magic::0749"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability commonly possessed by elementals and beasts.",
+  "evidence": [
+   "realms-of-power-magic::0765",
+   "realms-of-power-magic::0797"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability possessed by kelpies, elementals and beasts.",
+  "evidence": [
+   "realms-of-power-magic::0750",
+   "realms-of-power-magic::0765",
+   "realms-of-power-magic::0797"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Ability often possessed by elementals.",
+  "evidence": [
+   "realms-of-power-magic::0765",
+   "realms-of-power-magic::0784"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability of kelpies, earth elementals and predators.",
+  "evidence": [
+   "realms-of-power-magic::0750",
+   "realms-of-power-magic::0797"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability of Amiculum and many beasts.",
+  "evidence": [
+   "realms-of-power-magic::0746",
+   "realms-of-power-magic::0797"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability of kelpies and fire elementals.",
+  "evidence": [
+   "realms-of-power-magic::0750",
+   "realms-of-power-magic::0789"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Language Amiculum understands.",
+  "evidence": [
+   "realms-of-power-magic::0746",
+   "realms-of-power-magic::0747"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "description": "Ability possessed by Amiculum.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability of the wolf pack leader.",
+  "evidence": [
+   "realms-of-power-magic::0820"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability a Master of the Pack uses to command dogs.",
+  "evidence": [
+   "realms-of-power-magic::0814"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability possessed by Amiculum.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "description": "Ability possessed by Amiculum.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability possessed by Amiculum.",
+  "evidence": [
+   "realms-of-power-magic::0746"
+  ]
+ }
+]

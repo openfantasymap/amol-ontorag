@@ -1,0 +1,2000 @@
+[
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie",
+   "Realm of Stories"
+  ],
+  "description": "The realm of stories reached across the Threshold, subject to human creativity and glamour; visitors gain fable points and warping there.",
+  "evidence": [
+   "realms-of-power-faerie::0121",
+   "realms-of-power-faerie::0126",
+   "realms-of-power-faerie::0168"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "description": "The face of the Faerie Realm where new stories are born, reached by the Path of Chance; a place of adventure where players share control of the story.",
+  "evidence": [
+   "realms-of-power-faerie::0168",
+   "realms-of-power-faerie::0169",
+   "realms-of-power-faerie::0170"
+  ]
+ },
+ {
+  "name": "Elysium",
+  "type": "Place",
+  "aliases": [
+   "Land of Legend"
+  ],
+  "description": "The Land of Legend, a face of the Faerie Realm where all stories already told live on as faerie copies and can be reenacted.",
+  "evidence": [
+   "realms-of-power-faerie::0176",
+   "realms-of-power-faerie::0177",
+   "realms-of-power-faerie::0130"
+  ]
+ },
+ {
+  "name": "Eudokia",
+  "type": "Place",
+  "description": "A face of the Faerie Realm where personal dilemmas and life changes are faced through moral fables along the Forking Path.",
+  "evidence": [
+   "realms-of-power-faerie::0203",
+   "realms-of-power-faerie::0204",
+   "realms-of-power-faerie::0206"
+  ]
+ },
+ {
+  "name": "Path of Chance",
+  "type": "Place",
+  "description": "The rambling road into Arcadia, named because journeys along it have no plan or purpose; most trods lead to it.",
+  "evidence": [
+   "realms-of-power-faerie::0168",
+   "realms-of-power-faerie::0170",
+   "realms-of-power-faerie::0173"
+  ]
+ },
+ {
+  "name": "Path of Destiny",
+  "type": "Place",
+  "aliases": [
+   "Road of Destiny"
+  ],
+  "description": "The road into Elysium by which a character takes a role in a legendary story to gain a boon; rarely found by accident.",
+  "evidence": [
+   "realms-of-power-faerie::0177",
+   "realms-of-power-faerie::0185",
+   "realms-of-power-faerie::0192"
+  ]
+ },
+ {
+  "name": "Forking Path",
+  "type": "Place",
+  "aliases": [
+   "Forked Path"
+  ],
+  "description": "The path into Eudokia, embarked upon by those entering a Faerie Aura on the verge of a major life change.",
+  "evidence": [
+   "realms-of-power-faerie::0203",
+   "realms-of-power-faerie::0204",
+   "realms-of-power-faerie::0216"
+  ]
+ },
+ {
+  "name": "Mother Road",
+  "type": "Place",
+  "description": "A route that can deposit characters leaving Faerie somewhere other than where they entered.",
+  "evidence": [
+   "realms-of-power-faerie::0152"
+  ]
+ },
+ {
+  "name": "Summerlands",
+  "type": "Place",
+  "aliases": [
+   "Lands of Summer"
+  ],
+  "description": "Land of Summer where pies grow on trees and rivers run with mead and milk; where one is forever young.",
+  "evidence": [
+   "realms-of-power-faerie::0236"
+  ]
+ },
+ {
+  "name": "Ironwood",
+  "type": "Place",
+  "description": "The traditional abode of the hag, filled with her wolfish children, in the Perilous Forest story element.",
+  "evidence": [
+   "realms-of-power-faerie::0238"
+  ]
+ },
+ {
+  "name": "Maddenhofen woods",
+  "type": "Place",
+  "description": "Woods into which the Founder Tytalus disappeared with no spectators.",
+  "evidence": [
+   "realms-of-power-faerie::0189"
+  ]
+ },
+ {
+  "name": "Asgard",
+  "type": "Place",
+  "description": "Home of the Norse gods, from which Idun was abducted in legend.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Palace of Woven Grass",
+  "type": "Place",
+  "description": "Example story element: prison of the child stolen by the Rye-King.",
+  "evidence": [
+   "realms-of-power-faerie::0174"
+  ]
+ },
+ {
+  "name": "Wounded River",
+  "type": "Place",
+  "description": "Random story element, a river of blood where Arduinna bathes and the Stone Drum is hidden in the example story.",
+  "evidence": [
+   "realms-of-power-faerie::0165",
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "The Market at the Crossroads",
+  "type": "Place",
+  "description": "Scenery story element: a faerie market of rough stalls where purchases are not always what they seem.",
+  "evidence": [
+   "realms-of-power-faerie::0233"
+  ]
+ },
+ {
+  "name": "The Glass Mountain",
+  "type": "Place",
+  "aliases": [
+   "glass cliff"
+  ],
+  "description": "Scenery story element: a towering mountain of smooth green glass topped by a castle and guarded by giant birds.",
+  "evidence": [
+   "realms-of-power-faerie::0237"
+  ]
+ },
+ {
+  "name": "The Perilous Forest",
+  "type": "Place",
+  "description": "Scenery story element: a dark, foreboding wood hiding outlaws, hermits, magical trees, and beasts.",
+  "evidence": [
+   "realms-of-power-faerie::0238"
+  ]
+ },
+ {
+  "name": "The Forbidden Chamber",
+  "type": "Place",
+  "description": "Scenery story element: a room in a castle everyone is forbidden to enter, testing curiosity against obedience.",
+  "evidence": [
+   "realms-of-power-faerie::0235"
+  ]
+ },
+ {
+  "name": "The Abandoned Shrine",
+  "type": "Place",
+  "description": "Scenery story element: a standing stone carved with glyphs where a slumbering god can be woken by innocent blood.",
+  "evidence": [
+   "realms-of-power-faerie::0239"
+  ]
+ },
+ {
+  "name": "Winter (Story Element)",
+  "type": "Concept",
+  "description": "Scenery story element of snow and frost representing sterility and patience, a guardian or prison.",
+  "evidence": [
+   "realms-of-power-faerie::0234"
+  ]
+ },
+ {
+  "name": "Summer (Story Element)",
+  "type": "Concept",
+  "description": "Scenery story element of bounty and vigor that lulls one to sloth.",
+  "evidence": [
+   "realms-of-power-faerie::0236"
+  ]
+ },
+ {
+  "name": "The Empty Forest",
+  "type": "Place",
+  "description": "Example Eudokian story element: a forest villain whose trees resent animals.",
+  "evidence": [
+   "realms-of-power-faerie::0213"
+  ]
+ },
+ {
+  "name": "The Ancient Wall",
+  "type": "Place",
+  "description": "Example Eudokian story element doubling as Guardian of the Threshold, which must be climbed properly.",
+  "evidence": [
+   "realms-of-power-faerie::0212",
+   "realms-of-power-faerie::0213"
+  ]
+ },
+ {
+  "name": "Fable Score",
+  "type": "Concept",
+  "description": "Measures accumulated vitality spent in Faerie; determines time dilation and warping on leaving and lets characters swap Virtues and Flaws for faerie ones.",
+  "evidence": [
+   "realms-of-power-faerie::0120",
+   "realms-of-power-faerie::0121",
+   "realms-of-power-faerie::0153"
+  ]
+ },
+ {
+  "name": "Fable Points",
+  "type": "Concept",
+  "description": "Points gained by taking part in Faerie stories; spent on creativity offers and converted to fable score.",
+  "evidence": [
+   "realms-of-power-faerie::0120",
+   "realms-of-power-faerie::0127",
+   "realms-of-power-faerie::0200"
+  ]
+ },
+ {
+  "name": "Vitality",
+  "type": "Concept",
+  "description": "The human life-force that faeries harvest; its expenditure in Faerie is charted by fable score.",
+  "evidence": [
+   "realms-of-power-faerie::0121",
+   "realms-of-power-faerie::0126",
+   "realms-of-power-faerie::0138"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "description": "The faerie substance spread over areas and faeries; can be altered by creativity and replaces the flesh of those who stay in Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0124",
+   "realms-of-power-faerie::0138",
+   "realms-of-power-faerie::0157"
+  ]
+ },
+ {
+  "name": "Creativity in the Faerie Realm",
+  "type": "Concept",
+  "description": "Mechanism by which a character with unspent fable points makes a creative offer to alter Faerie's environment, symbolism, or a faerie's attitude.",
+  "evidence": [
+   "realms-of-power-faerie::0126",
+   "realms-of-power-faerie::0127",
+   "realms-of-power-faerie::0148"
+  ]
+ },
+ {
+  "name": "Offer Total",
+  "type": "Concept",
+  "description": "Roll of Communication + Charm, Profession or Craft plus modifiers, used to make creative offers to change a Faerie story.",
+  "evidence": [
+   "realms-of-power-faerie::0127",
+   "realms-of-power-faerie::0130"
+  ]
+ },
+ {
+  "name": "Promise of Service",
+  "type": "Concept",
+  "description": "A promised action accompanying an offer that symbolically transfers vitality to Faerie and negates the story's threat.",
+  "evidence": [
+   "realms-of-power-faerie::0134",
+   "realms-of-power-faerie::0135",
+   "realms-of-power-faerie::0137"
+  ]
+ },
+ {
+  "name": "Threat Level",
+  "type": "Concept",
+  "description": "Classification of obstacles (Trivial to Overwhelming) setting the Ease Factor of creativity offers.",
+  "evidence": [
+   "realms-of-power-faerie::0128",
+   "realms-of-power-faerie::0129"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Permanent effects from Faerie; characters may take Warping points on leaving to reduce time dilation.",
+  "evidence": [
+   "realms-of-power-faerie::0153",
+   "realms-of-power-faerie::0154",
+   "realms-of-power-faerie::0155"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "Magi need not check for Twilight from Warping points taken when leaving Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0155"
+  ]
+ },
+ {
+  "name": "Faerie Time Dilation",
+  "type": "Concept",
+  "description": "Time passes faster in the mortal world relative to Faerie, based on the final fable score.",
+  "evidence": [
+   "realms-of-power-faerie::0153",
+   "realms-of-power-faerie::0154",
+   "realms-of-power-faerie::0150"
+  ]
+ },
+ {
+  "name": "Guardian of the Threshold",
+  "type": "Concept",
+  "description": "The being or barrier met on entering and leaving Faerie; it sends characters home once the story concludes.",
+  "evidence": [
+   "realms-of-power-faerie::0152",
+   "realms-of-power-faerie::0171",
+   "realms-of-power-faerie::0186"
+  ]
+ },
+ {
+  "name": "Threshold",
+  "type": "Concept",
+  "description": "The boundary into the Faerie Realm, attracted by conditions such as trods, auras, artistic works and auspicious times.",
+  "evidence": [
+   "realms-of-power-faerie::0170",
+   "realms-of-power-faerie::0185",
+   "realms-of-power-faerie::0192"
+  ]
+ },
+ {
+  "name": "Threshold Faerie",
+  "type": "CharacterType",
+  "description": "A faerie that mediates Eudokian stories governing a life transition and sends characters home with Spirit Away.",
+  "evidence": [
+   "realms-of-power-faerie::0206",
+   "realms-of-power-faerie::0210",
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "Trod",
+  "type": "Concept",
+  "aliases": [
+   "faerie trod"
+  ],
+  "description": "Faerie trods are by far the most common routes into Faerie and almost all lead to Arcadia.",
+  "evidence": [
+   "realms-of-power-faerie::0170",
+   "realms-of-power-faerie::0206"
+  ]
+ },
+ {
+  "name": "Faerie Aura",
+  "type": "Concept",
+  "description": "Supernatural aura associated with Faerie; entering one on the verge of life change leads to the Forked Path.",
+  "evidence": [
+   "realms-of-power-faerie::0185",
+   "realms-of-power-faerie::0204"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural aura of a location; the destination aura modifier affects Arcadian Travel.",
+  "evidence": [
+   "realms-of-power-faerie::0149"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Faerie regiones have their own time dilation effects, distinct from the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0155"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A link to a destination that reduces the Ease Factor of Arcadian Travel by 6.",
+  "evidence": [
+   "realms-of-power-faerie::0149"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Pool",
+   "Might Score"
+  ],
+  "description": "Supernatural power score; a human in Faerie with Increased Might gains a Might pool instead of a score.",
+  "evidence": [
+   "realms-of-power-faerie::0122",
+   "realms-of-power-faerie::0133",
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "description": "Calculated from maximum Might pool for faerie-touched humans; Mjollnir's lightning penetration equals wielder's Might.",
+  "evidence": [
+   "realms-of-power-faerie::0122",
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Humans gaining Might in Faerie do not gain Magic Resistance.",
+  "evidence": [
+   "realms-of-power-faerie::0122"
+  ]
+ },
+ {
+  "name": "Pretences",
+  "type": "Concept",
+  "description": "Abilities granted by faerie Virtues to humans in Faerie are gained as Pretences, not real Abilities.",
+  "evidence": [
+   "realms-of-power-faerie::0122"
+  ]
+ },
+ {
+  "name": "Cognizance",
+  "type": "Concept",
+  "aliases": [
+   "Narrowly Cognizant"
+  ],
+  "description": "A faerie's awareness of its nature; humans made faerie are Narrowly Cognizant, and highly cognizant faeries understand glamour alterations.",
+  "evidence": [
+   "realms-of-power-faerie::0122",
+   "realms-of-power-faerie::0138",
+   "realms-of-power-faerie::0190"
+  ]
+ },
+ {
+  "name": "Faerie Powers",
+  "type": "Virtue",
+  "description": "Virtue requiring Might pool; biblical figures in Elysium have Faerie Powers rather than Divine Powers.",
+  "evidence": [
+   "realms-of-power-faerie::0122",
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "Spirit Away",
+  "type": "Concept",
+  "description": "Faerie power used by a Threshold faerie to send characters back to the mortal realm.",
+  "evidence": [
+   "realms-of-power-faerie::0210"
+  ]
+ },
+ {
+  "name": "Personality Traits",
+  "type": "Concept",
+  "description": "Traits changed by creativity offers against faeries or adjusted after Eudokian journeys.",
+  "evidence": [
+   "realms-of-power-faerie::0142",
+   "realms-of-power-faerie::0143",
+   "realms-of-power-faerie::0211"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "description": "Confidence points reward plot devices and are spent to identify as the hero in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0165",
+   "realms-of-power-faerie::0188",
+   "realms-of-power-faerie::0142"
+  ]
+ },
+ {
+  "name": "Fatigue",
+  "type": "Concept",
+  "description": "Long Term Fatigue Level is spent to make a creative offer; glamoured bodies are immune.",
+  "evidence": [
+   "realms-of-power-faerie::0127",
+   "realms-of-power-faerie::0122"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "description": "Characters with a glamoured faerie body are immune to Decrepitude.",
+  "evidence": [
+   "realms-of-power-faerie::0122"
+  ]
+ },
+ {
+  "name": "Aging",
+  "type": "Concept",
+  "description": "Characters in the Faerie Realm make aging rolls based on time spent in Faerie, not real-world time.",
+  "evidence": [
+   "realms-of-power-faerie::0155"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "description": "The end of Hermetic apprenticeship; apprentices about to take it may share a Eudokian story.",
+  "evidence": [
+   "realms-of-power-faerie::0170",
+   "realms-of-power-faerie::0206"
+  ]
+ },
+ {
+  "name": "Plot Device",
+  "type": "Concept",
+  "description": "A secret proverb given to a player to influence the plot once in a Faerie Realm adventure.",
+  "evidence": [
+   "realms-of-power-faerie::0161",
+   "realms-of-power-faerie::0163",
+   "realms-of-power-faerie::0165"
+  ]
+ },
+ {
+  "name": "Player-Driven Stories",
+  "type": "Concept",
+  "description": "Stories where players decide scenery and characters met while the storyguide controls the plot.",
+  "evidence": [
+   "realms-of-power-faerie::0159",
+   "realms-of-power-faerie::0160",
+   "realms-of-power-faerie::0167"
+  ]
+ },
+ {
+  "name": "Player-Influenced Stories",
+  "type": "Concept",
+  "description": "Stories where players alter events affecting their own character using plot devices.",
+  "evidence": [
+   "realms-of-power-faerie::0159",
+   "realms-of-power-faerie::0163",
+   "realms-of-power-faerie::0167"
+  ]
+ },
+ {
+  "name": "Story Elements",
+  "type": "Concept",
+  "description": "Actors, props, and scenery linked together to build Faerie stories, one per story experience point.",
+  "evidence": [
+   "realms-of-power-faerie::0174",
+   "realms-of-power-faerie::0215",
+   "realms-of-power-faerie::0216"
+  ]
+ },
+ {
+  "name": "Dramatis Personae",
+  "type": "Concept",
+  "description": "Story roles (hero, villain, princess, donor, etc.) that story elements can fill.",
+  "evidence": [
+   "realms-of-power-faerie::0175",
+   "realms-of-power-faerie::0199",
+   "realms-of-power-faerie::0216"
+  ]
+ },
+ {
+  "name": "Donor",
+  "type": "Concept",
+  "description": "Story role that provides the heroes with the means to succeed.",
+  "evidence": [
+   "realms-of-power-faerie::0166",
+   "realms-of-power-faerie::0188"
+  ]
+ },
+ {
+  "name": "False Hero",
+  "type": "Concept",
+  "description": "Story role of an impostor who seeks to steal the hero's honor.",
+  "evidence": [
+   "realms-of-power-faerie::0190"
+  ]
+ },
+ {
+  "name": "Villainy",
+  "type": "Concept",
+  "description": "A story act used as a link between story elements.",
+  "evidence": [
+   "realms-of-power-faerie::0175"
+  ]
+ },
+ {
+  "name": "Trickery",
+  "type": "Concept",
+  "description": "A story act used as a link between story elements.",
+  "evidence": [
+   "realms-of-power-faerie::0175"
+  ]
+ },
+ {
+  "name": "Transference",
+  "type": "Concept",
+  "description": "Story act transporting characters to another story element.",
+  "evidence": [
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Reconnaissance",
+  "type": "Concept",
+  "description": "Story act initiated by encountering the villain.",
+  "evidence": [
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Receipt",
+  "type": "Concept",
+  "description": "Story act in which heroes receive aid from a donor.",
+  "evidence": [
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Story Experience",
+  "type": "Concept",
+  "description": "Experience points awarded per story; guide the number of story elements.",
+  "evidence": [
+   "realms-of-power-faerie::0174",
+   "realms-of-power-faerie::0206",
+   "realms-of-power-faerie::0207"
+  ]
+ },
+ {
+  "name": "Elysian Quest",
+  "type": "Concept",
+  "description": "Reenacting a legend on the Path of Destiny to gain insight or a boon of faerie nature.",
+  "evidence": [
+   "realms-of-power-faerie::0177",
+   "realms-of-power-faerie::0178",
+   "realms-of-power-faerie::0200"
+  ]
+ },
+ {
+  "name": "Identification as the Hero",
+  "type": "Concept",
+  "description": "Declaring oneself the legendary hero after the Guardian, costing a Confidence point and granting a fable point.",
+  "evidence": [
+   "realms-of-power-faerie::0188",
+   "realms-of-power-faerie::0190"
+  ]
+ },
+ {
+  "name": "Measure of Success",
+  "type": "Concept",
+  "description": "Fable points earned in an Elysian quest determine Failure, Mediocre, Accomplished, or Unmitigated Success.",
+  "evidence": [
+   "realms-of-power-faerie::0200",
+   "realms-of-power-faerie::0201"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "description": "Mystery cult initiation; an Elysian quest can grant a bonus of +1 to +3 to it.",
+  "evidence": [
+   "realms-of-power-faerie::0200",
+   "realms-of-power-faerie::0201"
+  ]
+ },
+ {
+  "name": "Initiation Quest",
+  "type": "Concept",
+  "description": "Part of a Mystery initiation which may involve interfering in Elysian legends.",
+  "evidence": [
+   "realms-of-power-faerie::0176",
+   "realms-of-power-faerie::0201"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Faction",
+  "description": "Cults whose initiations may use Elysian quests.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Insight",
+  "type": "Concept",
+  "description": "Magical process granting knowledge of lost magic; Elysian quests cannot provide it.",
+  "evidence": [
+   "realms-of-power-faerie::0178"
+  ]
+ },
+ {
+  "name": "Faerie Boons",
+  "type": "Concept",
+  "description": "Blessings or maledictions gained from Eudokian journeys: Virtues balanced by Charm Flaws, or fading Flaws.",
+  "evidence": [
+   "realms-of-power-faerie::0211",
+   "realms-of-power-faerie::0212"
+  ]
+ },
+ {
+  "name": "Faerie Patron",
+  "type": "Concept",
+  "description": "Source of bequeathed Might that grants a bonus to offers under Art & Academe rules.",
+  "evidence": [
+   "realms-of-power-faerie::0133"
+  ]
+ },
+ {
+  "name": "Elysian Guardian",
+  "type": "CharacterType",
+  "description": "Guardian of the Path of Destiny, usually of the kerberos type, conferring a hero symbol with a boon and prohibition.",
+  "evidence": [
+   "realms-of-power-faerie::0186",
+   "realms-of-power-faerie::0187"
+  ]
+ },
+ {
+  "name": "Kerberoi",
+  "type": "CharacterType",
+  "aliases": [
+   "kerberos type"
+  ],
+  "description": "Guardian type taking the form of horrible monsters or dangerous challenges; rare in Eudokia.",
+  "evidence": [
+   "realms-of-power-faerie::0186",
+   "realms-of-power-faerie::0205"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of magi whose legends are also witnessed in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0188",
+   "realms-of-power-faerie::0206"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita magi"
+  ],
+  "description": "Hermetic house of faerie magi with Mysteries like Arcadian Travel and Becoming; most travelers in Elysium belong to it.",
+  "evidence": [
+   "realms-of-power-faerie::0149",
+   "realms-of-power-faerie::0157",
+   "realms-of-power-faerie::0189"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic house whose tales portray Bonisagus differently.",
+  "evidence": [
+   "realms-of-power-faerie::0189"
+  ]
+ },
+ {
+  "name": "First Tribunal",
+  "type": "Concept",
+  "description": "Hermetic legend witnessed by magi in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0188"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Hermetic conflict ended by the Tempest; its many confused retellings are equally true in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0188",
+   "realms-of-power-faerie::0189"
+  ]
+ },
+ {
+  "name": "The Tempest",
+  "type": "Concept",
+  "description": "Event that ended the Schism War, witnessed in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0188"
+  ]
+ },
+ {
+  "name": "Merinita",
+  "type": "Character",
+  "description": "Founder of House Merinita; Elysian versions give the impression she is alive in Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0188",
+   "realms-of-power-faerie::0189"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Hermetic Founder whose meeting with Merinita is witnessed in Elysium; appears differently per house tales.",
+  "evidence": [
+   "realms-of-power-faerie::0188",
+   "realms-of-power-faerie::0189"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "description": "Founder whose disappearance into the Maddenhofen woods cannot be illuminated in Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0189"
+  ]
+ },
+ {
+  "name": "Canaanite Necromancy",
+  "type": "Faction",
+  "description": "Long-forgotten tradition of necromancy sought by a magus through an Elysian quest.",
+  "evidence": [
+   "realms-of-power-faerie::0177"
+  ]
+ },
+ {
+  "name": "Grail Quest",
+  "type": "Concept",
+  "description": "Arthurian legend not yet fully realized in 1220.",
+  "evidence": [
+   "realms-of-power-faerie::0183"
+  ]
+ },
+ {
+  "name": "Wild Hunt",
+  "type": "Creature",
+  "description": "Spectral host evoked by an Elysian Guardian; only a strong wind confronts those who continue.",
+  "evidence": [
+   "realms-of-power-faerie::0186"
+  ]
+ },
+ {
+  "name": "A Thousand and One Nights",
+  "type": "Concept",
+  "description": "Islamic story collection told by rawis, suitable for Elysian adventures.",
+  "evidence": [
+   "realms-of-power-faerie::0184"
+  ]
+ },
+ {
+  "name": "Humanoid Faerie",
+  "type": "Virtue",
+  "description": "Virtue granting a glamoured faerie body; must be taken before Increased Might and requires a Traditional Ward.",
+  "evidence": [
+   "realms-of-power-faerie::0122",
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Increased Might",
+  "type": "Virtue",
+  "description": "Virtue granting a human in Faerie a Might pool.",
+  "evidence": [
+   "realms-of-power-faerie::0122"
+  ]
+ },
+ {
+  "name": "Warrior",
+  "type": "Virtue",
+  "description": "Virtue granting experience points; in Faerie gives Abilities as Pretences.",
+  "evidence": [
+   "realms-of-power-faerie::0122"
+  ]
+ },
+ {
+  "name": "Puissant Stealth",
+  "type": "Virtue",
+  "description": "Virtue exchanged by Coll for Humanoid Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "description": "Virtue exchanged by Coll for Reputation as Confidence.",
+  "evidence": [
+   "realms-of-power-faerie::0124"
+  ]
+ },
+ {
+  "name": "Reputation as Confidence",
+  "type": "Virtue",
+  "description": "Virtue gained by Coll in Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0124"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "description": "Virtue granting +3 to offers made to faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0130",
+   "realms-of-power-faerie::0133",
+   "realms-of-power-faerie::0147"
+  ]
+ },
+ {
+  "name": "Puissant Charm",
+  "type": "Virtue",
+  "description": "Virtue; bonus not cumulative with Free Expression for offers.",
+  "evidence": [
+   "realms-of-power-faerie::0130"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue associated with the Courage theme in Eudokia.",
+  "evidence": [
+   "realms-of-power-faerie::0208"
+  ]
+ },
+ {
+  "name": "Cautious Sorcerer",
+  "type": "Virtue",
+  "description": "Virtue associated with the Magic theme in Eudokia.",
+  "evidence": [
+   "realms-of-power-faerie::0208"
+  ]
+ },
+ {
+  "name": "Puissant Craft",
+  "type": "Virtue",
+  "description": "Virtue associated with the Skill theme in Eudokia.",
+  "evidence": [
+   "realms-of-power-faerie::0209"
+  ]
+ },
+ {
+  "name": "Arcadian Travel",
+  "type": "Virtue",
+  "description": "Merinita Mystery Virtue allowing departure from the Faerie Realm before the story ends to a chosen destination.",
+  "evidence": [
+   "realms-of-power-faerie::0149",
+   "realms-of-power-faerie::0150"
+  ]
+ },
+ {
+  "name": "Becoming",
+  "type": "Virtue",
+  "description": "Merinita Mystery Virtue simulating transformation into a faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0157"
+  ]
+ },
+ {
+  "name": "Lesser Benediction",
+  "type": "Virtue",
+  "aliases": [
+   "Greater Benediction",
+   "Benediction"
+  ],
+  "description": "Faerie Virtue by which powers learned from faeries are gained.",
+  "evidence": [
+   "realms-of-power-faerie::0124",
+   "realms-of-power-faerie::0208"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "description": "Flaw that must be acquired by a character gaining a faerie body.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Feud",
+  "type": "Flaw",
+  "description": "Mundane Flaw swapped out first when becoming faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Outlaw Leader",
+  "type": "Flaw",
+  "description": "Mundane Flaw swapped out first.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Flaw",
+  "description": "Flaw; a mundane Mentor may become a faerie Mentor.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "description": "Flaw that may become a faerie one.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "description": "Flaw appropriate to faerie-touched characters.",
+  "evidence": [
+   "realms-of-power-faerie::0123",
+   "realms-of-power-faerie::0124"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "aliases": [
+   "Greater Malediction",
+   "Malediction"
+  ],
+  "description": "Flaw appropriate for faerie-touched characters, e.g. sterility.",
+  "evidence": [
+   "realms-of-power-faerie::0123",
+   "realms-of-power-faerie::0208"
+  ]
+ },
+ {
+  "name": "Branded Criminal",
+  "type": "Flaw",
+  "description": "Flaw replaced for Coll as inappropriate among faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Weakness for Women",
+  "type": "Flaw",
+  "description": "Flaw exchanged for Disfigured in the Coll example.",
+  "evidence": [
+   "realms-of-power-faerie::0124"
+  ]
+ },
+ {
+  "name": "Lesser Charm",
+  "type": "Flaw",
+  "aliases": [
+   "Greater Charm",
+   "Charm Flaw"
+  ],
+  "description": "Flaw balancing faerie Virtues; a Minor Virtue's governing charm.",
+  "evidence": [
+   "realms-of-power-faerie::0124",
+   "realms-of-power-faerie::0211",
+   "realms-of-power-faerie::0212"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "description": "Flaw that makes a Bravery-themed Eudokian story unfair.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "description": "Flaw associated with Courage theme.",
+  "evidence": [
+   "realms-of-power-faerie::0208"
+  ]
+ },
+ {
+  "name": "Careless Sorcerer",
+  "type": "Flaw",
+  "description": "Flaw associated with the Magic theme.",
+  "evidence": [
+   "realms-of-power-faerie::0209"
+  ]
+ },
+ {
+  "name": "Clumsy",
+  "type": "Flaw",
+  "description": "Flaw associated with the Skill theme.",
+  "evidence": [
+   "realms-of-power-faerie::0209"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability; Coll failed a Stealth roll against faerie wolves.",
+  "evidence": [
+   "realms-of-power-faerie::0123"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability used to make verbal offers.",
+  "evidence": [
+   "realms-of-power-faerie::0127"
+  ]
+ },
+ {
+  "name": "Profession: Storyteller",
+  "type": "Ability",
+  "description": "Ability used to make verbal offers to Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0127"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "description": "Abilities used by crafters to work offers into objects.",
+  "evidence": [
+   "realms-of-power-faerie::0127"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Ability; score 1 grants awareness of time loss and how to guard against it.",
+  "evidence": [
+   "realms-of-power-faerie::0154",
+   "realms-of-power-faerie::0155"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Ability",
+  "description": "Ability; limits additional travelers in Arcadian Travel.",
+  "evidence": [
+   "realms-of-power-faerie::0149"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "description": "Ability checked when wooing an ice maiden.",
+  "evidence": [
+   "realms-of-power-faerie::0147"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability rolled to climb the Ancient Wall.",
+  "evidence": [
+   "realms-of-power-faerie::0213"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form; a magus wielding Mjollnir uses his Auram score for lightning penetration.",
+  "evidence": [
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "Mjollnir",
+  "type": "Item",
+  "aliases": [
+   "Thor's hammer"
+  ],
+  "description": "Thor's hammer, a thunderbolt imprisoned in iron that inflicts +30 lightning damage.",
+  "evidence": [
+   "realms-of-power-faerie::0227",
+   "realms-of-power-faerie::0197"
+  ]
+ },
+ {
+  "name": "The Poisoned Apple",
+  "type": "Item",
+  "description": "Prop: a fruit half poisoned, half sweet, typically shared.",
+  "evidence": [
+   "realms-of-power-faerie::0226"
+  ]
+ },
+ {
+  "name": "The Dragon's Tongue",
+  "type": "Item",
+  "description": "Prop: eating it grants powers like speaking with animals; proof of slaying the dragon.",
+  "evidence": [
+   "realms-of-power-faerie::0228"
+  ]
+ },
+ {
+  "name": "The Swan Cloak",
+  "type": "Item",
+  "description": "Prop: a cloak of white feathers that transforms the wearer into a swan.",
+  "evidence": [
+   "realms-of-power-faerie::0229"
+  ]
+ },
+ {
+  "name": "The Dull Knife",
+  "type": "Item",
+  "description": "Prop: a crude blade that may cut the uncuttable or rust when another is in peril.",
+  "evidence": [
+   "realms-of-power-faerie::0230"
+  ]
+ },
+ {
+  "name": "Snake Soup",
+  "type": "Item",
+  "description": "Prop: a cauldron whose white snake meat grants supernatural strength and resilience.",
+  "evidence": [
+   "realms-of-power-faerie::0231"
+  ]
+ },
+ {
+  "name": "Stone Drum",
+  "type": "Item",
+  "description": "Random story element whose sound ceases all Arduinna's powers.",
+  "evidence": [
+   "realms-of-power-faerie::0165",
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Tree of Silver",
+  "type": "Item",
+  "description": "Story element from which an arrow to kill the Rye-King must be fashioned.",
+  "evidence": [
+   "realms-of-power-faerie::0174"
+  ]
+ },
+ {
+  "name": "The Soul in the Egg",
+  "type": "Item",
+  "description": "Further idea for a prop story element.",
+  "evidence": [
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "The Magic Ring",
+  "type": "Item",
+  "description": "Further idea for a prop story element.",
+  "evidence": [
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "The Self-Filling Purse",
+  "type": "Item",
+  "description": "Further idea for a prop story element.",
+  "evidence": [
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "The Horn that Furnishes Soldiers",
+  "type": "Item",
+  "description": "Further idea for a prop story element.",
+  "evidence": [
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "The Helm of Invisibility",
+  "type": "Item",
+  "description": "Further idea for a prop story element.",
+  "evidence": [
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "The Word That Opens All Locks",
+  "type": "Item",
+  "description": "Further idea for a prop story element.",
+  "evidence": [
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "The Pied Stranger",
+  "type": "Creature",
+  "description": "Actor: a half-white, half-black musician who is a thief and entertainer.",
+  "evidence": [
+   "realms-of-power-faerie::0218"
+  ]
+ },
+ {
+  "name": "Grateful Lions",
+  "type": "Creature",
+  "description": "Actor: two playful, speaking lions who offer friendship for aid.",
+  "evidence": [
+   "realms-of-power-faerie::0219"
+  ]
+ },
+ {
+  "name": "The Captive Princess",
+  "type": "Creature",
+  "description": "Actor: a maiden imprisoned by her parents, guarded by an ogre, dragon, or thorns.",
+  "evidence": [
+   "realms-of-power-faerie::0220"
+  ]
+ },
+ {
+  "name": "The Task-Setting Ogre",
+  "type": "Creature",
+  "description": "Actor: a giant who forces captives to perform impossible tasks.",
+  "evidence": [
+   "realms-of-power-faerie::0221"
+  ]
+ },
+ {
+  "name": "The Mouse-Groom",
+  "type": "Creature",
+  "description": "Actor: a talking mouse who courts a female character.",
+  "evidence": [
+   "realms-of-power-faerie::0222"
+  ]
+ },
+ {
+  "name": "The Ferryman",
+  "type": "Creature",
+  "description": "Actor: a gray-cloaked ferryman, perhaps a disguised king, who must be persuaded to carry characters.",
+  "evidence": [
+   "realms-of-power-faerie::0223"
+  ]
+ },
+ {
+  "name": "The Pale Man",
+  "type": "Creature",
+  "description": "Actor: an emaciated vampire in a shroud, or Death itself.",
+  "evidence": [
+   "realms-of-power-faerie::0224",
+   "realms-of-power-faerie::0165"
+  ]
+ },
+ {
+  "name": "The Cruel Stepmother",
+  "type": "Creature",
+  "description": "Further idea for an actor story element.",
+  "evidence": [
+   "realms-of-power-faerie::0222"
+  ]
+ },
+ {
+  "name": "The Queen of Otters",
+  "type": "Creature",
+  "description": "Further idea for an actor story element.",
+  "evidence": [
+   "realms-of-power-faerie::0222"
+  ]
+ },
+ {
+  "name": "The Boy Made from Iron",
+  "type": "Creature",
+  "description": "Further idea for an actor story element.",
+  "evidence": [
+   "realms-of-power-faerie::0222"
+  ]
+ },
+ {
+  "name": "The Evil Twin",
+  "type": "Creature",
+  "description": "Further idea for an actor story element.",
+  "evidence": [
+   "realms-of-power-faerie::0222"
+  ]
+ },
+ {
+  "name": "Queen of Winter",
+  "type": "Creature",
+  "description": "Faerie queen whose woods and palace feature in the creativity example.",
+  "evidence": [
+   "realms-of-power-faerie::0147",
+   "realms-of-power-faerie::0148",
+   "realms-of-power-faerie::0160"
+  ]
+ },
+ {
+  "name": "King of Summer",
+  "type": "Creature",
+  "description": "Faerie king whose court features in a plot device example.",
+  "evidence": [
+   "realms-of-power-faerie::0164"
+  ]
+ },
+ {
+  "name": "Ice Maiden",
+  "type": "Creature",
+  "description": "Local faerie of the Queen of Winter's woods who can thaw the earth.",
+  "evidence": [
+   "realms-of-power-faerie::0147",
+   "realms-of-power-faerie::0148"
+  ]
+ },
+ {
+  "name": "Rye-King",
+  "type": "Creature",
+  "description": "Example story element: a faerie king who has stolen a child.",
+  "evidence": [
+   "realms-of-power-faerie::0174"
+  ]
+ },
+ {
+  "name": "Lofanneth Wolf-Brother",
+  "type": "Creature",
+  "description": "Faerie captive of Arduinna and donor who knows where the Stone Drum is hidden.",
+  "evidence": [
+   "realms-of-power-faerie::0165",
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Arduinna",
+  "type": "Creature",
+  "description": "Faerie villain who holds the Enchanted Priest captive; weakened by the Stone Drum.",
+  "evidence": [
+   "realms-of-power-faerie::0165",
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Enchanted Priest",
+  "type": "Creature",
+  "description": "Story element: local priest held by a disgruntled faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0165",
+   "realms-of-power-faerie::0166"
+  ]
+ },
+ {
+  "name": "Red Knight",
+  "type": "Creature",
+  "description": "Elysian Guardian in red enamel armor demanding single combat.",
+  "evidence": [
+   "realms-of-power-faerie::0186"
+  ]
+ },
+ {
+  "name": "Kerberos",
+  "type": "Creature",
+  "description": "The three-headed dog guarding the Underworld, an original Elysian Guardian.",
+  "evidence": [
+   "realms-of-power-faerie::0177",
+   "realms-of-power-faerie::0186"
+  ]
+ },
+ {
+  "name": "Minotaur",
+  "type": "Creature",
+  "description": "Monster of the labyrinth whose place characters could take in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Sphinx",
+  "type": "Creature",
+  "description": "Arcadian Guardian demanding a riddle she cannot answer.",
+  "evidence": [
+   "realms-of-power-faerie::0172"
+  ]
+ },
+ {
+  "name": "Barking Beast",
+  "type": "Creature",
+  "description": "Creature of the Arthurian tale hunted by Sir Pellinore.",
+  "evidence": [
+   "realms-of-power-faerie::0196"
+  ]
+ },
+ {
+  "name": "Pan Caudarax",
+  "type": "Creature",
+  "description": "Dragon example target of an Elysian quest, with a weak spot in his hide.",
+  "evidence": [
+   "realms-of-power-faerie::0200",
+   "realms-of-power-faerie::0201"
+  ]
+ },
+ {
+  "name": "The Leafy Counselor",
+  "type": "Creature",
+  "description": "Eudokian example tree acting as Donor, at odds with its fellows.",
+  "evidence": [
+   "realms-of-power-faerie::0213"
+  ]
+ },
+ {
+  "name": "The Son of the Coin",
+  "type": "Creature",
+  "description": "Eudokian example mercenary acting as the False Hero.",
+  "evidence": [
+   "realms-of-power-faerie::0213",
+   "realms-of-power-faerie::0214"
+  ]
+ },
+ {
+  "name": "The Dying Lady",
+  "type": "Creature",
+  "description": "Eudokian example ancient ash tree, source of the forest's antagonism.",
+  "evidence": [
+   "realms-of-power-faerie::0214"
+  ]
+ },
+ {
+  "name": "Birthing Faerie",
+  "type": "Creature",
+  "description": "Threshold faerie attracted by a pregnant mother.",
+  "evidence": [
+   "realms-of-power-faerie::0206"
+  ]
+ },
+ {
+  "name": "Grave-Faerie",
+  "type": "Creature",
+  "description": "Threshold faerie met by an old man.",
+  "evidence": [
+   "realms-of-power-faerie::0206"
+  ]
+ },
+ {
+  "name": "Will-o'-the-Wisp",
+  "type": "Creature",
+  "description": "Faerie that may lead characters home from Eudokia.",
+  "evidence": [
+   "realms-of-power-faerie::0210"
+  ]
+ },
+ {
+  "name": "Coll",
+  "type": "Character",
+  "description": "Example grog who gains faerie Virtues in Arcadia.",
+  "evidence": [
+   "realms-of-power-faerie::0123",
+   "realms-of-power-faerie::0124"
+  ]
+ },
+ {
+  "name": "Branoic",
+  "type": "Character",
+  "description": "Example character with Faerie Lore who limits his fable score.",
+  "evidence": [
+   "realms-of-power-faerie::0155"
+  ]
+ },
+ {
+  "name": "Aethelbald",
+  "type": "Character",
+  "description": "Saxon nobleman who spent 140 days in Faerie and returned in 1220.",
+  "evidence": [
+   "realms-of-power-faerie::0155",
+   "realms-of-power-faerie::0156"
+  ]
+ },
+ {
+  "name": "Roland",
+  "type": "Character",
+  "description": "Legendary hero of the Song of Roland fighting the Moors in Spain.",
+  "evidence": [
+   "realms-of-power-faerie::0176",
+   "realms-of-power-faerie::0183"
+  ]
+ },
+ {
+  "name": "Idun",
+  "type": "Character",
+  "description": "Norse goddess abducted from Asgard in legend.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Theseus",
+  "type": "Character",
+  "description": "Greek hero of the labyrinth and the Underworld.",
+  "evidence": [
+   "realms-of-power-faerie::0176",
+   "realms-of-power-faerie::0181"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "description": "Legendary wizard encountered in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Romulus",
+  "type": "Character",
+  "description": "Legendary founder of Rome, with Remus.",
+  "evidence": [
+   "realms-of-power-faerie::0176",
+   "realms-of-power-faerie::0181"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "description": "Norse god who whispered to his dead son Balder.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Balder",
+  "type": "Character",
+  "description": "Son of Odin whose funeral can be witnessed in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0176"
+  ]
+ },
+ {
+  "name": "Orpheus",
+  "type": "Character",
+  "description": "Legendary hero whose role a magus takes in an Elysian quest.",
+  "evidence": [
+   "realms-of-power-faerie::0177",
+   "realms-of-power-faerie::0178",
+   "realms-of-power-faerie::0199"
+  ]
+ },
+ {
+  "name": "Eurydice",
+  "type": "Character",
+  "description": "Orpheus's lost lover.",
+  "evidence": [
+   "realms-of-power-faerie::0177",
+   "realms-of-power-faerie::0178"
+  ]
+ },
+ {
+  "name": "Persephone",
+  "type": "Character",
+  "description": "Queen of the Underworld whose heart Orpheus melts.",
+  "evidence": [
+   "realms-of-power-faerie::0178"
+  ]
+ },
+ {
+  "name": "Hades",
+  "type": "Character",
+  "description": "Underworld and its ruler; characters could play Hades.",
+  "evidence": [
+   "realms-of-power-faerie::0178",
+   "realms-of-power-faerie::0199"
+  ]
+ },
+ {
+  "name": "Judges of the Dead",
+  "type": "Character",
+  "description": "Figures of the Underworld negotiated past in the Orpheus story.",
+  "evidence": [
+   "realms-of-power-faerie::0177"
+  ]
+ },
+ {
+  "name": "Thor",
+  "type": "Character",
+  "description": "Norse god whose hammer Mjollnir can be stolen or retrieved.",
+  "evidence": [
+   "realms-of-power-faerie::0197",
+   "realms-of-power-faerie::0227"
+  ]
+ },
+ {
+  "name": "Thrym",
+  "type": "Character",
+  "description": "Giant who stole Thor's hammer.",
+  "evidence": [
+   "realms-of-power-faerie::0182",
+   "realms-of-power-faerie::0197"
+  ]
+ },
+ {
+  "name": "Culhwch",
+  "type": "Character",
+  "aliases": [
+   "Culwch"
+  ],
+  "description": "Welsh hero cursed until he marries Olwen.",
+  "evidence": [
+   "realms-of-power-faerie::0182",
+   "realms-of-power-faerie::0197"
+  ]
+ },
+ {
+  "name": "Olwen",
+  "type": "Character",
+  "description": "Welsh heroine whose father is cursed to die when she weds.",
+  "evidence": [
+   "realms-of-power-faerie::0182",
+   "realms-of-power-faerie::0197"
+  ]
+ },
+ {
+  "name": "Reynard the Fox",
+  "type": "Character",
+  "description": "Fox protagonist of a Märchen story used in an Elysian quest.",
+  "evidence": [
+   "realms-of-power-faerie::0183",
+   "realms-of-power-faerie::0193",
+   "realms-of-power-faerie::0194"
+  ]
+ },
+ {
+  "name": "Chantecler",
+  "type": "Character",
+  "description": "Cockerel caught by Reynard.",
+  "evidence": [
+   "realms-of-power-faerie::0193"
+  ]
+ },
+ {
+  "name": "Tibalt",
+  "type": "Character",
+  "description": "Cat Reynard races.",
+  "evidence": [
+   "realms-of-power-faerie::0194"
+  ]
+ },
+ {
+  "name": "Tiercelin the Raven",
+  "type": "Character",
+  "description": "Raven whose cheese Reynard seeks.",
+  "evidence": [
+   "realms-of-power-faerie::0194",
+   "realms-of-power-faerie::0195"
+  ]
+ },
+ {
+  "name": "Prince Ivan",
+  "type": "Character",
+  "description": "Hero example used for identification in Elysium.",
+  "evidence": [
+   "realms-of-power-faerie::0188"
+  ]
+ },
+ {
+  "name": "Sir Pellinore",
+  "type": "Character",
+  "description": "Knight of the Barking Beast tale.",
+  "evidence": [
+   "realms-of-power-faerie::0196"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "description": "Legendary king whose court's romances are well known in Mythic Europe.",
+  "evidence": [
+   "realms-of-power-faerie::0183",
+   "realms-of-power-faerie::0196"
+  ]
+ },
+ {
+  "name": "Sir Lancelot",
+  "type": "Character",
+  "description": "Arthurian knight yet to appear in familiar form.",
+  "evidence": [
+   "realms-of-power-faerie::0183"
+  ]
+ },
+ {
+  "name": "Gawain",
+  "type": "Character",
+  "description": "Arthurian knight who beheads the Green Knight.",
+  "evidence": [
+   "realms-of-power-faerie::0183",
+   "realms-of-power-faerie::0198"
+  ]
+ },
+ {
+  "name": "Green Knight",
+  "type": "Character",
+  "description": "Knight beheaded by Gawain; also an actor story element idea.",
+  "evidence": [
+   "realms-of-power-faerie::0198",
+   "realms-of-power-faerie::0222"
+  ]
+ },
+ {
+  "name": "Perceval",
+  "type": "Character",
+  "description": "Arthurian romance hero suitable for Elysian stories.",
+  "evidence": [
+   "realms-of-power-faerie::0183"
+  ]
+ },
+ {
+  "name": "Chevalier De Panne",
+  "type": "Character",
+  "description": "Knight who fought Pan Caudarax and lived.",
+  "evidence": [
+   "realms-of-power-faerie::0201"
+  ]
+ },
+ {
+  "name": "Snorri Sturluson",
+  "type": "Character",
+  "description": "Great compiler of Norse myths, alive in Iceland in 1220.",
+  "evidence": [
+   "realms-of-power-faerie::0182"
+  ]
+ },
+ {
+  "name": "Demeter",
+  "type": "Character",
+  "description": "Goddess who ceased her search for her daughter in winter.",
+  "evidence": [
+   "realms-of-power-faerie::0234"
+  ]
+ },
+ {
+  "name": "Hercules",
+  "type": "Character",
+  "description": "Greek hero of the Sorrows and Labors.",
+  "evidence": [
+   "realms-of-power-faerie::0181"
+  ]
+ },
+ {
+  "name": "Prometheus",
+  "type": "Character",
+  "description": "Greek legend figure with Epimetheus and Pandora.",
+  "evidence": [
+   "realms-of-power-faerie::0181"
+  ]
+ },
+ {
+  "name": "Icarus",
+  "type": "Character",
+  "description": "Greek figure of the Flight of Icarus.",
+  "evidence": [
+   "realms-of-power-faerie::0181"
+  ]
+ },
+ {
+  "name": "Cu Chulainn",
+  "type": "Character",
+  "description": "Irish legendary hero.",
+  "evidence": [
+   "realms-of-power-faerie::0182"
+  ]
+ },
+ {
+  "name": "Oisin",
+  "type": "Character",
+  "description": "Irish hero of Oisin and Niamh.",
+  "evidence": [
+   "realms-of-power-faerie::0182"
+  ]
+ },
+ {
+  "name": "Pwyll, Prince of Dyfed",
+  "type": "Character",
+  "description": "Welsh legendary prince.",
+  "evidence": [
+   "realms-of-power-faerie::0182"
+  ]
+ },
+ {
+  "name": "Bard, the God of Snaefell",
+  "type": "Character",
+  "description": "Icelandic legend figure.",
+  "evidence": [
+   "realms-of-power-faerie::0182"
+  ]
+ },
+ {
+  "name": "Huon of Bordeaux",
+  "type": "Character",
+  "description": "Chanson de geste hero.",
+  "evidence": [
+   "realms-of-power-faerie::0183"
+  ]
+ },
+ {
+  "name": "Maugis d'Aigremont",
+  "type": "Character",
+  "description": "Chanson de geste hero.",
+  "evidence": [
+   "realms-of-power-faerie::0183"
+  ]
+ },
+ {
+  "name": "Herzog Ernst",
+  "type": "Character",
+  "description": "German epic hero.",
+  "evidence": [
+   "realms-of-power-faerie::0183"
+  ]
+ },
+ {
+  "name": "Es-Sindibad",
+  "type": "Character",
+  "description": "Sindbad of the Sea and of the Land from A Thousand and One Nights.",
+  "evidence": [
+   "realms-of-power-faerie::0184"
+  ]
+ },
+ {
+  "name": "Prince Camaralzaman",
+  "type": "Character",
+  "description": "Prince of a Thousand and One Nights tale with Princess Badoura.",
+  "evidence": [
+   "realms-of-power-faerie::0184"
+  ]
+ },
+ {
+  "name": "Antar",
+  "type": "Character",
+  "description": "Slave, warrior, and poet of Arabic legend.",
+  "evidence": [
+   "realms-of-power-faerie::0184"
+  ]
+ },
+ {
+  "name": "Rustem",
+  "type": "Character",
+  "description": "Slayer of dragons and demons.",
+  "evidence": [
+   "realms-of-power-faerie::0184"
+  ]
+ },
+ {
+  "name": "Samson",
+  "type": "Character",
+  "description": "Biblical hero, of Samson and Delilah.",
+  "evidence": [
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "David",
+  "type": "Character",
+  "description": "Biblical king of David and Goliath.",
+  "evidence": [
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "Job",
+  "type": "Character",
+  "description": "Biblical figure of the Testing of Job.",
+  "evidence": [
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "Lot",
+  "type": "Character",
+  "description": "Biblical figure who escaped Sodom and Gomorrah.",
+  "evidence": [
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "Jael",
+  "type": "Character",
+  "description": "Biblical heroine of Jael and Sisera.",
+  "evidence": [
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "Saul",
+  "type": "Character",
+  "description": "Figure of the Conversion of Saul.",
+  "evidence": [
+   "realms-of-power-faerie::0180"
+  ]
+ },
+ {
+  "name": "King Jereboam",
+  "type": "Character",
+  "description": "Biblical king in I Kings 13.",
+  "evidence": [
+   "realms-of-power-faerie::0180"
+  ]
+ }
+]

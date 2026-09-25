@@ -1,0 +1,2670 @@
+[
+ {
+  "name": "Buckland Saint Mary",
+  "type": "Place",
+  "description": "A town in Somerset never visited by faeries because pixies annihilated them in a war; valuable to magi researching the battlefield.",
+  "evidence": [
+   "mythic-locations::0364",
+   "mythic-locations::0365"
+  ]
+ },
+ {
+  "name": "Somerset",
+  "type": "Place",
+  "description": "English region containing the town of Buckland Saint Mary.",
+  "evidence": [
+   "mythic-locations::0364"
+  ]
+ },
+ {
+  "name": "Purgatory of Saint Patrick",
+  "type": "Place",
+  "aliases": [
+   "Saint Patrick's Purgatory"
+  ],
+  "description": "A major Irish pilgrimage site beneath an island on Lough Dearg containing a gate to Purgatory established by Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0371",
+   "mythic-locations::0373",
+   "mythic-locations::0414"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Realm",
+  "description": "Afterlife state/place where souls suffer for unrepented sins before reaching the Earthly Paradise; here a Tartaran Infernal regio of level 8 ruled by Pasiel.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0388",
+   "mythic-locations::0431"
+  ]
+ },
+ {
+  "name": "Lough Dearg",
+  "type": "Place",
+  "description": "A red-tinged lake ('red lake') in northwest Ireland in Tír Chonaill with forty-six islands, site of the Purgatory of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0372",
+   "mythic-locations::0374",
+   "mythic-locations::0438"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "description": "Island where the Purgatory of Saint Patrick is one of the most important pilgrimage sites.",
+  "evidence": [
+   "mythic-locations::0371",
+   "mythic-locations::0438"
+  ]
+ },
+ {
+  "name": "Donegal",
+  "type": "Place",
+  "description": "Region of Ireland where Saint Patrick preached his ministry.",
+  "evidence": [
+   "mythic-locations::0372"
+  ]
+ },
+ {
+  "name": "Kingdom of Tír Chonaill",
+  "type": "Place",
+  "aliases": [
+   "Tír Chonaill"
+  ],
+  "description": "Irish kingdom in the northwest of Ireland containing Lough Dearg.",
+  "evidence": [
+   "mythic-locations::0374"
+  ]
+ },
+ {
+  "name": "Inisphadraig",
+  "type": "Place",
+  "aliases": [
+   "Inishphadraig",
+   "Patrick's Island"
+  ],
+  "description": "Largest island on Lough Dearg, named after Saint Patrick, home to an Augustinian chapter house with a Dominion aura of 3 (4 within the house).",
+  "evidence": [
+   "mythic-locations::0374",
+   "mythic-locations::0375",
+   "mythic-locations::0436"
+  ]
+ },
+ {
+  "name": "Inisnaoimh",
+  "type": "Place",
+  "aliases": [
+   "Inishnaoimh",
+   "Saint's Island",
+   "Saint's Isle"
+  ],
+  "description": "Saint's Island on Lough Dearg, with an Empyreal aura of 4 and a small church whose crypt cell holds the entrance to Purgatory.",
+  "evidence": [
+   "mythic-locations::0374",
+   "mythic-locations::0379",
+   "mythic-locations::0444"
+  ]
+ },
+ {
+  "name": "Abbey of Saints Peter and Paul",
+  "type": "Place",
+  "description": "Mother house in Armagh of the Augustinian canons of Patrick's Island.",
+  "evidence": [
+   "mythic-locations::0375"
+  ]
+ },
+ {
+  "name": "Armagh",
+  "type": "Place",
+  "description": "Irish town, home of the motherhouse of the canons guarding Lough Dearg and a required stop for pilgrims to the Purgatory.",
+  "evidence": [
+   "mythic-locations::0375",
+   "mythic-locations::0437",
+   "mythic-locations::0438"
+  ]
+ },
+ {
+  "name": "Earthly Paradise",
+  "type": "Realm",
+  "description": "Home of the boni non valde where purged souls wait in bliss for Judgment Day; a Celestial regio of level 8 ruled by the Archangel Shamshiel.",
+  "evidence": [
+   "mythic-locations::0371",
+   "mythic-locations::0407",
+   "mythic-locations::0418"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Realm",
+  "aliases": [
+   "Heavenly Paradise"
+  ],
+  "description": "The Heavenly Paradise, the Divine Realm, destination of the saved (boni); entered from the Earthly Paradise.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0413",
+   "mythic-locations::0418"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Realm",
+  "description": "Destination of the damned (mali); its entrance lies in Purgatory at the Mouth of Hell.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0378",
+   "mythic-locations::0404"
+  ]
+ },
+ {
+  "name": "Field of Chains",
+  "type": "Place",
+  "description": "First field of Purgatory where the slothful lie chained face down while Iurgatores walk on them.",
+  "evidence": [
+   "mythic-locations::0388",
+   "mythic-locations::0394"
+  ]
+ },
+ {
+  "name": "Field of Nails",
+  "type": "Place",
+  "description": "Field of Purgatory where sinners of self-indulgence are pinned with red hot nails and bitten by adders.",
+  "evidence": [
+   "mythic-locations::0395"
+  ]
+ },
+ {
+  "name": "Field of Hooks",
+  "type": "Place",
+  "description": "Field of Purgatory where perpetrators of fraud hang from hooks over flames.",
+  "evidence": [
+   "mythic-locations::0396"
+  ]
+ },
+ {
+  "name": "Wheel of Fire",
+  "type": "Place",
+  "description": "Field of Purgatory where the covetous are burned on an immense turning wheel.",
+  "evidence": [
+   "mythic-locations::0397"
+  ]
+ },
+ {
+  "name": "Mountain of Blood",
+  "type": "Place",
+  "description": "Field of Purgatory where the violent are blasted by icy wind and hurled into a river of filth.",
+  "evidence": [
+   "mythic-locations::0398",
+   "mythic-locations::0447"
+  ]
+ },
+ {
+  "name": "House of Flames and Smoke",
+  "type": "Place",
+  "description": "Stone hall in Purgatory with pits of molten metal punishing perverse appetites and violence against God.",
+  "evidence": [
+   "mythic-locations::0399"
+  ]
+ },
+ {
+  "name": "The Furnace",
+  "type": "Place",
+  "description": "Furnace beneath the House of Flames and Smoke, source of Purgatory's flames, which transmogrifies things burnt in it and grants insight into the Limits of Essential Nature and Vis.",
+  "evidence": [
+   "mythic-locations::0399",
+   "mythic-locations::0400",
+   "mythic-locations::0445"
+  ]
+ },
+ {
+  "name": "Abyssal Pit",
+  "type": "Place",
+  "description": "Field of Purgatory punishing pride with total sensory deprivation in an infinite fall.",
+  "evidence": [
+   "mythic-locations::0401",
+   "mythic-locations::0402"
+  ]
+ },
+ {
+  "name": "Boiling River",
+  "type": "Place",
+  "description": "River of sulfur and blood in Purgatory where traitors are thrown; it flows into the Mouth of Hell.",
+  "evidence": [
+   "mythic-locations::0403",
+   "mythic-locations::0404",
+   "mythic-locations::0405"
+  ]
+ },
+ {
+  "name": "Mouth of Hell",
+  "type": "Place",
+  "aliases": [
+   "Mouth to Hell"
+  ],
+  "description": "Entrance to Hell in Purgatory, a mountain-sized beast's mouth guarded by two seraphim.",
+  "evidence": [
+   "mythic-locations::0404",
+   "mythic-locations::0447"
+  ]
+ },
+ {
+  "name": "Bridge to Paradise",
+  "type": "Place",
+  "description": "Knife-thin rock bridge over the Boiling River that is a regio boundary into the Earthly Paradise, widening for the repentant.",
+  "evidence": [
+   "mythic-locations::0383",
+   "mythic-locations::0405",
+   "mythic-locations::0406"
+  ]
+ },
+ {
+  "name": "Gate of Paradise",
+  "type": "Place",
+  "description": "Golden jeweled gate at the end of the Bridge to Paradise where angels heal and clothe visitors.",
+  "evidence": [
+   "mythic-locations::0408"
+  ]
+ },
+ {
+  "name": "Fountain of Youth",
+  "type": "Place",
+  "description": "White marble fountain in a grove of black poplars near the Boiling River whose water restores youth, removes Warping, and grants Unaging.",
+  "evidence": [
+   "mythic-locations::0378",
+   "mythic-locations::0411",
+   "mythic-locations::0412"
+  ]
+ },
+ {
+  "name": "Tree of Life",
+  "type": "Item",
+  "description": "Tree in the Earthly Paradise; trying to eat from it draws Shamshiel's attention.",
+  "evidence": [
+   "mythic-locations::0407"
+  ]
+ },
+ {
+  "name": "Mirror of Souls",
+  "type": "Item",
+  "description": "Mirror in the Abyssal Pit that reveals and scries anyone named or sympathetically connected, with Penetration 50; a source of insight for Original Research.",
+  "evidence": [
+   "mythic-locations::0377",
+   "mythic-locations::0401",
+   "mythic-locations::0402"
+  ]
+ },
+ {
+  "name": "Cennet",
+  "type": "Place",
+  "description": "Sinkhole ('heaven') in Asia Minor in the Tribunal of the Levant with a monastery at its bottom founded by Saint Paulus.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Cehennem",
+  "type": "Place",
+  "description": "Sinkhole ('hell') linked by tunnel to Cennet; said to be bottomless, once a prison of Typhon, leading to Purgatory.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Asia Minor",
+  "type": "Place",
+  "description": "Region whose coast holds the sinkholes Cennet and Cehennem.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Cyprus",
+  "type": "Place",
+  "description": "Island south of the sinkholes of Cennet and Cehennem.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Cape Tainaron",
+  "type": "Place",
+  "aliases": [
+   "Taenerus"
+  ],
+  "description": "Southernmost point of mainland Greece in Achaea; its church was a nekromanteion to Hades and a cave beneath leads to Purgatory or the pagan dead.",
+  "evidence": [
+   "mythic-locations::0416"
+  ]
+ },
+ {
+  "name": "Principality of Achaea",
+  "type": "Place",
+  "description": "Greek principality containing Cape Tainaron.",
+  "evidence": [
+   "mythic-locations::0416"
+  ]
+ },
+ {
+  "name": "Lake Avernus",
+  "type": "Place",
+  "description": "Circular sulfurous lake on the Bay of Naples in the Roman Tribunal, connected by tunnel to Cumae.",
+  "evidence": [
+   "mythic-locations::0417"
+  ]
+ },
+ {
+  "name": "Bay of Naples",
+  "type": "Place",
+  "description": "Bay on which Lake Avernus lies.",
+  "evidence": [
+   "mythic-locations::0417"
+  ]
+ },
+ {
+  "name": "Cumae",
+  "type": "Place",
+  "description": "Abandoned Greek colony where the Cumaean sibyl Carmentis guards a gate into Purgatory.",
+  "evidence": [
+   "mythic-locations::0417"
+  ]
+ },
+ {
+  "name": "Mount Etna",
+  "type": "Place",
+  "description": "Volcano where Typhon was imprisoned, home of magic spirits, possibly hiding a gateway to Purgatory.",
+  "evidence": [
+   "mythic-locations::0415",
+   "mythic-locations::0418"
+  ]
+ },
+ {
+  "name": "Garden of Eden",
+  "type": "Place",
+  "description": "Often equated with the Earthly Paradise; optionally lies within it in a Celestial regio of level 10, guarded by cherubim.",
+  "evidence": [
+   "mythic-locations::0418"
+  ]
+ },
+ {
+  "name": "Circuit of Saint Patrick",
+  "type": "Place",
+  "description": "Pilgrimage itinerary through sites of Saint Patrick's miracles ending at Lough Dearg.",
+  "evidence": [
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Downpatrick",
+  "type": "Place",
+  "description": "Site on the Circuit of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Vale of Angels",
+  "type": "Place",
+  "description": "Site on the Circuit of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Saulpatrick",
+  "type": "Place",
+  "description": "Site on the Circuit of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Maghera",
+  "type": "Place",
+  "description": "Site on the Circuit of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Ulaid",
+  "type": "Place",
+  "description": "Irish region covered in The Contested Isle; Brother Bressal's Gaelic specialty.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Basingwerk Abbey",
+  "type": "Place",
+  "description": "Abbey associated with Henricus and Abbot Gilbert, sources of the Tractatus.",
+  "evidence": [
+   "mythic-locations::0452"
+  ]
+ },
+ {
+  "name": "Fallen Temple of Mercury",
+  "type": "Place",
+  "aliases": [
+   "Temple of Mercury"
+  ],
+  "description": "Ruined Cult of Mercury temple complex the size of a town hidden in a Magic regio of aura 5, built by Julius Caesar and rebuilt by Augustus.",
+  "evidence": [
+   "mythic-locations::0454",
+   "mythic-locations::0456",
+   "mythic-locations::0467"
+  ]
+ },
+ {
+  "name": "Triumphal Arch",
+  "type": "Place",
+  "description": "Ruined Roman arch bearing carvings of Augustus and Mercury that must be rebuilt to enter the temple regio.",
+  "evidence": [
+   "mythic-locations::0462",
+   "mythic-locations::0469",
+   "mythic-locations::0470"
+  ]
+ },
+ {
+  "name": "Decumanus",
+  "type": "Place",
+  "description": "The 500-pace north-south main street of the temple town.",
+  "evidence": [
+   "mythic-locations::0472"
+  ]
+ },
+ {
+  "name": "Cardus",
+  "type": "Place",
+  "description": "The east-west main street of the temple town bisecting the Decumanus.",
+  "evidence": [
+   "mythic-locations::0472"
+  ]
+ },
+ {
+  "name": "Amphitheater of the Temple Town",
+  "type": "Place",
+  "description": "Ruined arena in the northwest of the temple town, whose labyrinth beneath houses the Maze Beast.",
+  "evidence": [
+   "mythic-locations::0473",
+   "mythic-locations::0477"
+  ]
+ },
+ {
+  "name": "Aventine Hill",
+  "type": "Place",
+  "description": "Hill in Rome near which Bonisagus found a cache of Cult of Mercury rituals.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0464"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "City where Bonisagus found Mercurian ritual texts; possible location of the temple.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0462",
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Covenant",
+  "description": "Site where Fenicil's collection of Mercurian rituals is reputedly kept in a secret trove.",
+  "evidence": [
+   "mythic-locations::0455"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "description": "Domus magna of House Mercere, rumored to be built on top of the temple ruins.",
+  "evidence": [
+   "mythic-locations::0464"
+  ]
+ },
+ {
+  "name": "Roman Empire",
+  "type": "Faction",
+  "description": "Ancient empire in which the Cult of Mercury flourished; its western collapse ended the Cult.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0462"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Faction",
+  "description": "Empire under which the nekromanteion at Taenerus was converted to a church.",
+  "evidence": [
+   "mythic-locations::0416"
+  ]
+ },
+ {
+  "name": "North Africa",
+  "type": "Place",
+  "description": "Region outside the Order's territory once within the late Roman Republic.",
+  "evidence": [
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Tribunal of the Levant",
+  "type": "Tribunal",
+  "aliases": [
+   "Levant Tribunal"
+  ],
+  "description": "Tribunal containing Cennet and Cehennem; within the late Roman Republic's territory.",
+  "evidence": [
+   "mythic-locations::0415",
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal containing Lake Avernus.",
+  "evidence": [
+   "mythic-locations::0417",
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "description": "Irish Tribunal where a covenant losing its trophy for a year and a day ceases to be a covenant.",
+  "evidence": [
+   "mythic-locations::0441"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal largely within the late Roman Republic's territory.",
+  "evidence": [
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal largely within the late Roman Republic's territory.",
+  "evidence": [
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal largely within the late Roman Republic's territory.",
+  "evidence": [
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal largely within the late Roman Republic's territory.",
+  "evidence": [
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal largely within the late Roman Republic's territory.",
+  "evidence": [
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House of item-crafters; a Verditius magus seeks to smelt arsenic into metal.",
+  "evidence": [
+   "mythic-locations::0364"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "Hermetic House whose few Gifted magi claim to be priests of Mercury; its domus magna is Harco.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0463",
+   "mythic-locations::0464"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Hermetic House whose second Primus Fenicil gathered Mercurian rituals; its members guard them.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0463"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of Hermetic magi, considered by many to have the Cult of Mercury as its prototype.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0462",
+   "mythic-locations::0448"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "description": "Roman magical priesthood that tore itself apart as the Western Empire collapsed; seen as a prototype for the Order of Hermes.",
+  "evidence": [
+   "mythic-locations::0454",
+   "mythic-locations::0455",
+   "mythic-locations::0462"
+  ]
+ },
+ {
+  "name": "Cult of Jupiter",
+  "type": "Faction",
+  "description": "Roman cult whose high priest was the Pontifex Maximus.",
+  "evidence": [
+   "mythic-locations::0456"
+  ]
+ },
+ {
+  "name": "Augustinian Canons Regular",
+  "type": "Faction",
+  "aliases": [
+   "Black Canons",
+   "Augustinians",
+   "canons of Patrick's Island"
+  ],
+  "description": "Order of canons ('Black Canons') established on Inisphadraig by Saint Malachy who tend the Purgatory of Saint Patrick.",
+  "evidence": [
+   "mythic-locations::0375",
+   "mythic-locations::0388"
+  ]
+ },
+ {
+  "name": "Guardians of Purgatory",
+  "type": "Faction",
+  "description": "Small Holy Tradition favoring Meditation, Purity, Understanding, and Intervention that guards the gate to Purgatory.",
+  "evidence": [
+   "mythic-locations::0381",
+   "mythic-locations::0392",
+   "mythic-locations::0442"
+  ]
+ },
+ {
+  "name": "Patrician monks",
+  "type": "Faction",
+  "description": "Monks who dwelt on Inisphadraig before the Augustinian chapter and taught Divine magic to the guardians.",
+  "evidence": [
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "description": "Magi with a special interest in the Cult of Mercury and lost lore.",
+  "evidence": [
+   "mythic-locations::0463"
+  ]
+ },
+ {
+  "name": "Accusers",
+  "type": "Faction",
+  "description": "Order of demons to which the Iurgatores belong.",
+  "evidence": [
+   "mythic-locations::0420",
+   "mythic-locations::0422"
+  ]
+ },
+ {
+  "name": "Avengers of Evil",
+  "type": "Faction",
+  "description": "Order of demons (angels of punishment) of which Pasiel is a Duke.",
+  "evidence": [
+   "mythic-locations::0425"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "description": "The Christian Church, including the Irish Church; has given no definitive word on Purgatory's location.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0377"
+  ]
+ },
+ {
+  "name": "Saint Patrick",
+  "type": "Character",
+  "description": "Saint who banished the peist and all serpents from Ireland and was shown the entrance to Purgatory by Christ.",
+  "evidence": [
+   "mythic-locations::0371",
+   "mythic-locations::0372",
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Saint Malachy",
+  "type": "Character",
+  "description": "Established the Augustinian chapter house on Inisphadraig in 1130.",
+  "evidence": [
+   "mythic-locations::0375"
+  ]
+ },
+ {
+  "name": "Brother Bressal",
+  "type": "Character",
+  "description": "Augustinian canon and guardian of the Purgatory of Saint Patrick with True Faith and Divine Form, who opens the gate to Purgatory.",
+  "evidence": [
+   "mythic-locations::0375",
+   "mythic-locations::0390",
+   "mythic-locations::0391"
+  ]
+ },
+ {
+  "name": "Saint Augustine",
+  "type": "Character",
+  "description": "Described the four-fold division of the afterlife and treated Purgatory as a state rather than a place.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0377",
+   "mythic-locations::0387"
+  ]
+ },
+ {
+  "name": "Christ",
+  "type": "Character",
+  "description": "Appeared to Saint Patrick and gave him a book of gospels and a staff.",
+  "evidence": [
+   "mythic-locations::0372"
+  ]
+ },
+ {
+  "name": "Silver Lady",
+  "type": "Character",
+  "description": "Figure of local tales about the poisoned battlefield, with powers and servants.",
+  "evidence": [
+   "mythic-locations::0367"
+  ]
+ },
+ {
+  "name": "Carmentis",
+  "type": "Character",
+  "aliases": [
+   "Cumaean sibyl"
+  ],
+  "description": "The Cumaean sibyl, a Christian Magic Human with vast knowledge who guards a gate into Purgatory at Cumae.",
+  "evidence": [
+   "mythic-locations::0417"
+  ]
+ },
+ {
+  "name": "Saint Paulus",
+  "type": "Character",
+  "description": "Founded the monastery at the bottom of Cennet.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Virgin Mary",
+  "type": "Character",
+  "description": "Dedicatee of the monastery in Cennet.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "description": "Pagan god who imprisoned Typhon under Mount Etna.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Hades",
+  "type": "Character",
+  "description": "Pagan god of the dead to whom the nekromanteion at Taenerus was dedicated.",
+  "evidence": [
+   "mythic-locations::0416"
+  ]
+ },
+ {
+  "name": "Sir Owain",
+  "type": "Character",
+  "aliases": [
+   "Owain",
+   "Owayne Miles"
+  ],
+  "description": "Knight (originally an Irish monk Owain) whose journey through Purgatory to the Earthly Paradise is the basis of the legend.",
+  "evidence": [
+   "mythic-locations::0418",
+   "mythic-locations::0452",
+   "mythic-locations::0453"
+  ]
+ },
+ {
+  "name": "Gilbert of Basingwerk",
+  "type": "Character",
+  "description": "Abbot of Basingwerk to whom Owain told his vision.",
+  "evidence": [
+   "mythic-locations::0452"
+  ]
+ },
+ {
+  "name": "H. of Sawtrey",
+  "type": "Character",
+  "aliases": [
+   "Henricus of Basingwerk"
+  ],
+  "description": "Anonymous monk who wrote the Tractatus de Purgatorio Sancti Patricii around 1160, perhaps Henricus of Basingwerk.",
+  "evidence": [
+   "mythic-locations::0452"
+  ]
+ },
+ {
+  "name": "Marie of France",
+  "type": "Character",
+  "description": "Author of L'espurgatoire Seint Patriz in Norman French.",
+  "evidence": [
+   "mythic-locations::0452"
+  ]
+ },
+ {
+  "name": "Tundal",
+  "type": "Character",
+  "description": "Subject of a medieval otherworld vision.",
+  "evidence": [
+   "mythic-locations::0453"
+  ]
+ },
+ {
+  "name": "Thurkell",
+  "type": "Character",
+  "description": "Subject of a medieval otherworld vision.",
+  "evidence": [
+   "mythic-locations::0453"
+  ]
+ },
+ {
+  "name": "Gunthelm",
+  "type": "Character",
+  "description": "Subject of a medieval otherworld vision.",
+  "evidence": [
+   "mythic-locations::0453"
+  ]
+ },
+ {
+  "name": "Judas Iscariot",
+  "type": "Character",
+  "description": "Archetypal traitor whose sins are punished in the Boiling River.",
+  "evidence": [
+   "mythic-locations::0403"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Discovered a cache of Cult of Mercury rituals near the Aventine Hill, informing his Hermetic theory.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0462"
+  ]
+ },
+ {
+  "name": "Fenicil",
+  "type": "Character",
+  "description": "Second Primus of House Guernicus who collected Mercurian rituals and wrote The Cult of Mercury.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0459",
+   "mythic-locations::0464"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "description": "Founder of House Mercere, supposed author of Roman Astrological Correspondences of Mercury.",
+  "evidence": [
+   "mythic-locations::0460"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "description": "Roman god worshipped by the Cult of Mercury, depicted on the triumphal arch.",
+  "evidence": [
+   "mythic-locations::0454",
+   "mythic-locations::0462",
+   "mythic-locations::0469"
+  ]
+ },
+ {
+  "name": "Julius Caesar",
+  "type": "Character",
+  "description": "Founded the first temple of Mercury in the regio in 46 BC.",
+  "evidence": [
+   "mythic-locations::0456",
+   "mythic-locations::0468"
+  ]
+ },
+ {
+  "name": "Augustus",
+  "type": "Character",
+  "aliases": [
+   "Octavian"
+  ],
+  "description": "Octavian, invested as Antistes Mercuria in 11 BC, who rebuilt the temple of Mercury as a massive complex.",
+  "evidence": [
+   "mythic-locations::0456",
+   "mythic-locations::0457",
+   "mythic-locations::0469"
+  ]
+ },
+ {
+  "name": "Mark Anthony",
+  "type": "Character",
+  "aliases": [
+   "Anthony"
+  ],
+  "description": "Octavian's rival in the civil war during which Julius' temple was destroyed.",
+  "evidence": [
+   "mythic-locations::0456"
+  ]
+ },
+ {
+  "name": "Tiberius",
+  "type": "Character",
+  "description": "Inherited the title Antistes Mercuria in 14 AD.",
+  "evidence": [
+   "mythic-locations::0457"
+  ]
+ },
+ {
+  "name": "Caligula",
+  "type": "Character",
+  "description": "Tiberius' heir who did not inherit the title Antistes Mercuria.",
+  "evidence": [
+   "mythic-locations::0457"
+  ]
+ },
+ {
+  "name": "Commodus",
+  "type": "Character",
+  "description": "Emperor whose murder in 192 AD led to civil war and the temple's decline.",
+  "evidence": [
+   "mythic-locations::0457"
+  ]
+ },
+ {
+  "name": "Septimius Severus",
+  "type": "Character",
+  "description": "Emperor triumphant in the civil war after 192 AD.",
+  "evidence": [
+   "mythic-locations::0457"
+  ]
+ },
+ {
+  "name": "Constantine",
+  "type": "Character",
+  "description": "Emperor who made Christianity the state religion in 313 AD, after which the temple was abandoned.",
+  "evidence": [
+   "mythic-locations::0457"
+  ]
+ },
+ {
+  "name": "Athenaeus",
+  "type": "Character",
+  "description": "Second-century author of Edicts of Augustus.",
+  "evidence": [
+   "mythic-locations::0459",
+   "mythic-locations::0460"
+  ]
+ },
+ {
+  "name": "Pandius",
+  "type": "Creature",
+  "description": "A demon suggested for summoning by diabolists at the poisoned battlefield.",
+  "evidence": [
+   "mythic-locations::0363"
+  ]
+ },
+ {
+  "name": "Peist",
+  "type": "Creature",
+  "description": "Immense serpent-like monster of Lough Dearg banished by Saint Patrick; its blood tinges the lake red.",
+  "evidence": [
+   "mythic-locations::0372",
+   "mythic-locations::0374"
+  ]
+ },
+ {
+  "name": "Pixie",
+  "type": "Creature",
+  "description": "Fey beings of Buckland Saint Mary who annihilated the faeries and know traditional wards.",
+  "evidence": [
+   "mythic-locations::0364",
+   "mythic-locations::0365"
+  ]
+ },
+ {
+  "name": "Will-o-the-wisp",
+  "type": "Creature",
+  "description": "Beings allied with (or become by) the pixies who can lead characters through the forest.",
+  "evidence": [
+   "mythic-locations::0365"
+  ]
+ },
+ {
+  "name": "Poisonous elemental",
+  "type": "Creature",
+  "description": "Elemental liberated by disturbing the poisoned battlefield that raids the mundane world.",
+  "evidence": [
+   "mythic-locations::0366"
+  ]
+ },
+ {
+  "name": "Iurgatores",
+  "type": "Creature",
+  "aliases": [
+   "Iurgator",
+   "lurgatores"
+  ],
+  "description": "Quarrelsome bullying demons of the order of Accusers who torment sinners in Purgatory.",
+  "evidence": [
+   "mythic-locations::0383",
+   "mythic-locations::0420",
+   "mythic-locations::0423"
+  ]
+ },
+ {
+  "name": "Pasiel",
+  "type": "Creature",
+  "aliases": [
+   "Duke of Purgatory"
+  ],
+  "description": "Duke of Purgatory, an angel of punishment treated as a demon (Infernal Might 40) who can manipulate time.",
+  "evidence": [
+   "mythic-locations::0419",
+   "mythic-locations::0424",
+   "mythic-locations::0425"
+  ]
+ },
+ {
+  "name": "Shamshiel",
+  "type": "Creature",
+  "description": "Archangel ruling the Earthly Paradise with Divine Might 75.",
+  "evidence": [
+   "mythic-locations::0407",
+   "mythic-locations::0451"
+  ]
+ },
+ {
+  "name": "Xaphan",
+  "type": "Creature",
+  "description": "The Forge-Man of Hell, occasionally found at the Furnace.",
+  "evidence": [
+   "mythic-locations::0399"
+  ]
+ },
+ {
+  "name": "Seraphim",
+  "type": "Creature",
+  "description": "Mighty angels guarding the Mouth of Hell.",
+  "evidence": [
+   "mythic-locations::0404"
+  ]
+ },
+ {
+  "name": "Cherubim",
+  "type": "Creature",
+  "description": "Angels with flaming swords guarding the entrances to Eden.",
+  "evidence": [
+   "mythic-locations::0418"
+  ]
+ },
+ {
+  "name": "Typhon",
+  "type": "Creature",
+  "description": "Mythic being temporarily imprisoned in Cehennem before Mount Etna.",
+  "evidence": [
+   "mythic-locations::0415"
+  ]
+ },
+ {
+  "name": "Beelzebub",
+  "type": "Creature",
+  "description": "Demon whose son is among rumored hidden objects in Purgatory.",
+  "evidence": [
+   "mythic-locations::0441"
+  ]
+ },
+ {
+  "name": "Maze Beast",
+  "type": "Creature",
+  "aliases": [
+   "minotaur"
+  ],
+  "description": "Immortal minotaur arena gladiator (Magic Might 10) lairing beneath the ruined amphitheater of the temple town.",
+  "evidence": [
+   "mythic-locations::0477",
+   "mythic-locations::0478",
+   "mythic-locations::0479"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "description": "Infernal beings who torment souls in Purgatory.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0419"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "description": "Divine beings; an angel dresses visitors at the Gate of Paradise and may guard the Fountain of Youth.",
+  "evidence": [
+   "mythic-locations::0408",
+   "mythic-locations::0412"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "description": "Beings of the battlefield able to spirit humans away; annihilated at Buckland Saint Mary.",
+  "evidence": [
+   "mythic-locations::0364",
+   "mythic-locations::0369"
+  ]
+ },
+ {
+  "name": "Soul",
+  "type": "Concept",
+  "description": "Human souls in Purgatory and Paradise have a Might Score, no Decrepitude or Warping, and Abilities capped at half Might.",
+  "evidence": [
+   "mythic-locations::0431",
+   "mythic-locations::0432",
+   "mythic-locations::0433"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "CharacterType",
+  "description": "Spirit that remains on or returns to earth; a template for characters not resurrected into a body.",
+  "evidence": [
+   "mythic-locations::0431",
+   "mythic-locations::0435"
+  ]
+ },
+ {
+  "name": "Drowned Men",
+  "type": "CharacterType",
+  "description": "Character template for those resurrected by a magical patron.",
+  "evidence": [
+   "mythic-locations::0434",
+   "mythic-locations::0435"
+  ]
+ },
+ {
+  "name": "Sibyl",
+  "type": "CharacterType",
+  "description": "Prophetic Magic Human such as the Cumaean sibyl.",
+  "evidence": [
+   "mythic-locations::0417"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "CharacterType",
+  "description": "Infernal worshippers who meet at the battlefield to summon a demon.",
+  "evidence": [
+   "mythic-locations::0363"
+  ]
+ },
+ {
+  "name": "Pilgrim",
+  "type": "CharacterType",
+  "description": "Penitent travelers who enter Purgatory for remission of sins.",
+  "evidence": [
+   "mythic-locations::0382",
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Arsenic",
+  "type": "Item",
+  "description": "Poison found in the soil of the battlefield; valuable to necromancers and a potential metal with Material Bonuses.",
+  "evidence": [
+   "mythic-locations::0361",
+   "mythic-locations::0364",
+   "mythic-locations::0366"
+  ]
+ },
+ {
+  "name": "Metallic arsenic",
+  "type": "Item",
+  "description": "Brittle metal smelted from arsenic salts with Material Bonuses for killing magic, preservation of the dead, and stimulating the ill.",
+  "evidence": [
+   "mythic-locations::0364"
+  ]
+ },
+ {
+  "name": "First Inscription",
+  "type": "Item",
+  "description": "Inscription providing guaranteed Insight for Original Research.",
+  "evidence": [
+   "mythic-locations::0370"
+  ]
+ },
+ {
+  "name": "Second Inscription",
+  "type": "Item",
+  "description": "Scroll inscription in a strange language and mystical ink that can be cast and provides Insight.",
+  "evidence": [
+   "mythic-locations::0370"
+  ]
+ },
+ {
+  "name": "Tractatus de Purgatorio Sancti Patricii",
+  "type": "Item",
+  "description": "Latin account (c.1160) of Owain's Vision; tractatus on Area Lore: Purgatory Q7 and summa on Theology L3 Q8.",
+  "evidence": [
+   "mythic-locations::0452",
+   "mythic-locations::0453"
+  ]
+ },
+ {
+  "name": "L'espurgatoire Seint Patriz",
+  "type": "Item",
+  "description": "Norman French tractatus by Marie of France on Area Lore: Purgatory, Quality 9.",
+  "evidence": [
+   "mythic-locations::0452"
+  ]
+ },
+ {
+  "name": "Sir Owain (poem)",
+  "type": "Item",
+  "aliases": [
+   "Owayne Miles"
+  ],
+  "description": "Middle English poem, basis of the Vision of Hell and Heaven, with the later Owayne Miles.",
+  "evidence": [
+   "mythic-locations::0452",
+   "mythic-locations::0453",
+   "mythic-locations::0387"
+  ]
+ },
+ {
+  "name": "The Cult of Mercury (book)",
+  "type": "Item",
+  "description": "Fenicil's ninth-century tractatus on Organization Lore: Cult of Mercury, Quality 8.",
+  "evidence": [
+   "mythic-locations::0459",
+   "mythic-locations::0464"
+  ]
+ },
+ {
+  "name": "Edicts of Augustus",
+  "type": "Item",
+  "description": "Athenaeus' second-century tractatus on Civil and Canon Law recording Augustus' investiture.",
+  "evidence": [
+   "mythic-locations::0459",
+   "mythic-locations::0461"
+  ]
+ },
+ {
+  "name": "The Annals of Mercury",
+  "type": "Item",
+  "description": "Summa by Mercurian priests detailing the temple's history (Level 3, Quality 10).",
+  "evidence": [
+   "mythic-locations::0460",
+   "mythic-locations::0461"
+  ]
+ },
+ {
+  "name": "Roman Astrological Correspondences of Mercury",
+  "type": "Item",
+  "description": "Tractatus attributed to Mercere with a horoscope of Augustus' investiture.",
+  "evidence": [
+   "mythic-locations::0460",
+   "mythic-locations::0461"
+  ]
+ },
+ {
+  "name": "Covenant trophy",
+  "type": "Concept",
+  "description": "Hibernian tradition that a covenant losing its trophy for a year and a day is no longer a covenant.",
+  "evidence": [
+   "mythic-locations::0441"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Hermetic war of which the battlefield and the War of the Faeries and Pixies are representations.",
+  "evidence": [
+   "mythic-locations::0364",
+   "mythic-locations::0367"
+  ]
+ },
+ {
+  "name": "War of the Faeries and the Pixies",
+  "type": "Concept",
+  "description": "Faerie representation of the Schism War in which pixies annihilated faeries at Buckland Saint Mary.",
+  "evidence": [
+   "mythic-locations::0364",
+   "mythic-locations::0365"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Magical link to a person or thing; poison retains a connection to the site.",
+  "evidence": [
+   "mythic-locations::0362"
+  ]
+ },
+ {
+  "name": "Sympathetic Connection",
+  "type": "Concept",
+  "description": "Connection on which the Mirror of Souls can operate.",
+  "evidence": [
+   "mythic-locations::0402"
+  ]
+ },
+ {
+  "name": "Material Bonuses",
+  "type": "Concept",
+  "description": "Magical properties of materials used in enchanting items.",
+  "evidence": [
+   "mythic-locations::0364"
+  ]
+ },
+ {
+  "name": "Original Research",
+  "type": "Concept",
+  "description": "Hermetic research into breakthroughs aided by Insight sources.",
+  "evidence": [
+   "mythic-locations::0370",
+   "mythic-locations::0445"
+  ]
+ },
+ {
+  "name": "Insight",
+  "type": "Concept",
+  "description": "Guaranteed inspiration from a source granting breakthrough points in Original Research.",
+  "evidence": [
+   "mythic-locations::0370",
+   "mythic-locations::0400",
+   "mythic-locations::0445"
+  ]
+ },
+ {
+  "name": "Magic aura",
+  "type": "Concept",
+  "description": "Supernatural aura of the Magic Realm; the temple regio has aura 5.",
+  "evidence": [
+   "mythic-locations::0366",
+   "mythic-locations::0470"
+  ]
+ },
+ {
+  "name": "Dominion aura",
+  "type": "Concept",
+  "description": "Divine aura from worship; 3 on Inisphadraig.",
+  "evidence": [
+   "mythic-locations::0375"
+  ]
+ },
+ {
+  "name": "Empyreal aura",
+  "type": "Concept",
+  "description": "Divine auras not derived from worship; level 4 on Inisnaoimh.",
+  "evidence": [
+   "mythic-locations::0379"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "Supernatural layered area; the Purgatory and temple lie in regiones.",
+  "evidence": [
+   "mythic-locations::0373",
+   "mythic-locations::0387",
+   "mythic-locations::0467"
+  ]
+ },
+ {
+  "name": "Tartaran regio",
+  "type": "Concept",
+  "description": "Infernal regio of hellfire where Fatigue cannot be recovered.",
+  "evidence": [
+   "mythic-locations::0388",
+   "mythic-locations::0396"
+  ]
+ },
+ {
+  "name": "Celestial regio",
+  "type": "Concept",
+  "description": "Home of angels; visitors risk disorientation, Fatigue, Warping, and Ascension.",
+  "evidence": [
+   "mythic-locations::0407",
+   "mythic-locations::0408",
+   "mythic-locations::0409"
+  ]
+ },
+ {
+  "name": "Faith Point",
+  "type": "Concept",
+  "description": "Points of Divine favor spent on miracles or to succeed on rolls.",
+  "evidence": [
+   "mythic-locations::0380",
+   "mythic-locations::0392",
+   "mythic-locations::0408"
+  ]
+ },
+ {
+  "name": "Divine Form",
+  "type": "Concept",
+  "description": "Effect of Divine Ascent giving Brother Bressal a Commanding Aura.",
+  "evidence": [
+   "mythic-locations::0375",
+   "mythic-locations::0391"
+  ]
+ },
+ {
+  "name": "Divine magic",
+  "type": "Concept",
+  "description": "Holy magic taught to guardians of Purgatory.",
+  "evidence": [
+   "mythic-locations::0380",
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Holy Tradition",
+  "type": "Concept",
+  "description": "Tradition of Divine magic with favored Methods and Powers.",
+  "evidence": [
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Miraculous Effects",
+  "type": "Concept",
+  "description": "Divine magic effects with Office duration and Presence range.",
+  "evidence": [
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Vision of Hell",
+  "type": "Concept",
+  "description": "Guided journey through Purgatory's fields of torment.",
+  "evidence": [
+   "mythic-locations::0381",
+   "mythic-locations::0387"
+  ]
+ },
+ {
+  "name": "Vision of Heaven",
+  "type": "Concept",
+  "description": "Reward of glimpsing the Earthly Paradise after Purgatory.",
+  "evidence": [
+   "mythic-locations::0381",
+   "mythic-locations::0382",
+   "mythic-locations::0407"
+  ]
+ },
+ {
+  "name": "Office for the Dead",
+  "type": "Concept",
+  "description": "Mass performed as a rite of imitation of death before entering Purgatory.",
+  "evidence": [
+   "mythic-locations::0379",
+   "mythic-locations::0380"
+  ]
+ },
+ {
+  "name": "Limit of Essential Nature",
+  "type": "Concept",
+  "description": "Hermetic limit the Furnace seems to violate.",
+  "evidence": [
+   "mythic-locations::0400"
+  ]
+ },
+ {
+  "name": "Limit of Vis",
+  "type": "Concept",
+  "description": "Hermetic limit the Furnace seems to violate.",
+  "evidence": [
+   "mythic-locations::0400"
+  ]
+ },
+ {
+  "name": "Limit of Arcane Connections",
+  "type": "Concept",
+  "description": "Hermetic limit the Mirror of Souls may help bypass.",
+  "evidence": [
+   "mythic-locations::0402"
+  ]
+ },
+ {
+  "name": "Limit of the Infernal",
+  "type": "Concept",
+  "description": "Hermetic limit the Mirror of Souls may give insight into.",
+  "evidence": [
+   "mythic-locations::0402"
+  ]
+ },
+ {
+  "name": "Limit of Aging",
+  "type": "Concept",
+  "description": "Hermetic limit the Fountain of Youth may give insight into.",
+  "evidence": [
+   "mythic-locations::0412"
+  ]
+ },
+ {
+  "name": "Limit of Warping",
+  "type": "Concept",
+  "description": "Hermetic limit the Fountain of Youth may give insight into.",
+  "evidence": [
+   "mythic-locations::0412"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power; vis thrown into the Furnace becomes Ignem vis.",
+  "evidence": [
+   "mythic-locations::0400",
+   "mythic-locations::0423"
+  ]
+ },
+ {
+  "name": "Vis sordida",
+  "type": "Concept",
+  "description": "Infernal vis; Iurgatores carry 3 pawns in their hooks.",
+  "evidence": [
+   "mythic-locations::0423"
+  ]
+ },
+ {
+  "name": "Vis prava",
+  "type": "Concept",
+  "description": "Infernal vis; Pasiel carries 8 pawns in his scourge.",
+  "evidence": [
+   "mythic-locations::0430"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Supernatural distortion accumulated in auras; removable by the Fountain of Youth.",
+  "evidence": [
+   "mythic-locations::0391",
+   "mythic-locations::0409",
+   "mythic-locations::0412"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "Hermetic state magi may enter; a comprehended Twilight is a possible effect of Ascent.",
+  "evidence": [
+   "mythic-locations::0409",
+   "mythic-locations::0444"
+  ]
+ },
+ {
+  "name": "Ascension",
+  "type": "Concept",
+  "description": "Divine Ascent triggered by Warping in Celestial regiones.",
+  "evidence": [
+   "mythic-locations::0409"
+  ]
+ },
+ {
+  "name": "Pilgrimage",
+  "type": "Concept",
+  "description": "Journey to petition God for remission of sins, tested by Oppositional Elements.",
+  "evidence": [
+   "mythic-locations::0437",
+   "mythic-locations::0438"
+  ]
+ },
+ {
+  "name": "Oppositional Elements",
+  "type": "Concept",
+  "description": "Physical and spiritual tests encountered during a pilgrimage.",
+  "evidence": [
+   "mythic-locations::0437"
+  ]
+ },
+ {
+  "name": "Mali non valde",
+  "type": "Concept",
+  "description": "The not completely evil, whose destination is Purgatory.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0387",
+   "mythic-locations::0431"
+  ]
+ },
+ {
+  "name": "Boni non valde",
+  "type": "Concept",
+  "aliases": [
+   "boninon valde"
+  ],
+  "description": "The not completely good, whose destination is the Earthly Paradise.",
+  "evidence": [
+   "mythic-locations::0377",
+   "mythic-locations::0418",
+   "mythic-locations::0431"
+  ]
+ },
+ {
+  "name": "Judgment Day",
+  "type": "Concept",
+  "description": "End of days when souls in the Earthly Paradise enter Heaven.",
+  "evidence": [
+   "mythic-locations::0371",
+   "mythic-locations::0377"
+  ]
+ },
+ {
+  "name": "Hermetic necromancy",
+  "type": "Concept",
+  "description": "Magic unable to question those given a Church burial.",
+  "evidence": [
+   "mythic-locations::0446"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "description": "Hermetic condemnation of a magus, e.g. for Infernalism.",
+  "evidence": [
+   "mythic-locations::0440",
+   "mythic-locations::0448"
+  ]
+ },
+ {
+  "name": "Infernalism",
+  "type": "Concept",
+  "description": "Dealing with the Infernal; grounds for a Wizard's March.",
+  "evidence": [
+   "mythic-locations::0440"
+  ]
+ },
+ {
+  "name": "Hermetic longevity ritual",
+  "type": "Concept",
+  "description": "Ritual that expires when Pasiel inflicts an aging crisis.",
+  "evidence": [
+   "mythic-locations::0430"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "description": "Supernatural power score of creatures and souls (Divine, Infernal, or Magic).",
+  "evidence": [
+   "mythic-locations::0419",
+   "mythic-locations::0432"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance to supernatural effects; demons gain +8 from Purgatory's aura.",
+  "evidence": [
+   "mythic-locations::0419",
+   "mythic-locations::0432"
+  ]
+ },
+ {
+  "name": "Confidence Score",
+  "type": "Concept",
+  "description": "Score that adds spiritual armor to souls' Might.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0432"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Gives the souls of magi a Magic Might.",
+  "evidence": [
+   "mythic-locations::0432"
+  ]
+ },
+ {
+  "name": "Mercurian rituals",
+  "type": "Concept",
+  "description": "Ritual magic of the Cult of Mercury, texts of which influenced Bonisagus.",
+  "evidence": [
+   "mythic-locations::0455",
+   "mythic-locations::0462"
+  ]
+ },
+ {
+  "name": "Mercurian portal",
+  "type": "Item",
+  "description": "Ancient functioning portal of the Cult of Mercury linking to the temple ruins.",
+  "evidence": [
+   "mythic-locations::0464",
+   "mythic-locations::0466"
+  ]
+ },
+ {
+  "name": "Antistes Mercuria",
+  "type": "Concept",
+  "description": "Title of the high priest of Mercury held by Augustus and Tiberius.",
+  "evidence": [
+   "mythic-locations::0457"
+  ]
+ },
+ {
+  "name": "Pontifex Maximus",
+  "type": "Concept",
+  "description": "Title of the high priest of the Cult of Jupiter taken by Augustus.",
+  "evidence": [
+   "mythic-locations::0456"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm of God; source of Divine auras and the gate to Purgatory.",
+  "evidence": [
+   "mythic-locations::0373",
+   "mythic-locations::0379",
+   "mythic-locations::0380"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of demons; Purgatory lies in an Infernal regio.",
+  "evidence": [
+   "mythic-locations::0363",
+   "mythic-locations::0378",
+   "mythic-locations::0388"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "description": "Realm of magic; the temple lies in a Magic regio.",
+  "evidence": [
+   "mythic-locations::0366",
+   "mythic-locations::0454",
+   "mythic-locations::0470"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm of faeries, present at the battlefield.",
+  "evidence": [
+   "mythic-locations::0364",
+   "mythic-locations::0369"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0400"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0462"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0462",
+   "mythic-locations::0471"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0471"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0422",
+   "mythic-locations::0479"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0420",
+   "mythic-locations::0421"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0421",
+   "mythic-locations::0427"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers or spells in this text.",
+  "evidence": [
+   "mythic-locations::0478",
+   "mythic-locations::0479"
+  ]
+ },
+ {
+  "name": "Heat of the Searing Forge",
+  "type": "Spell",
+  "description": "Spell whose effect continually afflicts metal-bearers in Tartaran regiones.",
+  "evidence": [
+   "mythic-locations::0396"
+  ]
+ },
+ {
+  "name": "Piercing the Faerie Veil",
+  "type": "Spell",
+  "description": "Spell; a Divine version could help cross the Bridge to Paradise.",
+  "evidence": [
+   "mythic-locations::0406"
+  ]
+ },
+ {
+  "name": "Pains of the Perpetual Worry",
+  "type": "Spell",
+  "description": "Spell mirrored by the Iurgatores' Whispers Behind the Back power.",
+  "evidence": [
+   "mythic-locations::0422"
+  ]
+ },
+ {
+  "name": "The Earth's Carbuncle",
+  "type": "Spell",
+  "description": "Spell a gigantic version of which seems to have shattered the amphitheater.",
+  "evidence": [
+   "mythic-locations::0477"
+  ]
+ },
+ {
+  "name": "Leap of Homecoming",
+  "type": "Spell",
+  "description": "Spell type usable to enter or exit the temple regio.",
+  "evidence": [
+   "mythic-locations::0474"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "Effect granted by Brother Bressal's Divine Form, Penetration 13.",
+  "evidence": [
+   "mythic-locations::0391"
+  ]
+ },
+ {
+  "name": "And they cast lots, as well the small as the great",
+  "type": "Spell",
+  "description": "Meditation/Understanding miraculous effect (Level 15) revealing whether to choose a lot.",
+  "evidence": [
+   "mythic-locations::0392",
+   "mythic-locations::0393"
+  ]
+ },
+ {
+  "name": "Then a spirit passed before my face",
+  "type": "Spell",
+  "description": "Meditation/Intervention miraculous effect (Level 25) making spirits and souls visible.",
+  "evidence": [
+   "mythic-locations::0393"
+  ]
+ },
+ {
+  "name": "For thou hast power of life and death",
+  "type": "Spell",
+  "description": "Purity/Intervention miraculous effect (Level 40) opening a doorway into Purgatory.",
+  "evidence": [
+   "mythic-locations::0393"
+  ]
+ },
+ {
+  "name": "Coagulation",
+  "type": "Spell",
+  "description": "Demonic power letting a demon form a physical body.",
+  "evidence": [
+   "mythic-locations::0421",
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Spell",
+  "description": "Demonic power inflicting a Personality Trait such as Cowardly or Guilt-Ridden.",
+  "evidence": [
+   "mythic-locations::0421",
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Betrayal of the Heart",
+  "type": "Spell",
+  "description": "Iurgator power revealing a secret fact about a target.",
+  "evidence": [
+   "mythic-locations::0422"
+  ]
+ },
+ {
+  "name": "Whispers Behind the Back",
+  "type": "Spell",
+  "description": "Iurgator power causing anxiety about secret sins for a month.",
+  "evidence": [
+   "mythic-locations::0422"
+  ]
+ },
+ {
+  "name": "Punish the Sinner",
+  "type": "Spell",
+  "description": "Pasiel's power inflicting wounds according to sin.",
+  "evidence": [
+   "mythic-locations::0426",
+   "mythic-locations::0427"
+  ]
+ },
+ {
+  "name": "Duke of Purgatory (power)",
+  "type": "Spell",
+  "description": "Pasiel's constant power boosting Might against control within Purgatory.",
+  "evidence": [
+   "mythic-locations::0427"
+  ]
+ },
+ {
+  "name": "Break Time's Arrow",
+  "type": "Spell",
+  "description": "Pasiel's power moving a creature to a past state.",
+  "evidence": [
+   "mythic-locations::0428"
+  ]
+ },
+ {
+  "name": "Time's Former Glory",
+  "type": "Spell",
+  "description": "Pasiel's power reverting himself to restore Might or cure wounds.",
+  "evidence": [
+   "mythic-locations::0429"
+  ]
+ },
+ {
+  "name": "Decay of Eleven Score Years",
+  "type": "Spell",
+  "description": "Pasiel's power aging non-living objects to dust.",
+  "evidence": [
+   "mythic-locations::0429"
+  ]
+ },
+ {
+  "name": "Time Waits for No Man",
+  "type": "Spell",
+  "description": "Pasiel's power inflicting aging on living things.",
+  "evidence": [
+   "mythic-locations::0429",
+   "mythic-locations::0430"
+  ]
+ },
+ {
+  "name": "Bellow",
+  "type": "Spell",
+  "description": "Maze Beast power penalizing Quickness rolls of listeners.",
+  "evidence": [
+   "mythic-locations::0479"
+  ]
+ },
+ {
+  "name": "Sense of Self",
+  "type": "Spell",
+  "description": "Maze Beast power letting him find his way to any remembered place.",
+  "evidence": [
+   "mythic-locations::0479"
+  ]
+ },
+ {
+  "name": "Religious",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0380",
+   "mythic-locations::0381",
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Affinity with Intervention",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Greater Immunity to Fire",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0420",
+   "mythic-locations::0425"
+  ]
+ },
+ {
+  "name": "Puissant Brawl",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0420"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0420"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0420",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0425"
+  ]
+ },
+ {
+  "name": "Puissant Profession: Torturer",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0425"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0400",
+   "mythic-locations::0445"
+  ]
+ },
+ {
+  "name": "Puissant Ignem",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0400"
+  ]
+ },
+ {
+  "name": "Unaging",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0412"
+  ]
+ },
+ {
+  "name": "Magic Human",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0417",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Puissant Ability",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Warrior",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Faerie Blooded",
+  "type": "Virtue",
+  "description": "Virtue referenced in this text.",
+  "evidence": [
+   "mythic-locations::0364"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Monastic Vows",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Ability Block",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Soft-Hearted",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Difficult Underlings",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0425"
+  ]
+ },
+ {
+  "name": "Lame",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0400"
+  ]
+ },
+ {
+  "name": "Ignem Monstrosity",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0400"
+  ]
+ },
+ {
+  "name": "Raised From The Dead",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0434"
+  ]
+ },
+ {
+  "name": "Viaticarus",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0434"
+  ]
+ },
+ {
+  "name": "Magic Monster",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Reclusive",
+  "type": "Flaw",
+  "description": "Flaw referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Organization Lore: Church",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0460"
+  ]
+ },
+ {
+  "name": "Area Lore: Purgatory",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0421",
+   "mythic-locations::0452"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0376",
+   "mythic-locations::0389",
+   "mythic-locations::0452"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0460",
+   "mythic-locations::0470"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0380",
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0459"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0408"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0421"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Profession: Gardener",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0390",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0391",
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0380",
+   "mythic-locations::0391",
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0391",
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0391",
+   "mythic-locations::0392"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0421",
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0405",
+   "mythic-locations::0421"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0421",
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Profession: Torturer",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0421",
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0421",
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0426"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0426",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0445"
+  ]
+ },
+ {
+  "name": "Organization Lore: Cult of Mercury",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0459",
+   "mythic-locations::0460"
+  ]
+ },
+ {
+  "name": "Organization Lore: Order of Hermes",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0462"
+  ]
+ },
+ {
+  "name": "Organization Lore: Roman Empire",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0462",
+   "mythic-locations::0469"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0433",
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Dead Language",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0478"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "description": "Ability referenced in this text.",
+  "evidence": [
+   "mythic-locations::0408",
+   "mythic-locations::0409"
+  ]
+ }
+]

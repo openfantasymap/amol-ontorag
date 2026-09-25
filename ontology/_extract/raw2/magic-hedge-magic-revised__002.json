@@ -1,0 +1,2493 @@
+[
+ {
+  "name": "Folk Witch",
+  "type": "CharacterType",
+  "aliases": [
+   "folk witches"
+  ],
+  "description": "A hedge wizard tradition of (mostly female) witches who brew potions, bind familiars, and organize into covens; both Gifted and unGifted members exist.",
+  "evidence": [
+   "magic-hedge-magic-revised::0256",
+   "magic-hedge-magic-revised::0251",
+   "magic-hedge-magic-revised::0274"
+  ]
+ },
+ {
+  "name": "Folk Witch Magic Theory",
+  "type": "Ability",
+  "description": "The folk witch equivalent of Magic Theory, used to brew potions, investigate potions and open the Gift; familiars can also learn it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0240",
+   "magic-hedge-magic-revised::0246",
+   "magic-hedge-magic-revised::0249"
+  ]
+ },
+ {
+  "name": "Folk Witch Magic",
+  "type": "Concept",
+  "aliases": [
+   "folk witch magic"
+  ],
+  "description": "The supernatural magic of folk witches, including potion brewing in the kitchen, familiars, Openings and initiations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0241",
+   "magic-hedge-magic-revised::0247",
+   "magic-hedge-magic-revised::0266"
+  ]
+ },
+ {
+  "name": "Potion Brewing",
+  "type": "Concept",
+  "aliases": [
+   "brew",
+   "potions"
+  ],
+  "description": "Folk witch laboratory activity of brewing doses of potions in the kitchen, costing vis per dose and effect; potions grant temporary Supernatural Abilities or effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0240",
+   "magic-hedge-magic-revised::0241",
+   "magic-hedge-magic-revised::0266"
+  ]
+ },
+ {
+  "name": "Brew Potency",
+  "type": "Concept",
+  "description": "The strength of a folk witch potion, determining granted Ability scores, durations and its apparent magnitude to Hermetic detection.",
+  "evidence": [
+   "magic-hedge-magic-revised::0241",
+   "magic-hedge-magic-revised::0242",
+   "magic-hedge-magic-revised::0247"
+  ]
+ },
+ {
+  "name": "Kitchen",
+  "type": "Concept",
+  "description": "The folk witch's equivalent of a laboratory, where she brews potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0249",
+   "magic-hedge-magic-revised::0266",
+   "magic-hedge-magic-revised::0275"
+  ]
+ },
+ {
+  "name": "Concentrated Potions",
+  "type": "Virtue",
+  "description": "Minor Supernatural Ability/Virtue allowing a folk witch to use more vis in brewing a season's potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0240",
+   "magic-hedge-magic-revised::0288"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "aliases": [
+   "Laboratory Text",
+   "Lab Texts"
+  ],
+  "description": "A written record of a laboratory result; a literate folk witch can write one for a brew or longevity ritual, and gruagachan write theirs in Pictish Ogham.",
+  "evidence": [
+   "magic-hedge-magic-revised::0240",
+   "magic-hedge-magic-revised::0246",
+   "magic-hedge-magic-revised::0347"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Ability",
+  "description": "Supernatural Ability to communicate with animals; one of the folk witch favored powers, used for binding familiars and for potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0241",
+   "magic-hedge-magic-revised::0248",
+   "magic-hedge-magic-revised::0257"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Ability",
+  "description": "Supernatural Ability to inflict curses; a folk witch favored power that can be brewed into curse potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0241",
+   "magic-hedge-magic-revised::0242",
+   "magic-hedge-magic-revised::0260"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Ability",
+  "description": "Supernatural Ability to find items or places; folk witch favored power used, for example, to find stolen property.",
+  "evidence": [
+   "magic-hedge-magic-revised::0242",
+   "magic-hedge-magic-revised::0250",
+   "magic-hedge-magic-revised::0286"
+  ]
+ },
+ {
+  "name": "Flight",
+  "type": "Ability",
+  "description": "Supernatural Ability to fly; a folk witch favored power granted by potions and the Unbound by Land initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0242",
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0257"
+  ]
+ },
+ {
+  "name": "Healing",
+  "type": "Ability",
+  "description": "Supernatural Ability to heal Wounds and Fatigue; a folk witch favored power, also used for the folk witch Longevity Ritual.",
+  "evidence": [
+   "magic-hedge-magic-revised::0243",
+   "magic-hedge-magic-revised::0246",
+   "magic-hedge-magic-revised::0261"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Supernatural Ability to see invisible things; a folk witch favored power, studied for the Sense of the Mystic breakthrough, and possessed by fetches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0243",
+   "magic-hedge-magic-revised::0302",
+   "magic-hedge-magic-revised::0323"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Ability",
+  "description": "Supernatural Ability to transform into an animal form; a folk witch favored power, and a Virtue sought in gruagach recruits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0243",
+   "magic-hedge-magic-revised::0244",
+   "magic-hedge-magic-revised::0314"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Ability",
+  "description": "Supernatural Ability to sense coming events; replaces Shapeshifter in the Orleans witches' variant tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0257",
+   "magic-hedge-magic-revised::0286",
+   "magic-hedge-magic-revised::0288"
+  ]
+ },
+ {
+  "name": "Animal Healing",
+  "type": "Ability",
+  "description": "Supernatural Ability suggested as an alternative folk witch power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0257"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "description": "Supernatural Ability suggested as an alternative folk witch power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0257"
+  ]
+ },
+ {
+  "name": "Enchanting Music",
+  "type": "Ability",
+  "description": "Supernatural Ability suggested as an alternative folk witch power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0257"
+  ]
+ },
+ {
+  "name": "Nightwalking",
+  "type": "Ability",
+  "description": "Supernatural Ability suggested as an alternative folk witch power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0257"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Ability",
+  "description": "Supernatural Ability suggested as an alternative folk witch power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0257"
+  ]
+ },
+ {
+  "name": "Supernatural Ability",
+  "type": "Concept",
+  "aliases": [
+   "Supernatural Abilities"
+  ],
+  "description": "Abilities with magical effects; folk witches' magic consists of these, and they lose them during the Witch Moon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0241",
+   "magic-hedge-magic-revised::0251",
+   "magic-hedge-magic-revised::0252"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis",
+   "pawns"
+  ],
+  "description": "Raw magical substance used by folk witches to brew potions and by gruagachan to cast, study and enchant; traded at sabbats.",
+  "evidence": [
+   "magic-hedge-magic-revised::0240",
+   "magic-hedge-magic-revised::0262",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A magical link to a target; needed for emotion curse potions, and familiars serve as Arcane Connections to their witch.",
+  "evidence": [
+   "magic-hedge-magic-revised::0241",
+   "magic-hedge-magic-revised::0242",
+   "magic-hedge-magic-revised::0249"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Protection against magic that potions and spells must penetrate; Second Sight and Sense of the Mystic bypass it for sensing.",
+  "evidence": [
+   "magic-hedge-magic-revised::0242",
+   "magic-hedge-magic-revised::0249",
+   "magic-hedge-magic-revised::0302"
+  ]
+ },
+ {
+  "name": "Things of Virtue",
+  "type": "Concept",
+  "description": "Natural items with magical properties which folk witches may enrich using Realms of Power: Magic rules.",
+  "evidence": [
+   "magic-hedge-magic-revised::0245"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "description": "A ritual to slow aging; a folk witch can create one only for herself using her Healing Lab Total.",
+  "evidence": [
+   "magic-hedge-magic-revised::0246",
+   "magic-hedge-magic-revised::0278"
+  ]
+ },
+ {
+  "name": "Organization Lore: Folk Witches",
+  "type": "Ability",
+  "description": "Lore Ability covering folk witch effects, where covens meet and the reputations of folk witches; its specialty must be a home coven.",
+  "evidence": [
+   "magic-hedge-magic-revised::0247",
+   "magic-hedge-magic-revised::0259",
+   "magic-hedge-magic-revised::0260"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [
+   "familiars"
+  ],
+  "description": "An animal bound to a folk witch in a season of lab work, gaining Intelligence, assisting in the kitchen and sharing a magical link with her.",
+  "evidence": [
+   "magic-hedge-magic-revised::0248",
+   "magic-hedge-magic-revised::0249",
+   "magic-hedge-magic-revised::0250"
+  ]
+ },
+ {
+  "name": "True Friend",
+  "type": "Virtue",
+  "description": "Minor Virtue gained by both folk witch and familiar through the familiar binding.",
+  "evidence": [
+   "magic-hedge-magic-revised::0249"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Accumulation of mystical change; for folk witches rising Warping Score triggers the Witch Moon, and for gruagachan it slowly turns them into trolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0251",
+   "magic-hedge-magic-revised::0311",
+   "magic-hedge-magic-revised::0321"
+  ]
+ },
+ {
+  "name": "Witch Moon",
+  "type": "Concept",
+  "description": "The folk witch equivalent of Wizard's Twilight: a month-long fever during which she loses her Supernatural Abilities, afterward gaining a good or bad mark.",
+  "evidence": [
+   "magic-hedge-magic-revised::0251",
+   "magic-hedge-magic-revised::0252",
+   "magic-hedge-magic-revised::0253"
+  ]
+ },
+ {
+  "name": "Wizard's Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight"
+  ],
+  "description": "The Hermetic magus's reaction to Warping, to which the Witch Moon is the folk witch equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0251"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "The innate magical talent; Gifted folk witches and gruagachan have it Opened for favored Abilities or Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0251",
+   "magic-hedge-magic-revised::0257",
+   "magic-hedge-magic-revised::0313"
+  ]
+ },
+ {
+  "name": "Opening the Gift",
+  "type": "Concept",
+  "aliases": [
+   "Opening of The Gift",
+   "Opening The Gift"
+  ],
+  "description": "Ritual opening a Gifted apprentice's magic; for folk witches it grants seven favored Supernatural Abilities, for gruagachan the six gruagach Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0257",
+   "magic-hedge-magic-revised::0266",
+   "magic-hedge-magic-revised::0313"
+  ]
+ },
+ {
+  "name": "Coven",
+  "type": "Faction",
+  "aliases": [
+   "covens"
+  ],
+  "description": "A group of folk witches (usually three to a dozen) dispersed over a locale, the folk witch equivalent of a Hermetic covenant.",
+  "evidence": [
+   "magic-hedge-magic-revised::0256",
+   "magic-hedge-magic-revised::0269",
+   "magic-hedge-magic-revised::0270"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis of Hearth"
+  ],
+  "description": "Hermetic ritual protecting a covenant, traditionally cast at the winter solstice; folk witches lack such shared rituals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0256",
+   "magic-hedge-magic-revised::0263",
+   "magic-hedge-magic-revised::0309"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "description": "Shared Hermetic ritual which folk witches cannot rely upon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0256"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "description": "Mystery process by which unGifted folk witches and gruagachan gain Supernatural Virtues via scripts with ordeals, quests and bonuses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0258",
+   "magic-hedge-magic-revised::0348",
+   "magic-hedge-magic-revised::0353"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "Concept",
+  "description": "The initiator who performs an initiation script on an initiate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0258",
+   "magic-hedge-magic-revised::0266",
+   "magic-hedge-magic-revised::0348"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "description": "A set of procedures (written or known) used to initiate a character; covens must purchase them with Build Points.",
+  "evidence": [
+   "magic-hedge-magic-revised::0270",
+   "magic-hedge-magic-revised::0271",
+   "magic-hedge-magic-revised::0348"
+  ]
+ },
+ {
+  "name": "Sabbat",
+  "type": "Concept",
+  "description": "A meeting of a folk witch coven held on traditional festival dates, used to trade vis, brew potions cooperatively, Open the Gift and perform initiations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0262",
+   "magic-hedge-magic-revised::0263",
+   "magic-hedge-magic-revised::0266"
+  ]
+ },
+ {
+  "name": "Grand Sabbat",
+  "type": "Concept",
+  "description": "A gathering of many folk witch covens; one is held each All Hallow's Eve in Stonehenge and another on Walpurgis' Night at Brocken Mountain.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267",
+   "magic-hedge-magic-revised::0268"
+  ]
+ },
+ {
+  "name": "Precocious Girls",
+  "type": "Concept",
+  "description": "Gifted girls accidentally initiated as if unGifted by a coven.",
+  "evidence": [
+   "magic-hedge-magic-revised::0259"
+  ]
+ },
+ {
+  "name": "Rhyme of the Beast",
+  "type": "Concept",
+  "description": "Folk witch initiation script requiring living as an animal for a season; grants Animal Ken and the Flaw Incomprehensible.",
+  "evidence": [
+   "magic-hedge-magic-revised::0260",
+   "magic-hedge-magic-revised::0272"
+  ]
+ },
+ {
+  "name": "Venomous Darts",
+  "type": "Concept",
+  "description": "Winter folk witch initiation script granting the Major Virtue Cursing and the Flaw Magical Air.",
+  "evidence": [
+   "magic-hedge-magic-revised::0260"
+  ]
+ },
+ {
+  "name": "Sense of Place",
+  "type": "Concept",
+  "description": "Folk witch initiation script requiring travel along a single path for a season; grants Dowsing and Motion Sickness.",
+  "evidence": [
+   "magic-hedge-magic-revised::0260",
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0286"
+  ]
+ },
+ {
+  "name": "Unbound by Land",
+  "type": "Concept",
+  "description": "Folk witch initiation script requiring a season above ground; grants Flight and Arthritis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0280"
+  ]
+ },
+ {
+  "name": "Hands of Life",
+  "type": "Concept",
+  "description": "Spring folk witch initiation script granting the Major Virtue Healing and the Flaw Enfeebled.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0272"
+  ]
+ },
+ {
+  "name": "The Devil's Eye",
+  "type": "Concept",
+  "description": "Folk witch initiation script requiring an Arcane Connection to an invisible creature; grants Second Sight and Missing Eye.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0280"
+  ]
+ },
+ {
+  "name": "Second Life",
+  "type": "Concept",
+  "description": "Folk witch initiation script requiring a cloak from a Beast of Virtue's hide; grants Shapeshifter and Age Quickly.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0280"
+  ]
+ },
+ {
+  "name": "Sense of Time",
+  "type": "Concept",
+  "description": "Orleans witches' initiation script for Premonitions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0286"
+  ]
+ },
+ {
+  "name": "Incomprehensible",
+  "type": "Flaw",
+  "description": "Minor General Flaw gained through Rhyme of the Beast.",
+  "evidence": [
+   "magic-hedge-magic-revised::0260",
+   "magic-hedge-magic-revised::0276"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "description": "Major General Flaw gained through Venomous Darts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0260"
+  ]
+ },
+ {
+  "name": "Motion Sickness",
+  "type": "Flaw",
+  "description": "Minor General Flaw gained through Sense of Place.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0288"
+  ]
+ },
+ {
+  "name": "Arthritis",
+  "type": "Flaw",
+  "description": "Minor General Flaw gained through Unbound by Land.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0276",
+   "magic-hedge-magic-revised::0278"
+  ]
+ },
+ {
+  "name": "Enfeebled",
+  "type": "Flaw",
+  "description": "Major General Flaw gained through Hands of Life.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0276"
+  ]
+ },
+ {
+  "name": "Missing Eye",
+  "type": "Flaw",
+  "description": "Minor General Flaw gained through The Devil's Eye.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261",
+   "magic-hedge-magic-revised::0276"
+  ]
+ },
+ {
+  "name": "Age Quickly",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw gained through Second Life.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261"
+  ]
+ },
+ {
+  "name": "Beast of Virtue",
+  "type": "Creature",
+  "description": "A magical beast whose hide is required for the Second Life initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0261"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic protection that folk witches lack, leaving them exposed to the social effects of Gifted sisters.",
+  "evidence": [
+   "magic-hedge-magic-revised::0262"
+  ]
+ },
+ {
+  "name": "Imbolg",
+  "type": "Concept",
+  "aliases": [
+   "Brigid",
+   "Candlemas"
+  ],
+  "description": "Sabbat date on 1 February, also known as Brigid or Candlemas.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267"
+  ]
+ },
+ {
+  "name": "Eostre",
+  "type": "Concept",
+  "description": "Sabbat held at the Spring Equinox.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267"
+  ]
+ },
+ {
+  "name": "Beltane",
+  "type": "Concept",
+  "aliases": [
+   "May Day",
+   "Walpurgis' Night",
+   "St. Walpurgis' Night"
+  ],
+  "description": "Sabbat on 30 April/1 May, also May Day or Walpurgis' Night, when some local witches meet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0263",
+   "magic-hedge-magic-revised::0267",
+   "magic-hedge-magic-revised::0268"
+  ]
+ },
+ {
+  "name": "Lammas",
+  "type": "Concept",
+  "aliases": [
+   "Lugnasad"
+  ],
+  "description": "Sabbat on 2 August, also Lugnasad.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267"
+  ]
+ },
+ {
+  "name": "Mabon",
+  "type": "Concept",
+  "description": "Sabbat held at the Autumn Equinox.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267"
+  ]
+ },
+ {
+  "name": "Samhain",
+  "type": "Concept",
+  "aliases": [
+   "All Hallow's Eve"
+  ],
+  "description": "Sabbat on 31 October/1 November, also All Hallow's Eve; the Stonehenge grand sabbat is held then.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267",
+   "magic-hedge-magic-revised::0268"
+  ]
+ },
+ {
+  "name": "Winter Solstice",
+  "type": "Concept",
+  "description": "Sabbat date and traditional time for casting the Aegis of the Hearth.",
+  "evidence": [
+   "magic-hedge-magic-revised::0263",
+   "magic-hedge-magic-revised::0267"
+  ]
+ },
+ {
+  "name": "Summer Solstice",
+  "type": "Concept",
+  "description": "Sabbat date.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting, where Christian festivals coincide with sabbat dates.",
+  "evidence": [
+   "magic-hedge-magic-revised::0263",
+   "magic-hedge-magic-revised::0267",
+   "magic-hedge-magic-revised::0347"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Stonehenge"
+  ],
+  "description": "Tribunal where folk witch covens meet for a grand sabbat each All Hallow's Eve, and where gruagachan also exist.",
+  "evidence": [
+   "magic-hedge-magic-revised::0267",
+   "magic-hedge-magic-revised::0268",
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Rhine"
+  ],
+  "description": "Tribunal where covens hold a grand sabbat at Brocken Mountain, and scene of the Towers of War story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0268",
+   "magic-hedge-magic-revised::0309",
+   "magic-hedge-magic-revised::0310"
+  ]
+ },
+ {
+  "name": "Witches' Altar",
+  "type": "Place",
+  "description": "Site on Brocken Mountain where Rhine covens hold a grand sabbat on Walpurgis' Night.",
+  "evidence": [
+   "magic-hedge-magic-revised::0268"
+  ]
+ },
+ {
+  "name": "Brocken Mountain",
+  "type": "Place",
+  "aliases": [
+   "Brocken"
+  ],
+  "description": "Mountain in the Rhine region hosting the Witches' Altar grand sabbat.",
+  "evidence": [
+   "magic-hedge-magic-revised::0268"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "The war that destroyed House Diedne; its refugees are speculated to masquerade as folk witches, and afterward gruagach relations with the Order warmed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0268",
+   "magic-hedge-magic-revised::0311",
+   "magic-hedge-magic-revised::0312"
+  ]
+ },
+ {
+  "name": "Shadow Tribunals",
+  "type": "Concept",
+  "description": "Magi's term for organized grand sabbats of folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0268"
+  ]
+ },
+ {
+  "name": "Customized Covenant Creation",
+  "type": "Concept",
+  "description": "Build Point rules for designing covenants, used to design covens.",
+  "evidence": [
+   "magic-hedge-magic-revised::0269"
+  ]
+ },
+ {
+  "name": "Build Points",
+  "type": "Concept",
+  "description": "Points used to purchase coven resources, including initiation scripts; coven power level depends on them.",
+  "evidence": [
+   "magic-hedge-magic-revised::0270",
+   "magic-hedge-magic-revised::0271"
+  ]
+ },
+ {
+  "name": "Hooks and Boons",
+  "type": "Concept",
+  "description": "Covenant creation features adapted for covens, such as aura, regio, urban and missing aura.",
+  "evidence": [
+   "magic-hedge-magic-revised::0270",
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "Witches of Reims",
+  "type": "Covenant",
+  "aliases": [
+   "coven of Reims"
+  ],
+  "description": "A folk witch coven in and around Reims, several of whose witches were burned by Archbishop William in the late 12th century.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "Reims",
+  "type": "Place",
+  "description": "French town where the Witches of Reims coven is based.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0273",
+   "magic-hedge-magic-revised::0277"
+  ]
+ },
+ {
+  "name": "William",
+  "type": "Character",
+  "description": "Archbishop of Reims who ordered witches burned as heretics in the late 12th century.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272"
+  ]
+ },
+ {
+  "name": "Mistress Greta",
+  "type": "Character",
+  "aliases": [
+   "Greta"
+  ],
+  "description": "Elderly Gifted folk witch of Reims who escaped the stake by flying and now lives alone in a forest cave regio.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0278",
+   "magic-hedge-magic-revised::0279"
+  ]
+ },
+ {
+  "name": "Forest Cave",
+  "type": "Place",
+  "description": "Mistress Greta's remote cave with Magic aura 6, lying inside a regio.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regios"
+  ],
+  "description": "A hidden magical realm-pocket; Greta's cave and Joseph's house lie in regiones.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0287",
+   "magic-hedge-magic-revised::0301"
+  ]
+ },
+ {
+  "name": "Ars Grammatica",
+  "type": "Item",
+  "description": "Book by Donatus (Artes Liberales Summa) held by the Reims coven.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272"
+  ]
+ },
+ {
+  "name": "Donatus",
+  "type": "Character",
+  "description": "Author of Ars Grammatica.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272"
+  ]
+ },
+ {
+  "name": "Scent of Water",
+  "type": "Item",
+  "description": "Anonymous Dowsing Summa in the Reims coven library.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "The Piercing Tongue",
+  "type": "Item",
+  "description": "Penetration Summa by Luzabel in the Reims coven library.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "Luzabel",
+  "type": "Character",
+  "description": "Author of The Piercing Tongue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272"
+  ]
+ },
+ {
+  "name": "Townhouse (Reims)",
+  "type": "Place",
+  "description": "Haunted ramshackle townhouse in Reims' poor quarter where Eliza lives, haunted by the burned witches' ghosts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0273",
+   "magic-hedge-magic-revised::0277"
+  ]
+ },
+ {
+  "name": "Eliza",
+  "type": "Character",
+  "description": "Old unGifted folk witch living in the Reims townhouse, a healer of the poor whose rooster is her familiar.",
+  "evidence": [
+   "magic-hedge-magic-revised::0273",
+   "magic-hedge-magic-revised::0276",
+   "magic-hedge-magic-revised::0277"
+  ]
+ },
+ {
+  "name": "Vineyard (Reims)",
+  "type": "Place",
+  "description": "Vineyard near Reims on the Marne, owned by a small monastery, where Matilda lives.",
+  "evidence": [
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "Marne",
+  "type": "Place",
+  "description": "River near Reims on whose banks lies Matilda's vineyard.",
+  "evidence": [
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "Matilda",
+  "type": "Character",
+  "description": "Young Gifted folk witch of Reims living at a vineyard, trained by Mistress Greta; can turn into a dog.",
+  "evidence": [
+   "magic-hedge-magic-revised::0273",
+   "magic-hedge-magic-revised::0274",
+   "magic-hedge-magic-revised::0275"
+  ]
+ },
+ {
+  "name": "Painless Witch Moon",
+  "type": "Virtue",
+  "description": "Minor Virtue gained by Eliza from the Witch Moon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0276"
+  ]
+ },
+ {
+  "name": "Cyclic Magic",
+  "type": "Virtue",
+  "description": "Virtue possessed by Matilda (positive, spring and summer).",
+  "evidence": [
+   "magic-hedge-magic-revised::0274"
+  ]
+ },
+ {
+  "name": "Quiet Magic",
+  "type": "Virtue",
+  "description": "Virtue possessed by Matilda; gruagachan may not have it, and if allowed it counts as Major.",
+  "evidence": [
+   "magic-hedge-magic-revised::0274",
+   "magic-hedge-magic-revised::0328",
+   "magic-hedge-magic-revised::0338"
+  ]
+ },
+ {
+  "name": "Short-Ranged Curses",
+  "type": "Flaw",
+  "description": "Flaw possessed by Matilda.",
+  "evidence": [
+   "magic-hedge-magic-revised::0274"
+  ]
+ },
+ {
+  "name": "Life Linked Folk Witch Magic",
+  "type": "Virtue",
+  "description": "Virtue possessed by Mistress Greta.",
+  "evidence": [
+   "magic-hedge-magic-revised::0278"
+  ]
+ },
+ {
+  "name": "Expert Potion Brewer",
+  "type": "Virtue",
+  "description": "Virtue possessed by Greta and Anne Kors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0278",
+   "magic-hedge-magic-revised::0284"
+  ]
+ },
+ {
+  "name": "Animal Healer",
+  "type": "Virtue",
+  "description": "Minor Virtue gained by Greta from the Witch Moon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0278",
+   "magic-hedge-magic-revised::0279"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "description": "Flaw possessed by Greta; also a Major Hermetic Flaw allowed for gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0278",
+   "magic-hedge-magic-revised::0328"
+  ]
+ },
+ {
+  "name": "Kilkenny Coven",
+  "type": "Covenant",
+  "aliases": [
+   "The Kilkenny Coven"
+  ],
+  "description": "A fractured folk witch coven in and near Kilkenny split between rival Gifted cousins Janine and Anne.",
+  "evidence": [
+   "magic-hedge-magic-revised::0280",
+   "magic-hedge-magic-revised::0281",
+   "magic-hedge-magic-revised::0282"
+  ]
+ },
+ {
+  "name": "Kilkenny",
+  "type": "Place",
+  "description": "Irish town home to the Kilkenny Coven.",
+  "evidence": [
+   "magic-hedge-magic-revised::0280",
+   "magic-hedge-magic-revised::0282",
+   "magic-hedge-magic-revised::0283"
+  ]
+ },
+ {
+  "name": "Janine Kyteler",
+  "type": "Character",
+  "aliases": [
+   "Janine"
+  ],
+  "description": "Older Gifted Kilkenny witch, merchant's wife who shapeshifts into a pig and seagull, rival of her cousin Anne.",
+  "evidence": [
+   "magic-hedge-magic-revised::0280",
+   "magic-hedge-magic-revised::0282",
+   "magic-hedge-magic-revised::0283"
+  ]
+ },
+ {
+  "name": "Anne Kors",
+  "type": "Character",
+  "aliases": [
+   "Anne"
+  ],
+  "description": "Gifted Kilkenny witch living in a manor outside town, rival of Janine, who can become a mare.",
+  "evidence": [
+   "magic-hedge-magic-revised::0281",
+   "magic-hedge-magic-revised::0284",
+   "magic-hedge-magic-revised::0285"
+  ]
+ },
+ {
+  "name": "Agnes",
+  "type": "Character",
+  "description": "Janine's sister, an unGifted folk witch on the family farm who stays neutral in the feud.",
+  "evidence": [
+   "magic-hedge-magic-revised::0282"
+  ]
+ },
+ {
+  "name": "Janine's House",
+  "type": "Place",
+  "description": "Kilkenny townhouse with a secret basement kitchen with Magic aura 4 and a vis spring.",
+  "evidence": [
+   "magic-hedge-magic-revised::0280",
+   "magic-hedge-magic-revised::0281"
+  ]
+ },
+ {
+  "name": "Anne's House",
+  "type": "Place",
+  "description": "Manor a few miles from Kilkenny with a lab outbuilding and a bog where a dying giant is pinned.",
+  "evidence": [
+   "magic-hedge-magic-revised::0281",
+   "magic-hedge-magic-revised::0282"
+  ]
+ },
+ {
+  "name": "Dying Giant",
+  "type": "Creature",
+  "description": "A giant pinned to the earth by rocks near Anne's manor, whose blood yields Corpus vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0281",
+   "magic-hedge-magic-revised::0282"
+  ]
+ },
+ {
+  "name": "Farmhouse (Kilkenny)",
+  "type": "Place",
+  "description": "Farm in a Faerie-aura dell where Janine and Anne were taught; home of Agnes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0282"
+  ]
+ },
+ {
+  "name": "Venus' Blessing",
+  "type": "Virtue",
+  "description": "Virtue possessed by Anne Kors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0284"
+  ]
+ },
+ {
+  "name": "Rigid Magic",
+  "type": "Flaw",
+  "description": "Flaw possessed by Anne Kors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0284"
+  ]
+ },
+ {
+  "name": "Judged Unfairly",
+  "type": "Flaw",
+  "description": "Flaw possessed by Anne Kors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0284"
+  ]
+ },
+ {
+  "name": "Feud",
+  "type": "Flaw",
+  "description": "Flaw possessed by both Janine and Anne.",
+  "evidence": [
+   "magic-hedge-magic-revised::0282",
+   "magic-hedge-magic-revised::0284"
+  ]
+ },
+ {
+  "name": "Unstable Magic",
+  "type": "Flaw",
+  "description": "Flaw possessed by Janine Kyteler.",
+  "evidence": [
+   "magic-hedge-magic-revised::0282"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "description": "Minor Virtue gained by Janine from the Witch Moon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0282",
+   "magic-hedge-magic-revised::0283"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Virtue possessed by Janine and Jean the Wise.",
+  "evidence": [
+   "magic-hedge-magic-revised::0282",
+   "magic-hedge-magic-revised::0288"
+  ]
+ },
+ {
+  "name": "Orleans Witches",
+  "type": "Covenant",
+  "description": "A mostly male folk witch coven around Orleans practicing a variant tradition with Premonitions instead of Shapeshifter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0286",
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Orleans",
+  "type": "Place",
+  "description": "French city around which the Orleans Witches operate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0286",
+   "magic-hedge-magic-revised::0287",
+   "magic-hedge-magic-revised::0288"
+  ]
+ },
+ {
+  "name": "Claude of Orleans",
+  "type": "Character",
+  "aliases": [
+   "Claude"
+  ],
+  "description": "Only Gifted member of the Orleans Witches, rumored to have killed two rivals with curses; lives in a shack north of Orleans.",
+  "evidence": [
+   "magic-hedge-magic-revised::0286"
+  ]
+ },
+ {
+  "name": "Claude's Shack",
+  "type": "Place",
+  "description": "Shack by a stream north of Orleans near a ruined Roman villa with a magic apple tree.",
+  "evidence": [
+   "magic-hedge-magic-revised::0286"
+  ]
+ },
+ {
+  "name": "Magistrate's Court",
+  "type": "Place",
+  "description": "Orleans court where Jean the Wise uses Dowsing to find stolen property.",
+  "evidence": [
+   "magic-hedge-magic-revised::0286",
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Jean the Wise",
+  "type": "Character",
+  "description": "UnGifted Orleans witch and court clerk who uses Dowsing for the magistrate; his magic causes a ringing noise.",
+  "evidence": [
+   "magic-hedge-magic-revised::0286",
+   "magic-hedge-magic-revised::0287",
+   "magic-hedge-magic-revised::0288"
+  ]
+ },
+ {
+  "name": "Joseph",
+  "type": "Character",
+  "description": "UnGifted Orleans witch who became wealthy finding objects with Dowsing; lives in a regio house.",
+  "evidence": [
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Reading the Perturbations of Place",
+  "type": "Item",
+  "description": "Dowsing Summa by Goodwin in the Orleans library.",
+  "evidence": [
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Goodwin",
+  "type": "Character",
+  "description": "Author of Reading the Perturbations of Place.",
+  "evidence": [
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Civitas Orleans",
+  "type": "Item",
+  "description": "Civil and Canon Law tractatus by Magistrate Bayne.",
+  "evidence": [
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Magistrate Bayne",
+  "type": "Character",
+  "description": "Author of Civitas Orleans.",
+  "evidence": [
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Warped Magic",
+  "type": "Flaw",
+  "description": "Minor Flaw gained by Jean the Wise causing a ringing noise; also allowed to gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0288",
+   "magic-hedge-magic-revised::0289",
+   "magic-hedge-magic-revised::0328"
+  ]
+ },
+ {
+  "name": "Offensive to Animals",
+  "type": "Flaw",
+  "description": "Flaw possessed by Jean the Wise; also a Minor Hermetic Flaw for gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0288",
+   "magic-hedge-magic-revised::0328"
+  ]
+ },
+ {
+  "name": "Meddler",
+  "type": "Flaw",
+  "description": "Flaw possessed by Jean the Wise.",
+  "evidence": [
+   "magic-hedge-magic-revised::0288"
+  ]
+ },
+ {
+  "name": "Hermetic Integration",
+  "type": "Concept",
+  "description": "Research projects to integrate folk witch practices into Hermetic magic via breakthroughs.",
+  "evidence": [
+   "magic-hedge-magic-revised::0290"
+  ]
+ },
+ {
+  "name": "Subtle Opening",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue from a breakthrough integrating folk witch Opening; no Arts penalty when learning Supernatural Abilities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0291",
+   "magic-hedge-magic-revised::0292",
+   "magic-hedge-magic-revised::0293"
+  ]
+ },
+ {
+  "name": "Opening the Arts",
+  "type": "Concept",
+  "description": "Hermetic ritual opening an apprentice's Arts, varied by the Subtle Opening technique.",
+  "evidence": [
+   "magic-hedge-magic-revised::0291",
+   "magic-hedge-magic-revised::0294"
+  ]
+ },
+ {
+  "name": "Breakthrough",
+  "type": "Concept",
+  "description": "Research advance measured in breakthrough points accumulated from Insights.",
+  "evidence": [
+   "magic-hedge-magic-revised::0291",
+   "magic-hedge-magic-revised::0294",
+   "magic-hedge-magic-revised::0296"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The Hermetic order of magi, which integrates hedge magic and has a history with the gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0292",
+   "magic-hedge-magic-revised::0293",
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "House whose magi research breakthroughs such as Subtle Opening.",
+  "evidence": [
+   "magic-hedge-magic-revised::0291",
+   "magic-hedge-magic-revised::0292"
+  ]
+ },
+ {
+  "name": "Lineage of Pralix",
+  "type": "Faction",
+  "description": "Hermetic lineage that in a story seed makes the Subtle Opening breakthrough.",
+  "evidence": [
+   "magic-hedge-magic-revised::0292"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "description": "Hedge wizards who might use Subtle Opening to learn Rune and Hermetic magic and infiltrate the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0292",
+   "magic-hedge-magic-revised::0293"
+  ]
+ },
+ {
+  "name": "Rune Magic",
+  "type": "Concept",
+  "description": "Magic of the Order of Odin.",
+  "evidence": [
+   "magic-hedge-magic-revised::0293"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "House whose magi appear in story seeds inventing Subtle Opening or Energy Magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0293",
+   "magic-hedge-magic-revised::0300"
+  ]
+ },
+ {
+  "name": "Energy Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue from breaking the Limit of Energy, granting new Creo and Perdo Corpus Fatigue guidelines.",
+  "evidence": [
+   "magic-hedge-magic-revised::0296",
+   "magic-hedge-magic-revised::0297",
+   "magic-hedge-magic-revised::0300"
+  ]
+ },
+ {
+  "name": "Limit of Energy",
+  "type": "Concept",
+  "description": "Hermetic limit that folk witches are not bound by.",
+  "evidence": [
+   "magic-hedge-magic-revised::0296"
+  ]
+ },
+ {
+  "name": "Fatigue",
+  "type": "Concept",
+  "description": "Measure of tiredness; Energy Magic lets magi restore or drain Fatigue levels.",
+  "evidence": [
+   "magic-hedge-magic-revised::0297",
+   "magic-hedge-magic-revised::0298",
+   "magic-hedge-magic-revised::0300"
+  ]
+ },
+ {
+  "name": "Pungent Potion of Ease",
+  "type": "Item",
+  "description": "CrCo 20 charged potion restoring a Short-Term Fatigue level that becomes Long-Term on expiry.",
+  "evidence": [
+   "magic-hedge-magic-revised::0297",
+   "magic-hedge-magic-revised::0298"
+  ]
+ },
+ {
+  "name": "Traveller's Respite",
+  "type": "Spell",
+  "aliases": [
+   "Travekker's Respite"
+  ],
+  "description": "CrCo 30 ritual restoring one Long-Term Fatigue level to up to 10 individuals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0298"
+  ]
+ },
+ {
+  "name": "Energy Sense",
+  "type": "Spell",
+  "description": "InCo(Me) 20 spell sensing a target's Fatigue status.",
+  "evidence": [
+   "magic-hedge-magic-revised::0298"
+  ]
+ },
+ {
+  "name": "Circle of Lethargy",
+  "type": "Spell",
+  "description": "PeCo 30 Ring spell preventing targets inside from recovering Fatigue by resting.",
+  "evidence": [
+   "magic-hedge-magic-revised::0298",
+   "magic-hedge-magic-revised::0299"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "House whose low-ranking magi in a story seed use Energy Magic to overthrow superiors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0300",
+   "magic-hedge-magic-revised::0301"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Hermetic magical duel mentioned in the Balance of Power story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0300"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "description": "Sanctioned Hermetic conflict mentioned in the Balance of Power story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0300"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "House destroyed in the Schism War, masters of Spontaneous magic and bitter rivals of the gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0301",
+   "magic-hedge-magic-revised::0311",
+   "magic-hedge-magic-revised::0312"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal whose Hoplites show surprising Spontaneous magic in a story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0301"
+  ]
+ },
+ {
+  "name": "Hoplites",
+  "type": "Faction",
+  "description": "Hermetic enforcers serving Quaesitors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0301"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators and judges.",
+  "evidence": [
+   "magic-hedge-magic-revised::0301",
+   "magic-hedge-magic-revised::0310"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Shapeshifting house whose sept wages war on towns in The Bjornaer Crusade story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0248",
+   "magic-hedge-magic-revised::0301",
+   "magic-hedge-magic-revised::0349"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm of Power whose aura hinders magi.",
+  "evidence": [
+   "magic-hedge-magic-revised::0300",
+   "magic-hedge-magic-revised::0301",
+   "magic-hedge-magic-revised::0273"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of Power opposed by the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0300",
+   "magic-hedge-magic-revised::0328"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [
+   "Magic Realm"
+  ],
+  "description": "Realm of Power to which folk witch abilities are aligned.",
+  "evidence": [
+   "magic-hedge-magic-revised::0251",
+   "magic-hedge-magic-revised::0266",
+   "magic-hedge-magic-revised::0272"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm of Power; the Kilkenny farm lies in a Faerie aura.",
+  "evidence": [
+   "magic-hedge-magic-revised::0282",
+   "magic-hedge-magic-revised::0303",
+   "magic-hedge-magic-revised::0328"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Realm-aligned area power level affecting magic; covens purchase auras at each site and it caps sabbat assistants.",
+  "evidence": [
+   "magic-hedge-magic-revised::0266",
+   "magic-hedge-magic-revised::0270",
+   "magic-hedge-magic-revised::0334"
+  ]
+ },
+ {
+  "name": "Sense of the Mystic",
+  "type": "Virtue",
+  "description": "Major Hermetic Virtue from studying Second Sight; Intellego sense effects need not penetrate sensed creatures' Magic Resistance.",
+  "evidence": [
+   "magic-hedge-magic-revised::0302",
+   "magic-hedge-magic-revised::0303",
+   "magic-hedge-magic-revised::0307"
+  ]
+ },
+ {
+  "name": "Lens of Glimpsing Spirits",
+  "type": "Item",
+  "description": "InIm(Me) 34 constant-effect crystal lens in a brass ring that reveals invisible spirits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0303"
+  ]
+ },
+ {
+  "name": "Eyes for the Prince",
+  "type": "Spell",
+  "description": "InVi 15 spell detecting Faerie creatures of Might 40+ despite disguise or invisibility.",
+  "evidence": [
+   "magic-hedge-magic-revised::0303",
+   "magic-hedge-magic-revised::0304"
+  ]
+ },
+ {
+  "name": "Ritual Items",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue allowing charged items with ritual effects, from integrating folk witch potion-brewing.",
+  "evidence": [
+   "magic-hedge-magic-revised::0306",
+   "magic-hedge-magic-revised::0309",
+   "magic-hedge-magic-revised::0310"
+  ]
+ },
+ {
+  "name": "Stout Potion",
+  "type": "Item",
+  "description": "CrCo 60 ritual charged potion increasing Stamina by 1.",
+  "evidence": [
+   "magic-hedge-magic-revised::0307"
+  ]
+ },
+ {
+  "name": "Oil of Prometheus",
+  "type": "Item",
+  "description": "CrIg 60 ritual charged oil that sets a Boundary aflame up to 60 miles in diameter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0307",
+   "magic-hedge-magic-revised::0308"
+  ]
+ },
+ {
+  "name": "Dram of the Lion",
+  "type": "Item",
+  "description": "MuCo(An) 35 ritual charged potion turning the drinker into a lion for a year.",
+  "evidence": [
+   "magic-hedge-magic-revised::0308"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "description": "A sleeping invisible dragon discovered within a covenant's Aegis in the Waking the Dragon story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0307"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "description": "Hermetic messenger who finds a devastated covenant in a story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0309"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Novogorod",
+   "Novgorod"
+  ],
+  "description": "Tribunal bordering the Rhine whose archmagus's ritual wands are used to raise the Towers of War.",
+  "evidence": [
+   "magic-hedge-magic-revised::0309",
+   "magic-hedge-magic-revised::0310"
+  ]
+ },
+ {
+  "name": "Curse of the Unportended Plague",
+  "type": "Spell",
+  "description": "PeCo 55 spell cited as an example ritual effect for a charged wand.",
+  "evidence": [
+   "magic-hedge-magic-revised::0310"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0296",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0296",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0246",
+   "magic-hedge-magic-revised::0303",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0240",
+   "magic-hedge-magic-revised::0296",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0250",
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0286"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0281"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0281",
+   "magic-hedge-magic-revised::0286"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0273",
+   "magic-hedge-magic-revised::0303",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0287"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0246",
+   "magic-hedge-magic-revised::0294",
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Art referenced in this text (e.g. vis type or spell arts).",
+  "evidence": [
+   "magic-hedge-magic-revised::0345"
+  ]
+ },
+ {
+  "name": "Gruagachan",
+  "type": "CharacterType",
+  "aliases": [
+   "gruagach",
+   "gruagachs"
+  ],
+  "description": "Hedge wizard tradition descended from Pictish priests of the god Gruagach, using tattoo magic, shapechange, curses and blessings; Warping turns them into trolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311",
+   "magic-hedge-magic-revised::0313",
+   "magic-hedge-magic-revised::0329"
+  ]
+ },
+ {
+  "name": "Gruagach (deity)",
+  "type": "Character",
+  "description": "Pictish god of the sun, plants and animals, patron of the gruagachan who grants external souls and other favors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311",
+   "magic-hedge-magic-revised::0318",
+   "magic-hedge-magic-revised::0355"
+  ]
+ },
+ {
+  "name": "Picti",
+  "type": "Faction",
+  "aliases": [
+   "Picts"
+  ],
+  "description": "Ancient people of Scotland, tattooed 'barbarians', whose priests founded the gruagach tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "description": "Land of the ancient Picti.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "Troll",
+  "type": "Creature",
+  "description": "Warping slowly transforms every gruagach into a troll.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where gruagachan are primarily found.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where some gruagachan exist.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "Damhan-Allaidh",
+  "type": "Character",
+  "description": "Wizard whom the gruagachan joined against the Order of Hermes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311",
+   "magic-hedge-magic-revised::0312"
+  ]
+ },
+ {
+  "name": "Give",
+  "type": "Art",
+  "description": "Gruagach Technique for granting blessings, curses, shapes and visions, and imposing geasa.",
+  "evidence": [
+   "magic-hedge-magic-revised::0313",
+   "magic-hedge-magic-revised::0321",
+   "magic-hedge-magic-revised::0331"
+  ]
+ },
+ {
+  "name": "Take",
+  "type": "Art",
+  "description": "Gruagach Technique for removing things from a target, covering nearly every Hermetic Technique.",
+  "evidence": [
+   "magic-hedge-magic-revised::0313",
+   "magic-hedge-magic-revised::0322",
+   "magic-hedge-magic-revised::0331"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Art",
+  "description": "Gruagach Form conferring Virtues and bonuses balanced by a prohibition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0322",
+   "magic-hedge-magic-revised::0332",
+   "magic-hedge-magic-revised::0356"
+  ]
+ },
+ {
+  "name": "Curse",
+  "type": "Art",
+  "description": "Gruagach Form inflicting Flaws and penalties with a removal condition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0323",
+   "magic-hedge-magic-revised::0332",
+   "magic-hedge-magic-revised::0357"
+  ]
+ },
+ {
+  "name": "Shape",
+  "type": "Art",
+  "description": "Gruagach Form for changing the shape of self or others.",
+  "evidence": [
+   "magic-hedge-magic-revised::0324",
+   "magic-hedge-magic-revised::0332",
+   "magic-hedge-magic-revised::0358"
+  ]
+ },
+ {
+  "name": "Vision",
+  "type": "Art",
+  "description": "Gruagach Form of illusions, perception and glimpses of the future.",
+  "evidence": [
+   "magic-hedge-magic-revised::0324",
+   "magic-hedge-magic-revised::0333",
+   "magic-hedge-magic-revised::0359"
+  ]
+ },
+ {
+  "name": "Gruagach",
+  "type": "Virtue",
+  "description": "Free Social Status Virtue making the character a member of the gruagach tradition and a collective.",
+  "evidence": [
+   "magic-hedge-magic-revised::0315"
+  ]
+ },
+ {
+  "name": "Gruagach Lore",
+  "type": "Ability",
+  "description": "Organization Lore of the gruagachan, covering their magic, members and initiation rites.",
+  "evidence": [
+   "magic-hedge-magic-revised::0317",
+   "magic-hedge-magic-revised::0318",
+   "magic-hedge-magic-revised::0348"
+  ]
+ },
+ {
+  "name": "Pictish",
+  "type": "Ability",
+  "aliases": [
+   "Pictish Language"
+  ],
+  "description": "Dead sacred language of the gruagachan serving as their magic theory and limiting their Art scores.",
+  "evidence": [
+   "magic-hedge-magic-revised::0313",
+   "magic-hedge-magic-revised::0318",
+   "magic-hedge-magic-revised::0340"
+  ]
+ },
+ {
+  "name": "Ogham",
+  "type": "Concept",
+  "description": "Pictish script used by gruagachan to write Lab Texts and initiation scripts on stone or wood.",
+  "evidence": [
+   "magic-hedge-magic-revised::0347",
+   "magic-hedge-magic-revised::0348"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Virtue",
+  "description": "Virtue regarded as a favor of Gruagach; unGifted recruits need it, Large or Shapeshifter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0314",
+   "magic-hedge-magic-revised::0319"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "description": "Virtue regarded as a favor of Gruagach, qualifying unGifted gruagach recruits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0314",
+   "magic-hedge-magic-revised::0319"
+  ]
+ },
+ {
+  "name": "Cailleach Magic",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue from followers of Cailleach doubling the lowest Art in spontaneous casting.",
+  "evidence": [
+   "magic-hedge-magic-revised::0320"
+  ]
+ },
+ {
+  "name": "Cailleach",
+  "type": "Character",
+  "description": "Pictish earth goddess and companion to Gruagach.",
+  "evidence": [
+   "magic-hedge-magic-revised::0320"
+  ]
+ },
+ {
+  "name": "External Soul",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue placing the soul in an object, preventing death by injury and granting Unaging.",
+  "evidence": [
+   "magic-hedge-magic-revised::0320",
+   "magic-hedge-magic-revised::0321",
+   "magic-hedge-magic-revised::0351"
+  ]
+ },
+ {
+  "name": "Gruagach Master",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue: leader of a gruagach collective with unGifted students.",
+  "evidence": [
+   "magic-hedge-magic-revised::0322"
+  ]
+ },
+ {
+  "name": "Fetch",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue granting an invisible magical animal companion with Second Sight that warns of danger.",
+  "evidence": [
+   "magic-hedge-magic-revised::0311",
+   "magic-hedge-magic-revised::0323",
+   "magic-hedge-magic-revised::0349"
+  ]
+ },
+ {
+  "name": "Flexible Gruagach Magic",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting a gruagach vary formulaic spells by 3 magnitudes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0324"
+  ]
+ },
+ {
+  "name": "Tattoo Mastery",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue reducing vis cost of gruagach tattoos by Pictish score.",
+  "evidence": [
+   "magic-hedge-magic-revised::0324"
+  ]
+ },
+ {
+  "name": "Well-Trained Gruagach",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue granting extra experience in gruagach Arts and spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0325"
+  ]
+ },
+ {
+  "name": "No Tattoo Magic",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw preventing tattoo creation or investigation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0326"
+  ]
+ },
+ {
+  "name": "Transformation Prone",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw: roll for transformation on a single botch; gained via Vision initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0326",
+   "magic-hedge-magic-revised::0359"
+  ]
+ },
+ {
+  "name": "Transformation",
+  "type": "Concept",
+  "description": "The gruagach equivalent of Twilight.",
+  "evidence": [
+   "magic-hedge-magic-revised::0326"
+  ]
+ },
+ {
+  "name": "Incompatible Hedge Arts",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw preventing use of one Technique-Form combination.",
+  "evidence": [
+   "magic-hedge-magic-revised::0326"
+  ]
+ },
+ {
+  "name": "Inflexible Magic",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw limiting spell variation to 1 magnitude.",
+  "evidence": [
+   "magic-hedge-magic-revised::0326"
+  ]
+ },
+ {
+  "name": "Poorly Trained Gruagach",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw reducing experience in gruagach Arts and spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0326",
+   "magic-hedge-magic-revised::0327"
+  ]
+ },
+ {
+  "name": "Weak Tattoo Magic",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw halving Lab Total for tattoos; gained via Shape initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0326",
+   "magic-hedge-magic-revised::0327",
+   "magic-hedge-magic-revised::0358"
+  ]
+ },
+ {
+  "name": "Dwarf",
+  "type": "Flaw",
+  "description": "Flaw antithetical to Gruagach that unGifted gruagachan must never have.",
+  "evidence": [
+   "magic-hedge-magic-revised::0328"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "description": "Flaw antithetical to Gruagach that unGifted gruagachan must never have.",
+  "evidence": [
+   "magic-hedge-magic-revised::0328"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "description": "Major Hermetic Virtue allowed for gruagachan; lost via External Soul initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0264",
+   "magic-hedge-magic-revised::0328",
+   "magic-hedge-magic-revised::0351"
+  ]
+ },
+ {
+  "name": "Flexible Formulaic Magic",
+  "type": "Virtue",
+  "description": "Hermetic Virtue analogous to gruagach spell flexibility.",
+  "evidence": [
+   "magic-hedge-magic-revised::0335"
+  ]
+ },
+ {
+  "name": "Geas",
+  "type": "Concept",
+  "aliases": [
+   "geasa"
+  ],
+  "description": "A compulsion imposed by Give spells; Geas/Limit (Condition) Durations last until a condition is met.",
+  "evidence": [
+   "magic-hedge-magic-revised::0331",
+   "magic-hedge-magic-revised::0338",
+   "magic-hedge-magic-revised::0339"
+  ]
+ },
+ {
+  "name": "Conversation",
+  "type": "Concept",
+  "description": "Gruagach Range equivalent to Touch/Eye, requiring conversation within three paces.",
+  "evidence": [
+   "magic-hedge-magic-revised::0338",
+   "magic-hedge-magic-revised::0339"
+  ]
+ },
+ {
+  "name": "Bloodline",
+  "type": "Concept",
+  "description": "Gruagach Target affecting a bloodline.",
+  "evidence": [
+   "magic-hedge-magic-revised::0338"
+  ]
+ },
+ {
+  "name": "Flexible Casting",
+  "type": "Concept",
+  "description": "Gruagach Mastery Ability increasing spell variation per 5 Mastery points.",
+  "evidence": [
+   "magic-hedge-magic-revised::0337"
+  ]
+ },
+ {
+  "name": "Quiet Casting",
+  "type": "Concept",
+  "description": "Mastery Ability no gruagach may ever have.",
+  "evidence": [
+   "magic-hedge-magic-revised::0336"
+  ]
+ },
+ {
+  "name": "Gruagach Tattoo",
+  "type": "Item",
+  "aliases": [
+   "tattoos"
+  ],
+  "description": "Enchanted tattoos, usually animal-shaped like Pictish carvings, imparting magical effects on their bearer.",
+  "evidence": [
+   "magic-hedge-magic-revised::0342",
+   "magic-hedge-magic-revised::0343",
+   "magic-hedge-magic-revised::0344"
+  ]
+ },
+ {
+  "name": "Boar Tattoo",
+  "type": "Item",
+  "description": "Example Give Blessing tattoo Dombnall creates for a Single Weapon bonus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0343",
+   "magic-hedge-magic-revised::0344"
+  ]
+ },
+ {
+  "name": "Dombnall",
+  "type": "Character",
+  "description": "Example gruagach with an External Soul who creates a Boar Tattoo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0320",
+   "magic-hedge-magic-revised::0321",
+   "magic-hedge-magic-revised::0343"
+  ]
+ },
+ {
+  "name": "Gifted Gruagach Initiations",
+  "type": "Concept",
+  "description": "Scripts available only to Gifted gruagachan for Fetch and External Soul.",
+  "evidence": [
+   "magic-hedge-magic-revised::0317",
+   "magic-hedge-magic-revised::0348"
+  ]
+ },
+ {
+  "name": "Ritual of Calling the Fetch",
+  "type": "Concept",
+  "description": "Gifted gruagach initiation fasting on a mountaintop to find the fetch; grants Fetch and Restriction.",
+  "evidence": [
+   "magic-hedge-magic-revised::0349"
+  ]
+ },
+ {
+  "name": "Extractions of the Soul from its Husk",
+  "type": "Concept",
+  "description": "Gifted gruagach initiation placing the soul in a stone; grants External Soul and Blatant Magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0351"
+  ]
+ },
+ {
+  "name": "Restriction",
+  "type": "Flaw",
+  "description": "Flaw gained via Fetch and Give initiations (no magic on fetch's animal type, or while bald).",
+  "evidence": [
+   "magic-hedge-magic-revised::0328",
+   "magic-hedge-magic-revised::0349",
+   "magic-hedge-magic-revised::0354"
+  ]
+ },
+ {
+  "name": "Blatant Magic",
+  "type": "Flaw",
+  "description": "Flaw gained through Extraction of the Soul.",
+  "evidence": [
+   "magic-hedge-magic-revised::0351"
+  ]
+ },
+ {
+  "name": "Ars Goetica",
+  "type": "Concept",
+  "description": "Infernal spirit magic rules referenced for gruagachan who command spirits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0350"
+  ]
+ },
+ {
+  "name": "Initiation into the Give Technique",
+  "type": "Concept",
+  "description": "UnGifted gruagach script requiring a quest for justice; grants Give and Restriction.",
+  "evidence": [
+   "magic-hedge-magic-revised::0354"
+  ]
+ },
+ {
+  "name": "Initiation into the Take Technique",
+  "type": "Concept",
+  "description": "UnGifted gruagach script requiring oblations to Gruagach; grants Take and Dark Secret.",
+  "evidence": [
+   "magic-hedge-magic-revised::0355"
+  ]
+ },
+ {
+  "name": "Initiation into the Blessing Form",
+  "type": "Concept",
+  "description": "UnGifted gruagach script requiring permanent aid to a hopeless person; grants Blessing and Weird Magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0356"
+  ]
+ },
+ {
+  "name": "Initiation into the Curse Form",
+  "type": "Concept",
+  "description": "UnGifted gruagach script requiring poetic punishment of a wicked person; grants Curse and Vow.",
+  "evidence": [
+   "magic-hedge-magic-revised::0357"
+  ]
+ },
+ {
+  "name": "Initiation into the Shape Form",
+  "type": "Concept",
+  "description": "UnGifted gruagach script requiring defeat of a shapechanger; grants Shape and Weak Tattoo Magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0358"
+  ]
+ },
+ {
+  "name": "Initiation into the Vision Form",
+  "type": "Concept",
+  "description": "UnGifted gruagach script requiring fasting at a Pictish site; grants Vision and Transformation Prone.",
+  "evidence": [
+   "magic-hedge-magic-revised::0359"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "description": "Flaw gained from the Take initiation's pagan ritual.",
+  "evidence": [
+   "magic-hedge-magic-revised::0355"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Flaw",
+  "description": "Flaw substituted for Dark Secret if the character renounces Christianity.",
+  "evidence": [
+   "magic-hedge-magic-revised::0355"
+  ]
+ },
+ {
+  "name": "Weird Magic",
+  "type": "Flaw",
+  "description": "Flaw gained through the Blessing initiation; also allowed as Hermetic Flaw.",
+  "evidence": [
+   "magic-hedge-magic-revised::0328",
+   "magic-hedge-magic-revised::0356"
+  ]
+ },
+ {
+  "name": "Vow",
+  "type": "Flaw",
+  "description": "Flaw from the Curse initiation requiring fighting injustice.",
+  "evidence": [
+   "magic-hedge-magic-revised::0357"
+  ]
+ },
+ {
+  "name": "Werewolf",
+  "type": "Creature",
+  "description": "Example shapechanger defeated for the Shape initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0358"
+  ]
+ },
+ {
+  "name": "Spontaneous Magic",
+  "type": "Concept",
+  "description": "Unprepared spellcasting; gruagachan always spend Fatigue, and House Diedne mastered it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0300",
+   "magic-hedge-magic-revised::0301",
+   "magic-hedge-magic-revised::0334"
+  ]
+ },
+ {
+  "name": "Formulaic Magic",
+  "type": "Concept",
+  "description": "Prepared spells at which gruagachan excel and can flexibly vary.",
+  "evidence": [
+   "magic-hedge-magic-revised::0300",
+   "magic-hedge-magic-revised::0334",
+   "magic-hedge-magic-revised::0335"
+  ]
+ },
+ {
+  "name": "Ritual Magic",
+  "type": "Concept",
+  "aliases": [
+   "Ritual"
+  ],
+  "description": "Ritual spells costing vis and Fatigue; gruagachan cannot perform Rituals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0298",
+   "magic-hedge-magic-revised::0306",
+   "magic-hedge-magic-revised::0334"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Concept",
+  "description": "Mastery of Formulaic spells available to gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0336"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Hermetic lab Ability for which Pictish substitutes among gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0318",
+   "magic-hedge-magic-revised::0340",
+   "magic-hedge-magic-revised::0342"
+  ]
+ },
+ {
+  "name": "Lesser Enchantment",
+  "type": "Concept",
+  "description": "Hermetic enchantment rules gruagachan use to create tattoos.",
+  "evidence": [
+   "magic-hedge-magic-revised::0342"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability to overcome Magic Resistance.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0274",
+   "magic-hedge-magic-revised::0317"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability; lets a character learn Ogham.",
+  "evidence": [
+   "magic-hedge-magic-revised::0272",
+   "magic-hedge-magic-revised::0347"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge wizards"
+  ],
+  "description": "Non-Hermetic magician, such as folk witches and gruagachan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0256",
+   "magic-hedge-magic-revised::0292",
+   "magic-hedge-magic-revised::0311"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "description": "Diabolist; a bishop mistakes the Kilkenny coven for infernalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0280"
+  ]
+ },
+ {
+  "name": "Laboratory",
+  "type": "Concept",
+  "description": "Workspace for lab activities; gruagach laboratories are writing materials and Lab Texts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0240",
+   "magic-hedge-magic-revised::0340"
+  ]
+ }
+]

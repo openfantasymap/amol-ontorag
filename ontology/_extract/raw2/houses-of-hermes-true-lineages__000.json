@@ -1,0 +1,2695 @@
+[
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagi",
+   "Bonisagus"
+  ],
+  "description": "True Lineage descended from Bonisagus and Trianoma, devoted to theoretical research and to peace and cooperation among the Houses; its domus magna is Durenmar.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0028"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "True Lineage that upholds and enforces the Code of Hermes as the Order's judges and investigators; its Quaesitores stand against the wheel of fate.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0025",
+   "houses-of-hermes-true-lineages::0080"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "True Lineage that holds the magi of Mythic Europe together through communication, trade, and aid; its domus magna is Harco.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0001",
+   "houses-of-hermes-true-lineages::0080"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "True Lineage that provides the strength of the Order, gathering influence and resources to respond to crises; it declared war on House Diedne in 1010.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0001",
+   "houses-of-hermes-true-lineages::0022",
+   "houses-of-hermes-true-lineages::0025"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "Founding House whose founder contributed spontaneous magic to Magic Theory; it was Renounced during the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0025",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0047"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House that followed House Tremere in declaring war on House Diedne during the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0025",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0071"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House that followed House Tremere in declaring war on House Diedne during the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0025",
+   "houses-of-hermes-true-lineages::0026"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House mentioned, like Flambeau, as interested in conquest or battle.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0071"
+  ]
+ },
+ {
+  "name": "True Lineages",
+  "type": "Concept",
+  "aliases": [
+   "True Lineage"
+  ],
+  "description": "The four Hermetic Houses (Bonisagus, Guernicus, Mercere, Tremere) in which every magus was taught by a magus of the House, back to the founders.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0001",
+   "houses-of-hermes-true-lineages::0007"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The society of Hermetic magi founded in 767 by the Twelve Founders, conceived by Trianoma and built on Bonisagus's magic theory.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0020"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The laws of the Order of Hermes, upheld and enforced by House Guernicus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Hermetic Oath",
+  "type": "Concept",
+  "aliases": [
+   "Oath of Hermes"
+  ],
+  "description": "The oath sworn by Hermetic magi; Jovius was convicted of breaching it and magi Trianomae allegedly broke it by spying.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0022",
+   "houses-of-hermes-true-lineages::0023",
+   "houses-of-hermes-true-lineages::0099"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Body of Hermetic rulings, including that a parens must spend a season a year teaching an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005",
+   "houses-of-hermes-true-lineages::0060"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Magical protection invented by Bonisagus, offered by Trianoma to the Founders; the only Hermetic Breakthrough in canon, taught as an Arcane Ability.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0020",
+   "houses-of-hermes-true-lineages::0102"
+  ]
+ },
+ {
+  "name": "Hermetic Magic Theory",
+  "type": "Ability",
+  "aliases": [
+   "Magic Theory"
+  ],
+  "description": "Bonisagus's universal theory of magic, adopted by every House; Magi Bonisagi push its limits.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0055",
+   "houses-of-hermes-true-lineages::0066"
+  ]
+ },
+ {
+  "name": "Puissant Magic Theory",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free General Minor Virtue that every magus Bonisagi possesses.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0052",
+   "houses-of-hermes-true-lineages::0082"
+  ]
+ },
+ {
+  "name": "Puissant Intrigue",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Virtue every magus Trianomae begins play with.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0053",
+   "houses-of-hermes-true-lineages::0070"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social skill of scheming and political influence, detailed with Ease Factors for magi Trianomae.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0008",
+   "houses-of-hermes-true-lineages::0086",
+   "houses-of-hermes-true-lineages::0087"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social skill used to judge individual behavior; complementary to Intrigue and countered by Guile.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0090",
+   "houses-of-hermes-true-lineages::0091"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social skill for deception, used to counter Folk Ken or resist Intrigue.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0078",
+   "houses-of-hermes-true-lineages::0088",
+   "houses-of-hermes-true-lineages::0090"
+  ]
+ },
+ {
+  "name": "Profession: Scribe",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability needed for copying texts, taught to Bonisagus apprentices and used to copy folios.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0061",
+   "houses-of-hermes-true-lineages::0082",
+   "houses-of-hermes-true-lineages::0086"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Valuable Ability most magi Bonisagi have, taught during fosterage.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0061",
+   "houses-of-hermes-true-lineages::0062"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language required to read and write books; improved during Bonisagus fosterage and used to decode Trianoma's Cipher.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0061",
+   "houses-of-hermes-true-lineages::0074"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Lore Ability; reading an item in a folio grants one experience point in it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0084",
+   "houses-of-hermes-true-lineages::0086"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability used in crafty arguments over folio contents.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0085"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing lab assistants and loud arguments.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0069",
+   "houses-of-hermes-true-lineages::0085"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Lore Ability; a Magic Lore tractatus appears in the example folio.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0083"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability for overcoming magic resistance; Glaucon has it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue and Ability allowing sight of the invisible; Glaucon possesses it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Figurine Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue allowing construction of small wax or wood figurines of power; confers the Ability Figurine Magic 1.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005",
+   "houses-of-hermes-true-lineages::0094"
+  ]
+ },
+ {
+  "name": "Colens Arcanorum",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue making the character a member of the Colentes Arcanorum with rank cannophori.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0034",
+   "houses-of-hermes-true-lineages::0093"
+  ]
+ },
+ {
+  "name": "Tenens Occultorum",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor (Status/Hermetic) Virtue making the character one of the four Tenentes Occultorum, usually the Spring Tenens.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0040",
+   "houses-of-hermes-true-lineages::0093"
+  ]
+ },
+ {
+  "name": "Linguist",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Virtue increasing Study Totals for languages by a quarter; common among magi Trianomae.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053",
+   "houses-of-hermes-true-lineages::0095"
+  ]
+ },
+ {
+  "name": "Stockade Parma Magica",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw: the character cannot suppress their Parma Magica, so friendly spells must penetrate it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0096"
+  ]
+ },
+ {
+  "name": "Seeker (Flaw)",
+  "type": "Flaw",
+  "aliases": [
+   "Seeker"
+  ],
+  "description": "Minor Personality Flaw: self-proclaimed membership of the Seekers, pursuing ancient magic and artifacts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0097"
+  ]
+ },
+ {
+  "name": "Fostered Apprentice",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Story Flaw: the character was fostered and owes favors to the fostering magus and a fellow apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0098"
+  ]
+ },
+ {
+  "name": "Adept Laboratory Student",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common Virtue among magi Bonisagi; the parens never left the lab.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0052"
+  ]
+ },
+ {
+  "name": "Affinity with Art",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common Virtue among magi Bonisagi, encouraged by the parens.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0052"
+  ]
+ },
+ {
+  "name": "Flexible Formulaic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common Virtue for dabblers who change Range, Duration, and Target.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0052"
+  ]
+ },
+ {
+  "name": "Hermetic Prestige",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common Virtue: the parens's reputation extended outside the House.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0052",
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common Virtue among magi Bonisagi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0052",
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Secondary Insight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common Virtue: innate understanding of Hermetic connections between Arts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Skilled Parens",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common Virtue among magi Bonisagi, who focus on teaching apprentices.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Flaw among magi Bonisagi; worsens the Gift's social penalty to -6.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053",
+   "houses-of-hermes-true-lineages::0086"
+  ]
+ },
+ {
+  "name": "Book Learner",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common among magi Bonisagi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Deficient Technique",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Flaw from a parens overspecializing in certain Arts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Deficient Form",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Flaw from a parens overspecializing in certain Arts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Driven",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Flaw: striving to be the expert in one's research field.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Apt Student",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common among magi Trianomae, who learn from people rather than books.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Deft Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common among magi Trianomae, giving greater control over an Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Allows easy interaction with mundanes; common among magi Trianomae and possessed by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Long-winded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common among magi Trianomae due to constant travel.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Common among magi Trianomae.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw common among magi Trianomae; can be gained by botching an apprentice search.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0053",
+   "houses-of-hermes-true-lineages::0079"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw arising from a parens's political meddling.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Weak Scholar",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw from time spent on the road reducing book learning.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0053"
+  ]
+ },
+ {
+  "name": "Painful Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw making spellcasting painful; Glaucon has it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0100"
+  ]
+ },
+ {
+  "name": "Disorientating Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Palsied Hands",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue taken twice by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting a private vis source; Glaucon keeps his secret.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Study Bonus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social status Virtue of Hermetic magi, possessed by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Innate magical talent; Bonisagus's potent Gift unsettled his parents, and it imposes social penalties on Intrigue rolls.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0041",
+   "houses-of-hermes-true-lineages::0086"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Order-wide Tribunal held every 33 years at Durenmar's Forum of Hermes, presided over by the Bonisagus Primus as Praeco.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0023",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0046"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Regional meetings of magi; the Colloquium Delectorum is held at a regular Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0044",
+   "houses-of-hermes-true-lineages::0046"
+  ]
+ },
+ {
+  "name": "Praeco",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Presiding officer of a Tribunal, able to set the agenda and silence or eject magi; the Bonisagus Primus is Praeco of the Rhine and Grand Tribunals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0046"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "Concept",
+  "aliases": [
+   "Prima",
+   "Primi"
+  ],
+  "description": "Head of a Hermetic House; the Bonisagus Primus appoints his successor and selects the Inner Circles.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0028",
+   "houses-of-hermes-true-lineages::0046",
+   "houses-of-hermes-true-lineages::0047"
+  ]
+ },
+ {
+  "name": "Domus Magna",
+  "type": "Concept",
+  "aliases": [
+   "domus magnae"
+  ],
+  "description": "The chief covenant of a Hermetic House.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0080"
+  ]
+ },
+ {
+  "name": "Archmage",
+  "type": "Concept",
+  "aliases": [
+   "archmagus"
+  ],
+  "description": "Title of distinction; customary but not required for the Bonisagus Primus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0047"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [
+   "March"
+  ],
+  "description": "Order sanction against a magus; Bonisagus Marched his filius Jovius, and refusing to destroy banned research brings a March.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0023",
+   "houses-of-hermes-true-lineages::0035",
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Formal conflict between magi; declared over apprentice-snatching and fought during the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0025",
+   "houses-of-hermes-true-lineages::0059"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Final test ending apprenticeship; Bonisagi use the Theoretical Interview, Trianomae a solo journey.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0056",
+   "houses-of-hermes-true-lineages::0057"
+  ]
+ },
+ {
+  "name": "Theoretical Interview",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The day-long verbal gauntlet on Magic Theory and the Arts required of magi Bonisagi apprentices.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0056"
+  ]
+ },
+ {
+  "name": "Apprentice Snatching",
+  "type": "Concept",
+  "aliases": [],
+  "description": "House Bonisagus's right, granted at the First Tribunal, to take another magus's apprentice, with suggested restraints.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0058",
+   "houses-of-hermes-true-lineages::0059"
+  ]
+ },
+ {
+  "name": "Fosterage",
+  "type": "Concept",
+  "aliases": [
+   "Fostering"
+  ],
+  "description": "House Bonisagus practice where magi Bonisagi exchange apprentices to teach Abilities and assist in the lab.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0061",
+   "houses-of-hermes-true-lineages::0062",
+   "houses-of-hermes-true-lineages::0063"
+  ]
+ },
+ {
+  "name": "Continuous Research",
+  "type": "Concept",
+  "aliases": [
+   "Continual Research"
+  ],
+  "description": "Optional rule granting Lab Total bonuses for uninterrupted seasons on a single project.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0063",
+   "houses-of-hermes-true-lineages::0064"
+  ]
+ },
+ {
+  "name": "House Acclaim",
+  "type": "Concept",
+  "aliases": [
+   "Acclaim"
+  ],
+  "description": "Free Reputation for magi Bonisagi measuring research status and determining rank.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0075",
+   "houses-of-hermes-true-lineages::0076",
+   "houses-of-hermes-true-lineages::0078"
+  ]
+ },
+ {
+  "name": "Boukoloi",
+  "type": "Concept",
+  "aliases": [],
+  "description": "First House Acclaim rank of magi Bonisagi ('cowherds').",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0031",
+   "houses-of-hermes-true-lineages::0077",
+   "houses-of-hermes-true-lineages::0078"
+  ]
+ },
+ {
+  "name": "Daduchos",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Second rank of magi Bonisagi ('torch-bearers'), expected to attend the Grand Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0031",
+   "houses-of-hermes-true-lineages::0068",
+   "houses-of-hermes-true-lineages::0078"
+  ]
+ },
+ {
+  "name": "Cannophori",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Third rank of magi Bonisagi ('reed-bearers'), eligible for the Colentes Arcanorum.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0031",
+   "houses-of-hermes-true-lineages::0033",
+   "houses-of-hermes-true-lineages::0078"
+  ]
+ },
+ {
+  "name": "Dendrophori",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fourth rank of magi Bonisagi ('tree-bearers'), from which Primi are chosen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0031",
+   "houses-of-hermes-true-lineages::0047",
+   "houses-of-hermes-true-lineages::0078"
+  ]
+ },
+ {
+  "name": "Folio",
+  "type": "Item",
+  "aliases": [
+   "Folios"
+  ],
+  "description": "Compilation of Lab Texts and tractatus assembled by the Colentes Arcanorum after each Colloquium and copied at Durenmar.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0034",
+   "houses-of-hermes-true-lineages::0080",
+   "houses-of-hermes-true-lineages::0082"
+  ]
+ },
+ {
+  "name": "The Folio of 1123",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example of a folio title, folios being named by the year they were made.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0080"
+  ]
+ },
+ {
+  "name": "Colloquium Delectorum",
+  "type": "Concept",
+  "aliases": [
+   "Colloquium"
+  ],
+  "description": "Seven-yearly conference of the Colentes Arcanorum and Tenentes Occultorum held at a regular Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0036",
+   "houses-of-hermes-true-lineages::0044",
+   "houses-of-hermes-true-lineages::0045"
+  ]
+ },
+ {
+  "name": "Colentes Arcanorum",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Inner Circle of five magi Bonisagi ('Collectors of Secret Lore') who disseminate House research via folios and can remove the Primus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0021",
+   "houses-of-hermes-true-lineages::0033",
+   "houses-of-hermes-true-lineages::0035"
+  ]
+ },
+ {
+  "name": "Tenentes Occultorum",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Inner Circle of four magi Trianomae ('Tenders of Secret Lore'), named for the seasons, who keep Hermetic secrets from mundanes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0021",
+   "houses-of-hermes-true-lineages::0038",
+   "houses-of-hermes-true-lineages::0041"
+  ]
+ },
+ {
+  "name": "Spring Tenens",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Least experienced Tenens Occultorum, covering Britannia, Hibernia, Loch Leglean and Stonehenge.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0038",
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Summer Tenens",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tenens Occultorum responsible for the Iberian, Provencal and Normandy Tribunals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0038",
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Autumn Tenens",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tenens Occultorum overseeing the Roman, Rhine and Greater Alps Tribunals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0039",
+   "houses-of-hermes-true-lineages::0040"
+  ]
+ },
+ {
+  "name": "Winter Tenens",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Most senior Tenens Occultorum, covering Transylvania, Thebes, Levant and Novgorod.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0040"
+  ]
+ },
+ {
+  "name": "Magi Bonisagi",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The research branch of House Bonisagus, followers of Bonisagus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0065",
+   "houses-of-hermes-true-lineages::0066"
+  ]
+ },
+ {
+  "name": "Magi Trianomae",
+  "type": "Faction",
+  "aliases": [
+   "Trianomae"
+  ],
+  "description": "The political branch of House Bonisagus, followers of Trianoma.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0070",
+   "houses-of-hermes-true-lineages::0072"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Informal group of magi of any House, founded by Lucian, seeking the Old Ones and ancient magic sites.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0008",
+   "houses-of-hermes-true-lineages::0051",
+   "houses-of-hermes-true-lineages::0052"
+  ]
+ },
+ {
+  "name": "Traditionalist",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Type of magus Bonisagi refining Magic Theory; usable as a Magic Theory specialization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0066"
+  ]
+ },
+ {
+  "name": "Dabbler",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Type of magus Bonisagi playing with Range, Duration and Target; a Magic Theory specialization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0066",
+   "houses-of-hermes-true-lineages::0067"
+  ]
+ },
+ {
+  "name": "Harmonizer",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Type of magus Bonisagi integrating other magic into Hermetic theory; a Magic Theory specialization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0066",
+   "houses-of-hermes-true-lineages::0067"
+  ]
+ },
+ {
+  "name": "Tabula Geographica Magica",
+  "type": "Item",
+  "aliases": [
+   "Gazetteer of Magic",
+   "Gazetteer"
+  ],
+  "description": "The Gazetteer of Magic, a catalogue of magical sites and regiones kept at the Great Library of Durenmar in Trianoma's Cipher.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0043"
+  ]
+ },
+ {
+  "name": "Trianoma's Cipher",
+  "type": "Concept",
+  "aliases": [
+   "Cipher of Trianoma"
+  ],
+  "description": "Secret shorthand code of magi Trianomae derived from Trianoma's Lab Text abbreviations.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0043",
+   "houses-of-hermes-true-lineages::0073",
+   "houses-of-hermes-true-lineages::0074"
+  ]
+ },
+ {
+  "name": "Original Research",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules for experimenting to achieve Breakthroughs beyond existing Hermetic magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0099",
+   "houses-of-hermes-true-lineages::0103",
+   "houses-of-hermes-true-lineages::0110"
+  ]
+ },
+ {
+  "name": "Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Achievement of original research: Minor, Major, or Hermetic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0101",
+   "houses-of-hermes-true-lineages::0102",
+   "houses-of-hermes-true-lineages::0114"
+  ]
+ },
+ {
+  "name": "Minor Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Breakthrough immediately usable in Hermetic magic, e.g. a new Range or Duration.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0101",
+   "houses-of-hermes-true-lineages::0114"
+  ]
+ },
+ {
+  "name": "Major Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Breakthrough pushing Magic Theory without breaking it, often a teachable Hermetic Virtue.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0101",
+   "houses-of-hermes-true-lineages::0114",
+   "houses-of-hermes-true-lineages::0116"
+  ]
+ },
+ {
+  "name": "Hermetic Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A new Arcane Ability or the breaking of a Lesser Limit; Parma Magica is the only one in canon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0102",
+   "houses-of-hermes-true-lineages::0115"
+  ]
+ },
+ {
+  "name": "Discovery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Extraordinary Results Chart result required for original research, which must then be stabilized.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0103",
+   "houses-of-hermes-true-lineages::0106",
+   "houses-of-hermes-true-lineages::0107"
+  ]
+ },
+ {
+  "name": "Extraordinary Results Chart",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Experimentation chart on which a Discovery must be rolled.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0103",
+   "houses-of-hermes-true-lineages::0104",
+   "houses-of-hermes-true-lineages::0105"
+  ]
+ },
+ {
+  "name": "Arcane Experimentation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Laboratory experimentation rules used for original research.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0103",
+   "houses-of-hermes-true-lineages::0105"
+  ]
+ },
+ {
+  "name": "Hermetic Integration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Full incorporation of a Breakthrough into Hermetic theory so no Virtue is needed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0116"
+  ]
+ },
+ {
+  "name": "Lesser Limits",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Limits of Hermetic magic whose breaking constitutes a Hermetic Breakthrough.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0102",
+   "houses-of-hermes-true-lineages::0115"
+  ]
+ },
+ {
+  "name": "Limit of Creation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic limit whose breaking would let magi create permanent items without vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0102"
+  ]
+ },
+ {
+  "name": "Limit of Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic limit that magic cannot change the Art of raw vis; Tillitus tries to break it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0116",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Life Boost",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Hermetic Virtue produced by a Major Breakthrough.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0116"
+  ]
+ },
+ {
+  "name": "Horizon",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Example new spell Range invented by Tillitus as a Minor Breakthrough.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0114"
+  ]
+ },
+ {
+  "name": "Lancea Magica",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Magical attack developed by Cerularius that pierces Parma Magica; banned by the Colentes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0036"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points"
+  ],
+  "description": "Warping Points accrued when stabilizing discoveries.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0108",
+   "houses-of-hermes-true-lineages::0109"
+  ]
+ },
+ {
+  "name": "Wizard's Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Risk when gaining 2+ Warping Points during stabilization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0108"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "End of a magus's career into Twilight, as with Cerularius.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0027",
+   "houses-of-hermes-true-lineages::0036"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power; sites in the Gazetteer can be vis sources.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0043",
+   "houses-of-hermes-true-lineages::0049",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "Aura",
+   "magical aura"
+  ],
+  "description": "Supernatural aura of a place; Trianoma's death increased Durenmar's.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0014",
+   "houses-of-hermes-true-lineages::0024"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Magical regiones explored by magi Trianomae and listed in the Gazetteer.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0043",
+   "houses-of-hermes-true-lineages::0071",
+   "houses-of-hermes-true-lineages::0102"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual prolonging life; developed by Bonisagus and Trianoma.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0018",
+   "houses-of-hermes-true-lineages::0065",
+   "houses-of-hermes-true-lineages::0099"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical duel; Bonisagus assisted Tremere in inventing it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0068",
+   "houses-of-hermes-true-lineages::0078"
+  ]
+ },
+ {
+  "name": "Laboratory Text",
+  "type": "Item",
+  "aliases": [
+   "Lab Text"
+  ],
+  "description": "Record of lab work; submitted to Colentes and compiled into folios.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0034",
+   "houses-of-hermes-true-lineages::0037",
+   "houses-of-hermes-true-lineages::0082"
+  ]
+ },
+ {
+  "name": "Tractatus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Short Hermetic treatise submitted to the Colentes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0034",
+   "houses-of-hermes-true-lineages::0037",
+   "houses-of-hermes-true-lineages::0082"
+  ]
+ },
+ {
+  "name": "Summa",
+  "type": "Item",
+  "aliases": [],
+  "description": "Comprehensive treatise, compared to folios.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0077",
+   "houses-of-hermes-true-lineages::0080",
+   "houses-of-hermes-true-lineages::0086"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [],
+  "description": "A magus's item; creating one earns House Acclaim.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0077"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical bonded creature; binding one earns House Acclaim.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0065",
+   "houses-of-hermes-true-lineages::0069",
+   "houses-of-hermes-true-lineages::0077"
+  ]
+ },
+ {
+  "name": "Lab Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Laboratory score influenced by Continuous Research and risk modifier.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0063",
+   "houses-of-hermes-true-lineages::0103",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Risk Modifier",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Experimentation modifier used on the Extraordinary Results Chart, limited by Magic Theory.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0103",
+   "houses-of-hermes-true-lineages::0104"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The gravest threat to the Order, ending with the Renunciation of House Diedne after an emergency Grand Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0025",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0072"
+  ]
+ },
+ {
+  "name": "Renunciation of House Diedne",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Emergency Grand Tribunal's decision to Renounce House Diedne.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0025",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0047"
+  ]
+ },
+ {
+  "name": "The Sundering",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Event in House Tremere's history which magi Trianomae are rumored to have caused.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0022"
+  ]
+ },
+ {
+  "name": "First Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Meeting where Bonisagus announced Hermetic magic and the right to take apprentices was granted.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0058"
+  ]
+ },
+ {
+  "name": "Twelve Founders",
+  "type": "Faction",
+  "aliases": [
+   "Founders"
+  ],
+  "description": "The twelve magi who swore to the Order of Hermes in 767.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0013",
+   "houses-of-hermes-true-lineages::0020"
+  ]
+ },
+ {
+  "name": "Mystery Cults",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient cults that fascinated Bonisagus and supplied Bonisagi rank titles.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0031",
+   "houses-of-hermes-true-lineages::0051"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [
+   "Mercurian"
+  ],
+  "description": "Lost Roman magical cult loyal to the emperor whose rituals Bonisagus found under the Aventine.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012",
+   "houses-of-hermes-true-lineages::0013",
+   "houses-of-hermes-true-lineages::0018"
+  ]
+ },
+ {
+  "name": "Cult of Dionysus",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Lost Roman-era cult sought by Bonisagus and Iozheza.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012"
+  ]
+ },
+ {
+  "name": "Cult of Mithras",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Lost Roman-era cult sought by Bonisagus and Iozheza.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012"
+  ]
+ },
+ {
+  "name": "Cult of Osiris",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Egyptian wizards whose incubation rite made Iozheza disappear.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012",
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Cult of Diana",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Lost cult of Ephesus with ecstatic mysteries.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012",
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Chaldeans",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient people whose secret lore was in Bonisagus's library.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Lombards",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Germanic tribe governing Florence.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011"
+  ]
+ },
+ {
+  "name": "Old Ones",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Primordial beings who posed as ancient gods; sought by the Seekers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0018",
+   "houses-of-hermes-true-lineages::0051"
+  ]
+ },
+ {
+  "name": "The Dragon of the Hesperides",
+  "type": "Creature",
+  "aliases": [
+   "Dragon"
+  ],
+  "description": "Dragon sleeping in a temple of the Hesperides who directed Trianoma and Viea to Bonisagus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0015",
+   "houses-of-hermes-true-lineages::0016",
+   "houses-of-hermes-true-lineages::0018"
+  ]
+ },
+ {
+  "name": "Amazons",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Fabled women of Amazonia, possibly ruled by sorceresses.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0067"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcap"
+  ],
+  "description": "Messengers of House Mercere who carry notes and folios.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0081"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores"
+  ],
+  "description": "Investigator-judge of House Guernicus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0038",
+   "houses-of-hermes-true-lineages::0089"
+  ]
+ },
+ {
+  "name": "Bonisagus Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Quaesitor attached to House Bonisagus who decides on banned research.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0035",
+   "houses-of-hermes-true-lineages::0044"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Enforcer allied to Quaesitores.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Custos",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Guernicus companion role.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic wizard.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0099"
+  ]
+ },
+ {
+  "name": "Parens",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Master of an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0023",
+   "houses-of-hermes-true-lineages::0055",
+   "houses-of-hermes-true-lineages::0056"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of the Order, born in Florence in 690, inventor of the Parma Magica and Hermetic magic theory.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0012"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Thessalian sorceress who conceived the Order of Hermes and Founder of House Bonisagus; died 832 at the Grand Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0007",
+   "houses-of-hermes-true-lineages::0015",
+   "houses-of-hermes-true-lineages::0023"
+  ]
+ },
+ {
+  "name": "Viea",
+  "type": "Character",
+  "aliases": [
+   "Veia"
+  ],
+  "description": "Trianoma's twin, who fled with Bonisagus's books and became an enemy of the Order.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0015",
+   "houses-of-hermes-true-lineages::0024"
+  ]
+ },
+ {
+  "name": "Lucian",
+  "type": "Character",
+  "aliases": [],
+  "description": "Trianoma's first apprentice and the first Seeker.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0020",
+   "houses-of-hermes-true-lineages::0051"
+  ]
+ },
+ {
+  "name": "Notatus",
+  "type": "Character",
+  "aliases": [],
+  "description": "First Primus of House Bonisagus, inventor of Aegis of the Hearth.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0051",
+   "houses-of-hermes-true-lineages::0101"
+  ]
+ },
+ {
+  "name": "Thamus Collis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bonisagus Primus during the Schism War who abdicated.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0047"
+  ]
+ },
+ {
+  "name": "Jovius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Last apprentice of Bonisagus, Marched by his parens.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0023"
+  ]
+ },
+ {
+  "name": "Murion",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archmage and current Prima of House Bonisagus, schemer and conservative.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0054"
+  ]
+ },
+ {
+  "name": "Iozheza",
+  "type": "Character",
+  "aliases": [],
+  "description": "Conjurer who trained Bonisagus and vanished during an Osiris rite.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0012"
+  ]
+ },
+ {
+  "name": "Polus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ninth-century magus Trianomae whose diaries are at Durenmar.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0022"
+  ]
+ },
+ {
+  "name": "Cerularius Bonisagi",
+  "type": "Character",
+  "aliases": [
+   "Cerularius"
+  ],
+  "description": "Tenth-century magus of Normandy who developed Lancea Magica.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0036"
+  ]
+ },
+ {
+  "name": "Glaucon Trianomae",
+  "type": "Character",
+  "aliases": [
+   "Glaucon"
+  ],
+  "description": "Magus Trianomae and Seeker who searches mountains for Mercurian temples.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0030",
+   "houses-of-hermes-true-lineages::0047",
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Tillitus Bonisagi",
+  "type": "Character",
+  "aliases": [
+   "Tillitus"
+  ],
+  "description": "Magus Bonisagi of Semita Errabunda attempting to break the Limit of Vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0030",
+   "houses-of-hermes-true-lineages::0114",
+   "houses-of-hermes-true-lineages::0116"
+  ]
+ },
+ {
+  "name": "Moratamis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Quaesitor of House Guernicus at Semita Errabunda.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0088",
+   "houses-of-hermes-true-lineages::0089"
+  ]
+ },
+ {
+  "name": "Guernicus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Guernicus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Fenicil",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure of House Guernicus associated with Fenicil's Rituals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005",
+   "houses-of-hermes-true-lineages::0006"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Mercere who promised his apprentices to Bonisagus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0006",
+   "houses-of-hermes-true-lineages::0058"
+  ]
+ },
+ {
+  "name": "Tremere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Tremere, assisted by Bonisagus in inventing certamen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0006",
+   "houses-of-hermes-true-lineages::0068"
+  ]
+ },
+ {
+  "name": "Diedne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Diedne and versatile spontaneous mage.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0025"
+  ]
+ },
+ {
+  "name": "Damhan-Allaidh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Enemy who preferred beheading magi to negotiation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0022"
+  ]
+ },
+ {
+  "name": "Pope Gregory II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pope of legend who may have passed Vatican texts to Bonisagus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0017"
+  ]
+ },
+ {
+  "name": "Circe",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary sorceress of Trianoma's maternal bloodline.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0015"
+  ]
+ },
+ {
+  "name": "Medea",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary sorceress of Trianoma's maternal bloodline.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0015"
+  ]
+ },
+ {
+  "name": "Moses",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure whose magical writings were in Bonisagus's library.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Solomon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure whose magical writings were in Bonisagus's library.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Ra",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient Egyptian god Iozheza sought to meet.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012"
+  ]
+ },
+ {
+  "name": "Hermes",
+  "type": "Character",
+  "aliases": [],
+  "description": "God whose shrine became Bonisagus's cave.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0014"
+  ]
+ },
+ {
+  "name": "Massylian Priestess",
+  "type": "Character",
+  "aliases": [],
+  "description": "Guardian of the temple of the Hesperides.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0015"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus magna of House Bonisagus in the Black Forest, built on a Mercurian temple.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0020"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus magna of House Guernicus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005",
+   "houses-of-hermes-true-lineages::0026",
+   "houses-of-hermes-true-lineages::0080"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus magna of House Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0080"
+  ]
+ },
+ {
+  "name": "Semita Errabunda",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant of Tillitus and Moratamis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0088",
+   "houses-of-hermes-true-lineages::0116"
+  ]
+ },
+ {
+  "name": "Great Library of Durenmar",
+  "type": "Place",
+  "aliases": [
+   "Great Library"
+  ],
+  "description": "Library in the Tower of Bonisagus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0022",
+   "houses-of-hermes-true-lineages::0043"
+  ]
+ },
+ {
+  "name": "Tower of Bonisagus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Durenmar tower housing the Great Library.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011"
+  ]
+ },
+ {
+  "name": "Tower of Notatus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Durenmar tower housing magi Bonisagi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011"
+  ]
+ },
+ {
+  "name": "Tower of Trianoma",
+  "type": "Place",
+  "aliases": [],
+  "description": "Durenmar tower housing magi Trianomae and Redcaps; haunted by Trianoma's ghost.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0024"
+  ]
+ },
+ {
+  "name": "Forum of Hermes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Meeting place of Rhine and Grand Tribunals at Durenmar.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011"
+  ]
+ },
+ {
+  "name": "Black Forest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Forest in the Holy Roman Empire where Durenmar lies.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0020",
+   "houses-of-hermes-true-lineages::0024"
+  ]
+ },
+ {
+  "name": "Holy Roman Empire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Realm containing the Black Forest.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0011",
+   "houses-of-hermes-true-lineages::0020"
+  ]
+ },
+ {
+  "name": "Florence",
+  "type": "Place",
+  "aliases": [],
+  "description": "Bonisagus's birthplace.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0011"
+  ]
+ },
+ {
+  "name": "Or San Michele",
+  "type": "Place",
+  "aliases": [],
+  "description": "Florentine church where Bonisagus's uncle served.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Bonisagus lived on the Aventine Hill.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012",
+   "houses-of-hermes-true-lineages::0013",
+   "houses-of-hermes-true-lineages::0014"
+  ]
+ },
+ {
+  "name": "Aventine Hill",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hill in Rome where Bonisagus found the Mercurian well.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0013",
+   "houses-of-hermes-true-lineages::0017"
+  ]
+ },
+ {
+  "name": "Ephesus",
+  "type": "Place",
+  "aliases": [],
+  "description": "City of the Cult of Diana; overrun in 717.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012",
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Egypt",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where the Cult of Osiris was found.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0012"
+  ]
+ },
+ {
+  "name": "Persia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region Bonisagus searched for tomes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Aegean",
+  "type": "Place",
+  "aliases": [],
+  "description": "Basin Bonisagus roamed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Cappadocia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of wizards whose memoirs Bonisagus had.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0013"
+  ]
+ },
+ {
+  "name": "Southern Alps",
+  "type": "Place",
+  "aliases": [],
+  "description": "Location of Bonisagus's cave shrine to Hermes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0014",
+   "houses-of-hermes-true-lineages::0016",
+   "houses-of-hermes-true-lineages::0018"
+  ]
+ },
+ {
+  "name": "Bonisagus's Cave",
+  "type": "Place",
+  "aliases": [],
+  "description": "Former shrine to Hermes in the Southern Alps where Bonisagus developed his theory and Parma Magica.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0014",
+   "houses-of-hermes-true-lineages::0016",
+   "houses-of-hermes-true-lineages::0019"
+  ]
+ },
+ {
+  "name": "Thessaly",
+  "type": "Place",
+  "aliases": [],
+  "description": "Birthplace of Trianoma, famous for witches.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0015",
+   "houses-of-hermes-true-lineages::0024"
+  ]
+ },
+ {
+  "name": "Ethiopia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Beyond which Trianoma traveled.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0015"
+  ]
+ },
+ {
+  "name": "Temple of the Hesperides",
+  "type": "Place",
+  "aliases": [],
+  "description": "Temple where the Dragon slept.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0015"
+  ]
+ },
+ {
+  "name": "Vatican",
+  "type": "Place",
+  "aliases": [],
+  "description": "Papal library of curious texts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0017",
+   "houses-of-hermes-true-lineages::0018"
+  ]
+ },
+ {
+  "name": "Greek Islands",
+  "type": "Place",
+  "aliases": [],
+  "description": "Possible location of Bonisagus's lost books.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0024"
+  ]
+ },
+ {
+  "name": "Amazonia",
+  "type": "Place",
+  "aliases": [
+   "Land of the Amazons"
+  ],
+  "description": "Fabled land of women.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0067"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0000",
+   "houses-of-hermes-true-lineages::0001",
+   "houses-of-hermes-true-lineages::0038"
+  ]
+ },
+ {
+  "name": "Mythic Cathay",
+  "type": "Place",
+  "aliases": [],
+  "description": "Distant land to which emissaries went.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0071"
+  ]
+ },
+ {
+  "name": "India",
+  "type": "Place",
+  "aliases": [],
+  "description": "Distant land to which emissaries went.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0071"
+  ]
+ },
+ {
+  "name": "Africa",
+  "type": "Place",
+  "aliases": [],
+  "description": "Distant land to which emissaries went.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0071"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0033",
+   "houses-of-hermes-true-lineages::0046"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Provencal Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0036",
+   "houses-of-hermes-true-lineages::0039",
+   "houses-of-hermes-true-lineages::0040"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0039"
+  ]
+ },
+ {
+  "name": "Tribunal of the Greater Alps",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0039",
+   "houses-of-hermes-true-lineages::0040",
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0040"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0023",
+   "houses-of-hermes-true-lineages::0040",
+   "houses-of-hermes-true-lineages::0051"
+  ]
+ },
+ {
+  "name": "Levant Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0040",
+   "houses-of-hermes-true-lineages::0051"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Hermetic Tribunal mentioned in House Bonisagus's organization.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0040"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048",
+   "houses-of-hermes-true-lineages::0117"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ },
+ {
+  "name": "Reveal the Lingering Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "New Intellego Mentem spell letting the caster see invisible ghosts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049",
+   "houses-of-hermes-true-lineages::0050"
+  ]
+ },
+ {
+  "name": "Preternatural Growth and Shrinking",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuCo spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Rise of the Feathery Body",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReCo spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Palm of Flame",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrIg spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Trust of Childlike Faith",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Lay to Rest the Haunting Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeMe spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Pierce the Faerie Veil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Pierce the Magic Veil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "The Invisible Eye Revealed",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi spell known by Glaucon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0049"
+  ]
+ },
+ {
+  "name": "Stone Tell of the Mind that Sits",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose Lab Text is in the example folio.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0083"
+  ]
+ },
+ {
+  "name": "Ball of Abysmal Flame",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose Lab Text is in the example folio.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0083"
+  ]
+ },
+ {
+  "name": "Veil of Invisibility",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose Lab Text is in the example folio.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0083"
+  ]
+ },
+ {
+  "name": "Wizard's Reach",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Muto Vim spell Tillitus invents for each Form.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0117",
+   "houses-of-hermes-true-lineages::0118"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual invented by Notatus, a Major Breakthrough from Parma Magica.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0010",
+   "houses-of-hermes-true-lineages::0101"
+  ]
+ },
+ {
+  "name": "Arma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Example discovery.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Parmulae",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Example discovery.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Realm-Aligned Spells",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Example discovery.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0005"
+  ]
+ },
+ {
+  "name": "Mercere's Portals",
+  "type": "Item",
+  "aliases": [],
+  "description": "Portals of House Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0006"
+  ]
+ },
+ {
+  "name": "Mutantum Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "House Mercere magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0006"
+  ]
+ },
+ {
+  "name": "Vexillations",
+  "type": "Faction",
+  "aliases": [],
+  "description": "House Tremere military units.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0006"
+  ]
+ },
+ {
+  "name": "Coeris",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place named in House Tremere's history section.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0006"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Lore Ability Glaucon has.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0048"
+  ]
+ }
+]

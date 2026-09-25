@@ -1,0 +1,1479 @@
+[
+ {
+  "name": "Big Angus",
+  "type": "Character",
+  "description": "A prize fighter whom no one has ever beaten in bare-knuckle fighting; in a story seed, grogs can win back lost money by defeating him.",
+  "evidence": [
+   "lords-of-men::0722",
+   "lords-of-men::0723"
+  ]
+ },
+ {
+  "name": "Advanced Group Combat",
+  "type": "Concept",
+  "description": "Optional rules expanding ArM5 group combat with more tactical depth, including accelerated training and leader actions.",
+  "evidence": [
+   "lords-of-men::0721",
+   "lords-of-men::0724"
+  ]
+ },
+ {
+  "name": "Group Combat",
+  "type": "Concept",
+  "description": "ArM5 rules letting characters fight as a group with a leader and vanguard, sharing a combat bonus and inflicting Damage per member.",
+  "evidence": [
+   "lords-of-men::0721",
+   "lords-of-men::0724",
+   "lords-of-men::0725"
+  ]
+ },
+ {
+  "name": "Trained Group",
+  "type": "Concept",
+  "description": "A group that has practiced fighting together for a season (or less with accelerated training) and functions with the trained group rules.",
+  "evidence": [
+   "lords-of-men::0722",
+   "lords-of-men::0723",
+   "lords-of-men::0729"
+  ]
+ },
+ {
+  "name": "Accelerated Group Training",
+  "type": "Concept",
+  "description": "Rule letting a leader shorten a group's training time with a Communication + Leadership + stress die roll against an Ease Factor based on time available.",
+  "evidence": [
+   "lords-of-men::0722",
+   "lords-of-men::0723"
+  ]
+ },
+ {
+  "name": "Group Leader",
+  "type": "Concept",
+  "aliases": [
+   "leader"
+  ],
+  "description": "The character commanding a group in combat; issuing orders is usually a fast action and the leader's Presence + Leadership governs Discipline, Morale and rallying.",
+  "evidence": [
+   "lords-of-men::0724",
+   "lords-of-men::0727",
+   "lords-of-men::0732"
+  ]
+ },
+ {
+  "name": "Vanguard",
+  "type": "Concept",
+  "description": "The member of a group whose statistics drive its attacks; a group with no vanguard can't attack and the leader may designate a new one as a fast action.",
+  "evidence": [
+   "lords-of-men::0728",
+   "lords-of-men::0732"
+  ]
+ },
+ {
+  "name": "Fast Action",
+  "type": "Concept",
+  "aliases": [
+   "fast actions"
+  ],
+  "description": "An optional combat action type; issuing orders, designating a vanguard, or shooting a loaded crossbow with Ready Missiles can be fast actions.",
+  "evidence": [
+   "lords-of-men::0724",
+   "lords-of-men::0732",
+   "lords-of-men::0747"
+  ]
+ },
+ {
+  "name": "Morale and Discipline",
+  "type": "Concept",
+  "description": "Optional rules that weaken groups while making the leader more important, requiring Discipline and Morale rolls in battle.",
+  "evidence": [
+   "lords-of-men::0726"
+  ]
+ },
+ {
+  "name": "Discipline Roll",
+  "type": "Concept",
+  "aliases": [
+   "Group Discipline"
+  ],
+  "description": "A reaction roll (leader's Presence + Leadership + stress die) required when a group is tempted to break formation; failure makes the group disordered.",
+  "evidence": [
+   "lords-of-men::0727"
+  ]
+ },
+ {
+  "name": "Morale Roll",
+  "type": "Concept",
+  "aliases": [
+   "Group Morale",
+   "Morale check"
+  ],
+  "description": "A reaction roll (leader's Presence + Leadership + stress die) made when bad things happen on the battlefield; failure disorders or routs the group.",
+  "evidence": [
+   "lords-of-men::0728"
+  ]
+ },
+ {
+  "name": "Disordered Group",
+  "type": "Concept",
+  "aliases": [
+   "disordered"
+  ],
+  "description": "A group that failed a Discipline or Morale check; trained groups function as untrained, and untrained disordered groups hit only half as often.",
+  "evidence": [
+   "lords-of-men::0729"
+  ]
+ },
+ {
+  "name": "Routed Group",
+  "type": "Concept",
+  "aliases": [
+   "routed",
+   "rout"
+  ],
+  "description": "A group that has lost its will to fight and tries to disengage and flee; results from a disordered group failing a Morale check.",
+  "evidence": [
+   "lords-of-men::0730"
+  ]
+ },
+ {
+  "name": "Rallying a Group",
+  "type": "Concept",
+  "aliases": [
+   "Rally a Group"
+  ],
+  "description": "A leader's action (Presence + Leadership + stress die) that improves a routed group to disordered or restores a disordered group to normal.",
+  "evidence": [
+   "lords-of-men::0731"
+  ]
+ },
+ {
+  "name": "Casualty",
+  "type": "Concept",
+  "description": "A group member with a Medium Wound or worse, unconscious, or unable to fight due to magic; casualties raise the Ease Factor to rally.",
+  "evidence": [
+   "lords-of-men::0731"
+  ]
+ },
+ {
+  "name": "Personality Trait",
+  "type": "Concept",
+  "description": "Character traits such as Loyal and Brave; positive scores across a group grant bonuses to Discipline and Morale rolls.",
+  "evidence": [
+   "lords-of-men::0727",
+   "lords-of-men::0728"
+  ]
+ },
+ {
+  "name": "Loyal",
+  "type": "Concept",
+  "description": "Personality Trait; if all group members have a positive Loyal score, the group adds the lowest score to Discipline rolls.",
+  "evidence": [
+   "lords-of-men::0727"
+  ]
+ },
+ {
+  "name": "Brave",
+  "type": "Concept",
+  "description": "Personality Trait; if all group members have a positive Brave score, the group adds the lowest score to Morale rolls.",
+  "evidence": [
+   "lords-of-men::0728"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "description": "A Virtue that may provide a bonus to shortening group training time if the storyguide sees fit.",
+  "evidence": [
+   "lords-of-men::0722"
+  ]
+ },
+ {
+  "name": "Difficult Underlings",
+  "type": "Flaw",
+  "description": "A Flaw that most likely imposes a penalty on shortening group training time.",
+  "evidence": [
+   "lords-of-men::0722"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability used in commanding groups: shortening training, Discipline, Morale, rallying, replacing a vanguard, and assuming leadership.",
+  "evidence": [
+   "lords-of-men::0722",
+   "lords-of-men::0727",
+   "lords-of-men::0732"
+  ]
+ },
+ {
+  "name": "Communication",
+  "type": "Concept",
+  "description": "Characteristic combined with Leadership to shorten group training time.",
+  "evidence": [
+   "lords-of-men::0722"
+  ]
+ },
+ {
+  "name": "Presence",
+  "type": "Concept",
+  "description": "Characteristic combined with Leadership for Discipline, Morale, rallying and assuming leadership rolls.",
+  "evidence": [
+   "lords-of-men::0727",
+   "lords-of-men::0728",
+   "lords-of-men::0731"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Weapon Ability used for unarmed attacks, kicks, gauntlets, bludgeons, daggers and knives.",
+  "evidence": [
+   "lords-of-men::0738",
+   "lords-of-men::0739",
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Weapon Ability for one-handed weapons such as axes, maces, swords, spears and shields; also used with nets and whips to trip or disarm.",
+  "evidence": [
+   "lords-of-men::0739",
+   "lords-of-men::0740",
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "description": "Weapon Ability for two-handed weapons such as cudgels, flails, halberds, pole axes, great swords, staves and warhammers.",
+  "evidence": [
+   "lords-of-men::0741",
+   "lords-of-men::0742"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [
+   "Thrown"
+  ],
+  "description": "Weapon Ability for thrown missiles such as throwing axes, javelins, knives, slings and stones.",
+  "evidence": [
+   "lords-of-men::0743",
+   "lords-of-men::0744"
+  ]
+ },
+ {
+  "name": "Bows",
+  "type": "Ability",
+  "aliases": [
+   "Bow"
+  ],
+  "description": "Weapon Ability used for bows, composite bows, horse bows and longbows.",
+  "evidence": [
+   "lords-of-men::0744"
+  ]
+ },
+ {
+  "name": "Crossbows",
+  "type": "Ability",
+  "aliases": [
+   "Crossbow (Ability)"
+  ],
+  "description": "Weapon Ability used for crossbows and arbalests; untrained use does not add the usual extra botch dice.",
+  "evidence": [
+   "lords-of-men::0744",
+   "lords-of-men::0745",
+   "lords-of-men::0754"
+  ]
+ },
+ {
+  "name": "Edge of the Razor",
+  "type": "Spell",
+  "description": "Spell (ArM5 p.154) that only works on edged or pointed weapons.",
+  "evidence": [
+   "lords-of-men::0736"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [
+   "Longevity Rituals"
+  ],
+  "description": "Ritual allowing magi to live far longer, e.g. from a 1220 saga start into the 14th century.",
+  "evidence": [
+   "lords-of-men::0734"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting of Ars Magica, whose history need not parallel the real world.",
+  "evidence": [
+   "lords-of-men::0734",
+   "lords-of-men::0754",
+   "lords-of-men::0759"
+  ]
+ },
+ {
+  "name": "Western Roman Empire",
+  "type": "Place",
+  "description": "Empire whose collapse around 480 AD marks the end of the ancient period for equipment availability.",
+  "evidence": [
+   "lords-of-men::0734"
+  ]
+ },
+ {
+  "name": "Imperial Rome",
+  "type": "Place",
+  "aliases": [
+   "Rome"
+  ],
+  "description": "Roman empire that used the lorica segmentata and the scutum of the legionary.",
+  "evidence": [
+   "lords-of-men::0763",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Wales",
+  "type": "Place",
+  "description": "Region to which longbows were historically confined for most of the high Middle Ages.",
+  "evidence": [
+   "lords-of-men::0748",
+   "lords-of-men::0749"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "description": "People who use the composite bow.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Moors",
+  "type": "Faction",
+  "description": "People who use the composite bow.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Mongols",
+  "type": "Faction",
+  "description": "Asiatic nomads using the composite bow; the Mongol saber is a long sword variant.",
+  "evidence": [
+   "lords-of-men::0743",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Turks",
+  "type": "Faction",
+  "description": "Asiatic nomads who use the composite bow.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Huns",
+  "type": "Faction",
+  "description": "Early medieval Asiatic nomads who used the composite bow.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Magyars",
+  "type": "Faction",
+  "description": "Early medieval nomads who used the composite bow.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Faerie Knights",
+  "type": "Creature",
+  "description": "A court of faerie knights that whisks grogs from their covenant and subjects them to martial challenges in a story seed.",
+  "evidence": [
+   "lords-of-men::0724"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "faeries"
+  ],
+  "description": "Faeries appear with archaic equipment, primitive sharpened rocks, tree-bark armor and exotic armor.",
+  "evidence": [
+   "lords-of-men::0734",
+   "lords-of-men::0750",
+   "lords-of-men::0764"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "grogs",
+   "turb"
+  ],
+  "description": "Covenant soldiers/servants who fight in groups and are outfitted with armor.",
+  "evidence": [
+   "lords-of-men::0722",
+   "lords-of-men::0724",
+   "lords-of-men::0764"
+  ]
+ },
+ {
+  "name": "Turb",
+  "type": "Concept",
+  "description": "The covenant's band of grogs, targeted by faerie sport in a story seed.",
+  "evidence": [
+   "lords-of-men::0724"
+  ]
+ },
+ {
+  "name": "Equipment Availability",
+  "type": "Concept",
+  "description": "Classification of weapons and armor by historical period (ancient, early, high, late medieval) or region.",
+  "evidence": [
+   "lords-of-men::0734",
+   "lords-of-men::0755"
+  ]
+ },
+ {
+  "name": "Quality of Arms and Armor",
+  "type": "Concept",
+  "description": "Rules from City & Guild for shoddy, standard, superior and excellent items; superior/excellent items grant bonuses, shoddy ones break easily.",
+  "evidence": [
+   "lords-of-men::0735"
+  ]
+ },
+ {
+  "name": "Weapon Damage Types",
+  "type": "Concept",
+  "aliases": [
+   "Crushing",
+   "Piercing",
+   "Slashing"
+  ],
+  "description": "Weapons are categorized as crushing, piercing or slashing by the injuries they cause, relevant to magical effects.",
+  "evidence": [
+   "lords-of-men::0736",
+   "lords-of-men::0755"
+  ]
+ },
+ {
+  "name": "Blunted Weapon",
+  "type": "Concept",
+  "description": "Slashing or piercing weapons blunted for tournaments, subtracting 3 from Damage.",
+  "evidence": [
+   "lords-of-men::0737"
+  ]
+ },
+ {
+  "name": "Stone Weapons",
+  "type": "Concept",
+  "description": "Primitive weapons that deal 2 less Damage than metal ones, minimum +1.",
+  "evidence": [
+   "lords-of-men::0737"
+  ]
+ },
+ {
+  "name": "Try Using the Other End",
+  "type": "Concept",
+  "description": "Optional rule giving a -1 Attack penalty when a weapon deals its secondary damage type.",
+  "evidence": [
+   "lords-of-men::0738"
+  ]
+ },
+ {
+  "name": "Clash of Weapons",
+  "type": "Concept",
+  "description": "Optional rule checking for weapon breakage when Attack Total exactly equals Defense Total.",
+  "evidence": [
+   "lords-of-men::0746",
+   "lords-of-men::0755"
+  ]
+ },
+ {
+  "name": "Weapon Breakage",
+  "type": "Concept",
+  "description": "Stress die + Weapon Ability vs. Ease Factor 9 (15 for improvised weapons); failure loses a damage level.",
+  "evidence": [
+   "lords-of-men::0746"
+  ]
+ },
+ {
+  "name": "Damage Levels",
+  "type": "Concept",
+  "description": "How many damage levels a weapon or shield sustains before breaking; most have two, spears and lances one.",
+  "evidence": [
+   "lords-of-men::0746",
+   "lords-of-men::0755"
+  ]
+ },
+ {
+  "name": "Ready Missiles",
+  "type": "Concept",
+  "description": "Combat option under which shooting a loaded crossbow is a fast action.",
+  "evidence": [
+   "lords-of-men::0747"
+  ]
+ },
+ {
+  "name": "Spanning",
+  "type": "Concept",
+  "description": "Extended Action needed to load a crossbow, its length depending on the mechanism (belt hook, windlass, cranequin, goat's foot).",
+  "evidence": [
+   "lords-of-men::0747",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Mounted Archery",
+  "type": "Concept",
+  "description": "Rules for shooting from horseback, relevant to the horse bow.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Falling from Horseback",
+  "type": "Concept",
+  "description": "Rule for damage taken when a rider falls or is unseated.",
+  "evidence": [
+   "lords-of-men::0720"
+  ]
+ },
+ {
+  "name": "Unseat",
+  "type": "Concept",
+  "description": "Non-lethal special effect dragging a rider from the saddle; possible with halberds, pole arms, nets and whips.",
+  "evidence": [
+   "lords-of-men::0720",
+   "lords-of-men::0743",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Disarm",
+  "type": "Concept",
+  "description": "Non-lethal special effect making the opponent's weapon fall; retrieving it requires an action and disengaging.",
+  "evidence": [
+   "lords-of-men::0720"
+  ]
+ },
+ {
+  "name": "Wrest Weapon",
+  "type": "Concept",
+  "description": "Non-lethal action leaving the attacker holding the opponent's weapon or other item like a wizard's staff.",
+  "evidence": [
+   "lords-of-men::0720"
+  ]
+ },
+ {
+  "name": "Non-Lethal Combat",
+  "type": "Concept",
+  "description": "Optional combat rules with special effects like disarm, unseat and wrest weapon.",
+  "evidence": [
+   "lords-of-men::0720"
+  ]
+ },
+ {
+  "name": "Penalty for Fighting Without a Helmet",
+  "type": "Concept",
+  "description": "Optional rule adding an extra botch die to melee Defense and Evasion rolls for characters without head protection.",
+  "evidence": [
+   "lords-of-men::0760"
+  ]
+ },
+ {
+  "name": "Complex Armor Design",
+  "type": "Concept",
+  "description": "Optional rules to build armor from materials by body area and Load Factor, useful for faerie or historical armor.",
+  "evidence": [
+   "lords-of-men::0764",
+   "lords-of-men::0765"
+  ]
+ },
+ {
+  "name": "Expanded Armor Rules",
+  "type": "Concept",
+  "aliases": [
+   "Expanded Armor Table"
+  ],
+  "description": "Rules expanding ArM5 armor with more materials and a component system of body armor, surcoat/greaves and helmet.",
+  "evidence": [
+   "lords-of-men::0751",
+   "lords-of-men::0752",
+   "lords-of-men::0759"
+  ]
+ },
+ {
+  "name": "Load",
+  "type": "Concept",
+  "description": "Encumbrance value of weapons and armor.",
+  "evidence": [
+   "lords-of-men::0754",
+   "lords-of-men::0764"
+  ]
+ },
+ {
+  "name": "Protection",
+  "type": "Concept",
+  "description": "Armor's defensive value, computed by summing body armor, surcoat and helmet.",
+  "evidence": [
+   "lords-of-men::0756",
+   "lords-of-men::0760"
+  ]
+ },
+ {
+  "name": "Encumbrance",
+  "type": "Concept",
+  "description": "ArM5 rules (p.178) governing Load.",
+  "evidence": [
+   "lords-of-men::0754"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Item",
+  "description": "Brawl weapon or hand armor.",
+  "evidence": [
+   "lords-of-men::0738",
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Bludgeon",
+  "type": "Item",
+  "description": "Inexpensive crushing Brawl weapon.",
+  "evidence": [
+   "lords-of-men::0738"
+  ]
+ },
+ {
+  "name": "Dagger",
+  "type": "Item",
+  "description": "Piercing/slashing Brawl weapon.",
+  "evidence": [
+   "lords-of-men::0738",
+   "lords-of-men::0739"
+  ]
+ },
+ {
+  "name": "Knife",
+  "type": "Item",
+  "description": "Brawl weapon that can also be thrown.",
+  "evidence": [
+   "lords-of-men::0739",
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Axe",
+  "type": "Item",
+  "description": "Single weapon dealing slashing damage.",
+  "evidence": [
+   "lords-of-men::0739"
+  ]
+ },
+ {
+  "name": "Club",
+  "type": "Item",
+  "description": "Inexpensive crushing single weapon.",
+  "evidence": [
+   "lords-of-men::0739"
+  ]
+ },
+ {
+  "name": "Short Dueling Stick",
+  "type": "Item",
+  "aliases": [
+   "Dueling Stick, Short"
+  ],
+  "description": "Ancient single-weapon crushing stick.",
+  "evidence": [
+   "lords-of-men::0739"
+  ]
+ },
+ {
+  "name": "Falchion",
+  "type": "Item",
+  "description": "Heavy one-handed machete-like weapon used by common soldiers; late medieval.",
+  "evidence": [
+   "lords-of-men::0739",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Hatchet",
+  "type": "Item",
+  "description": "Inexpensive slashing single weapon.",
+  "evidence": [
+   "lords-of-men::0739"
+  ]
+ },
+ {
+  "name": "Lance",
+  "type": "Item",
+  "description": "Piercing single weapon of the high period with only one damage level.",
+  "evidence": [
+   "lords-of-men::0739",
+   "lords-of-men::0746"
+  ]
+ },
+ {
+  "name": "Mace",
+  "type": "Item",
+  "description": "Crushing single weapon.",
+  "evidence": [
+   "lords-of-men::0739",
+   "lords-of-men::0740"
+  ]
+ },
+ {
+  "name": "Mace and Chain",
+  "type": "Item",
+  "description": "Early medieval crushing single weapon.",
+  "evidence": [
+   "lords-of-men::0740"
+  ]
+ },
+ {
+  "name": "Net",
+  "type": "Item",
+  "description": "Weapon usable to trip, grapple, disarm or unseat a rider; otherwise ineffective.",
+  "evidence": [
+   "lords-of-men::0740",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Spear",
+  "type": "Item",
+  "description": "Piercing single weapon with one damage level.",
+  "evidence": [
+   "lords-of-men::0740",
+   "lords-of-men::0746"
+  ]
+ },
+ {
+  "name": "Short Sword",
+  "type": "Item",
+  "aliases": [
+   "Sword, Short"
+  ],
+  "description": "One-handed piercing/slashing sword.",
+  "evidence": [
+   "lords-of-men::0740"
+  ]
+ },
+ {
+  "name": "Long Sword",
+  "type": "Item",
+  "aliases": [
+   "Sword, Long"
+  ],
+  "description": "Expensive single weapon with variations such as the spatha and Mongol saber.",
+  "evidence": [
+   "lords-of-men::0740",
+   "lords-of-men::0743",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Spatha",
+  "type": "Item",
+  "description": "Late Roman variation on the long sword.",
+  "evidence": [
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Mongol Saber",
+  "type": "Item",
+  "description": "Mongol variation on the long sword.",
+  "evidence": [
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Buckler",
+  "type": "Item",
+  "aliases": [
+   "Shield, Buckler"
+  ],
+  "description": "Small shield of the high period.",
+  "evidence": [
+   "lords-of-men::0740"
+  ]
+ },
+ {
+  "name": "Round Shield",
+  "type": "Item",
+  "aliases": [
+   "Shield, Round"
+  ],
+  "description": "Inexpensive shield.",
+  "evidence": [
+   "lords-of-men::0740",
+   "lords-of-men::0741"
+  ]
+ },
+ {
+  "name": "Heater Shield",
+  "type": "Item",
+  "aliases": [
+   "Shield, Heater"
+  ],
+  "description": "High-period shield granting +3 Defense.",
+  "evidence": [
+   "lords-of-men::0741"
+  ]
+ },
+ {
+  "name": "Infantry Shield",
+  "type": "Item",
+  "aliases": [
+   "Shield, Infantry"
+  ],
+  "description": "Large shield usable only on foot, such as the Roman scutum.",
+  "evidence": [
+   "lords-of-men::0741",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Scutum",
+  "type": "Item",
+  "description": "Convex rectangular shield of the Roman legionary.",
+  "evidence": [
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Trident",
+  "type": "Item",
+  "description": "Ancient piercing weapon.",
+  "evidence": [
+   "lords-of-men::0741"
+  ]
+ },
+ {
+  "name": "Whip",
+  "type": "Item",
+  "description": "Poor weapon usable to trip, grapple, disarm or unseat.",
+  "evidence": [
+   "lords-of-men::0741",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Cudgel",
+  "type": "Item",
+  "description": "Inexpensive two-handed crushing weapon.",
+  "evidence": [
+   "lords-of-men::0741"
+  ]
+ },
+ {
+  "name": "Farm Implement",
+  "type": "Item",
+  "description": "Improvised two-handed weapon.",
+  "evidence": [
+   "lords-of-men::0741"
+  ]
+ },
+ {
+  "name": "Flail",
+  "type": "Item",
+  "description": "Two-handed crushing weapon.",
+  "evidence": [
+   "lords-of-men::0741",
+   "lords-of-men::0742"
+  ]
+ },
+ {
+  "name": "Halberd",
+  "type": "Item",
+  "description": "Late-medieval pole axe with a spike and hook for dragging riders from horses.",
+  "evidence": [
+   "lords-of-men::0742",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Pole Arm",
+  "type": "Item",
+  "description": "Two-handed weapon usable to unseat a rider.",
+  "evidence": [
+   "lords-of-men::0742",
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Pole Axe",
+  "type": "Item",
+  "description": "Two-handed slashing weapon.",
+  "evidence": [
+   "lords-of-men::0742"
+  ]
+ },
+ {
+  "name": "Long Spear",
+  "type": "Item",
+  "aliases": [
+   "Spear, Long",
+   "boar spear"
+  ],
+  "description": "Two-handed piercing weapon including the boar spear.",
+  "evidence": [
+   "lords-of-men::0742"
+  ]
+ },
+ {
+  "name": "Great Sword",
+  "type": "Item",
+  "aliases": [
+   "Sword, Great"
+  ],
+  "description": "Late medieval two-handed sword.",
+  "evidence": [
+   "lords-of-men::0742",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Staff",
+  "type": "Item",
+  "description": "Two-handed crushing weapon.",
+  "evidence": [
+   "lords-of-men::0742"
+  ]
+ },
+ {
+  "name": "Warhammer",
+  "type": "Item",
+  "description": "Two-handed crushing weapon.",
+  "evidence": [
+   "lords-of-men::0742"
+  ]
+ },
+ {
+  "name": "Bastard Sword",
+  "type": "Item",
+  "aliases": [
+   "Sword, Bastard"
+  ],
+  "description": "Late-medieval sword usable one- or two-handed.",
+  "evidence": [
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Throwing Axe",
+  "type": "Item",
+  "aliases": [
+   "Axe, Throwing"
+  ],
+  "description": "Thrown slashing weapon.",
+  "evidence": [
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Javelin",
+  "type": "Item",
+  "description": "Thrown piercing weapon.",
+  "evidence": [
+   "lords-of-men::0743"
+  ]
+ },
+ {
+  "name": "Sling",
+  "type": "Item",
+  "description": "Thrown missile weapon.",
+  "evidence": [
+   "lords-of-men::0743",
+   "lords-of-men::0744"
+  ]
+ },
+ {
+  "name": "Sharpened Rock",
+  "type": "Item",
+  "aliases": [
+   "Rock, sharpened"
+  ],
+  "description": "Very primitive thrown weapon sometimes used by faeries.",
+  "evidence": [
+   "lords-of-men::0744",
+   "lords-of-men::0750"
+  ]
+ },
+ {
+  "name": "Bow",
+  "type": "Item",
+  "aliases": [
+   "short bow"
+  ],
+  "description": "New name for the short bow.",
+  "evidence": [
+   "lords-of-men::0744",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Composite Bow",
+  "type": "Item",
+  "aliases": [
+   "Bow, Composite"
+  ],
+  "description": "Bow used by Saracens, Moors and Asiatic nomads.",
+  "evidence": [
+   "lords-of-men::0744",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Horse Bow",
+  "type": "Item",
+  "aliases": [
+   "Bow, Horse"
+  ],
+  "description": "Compact composite bow suited to horseback.",
+  "evidence": [
+   "lords-of-men::0744",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Longbow",
+  "type": "Item",
+  "aliases": [
+   "Bow, Long"
+  ],
+  "description": "Late bow historically confined to Wales, signature English weapon after 1283.",
+  "evidence": [
+   "lords-of-men::0744",
+   "lords-of-men::0748",
+   "lords-of-men::0749"
+  ]
+ },
+ {
+  "name": "Crossbow",
+  "type": "Item",
+  "description": "Missile weapon spanned with a belt hook; Strength does not add to Damage.",
+  "evidence": [
+   "lords-of-men::0745",
+   "lords-of-men::0747",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Arbalest",
+  "type": "Item",
+  "description": "Crossbow requiring a mechanical device such as a windlass to span.",
+  "evidence": [
+   "lords-of-men::0745",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Heavy Arbalest",
+  "type": "Item",
+  "aliases": [
+   "Arbalest, heavy"
+  ],
+  "description": "Late-medieval steel-bowed arbalest spanned by a cranequin.",
+  "evidence": [
+   "lords-of-men::0745",
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Padded Armor",
+  "type": "Item",
+  "description": "Inexpensive armor of quilted fabric, felt, or stuffed leather.",
+  "evidence": [
+   "lords-of-men::0753",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Boiled Leather",
+  "type": "Item",
+  "description": "Tough stiff armor material; cuir boulli is a variant.",
+  "evidence": [
+   "lords-of-men::0753",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Reinforced Armor",
+  "type": "Item",
+  "description": "Leather or padding strengthened with small plates or rings.",
+  "evidence": [
+   "lords-of-men::0754",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Rigid Scale",
+  "type": "Item",
+  "description": "Non-metallic scale or lamellar armor.",
+  "evidence": [
+   "lords-of-men::0754",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Metal Scale",
+  "type": "Item",
+  "description": "Metal lamellar armor, including brigandine.",
+  "evidence": [
+   "lords-of-men::0754",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Mail",
+  "type": "Item",
+  "aliases": [
+   "chain mail"
+  ],
+  "description": "Chain mail; mail shirts ancient, full mail early medieval.",
+  "evidence": [
+   "lords-of-men::0756",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Plate Armor",
+  "type": "Item",
+  "aliases": [
+   "Plate",
+   "Full plate"
+  ],
+  "description": "Armor of solid metal pieces; full Gothic plate is late medieval.",
+  "evidence": [
+   "lords-of-men::0756",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Plate and Mail",
+  "type": "Item",
+  "description": "Mail strengthened with metal plates.",
+  "evidence": [
+   "lords-of-men::0756",
+   "lords-of-men::0757"
+  ]
+ },
+ {
+  "name": "Gambeson",
+  "type": "Item",
+  "aliases": [
+   "arming jacket"
+  ],
+  "description": "Garment of padded material worn over, under or instead of armor; also aketon or arming jacket.",
+  "evidence": [
+   "lords-of-men::0757",
+   "lords-of-men::0761",
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Coat of Plates",
+  "type": "Item",
+  "description": "Lamellar cuirass worn over mail c.1250-1300.",
+  "evidence": [
+   "lords-of-men::0757",
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Greaves",
+  "type": "Item",
+  "description": "Armor for the lower legs.",
+  "evidence": [
+   "lords-of-men::0758",
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Jambes",
+  "type": "Item",
+  "description": "Plate armor covering the legs.",
+  "evidence": [
+   "lords-of-men::0758",
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Ailettes",
+  "type": "Item",
+  "description": "Boiled leather shoulder plates.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Aketon",
+  "type": "Item",
+  "description": "Padded jacket worn under a mail hauberk.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Bascinet",
+  "type": "Item",
+  "description": "Late medieval fitted helmet with visor.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Brigandine",
+  "type": "Item",
+  "description": "Late armor of small plates riveted to canvas or leather.",
+  "evidence": [
+   "lords-of-men::0754",
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Camail",
+  "type": "Item",
+  "description": "Mail hood covering head, forehead, lower face.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Iron Cap",
+  "type": "Item",
+  "aliases": [
+   "Cap, Iron"
+  ],
+  "description": "Helmet protecting the crown of the head.",
+  "evidence": [
+   "lords-of-men::0761",
+   "lords-of-men::0760"
+  ]
+ },
+ {
+  "name": "Chausses",
+  "type": "Item",
+  "description": "Mail leggings.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Coif",
+  "type": "Item",
+  "description": "Open-faced mail hood.",
+  "evidence": [
+   "lords-of-men::0761",
+   "lords-of-men::0760"
+  ]
+ },
+ {
+  "name": "Cuirass",
+  "type": "Item",
+  "description": "Breastplate and backplate.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Cuir Boulli",
+  "type": "Item",
+  "description": "Boiled leather made by boiling in oil.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Fauld",
+  "type": "Item",
+  "description": "Lamellar hip protection.",
+  "evidence": [
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Gorget",
+  "type": "Item",
+  "description": "Stiff collar protecting throat and neck.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Hauberk",
+  "type": "Item",
+  "description": "Knee-length long-sleeved coat of flexible armor.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Haubergeon",
+  "type": "Item",
+  "description": "Short-sleeved armored tunic.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Open Helmet",
+  "type": "Item",
+  "description": "Helmet leaving the face half exposed.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Helm",
+  "type": "Item",
+  "description": "High-medieval headgear encasing head and neck.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Jack",
+  "type": "Item",
+  "description": "Brigandine jerkin, late medieval.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Jerkin",
+  "type": "Item",
+  "description": "Short sleeveless jacket.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Kettle Hat",
+  "type": "Item",
+  "aliases": [
+   "Chapelle de fer"
+  ],
+  "description": "Bowl-shaped iron cap with wide brim.",
+  "evidence": [
+   "lords-of-men::0762",
+   "lords-of-men::0761"
+  ]
+ },
+ {
+  "name": "Lamellar",
+  "type": "Item",
+  "description": "Overlapping plates fastened to each other.",
+  "evidence": [
+   "lords-of-men::0762"
+  ]
+ },
+ {
+  "name": "Lorica Hamata",
+  "type": "Item",
+  "description": "Roman mail haubergeon.",
+  "evidence": [
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Lorica Segmentata",
+  "type": "Item",
+  "description": "Imperial Roman lamellar cuirass.",
+  "evidence": [
+   "lords-of-men::0762",
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Poleyns",
+  "type": "Item",
+  "description": "Knee protectors.",
+  "evidence": [
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Ring Armor",
+  "type": "Item",
+  "description": "Early medieval leather armor with rings.",
+  "evidence": [
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Sabaton",
+  "type": "Item",
+  "description": "Foot armor.",
+  "evidence": [
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Sallet",
+  "type": "Item",
+  "description": "Late medieval rounded helmet with visor.",
+  "evidence": [
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Scale Armor",
+  "type": "Item",
+  "description": "Small overlapping plates on backing.",
+  "evidence": [
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Vambraces",
+  "type": "Item",
+  "description": "Arm armor.",
+  "evidence": [
+   "lords-of-men::0763"
+  ]
+ },
+ {
+  "name": "Cranequin",
+  "type": "Item",
+  "description": "Mechanical device for spanning a heavy arbalest.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Goat's Foot",
+  "type": "Item",
+  "description": "Late-medieval lever for spanning a crossbow.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ },
+ {
+  "name": "Windlass",
+  "type": "Item",
+  "description": "Device used to span arbalests.",
+  "evidence": [
+   "lords-of-men::0748"
+  ]
+ }
+]

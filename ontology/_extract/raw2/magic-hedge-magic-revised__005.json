@@ -1,0 +1,2854 @@
+[
+ {
+  "name": "Nightwalker",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue shared by all nightwalker traditions, granting ekstasis (straying) and requiring participation in fertility battles.",
+  "evidence": [
+   "magic-hedge-magic-revised::0607",
+   "magic-hedge-magic-revised::0622",
+   "magic-hedge-magic-revised::0644"
+  ]
+ },
+ {
+  "name": "Nightwalkers",
+  "type": "CharacterType",
+  "aliases": [
+   "nightwalker"
+  ],
+  "description": "Hedge magicians who send their spirits forth while unconscious to fight fertility battles and patrol their communities against evil.",
+  "evidence": [
+   "magic-hedge-magic-revised::0600",
+   "magic-hedge-magic-revised::0606",
+   "magic-hedge-magic-revised::0673"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for nightwalkers who, dying while their phantasticum is absent, wander the world as ghosts until their destined hour of death.",
+  "evidence": [
+   "magic-hedge-magic-revised::0601"
+  ]
+ },
+ {
+  "name": "Greater Purifying Touch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural power some nightwalker healers possess that mitigates the effects of Infernal attack.",
+  "evidence": [
+   "magic-hedge-magic-revised::0602"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Virtue",
+  "aliases": [
+   "Sense Unholiness"
+  ],
+  "description": "Ability nightwalkers use to detect foes while awake and to find curse anchors placed by Infernal witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0603",
+   "magic-hedge-magic-revised::0651",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Caul",
+  "type": "Concept",
+  "aliases": [
+   "Born With a Caul"
+  ],
+  "description": "Hood of membrane with which most nightwalkers are born; kept by the nightwalker and in some traditions the source of his powers, granting caul-based Virtues.",
+  "evidence": [
+   "magic-hedge-magic-revised::0603",
+   "magic-hedge-magic-revised::0604",
+   "magic-hedge-magic-revised::0661"
+  ]
+ },
+ {
+  "name": "Immunity to Drowning",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue granted by a caul; the character floats unconscious to shore rather than drowning.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604"
+  ]
+ },
+ {
+  "name": "Luck",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue that may be granted by possessing a caul.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604"
+  ]
+ },
+ {
+  "name": "Self-Confidence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue that may be granted by possessing a caul.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue that may be granted by possessing a caul.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue often granted to those born with a caul.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability available to a nightwalker's phantasticum, used to find dangerous creatures, cursed objects and foes in phantastic form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604",
+   "magic-hedge-magic-revised::0612",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Weather Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue granting an intuitive understanding of the weather, identical in effect to Sailor's Foretaste of the Morrow, without a roll.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604"
+  ]
+ },
+ {
+  "name": "Sailor's Foretaste of the Morrow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell for predicting weather, whose effect the Weather Sense Virtue duplicates.",
+  "evidence": [
+   "magic-hedge-magic-revised::0604"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers (e.g. to fight the battle in waking life); Rothiger has a compulsion to kill in wolf form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers, e.g. living in a community that persecutes nightwalkers as infernalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605",
+   "magic-hedge-magic-revised::0651"
+  ]
+ },
+ {
+  "name": "Dependent",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605"
+  ]
+ },
+ {
+  "name": "Diabolic Past",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw for nightwalkers who have changed sides from evil, possible but difficult in most traditions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers, bound to the night battles.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers, such as a local Infernal witch.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers, such as fighting evil.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605",
+   "magic-hedge-magic-revised::0651"
+  ]
+ },
+ {
+  "name": "Nocturnal",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605"
+  ]
+ },
+ {
+  "name": "Oath of Fealty",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers, sworn to the group's supernatural patron.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entities",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw for nightwalkers or intervening magi harassed by demons seeking revenge or the dead seeking rest.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605",
+   "magic-hedge-magic-revised::0632"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common among nightwalkers, similar to Plagued by Supernatural Entities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0605"
+  ]
+ },
+ {
+  "name": "Ekstasis",
+  "type": "Concept",
+  "aliases": [
+   "straying",
+   "Straying"
+  ],
+  "description": "The magical power defining nightwalker traditions, also called straying, which lets a magician send forth his spirit while unconscious; it has no corresponding Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0606",
+   "magic-hedge-magic-revised::0607",
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Call to Slumber",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell magi can use to render themselves or others insensible in order to stray.",
+  "evidence": [
+   "magic-hedge-magic-revised::0608"
+  ]
+ },
+ {
+  "name": "Infernal Witches",
+  "type": "CharacterType",
+  "aliases": [
+   "Infernal witch"
+  ],
+  "description": "Servants of the Infernal who curse villages and battle nightwalkers in the night battles, often as the malandanti.",
+  "evidence": [
+   "magic-hedge-magic-revised::0603",
+   "magic-hedge-magic-revised::0634",
+   "magic-hedge-magic-revised::0643"
+  ]
+ },
+ {
+  "name": "Sabbat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Infernal gathering that witches attend using a demon-provided ointment similar to that of nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0608"
+  ]
+ },
+ {
+  "name": "Aristotle",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient philosopher who recorded Greek magicians who spent years in a semblance of death while straying.",
+  "evidence": [
+   "magic-hedge-magic-revised::0609"
+  ]
+ },
+ {
+  "name": "Laplander Nightwalkers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Nightwalker tradition whose members die if their insensate bodies are simply touched.",
+  "evidence": [
+   "magic-hedge-magic-revised::0609"
+  ]
+ },
+ {
+  "name": "Phantasticum",
+  "type": "Concept",
+  "aliases": [
+   "phantastica"
+  ],
+  "description": "The spiritual yet corporeal form that strays from a nightwalker's body, able to become corporeal, immaterial or invisible and to take human or animal shape.",
+  "evidence": [
+   "magic-hedge-magic-revised::0611",
+   "magic-hedge-magic-revised::0620",
+   "magic-hedge-magic-revised::0615"
+  ]
+ },
+ {
+  "name": "Hounds of God",
+  "type": "Faction",
+  "aliases": [
+   "Hound of God",
+   "Hounds"
+  ],
+  "description": "Werewolf nightwalkers charged with besieging Hell to recapture stolen seeds; they pass their power by a toasting ritual, mostly among German-speaking settlers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0654",
+   "magic-hedge-magic-revised::0655",
+   "magic-hedge-magic-revised::0656"
+  ]
+ },
+ {
+  "name": "Long Term Fatigue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fatigue lost by nightwalkers after straying, recovered faster through spiritual nourishment and feasts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0609",
+   "magic-hedge-magic-revised::0610",
+   "magic-hedge-magic-revised::0641"
+  ]
+ },
+ {
+  "name": "Spirit Travel",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Near-instant travel by a nightwalker's phantasticum, requiring a Stamina + Athletics roll by familiarity with the destination.",
+  "evidence": [
+   "magic-hedge-magic-revised::0613",
+   "magic-hedge-magic-revised::0614",
+   "magic-hedge-magic-revised::0615"
+  ]
+ },
+ {
+  "name": "Venice",
+  "type": "Place",
+  "aliases": [],
+  "description": "City above which a militia of nightwalkers (benandanti) fights, over Saint Mark's Square.",
+  "evidence": [
+   "magic-hedge-magic-revised::0613",
+   "magic-hedge-magic-revised::0647"
+  ]
+ },
+ {
+  "name": "Adriatic",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sea across which the Venetian nightwalker militia floats in swift eggshells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0613"
+  ]
+ },
+ {
+  "name": "Saint Mark's Square",
+  "type": "Place",
+  "aliases": [],
+  "description": "Square in Venice above which a benandanti militia meets its rivals in immaterial form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0647"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical link to a target; allows automatic spirit travel and is created by vitkar runes and kolossoi.",
+  "evidence": [
+   "magic-hedge-magic-revised::0614",
+   "magic-hedge-magic-revised::0651",
+   "magic-hedge-magic-revised::0710"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "A nightwalker automatically succeeds in spirit travel to his or her True Love.",
+  "evidence": [
+   "magic-hedge-magic-revised::0615"
+  ]
+ },
+ {
+  "name": "Versatile Phantasticum",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue letting a nightwalker use an animal phantasticum outside fertility battles and spend experience on animal-form Abilities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0616",
+   "magic-hedge-magic-revised::0656",
+   "magic-hedge-magic-revised::0662"
+  ]
+ },
+ {
+  "name": "Missing Eye",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Example of a bodily Flaw that also applies to a nightwalker's animal form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0616"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Magi's name for an imagined organized group of Scandinavian rune wizards (vitkir) opposed to the Order of Hermes, dating from the war against Damhan-Allaidh.",
+  "evidence": [
+   "magic-hedge-magic-revised::0618",
+   "magic-hedge-magic-revised::0683",
+   "magic-hedge-magic-revised::0685"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi, which employs nightwalkers as guards and scouts and considers itself at war with the Order of Odin.",
+  "evidence": [
+   "magic-hedge-magic-revised::0654",
+   "magic-hedge-magic-revised::0673",
+   "magic-hedge-magic-revised::0686"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection against supernatural effects; affects drowsiness from phantastica and resistance to rune spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0621",
+   "magic-hedge-magic-revised::0709",
+   "magic-hedge-magic-revised::0716"
+  ]
+ },
+ {
+  "name": "Fertility Battles",
+  "type": "Concept",
+  "aliases": [
+   "night battles"
+  ],
+  "description": "Battles in spirit form that nightwalkers fight, usually four times a year, determining the harvest, hunting and fishing of their area.",
+  "evidence": [
+   "magic-hedge-magic-revised::0622",
+   "magic-hedge-magic-revised::0623",
+   "magic-hedge-magic-revised::0633"
+  ]
+ },
+ {
+  "name": "Malandanti",
+  "type": "Faction",
+  "aliases": [
+   "malandante"
+  ],
+  "description": "The 'bad walkers', evil nightwalkers (usually Infernal witches, sometimes unruly ghosts) who oppose the benandanti, fighting with sorghum.",
+  "evidence": [
+   "magic-hedge-magic-revised::0628",
+   "magic-hedge-magic-revised::0647",
+   "magic-hedge-magic-revised::0653"
+  ]
+ },
+ {
+  "name": "Mazzeri",
+  "type": "Faction",
+  "aliases": [
+   "mazzeru"
+  ],
+  "description": "Corsican nightwalker tradition that fights with asphodel and is compelled to hunt in dreams, killing animals representing villagers destined to die.",
+  "evidence": [
+   "magic-hedge-magic-revised::0625",
+   "magic-hedge-magic-revised::0664",
+   "magic-hedge-magic-revised::0672"
+  ]
+ },
+ {
+  "name": "Taltós",
+  "type": "Faction",
+  "aliases": [
+   "taltos"
+  ],
+  "description": "Hungarian nightwalkers, remnants of Magyar shamans, who fight in the sky as horses, bulls or flames and can cause storms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0625",
+   "magic-hedge-magic-revised::0666",
+   "magic-hedge-magic-revised::0669"
+  ]
+ },
+ {
+  "name": "Benandanti",
+  "type": "Faction",
+  "aliases": [
+   "benandante",
+   "Benadante"
+  ],
+  "description": "The 'good walkers' of Northern Italy who fight Infernal witches on the Thursdays of the Ember Days, armed with fennel.",
+  "evidence": [
+   "magic-hedge-magic-revised::0645",
+   "magic-hedge-magic-revised::0647",
+   "magic-hedge-magic-revised::0625"
+  ]
+ },
+ {
+  "name": "Noheir",
+  "type": "Creature",
+  "aliases": [],
+  "description": "German dead who are ghosts of people born with cauls, with higher Might and greater persistence and destructiveness.",
+  "evidence": [
+   "magic-hedge-magic-revised::0627",
+   "magic-hedge-magic-revised::0628"
+  ]
+ },
+ {
+  "name": "Tempters",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Weak class of demons that nightwalkers commonly face, serving a human malandanti captain.",
+  "evidence": [
+   "magic-hedge-magic-revised::0628"
+  ]
+ },
+ {
+  "name": "Aerial Powers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Class of demons; most demonic captains of night battles are Aerial Powers of Might 20 or less.",
+  "evidence": [
+   "magic-hedge-magic-revised::0629"
+  ]
+ },
+ {
+  "name": "Elementals",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical beings whose statistics can represent enemies in elemental shape and the taltós flame form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0627",
+   "magic-hedge-magic-revised::0670"
+  ]
+ },
+ {
+  "name": "Captain of the Nightwalkers",
+  "type": "Concept",
+  "aliases": [
+   "captain"
+  ],
+  "description": "Leader of a nightwalker host, chosen by its supernatural patron, often marked by a pennant on the battlefield.",
+  "evidence": [
+   "magic-hedge-magic-revised::0624",
+   "magic-hedge-magic-revised::0632",
+   "magic-hedge-magic-revised::0647"
+  ]
+ },
+ {
+  "name": "Processions of the Dead",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nightwalker processions along the Ways of the Dead with the recently departed, keeping the ways clear and regulating the unquiet dead.",
+  "evidence": [
+   "magic-hedge-magic-revised::0636",
+   "magic-hedge-magic-revised::0637",
+   "magic-hedge-magic-revised::0638"
+  ]
+ },
+ {
+  "name": "Ways of the Dead",
+  "type": "Place",
+  "aliases": [],
+  "description": "Routes traveled by the spirits of the recently departed, kept clear by nightwalker processions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0637"
+  ]
+ },
+ {
+  "name": "All Hallows Eve",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Exceptional time when the dead may wander into towns.",
+  "evidence": [
+   "magic-hedge-magic-revised::0637"
+  ]
+ },
+ {
+  "name": "Diana",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie leader of processions of the dead, collecting the dead and leading them to pagan underworlds.",
+  "evidence": [
+   "magic-hedge-magic-revised::0638",
+   "magic-hedge-magic-revised::0639"
+  ]
+ },
+ {
+  "name": "Perchte",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie leader of processions of the dead, collecting the dead and leading them to pagan underworlds.",
+  "evidence": [
+   "magic-hedge-magic-revised::0638",
+   "magic-hedge-magic-revised::0639"
+  ]
+ },
+ {
+  "name": "Frau Holle",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie leader of processions of the dead, collecting the dead and leading them to pagan underworlds. She is also known to steal naughty children.",
+  "evidence": [
+   "magic-hedge-magic-revised::0638",
+   "magic-hedge-magic-revised::0639"
+  ]
+ },
+ {
+  "name": "Ricella",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie leader of processions of the dead, collecting the dead and leading them to pagan underworlds.",
+  "evidence": [
+   "magic-hedge-magic-revised::0638",
+   "magic-hedge-magic-revised::0639"
+  ]
+ },
+ {
+  "name": "Heriodas",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie leader of processions of the dead, collecting the dead and leading them to pagan underworlds.",
+  "evidence": [
+   "magic-hedge-magic-revised::0638",
+   "magic-hedge-magic-revised::0639"
+  ]
+ },
+ {
+  "name": "Herlichinus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon jester in fool's motley who leads the best-known Infernal procession of punished souls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0639"
+  ]
+ },
+ {
+  "name": "Beating the Boundaries",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Procession in which a militia patrols its community and teaches new members the borders of its protectorate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0640"
+  ]
+ },
+ {
+  "name": "Celebratory Processions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nightwalker feasts and processions where spirits of animals are eaten to regenerate Long Term Fatigue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0641",
+   "magic-hedge-magic-revised::0636"
+  ]
+ },
+ {
+  "name": "Night Battle Taboo",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Taboo forbidding nightwalkers and Infernal witches from speaking of their night battles, on pain of dream beatings.",
+  "evidence": [
+   "magic-hedge-magic-revised::0643"
+  ]
+ },
+ {
+  "name": "Northern Italy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where the benandanti are found and nightwalkers break Infernal curses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0603",
+   "magic-hedge-magic-revised::0645"
+  ]
+ },
+ {
+  "name": "Fennel",
+  "type": "Item",
+  "aliases": [],
+  "description": "Potently magical herb that repels disease demons and witches; the weapon of the benandanti.",
+  "evidence": [
+   "magic-hedge-magic-revised::0645",
+   "magic-hedge-magic-revised::0647",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Prometheus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titan who stole fire from the gods and hid it in a fennel stalk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0645"
+  ]
+ },
+ {
+  "name": "Theft of Fire",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Prometheus's theft of fire, which some magi think changed the relationship between Magic and Faerie.",
+  "evidence": [
+   "magic-hedge-magic-revised::0645"
+  ]
+ },
+ {
+  "name": "Ember Days",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Four seasonal fasts of the western Church whose Thursdays are when the benandanti fight; kresniks also battle then.",
+  "evidence": [
+   "magic-hedge-magic-revised::0647",
+   "magic-hedge-magic-revised::0662"
+  ]
+ },
+ {
+  "name": "Sorghum",
+  "type": "Item",
+  "aliases": [],
+  "description": "Plant used as weapons by the malandanti.",
+  "evidence": [
+   "magic-hedge-magic-revised::0647",
+   "magic-hedge-magic-revised::0653"
+  ]
+ },
+ {
+  "name": "Lady of the Game",
+  "type": "Creature",
+  "aliases": [
+   "Domina Ludi",
+   "The Lady"
+  ],
+  "description": "Anonymous powerful magical spirit in the form of a woman who leads nightwalker processions, appoints captains and resurrects eaten animals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0648",
+   "magic-hedge-magic-revised::0649",
+   "magic-hedge-magic-revised::0682"
+  ]
+ },
+ {
+  "name": "Transformed Animal",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granted to animals returned stronger after being eaten by a northern nightwalker tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0649"
+  ]
+ },
+ {
+  "name": "Aristeas",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient Greek poet and powerful straying magician serving Apollo, who keeps returning from death via his kolossos.",
+  "evidence": [
+   "magic-hedge-magic-revised::0649",
+   "magic-hedge-magic-revised::0650",
+   "magic-hedge-magic-revised::0651"
+  ]
+ },
+ {
+  "name": "Apollo",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek god whom Aristeas serves, accompanied by ravens in Arcadia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0649",
+   "magic-hedge-magic-revised::0650",
+   "magic-hedge-magic-revised::0651"
+  ]
+ },
+ {
+  "name": "Pliny",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient author who wrote about Aristeas and his kolossos.",
+  "evidence": [
+   "magic-hedge-magic-revised::0649",
+   "magic-hedge-magic-revised::0651"
+  ]
+ },
+ {
+  "name": "Herodotus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient historian who wrote about Aristeas.",
+  "evidence": [
+   "magic-hedge-magic-revised::0649"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Aristeas dwells as one of Apollo's ravens.",
+  "evidence": [
+   "magic-hedge-magic-revised::0650"
+  ]
+ },
+ {
+  "name": "Titanomachy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The war of the Titans and Greek Gods; a place of power from before it holds magical weapons.",
+  "evidence": [
+   "magic-hedge-magic-revised::0650"
+  ]
+ },
+ {
+  "name": "Kolossos",
+  "type": "Item",
+  "aliases": [],
+  "description": "Stone buried in place of an absent body, acting as an Arcane Connection anchoring the spirit; Aristeas's is a statue with a raven emerging from his mouth.",
+  "evidence": [
+   "magic-hedge-magic-revised::0651"
+  ]
+ },
+ {
+  "name": "Arno",
+  "type": "Character",
+  "aliases": [],
+  "description": "Benandante companion, a young smith who fights with a club of fennel.",
+  "evidence": [
+   "magic-hedge-magic-revised::0651",
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0653"
+  ]
+ },
+ {
+  "name": "Craftsman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the benandante Arno.",
+  "evidence": [
+   "magic-hedge-magic-revised::0651",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the benandante Arno.",
+  "evidence": [
+   "magic-hedge-magic-revised::0651",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Trait possessed by the benandante Arno.",
+  "evidence": [
+   "magic-hedge-magic-revised::0651",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Venus' Blessing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue replacing Sense Holiness and Unholiness when Arno is redesigned as a malandante.",
+  "evidence": [
+   "magic-hedge-magic-revised::0653"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Might score of Magic-realm beings; Arno as a weak ghost gets Magic Might 10.",
+  "evidence": [
+   "magic-hedge-magic-revised::0653"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of lycanthropes who take the form of an animal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0654"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of lycanthropes who take animal or hybrid forms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0654"
+  ]
+ },
+ {
+  "name": "Hamr",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing the projection of an animalistic phantasticum at a distance after a trance.",
+  "evidence": [
+   "magic-hedge-magic-revised::0654"
+  ]
+ },
+ {
+  "name": "Werewolves",
+  "type": "Creature",
+  "aliases": [
+   "werewolf",
+   "lycanthropes"
+  ],
+  "description": "Many forms exist in Mythic Europe; the Hounds of God are werewolves who besiege Hell.",
+  "evidence": [
+   "magic-hedge-magic-revised::0654",
+   "magic-hedge-magic-revised::0655"
+  ]
+ },
+ {
+  "name": "Toasting Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rite by which a Hound of God passes his power to one who toasts his health, blowing three times across the bottle.",
+  "evidence": [
+   "magic-hedge-magic-revised::0655",
+   "magic-hedge-magic-revised::0673"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "aliases": [],
+  "description": "Raided by the Hounds of God three times a year to recapture stolen seeds; entered by traveling to the end of the sea.",
+  "evidence": [
+   "magic-hedge-magic-revised::0654",
+   "magic-hedge-magic-revised::0656"
+  ]
+ },
+ {
+  "name": "Infernal Sentries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Guardians of Hell who fight the Hounds of God with iron batons.",
+  "evidence": [
+   "magic-hedge-magic-revised::0656"
+  ]
+ },
+ {
+  "name": "Poland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Area with German minorities where Hounds of God are found.",
+  "evidence": [
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Rothiger",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hound of God companion, an itinerant laborer werewolf with red hair who loves to kill in wolf form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658",
+   "magic-hedge-magic-revised::0659"
+  ]
+ },
+ {
+  "name": "Wanderer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the Hound of God Rothiger (human or wolf form).",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the Hound of God Rothiger (human or wolf form).",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the Hound of God Rothiger (human or wolf form).",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658"
+  ]
+ },
+ {
+  "name": "Ferocity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the Hound of God Rothiger (human or wolf form).",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the Hound of God Rothiger (human or wolf form).",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Trait possessed by the Hound of God Rothiger (human or wolf form).",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Trait possessed by the Hound of God Rothiger (human or wolf form).",
+  "evidence": [
+   "magic-hedge-magic-revised::0657",
+   "magic-hedge-magic-revised::0658"
+  ]
+ },
+ {
+  "name": "Pack Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Profession: Laborer",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0613",
+   "magic-hedge-magic-revised::0614",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0624",
+   "magic-hedge-magic-revised::0630",
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0657"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652",
+   "magic-hedge-magic-revised::0653"
+  ]
+ },
+ {
+  "name": "Craft: Smith",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Home Village Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0652"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0617",
+   "magic-hedge-magic-revised::0618",
+   "magic-hedge-magic-revised::0637"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0617",
+   "magic-hedge-magic-revised::0637",
+   "magic-hedge-magic-revised::0653"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by nightwalker characters in this chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0608",
+   "magic-hedge-magic-revised::0611",
+   "magic-hedge-magic-revised::0700"
+  ]
+ },
+ {
+  "name": "Kresniki",
+  "type": "Faction",
+  "aliases": [
+   "kresnik",
+   "Kresniks"
+  ],
+  "description": "Slavic nightwalkers, each a community's protector, fighting kudlaki with dappled phantastica.",
+  "evidence": [
+   "magic-hedge-magic-revised::0660",
+   "magic-hedge-magic-revised::0661",
+   "magic-hedge-magic-revised::0662"
+  ]
+ },
+ {
+  "name": "Kudlaki",
+  "type": "Faction",
+  "aliases": [
+   "kudlak",
+   "Vokudlak"
+  ],
+  "description": "Slavic sorcerer nightwalkers who steal a community's fertility and become vampires after death.",
+  "evidence": [
+   "magic-hedge-magic-revised::0660",
+   "magic-hedge-magic-revised::0661",
+   "magic-hedge-magic-revised::0662"
+  ]
+ },
+ {
+  "name": "Vampires",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Undead form a dead kudlak becomes; repelled by hawthorn.",
+  "evidence": [
+   "magic-hedge-magic-revised::0660",
+   "magic-hedge-magic-revised::0664"
+  ]
+ },
+ {
+  "name": "Hawthorn",
+  "type": "Item",
+  "aliases": [],
+  "description": "Plant that repels vampires; a hawthorn stake prevents a kudlak's return.",
+  "evidence": [
+   "magic-hedge-magic-revised::0660",
+   "magic-hedge-magic-revised::0664",
+   "magic-hedge-magic-revised::0665"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Kudlaks that defeat their kresnik gain this Virtue until the next battle.",
+  "evidence": [
+   "magic-hedge-magic-revised::0662"
+  ]
+ },
+ {
+  "name": "Corsica",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island home of the mazzeri tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0664"
+  ]
+ },
+ {
+  "name": "Asphodel",
+  "type": "Item",
+  "aliases": [],
+  "description": "Plant connected to the dead, used as weapons by mazzeri and sacred to Persephone.",
+  "evidence": [
+   "magic-hedge-magic-revised::0664",
+   "magic-hedge-magic-revised::0665"
+  ]
+ },
+ {
+  "name": "Carna",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient Roman goddess who protected a princeling from vampires with hawthorn.",
+  "evidence": [
+   "magic-hedge-magic-revised::0664",
+   "magic-hedge-magic-revised::0665"
+  ]
+ },
+ {
+  "name": "Crown of Thorns",
+  "type": "Item",
+  "aliases": [],
+  "description": "Hawthorn crown placed on Jesus's brow, symbol of His sacrifice.",
+  "evidence": [
+   "magic-hedge-magic-revised::0664",
+   "magic-hedge-magic-revised::0665"
+  ]
+ },
+ {
+  "name": "Ovid",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman poet who reported hawthorn use against vampires.",
+  "evidence": [
+   "magic-hedge-magic-revised::0664"
+  ]
+ },
+ {
+  "name": "Persephone",
+  "type": "Character",
+  "aliases": [],
+  "description": "Queen of the Underworld, to whom asphodel is sacred.",
+  "evidence": [
+   "magic-hedge-magic-revised::0665"
+  ]
+ },
+ {
+  "name": "Fields of Asphodel",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where the Greeks thought most spirits in Hades dwelled.",
+  "evidence": [
+   "magic-hedge-magic-revised::0665"
+  ]
+ },
+ {
+  "name": "Hungary",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land of the taltós, converted to Christianity centuries ago.",
+  "evidence": [
+   "magic-hedge-magic-revised::0666"
+  ]
+ },
+ {
+  "name": "Pharmacopeians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Tradition of which taltós are suggested as a regional variant.",
+  "evidence": [
+   "magic-hedge-magic-revised::0666"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House that competed with taltós for apprentices, holds a Certamen Focus, and used nightwalkers in the Schism War.",
+  "evidence": [
+   "magic-hedge-magic-revised::0666",
+   "magic-hedge-magic-revised::0675",
+   "magic-hedge-magic-revised::0679"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House that moved the Axis Magica and has the Path of Seeming; hopes to find a Magyar shaman.",
+  "evidence": [
+   "magic-hedge-magic-revised::0666",
+   "magic-hedge-magic-revised::0677",
+   "magic-hedge-magic-revised::0681"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House that would probably aid the Lady of the Game.",
+  "evidence": [
+   "magic-hedge-magic-revised::0682"
+  ]
+ },
+ {
+  "name": "Axis Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical axis moved by House Criamon, contributing to the waning of the taltós tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0666"
+  ]
+ },
+ {
+  "name": "Magyar Shamans",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Pagan Hungarian shamans with the full taltós powers, including immortality until their Mystery passes on.",
+  "evidence": [
+   "magic-hedge-magic-revised::0666",
+   "magic-hedge-magic-revised::0681"
+  ]
+ },
+ {
+  "name": "Half Taltós",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue for a young taltós who fails his initiatory fight.",
+  "evidence": [
+   "magic-hedge-magic-revised::0667"
+  ]
+ },
+ {
+  "name": "Great Tree",
+  "type": "Place",
+  "aliases": [],
+  "description": "The tree that holds the world together, climbed by taltós in vision quests to reach other worlds.",
+  "evidence": [
+   "magic-hedge-magic-revised::0667",
+   "magic-hedge-magic-revised::0681"
+  ]
+ },
+ {
+  "name": "Flame Shape",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Taltós phantastic form as a ball or wheel of flame, physically like an elemental of Might 10.",
+  "evidence": [
+   "magic-hedge-magic-revised::0669",
+   "magic-hedge-magic-revised::0670",
+   "magic-hedge-magic-revised::0671"
+  ]
+ },
+ {
+  "name": "Mythic Companions",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Powerful companion characters; some nightwalker traditions provide characters of sufficient power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0672"
+  ]
+ },
+ {
+  "name": "Gifted Companions",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Gifted characters who might be inducted into the Order, including Gifted nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0673"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic ritual duel, actually based on the spiritual battles of nightwalkers and Lappish shamans.",
+  "evidence": [
+   "magic-hedge-magic-revised::0674",
+   "magic-hedge-magic-revised::0675",
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder believed to have received Thessalian magic for certamen from Trianoma or Viea.",
+  "evidence": [
+   "magic-hedge-magic-revised::0674"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure believed to have given Thessalian magic to Bonisagus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0674"
+  ]
+ },
+ {
+  "name": "Viea",
+  "type": "Character",
+  "aliases": [],
+  "description": "Trianoma's sister, a historical figure with no love for the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0674",
+   "magic-hedge-magic-revised::0682"
+  ]
+ },
+ {
+  "name": "Thessalian Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic magi wrongly believe certamen descends from.",
+  "evidence": [
+   "magic-hedge-magic-revised::0674"
+  ]
+ },
+ {
+  "name": "Laplander Shamans",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Shamans who battle in phantastic form, suffering fatigue; the true origin of certamen.",
+  "evidence": [
+   "magic-hedge-magic-revised::0675"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Wizard's Twilight"
+  ],
+  "description": "Hermetic experience; shaman collisions provoke something similar, and vitkir experience Nátt-thel instead.",
+  "evidence": [
+   "magic-hedge-magic-revised::0675",
+   "magic-hedge-magic-revised::0700"
+  ]
+ },
+ {
+  "name": "Focus (Certamen)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "House Tremere's House Virtue, expressing Insight into nightwalking.",
+  "evidence": [
+   "magic-hedge-magic-revised::0675",
+   "magic-hedge-magic-revised::0676"
+  ]
+ },
+ {
+  "name": "Major Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Research achievement needed to extend certamen to true nightwalking.",
+  "evidence": [
+   "magic-hedge-magic-revised::0675",
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art mentioned in determining a Hermetic nightwalker's corporeal phantasticum shape.",
+  "evidence": [
+   "magic-hedge-magic-revised::0676"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art mentioned in determining a Hermetic nightwalker's corporeal phantasticum shape.",
+  "evidence": [
+   "magic-hedge-magic-revised::0676"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art mentioned in determining a Hermetic nightwalker's corporeal phantasticum shape.",
+  "evidence": [
+   "magic-hedge-magic-revised::0676"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art mentioned in determining a Hermetic nightwalker's corporeal phantasticum shape.",
+  "evidence": [
+   "magic-hedge-magic-revised::0676"
+  ]
+ },
+ {
+  "name": "Path of Seeming",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Criamon Path whose senior magi can spirit travel but not generate a phantasticum.",
+  "evidence": [
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Cave of Twisting Shadows",
+  "type": "Place",
+  "aliases": [],
+  "description": "Criamon domus magna, near which a shamanic tradition originated.",
+  "evidence": [
+   "magic-hedge-magic-revised::0677",
+   "magic-hedge-magic-revised::0681"
+  ]
+ },
+ {
+  "name": "Muscaria",
+  "type": "Character",
+  "aliases": [],
+  "description": "Current prima of House Criamon, named after an intoxicating mushroom.",
+  "evidence": [
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Pythagoras",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher able to seem in two cities at once; linked to ekstasis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Station of Passing Through Seeming",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Station of the Path of Seeming relevant to Breakthroughs into nightwalking.",
+  "evidence": [
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Path of Walking Backwards",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Violent Criamon Path that may develop certamen-based nightwalking.",
+  "evidence": [
+   "magic-hedge-magic-revised::0677"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic ritual protecting covenants that does not hold back Might-less nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0679"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War during which House Tremere used nightwalkers to good effect.",
+  "evidence": [
+   "magic-hedge-magic-revised::0679"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Magi who hunted immortal Magyar shamans.",
+  "evidence": [
+   "magic-hedge-magic-revised::0681"
+  ]
+ },
+ {
+  "name": "Diedne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Historical figure with no love for the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0682"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine influence the Lady of the Game helps spread.",
+  "evidence": [
+   "magic-hedge-magic-revised::0682"
+  ]
+ },
+ {
+  "name": "Adulteration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A psychic shadow of a Criamon magus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0682"
+  ]
+ },
+ {
+  "name": "Enigma",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Criamon mystery whose answer requires gathering missing Primi.",
+  "evidence": [
+   "magic-hedge-magic-revised::0682"
+  ]
+ },
+ {
+  "name": "Vitkir",
+  "type": "CharacterType",
+  "aliases": [
+   "vitki",
+   "vitkar"
+  ],
+  "description": "Norse rune wizards, Gifted hedge magicians who carve runes; singular vitki.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683",
+   "magic-hedge-magic-revised::0684",
+   "magic-hedge-magic-revised::0693"
+  ]
+ },
+ {
+  "name": "Runes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The 24 runes of the vitkir, Accelerated Abilities used to craft magical effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683",
+   "magic-hedge-magic-revised::0719"
+  ]
+ },
+ {
+  "name": "Ultima Thule",
+  "type": "Place",
+  "aliases": [],
+  "description": "Latin name for the utmost north.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where vitkar rune magic spread.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683"
+  ]
+ },
+ {
+  "name": "Denmark",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where vitkar rune magic spread.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683"
+  ]
+ },
+ {
+  "name": "Iceland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where vitkar rune magic spread.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683"
+  ]
+ },
+ {
+  "name": "Britannia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where vitkar rune magic spread.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683"
+  ]
+ },
+ {
+  "name": "Germany",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where vitkar rune magic spread.",
+  "evidence": [
+   "magic-hedge-magic-revised::0683"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Required of vitkir; lost during Nátt-thel.",
+  "evidence": [
+   "magic-hedge-magic-revised::0684",
+   "magic-hedge-magic-revised::0700",
+   "magic-hedge-magic-revised::0703"
+  ]
+ },
+ {
+  "name": "Craft: Runes",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to carve or inscribe runes, affecting durability and hiding.",
+  "evidence": [
+   "magic-hedge-magic-revised::0684",
+   "magic-hedge-magic-revised::0697"
+  ]
+ },
+ {
+  "name": "Old Norse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language Ability required for vitkar inscriptions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0684"
+  ]
+ },
+ {
+  "name": "Rune Magic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability of how vitkar magic works.",
+  "evidence": [
+   "magic-hedge-magic-revised::0684",
+   "magic-hedge-magic-revised::0698"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability vitkir don't need to read runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0684"
+  ]
+ },
+ {
+  "name": "Vitki",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status Virtue required of all vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0685",
+   "magic-hedge-magic-revised::0693",
+   "magic-hedge-magic-revised::0694"
+  ]
+ },
+ {
+  "name": "Damhan-Allaidh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Enemy in war against the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0685"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Oath"
+  ],
+  "description": "The Hermetic Oath stating that the enemies of the Order are my enemies.",
+  "evidence": [
+   "magic-hedge-magic-revised::0686"
+  ]
+ },
+ {
+  "name": "Seithr",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Viking women's witchcraft taught by Gullveig.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Gullveig",
+  "type": "Character",
+  "aliases": [],
+  "description": "Wicked giantess who taught seithr.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norse god who gave runes to men.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687",
+   "magic-hedge-magic-revised::0702"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Mythic Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Affinity with (Rune)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Cyclic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Free Study",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Inoffensive to Animals",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Life Boost",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Puissant (Rune)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Side Effect",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Special Circumstances",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0687"
+  ]
+ },
+ {
+  "name": "Deft Rune",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue: no penalty when omitting name.",
+  "evidence": [
+   "magic-hedge-magic-revised::0688"
+  ]
+ },
+ {
+  "name": "Fast Caster",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue: inscribes runes in half time.",
+  "evidence": [
+   "magic-hedge-magic-revised::0688"
+  ]
+ },
+ {
+  "name": "Major Rune Focus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue: doubles rune score.",
+  "evidence": [
+   "magic-hedge-magic-revised::0688"
+  ]
+ },
+ {
+  "name": "Mastered Rune",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue reducing botch dice.",
+  "evidence": [
+   "magic-hedge-magic-revised::0688",
+   "magic-hedge-magic-revised::0689"
+  ]
+ },
+ {
+  "name": "Minor Rune Focus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue: single-rune focus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0689"
+  ]
+ },
+ {
+  "name": "Nameless Runes",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue: cast without name.",
+  "evidence": [
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Secondary Insight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue: experience in aett.",
+  "evidence": [
+   "magic-hedge-magic-revised::0692",
+   "magic-hedge-magic-revised::0693"
+  ]
+ },
+ {
+  "name": "Secret Runes",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue: hide runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0693"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Magic Addiction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Painful Magic Restriction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Careless Sorcerer",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Deleterious Circumstances",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Disorienting Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Offensive to Animals",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Susceptibility to Divine Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Susceptibility to Faerie Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Susceptibility to Infernal Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Warped Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Weird Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Supernatural Flaw available to vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Major Magical Deficiency",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw with an aett.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Minor Magical Deficiency",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw with three runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695",
+   "magic-hedge-magic-revised::0706"
+  ]
+ },
+ {
+  "name": "Nátt-thel Prone",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw: Nátt-thel on single botch.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695",
+   "magic-hedge-magic-revised::0706"
+  ]
+ },
+ {
+  "name": "Short-Lived Runes",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw: runes' magic fades.",
+  "evidence": [
+   "magic-hedge-magic-revised::0695",
+   "magic-hedge-magic-revised::0696"
+  ]
+ },
+ {
+  "name": "Slow Caster",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw: twice as long to carve.",
+  "evidence": [
+   "magic-hedge-magic-revised::0696"
+  ]
+ },
+ {
+  "name": "Vitkar Magic Foci",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vitkar magic focus tied to a purpose and material.",
+  "evidence": [
+   "magic-hedge-magic-revised::0688",
+   "magic-hedge-magic-revised::0689",
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Victory Runes",
+  "type": "Concept",
+  "aliases": [
+   "Sigrúnar"
+  ],
+  "description": "Vitkar magic focus carved into weapons.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Ale Runes",
+  "type": "Concept",
+  "aliases": [
+   "Olúnar"
+  ],
+  "description": "Vitkar magic focus carved on horn.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Fertility Runes",
+  "type": "Concept",
+  "aliases": [
+   "Biargrúnar"
+  ],
+  "description": "Vitkar magic focus carved on coins.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Sea Runes",
+  "type": "Concept",
+  "aliases": [
+   "Brimrúnar"
+  ],
+  "description": "Vitkar magic focus on ships.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Healing Runes",
+  "type": "Concept",
+  "aliases": [
+   "Limrúnar"
+  ],
+  "description": "Vitkar magic focus on bone.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Speech Runes",
+  "type": "Concept",
+  "aliases": [
+   "Malrúnar"
+  ],
+  "description": "Vitkar magic focus on wood.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Wisdom Runes",
+  "type": "Concept",
+  "aliases": [
+   "Hugrúnar"
+  ],
+  "description": "Vitkar magic focus on stone.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Strength Runes",
+  "type": "Concept",
+  "aliases": [
+   "Meginrúnar"
+  ],
+  "description": "Vitkar magic focus on impossible things.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0691",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Sigrdrífumál",
+  "type": "Item",
+  "aliases": [],
+  "description": "Medieval poem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Sigrdrífa",
+  "type": "Character",
+  "aliases": [],
+  "description": "Valkyrie who teaches Sigurðr.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Sigurðr",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero taught rune magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690",
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Tiwaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Othila",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Ehwaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Algiz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Naudiz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Perth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Fehu",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Ingwaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Jera",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0690"
+  ]
+ },
+ {
+  "name": "Laguz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Raido",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Hagalaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Berkanan",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Dagaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Wunjo",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Ansuz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Gebo",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Mannaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Ihwaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Sowilo",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Kauno",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0691"
+  ]
+ },
+ {
+  "name": "Uruz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Thurisaz",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Isa",
+  "type": "Ability",
+  "aliases": [],
+  "description": "One of the 24 vitkar runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0692"
+  ]
+ },
+ {
+  "name": "Aett",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Group of seven runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0692",
+   "magic-hedge-magic-revised::0693",
+   "magic-hedge-magic-revised::0695"
+  ]
+ },
+ {
+  "name": "Icelandic Rune Poem",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rune poem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0698",
+   "magic-hedge-magic-revised::0699"
+  ]
+ },
+ {
+  "name": "Norwegian Rune Poem",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rune poem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0698",
+   "magic-hedge-magic-revised::0699"
+  ]
+ },
+ {
+  "name": "Anglo-Saxon Rune Poem",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rune poem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0698",
+   "magic-hedge-magic-revised::0699"
+  ]
+ },
+ {
+  "name": "Younger Futhark",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Runic alphabet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0699"
+  ]
+ },
+ {
+  "name": "Futhorc",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Runic alphabet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0699"
+  ]
+ },
+ {
+  "name": "Nátt-thel",
+  "type": "Concept",
+  "aliases": [
+   "Natt-thel"
+  ],
+  "description": "'Darkest part of night'; vitki equivalent of Twilight losing The Gift.",
+  "evidence": [
+   "magic-hedge-magic-revised::0700",
+   "magic-hedge-magic-revised::0701",
+   "magic-hedge-magic-revised::0702"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical exposure; triggers Nátt-thel.",
+  "evidence": [
+   "magic-hedge-magic-revised::0700",
+   "magic-hedge-magic-revised::0709"
+  ]
+ },
+ {
+  "name": "Odin's Sacrifice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual of hanging nine days on ash tree.",
+  "evidence": [
+   "magic-hedge-magic-revised::0702",
+   "magic-hedge-magic-revised::0703",
+   "magic-hedge-magic-revised::0704"
+  ]
+ },
+ {
+  "name": "Alfar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elves.",
+  "evidence": [
+   "magic-hedge-magic-revised::0704"
+  ]
+ },
+ {
+  "name": "Laering",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Vitki apprentice.",
+  "evidence": [
+   "magic-hedge-magic-revised::0706"
+  ]
+ },
+ {
+  "name": "Opening the Runes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Opening an apprentice's runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0703",
+   "magic-hedge-magic-revised::0706"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "makt"
+  ],
+  "description": "Raw magical power; vitkir call it makt.",
+  "evidence": [
+   "magic-hedge-magic-revised::0706",
+   "magic-hedge-magic-revised::0707",
+   "magic-hedge-magic-revised::0718"
+  ]
+ },
+ {
+  "name": "Havamal",
+  "type": "Item",
+  "aliases": [],
+  "description": "Norse poem quoted.",
+  "evidence": [
+   "magic-hedge-magic-revised::0708"
+  ]
+ },
+ {
+  "name": "Rune Scripts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vitkar formula like formulaic spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0711",
+   "magic-hedge-magic-revised::0712",
+   "magic-hedge-magic-revised::0714"
+  ]
+ },
+ {
+  "name": "Opening the Intangible Tunnel",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell similar to runic connection.",
+  "evidence": [
+   "magic-hedge-magic-revised::0710"
+  ]
+ },
+ {
+  "name": "Eirik",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example vitki.",
+  "evidence": [
+   "magic-hedge-magic-revised::0712",
+   "magic-hedge-magic-revised::0713",
+   "magic-hedge-magic-revised::0714"
+  ]
+ },
+ {
+  "name": "Vitkar Lab Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rune+Int+Rune Magic+Aura.",
+  "evidence": [
+   "magic-hedge-magic-revised::0714",
+   "magic-hedge-magic-revised::0715"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura modifier.",
+  "evidence": [
+   "magic-hedge-magic-revised::0703",
+   "magic-hedge-magic-revised::0714",
+   "magic-hedge-magic-revised::0716"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0645",
+   "magic-hedge-magic-revised::0638"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Faerie.",
+  "evidence": [
+   "magic-hedge-magic-revised::0638",
+   "magic-hedge-magic-revised::0645",
+   "magic-hedge-magic-revised::0648"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of the Infernal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0602",
+   "magic-hedge-magic-revised::0628",
+   "magic-hedge-magic-revised::0638"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of the Divine.",
+  "evidence": [
+   "magic-hedge-magic-revised::0628",
+   "magic-hedge-magic-revised::0638"
+  ]
+ }
+]

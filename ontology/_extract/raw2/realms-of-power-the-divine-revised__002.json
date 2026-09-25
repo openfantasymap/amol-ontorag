@@ -1,0 +1,2311 @@
+[
+ {
+  "name": "Methods",
+  "type": "Concept",
+  "aliases": [
+   "Method",
+   "Holy Method"
+  ],
+  "description": "Supernatural Abilities describing what a holy character must do to activate a miraculous effect; combined with a Power to produce it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0240",
+   "realms-of-power-the-divine-revised::0243",
+   "realms-of-power-the-divine-revised::0250"
+  ]
+ },
+ {
+  "name": "Powers",
+  "type": "Concept",
+  "aliases": [
+   "Power",
+   "Holy Powers"
+  ],
+  "description": "Supernatural Abilities describing the range of miraculous effects possible with particular Methods; seven are described.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0240",
+   "realms-of-power-the-divine-revised::0248",
+   "realms-of-power-the-divine-revised::0250"
+  ]
+ },
+ {
+  "name": "Miraculous Effects",
+  "type": "Concept",
+  "aliases": [
+   "holy effects",
+   "Effect Total"
+  ],
+  "description": "Limited but reliable supernatural effects produced by holy characters by combining a Method and a Power, rolled against a target level.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0240",
+   "realms-of-power-the-divine-revised::0248",
+   "realms-of-power-the-divine-revised::0249"
+  ]
+ },
+ {
+  "name": "Tragedy of Hubris",
+  "type": "Concept",
+  "aliases": [
+   "tragedies of hubris",
+   "Minor Tragedy",
+   "Major Tragedy",
+   "Ultimate Tragedy"
+  ],
+  "description": "Supernatural retribution suffered when a holy effect fails, ranging from minor to ultimate tragedies such as curses, lost abilities, Flaws or wounds.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0240",
+   "realms-of-power-the-divine-revised::0241",
+   "realms-of-power-the-divine-revised::0242"
+  ]
+ },
+ {
+  "name": "Holy Tradition",
+  "type": "Concept",
+  "aliases": [
+   "tradition",
+   "holy traditions"
+  ],
+  "description": "A group of like-minded holy people organized around favored divine Abilities, through which Methods and Powers are learned.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0244",
+   "realms-of-power-the-divine-revised::0245",
+   "realms-of-power-the-divine-revised::0246"
+  ]
+ },
+ {
+  "name": "Favored Abilities",
+  "type": "Concept",
+  "description": "The few Abilities, usually Methods and Powers, that a holy tradition favors; characters with True Faith may study them without the Supernatural Ability penalty.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0244",
+   "realms-of-power-the-divine-revised::0245",
+   "realms-of-power-the-divine-revised::0246"
+  ]
+ },
+ {
+  "name": "Holy Connection",
+  "type": "Concept",
+  "description": "The holy equivalent of an Arcane Connection, formed through religious ceremonies, prayer, holy authority or consecration.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0248",
+   "realms-of-power-the-divine-revised::0249",
+   "realms-of-power-the-divine-revised::0255"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [
+   "vera fides",
+   "True Faith Score",
+   "True Gift"
+  ],
+  "description": "Major Virtue representing a reciprocated relationship between a person and God, granting a True Faith Score, Faith Points and Magic Resistance equal to Score x 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0284",
+   "realms-of-power-the-divine-revised::0290",
+   "realms-of-power-the-divine-revised::0298"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "aliases": [
+   "Faith Point"
+  ],
+  "description": "Points gained from True Faith, sacraments, pilgrimage or holy acts, spent like Confidence or to pray for a miracle.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0290",
+   "realms-of-power-the-divine-revised::0297",
+   "realms-of-power-the-divine-revised::0307"
+  ]
+ },
+ {
+  "name": "Miracles",
+  "type": "Concept",
+  "aliases": [
+   "miracle",
+   "Praying for Miracles"
+  ],
+  "description": "Signs and actions of God performed directly or through an agent; they have infinite Penetration and cannot be resisted or undone by any other power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0306",
+   "realms-of-power-the-divine-revised::0308",
+   "realms-of-power-the-divine-revised::0313"
+  ]
+ },
+ {
+  "name": "Miracle Timeliness",
+  "type": "Concept",
+  "description": "Modifier to a miracle's level based on how quickly it manifests, from Immediate (+10) to Generation (-20).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0309",
+   "realms-of-power-the-divine-revised::0310"
+  ]
+ },
+ {
+  "name": "Miracle Need",
+  "type": "Concept",
+  "description": "Modifier to a miracle's level based on how desperate or deserving the supplicant is, from Calamitous (-15) to Impious (+20).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0311",
+   "realms-of-power-the-divine-revised::0308"
+  ]
+ },
+ {
+  "name": "Tests of Faith",
+  "type": "Concept",
+  "description": "Trials or ordeals by which God assesses a follower's devotion, often suspending Faith Points or Holy Virtues until fulfilled.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0300",
+   "realms-of-power-the-divine-revised::0301"
+  ]
+ },
+ {
+  "name": "Crisis of Faith",
+  "type": "Concept",
+  "aliases": [
+   "Crises of Faith"
+  ],
+  "description": "The loss of True Faith, when God turns His gaze away and the character must remain steadfast to regain it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0301",
+   "realms-of-power-the-divine-revised::0302",
+   "realms-of-power-the-divine-revised::0303"
+  ]
+ },
+ {
+  "name": "Saintly Reputation",
+  "type": "Concept",
+  "description": "Reputation gained by a saintly character for miracles witnessed; a character with a True Faith Score cannot gain a negative Reputation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0305"
+  ]
+ },
+ {
+  "name": "Embodying the Light",
+  "type": "Concept",
+  "description": "Cumulative powers of divine light gained at True Faith Scores 2, 3 and 5, based on the theological virtues Devotion, Hope and Charity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0315",
+   "realms-of-power-the-divine-revised::0316",
+   "realms-of-power-the-divine-revised::0318"
+  ]
+ },
+ {
+  "name": "Devotion",
+  "type": "Concept",
+  "description": "Theological virtue (normally called Faith); at True Faith 2 grants Premonitions and the ability to dispel illusions and glamour with a Faith Point.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0315",
+   "realms-of-power-the-divine-revised::0316"
+  ]
+ },
+ {
+  "name": "Hope",
+  "type": "Concept",
+  "description": "Theological virtue of unshakable confidence in divine providence; at True Faith 3 Faith Points add 6 and Magic Resistance against Mentem is doubled.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0317",
+   "realms-of-power-the-divine-revised::0339"
+  ]
+ },
+ {
+  "name": "Charity",
+  "type": "Concept",
+  "aliases": [
+   "Virtue of Love"
+  ],
+  "description": "Theological virtue of complete love of God; at True Faith 5 the character radiates an Empyreal aura.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0318",
+   "realms-of-power-the-divine-revised::0339"
+  ]
+ },
+ {
+  "name": "Faith (Virtue)",
+  "type": "Concept",
+  "description": "Theological virtue of firm assurance and conviction in things unseen; the acceptance of God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0339",
+   "realms-of-power-the-divine-revised::0338"
+  ]
+ },
+ {
+  "name": "Justice",
+  "type": "Concept",
+  "description": "Moral (Cardinal) virtue creating respect toward others, source of piety, gratitude and duty.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0338"
+  ]
+ },
+ {
+  "name": "Fortitude",
+  "type": "Concept",
+  "description": "Moral (Cardinal) virtue of willingness to take risks against insurmountable danger, helping resist fear.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0338",
+   "realms-of-power-the-divine-revised::0339"
+  ]
+ },
+ {
+  "name": "Temperance",
+  "type": "Concept",
+  "description": "Moral (Cardinal) virtue that moderates inappropriate desire; chosen by Arshaq ibn Kareem in the Divine Unity example.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0337",
+   "realms-of-power-the-divine-revised::0338",
+   "realms-of-power-the-divine-revised::0339"
+  ]
+ },
+ {
+  "name": "Wisdom",
+  "type": "Concept",
+  "description": "Moral (Cardinal) virtue of greatness of soul and understanding of truth, guiding prudent judgment.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0339"
+  ]
+ },
+ {
+  "name": "Moral Virtues",
+  "type": "Concept",
+  "aliases": [
+   "Capital virtues",
+   "Cardinal Virtues"
+  ],
+  "description": "Also Capital or Cardinal virtues (Justice, Fortitude, Temperance, Wisdom) that moderate fleshly desire.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0338"
+  ]
+ },
+ {
+  "name": "Theological Virtues",
+  "type": "Concept",
+  "description": "Faith, Hope and Charity, which infuse celestial traits into the soul directly from the Divine Realm.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0315",
+   "realms-of-power-the-divine-revised::0339"
+  ]
+ },
+ {
+  "name": "Islamic Virtues",
+  "type": "Concept",
+  "description": "Virtues inspired by the Qur'an such as Righteousness, Generosity, Gratitude, Humility, Mercy and Patience.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0340"
+  ]
+ },
+ {
+  "name": "Divine Warping",
+  "type": "Concept",
+  "description": "Warping from Divine sources such as auras, powerful Divine effects and Divine botches, producing visions, stigmata and angelic transfigurations.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0319",
+   "realms-of-power-the-divine-revised::0320",
+   "realms-of-power-the-divine-revised::0324"
+  ]
+ },
+ {
+  "name": "Divine Ascent",
+  "type": "Concept",
+  "aliases": [
+   "Divine Ascension",
+   "Ascension"
+  ],
+  "description": "Unique form of Warping experienced by holy characters, codified by Dionysus the Areopagite, taking the forms Divine Gloom, Divine Form or Divine Unity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0319",
+   "realms-of-power-the-divine-revised::0325",
+   "realms-of-power-the-divine-revised::0326"
+  ]
+ },
+ {
+  "name": "Divine Gloom",
+  "type": "Concept",
+  "description": "Form of Divine Ascent in which the character loses knowledge of the mundane while gaining comprehension of the Divine; akin to Hermetic Twilight.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0325",
+   "realms-of-power-the-divine-revised::0329",
+   "realms-of-power-the-divine-revised::0330"
+  ]
+ },
+ {
+  "name": "Divine Form",
+  "type": "Concept",
+  "description": "Form of Divine Ascent transforming the character toward pure holiness, functioning like The Commanding Aura but punishing sin severely.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0325",
+   "realms-of-power-the-divine-revised::0332",
+   "realms-of-power-the-divine-revised::0334"
+  ]
+ },
+ {
+  "name": "Divine Unity",
+  "type": "Concept",
+  "description": "Form of Divine Ascent in which the character personifies a single virtue, affecting others and the Temper of auras.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0325",
+   "realms-of-power-the-divine-revised::0336",
+   "realms-of-power-the-divine-revised::0337"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points",
+   "Warping Score"
+  ],
+  "description": "Supernatural change accumulated from auras and powerful effects, measured in Warping Points and Score.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242",
+   "realms-of-power-the-divine-revised::0319",
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Twilight"
+  ],
+  "description": "Hermetic Warping experience; Hermetic magi with True Faith experience Twilight, and Divine Gloom is considered its Divine counterpart.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0325",
+   "realms-of-power-the-divine-revised::0329",
+   "realms-of-power-the-divine-revised::0358"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance to supernatural effects, granted by True Faith, Blessing effects, Parma Magica or Divine Form.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0259",
+   "realms-of-power-the-divine-revised::0260",
+   "realms-of-power-the-divine-revised::0290"
+  ]
+ },
+ {
+  "name": "Divine Might",
+  "type": "Concept",
+  "description": "Might score of Divine beings; a dead character with True Faith is invested with Divine Might equal to True Faith Score x 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0284",
+   "realms-of-power-the-divine-revised::0281",
+   "realms-of-power-the-divine-revised::0306"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "description": "Score of a supernatural creature's power, targeted by Adjuration and Cursing effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0253",
+   "realms-of-power-the-divine-revised::0262"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "aliases": [
+   "Dominion aura"
+  ],
+  "description": "The Divine aura, most common source of Warping in Mythic Europe; holy magi may use it for laboratory activities.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0308",
+   "realms-of-power-the-divine-revised::0319",
+   "realms-of-power-the-divine-revised::0354"
+  ]
+ },
+ {
+  "name": "Divine Aura",
+  "type": "Concept",
+  "description": "Aura of the Divine realm, strongest around church altars; can be tempered and causes Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0258",
+   "realms-of-power-the-divine-revised::0321"
+  ]
+ },
+ {
+  "name": "Empyreal Aura",
+  "type": "Concept",
+  "description": "A Divine aura type radiated by characters with True Faith Score 5 or more.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0318",
+   "realms-of-power-the-divine-revised::0327"
+  ]
+ },
+ {
+  "name": "Aura Temper",
+  "type": "Concept",
+  "aliases": [
+   "Temper"
+  ],
+  "description": "The Personality-trait coloring of a Divine aura, which a Blessing or Divine Unity character can alter.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0259",
+   "realms-of-power-the-divine-revised::0318",
+   "realms-of-power-the-divine-revised::0337"
+  ]
+ },
+ {
+  "name": "Holy Influence",
+  "type": "Ability",
+  "description": "Ability by which a holy character affects people's Personality Traits and the Temper of the aura.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0337"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones",
+   "Celestial regio",
+   "terrestrial regio",
+   "divine regio"
+  ],
+  "description": "Supernatural area of layered levels; Intervention can perceive or create terrestrial or Celestial regiones.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0266",
+   "realms-of-power-the-divine-revised::0268",
+   "realms-of-power-the-divine-revised::0327"
+  ]
+ },
+ {
+  "name": "Holy Vis",
+  "type": "Concept",
+  "description": "Vis extracted by holy magi in the Dominion, with unusual, miraculous side effects and doubled botch dice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0354",
+   "realms-of-power-the-divine-revised::0355"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Magical resource used to fuel rituals; holy magi may substitute long-term Fatigue for it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0249",
+   "realms-of-power-the-divine-revised::0353",
+   "realms-of-power-the-divine-revised::0354"
+  ]
+ },
+ {
+  "name": "Ritual",
+  "type": "Concept",
+  "description": "Hermetic spells requiring vis; holy effects instead add +20 level for duration and target limits.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0249",
+   "realms-of-power-the-divine-revised::0353"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Ability",
+  "aliases": [
+   "holy magic"
+  ],
+  "description": "Supernatural Ability, analogous to Magic Theory, letting a magus use magic harmoniously with the Divine, invoked by prayer instead of Hermetic words and gestures.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0344",
+   "realms-of-power-the-divine-revised::0347",
+   "realms-of-power-the-divine-revised::0353"
+  ]
+ },
+ {
+  "name": "Presence (Range)",
+  "type": "Concept",
+  "description": "Holy magic Range letting the caster affect targets within an invisible divine aura sized by Presence; equal to Voice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0355"
+  ]
+ },
+ {
+  "name": "Communion (Range)",
+  "type": "Concept",
+  "description": "Holy magic Range affecting things over which the caster has holy authority or a ceremonial bond; equal to Arcane Connection.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0355",
+   "realms-of-power-the-divine-revised::0356"
+  ]
+ },
+ {
+  "name": "Recitation (Duration)",
+  "type": "Concept",
+  "description": "Holy magic Duration lasting as long as the caster recites scripture or prayer; equal to Concentration.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0356"
+  ]
+ },
+ {
+  "name": "Office (Duration)",
+  "type": "Concept",
+  "description": "Holy magic Duration lasting until the next formal prayer hour; equal to Diameter.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0356"
+  ]
+ },
+ {
+  "name": "Devotion (Duration)",
+  "type": "Concept",
+  "description": "Holy magic Duration lasting as long as a religious observance continues; equal to Sun.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0356",
+   "realms-of-power-the-divine-revised::0357"
+  ]
+ },
+ {
+  "name": "Sabbath (Duration)",
+  "type": "Concept",
+  "description": "Holy magic Duration lasting until dawn of the next day of rest; equal to Sun.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0357"
+  ]
+ },
+ {
+  "name": "40 (Duration)",
+  "type": "Concept",
+  "aliases": [
+   "Forty Days"
+  ],
+  "description": "Holy magic Duration of forty days and forty nights; equal to Moon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0357"
+  ]
+ },
+ {
+  "name": "Fast (Duration)",
+  "type": "Concept",
+  "description": "Holy magic Duration lasting as long as the caster fasts; equal to Moon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0357"
+  ]
+ },
+ {
+  "name": "Grace (Duration)",
+  "type": "Concept",
+  "description": "Holy magic Duration lasting while the caster remains without mortal sin; equal to Year.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0357",
+   "realms-of-power-the-divine-revised::0358"
+  ]
+ },
+ {
+  "name": "Sin (Target)",
+  "type": "Concept",
+  "description": "Holy magic Target affecting an individual stained with mortal sin, demons or unholy objects; equal to Individual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0358"
+  ]
+ },
+ {
+  "name": "Faith (Target)",
+  "type": "Concept",
+  "description": "Holy magic Target affecting only those who worship God, or only those who do not; equal to Group.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0358"
+  ]
+ },
+ {
+  "name": "Dominion (Target)",
+  "type": "Concept",
+  "description": "Holy magic Target affecting everything within a divine aura whose source is in range; equal to Boundary.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0358",
+   "realms-of-power-the-divine-revised::0359"
+  ]
+ },
+ {
+  "name": "Mortal Sin",
+  "type": "Concept",
+  "aliases": [
+   "venial sin"
+  ],
+  "description": "Grave sin that ends the Grace duration and brings Divine Form punishments such as medium wounds.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0333",
+   "realms-of-power-the-divine-revised::0334",
+   "realms-of-power-the-divine-revised::0358"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Historical conflict whose outbreak ended a Hermetic experiment on the nature of vera fides.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0288"
+  ]
+ },
+ {
+  "name": "Enigma",
+  "type": "Concept",
+  "description": "The magical mystery revered by House Criamon; not a proper object of True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286",
+   "realms-of-power-the-divine-revised::0294"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "description": "Intrinsic capacity of Hermetic magi to work magic; some theorize True Faith is its Platonic form.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0244",
+   "realms-of-power-the-divine-revised::0288",
+   "realms-of-power-the-divine-revised::0289"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic magical protection; its resistance does not stack with Blessing or True Faith resistance and cannot resist miracles.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0260",
+   "realms-of-power-the-divine-revised::0308",
+   "realms-of-power-the-divine-revised::0347"
+  ]
+ },
+ {
+  "name": "Hermetic Magic",
+  "type": "Concept",
+  "description": "Magic of the Order of Hermes, seen by holy magi as tainted by idolatry.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0288",
+   "realms-of-power-the-divine-revised::0344",
+   "realms-of-power-the-divine-revised::0345"
+  ]
+ },
+ {
+  "name": "Relics",
+  "type": "Item",
+  "aliases": [
+   "relic"
+  ],
+  "description": "Holy objects with a Faith Score and Faith Points from the piety of the person connected to them.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0285",
+   "realms-of-power-the-divine-revised::0295",
+   "realms-of-power-the-divine-revised::0307"
+  ]
+ },
+ {
+  "name": "Sacraments",
+  "type": "Concept",
+  "description": "Holy rites through which characters may gain Faith Points.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0290",
+   "realms-of-power-the-divine-revised::0297",
+   "realms-of-power-the-divine-revised::0307"
+  ]
+ },
+ {
+  "name": "Pilgrimage",
+  "type": "Concept",
+  "description": "Journey to a holy site that can test faith and grant Faith Points or True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0295",
+   "realms-of-power-the-divine-revised::0297"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine",
+   "Divine realm"
+  ],
+  "description": "The realm of God, source of True Faith, miracles and holy powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0244",
+   "realms-of-power-the-divine-revised::0288",
+   "realms-of-power-the-divine-revised::0306"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of the Devil; infernalists cannot have True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286",
+   "realms-of-power-the-divine-revised::0351"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Realm of faeries, partly aligned with pagan gods; some faeries oppose holy magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286",
+   "realms-of-power-the-divine-revised::0332",
+   "realms-of-power-the-divine-revised::0351"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm of magic with which magi are associated through their Gift.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286",
+   "realms-of-power-the-divine-revised::0332",
+   "realms-of-power-the-divine-revised::0353"
+  ]
+ },
+ {
+  "name": "Invocation",
+  "type": "Ability",
+  "description": "Method of calling holy effects by addressing God and His servants by name; usually Communication-based and requires investing Confidence.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0243",
+   "realms-of-power-the-divine-revised::0250",
+   "realms-of-power-the-divine-revised::0349"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Ability",
+  "description": "Method of entering an ecstatic state through mundane activity to gain insight into God's Will; usually Intelligence-based.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0243",
+   "realms-of-power-the-divine-revised::0250",
+   "realms-of-power-the-divine-revised::0276"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Ability",
+  "description": "Method of creating holy effects through fasting and self-denial; relies on Stamina and costs long-term Fatigue.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0243",
+   "realms-of-power-the-divine-revised::0247",
+   "realms-of-power-the-divine-revised::0250"
+  ]
+ },
+ {
+  "name": "Adjuration",
+  "type": "Ability",
+  "description": "Power to summon, control and banish supernatural creatures and dispel their powers; used with Invocation and Purity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0247",
+   "realms-of-power-the-divine-revised::0253",
+   "realms-of-power-the-divine-revised::0254"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Ability",
+  "description": "Power to aid and protect a target by sanctifying it; used with Invocation and Meditation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0257",
+   "realms-of-power-the-divine-revised::0258",
+   "realms-of-power-the-divine-revised::0259"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Ability",
+  "description": "Power to bring ruin upon God's enemies; used with Invocation and Purity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0247",
+   "realms-of-power-the-divine-revised::0261",
+   "realms-of-power-the-divine-revised::0262"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Ability",
+  "description": "Power working God's will directly on the physical world through visions and transformations; used with Meditation and Purity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0265",
+   "realms-of-power-the-divine-revised::0266",
+   "realms-of-power-the-divine-revised::0268"
+  ]
+ },
+ {
+  "name": "Transcendence",
+  "type": "Ability",
+  "description": "Power bringing spiritual changes to mind and body, allowing spirit travel and bodily endurance; used with Meditation and Purity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0271",
+   "realms-of-power-the-divine-revised::0272",
+   "realms-of-power-the-divine-revised::0330"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Ability",
+  "description": "Power to learn hidden information about the future or God's Will through Meditation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0276",
+   "realms-of-power-the-divine-revised::0277",
+   "realms-of-power-the-divine-revised::0278"
+  ]
+ },
+ {
+  "name": "Wonders",
+  "type": "Ability",
+  "description": "Power to create and command natural forces and substances through Invocation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0280",
+   "realms-of-power-the-divine-revised::0281",
+   "realms-of-power-the-divine-revised::0282"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Supernatural Ability favored by the Ascetics tradition.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0247"
+  ]
+ },
+ {
+  "name": "Holy Music",
+  "type": "Ability",
+  "description": "Presence-based variant of Meditation, a performed meditative song, used by Isabelle.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0257",
+   "realms-of-power-the-divine-revised::0258"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "description": "Supernatural Ability letting groups pray as one for a miracle or include participants in holy rituals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0307",
+   "realms-of-power-the-divine-revised::0308",
+   "realms-of-power-the-divine-revised::0353"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Arcane Ability teaching about the Divine realm, taught by holy traditions.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0245",
+   "realms-of-power-the-divine-revised::0330",
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Arcane Ability for controlling holy effects; also used to target specific faiths.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0245",
+   "realms-of-power-the-divine-revised::0358"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Arcane Ability for overcoming resistance with holy effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0245",
+   "realms-of-power-the-divine-revised::0334",
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability added to True Faith Score when praying for a miracle.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0307",
+   "realms-of-power-the-divine-revised::0308",
+   "realms-of-power-the-divine-revised::0326"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Academic Ability used by holy magi to substitute prayer for Hermetic words and gestures.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0349",
+   "realms-of-power-the-divine-revised::0356"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Hermetic Ability to which Holy Magic is analogous.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0347",
+   "realms-of-power-the-divine-revised::0350"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability normally added in ceremonial casting; holy magi use Method and Power instead.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0353"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability normally added in ceremonial casting; holy magi use Method and Power instead.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0353"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability used by Arshaq ibn Kareem to affect an aura's Temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0337",
+   "realms-of-power-the-divine-revised::0338"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Mundane Ability from which Dominia loses experience to Divine Gloom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0330"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "description": "Mundane Ability that can be lost to Divine Gloom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0330",
+   "realms-of-power-the-divine-revised::0331"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Mundane Ability that can be lost to Divine Gloom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0330"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "description": "Mundane Ability that can be lost to Divine Gloom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0330"
+  ]
+ },
+ {
+  "name": "Hebrew",
+  "type": "Ability",
+  "description": "Language Ability required at minimum score 1 for Nephilim Mythic Companions.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Ability",
+  "description": "Ability reducing botch dice, applied before Divine Form's extra botch dice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0334"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "Minor Virtue gained by a character with True Faith Score 2.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0316"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "description": "Virtue whose equivalent can be granted by a Blessing effect.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0259",
+   "realms-of-power-the-divine-revised::0260"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "description": "Virtue whose equivalent can be granted by a Blessing effect.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0259"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "description": "Virtue whose effect Understanding visions can mimic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0277",
+   "realms-of-power-the-divine-revised::0278"
+  ]
+ },
+ {
+  "name": "Subtle Magic",
+  "type": "Virtue",
+  "description": "Virtue still applying to holy magi casting without words or gestures.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0349"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue from a Divine source, required of Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320",
+   "realms-of-power-the-divine-revised::0330",
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "The Commanding Aura",
+  "type": "Virtue",
+  "aliases": [
+   "Commanding Aura"
+  ],
+  "description": "Power possessed by kings and ecclesiastics, which Divine Form operates like.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0334",
+   "realms-of-power-the-divine-revised::0335"
+  ]
+ },
+ {
+  "name": "Nephilim (Virtue)",
+  "type": "Virtue",
+  "description": "Free Mythic Companion Virtue marking a character as a Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Blood of the Nephilim",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue required of Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Greater Immunity: Disease",
+  "type": "Virtue",
+  "aliases": [
+   "Greater Immunity"
+  ],
+  "description": "Major Supernatural Virtue required of Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Great Stamina",
+  "type": "Virtue",
+  "description": "Minor General Virtue required of Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Great Strength",
+  "type": "Virtue",
+  "description": "Minor General Virtue required of Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Minor General Virtue required of Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Strong Angelic Heritage",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue required of Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Blood of Heroes",
+  "type": "Virtue",
+  "description": "Virtue from Houses of Hermes: True Lineages marking a Mythic Companion.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0341"
+  ]
+ },
+ {
+  "name": "Mythic Companion Virtue",
+  "type": "Virtue",
+  "description": "Free Virtue specifying a Mythic Companion's status; incompatible with The Gift.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0341",
+   "realms-of-power-the-divine-revised::0342"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "description": "Minor Flaw that may result from a minor tragedy of hubris.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "description": "Major Flaw that may result from a major tragedy of hubris.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "description": "Minor Flaw from tragedies of hubris or Divine Warping (fear of the Divine or Infernal).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242",
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Poor Memory",
+  "type": "Flaw",
+  "description": "Minor Flaw that may result from a minor tragedy of hubris.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242"
+  ]
+ },
+ {
+  "name": "Simple-Minded",
+  "type": "Flaw",
+  "description": "Minor Flaw that may result from a minor tragedy of hubris.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242"
+  ]
+ },
+ {
+  "name": "Lycanthrope",
+  "type": "Flaw",
+  "description": "Major Flaw that may result from a major tragedy of hubris.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242"
+  ]
+ },
+ {
+  "name": "Blind",
+  "type": "Flaw",
+  "description": "Major Flaw from a major tragedy of hubris or Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242",
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Enfeebled",
+  "type": "Flaw",
+  "description": "Major Flaw from a major tragedy of hubris or Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0242",
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Deaf",
+  "type": "Flaw",
+  "description": "Common Major Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Compassionate",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping, e.g. prayer or self-flagellation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Continence",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping, e.g. stigmata scars.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Driven",
+  "type": "Flaw",
+  "description": "Minor or Major Flaw commonly gained through Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Generous",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Humble",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Lame",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Obsessed",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping (God, sin, sinners).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "description": "Minor or Major Flaw commonly gained through Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Soft-Hearted",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Susceptibility to Divine Power",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Susceptibility to Infernal Power",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Temperate",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "description": "Common Minor Flaw from Divine Warping.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0320"
+  ]
+ },
+ {
+  "name": "My covenant will I not break, nor alter the thing that is gone out of my lips",
+  "type": "Spell",
+  "description": "Invocation Adjuration effect (Level 20) binding both parties to the terms of a bargain with a supernatural being.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0254",
+   "realms-of-power-the-divine-revised::0255"
+  ]
+ },
+ {
+  "name": "Give unto the LORD the glory due unto his name: bring an offering, and come into his courts",
+  "type": "Spell",
+  "description": "Invocation Adjuration effect (Level 50) summoning a supernatural being via a holy connection.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0255",
+   "realms-of-power-the-divine-revised::0256"
+  ]
+ },
+ {
+  "name": "The angel of the LORD encampeth round about them that fear him, and delivereth them",
+  "type": "Spell",
+  "description": "Purity Adjuration effect (Level 25) making non-divine beings perceive the character surrounded by holiness; demons must flee.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0256"
+  ]
+ },
+ {
+  "name": "The LORD shall preserve thee from all evil: he shall preserve thy soul",
+  "type": "Spell",
+  "description": "Invocation Blessing effect granting Divine Magic Resistance equal to the effect's level.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0259",
+   "realms-of-power-the-divine-revised::0260"
+  ]
+ },
+ {
+  "name": "Thou wilt prolong the king's life: and his years as many generations",
+  "type": "Spell",
+  "description": "Meditation Blessing effect granting a bonus to aging rolls for a year.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0260"
+  ]
+ },
+ {
+  "name": "My heart is inditing a good matter",
+  "type": "Spell",
+  "description": "Invocation Blessing effect (Level 20) granting the Free Expression Virtue for a day.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0260"
+  ]
+ },
+ {
+  "name": "As he loved cursing, so let it come unto him",
+  "type": "Spell",
+  "description": "Invocation Cursing effect imposing a penalty on all the target's actions.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0263"
+  ]
+ },
+ {
+  "name": "God shall likewise destroy thee for ever",
+  "type": "Spell",
+  "description": "Purity Cursing effect (Level 40) striking the target instantly dead.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0263",
+   "realms-of-power-the-divine-revised::0264"
+  ]
+ },
+ {
+  "name": "Let death seize upon them, and let them go down quick into hell",
+  "type": "Spell",
+  "description": "Purity Cursing effect (Level 85) laying utter waste to everything within a boundary.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0264"
+  ]
+ },
+ {
+  "name": "Man is like to vanity: his days are as a shadow that passeth away",
+  "type": "Spell",
+  "description": "Meditation Intervention effect (Level 20) creating the appearance of a human being.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0268",
+   "realms-of-power-the-divine-revised::0269"
+  ]
+ },
+ {
+  "name": "That he should still live for ever, and not see corruption",
+  "type": "Spell",
+  "description": "Meditation Intervention effect (Level 25) letting the caster perceive the stain of sin on people.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0269"
+  ]
+ },
+ {
+  "name": "Have mercy upon me, O LORD for I am weak: O LORD, heal me; for my bones are vexed",
+  "type": "Spell",
+  "description": "Purity Intervention miracle (Level 50) instantly healing a Heavy Wound.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0269",
+   "realms-of-power-the-divine-revised::0270"
+  ]
+ },
+ {
+  "name": "For they intended evil against thee: they imagined a mischievous device, which they are not able to perform",
+  "type": "Spell",
+  "description": "Meditation Transcendence effect making the caster untargetable by weaker supernatural effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0273",
+   "realms-of-power-the-divine-revised::0274"
+  ]
+ },
+ {
+  "name": "Surely every man walketh in a vain shew",
+  "type": "Spell",
+  "description": "Meditation Transcendence effect (Level 30) letting the caster pass through nonliving obstacles.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0274"
+  ]
+ },
+ {
+  "name": "Behold, he that keepeth Israel shall neither slumber nor sleep",
+  "type": "Spell",
+  "description": "Purity Transcendence effect (Level 50) letting the caster go a year without sleep.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0274",
+   "realms-of-power-the-divine-revised::0275"
+  ]
+ },
+ {
+  "name": "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies",
+  "type": "Spell",
+  "description": "Meditation Understanding effect (Level 15) giving a Common Sense-like vision.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0277",
+   "realms-of-power-the-divine-revised::0278"
+  ]
+ },
+ {
+  "name": "Thou shalt guide me with thy counsel, and afterward receive me to glory",
+  "type": "Spell",
+  "description": "Meditation Understanding effect (Level 20) giving a cryptic holy vision of what to do.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0278"
+  ]
+ },
+ {
+  "name": "I delight to do thy will, O my God; yea, thy law is within my heart",
+  "type": "Spell",
+  "description": "Meditation Understanding effect (Level 35) revealing whether an action is God's will and preventing botches while pursuing it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0278",
+   "realms-of-power-the-divine-revised::0279"
+  ]
+ },
+ {
+  "name": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word",
+  "type": "Spell",
+  "description": "Invocation Wonders effect (Level 35) summoning and controlling a powerful force of nature.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0281",
+   "realms-of-power-the-divine-revised::0282"
+  ]
+ },
+ {
+  "name": "For every beast of the forest is mine, and the cattle upon a thousand hills",
+  "type": "Spell",
+  "description": "Invocation Wonders effect (Level 40) creating an obedient mammal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0282"
+  ]
+ },
+ {
+  "name": "Ascetics",
+  "type": "Faction",
+  "aliases": [
+   "Holy Tradition: Ascetics"
+  ],
+  "description": "Holy tradition favoring Adjuration, Cursing, Purity and Second Sight, practicing ritual purity of mind and body.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0247",
+   "realms-of-power-the-divine-revised::0336"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of Hermetic magi, aware of True Faith and unfavorable toward holy magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0288",
+   "realms-of-power-the-divine-revised::0289",
+   "realms-of-power-the-divine-revised::0351"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "description": "Pagan heritage of the Order of Hermes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0352"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House whose founder wrote of the Enigma; St. Nerius was a member.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286",
+   "realms-of-power-the-divine-revised::0289"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "description": "Hermetic House of Moratamis and Samein.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0282"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "description": "Holy institution whose clergy are likely to gain True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0285",
+   "realms-of-power-the-divine-revised::0299"
+  ]
+ },
+ {
+  "name": "Sufi",
+  "type": "Faction",
+  "aliases": [
+   "Sufi mystics"
+  ],
+  "description": "Islamic mystics who revere and seek Divine Ascension.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0325"
+  ]
+ },
+ {
+  "name": "Kabbalists",
+  "type": "Faction",
+  "aliases": [
+   "Jewish Kabbalists"
+  ],
+  "description": "Jewish mystics who revere and seek Divine Ascension.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0325"
+  ]
+ },
+ {
+  "name": "Zoroastrians",
+  "type": "Faction",
+  "description": "Faith of Samein Guernicus, a holy magus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0282"
+  ]
+ },
+ {
+  "name": "Semita Errabunda",
+  "type": "Covenant",
+  "description": "Covenant of Isabelle, Paul and the maga Moratamis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0257",
+   "realms-of-power-the-divine-revised::0282"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "aliases": [
+   "Mythic Companions"
+  ],
+  "description": "Non-Hermetic character comparable in power to a magus, generated with a free status Virtue and up to 21 points of Virtues.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0291",
+   "realms-of-power-the-divine-revised::0341",
+   "realms-of-power-the-divine-revised::0342"
+  ]
+ },
+ {
+  "name": "Holy Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "holy magi",
+   "holy mages"
+  ],
+  "description": "Magus who has converted to holy magic, typically regarded as a hedge wizard by the Order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0282",
+   "realms-of-power-the-divine-revised::0348",
+   "realms-of-power-the-divine-revised::0353"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "description": "Non-Hermetic wizard; holy magi are usually considered such by the Order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0282",
+   "realms-of-power-the-divine-revised::0348"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "description": "Covenant servant character; Paul is one.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0257",
+   "realms-of-power-the-divine-revised::0341"
+  ]
+ },
+ {
+  "name": "Zahid",
+  "type": "CharacterType",
+  "description": "Islamic ascetic; Arshaq ibn Kareem is one.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0335"
+  ]
+ },
+ {
+  "name": "Saint",
+  "type": "CharacterType",
+  "aliases": [
+   "saints",
+   "saintly characters"
+  ],
+  "description": "Holy person with True Faith who may be canonized and intercede from Heaven with Divine Might.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0284",
+   "realms-of-power-the-divine-revised::0287",
+   "realms-of-power-the-divine-revised::0306"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "description": "Hermetic wizard with The Gift.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0288",
+   "realms-of-power-the-divine-revised::0341"
+  ]
+ },
+ {
+  "name": "Nephilim",
+  "type": "Creature",
+  "description": "Divine giants and heroes of ancient myth, playable as Mythic Companions; young Nephilim are about eighty years old.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "aliases": [
+   "angels"
+  ],
+  "description": "Divine beings who test, watch over and reward holy characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0251",
+   "realms-of-power-the-divine-revised::0296",
+   "realms-of-power-the-divine-revised::0302"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "demons",
+   "devils"
+  ],
+  "description": "Infernal beings that flee holiness and tempt holy characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0256",
+   "realms-of-power-the-divine-revised::0296",
+   "realms-of-power-the-divine-revised::0350"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [
+   "faeries",
+   "fay"
+  ],
+  "description": "Beings of Faerie, some opposed to holy magic and some interested in salvation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0292",
+   "realms-of-power-the-divine-revised::0351"
+  ]
+ },
+ {
+  "name": "Yofiel",
+  "type": "Creature",
+  "description": "The Prince of the Torah, an angel summoned after forty days of fasting in the Ma'aseh Merkavah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0251",
+   "realms-of-power-the-divine-revised::0252"
+  ]
+ },
+ {
+  "name": "Dafydd",
+  "type": "Creature",
+  "description": "Faerie prince who carried Isabelle through the air.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0308"
+  ]
+ },
+ {
+  "name": "Isabelle",
+  "type": "Character",
+  "aliases": [
+   "Isabelle the Beautiful"
+  ],
+  "description": "Beautiful companion of Semita Errabunda who uses Holy Music and Blessing and has True Faith 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0257",
+   "realms-of-power-the-divine-revised::0258",
+   "realms-of-power-the-divine-revised::0308"
+  ]
+ },
+ {
+  "name": "Paul",
+  "type": "Character",
+  "description": "Grog of Semita Errabunda healed by Isabelle's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0257",
+   "realms-of-power-the-divine-revised::0258"
+  ]
+ },
+ {
+  "name": "Moratamis of Guernicus",
+  "type": "Character",
+  "aliases": [
+   "Moratamis"
+  ],
+  "description": "Maga at Semita Errabunda who witnesses Samein's miracle of Wonders.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0282",
+   "realms-of-power-the-divine-revised::0283"
+  ]
+ },
+ {
+  "name": "Samein Guernicus",
+  "type": "Character",
+  "aliases": [
+   "Samein"
+  ],
+  "description": "Zoroastrian holy magus of House Guernicus who destroyed an evil spirit at Tribunal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0282",
+   "realms-of-power-the-divine-revised::0283"
+  ]
+ },
+ {
+  "name": "Jesus",
+  "type": "Character",
+  "aliases": [
+   "Jesus Christ"
+  ],
+  "description": "Cursed the fig tree in Matthew 21.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0261",
+   "realms-of-power-the-divine-revised::0262",
+   "realms-of-power-the-divine-revised::0298"
+  ]
+ },
+ {
+  "name": "St. Patrick",
+  "type": "Character",
+  "aliases": [
+   "Patrick"
+  ],
+  "description": "Preached in Ireland and was shown the pit of Purgatory by God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0269",
+   "realms-of-power-the-divine-revised::0270"
+  ]
+ },
+ {
+  "name": "Jacobus de Voragine",
+  "type": "Character",
+  "description": "Author of The Golden Legend.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0270"
+  ]
+ },
+ {
+  "name": "Hasan of Basra",
+  "type": "Character",
+  "aliases": [
+   "Hasan"
+  ],
+  "description": "Mystic who prayed on water in a story with Rabi'a.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0275"
+  ]
+ },
+ {
+  "name": "Rabi'a al-'Adawiyya",
+  "type": "Character",
+  "aliases": [
+   "Rabi'a"
+  ],
+  "description": "Holy woman who flew on her prayer rug to teach Hasan humility.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0275"
+  ]
+ },
+ {
+  "name": "Farid al-Din 'Attar",
+  "type": "Character",
+  "description": "Author of Stories of Holy Men (d. c. 1230).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0275"
+  ]
+ },
+ {
+  "name": "Muhammad al-Basri",
+  "type": "Character",
+  "description": "Shaykh who miraculously found a woman's dowry certificate.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0279"
+  ]
+ },
+ {
+  "name": "Usama ibn Munqidh",
+  "type": "Character",
+  "description": "Author of The Book of Learning by Example (d. 1188).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0279"
+  ]
+ },
+ {
+  "name": "Plato",
+  "type": "Character",
+  "description": "Pagan philosopher who may have had True Faith; source of many virtues.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286",
+   "realms-of-power-the-divine-revised::0338"
+  ]
+ },
+ {
+  "name": "Aristotle",
+  "type": "Character",
+  "description": "Pagan philosopher who may have had True Faith; source of many virtues.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286",
+   "realms-of-power-the-divine-revised::0338"
+  ]
+ },
+ {
+  "name": "Apollonius",
+  "type": "Character",
+  "description": "Pagan who may have had True Faith in a single Creator.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286"
+  ]
+ },
+ {
+  "name": "Plotinus",
+  "type": "Character",
+  "description": "Pagan who may have had True Faith in a single Creator.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286"
+  ]
+ },
+ {
+  "name": "Criamon",
+  "type": "Character",
+  "aliases": [
+   "Criamon the Founder"
+  ],
+  "description": "Founder of House Criamon, who wrote of the Enigma.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286"
+  ]
+ },
+ {
+  "name": "St. Guinefort",
+  "type": "Character",
+  "aliases": [
+   "St. Guinefort the Greyhound"
+  ],
+  "description": "Greyhound canonized as a saint despite lacking True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0287"
+  ]
+ },
+ {
+  "name": "St. Nerius of Criamon",
+  "type": "Character",
+  "aliases": [
+   "St. Nerius"
+  ],
+  "description": "Most famous Hermetic magus to possess True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0289"
+  ]
+ },
+ {
+  "name": "Francis of Assisi",
+  "type": "Character",
+  "description": "Saintly figure noted as a young exception among saintly characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0291"
+  ]
+ },
+ {
+  "name": "Blessed Virgin Mary",
+  "type": "Character",
+  "aliases": [
+   "Virgin Mary"
+  ],
+  "description": "May have had a True Faith Score of ten.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0298"
+  ]
+ },
+ {
+  "name": "St. Helena",
+  "type": "Character",
+  "description": "Saint, mother of Emperor Constantine the Great.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0299"
+  ]
+ },
+ {
+  "name": "Constantine the Great",
+  "type": "Character",
+  "description": "Emperor, son of St. Helena.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0299"
+  ]
+ },
+ {
+  "name": "St. Edward the Confessor",
+  "type": "Character",
+  "description": "Eleventh-century king of England who became a saint.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0299"
+  ]
+ },
+ {
+  "name": "Nur al-Din",
+  "type": "Character",
+  "description": "Twelfth-century ruler of Damascus counted among saintly rulers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0299"
+  ]
+ },
+ {
+  "name": "St. Symeon",
+  "type": "Character",
+  "description": "Saint whose site of martyrdom is a possible pilgrimage goal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0301"
+  ]
+ },
+ {
+  "name": "Moses",
+  "type": "Character",
+  "description": "Came down from Mount Sinai with a radiant face.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0319"
+  ]
+ },
+ {
+  "name": "Dionysus the Areopagite",
+  "type": "Character",
+  "description": "Fourth-century Platonist Christian mystic who codified the Divine Ascent.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0319"
+  ]
+ },
+ {
+  "name": "Sir Dorigen",
+  "type": "Character",
+  "description": "Lord whose realm has a Dominion aura of 3.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0308"
+  ]
+ },
+ {
+  "name": "Dominia the Ascetic",
+  "type": "Character",
+  "aliases": [
+   "Dominia"
+  ],
+  "description": "Example character with True Faith 1 who experiences Divine Ascent and Divine Gloom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0327",
+   "realms-of-power-the-divine-revised::0328",
+   "realms-of-power-the-divine-revised::0330"
+  ]
+ },
+ {
+  "name": "Arshaq ibn Kareem",
+  "type": "Character",
+  "description": "Zahid with Faith Score 1 used as the example for Divine Form and Divine Unity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0335",
+   "realms-of-power-the-divine-revised::0337",
+   "realms-of-power-the-divine-revised::0338"
+  ]
+ },
+ {
+  "name": "Abbas the Hunted",
+  "type": "Character",
+  "description": "Example Nephilim described in Heaven and Earth.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0343"
+  ]
+ },
+ {
+  "name": "Saul",
+  "type": "Character",
+  "description": "Biblical king who consulted the woman of Endor.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0344"
+  ]
+ },
+ {
+  "name": "Woman of Endor",
+  "type": "Character",
+  "description": "Woman with a familiar spirit consulted by Saul.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0344"
+  ]
+ },
+ {
+  "name": "God",
+  "type": "Character",
+  "aliases": [
+   "the LORD"
+  ],
+  "description": "The Divine, source of True Faith, miracles and holy powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0240",
+   "realms-of-power-the-divine-revised::0284",
+   "realms-of-power-the-divine-revised::0306"
+  ]
+ },
+ {
+  "name": "The Devil",
+  "type": "Character",
+  "description": "Infernal adversary; there is no True Faith in the Devil.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286"
+  ]
+ },
+ {
+  "name": "Isis",
+  "type": "Character",
+  "description": "Pagan goddess in whom True Faith is not possible.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286"
+  ]
+ },
+ {
+  "name": "Jove",
+  "type": "Character",
+  "description": "Pagan god in whom True Faith is not possible.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286"
+  ]
+ },
+ {
+  "name": "Lugh",
+  "type": "Character",
+  "description": "Pagan god in whom True Faith is not possible.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0286"
+  ]
+ },
+ {
+  "name": "Ma'aseh Merkavah",
+  "type": "Item",
+  "description": "Text excerpted describing the adjuration of Yofiel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0252"
+  ]
+ },
+ {
+  "name": "The Golden Legend",
+  "type": "Item",
+  "description": "Work by Jacobus de Voragine quoted on St. Patrick's Purgatory.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0270"
+  ]
+ },
+ {
+  "name": "Stories of Holy Men",
+  "type": "Item",
+  "description": "Work by Farid al-Din 'Attar quoted about Rabi'a.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0275"
+  ]
+ },
+ {
+  "name": "The Book of Learning by Example",
+  "type": "Item",
+  "description": "Work by Usama ibn Munqidh quoted in Understanding.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0279"
+  ]
+ },
+ {
+  "name": "Seventh Ring of Solomon",
+  "type": "Item",
+  "description": "Power reducing botch dice, applied before Divine Form's botch dice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0334"
+  ]
+ },
+ {
+  "name": "Tablets of the Testimony",
+  "type": "Item",
+  "description": "Tablets Moses carried down from Mount Sinai.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0319"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Place",
+  "description": "Afterlife realm; Intervention can open a temporary entrance, and St. Patrick was shown a pit leading there.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0267",
+   "realms-of-power-the-divine-revised::0268",
+   "realms-of-power-the-divine-revised::0270"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Place",
+  "aliases": [
+   "Kingdom of Heaven"
+  ],
+  "description": "Kingdom where those with True Faith are taken after death.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0284",
+   "realms-of-power-the-divine-revised::0287",
+   "realms-of-power-the-divine-revised::0327"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "description": "Infernal afterlife, home of fallen saints' company.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0264",
+   "realms-of-power-the-divine-revised::0305"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting of Ars Magica.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0247",
+   "realms-of-power-the-divine-revised::0285",
+   "realms-of-power-the-divine-revised::0341"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "description": "Where St. Patrick preached.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0270"
+  ]
+ },
+ {
+  "name": "Mecca",
+  "type": "Place",
+  "description": "Holy pilgrimage site for Muslims.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0297"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "Holy pilgrimage site for Christians and Jews.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0297"
+  ]
+ },
+ {
+  "name": "Damascus",
+  "type": "Place",
+  "description": "Ruled by Nur al-Din in the twelfth century.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0299"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "description": "Kingdom of St. Edward the Confessor.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0299"
+  ]
+ },
+ {
+  "name": "Mount Sinai",
+  "type": "Place",
+  "description": "Where Moses spoke with the Lord.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0319"
+  ]
+ },
+ {
+  "name": "Endor",
+  "type": "Place",
+  "description": "Home of the woman with a familiar spirit.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0344"
+  ]
+ },
+ {
+  "name": "Lystra",
+  "type": "Place",
+  "description": "City visited by the apostles in Acts 14.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0300"
+  ]
+ },
+ {
+  "name": "Iconium",
+  "type": "Place",
+  "description": "City visited by the apostles in Acts 14.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0300"
+  ]
+ },
+ {
+  "name": "Antioch",
+  "type": "Place",
+  "description": "City visited by the apostles in Acts 14.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0300"
+  ]
+ }
+]

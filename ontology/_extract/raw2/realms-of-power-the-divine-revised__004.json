@@ -1,0 +1,3125 @@
+[
+ {
+  "name": "Monastic Vows (Hermetic)",
+  "type": "Flaw",
+  "description": "Major Hermetic Flaw: vows of poverty, chastity and obedience; the magus cannot own vis, possesses only functional magic devices, and may be barred from binding a familiar. All Neriusians take it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0480",
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0488"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Flaw",
+  "description": "Major Supernatural Story Flaw for a character who does not follow the Church, has never been baptized, and may suffer supernatural consequences from Christian worship.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0481"
+  ]
+ },
+ {
+  "name": "Unbaptized",
+  "type": "Flaw",
+  "description": "Major Story Flaw for a Christian never baptized, perhaps to preserve a supernatural nature; they gain no benefit from the sacraments.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0482"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "description": "Flaw taken by Perfecti as Enemies (the Church), a Major Story Flaw.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490"
+  ]
+ },
+ {
+  "name": "Dhimmi",
+  "type": "Flaw",
+  "description": "Minor General Flaw reflecting the status of non-Muslims living under Muslim rule.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0599",
+   "realms-of-power-the-divine-revised::0549"
+  ]
+ },
+ {
+  "name": "Outsider",
+  "type": "Flaw",
+  "description": "Major Social Status Flaw that Muslim characters living in non-Muslim lands should always take.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0599"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Personality Flaw carried by the Church Deacon grog template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0492"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "description": "Flaw carried by the Church Deacon and Franciscan Teacher templates.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0492",
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Busybody",
+  "type": "Flaw",
+  "description": "Flaw of the Curious Nun template, who meddles in other grogs' affairs.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Incomprehensible",
+  "type": "Flaw",
+  "description": "Flaw of the Curious Nun template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "description": "Flaw of the Pious Warrior template, whose sense of duty prevents dishonorable conduct.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0496"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "description": "Flaw of the Pious Warrior template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0496"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "description": "Flaw of the Byzantine Priest, who owes many favors to those who helped him.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498"
+  ]
+ },
+ {
+  "name": "Generous",
+  "type": "Flaw",
+  "description": "Major Flaw of the Byzantine Priest template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "description": "Flaw of the Byzantine Priest template (fear of fire).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498"
+  ]
+ },
+ {
+  "name": "No Sense of Direction",
+  "type": "Flaw",
+  "description": "Flaw of the Byzantine Priest template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498"
+  ]
+ },
+ {
+  "name": "Black Sheep",
+  "type": "Flaw",
+  "description": "Flaw of the Knight Templar template, estranged from his family.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "description": "Flaw of the Knight Templar template, who cannot resist fine living.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "description": "Flaw of the Knight Templar template, who bears a frightening facial scar.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499",
+   "realms-of-power-the-divine-revised::0500"
+  ]
+ },
+ {
+  "name": "Ambitious",
+  "type": "Flaw",
+  "description": "Flaw of the Franciscan Teacher template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Ars Notoria (Virtue)",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue granting the Ars Notoria Ability; only Gifted magi, academics and clerics may start with it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0508",
+   "realms-of-power-the-divine-revised::0509"
+  ]
+ },
+ {
+  "name": "Perfectus",
+  "type": "Virtue",
+  "description": "Mythic Companion Virtue required for Perfecti characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Virtue",
+  "description": "Holy Virtue/Ability favored by the Neriusians and required of Perfecti; used for ceremonial casting of The Neriusian Portal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0490",
+   "realms-of-power-the-divine-revised::0489"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "Virtue that Perfecti begin with.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490"
+  ]
+ },
+ {
+  "name": "Transcendence",
+  "type": "Virtue",
+  "description": "Holy Virtue and Ability that Perfecti begin with.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "description": "Social Status Virtue of the Church Deacon template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0492"
+  ]
+ },
+ {
+  "name": "Student of Dominion",
+  "type": "Virtue",
+  "description": "Virtue granting a bonus to Dominion Lore, held by the Church Deacon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0492"
+  ]
+ },
+ {
+  "name": "Student of the Divine",
+  "type": "Virtue",
+  "description": "Virtue granting a bonus to Dominion Lore, held by the Byzantine Priest and Knight Templar.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498",
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Failed Monk",
+  "type": "Virtue",
+  "aliases": [
+   "Failed Nun"
+  ],
+  "description": "Social Status Virtue of the Curious Nun (as Failed Nun).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "description": "Virtue and Ability of the Curious Nun, used to sense auras.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "description": "Virtue held by the Curious Nun template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "description": "Virtue held by the Curious Nun template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "Virtue",
+  "description": "Social Status Virtue of the Pious Warrior template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0496"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Virtue",
+  "description": "Virtue of the Pious Warrior, who wears a cross-shaped saintly relic that protects him.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0496"
+  ]
+ },
+ {
+  "name": "Warrior",
+  "type": "Virtue",
+  "description": "Virtue of the Pious Warrior template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0496"
+  ]
+ },
+ {
+  "name": "Eastern Priest",
+  "type": "Virtue",
+  "description": "Social Status Virtue of the Byzantine Priest template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498"
+  ]
+ },
+ {
+  "name": "Brother Knight",
+  "type": "Virtue",
+  "description": "Social Status Virtue of the Knight Templar template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Virtue",
+  "description": "Holy Virtue held by the Knight Templar template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Virtue held by the Knight Templar template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Puissant Single Weapon",
+  "type": "Virtue",
+  "description": "Virtue held by the Knight Templar template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Mendicant Friar",
+  "type": "Virtue",
+  "description": "Social Status Virtue of the Franciscan Teacher template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Magister in Artibus",
+  "type": "Virtue",
+  "description": "Virtue of the Franciscan Teacher, who graduated university as a master of arts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Puissant Teaching",
+  "type": "Virtue",
+  "description": "Virtue of the Franciscan Teacher template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Good Teacher",
+  "type": "Virtue",
+  "description": "Virtue of the Franciscan Teacher template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "description": "Virtue of the Franciscan Teacher template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Greater Purifying Touch",
+  "type": "Virtue",
+  "description": "Supernatural Major Virtue granted free by the Third Ring of Solomon, curing one chosen disease.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0519"
+  ]
+ },
+ {
+  "name": "Patron Angel",
+  "type": "Virtue",
+  "description": "Major General Virtue granted by the Fourth Ring of Solomon; a personal angel acting as guide and teacher.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0520"
+  ]
+ },
+ {
+  "name": "Guardian Angel",
+  "type": "Virtue",
+  "description": "Virtue whose powers the Patron Angel summoned by the Fourth Ring possesses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0520"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Virtue",
+  "description": "Divine supernatural Virtue/Ability to feel good and evil; the Fifth Ring of Solomon acts similarly but identifies realms exactly.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0514",
+   "realms-of-power-the-divine-revised::0521"
+  ]
+ },
+ {
+  "name": "Commanding Aura",
+  "type": "Virtue",
+  "aliases": [
+   "The Commanding Aura"
+  ],
+  "description": "Blessed-by-God power with which hidden Fatimid imams would be endowed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0593"
+  ]
+ },
+ {
+  "name": "Ars Notoria",
+  "type": "Ability",
+  "aliases": [
+   "Notory Art",
+   "Notary Art"
+  ],
+  "description": "Academic, Arcane, Supernatural Ability of divine orations and rituals descended from King Solomon, granting divine wisdom through rings of recitation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0483",
+   "realms-of-power-the-divine-revised::0503",
+   "realms-of-power-the-divine-revised::0508"
+  ]
+ },
+ {
+  "name": "Holy Music",
+  "type": "Ability",
+  "description": "Ability of the Holy Method of Meditation allowing a supernatural state of mind by singing praises to God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0484",
+   "realms-of-power-the-divine-revised::0485"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Ability",
+  "description": "Favored Ability of the Priory of Saint Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Ability",
+  "description": "Holy Ability favored by the Cantores and Neriusians, used in ceremonial casting.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0485",
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0489"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Ability",
+  "description": "Favored Ability of the Priory of Saint Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Ability",
+  "description": "Favored Ability of the Cantores.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0485"
+  ]
+ },
+ {
+  "name": "Enchanting Music",
+  "type": "Ability",
+  "description": "Supernatural Ability; a true Cantor's songs are said to be similar in power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0485"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Ability required of Perfecti and used by church-connected templates.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490",
+   "realms-of-power-the-divine-revised::0492"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Arcane Ability of knowledge about the Dominion, required of Perfecti.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490",
+   "realms-of-power-the-divine-revised::0492",
+   "realms-of-power-the-divine-revised::0577"
+  ]
+ },
+ {
+  "name": "Divine Lore",
+  "type": "Ability",
+  "description": "Lore Ability used to find a copy of Ars Notoria; subject of the text to unGifted readers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0505",
+   "realms-of-power-the-divine-revised::0508"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Academic Ability; the Second Ring of Solomon grants 100 experience points in it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490",
+   "realms-of-power-the-divine-revised::0518"
+  ]
+ },
+ {
+  "name": "Theology: Islam",
+  "type": "Ability",
+  "description": "New Academic Knowledge for Muslim characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0577",
+   "realms-of-power-the-divine-revised::0598"
+  ]
+ },
+ {
+  "name": "Islamic Law",
+  "type": "Ability",
+  "description": "New Academic Knowledge for Muslim characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0577",
+   "realms-of-power-the-divine-revised::0598"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Academic Ability; the First Ring of Solomon grants 100 experience points in it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0516",
+   "realms-of-power-the-divine-revised::0517"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "description": "Academic Ability; the Third Ring of Solomon grants 100 experience points in it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494",
+   "realms-of-power-the-divine-revised::0519"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability; a score of 4 is needed to read the alphabets of the Ars Notoria text.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0507",
+   "realms-of-power-the-divine-revised::0520"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Academic Ability known by the Franciscan Teacher and taught by the Patron Angel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501",
+   "realms-of-power-the-divine-revised::0520"
+  ]
+ },
+ {
+  "name": "Orthodox Church Lore",
+  "type": "Ability",
+  "description": "Lore Ability of the Byzantine Priest.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498"
+  ]
+ },
+ {
+  "name": "Holy Land Lore",
+  "type": "Ability",
+  "description": "Lore Ability of the Knight Templar template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0500"
+  ]
+ },
+ {
+  "name": "University Lore",
+  "type": "Ability",
+  "description": "Lore Ability of the Franciscan Teacher template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Arcane Ability; Pagans may begin with it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0481",
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Arcane Ability; Pagans may begin with it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0481"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "description": "Arcane Ability held by the Curious Nun.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability used to keep focus when distracted during Holy Music; required of Perfecti.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0484",
+   "realms-of-power-the-divine-revised::0490"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "description": "Ability rolled with Presence to sing a devotional song for Holy Music.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0484",
+   "realms-of-power-the-divine-revised::0492"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [
+   "Teach"
+  ],
+  "description": "Ability; the Franciscan Teacher is a skilled teacher and the Patron Angel teaches.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501",
+   "realms-of-power-the-divine-revised::0520"
+  ]
+ },
+ {
+  "name": "Holy Method of Meditation",
+  "type": "Concept",
+  "aliases": [
+   "Holy Method"
+  ],
+  "description": "Holy Method with which the Holy Music Ability is associated.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0484"
+  ]
+ },
+ {
+  "name": "The Cantores",
+  "type": "Faction",
+  "aliases": [
+   "Cantores",
+   "Cantor"
+  ],
+  "description": "Primarily Christian holy tradition dedicated to worshipping God through music, gathering in cities and great abbeys; opposed to bawdy secular music.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0485",
+   "realms-of-power-the-divine-revised::0486"
+  ]
+ },
+ {
+  "name": "Priory of Saint Nerius",
+  "type": "Faction",
+  "aliases": [
+   "Neriusians",
+   "Nerusians"
+  ],
+  "description": "Secret holy societas of Hermetic magi following a modified Benedictine Rule, seeking Nerius's canonization; its central house lies in the mountains of northern Italy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0488"
+  ]
+ },
+ {
+  "name": "Perfecti",
+  "type": "CharacterType",
+  "aliases": [
+   "Perfectus"
+  ],
+  "description": "Mythic Companion type: dualist holy men and women of Southern France, leaders of the Cathars, required to take Enemies (the Church) and Perfectus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "description": "Followers of the Perfecti in Southern France professing dualist doctrine contrary to Roman practice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0490"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The Hermetic order of magi; Nerius is considered its patron saint.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0502"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "description": "Hermetic House to which the saintly magus Nerius belonged.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Latin Church"
+  ],
+  "description": "The Latin Church, which Neriusians petition and Perfecti oppose; it views Ars Notoria as holy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0490",
+   "realms-of-power-the-divine-revised::0504"
+  ]
+ },
+ {
+  "name": "Eastern Church",
+  "type": "Faction",
+  "description": "Orthodox church which allows married men to become priests.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Franciscan Order",
+  "type": "Faction",
+  "aliases": [
+   "Franciscans",
+   "Franciscan movement"
+  ],
+  "description": "Mendicant order; the Neriusians are adapting to the Franciscan movement and the Franciscan Teacher joined it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0488",
+   "realms-of-power-the-divine-revised::0501"
+  ]
+ },
+ {
+  "name": "Benedictine Rule",
+  "type": "Concept",
+  "description": "Monastic rule followed in modified form by the Priory of Saint Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0488"
+  ]
+ },
+ {
+  "name": "Knights Templar",
+  "type": "Faction",
+  "aliases": [
+   "Templars"
+  ],
+  "description": "Military order whose knight has sworn to own no property and looks after the order's European interests.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499",
+   "realms-of-power-the-divine-revised::0500"
+  ]
+ },
+ {
+  "name": "Quraysh",
+  "type": "Faction",
+  "description": "Dominant tribe of Mecca, guardians of the Ka'ba sanctuary, to which Muhammad belonged.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0529"
+  ]
+ },
+ {
+  "name": "Umayyads",
+  "type": "Faction",
+  "description": "Caliphal dynasty (r. 660-750); the Umayyad caliph's forces killed al-Husayn.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0533",
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0549"
+  ]
+ },
+ {
+  "name": "'Abbasids",
+  "type": "Faction",
+  "aliases": [
+   "Abbasids"
+  ],
+  "description": "Caliphal dynasty ruling from 750 to the present from Baghdad; they received Dhu'l-Fiqar.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0533",
+   "realms-of-power-the-divine-revised::0534",
+   "realms-of-power-the-divine-revised::0572"
+  ]
+ },
+ {
+  "name": "Mu'tazilis",
+  "type": "Faction",
+  "description": "Muslim theological school stressing free will and a created Qur'an; briefly favored then banned in 1017 and 1041.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0537",
+   "realms-of-power-the-divine-revised::0538",
+   "realms-of-power-the-divine-revised::0578"
+  ]
+ },
+ {
+  "name": "Sunnis",
+  "type": "Faction",
+  "aliases": [
+   "Sunni"
+  ],
+  "description": "Mainstream Muslims whose doctrines follow al-Ash'ari and al-Maturidi; they recognize the caliph in Baghdad.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0537",
+   "realms-of-power-the-divine-revised::0548"
+  ]
+ },
+ {
+  "name": "Shi'is",
+  "type": "Faction",
+  "aliases": [
+   "Shi'ites",
+   "Shi'a"
+  ],
+  "description": "Muslims supporting the claims of 'Ali's family, following a line of imams and giving greater role to reason.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0588",
+   "realms-of-power-the-divine-revised::0589"
+  ]
+ },
+ {
+  "name": "Sufis",
+  "type": "Faction",
+  "aliases": [
+   "Sufism"
+  ],
+  "description": "Muslim mystics seeking union with God through asceticism and group ritual, gathering in tariqas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0540",
+   "realms-of-power-the-divine-revised::0586",
+   "realms-of-power-the-divine-revised::0587"
+  ]
+ },
+ {
+  "name": "Hanafis",
+  "type": "Faction",
+  "description": "Madhhab (school of Islamic law) founded by Abu Hanifa.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551"
+  ]
+ },
+ {
+  "name": "Malikis",
+  "type": "Faction",
+  "description": "Madhhab founded by Malik ibn Anas, followed by most Sunni jurists under the Almohads.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551",
+   "realms-of-power-the-divine-revised::0597"
+  ]
+ },
+ {
+  "name": "Shafi'is",
+  "type": "Faction",
+  "description": "Madhhab founded by Muhammad al-Shafi'i.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551",
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "Hanbalis",
+  "type": "Faction",
+  "description": "Madhhab founded by Ahmad ibn Hanbal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551"
+  ]
+ },
+ {
+  "name": "Twelver Shi'is",
+  "type": "Faction",
+  "aliases": [
+   "Ithna'ashari",
+   "Imamis",
+   "Twelvers"
+  ],
+  "description": "Most numerous Shi'i division, recognizing twelve imams, the last in occultation until he returns as mahdi.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0591",
+   "realms-of-power-the-divine-revised::0581"
+  ]
+ },
+ {
+  "name": "Isma'ilis",
+  "type": "Faction",
+  "description": "Shi'i movements recognizing Isma'il's son Muhammad as seventh imam; includes the Qarmatians and Fatimids.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0592"
+  ]
+ },
+ {
+  "name": "Qarmatians",
+  "type": "Faction",
+  "description": "Revolutionary Isma'ili group found in Iraq and Arabia.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0592"
+  ]
+ },
+ {
+  "name": "Fatimids",
+  "type": "Faction",
+  "description": "Isma'ili dynasty ruling North Africa and Egypt from the 10th century until 1171, claiming to be imams and rightful caliphs.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0592",
+   "realms-of-power-the-divine-revised::0593",
+   "realms-of-power-the-divine-revised::0594"
+  ]
+ },
+ {
+  "name": "Assassins",
+  "type": "Faction",
+  "aliases": [
+   "Nizaris",
+   "hashishi"
+  ],
+  "description": "Nizari Isma'ili sect founded by Hasan-i Sabbah at Alamut, hierarchically organized and known for political assassination.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0594",
+   "realms-of-power-the-divine-revised::0595",
+   "realms-of-power-the-divine-revised::0596"
+  ]
+ },
+ {
+  "name": "Almohads",
+  "type": "Faction",
+  "description": "Current rulers of Muslim Spain and North Africa, whose doctrine blends Sunni, Shi'i and Mu'tazili elements; founded by Ibn Tumart.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0597"
+  ]
+ },
+ {
+  "name": "Sabeans",
+  "type": "Faction",
+  "description": "Star-worshipping cult of Harran, Syria, once granted dhimmi status.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0549"
+  ]
+ },
+ {
+  "name": "'Ulama'",
+  "type": "Faction",
+  "aliases": [
+   "'alim",
+   "ulama"
+  ],
+  "description": "The religious elite of Muslim society, sing. 'alim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0548",
+   "realms-of-power-the-divine-revised::0599"
+  ]
+ },
+ {
+  "name": "Tariqa",
+  "type": "Concept",
+  "aliases": [
+   "tariqas"
+  ],
+  "description": "Sufi group usually based at a convent or saint's tomb, led by a shaykh.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586",
+   "realms-of-power-the-divine-revised::0587"
+  ]
+ },
+ {
+  "name": "Church Deacon",
+  "type": "CharacterType",
+  "description": "Grog template: a proud deacon who assists the parish priest and reads from the Bible.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0492",
+   "realms-of-power-the-divine-revised::0493"
+  ]
+ },
+ {
+  "name": "Curious Nun",
+  "type": "CharacterType",
+  "description": "Grog template: an herbalist nun who broke her vows, charmed by a Hermetic covenant.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0494",
+   "realms-of-power-the-divine-revised::0495"
+  ]
+ },
+ {
+  "name": "Pious Warrior",
+  "type": "CharacterType",
+  "description": "Grog template: a mace-wielding covenant warrior protected by a saintly relic necklace.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0496",
+   "realms-of-power-the-divine-revised::0497"
+  ]
+ },
+ {
+  "name": "Byzantine Priest",
+  "type": "CharacterType",
+  "description": "Companion template: a married Eastern priest born in Constantinople who fled its sack.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498",
+   "realms-of-power-the-divine-revised::0499"
+  ]
+ },
+ {
+  "name": "Knight Templar",
+  "type": "CharacterType",
+  "aliases": [
+   "Templar Knight"
+  ],
+  "description": "Companion template: a scarred Templar returned from the Holy Land who loves fighting and fine living.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0499",
+   "realms-of-power-the-divine-revised::0500"
+  ]
+ },
+ {
+  "name": "Franciscan Teacher",
+  "type": "CharacterType",
+  "description": "Companion template: an indebted university master who became a Franciscan and seeks to convert pagans and the Order of Hermes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0501",
+   "realms-of-power-the-divine-revised::0502"
+  ]
+ },
+ {
+  "name": "Caliph",
+  "type": "CharacterType",
+  "aliases": [
+   "khalifa",
+   "caliphs"
+  ],
+  "description": "Successor to the Prophet, religious and secular leader of the Muslim state; nominal head for Sunnis in Baghdad.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0533",
+   "realms-of-power-the-divine-revised::0548"
+  ]
+ },
+ {
+  "name": "Sultan",
+  "type": "CharacterType",
+  "aliases": [
+   "sultans"
+  ],
+  "description": "Governor of territories theoretically serving the caliph.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0548"
+  ]
+ },
+ {
+  "name": "Imam",
+  "type": "CharacterType",
+  "aliases": [
+   "imams"
+  ],
+  "description": "Prayer leader; for Shi'is also a divinely designated spiritual leader from the line of Muhammad.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0558",
+   "realms-of-power-the-divine-revised::0588"
+  ]
+ },
+ {
+  "name": "Shaykh",
+  "type": "CharacterType",
+  "aliases": [
+   "pir"
+  ],
+  "description": "Senior Sufi leading a tariqa; also a title of Assassin religious leaders.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586",
+   "realms-of-power-the-divine-revised::0595"
+  ]
+ },
+ {
+  "name": "Zahid",
+  "type": "CharacterType",
+  "aliases": [
+   "zahids",
+   "zahida"
+  ],
+  "description": "Particularly pious Sufi said to work miracles (karamas).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0587"
+  ]
+ },
+ {
+  "name": "Mu'adhdhin",
+  "type": "CharacterType",
+  "description": "Caller who announces the call to prayer from a minaret.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0558"
+  ]
+ },
+ {
+  "name": "Qadi",
+  "type": "CharacterType",
+  "description": "Muslim judge who may annul marriages; a religious-class role.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0575",
+   "realms-of-power-the-divine-revised::0599"
+  ]
+ },
+ {
+  "name": "Mufti",
+  "type": "CharacterType",
+  "description": "Member of the Muslim religious classes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0599"
+  ]
+ },
+ {
+  "name": "Mamluk",
+  "type": "CharacterType",
+  "aliases": [
+   "Mamluks"
+  ],
+  "description": "Muslim slave-soldier role non-Muslims may not hold.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0599"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "magi"
+  ],
+  "description": "Hermetic magus; magi are exceptions to the Dhimmi requirement.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0508",
+   "realms-of-power-the-divine-revised::0599"
+  ]
+ },
+ {
+  "name": "The Neriusian Portal",
+  "type": "Spell",
+  "description": "CrVi 65 holy ritual (R: Touch, D: Sun, T: Circle) creating a level 1 terrestrial regio around the caster; said to have been taught to Nerius by the angel Samuil.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0488",
+   "realms-of-power-the-divine-revised::0489"
+  ]
+ },
+ {
+  "name": "Nerius",
+  "type": "Character",
+  "aliases": [
+   "Saint Nerius"
+  ],
+  "description": "French magus of House Criamon considered the patron saint of the Order of Hermes; a stormcrow with a magical mantle, never canonized.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0488",
+   "realms-of-power-the-divine-revised::0489"
+  ]
+ },
+ {
+  "name": "Samuil",
+  "type": "Character",
+  "description": "Angel believed to have taught The Neriusian Portal to Nerius.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0488"
+  ]
+ },
+ {
+  "name": "King Solomon",
+  "type": "Character",
+  "aliases": [
+   "Solomon"
+  ],
+  "description": "Most powerful magician of ancient times, who asked God for wisdom; source of the Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0483",
+   "realms-of-power-the-divine-revised::0503"
+  ]
+ },
+ {
+  "name": "Apollonius",
+  "type": "Character",
+  "description": "Solomon's most ardent student, who recorded the Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0503",
+   "realms-of-power-the-divine-revised::0507"
+  ]
+ },
+ {
+  "name": "Michael",
+  "type": "Character",
+  "aliases": [
+   "Archangel Michael"
+  ],
+  "description": "Archangel sent by God to grant Solomon divine knowledge.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0503",
+   "realms-of-power-the-divine-revised::0520"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Hermetic founder, mentioned as long after Solomon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0503"
+  ]
+ },
+ {
+  "name": "Muhammad",
+  "type": "Character",
+  "aliases": [
+   "the Prophet",
+   "Seal of the Prophets"
+  ],
+  "description": "Prophet of Islam born at Mecca c. 570, recipient of the Qur'an; the most revered holy forbear with Divine Might 100.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0529",
+   "realms-of-power-the-divine-revised::0543",
+   "realms-of-power-the-divine-revised::0544"
+  ]
+ },
+ {
+  "name": "Khadija",
+  "type": "Character",
+  "description": "Wealthy widow who employed and married Muhammad; his first wife.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0529",
+   "realms-of-power-the-divine-revised::0575"
+  ]
+ },
+ {
+  "name": "'A'isha",
+  "type": "Character",
+  "aliases": [
+   "Aisha"
+  ],
+  "description": "Probably Muhammad's favorite wife, in whose house he died.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0531"
+  ]
+ },
+ {
+  "name": "al-Nasir",
+  "type": "Character",
+  "description": "Current 'Abbasid caliph (acceded 1180) ruling vigorously from Baghdad.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0534"
+  ]
+ },
+ {
+  "name": "al-Ash'ari",
+  "type": "Character",
+  "description": "Theologian (d. 935) who shaped mainstream Sunni doctrine; author of Kitab al-Luma'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0537",
+   "realms-of-power-the-divine-revised::0578"
+  ]
+ },
+ {
+  "name": "al-Maturidi",
+  "type": "Character",
+  "description": "Theologian (d. 944) whose doctrines are mainstream Sunni.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0537"
+  ]
+ },
+ {
+  "name": "Israfil",
+  "type": "Character",
+  "description": "Angel who will blow the trumpet twice on the Day of Judgment.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0536"
+  ]
+ },
+ {
+  "name": "Dajjal",
+  "type": "Character",
+  "description": "The Antichrist in Islamic belief, to be slain by Jesus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0536"
+  ]
+ },
+ {
+  "name": "Iblis",
+  "type": "Character",
+  "description": "The devil, said by some to be a jinni who refused to bow to Adam; conqueror of Jinnistan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0539"
+  ]
+ },
+ {
+  "name": "Jesus",
+  "type": "Character",
+  "description": "Prophet to whom scripture was given; taken directly to heaven and will slay Dajjal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0536",
+   "realms-of-power-the-divine-revised::0545"
+  ]
+ },
+ {
+  "name": "Abraham",
+  "type": "Character",
+  "description": "Prophet and holy forbear (Divine Might 75), builder of the Ka'ba, buried at Hebron; a Greater Saint.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0544",
+   "realms-of-power-the-divine-revised::0563"
+  ]
+ },
+ {
+  "name": "Isma'il",
+  "type": "Character",
+  "description": "Son of Abraham whom he was prepared to sacrifice; ancestor of the Arabs.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0544",
+   "realms-of-power-the-divine-revised::0568"
+  ]
+ },
+ {
+  "name": "Moses",
+  "type": "Character",
+  "description": "Prophet given scripture; the location of his grave is unknown.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0544",
+   "realms-of-power-the-divine-revised::0545"
+  ]
+ },
+ {
+  "name": "David",
+  "type": "Character",
+  "description": "Prophet given scripture, buried in Jerusalem; may be invoked as a Greater Saint.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0544",
+   "realms-of-power-the-divine-revised::0545"
+  ]
+ },
+ {
+  "name": "Adam",
+  "type": "Character",
+  "description": "The earliest prophet; brought a shining jewel from Paradise.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0539",
+   "realms-of-power-the-divine-revised::0544",
+   "realms-of-power-the-divine-revised::0589"
+  ]
+ },
+ {
+  "name": "al-Husayn",
+  "type": "Character",
+  "description": "Grandson of Muhammad killed in 680, revered by Shi'is as an imam; holy forbear with Divine Might 75.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0562"
+  ]
+ },
+ {
+  "name": "'Ali ibn Abi Talib",
+  "type": "Character",
+  "aliases": [
+   "'Ali"
+  ],
+  "description": "Fourth caliph and son-in-law of Muhammad; first imam for the Shi'is, recipient of Dhu'l-Fiqar.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0572",
+   "realms-of-power-the-divine-revised::0588"
+  ]
+ },
+ {
+  "name": "Rabi'a al-'Adawiyya",
+  "type": "Character",
+  "aliases": [
+   "Rabi'a"
+  ],
+  "description": "Early Muslim mystic of Basra, model for Sufis; holy forbear with Divine Might 50.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0546"
+  ]
+ },
+ {
+  "name": "Muhammad ibn Idris al-Shafi'i",
+  "type": "Character",
+  "aliases": [
+   "al-Shafi'i"
+  ],
+  "description": "Founder of the Shafi'i school of law (d. 820), buried in Cairo; holy forbear with Divine Might 25.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0546",
+   "realms-of-power-the-divine-revised::0551",
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "Nur al-Din",
+  "type": "Character",
+  "description": "Famous Muslim counter-crusader (d. 1174) said taught wondrous powers by Khidr; holy forbear with Divine Might 25.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0547"
+  ]
+ },
+ {
+  "name": "Saladin",
+  "type": "Character",
+  "description": "Sultan zealous for the jihad who besieged Masyaf and was intimidated by Sinan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0547",
+   "realms-of-power-the-divine-revised::0553",
+   "realms-of-power-the-divine-revised::0596"
+  ]
+ },
+ {
+  "name": "Khidr",
+  "type": "Character",
+  "aliases": [
+   "the Green One"
+  ],
+  "description": "Immortal Muslim prophet, the Green One, who drank of the Water of Life and wanders giving advice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0547",
+   "realms-of-power-the-divine-revised::0589",
+   "realms-of-power-the-divine-revised::0590"
+  ]
+ },
+ {
+  "name": "Baha' al-Din ibn Shaddad",
+  "type": "Character",
+  "description": "Friend and biographer of Saladin (d. 1234).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0554"
+  ]
+ },
+ {
+  "name": "'Umar ibn 'Abd al-'Aziz",
+  "type": "Character",
+  "description": "Umayyad caliph (r. 717-20) credited with the pact of the dhimmis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0549"
+  ]
+ },
+ {
+  "name": "Abu Hanifa",
+  "type": "Character",
+  "description": "Founder of the Hanafi school (d. 767).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551"
+  ]
+ },
+ {
+  "name": "Malik ibn Anas",
+  "type": "Character",
+  "description": "Founder of the Maliki school (d. 795).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551",
+   "realms-of-power-the-divine-revised::0597"
+  ]
+ },
+ {
+  "name": "Ahmad ibn Hanbal",
+  "type": "Character",
+  "description": "Founder of the Hanbali school (d. 855).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551"
+  ]
+ },
+ {
+  "name": "Fatima",
+  "type": "Character",
+  "description": "Daughter of the Prophet, entombed at the Mosque of the Prophet.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0568"
+  ]
+ },
+ {
+  "name": "Abu Bakr",
+  "type": "Character",
+  "description": "First caliph, entombed at the Mosque of the Prophet; passed down the Prophet's seal ring.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0568",
+   "realms-of-power-the-divine-revised::0570"
+  ]
+ },
+ {
+  "name": "'Umar",
+  "type": "Character",
+  "description": "Second caliph, entombed at the Mosque of the Prophet.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0568",
+   "realms-of-power-the-divine-revised::0570"
+  ]
+ },
+ {
+  "name": "'Uthman",
+  "type": "Character",
+  "description": "Third caliph who dropped the Prophet's seal ring down a well in 650 and was later assassinated.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0570"
+  ]
+ },
+ {
+  "name": "Gabriel",
+  "type": "Character",
+  "description": "Angel who carried Muhammad on a heavenly steed from Mecca to Jerusalem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0569"
+  ]
+ },
+ {
+  "name": "al-Bukhari",
+  "type": "Character",
+  "description": "Compiler of Sahih al-Bukhari (d. 870).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0571",
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "Muslim ibn al-Hajjaj",
+  "type": "Character",
+  "description": "Compiler of Sahih Muslim (d. 875).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "Muhammad ibn Jarir al-Tabari",
+  "type": "Character",
+  "aliases": [
+   "al-Tabari"
+  ],
+  "description": "Author of Jami' al-Bayan (d. 923).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0578"
+  ]
+ },
+ {
+  "name": "Ibn Ishaq",
+  "type": "Character",
+  "description": "Author of al-Sira al-Nabawiyya, a biography of the Prophet.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0580"
+  ]
+ },
+ {
+  "name": "Abu Hamid al-Ghazali",
+  "type": "Character",
+  "aliases": [
+   "al-Ghazali"
+  ],
+  "description": "Great Sufi and theologian (d. 1111), author of Ihya' 'Ulum al-Din.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0580",
+   "realms-of-power-the-divine-revised::0586"
+  ]
+ },
+ {
+  "name": "Farid al-Din 'Attar",
+  "type": "Character",
+  "description": "Persian mystical poet and author of Tadhkirat al-Awliya'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0580",
+   "realms-of-power-the-divine-revised::0581"
+  ]
+ },
+ {
+  "name": "al-Shaykh al-Mufid",
+  "type": "Character",
+  "description": "Author of Kitab al-Irshad (d. 1022).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0581"
+  ]
+ },
+ {
+  "name": "al-Junayd",
+  "type": "Character",
+  "description": "Early writer at the origins of Sufism (d. 910).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586"
+  ]
+ },
+ {
+  "name": "al-Hallaj",
+  "type": "Character",
+  "description": "Early Sufi writer executed for heresy for claiming to be God incarnate (d. 922).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586"
+  ]
+ },
+ {
+  "name": "Abu Nasr al-Sarraj",
+  "type": "Character",
+  "description": "Writer who formalized Sufi theory (d. 988).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586"
+  ]
+ },
+ {
+  "name": "Ibn 'Arabi",
+  "type": "Character",
+  "description": "Mystical poet of Damascus, currently the most active Sufi thinker.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586"
+  ]
+ },
+ {
+  "name": "al-Hasan al-'Askari",
+  "type": "Character",
+  "description": "Eleventh Twelver imam, died 874.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0591"
+  ]
+ },
+ {
+  "name": "Muhammad al-Mahdi",
+  "type": "Character",
+  "description": "Twelfth imam of the Twelvers, in occultation until he returns as the mahdi.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0591"
+  ]
+ },
+ {
+  "name": "Ja'far al-Sadiq",
+  "type": "Character",
+  "description": "Sixth Shi'i imam (d. 765).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0592"
+  ]
+ },
+ {
+  "name": "Hasan-i Sabbah",
+  "type": "Character",
+  "description": "Persian Fatimid propagandist who seized Alamut in 1090 and founded the Assassins.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0594"
+  ]
+ },
+ {
+  "name": "al-Mustansir",
+  "type": "Character",
+  "description": "Fatimid caliph who died in 1094 after nominating Nizar.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0594"
+  ]
+ },
+ {
+  "name": "Nizar",
+  "type": "Character",
+  "description": "Eldest son of al-Mustansir, ousted and murdered; the Assassins sided with him.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0594",
+   "realms-of-power-the-divine-revised::0596"
+  ]
+ },
+ {
+  "name": "al-Musta'li",
+  "type": "Character",
+  "description": "Younger son of al-Mustansir installed as Fatimid caliph over Nizar.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0594"
+  ]
+ },
+ {
+  "name": "Rashid al-Din Sinan",
+  "type": "Character",
+  "aliases": [
+   "Old Man of the Mountain",
+   "Sinan"
+  ],
+  "description": "Greatest master of the Syrian Assassins (r. 1162-c.1193), said to be a magician; threatened Saladin.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0595",
+   "realms-of-power-the-divine-revised::0596"
+  ]
+ },
+ {
+  "name": "Ibn Tumart",
+  "type": "Character",
+  "description": "Founder of the Almohads who proclaimed himself the mahdi c. 1121.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0597"
+  ]
+ },
+ {
+  "name": "Jinn",
+  "type": "Creature",
+  "aliases": [
+   "jinni"
+  ],
+  "description": "Intelligent race made of smokeless flame; some embrace Islam, others tempt humans. In Ars Magica they are faerie creatures.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0538",
+   "realms-of-power-the-divine-revised::0539"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "description": "Beings made of light, God's direct servants; the Fourth Ring of Solomon summons a lesser angel as guide.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0520",
+   "realms-of-power-the-divine-revised::0539"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "demons"
+  ],
+  "description": "Infernal beings; they cannot hide their nature from the Fifth Ring and suffer from the shahada and zakat.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0522",
+   "realms-of-power-the-divine-revised::0557",
+   "realms-of-power-the-divine-revised::0560"
+  ]
+ },
+ {
+  "name": "Mecca",
+  "type": "Place",
+  "description": "Native city of Muhammad and site of the haram and Ka'ba; its Dominion auras are one point stronger.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0529",
+   "realms-of-power-the-divine-revised::0568"
+  ]
+ },
+ {
+  "name": "Medina",
+  "type": "Place",
+  "aliases": [
+   "al-Madina",
+   "Madinat al-Nabi",
+   "Yathrib"
+  ],
+  "description": "Oasis formerly Yathrib that welcomed Muhammad; site of the Mosque of the Prophet.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0530",
+   "realms-of-power-the-divine-revised::0568"
+  ]
+ },
+ {
+  "name": "Ka'ba",
+  "type": "Place",
+  "description": "Shrine of the Black Stone in Mecca built by Abraham and Isma'il; Dominion aura 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0529",
+   "realms-of-power-the-divine-revised::0564",
+   "realms-of-power-the-divine-revised::0568"
+  ]
+ },
+ {
+  "name": "Haram",
+  "type": "Place",
+  "description": "Sanctuary area around the Ka'ba at Mecca, direction of prayer.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0529",
+   "realms-of-power-the-divine-revised::0530",
+   "realms-of-power-the-divine-revised::0568"
+  ]
+ },
+ {
+  "name": "Mosque of the Prophet",
+  "type": "Place",
+  "description": "First mosque, in Medina, housing the tombs of Muhammad, Fatima, Abu Bakr and 'Umar; Dominion aura 9.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0544",
+   "realms-of-power-the-divine-revised::0568"
+  ]
+ },
+ {
+  "name": "Dome of the Rock",
+  "type": "Place",
+  "description": "Shrine in Jerusalem housing the rock from which Muhammad ascended; Dominion aura 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0543",
+   "realms-of-power-the-divine-revised::0569"
+  ]
+ },
+ {
+  "name": "Aqsa Mosque",
+  "type": "Place",
+  "description": "Important mosque on the Temple Mount with a Dominion aura of 6.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0569"
+  ]
+ },
+ {
+  "name": "Temple Mount",
+  "type": "Place",
+  "description": "Site in Jerusalem of supreme holiness to Jews and Muslims.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0569"
+  ]
+ },
+ {
+  "name": "Western Wall",
+  "type": "Place",
+  "description": "Remnant of the Jewish Temple, with a Dominion aura of 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0569"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "Holy city containing the Temple Mount and David's tomb.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0569"
+  ]
+ },
+ {
+  "name": "Mount of Olives",
+  "type": "Place",
+  "description": "Site outside Jerusalem where Rabi'a is buried.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0546"
+  ]
+ },
+ {
+  "name": "Hebron",
+  "type": "Place",
+  "aliases": [
+   "Cave of the Patriarchs"
+  ],
+  "description": "Site of the Cave of the Patriarchs, tomb of Abraham.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0544"
+  ]
+ },
+ {
+  "name": "Karbala'",
+  "type": "Place",
+  "aliases": [
+   "Karbala"
+  ],
+  "description": "Site of al-Husayn's burial.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545"
+  ]
+ },
+ {
+  "name": "Cairo",
+  "type": "Place",
+  "description": "City where al-Husayn's head and al-Shafi'i are interred.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0546"
+  ]
+ },
+ {
+  "name": "Basra",
+  "type": "Place",
+  "description": "Home town of Rabi'a al-'Adawiyya.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0546"
+  ]
+ },
+ {
+  "name": "Damascus",
+  "type": "Place",
+  "description": "City of Nur al-Din's tomb and home of Ibn 'Arabi.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0547",
+   "realms-of-power-the-divine-revised::0586"
+  ]
+ },
+ {
+  "name": "Baghdad",
+  "type": "Place",
+  "description": "Seat of the 'Abbasid caliph.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0534",
+   "realms-of-power-the-divine-revised::0548"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "Byzantine capital, birthplace of the Byzantine Priest, sacked when he was 15.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498",
+   "realms-of-power-the-divine-revised::0528"
+  ]
+ },
+ {
+  "name": "Ctesiphon",
+  "type": "Place",
+  "description": "Persian capital in Iraq.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0528"
+  ]
+ },
+ {
+  "name": "Arabian Peninsula",
+  "type": "Place",
+  "aliases": [
+   "Arabia"
+  ],
+  "description": "Birthplace of Islam, inhabited by oasis cultivators and nomads.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0528",
+   "realms-of-power-the-divine-revised::0531"
+  ]
+ },
+ {
+  "name": "Mountains of Qaf",
+  "type": "Place",
+  "description": "Homeland of the jinn thought to surround the world, likely within Arcadia.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0539"
+  ]
+ },
+ {
+  "name": "Jinnistan",
+  "type": "Place",
+  "description": "Subterranean homeland of the jinn conquered by Iblis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0539"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "description": "Faerie realm; Neriusians hold it is the Garden of Eden, and jinn homelands likely lie within it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487",
+   "realms-of-power-the-divine-revised::0539"
+  ]
+ },
+ {
+  "name": "Garden of Eden",
+  "type": "Place",
+  "description": "Which the Neriusians maintain is Arcadia, where humanity was created.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0487"
+  ]
+ },
+ {
+  "name": "University of Paris",
+  "type": "Place",
+  "description": "Suspected location of a copy of Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0505"
+  ]
+ },
+ {
+  "name": "Bishop of Armagh's library",
+  "type": "Place",
+  "aliases": [
+   "Armagh"
+  ],
+  "description": "Library in Ireland suspected to hold a copy of Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0505"
+  ]
+ },
+ {
+  "name": "Alamut",
+  "type": "Place",
+  "description": "Fortress in northern Persia seized by Hasan-i Sabbah, seat of the Assassins.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0594",
+   "realms-of-power-the-divine-revised::0595"
+  ]
+ },
+ {
+  "name": "Masyaf",
+  "type": "Place",
+  "description": "Most important Syrian fortress of the Assassins, besieged by Saladin in 1176.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0595",
+   "realms-of-power-the-divine-revised::0596"
+  ]
+ },
+ {
+  "name": "Harran",
+  "type": "Place",
+  "description": "City in Syria home of the Sabeans.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0549"
+  ]
+ },
+ {
+  "name": "Alexandria",
+  "type": "Place",
+  "description": "Where Nizar was murdered in prison.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0594"
+  ]
+ },
+ {
+  "name": "al-Safa and al-Marwa",
+  "type": "Place",
+  "aliases": [
+   "al-Safa",
+   "al-Marwa"
+  ],
+  "description": "Two hillocks at Mecca between which pilgrims run.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0564",
+   "realms-of-power-the-divine-revised::0565"
+  ]
+ },
+ {
+  "name": "Mina",
+  "type": "Place",
+  "description": "Site of the hajj where pilgrims stone a column representing Satan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0564",
+   "realms-of-power-the-divine-revised::0565"
+  ]
+ },
+ {
+  "name": "'Arafat",
+  "type": "Place",
+  "description": "Plain east of Mina where the 'standing' of the hajj occurs.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0564"
+  ]
+ },
+ {
+  "name": "Muzdalifa",
+  "type": "Place",
+  "description": "Stopping place between 'Arafat and Mina during the hajj.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0564"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Where the Knight Templar fought.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0500",
+   "realms-of-power-the-divine-revised::0544"
+  ]
+ },
+ {
+  "name": "Janna",
+  "type": "Place",
+  "aliases": [
+   "Firdaws",
+   "Paradise"
+  ],
+  "description": "Paradise, the blissful gardens.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0536"
+  ]
+ },
+ {
+  "name": "Jahannam",
+  "type": "Place",
+  "aliases": [
+   "Gehenna"
+  ],
+  "description": "Outer circle of hell, a purgatory for guilty Muslims.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0536"
+  ]
+ },
+ {
+  "name": "Empyreal realm",
+  "type": "Place",
+  "description": "Realm to which Nerius could travel through his greater regio spell.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0489"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Iberia"
+  ],
+  "description": "Hermetic tribunal including large territory under Muslim rule.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0548"
+  ]
+ },
+ {
+  "name": "Levant Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Levant"
+  ],
+  "description": "Hermetic tribunal including large territory under Muslim rule.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0548"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Divine realm"
+  ],
+  "description": "Realm within which Ars Notoria operates; its powers are Divine.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0504",
+   "realms-of-power-the-divine-revised::0526"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "The Divine aura of human faith; Muslim Dominion auras rise during prayer, Ramadan and holidays.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0481",
+   "realms-of-power-the-divine-revised::0559",
+   "realms-of-power-the-divine-revised::0567"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "Inferno"
+  ],
+  "description": "Realm of demons, pained by the shahada and zakat.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0557",
+   "realms-of-power-the-divine-revised::0560"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "description": "Realm whose lore Pagans may start with.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0481"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm to which jinn belong in Ars Magica.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0481",
+   "realms-of-power-the-divine-revised::0539"
+  ]
+ },
+ {
+  "name": "The Book of Solomon",
+  "type": "Item",
+  "description": "Book containing the Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0505"
+  ]
+ },
+ {
+  "name": "The Keys of Solomon",
+  "type": "Item",
+  "description": "Book containing the Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0505"
+  ]
+ },
+ {
+  "name": "Ars Notoria text",
+  "type": "Item",
+  "description": "Apollonius's text in four languages, a Quality 20 tractatus, the only way to initially learn Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0507",
+   "realms-of-power-the-divine-revised::0508"
+  ]
+ },
+ {
+  "name": "Prophet's Seal Ring",
+  "type": "Item",
+  "description": "Silver seal ring of Muhammad lost down a well by 'Uthman; would be a relic of Faith 7 and Divine Might 70.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0570",
+   "realms-of-power-the-divine-revised::0571"
+  ]
+ },
+ {
+  "name": "Dhu'l-Fiqar",
+  "type": "Item",
+  "description": "Two-pointed sword of the Prophet given to 'Ali; relic with Divine Might 70 that puts out enemies' eyes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0572"
+  ]
+ },
+ {
+  "name": "Qur'an",
+  "type": "Item",
+  "description": "Muslim holy book compiled from revelations to Muhammad; a Summa of Theology: Islam and can be invoked for baraka.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0529",
+   "realms-of-power-the-divine-revised::0577"
+  ]
+ },
+ {
+  "name": "Jami' al-Bayan 'an Ta'wil al-Qur'an",
+  "type": "Item",
+  "description": "Massive commentary on the Qur'an by al-Tabari; Summa on Theology: Islam and Islamic Law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0578"
+  ]
+ },
+ {
+  "name": "Kitab al-Luma'",
+  "type": "Item",
+  "description": "Tractatus by al-Ash'ari defending mainstream theology against the Mu'tazilis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0578",
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "al-Risala",
+  "type": "Item",
+  "description": "Treatise on Islamic jurisprudence by al-Shafi'i.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "al-Sahihan",
+  "type": "Item",
+  "aliases": [
+   "Sahih al-Bukhari",
+   "Sahih Muslim"
+  ],
+  "description": "Sahih al-Bukhari and Sahih Muslim, the two most respected hadith collections.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0571",
+   "realms-of-power-the-divine-revised::0579",
+   "realms-of-power-the-divine-revised::0580"
+  ]
+ },
+ {
+  "name": "al-Sira al-Nabawiyya",
+  "type": "Item",
+  "description": "Biography of the Prophet by Ibn Ishaq.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0580"
+  ]
+ },
+ {
+  "name": "Ihya' 'Ulum al-Din",
+  "type": "Item",
+  "description": "Summa by al-Ghazali uniting mainstream doctrine with Sufi inspiration.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0580"
+  ]
+ },
+ {
+  "name": "Tadhkirat al-Awliya'",
+  "type": "Item",
+  "description": "Biographies of Muslim mystics by Farid al-Din 'Attar, with altered sources.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0580",
+   "realms-of-power-the-divine-revised::0581"
+  ]
+ },
+ {
+  "name": "Kitab al-Irshad",
+  "type": "Item",
+  "description": "Biography of the twelve imams by al-Shaykh al-Mufid.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0581"
+  ]
+ },
+ {
+  "name": "Water of Life",
+  "type": "Item",
+  "description": "Water which made Khidr immortal.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0589"
+  ]
+ },
+ {
+  "name": "Rings of Solomon",
+  "type": "Concept",
+  "aliases": [
+   "rings"
+  ],
+  "description": "Seven levels of Ars Notoria wisdom, each a combination of orations and notae, learned in order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0511",
+   "realms-of-power-the-divine-revised::0514"
+  ]
+ },
+ {
+  "name": "Notae",
+  "type": "Concept",
+  "aliases": [
+   "notes"
+  ],
+  "description": "Individual Ars Notoria formulas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0503",
+   "realms-of-power-the-divine-revised::0511"
+  ]
+ },
+ {
+  "name": "Orations",
+  "type": "Concept",
+  "description": "Ars Notoria prayers recited in original languages at specific times.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0503",
+   "realms-of-power-the-divine-revised::0511"
+  ]
+ },
+ {
+  "name": "Recitation Score",
+  "type": "Concept",
+  "aliases": [
+   "recitation total"
+  ],
+  "description": "Intelligence + Ars Notoria + modifiers; plus a stress die gives the recitation total.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0511"
+  ]
+ },
+ {
+  "name": "First Ring of Solomon",
+  "type": "Concept",
+  "description": "Grants 100 experience points in Philosophiae and +3 Communication; recited in Spring or Autumn.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0517"
+  ]
+ },
+ {
+  "name": "Second Ring of Solomon",
+  "type": "Concept",
+  "description": "Grants 100 experience points in Theology and +3 Intelligence; recited in Winter.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0518"
+  ]
+ },
+ {
+  "name": "Third Ring of Solomon",
+  "type": "Concept",
+  "description": "Grants 100 experience points in Medicine and Greater Purifying Touch.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0519"
+  ]
+ },
+ {
+  "name": "Fourth Ring of Solomon",
+  "type": "Concept",
+  "description": "Summons a personal Patron Angel as guide and teacher.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0520"
+  ]
+ },
+ {
+  "name": "Fifth Ring of Solomon",
+  "type": "Concept",
+  "aliases": [
+   "Sense Realm Affiliation"
+  ],
+  "description": "Allows sensing the realm affiliation of beings; recited in Summer.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0521",
+   "realms-of-power-the-divine-revised::0522"
+  ]
+ },
+ {
+  "name": "Sixth Ring of Solomon",
+  "type": "Concept",
+  "description": "Grants holy divination of God's plan; recited in Spring.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0523",
+   "realms-of-power-the-divine-revised::0524"
+  ]
+ },
+ {
+  "name": "Seventh Ring of Solomon",
+  "type": "Concept",
+  "description": "Grants perfect understanding; no botches and all simple rolls become stress rolls.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0525"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Supernatural layered area; The Neriusian Portal creates a level 1 terrestrial regio.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0489"
+  ]
+ },
+ {
+  "name": "Divine Aura",
+  "type": "Concept",
+  "aliases": [
+   "Dominion aura"
+  ],
+  "description": "Aura of the Divine; Ars Notoria reduces its casting penalty.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0526",
+   "realms-of-power-the-divine-revised::0567"
+  ]
+ },
+ {
+  "name": "Realm Interaction Chart",
+  "type": "Concept",
+  "description": "Chart of penalties for casting in auras of other realms.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0526"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gifted"
+  ],
+  "description": "Supernatural talent; baptism is believed to impair it, and only Gifted readers can learn Ars Notoria.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0482",
+   "realms-of-power-the-divine-revised::0507",
+   "realms-of-power-the-divine-revised::0508"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Magical resource monastic magi cannot own.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0480"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "Bound magical companion; monastic vows may prohibit binding one.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0480"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight points"
+  ],
+  "description": "Hermetic Twilight; the Seventh Ring spares one Twilight points from botches.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0525"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points"
+  ],
+  "description": "Warping Points, not gained from Divine auras while a ring is active.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0526"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance a Fifth Ring roll must exceed to identify a creature's realm.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0521"
+  ]
+ },
+ {
+  "name": "True Name",
+  "type": "Concept",
+  "description": "Name used in supernatural activities; baptism or Muslim birth rites render it unusable.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0573"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "aliases": [
+   "Faith Score"
+  ],
+  "description": "Divine resource; a completed hajj grants 3 Faith Points.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0565",
+   "realms-of-power-the-divine-revised::0570"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [
+   "Confidence Point"
+  ],
+  "description": "Confidence Score and Points; copying the Qur'an grants a Confidence Point.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0498",
+   "realms-of-power-the-divine-revised::0578"
+  ]
+ },
+ {
+  "name": "Divine Might",
+  "type": "Concept",
+  "description": "Measure of a holy figure's or relic's divine power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Greater Saint",
+  "type": "Concept",
+  "description": "Saint category to which Abraham and David belong.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545"
+  ]
+ },
+ {
+  "name": "Holy Forbears",
+  "type": "Concept",
+  "description": "Muslim revered figures at whose shrines baraka may be invoked, similar to saints.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0540",
+   "realms-of-power-the-divine-revised::0541"
+  ]
+ },
+ {
+  "name": "Baraka",
+  "type": "Concept",
+  "description": "Blessing sought by Muslims at the tombs of holy forbears.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0540",
+   "realms-of-power-the-divine-revised::0541",
+   "realms-of-power-the-divine-revised::0542"
+  ]
+ },
+ {
+  "name": "Khawass al-Qur'an",
+  "type": "Concept",
+  "description": "Special properties of the Qur'an, which may be invoked anywhere; Divine Might 100.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Saints",
+  "type": "Concept",
+  "description": "Christian holy figures invoked for miracles, a model for Muslim holy forbears.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0540"
+  ]
+ },
+ {
+  "name": "Shari'a",
+  "type": "Concept",
+  "aliases": [
+   "al-shari'a"
+  ],
+  "description": "Islamic law derived from the usul al-fiqh.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0550",
+   "realms-of-power-the-divine-revised::0552"
+  ]
+ },
+ {
+  "name": "Usul al-fiqh",
+  "type": "Concept",
+  "description": "The principles of jurisprudence: Qur'an, Sunna, ijma' and qiyas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0550"
+  ]
+ },
+ {
+  "name": "Sunna",
+  "type": "Concept",
+  "description": "Actions and sayings of the Prophet and companions as examples of good behavior.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0550"
+  ]
+ },
+ {
+  "name": "Hadith",
+  "type": "Concept",
+  "description": "Individual narrative reports of the Prophet; also the collective literature.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0550",
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "Ijma'",
+  "type": "Concept",
+  "description": "Consensus of the community, in practice legal scholars.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0550",
+   "realms-of-power-the-divine-revised::0588"
+  ]
+ },
+ {
+  "name": "Qiyas",
+  "type": "Concept",
+  "description": "Legal reasoning by analogy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0550",
+   "realms-of-power-the-divine-revised::0551"
+  ]
+ },
+ {
+  "name": "Madhhab",
+  "type": "Concept",
+  "aliases": [
+   "madhhabs"
+  ],
+  "description": "School of Islamic law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0551",
+   "realms-of-power-the-divine-revised::0579"
+  ]
+ },
+ {
+  "name": "Hudud",
+  "type": "Concept",
+  "description": "Canonical penalties for five major crimes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0552"
+  ]
+ },
+ {
+  "name": "Jihad",
+  "type": "Concept",
+  "description": "Struggle, greater (inner) and lesser (against evil, warfare).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0553",
+   "realms-of-power-the-divine-revised::0554",
+   "realms-of-power-the-divine-revised::0589"
+  ]
+ },
+ {
+  "name": "Pillars of Islam",
+  "type": "Concept",
+  "aliases": [
+   "arkan al-islam"
+  ],
+  "description": "Five basic duties of Muslim life.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0556"
+  ]
+ },
+ {
+  "name": "Shahada",
+  "type": "Concept",
+  "description": "Testimony of faith; Infernal creatures hearing it suffer discomfort.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0557",
+   "realms-of-power-the-divine-revised::0576"
+  ]
+ },
+ {
+  "name": "Salat",
+  "type": "Concept",
+  "description": "Ritual prayer five times daily; raises Islamic Dominion auras by one during prayer.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0558",
+   "realms-of-power-the-divine-revised::0559"
+  ]
+ },
+ {
+  "name": "Zakat",
+  "type": "Concept",
+  "description": "Alms-tax; Infernal creatures cannot handle goods given as zakat.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0560",
+   "realms-of-power-the-divine-revised::0542"
+  ]
+ },
+ {
+  "name": "Sawm",
+  "type": "Concept",
+  "description": "Fasting during Ramadan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0561"
+  ]
+ },
+ {
+  "name": "Hajj",
+  "type": "Concept",
+  "description": "Major pilgrimage to Mecca; completion grants Pious +3 and 3 Faith Points.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0530",
+   "realms-of-power-the-divine-revised::0564",
+   "realms-of-power-the-divine-revised::0565"
+  ]
+ },
+ {
+  "name": "Ramadan",
+  "type": "Concept",
+  "description": "Ninth Muslim month of fasting; Muslim Dominion auras increase by one.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0561",
+   "realms-of-power-the-divine-revised::0562"
+  ]
+ },
+ {
+  "name": "'Id al-Fitr",
+  "type": "Concept",
+  "aliases": [
+   "al-'Id al-Saghir"
+  ],
+  "description": "Feast of breaking the fast ending Ramadan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0561",
+   "realms-of-power-the-divine-revised::0563"
+  ]
+ },
+ {
+  "name": "'Id al-Adha",
+  "type": "Concept",
+  "aliases": [
+   "al-'Id al-Kabir"
+  ],
+  "description": "Feast of sacrifice commemorating Abraham.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0563",
+   "realms-of-power-the-divine-revised::0564"
+  ]
+ },
+ {
+  "name": "Muslim Calendar",
+  "type": "Concept",
+  "description": "Lunar calendar dating from the hijra of 622.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0561",
+   "realms-of-power-the-divine-revised::0562"
+  ]
+ },
+ {
+  "name": "Hijra",
+  "type": "Concept",
+  "description": "Muhammad's emigration from Mecca to Medina in 622.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0530",
+   "realms-of-power-the-divine-revised::0561"
+  ]
+ },
+ {
+  "name": "Isra' and Mi'raj",
+  "type": "Concept",
+  "aliases": [
+   "Laylat al-Isra' wa'l-Mi'raj"
+  ],
+  "description": "Muhammad's night journey to Jerusalem and ascent to heaven.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0562",
+   "realms-of-power-the-divine-revised::0569"
+  ]
+ },
+ {
+  "name": "Laylat al-Qadr",
+  "type": "Concept",
+  "description": "Night of Destiny when Muhammad received the first revelation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0563"
+  ]
+ },
+ {
+  "name": "Laylat al-Bara'a",
+  "type": "Concept",
+  "description": "Night when God approaches Earth to forgive sins.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0562",
+   "realms-of-power-the-divine-revised::0563"
+  ]
+ },
+ {
+  "name": "Mawlid al-Nabi",
+  "type": "Concept",
+  "description": "Birthday of the Prophet holiday.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0562"
+  ]
+ },
+ {
+  "name": "'Ashura'",
+  "type": "Concept",
+  "description": "Day of fasting and mourning for al-Husayn.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0562"
+  ]
+ },
+ {
+  "name": "Ra's al-Sana",
+  "type": "Concept",
+  "description": "Muslim New Year.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0562"
+  ]
+ },
+ {
+  "name": "Mahdi",
+  "type": "Concept",
+  "description": "Messiah who will appear at the end of time.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0536",
+   "realms-of-power-the-divine-revised::0591",
+   "realms-of-power-the-divine-revised::0597"
+  ]
+ },
+ {
+  "name": "Ghayba",
+  "type": "Concept",
+  "aliases": [
+   "ghayba kubra"
+  ],
+  "description": "Occultation of the twelfth imam.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0591"
+  ]
+ },
+ {
+  "name": "Ilham",
+  "type": "Concept",
+  "description": "Divine inspiration of the imams.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0588"
+  ]
+ },
+ {
+  "name": "Karamas",
+  "type": "Concept",
+  "description": "Miracles worked by zahids.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0587"
+  ]
+ },
+ {
+  "name": "Ahl al-kitab",
+  "type": "Concept",
+  "aliases": [
+   "ahl al-dhimma"
+  ],
+  "description": "People of the book, permitted to live in Muslim lands as dhimmis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0548",
+   "realms-of-power-the-divine-revised::0549"
+  ]
+ },
+ {
+  "name": "Jizya",
+  "type": "Concept",
+  "description": "Poll tax paid by dhimmis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0549"
+  ]
+ },
+ {
+  "name": "Ifranj",
+  "type": "Concept",
+  "description": "Muslim name for Europeans (Franks).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0584"
+  ]
+ },
+ {
+  "name": "Mosque",
+  "type": "Concept",
+  "description": "Muslim building for communal prayer with a Dominion aura of 4 or 5.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0566",
+   "realms-of-power-the-divine-revised::0567"
+  ]
+ },
+ {
+  "name": "Zawiya",
+  "type": "Concept",
+  "aliases": [
+   "zawiyas"
+  ],
+  "description": "Sufi home at a saint's tomb.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586",
+   "realms-of-power-the-divine-revised::0587"
+  ]
+ },
+ {
+  "name": "Khanqah",
+  "type": "Concept",
+  "description": "Sufi convent.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586",
+   "realms-of-power-the-divine-revised::0587"
+  ]
+ },
+ {
+  "name": "Ribat",
+  "type": "Concept",
+  "description": "Sufi hospice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0586",
+   "realms-of-power-the-divine-revised::0587"
+  ]
+ },
+ {
+  "name": "Acknowledgment of Evil",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Expel Demons",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Resist Temptation",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Grant of Serenity",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "The Incombustible Shroud",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Straighten the Crippled",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "The Faithful Made Whole",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Celestial Immunity",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Apparition",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Cure Blindness",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Tomorrow's Bounty",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "The Dutiful Shepherd",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Sanctuary of Virginity",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "The Leap of the Faithful",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Mass Healing",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Raise the Dead",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Humility of Caesar",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Terrify the Unbeliever",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Ignem Domini",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "Rebuke the Unfaithful",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0542",
+   "realms-of-power-the-divine-revised::0543"
+  ]
+ },
+ {
+  "name": "The Laborer's Boon",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0545",
+   "realms-of-power-the-divine-revised::0546",
+   "realms-of-power-the-divine-revised::0547"
+  ]
+ },
+ {
+  "name": "The Earth's Riches",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0546"
+  ]
+ },
+ {
+  "name": "Blindness",
+  "type": "Concept",
+  "description": "Saint Power available through invoking Muslim holy forbears or relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0572"
+  ]
+ }
+]

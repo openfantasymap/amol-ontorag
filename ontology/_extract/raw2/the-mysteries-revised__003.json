@@ -1,0 +1,1782 @@
+[
+ {
+  "name": "Names of Power",
+  "type": "Virtue",
+  "aliases": [
+   "Name of Power"
+  ],
+  "description": "Minor Hermetic Mystery Virtue of name magic; Names of Power add bonuses to Casting Score for spells matching their scope, limited by Magic Theory.",
+  "evidence": [
+   "the-mysteries-revised::0360",
+   "the-mysteries-revised::0361",
+   "the-mysteries-revised::0412"
+  ]
+ },
+ {
+  "name": "Invocation Magic",
+  "type": "Virtue",
+  "description": "Major Mystery Virtue requiring Names of Power, letting a magus cast Names of Power as Muto Vim spells to boost a following spellcasting, limited by Magic Theory.",
+  "evidence": [
+   "the-mysteries-revised::0361",
+   "the-mysteries-revised::0362"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Virtue",
+  "description": "Minor Hermetic Mystery Virtue teaching how to invent Invoke spells that form pacts with specific named spirits.",
+  "evidence": [
+   "the-mysteries-revised::0363",
+   "the-mysteries-revised::0376",
+   "the-mysteries-revised::0383"
+  ]
+ },
+ {
+  "name": "Theurgic Spirit Familiar",
+  "type": "Virtue",
+  "description": "Minor Hermetic Mystery Virtue essentially identical to Spirit Familiar but part of name magic; a powerful maga may bind an Aspect of a Daimon as familiar.",
+  "evidence": [
+   "the-mysteries-revised::0380",
+   "the-mysteries-revised::0381"
+  ]
+ },
+ {
+  "name": "Spirit Familiar",
+  "type": "Virtue",
+  "description": "Virtue from Chapter 8 (Spirit Magic) allowing a spirit to be bound as a familiar; a spirit familiar automatically stays with an ascending magus.",
+  "evidence": [
+   "the-mysteries-revised::0380",
+   "the-mysteries-revised::0386"
+  ]
+ },
+ {
+  "name": "Ascendancy to the Hall of Heroes",
+  "type": "Virtue",
+  "aliases": [
+   "Mystery Ascendancy to the Hall of Heroes"
+  ],
+  "description": "Major Hermetic Mystery Virtue requiring Hermetic Theurgy, teaching a path of apotheosis by which a hierarch ascends as a Daimon to the Hall of Heroes with the aid of celebrants.",
+  "evidence": [
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0381",
+   "the-mysteries-revised::0390"
+  ]
+ },
+ {
+  "name": "Hermetic Synthemata",
+  "type": "Virtue",
+  "description": "Minor Hermetic Mystery Virtue teaching how to research a being's synthemata as spells that boost Penetration against it.",
+  "evidence": [
+   "the-mysteries-revised::0396",
+   "the-mysteries-revised::0397",
+   "the-mysteries-revised::0402"
+  ]
+ },
+ {
+  "name": "Synthemata Magia",
+  "type": "Ability",
+  "description": "Major Supernatural Mystery Ability, the non-Hermetic predecessor of Hermetic Synthemata, letting a magus intuit a being's synthemata using (Realm) Lore.",
+  "evidence": [
+   "the-mysteries-revised::0402",
+   "the-mysteries-revised::0403",
+   "the-mysteries-revised::0404"
+  ]
+ },
+ {
+  "name": "Great Talisman",
+  "type": "Virtue",
+  "description": "Minor Hermetic Mystery Virtue letting a magus attune his talisman's Shape and Material Bonuses more easily and add new components to it.",
+  "evidence": [
+   "the-mysteries-revised::0409",
+   "the-mysteries-revised::0410",
+   "the-mysteries-revised::0411"
+  ]
+ },
+ {
+  "name": "Consummate Talisman",
+  "type": "Virtue",
+  "description": "Major Hermetic Mystery Virtue allowing Muto Vim effects and Names of Power to be enchanted into a talisman to affect the magus's own spellcasting.",
+  "evidence": [
+   "the-mysteries-revised::0412",
+   "the-mysteries-revised::0413",
+   "the-mysteries-revised::0360"
+  ]
+ },
+ {
+  "name": "Inscription on the Soul",
+  "type": "Virtue",
+  "description": "Spirit Magic Mystery (Chapter 8) letting a magus use body or spirit as talisman; it can substitute for Great Talisman as prerequisite to Consummate Talisman.",
+  "evidence": [
+   "the-mysteries-revised::0412",
+   "the-mysteries-revised::0391"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Virtue",
+  "description": "Virtue linking a magus to the Faerie realm, allowing him to invent spells summoning faerie spirits.",
+  "evidence": [
+   "the-mysteries-revised::0360"
+  ]
+ },
+ {
+  "name": "Flexible Formulaic Magic",
+  "type": "Virtue",
+  "description": "Virtue allowing a caster to vary one of Range, Duration or Target by one step; invoked spirits cast as if they had it.",
+  "evidence": [
+   "the-mysteries-revised::0363",
+   "the-mysteries-revised::0364",
+   "the-mysteries-revised::0368"
+  ]
+ },
+ {
+  "name": "Slow Caster",
+  "type": "Flaw",
+  "description": "Flaw causing instructing an invoked spirit to take two rounds rather than one.",
+  "evidence": [
+   "the-mysteries-revised::0368",
+   "the-mysteries-revised::0373"
+  ]
+ },
+ {
+  "name": "Life-Boost",
+  "type": "Virtue",
+  "description": "Virtue requiring expenditure of Fatigue; a Daimon expends Might instead.",
+  "evidence": [
+   "the-mysteries-revised::0393"
+  ]
+ },
+ {
+  "name": "Life-Linked Spontaneous Magic",
+  "type": "Virtue",
+  "description": "Virtue involving Fatigue expenditure for spontaneous magic; Daimonic magi pay 5 Might per Fatigue level instead.",
+  "evidence": [
+   "the-mysteries-revised::0393"
+  ]
+ },
+ {
+  "name": "Deleterious Circumstances",
+  "type": "Flaw",
+  "description": "Flaw gained as a Minor Ordeal for Consummate Talisman: magic totals halved when not touching the talisman.",
+  "evidence": [
+   "the-mysteries-revised::0413"
+  ]
+ },
+ {
+  "name": "Necessary Condition",
+  "type": "Flaw",
+  "description": "Major Ordeal Flaw that may be taken for Consummate Talisman: the magus must wield his talisman or his magic fails.",
+  "evidence": [
+   "the-mysteries-revised::0413"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "Magical sense able to see the magical circle of an Arcane Circle or Arcane Ring (Ease Factor 9).",
+  "evidence": [
+   "the-mysteries-revised::0439",
+   "the-mysteries-revised::0440"
+  ]
+ },
+ {
+  "name": "Hermetic Numerology",
+  "type": "Virtue",
+  "aliases": [
+   "Numerology"
+  ],
+  "description": "Minor Mystery Virtue letting a magus devise Rotes and enchant a Numerologist's Book; prerequisite for Divination (Numerology).",
+  "evidence": [
+   "the-mysteries-revised::0415",
+   "the-mysteries-revised::0416",
+   "the-mysteries-revised::0421"
+  ]
+ },
+ {
+  "name": "Hermetic Geometry",
+  "type": "Virtue",
+  "aliases": [
+   "Geometry"
+  ],
+  "description": "Minor Mystery Virtue using Euclid's postulates for sympathetic magic, granting casting bonuses for perfect figures and new Line Range, Arcane Circle Target and Arcane Ring Duration.",
+  "evidence": [
+   "the-mysteries-revised::0429",
+   "the-mysteries-revised::0430",
+   "the-mysteries-revised::0432"
+  ]
+ },
+ {
+  "name": "Hermetic Architecture",
+  "type": "Virtue",
+  "aliases": [
+   "Sacred Architecture"
+  ],
+  "description": "Minor Mystery Virtue for large-scale enchantment of rooms, buildings, stone circles, paths and gateways through linked component devices, and for manipulating auras and regiones.",
+  "evidence": [
+   "the-mysteries-revised::0447",
+   "the-mysteries-revised::0449",
+   "the-mysteries-revised::0459"
+  ]
+ },
+ {
+  "name": "Dream Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Mystery Virtue, synthesized from Baltic folk tradition by Raisa of Novgorod, letting a magus enter and act within dreams.",
+  "evidence": [
+   "the-mysteries-revised::0471",
+   "the-mysteries-revised::0472",
+   "the-mysteries-revised::0475"
+  ]
+ },
+ {
+  "name": "Celestial Magic",
+  "type": "Virtue",
+  "description": "Mystery that reduces the vis requirement for opening devices by the Laboratory Horoscope score.",
+  "evidence": [
+   "the-mysteries-revised::0449",
+   "the-mysteries-revised::0450"
+  ]
+ },
+ {
+  "name": "Philosophic Alchemy",
+  "type": "Virtue",
+  "description": "Mystery that can pre-fill an object with opened enchantment spaces, reducing spaces a magus must open.",
+  "evidence": [
+   "the-mysteries-revised::0449",
+   "the-mysteries-revised::0450"
+  ]
+ },
+ {
+  "name": "Divination (Numerology)",
+  "type": "Ability",
+  "aliases": [
+   "Hermetic Divination (Numerology)"
+  ],
+  "description": "Numerological divination for which Hermetic Numerology is prerequisite; the Numerologist's Book adds to it as ceremonial bonus.",
+  "evidence": [
+   "the-mysteries-revised::0414",
+   "the-mysteries-revised::0415",
+   "the-mysteries-revised::0416"
+  ]
+ },
+ {
+  "name": "Casual Augury (Numerology)",
+  "type": "Ability",
+  "description": "Numerological augury used with Numbering the Flock to interpret numbers.",
+  "evidence": [
+   "the-mysteries-revised::0426"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability limiting Name of Power bonuses, talisman components, vis handling and appearing in Lab Totals.",
+  "evidence": [
+   "the-mysteries-revised::0360",
+   "the-mysteries-revised::0365",
+   "the-mysteries-revised::0410"
+  ]
+ },
+ {
+  "name": "(Realm) Lore",
+  "type": "Ability",
+  "aliases": [
+   "Realm Lore"
+  ],
+  "description": "Realm Lore Abilities used in theurgic Lab Totals, synthemata research and intuiting synthemata.",
+  "evidence": [
+   "the-mysteries-revised::0365",
+   "the-mysteries-revised::0397",
+   "the-mysteries-revised::0402"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [
+   "Arithmetic",
+   "Artes Liberales (arithmetic)",
+   "Artes Liberales (geometry)"
+  ],
+  "description": "Liberal arts Ability; its arithmetic specialty underlies Numerology and its geometry specialty Hermetic Geometry and Architecture.",
+  "evidence": [
+   "the-mysteries-revised::0414",
+   "the-mysteries-revised::0415",
+   "the-mysteries-revised::0435"
+  ]
+ },
+ {
+  "name": "Profession: Scribe",
+  "type": "Ability",
+  "description": "Ability used with Dexterity to draw a perfect shape for Hermetic Geometry.",
+  "evidence": [
+   "the-mysteries-revised::0430"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability rolled to trace Circle/Ring shapes and to stay in a dream despite physical disturbance.",
+  "evidence": [
+   "the-mysteries-revised::0431",
+   "the-mysteries-revised::0472"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "description": "Craft Ability; not required to add components to a great talisman, and Verditius mysteries reduce vis by Craft Score.",
+  "evidence": [
+   "the-mysteries-revised::0411",
+   "the-mysteries-revised::0449"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Technique of transformation; Names of Power, synthemata and talisman effects are Muto Vim.",
+  "evidence": [
+   "the-mysteries-revised::0361",
+   "the-mysteries-revised::0396",
+   "the-mysteries-revised::0412"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form of magic itself; used in synthemata, Invoke Pact rituals and aura-manipulating enchantments.",
+  "evidence": [
+   "the-mysteries-revised::0375",
+   "the-mysteries-revised::0396",
+   "the-mysteries-revised::0460"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique of creation; Transformation of the Ascendant Hierarch and aura-increasing enchantments are Creo Vim.",
+  "evidence": [
+   "the-mysteries-revised::0387",
+   "the-mysteries-revised::0460",
+   "the-mysteries-revised::0422"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique of control; used in Invoke the Pact of (Daimon), Bind the Mystical Structure and geometry spells.",
+  "evidence": [
+   "the-mysteries-revised::0375",
+   "the-mysteries-revised::0442",
+   "the-mysteries-revised::0454"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique of perception; used in Numerologist's counting spells and detecting magical circles.",
+  "evidence": [
+   "the-mysteries-revised::0425",
+   "the-mysteries-revised::0426",
+   "the-mysteries-revised::0439"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Technique of destruction; a requisite for shrinking regiones and imperfecting shapes.",
+  "evidence": [
+   "the-mysteries-revised::0437",
+   "the-mysteries-revised::0465"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form of fire; Pilum of Fire and Numera's Rotes are Creo Ignem.",
+  "evidence": [
+   "the-mysteries-revised::0369",
+   "the-mysteries-revised::0422",
+   "the-mysteries-revised::0423"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form of earth; Rego Terram geometry guidelines reshape dirt and stone.",
+  "evidence": [
+   "the-mysteries-revised::0437",
+   "the-mysteries-revised::0442",
+   "the-mysteries-revised::0443"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Form of plants, a requisite in building-perfecting spells.",
+  "evidence": [
+   "the-mysteries-revised::0443",
+   "the-mysteries-revised::0444"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form of the human body; used in counting people and in dream spell examples.",
+  "evidence": [
+   "the-mysteries-revised::0427",
+   "the-mysteries-revised::0428",
+   "the-mysteries-revised::0476"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form of animals; Numbering the Flock is InAn.",
+  "evidence": [
+   "the-mysteries-revised::0372",
+   "the-mysteries-revised::0390",
+   "the-mysteries-revised::0426"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form of mind; the capacity to dream is a function of Mentem, and Mentem magic enters or controls dreams.",
+  "evidence": [
+   "the-mysteries-revised::0468",
+   "the-mysteries-revised::0475",
+   "the-mysteries-revised::0478"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form of images; the substance of dreams, and all magic within dreams is cast as Imaginem.",
+  "evidence": [
+   "the-mysteries-revised::0468",
+   "the-mysteries-revised::0472",
+   "the-mysteries-revised::0475"
+  ]
+ },
+ {
+  "name": "Invoke the Spirit of (spell)",
+  "type": "Spell",
+  "description": "Generic Mystery spell forming a pact with a named spirit that casts a single Formulaic spell as a power on the magus's behalf.",
+  "evidence": [
+   "the-mysteries-revised::0363",
+   "the-mysteries-revised::0366",
+   "the-mysteries-revised::0367"
+  ]
+ },
+ {
+  "name": "Invoke the Spirit of (Form)",
+  "type": "Spell",
+  "description": "Generic Mystery spell forming a pact with a named spirit that performs effects as if casting Spontaneous Magic in a given Art combination.",
+  "evidence": [
+   "the-mysteries-revised::0363",
+   "the-mysteries-revised::0372",
+   "the-mysteries-revised::0373"
+  ]
+ },
+ {
+  "name": "Invoke the Pact of (Daimon)",
+  "type": "Spell",
+  "aliases": [
+   "Invoke Pact"
+  ],
+  "description": "ReVi Mystery Ritual forming a pact with a powerful named Daimon, which sends an Aspect to answer and perform services; grants the Daimon Daimon Points.",
+  "evidence": [
+   "the-mysteries-revised::0364",
+   "the-mysteries-revised::0375",
+   "the-mysteries-revised::0392"
+  ]
+ },
+ {
+  "name": "Invoke the Spirit Akkala for a Day",
+  "type": "Spell",
+  "description": "Gunnar's CrIg 30 Invoke spell summoning the spirit Akkala until sunset to cast Pilum of Fire.",
+  "evidence": [
+   "the-mysteries-revised::0369",
+   "the-mysteries-revised::0370"
+  ]
+ },
+ {
+  "name": "Invoke the Spirit Nissila",
+  "type": "Spell",
+  "description": "Gunnar's Invoke spell with 15 added levels for a +30 Penetration bonus, summoning Nissila to cast Pilum of Fire.",
+  "evidence": [
+   "the-mysteries-revised::0371"
+  ]
+ },
+ {
+  "name": "Pilum of Fire",
+  "type": "Spell",
+  "description": "Level 20 Creo Ignem spell that Gunnar's invoked spirits Akkala and Nissila can cast for him.",
+  "evidence": [
+   "the-mysteries-revised::0369",
+   "the-mysteries-revised::0370",
+   "the-mysteries-revised::0371"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "description": "Spell used by groups of magi to aid Penetration, e.g. when casting Invoke Pact or Transformation of the Ascendant Hierarch.",
+  "evidence": [
+   "the-mysteries-revised::0377",
+   "the-mysteries-revised::0387",
+   "the-mysteries-revised::0388"
+  ]
+ },
+ {
+  "name": "Ascendant Form of the Intendant Hierarch",
+  "type": "Spell",
+  "aliases": [
+   "Ascendant Form"
+  ],
+  "description": "Mystery Ritual in which the hierarch constructs a prototype ascendant form, manifesting his abilities in their strongest form during apotheosis.",
+  "evidence": [
+   "the-mysteries-revised::0384",
+   "the-mysteries-revised::0385",
+   "the-mysteries-revised::0389"
+  ]
+ },
+ {
+  "name": "Transformation of the Ascendant Hierarch",
+  "type": "Spell",
+  "aliases": [
+   "Transformation"
+  ],
+  "description": "CrVi Mystery Ordeal Ritual cast by celebrants on a hierarch under Ascendant Form, accumulating transformation points toward ascension.",
+  "evidence": [
+   "the-mysteries-revised::0384",
+   "the-mysteries-revised::0387",
+   "the-mysteries-revised::0389"
+  ]
+ },
+ {
+  "name": "Synthemata of (X)",
+  "type": "Spell",
+  "description": "MuVi Mystery spell unique to one named being, adding its level to the caster's Penetration for the next spell against that being.",
+  "evidence": [
+   "the-mysteries-revised::0396"
+  ]
+ },
+ {
+  "name": "The Lasting Synthemata of (X)",
+  "type": "Spell",
+  "description": "Diameter-duration MuVi Mystery synthemata spell adding (level-5) to Penetration for all spells against the named being while it lasts.",
+  "evidence": [
+   "the-mysteries-revised::0397"
+  ]
+ },
+ {
+  "name": "The Hedge Lord's Synthemata of (X)",
+  "type": "Spell",
+  "description": "MuVi spell from Synthemata Magia adding (level-5) to Casting Score against the named being for two minutes.",
+  "evidence": [
+   "the-mysteries-revised::0405"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Covenant ward spell that may ward out a spirit offended by synthemata research.",
+  "evidence": [
+   "the-mysteries-revised::0406"
+  ]
+ },
+ {
+  "name": "Enchantment of the Scrying Device",
+  "type": "Spell",
+  "description": "Effect that can be invested into a Numerologist's Book to give a Magical bonus to Ceremonial Divination.",
+  "evidence": [
+   "the-mysteries-revised::0418"
+  ]
+ },
+ {
+  "name": "Numbering the Flock",
+  "type": "Spell",
+  "description": "InAn 20 spell letting the Numerologist instantly know the number and kinds of animals she can see.",
+  "evidence": [
+   "the-mysteries-revised::0426"
+  ]
+ },
+ {
+  "name": "The Significance of the Group",
+  "type": "Spell",
+  "description": "InCo 10 spell that divines the number of people in a group, with any Group restriction.",
+  "evidence": [
+   "the-mysteries-revised::0427"
+  ]
+ },
+ {
+  "name": "Numbering the Host",
+  "type": "Spell",
+  "description": "InCo 15 spell revealing the number of people the caster can see, distinguished by appearance.",
+  "evidence": [
+   "the-mysteries-revised::0428"
+  ]
+ },
+ {
+  "name": "Scribe the Perfect Circle",
+  "type": "Spell",
+  "description": "Re(Cr)Te 4 spell that scribes a perfect circle for a magus to trace for circle spells.",
+  "evidence": [
+   "the-mysteries-revised::0431",
+   "the-mysteries-revised::0442"
+  ]
+ },
+ {
+  "name": "Perfection of the Well-Designed Chamber",
+  "type": "Spell",
+  "description": "Re(Cr)Te(He) 20 spell reshaping one room of a building to be perfectly regular for Hermetic Geometry ceremonial bonuses.",
+  "evidence": [
+   "the-mysteries-revised::0443",
+   "the-mysteries-revised::0444"
+  ]
+ },
+ {
+  "name": "The Perfected Structure",
+  "type": "Spell",
+  "description": "Re(Cr)Te(He) 20 spell reshaping an entire building to be geometrically perfect, stronger and more pleasing.",
+  "evidence": [
+   "the-mysteries-revised::0444",
+   "the-mysteries-revised::0445"
+  ]
+ },
+ {
+  "name": "Bind the Mystical Structure",
+  "type": "Spell",
+  "aliases": [
+   "Bind the Mystical Boundary"
+  ],
+  "description": "ReVi Mystery Ritual linking the component devices of a Hermetic Architecture enchantment into one working whole.",
+  "evidence": [
+   "the-mysteries-revised::0453",
+   "the-mysteries-revised::0454",
+   "the-mysteries-revised::0455"
+  ]
+ },
+ {
+  "name": "The Lucid Dreamer",
+  "type": "Spell",
+  "description": "Mu(In)Me 20 Mystery spell letting the caster's conscious spirit enter his own dream and act freely.",
+  "evidence": [
+   "the-mysteries-revised::0479"
+  ]
+ },
+ {
+  "name": "Agathocles' Recipe for Sending a Dream",
+  "type": "Spell",
+  "description": "Spell on a Gnostic papyrus showing early heretics experimented with dream magic.",
+  "evidence": [
+   "the-mysteries-revised::0470"
+  ]
+ },
+ {
+  "name": "The Perfected Tower",
+  "type": "Item",
+  "description": "Re(Cr)Te(He) 34 Hermetic Architecture enchantment using seven component devices to keep a stone tower perpetually perfected.",
+  "evidence": [
+   "the-mysteries-revised::0455",
+   "the-mysteries-revised::0456"
+  ]
+ },
+ {
+  "name": "Trajan's Arena",
+  "type": "Item",
+  "description": "CrMe 25 Hermetic Architecture enchantment by Trajan of Tytalus using eight stone pillars to make combatants in an arena fight in berserk rage.",
+  "evidence": [
+   "the-mysteries-revised::0457"
+  ]
+ },
+ {
+  "name": "Increase of the Room's Modest Aura",
+  "type": "Item",
+  "description": "CrVi 84 Mystery enchantment increasing a room's Magical aura by +1 to a maximum of 5.",
+  "evidence": [
+   "the-mysteries-revised::0460"
+  ]
+ },
+ {
+  "name": "Bountiful Boundary's Splendid Aura",
+  "type": "Item",
+  "description": "CrVi 99 Mystery enchantment increasing the Magical aura in a Boundary by +1 to a maximum of 6.",
+  "evidence": [
+   "the-mysteries-revised::0463"
+  ]
+ },
+ {
+  "name": "Enchantment of the Magnified Regio",
+  "type": "Item",
+  "description": "MuVi(Te) 39 Mystery enchantment doubling the size of a Magical regio up to 200 paces across.",
+  "evidence": [
+   "the-mysteries-revised::0464"
+  ]
+ },
+ {
+  "name": "Closed Privacy of the Enchanted Regio",
+  "type": "Item",
+  "description": "Mu(Pe)Vi(Te) 79 Mystery enchantment shrinking a regio's interface until it pinches off, closing the regio.",
+  "evidence": [
+   "the-mysteries-revised::0465",
+   "the-mysteries-revised::0466"
+  ]
+ },
+ {
+  "name": "Conjunction of the Mystic Veils",
+  "type": "Item",
+  "description": "Re(Mu)Vi 45 Mystery enchantment creating a password-opened gateway between two levels of a magical regio, typically as two pillars.",
+  "evidence": [
+   "the-mysteries-revised::0467"
+  ]
+ },
+ {
+  "name": "Numerologist's Book",
+  "type": "Item",
+  "aliases": [
+   "Lesser Numerologist's Book",
+   "Greater Numerologist's Book"
+  ],
+  "description": "Enchanted book attuned to Numerological magic, lesser (+4) or greater (+8), adding a book bonus to Numerology, Rotes, Geometry and Architecture.",
+  "evidence": [
+   "the-mysteries-revised::0415",
+   "the-mysteries-revised::0416",
+   "the-mysteries-revised::0421"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [
+   "great talisman"
+  ],
+  "description": "A magus's personal enchanted item, a direct expression of his Gift, which can be attuned to Shape and Material Bonuses.",
+  "evidence": [
+   "the-mysteries-revised::0407",
+   "the-mysteries-revised::0409",
+   "the-mysteries-revised::0391"
+  ]
+ },
+ {
+  "name": "Brass Head",
+  "type": "Item",
+  "description": "Famous enchanted device built by Albertus Magnus and rumored smashed by Thomas Aquinas.",
+  "evidence": [
+   "the-mysteries-revised::0407"
+  ]
+ },
+ {
+  "name": "De Theoria Magica",
+  "type": "Item",
+  "description": "Bonisagus' authority on Magic Theory, often chosen as the basis of a Numerologist's Book.",
+  "evidence": [
+   "the-mysteries-revised::0416"
+  ]
+ },
+ {
+  "name": "Bible",
+  "type": "Item",
+  "description": "Great work often chosen by Numerologists as the basis of their study.",
+  "evidence": [
+   "the-mysteries-revised::0416"
+  ]
+ },
+ {
+  "name": "Greater Dream Grimoire",
+  "type": "Item",
+  "aliases": [
+   "The Greater Dream Grimoire"
+  ],
+  "description": "Mystery source for entering bodily into dreams and bringing physical travelers into dream.",
+  "evidence": [
+   "the-mysteries-revised::0473",
+   "the-mysteries-revised::0478"
+  ]
+ },
+ {
+  "name": "Gunnar of Ex Miscellanea",
+  "type": "Character",
+  "aliases": [
+   "Gunnar"
+  ],
+  "description": "Example theurgist magus who invokes the spirits Akkala and Nissila to cast Pilum of Fire.",
+  "evidence": [
+   "the-mysteries-revised::0369",
+   "the-mysteries-revised::0370",
+   "the-mysteries-revised::0371"
+  ]
+ },
+ {
+  "name": "Akkala",
+  "type": "Creature",
+  "description": "Named spirit of Might 20 (named after a place in Finland) that casts Pilum of Fire for Gunnar.",
+  "evidence": [
+   "the-mysteries-revised::0369",
+   "the-mysteries-revised::0370"
+  ]
+ },
+ {
+  "name": "Nissila",
+  "type": "Creature",
+  "description": "Second Pilum of Fire spirit invoked by Gunnar with high Penetration.",
+  "evidence": [
+   "the-mysteries-revised::0371"
+  ]
+ },
+ {
+  "name": "Gloria",
+  "type": "Character",
+  "description": "Example maga selected by her cult to ascend to the Hall of Heroes via Ascendant Form and Transformation rituals.",
+  "evidence": [
+   "the-mysteries-revised::0389",
+   "the-mysteries-revised::0390"
+  ]
+ },
+ {
+  "name": "Servus",
+  "type": "Character",
+  "description": "Gloria's most senior follower, who invents the Transformation ritual for her.",
+  "evidence": [
+   "the-mysteries-revised::0390"
+  ]
+ },
+ {
+  "name": "Simon Magus",
+  "type": "Character",
+  "description": "Father of Gnosticism, who professed to believe he had attained godhood.",
+  "evidence": [
+   "the-mysteries-revised::0383"
+  ]
+ },
+ {
+  "name": "Dolorosa",
+  "type": "Character",
+  "description": "Example maga who makes a staff talisman with multiple components.",
+  "evidence": [
+   "the-mysteries-revised::0410"
+  ]
+ },
+ {
+  "name": "Albertus Magnus",
+  "type": "Character",
+  "description": "Learned divine said to have built the Brass Head.",
+  "evidence": [
+   "the-mysteries-revised::0407"
+  ]
+ },
+ {
+  "name": "Thomas Aquinas",
+  "type": "Character",
+  "description": "Pupil of Albertus Magnus rumored to have smashed the Brass Head; became the greatest theologian of the medieval Church.",
+  "evidence": [
+   "the-mysteries-revised::0407"
+  ]
+ },
+ {
+  "name": "Pythagoras",
+  "type": "Character",
+  "description": "Ancient figure from whose time the magic of numbers has fascinated men.",
+  "evidence": [
+   "the-mysteries-revised::0414"
+  ]
+ },
+ {
+  "name": "Euclid",
+  "type": "Character",
+  "description": "Ancient philosopher-wizard whose geometric postulates underlie Hermetic Geometry.",
+  "evidence": [
+   "the-mysteries-revised::0414",
+   "the-mysteries-revised::0429"
+  ]
+ },
+ {
+  "name": "Numera",
+  "type": "Character",
+  "description": "Example Numerologist maga who invents and casts Creo Ignem Rotes.",
+  "evidence": [
+   "the-mysteries-revised::0422",
+   "the-mysteries-revised::0423",
+   "the-mysteries-revised::0424"
+  ]
+ },
+ {
+  "name": "Lineus",
+  "type": "Character",
+  "description": "Example magus who casts a Line Range spell at Centrus beyond a wall.",
+  "evidence": [
+   "the-mysteries-revised::0436"
+  ]
+ },
+ {
+  "name": "Centrus",
+  "type": "Character",
+  "description": "Target in the Line Range example who creeps round the wall to Lineus.",
+  "evidence": [
+   "the-mysteries-revised::0436"
+  ]
+ },
+ {
+  "name": "Trajan of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Trajan"
+  ],
+  "description": "Magus who constructs an arena making combatants fight in berserk rage.",
+  "evidence": [
+   "the-mysteries-revised::0457"
+  ]
+ },
+ {
+  "name": "Julia of Jerbiton",
+  "type": "Character",
+  "description": "Example maga who enchants stone columns to increase her covenant's aura and close its regio.",
+  "evidence": [
+   "the-mysteries-revised::0463",
+   "the-mysteries-revised::0465",
+   "the-mysteries-revised::0466"
+  ]
+ },
+ {
+  "name": "Alyssa",
+  "type": "Character",
+  "description": "Example maga who enlarges a small magical regio for her mystery rites.",
+  "evidence": [
+   "the-mysteries-revised::0464"
+  ]
+ },
+ {
+  "name": "Raisa of Novgorod",
+  "type": "Character",
+  "description": "Maga who in the early tenth century synthesized Baltic dream folk tradition into Hermetic Dream Magic.",
+  "evidence": [
+   "the-mysteries-revised::0471"
+  ]
+ },
+ {
+  "name": "St. John Chrysostom",
+  "type": "Character",
+  "description": "Fourth-century saint who heeded divine dreams but denounced those working magic through dreams.",
+  "evidence": [
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Author of De Theoria Magica, the authority on Magic Theory.",
+  "evidence": [
+   "the-mysteries-revised::0416"
+  ]
+ },
+ {
+  "name": "Ex Miscellanea",
+  "type": "House",
+  "description": "Hermetic House of Gunnar, the example theurgist.",
+  "evidence": [
+   "the-mysteries-revised::0369"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House of Trajan.",
+  "evidence": [
+   "the-mysteries-revised::0457"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House of Julia.",
+  "evidence": [
+   "the-mysteries-revised::0463",
+   "the-mysteries-revised::0465"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "House whose magi forge items from raw materials; the Mysteries of Verditius reduce vis requirements by Craft Score.",
+  "evidence": [
+   "the-mysteries-revised::0411",
+   "the-mysteries-revised::0449",
+   "the-mysteries-revised::0450"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Order, which uses 'talisman' in the Arabic sense of an item expressing magical power.",
+  "evidence": [
+   "the-mysteries-revised::0407"
+  ]
+ },
+ {
+  "name": "Gnostic Philosophers of Rome",
+  "type": "Faction",
+  "description": "Group favoring Ascendancy to the Hall of Heroes as a path to immortality.",
+  "evidence": [
+   "the-mysteries-revised::0383"
+  ]
+ },
+ {
+  "name": "Knights of the Holy Stone",
+  "type": "Faction",
+  "description": "Cult whose members often choose heraldically charged shields as talismans.",
+  "evidence": [
+   "the-mysteries-revised::0407"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Faction",
+  "aliases": [
+   "Mystery Cults",
+   "Mystery School"
+  ],
+  "description": "Cults teaching Mysteries; pagan name-magic cults favor apotheosis.",
+  "evidence": [
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0407"
+  ]
+ },
+ {
+  "name": "Eastern Church",
+  "type": "Faction",
+  "description": "Holds that people are not responsible for their dreams but should feel shame for sinful ones.",
+  "evidence": [
+   "the-mysteries-revised::0469",
+   "the-mysteries-revised::0470"
+  ]
+ },
+ {
+  "name": "Western Church",
+  "type": "Faction",
+  "description": "Church familiar with dream magics.",
+  "evidence": [
+   "the-mysteries-revised::0470"
+  ]
+ },
+ {
+  "name": "Gnosticism",
+  "type": "Faction",
+  "aliases": [
+   "Gnostic"
+  ],
+  "description": "Heretical movement founded by Simon Magus; Gnostic papyri contain dream magic.",
+  "evidence": [
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0470"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Creature",
+  "aliases": [
+   "Daimons",
+   "Daimonic spirit"
+  ],
+  "description": "Intelligent, powerful unique spirit that sends Aspects into the world; ascended magi become Daimons.",
+  "evidence": [
+   "the-mysteries-revised::0364",
+   "the-mysteries-revised::0375",
+   "the-mysteries-revised::0377"
+  ]
+ },
+ {
+  "name": "Daimonic Aspect",
+  "type": "Concept",
+  "aliases": [
+   "Aspect"
+  ],
+  "description": "A fraction of a Daimon sent into the mortal world, an independent spirit with its own Might pool that cannot be bound or permanently changed.",
+  "evidence": [
+   "the-mysteries-revised::0377",
+   "the-mysteries-revised::0378",
+   "the-mysteries-revised::0380"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "description": "Spirits of the dead; disembodied Aspects are like ghosts, and ghosts manifest through dreams.",
+  "evidence": [
+   "the-mysteries-revised::0377",
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "description": "Infernal beings; middle- and low-rank demons reputedly make their names easy to discover.",
+  "evidence": [
+   "the-mysteries-revised::0398",
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Hedge wizard",
+  "type": "CharacterType",
+  "description": "Non-Hermetic magician; Gunnar faces an angry one in town.",
+  "evidence": [
+   "the-mysteries-revised::0371"
+  ]
+ },
+ {
+  "name": "Spirit",
+  "type": "Creature",
+  "description": "Minor spirits of Mythic Europe summoned by Invoke spells to cast spells as powers.",
+  "evidence": [
+   "the-mysteries-revised::0364",
+   "the-mysteries-revised::0366",
+   "the-mysteries-revised::0372"
+  ]
+ },
+ {
+  "name": "Hall of Heroes",
+  "type": "Place",
+  "description": "Place of power of Daimons and remnant pagan pantheon, perhaps beyond the Lunar Sphere, to which apotheosis leads.",
+  "evidence": [
+   "the-mysteries-revised::0377",
+   "the-mysteries-revised::0379",
+   "the-mysteries-revised::0384"
+  ]
+ },
+ {
+  "name": "Lunar Sphere",
+  "type": "Place",
+  "description": "Celestial sphere beyond which the Hall of Heroes may lie.",
+  "evidence": [
+   "the-mysteries-revised::0379"
+  ]
+ },
+ {
+  "name": "Finland",
+  "type": "Place",
+  "description": "Land containing Akkala, a place name borrowed for the spirit Akkala.",
+  "evidence": [
+   "the-mysteries-revised::0369"
+  ]
+ },
+ {
+  "name": "Novgorod",
+  "type": "Place",
+  "description": "City with a peasant tradition of visiting others in dreams; home of Raisa.",
+  "evidence": [
+   "the-mysteries-revised::0468",
+   "the-mysteries-revised::0471"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "Ancient Rome had systems of dream incubation; home of the Gnostic Philosophers.",
+  "evidence": [
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting, filled with minor spirits and architectural constructs.",
+  "evidence": [
+   "the-mysteries-revised::0364",
+   "the-mysteries-revised::0447",
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "description": "Realm of Magic; spirits default to Magic Might and Magical auras can be boosted by Hermetic Architecture.",
+  "evidence": [
+   "the-mysteries-revised::0360",
+   "the-mysteries-revised::0460",
+   "the-mysteries-revised::0477"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "description": "Realm of Faerie, with faerie auras and chaotic dream realms associated with fairies.",
+  "evidence": [
+   "the-mysteries-revised::0360",
+   "the-mysteries-revised::0370",
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "description": "The Divine, with Divine auras and dreams sent by God.",
+  "evidence": [
+   "the-mysteries-revised::0371",
+   "the-mysteries-revised::0469",
+   "the-mysteries-revised::0477"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "description": "Realm of the Infernal; a dream hell-pit has an Infernal aura.",
+  "evidence": [
+   "the-mysteries-revised::0477"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "Divine influence exemplified by the great gothic cathedrals.",
+  "evidence": [
+   "the-mysteries-revised::0414"
+  ]
+ },
+ {
+  "name": "Apotheosis",
+  "type": "Concept",
+  "aliases": [
+   "Ascension"
+  ],
+  "description": "Process of a hierarch ascending to join the pagan gods in the Hall of Heroes as a Daimon.",
+  "evidence": [
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0389",
+   "the-mysteries-revised::0391"
+  ]
+ },
+ {
+  "name": "Synthemata",
+  "type": "Concept",
+  "description": "Special names, symbols and passwords of each mystical being, used to overwhelm its Magic Resistance.",
+  "evidence": [
+   "the-mysteries-revised::0396",
+   "the-mysteries-revised::0401",
+   "the-mysteries-revised::0403"
+  ]
+ },
+ {
+  "name": "Name hiding",
+  "type": "Concept",
+  "description": "Means by which powerful beings hide their synthemata, reducing research points; typically Might/2.",
+  "evidence": [
+   "the-mysteries-revised::0398",
+   "the-mysteries-revised::0403"
+  ]
+ },
+ {
+  "name": "Daimon Points",
+  "type": "Concept",
+  "description": "Spiritual strength gained by a Daimon from Invoke Pact spells, spent to fix study, increase Might or Characteristics, or learn from other spirits.",
+  "evidence": [
+   "the-mysteries-revised::0392",
+   "the-mysteries-revised::0394",
+   "the-mysteries-revised::0395"
+  ]
+ },
+ {
+  "name": "Transformation points",
+  "type": "Concept",
+  "description": "Points accumulated by successful Transformation rituals toward a hierarch's ascension.",
+  "evidence": [
+   "the-mysteries-revised::0389",
+   "the-mysteries-revised::0390"
+  ]
+ },
+ {
+  "name": "Daimon Summoning Points",
+  "type": "Concept",
+  "description": "Points accumulated by Invoke Pact castings toward summoning a Daimon's Aspect.",
+  "evidence": [
+   "the-mysteries-revised::0376"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy (name magic)",
+  "type": "Concept",
+  "aliases": [
+   "name magic",
+   "theurgy"
+  ],
+  "description": "School of name magic encompassing Names of Power, Invoke spells and synthemata.",
+  "evidence": [
+   "the-mysteries-revised::0380",
+   "the-mysteries-revised::0383"
+  ]
+ },
+ {
+  "name": "Rote",
+  "type": "Concept",
+  "aliases": [
+   "Rotes"
+  ],
+  "description": "Small numerological spell-like formula cast without die roll, as with Quiet and Still Casting.",
+  "evidence": [
+   "the-mysteries-revised::0415",
+   "the-mysteries-revised::0420",
+   "the-mysteries-revised::0422"
+  ]
+ },
+ {
+  "name": "Gematria",
+  "type": "Concept",
+  "description": "Jewish numerological system influencing gentile variants.",
+  "evidence": [
+   "the-mysteries-revised::0414",
+   "the-mysteries-revised::0416"
+  ]
+ },
+ {
+  "name": "Occult property",
+  "type": "Concept",
+  "description": "A hidden property of material not explained by its complexio, underlying attunement bonuses.",
+  "evidence": [
+   "the-mysteries-revised::0407",
+   "the-mysteries-revised::0408"
+  ]
+ },
+ {
+  "name": "Complexio",
+  "type": "Concept",
+  "description": "Elemental composition of an item.",
+  "evidence": [
+   "the-mysteries-revised::0407",
+   "the-mysteries-revised::0408"
+  ]
+ },
+ {
+  "name": "Shape and Material Bonuses",
+  "type": "Concept",
+  "description": "Bonuses from an item's shape and materials, attuned into talismans and used in enchantment.",
+  "evidence": [
+   "the-mysteries-revised::0409",
+   "the-mysteries-revised::0419",
+   "the-mysteries-revised::0456"
+  ]
+ },
+ {
+  "name": "Compound device",
+  "type": "Concept",
+  "description": "Item with multiple components opened for enchantment, used for talismans and architectural structures.",
+  "evidence": [
+   "the-mysteries-revised::0409",
+   "the-mysteries-revised::0410",
+   "the-mysteries-revised::0449"
+  ]
+ },
+ {
+  "name": "Line Range",
+  "type": "Concept",
+  "aliases": [
+   "Line"
+  ],
+  "description": "New Hermetic Geometry Range equivalent to Sight not requiring the target be seen, needing a geometry calculation.",
+  "evidence": [
+   "the-mysteries-revised::0435",
+   "the-mysteries-revised::0436"
+  ]
+ },
+ {
+  "name": "Arcane Circle",
+  "type": "Concept",
+  "description": "New Hermetic Geometry Target equivalent to Part, linking a traced circle to a remote circle.",
+  "evidence": [
+   "the-mysteries-revised::0439"
+  ]
+ },
+ {
+  "name": "Arcane Ring",
+  "type": "Concept",
+  "description": "New Hermetic Geometry Duration equivalent to Moon, linking a traced ring to a remote circle.",
+  "evidence": [
+   "the-mysteries-revised::0430",
+   "the-mysteries-revised::0440"
+  ]
+ },
+ {
+  "name": "Distance Level",
+  "type": "Concept",
+  "description": "Measure of line length used as Ease Factor for Line Range calculations.",
+  "evidence": [
+   "the-mysteries-revised::0435",
+   "the-mysteries-revised::0436",
+   "the-mysteries-revised::0437"
+  ]
+ },
+ {
+  "name": "Ceremonial Figures",
+  "type": "Concept",
+  "description": "Hermetic Geometry use of ceremonial casting with regular figures for +3 Casting Score.",
+  "evidence": [
+   "the-mysteries-revised::0430",
+   "the-mysteries-revised::0433"
+  ]
+ },
+ {
+  "name": "Ceremonial Casting",
+  "type": "Concept",
+  "description": "Casting technique allowing geometric correspondences to boost Casting Score.",
+  "evidence": [
+   "the-mysteries-revised::0433"
+  ]
+ },
+ {
+  "name": "Extended Material and Size Table",
+  "type": "Concept",
+  "description": "Table extending enchantment sizes to rooms, structures and boundaries for Hermetic Architecture.",
+  "evidence": [
+   "the-mysteries-revised::0446",
+   "the-mysteries-revised::0447"
+  ]
+ },
+ {
+  "name": "Dream Duration",
+  "type": "Concept",
+  "description": "New Duration lasting for an actual dream, equivalent to Concentration.",
+  "evidence": [
+   "the-mysteries-revised::0475",
+   "the-mysteries-revised::0479"
+  ]
+ },
+ {
+  "name": "Dream Target",
+  "type": "Concept",
+  "description": "New Mentem Target allowing travel into one sleeper's dream, equivalent to Individual.",
+  "evidence": [
+   "the-mysteries-revised::0478",
+   "the-mysteries-revised::0479"
+  ]
+ },
+ {
+  "name": "Spiritual Dream Travel",
+  "type": "Concept",
+  "description": "Traveling into a dream as spirit, leaving body and possessions behind while it lies in trance.",
+  "evidence": [
+   "the-mysteries-revised::0472",
+   "the-mysteries-revised::0474"
+  ]
+ },
+ {
+  "name": "Lucid dreaming",
+  "type": "Concept",
+  "description": "Controlling or directing one's dreams, with roots in antiquity.",
+  "evidence": [
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Dream vis",
+  "type": "Concept",
+  "description": "Vis found within dreams, nearly always Imaginem, with no effect outside dreams.",
+  "evidence": [
+   "the-mysteries-revised::0473",
+   "the-mysteries-revised::0477",
+   "the-mysteries-revised::0478"
+  ]
+ },
+ {
+  "name": "Dream Rituals",
+  "type": "Concept",
+  "description": "Ritual magic in dreams cast spontaneously via Ceremonial Magic rules, requiring dream vis.",
+  "evidence": [
+   "the-mysteries-revised::0476"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Link used for sympathetic magic; a spirit's name serves as one, as does a traveler's link to his body.",
+  "evidence": [
+   "the-mysteries-revised::0366",
+   "the-mysteries-revised::0391",
+   "the-mysteries-revised::0472"
+  ]
+ },
+ {
+  "name": "Sympathetic magic",
+  "type": "Concept",
+  "description": "Magic using connections and multipliers; Euclid's postulates provide it via Geometry.",
+  "evidence": [
+   "the-mysteries-revised::0366",
+   "the-mysteries-revised::0398",
+   "the-mysteries-revised::0429"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "aliases": [
+   "grimoire"
+  ],
+  "description": "Laboratory text; a theurgic Lab Text fixes the named spirit, and synthemata Lab Texts are grimoires.",
+  "evidence": [
+   "the-mysteries-revised::0363",
+   "the-mysteries-revised::0366",
+   "the-mysteries-revised::0400"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that summoners and synthemata must overcome.",
+  "evidence": [
+   "the-mysteries-revised::0368",
+   "the-mysteries-revised::0376",
+   "the-mysteries-revised::0396"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic protective ward that travels with a dream-traveling spirit and must be manifest during ascension.",
+  "evidence": [
+   "the-mysteries-revised::0385",
+   "the-mysteries-revised::0474"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "description": "Ability of a spell to overcome Magic Resistance; boosted by Invoke levels and synthemata.",
+  "evidence": [
+   "the-mysteries-revised::0367",
+   "the-mysteries-revised::0396"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points"
+  ],
+  "description": "Magical side effect; Daimonic magi are immune.",
+  "evidence": [
+   "the-mysteries-revised::0362",
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0393"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "Magical phenomenon whose effects are separate from Invocation Magic botches.",
+  "evidence": [
+   "the-mysteries-revised::0362",
+   "the-mysteries-revised::0390"
+  ]
+ },
+ {
+  "name": "Botch",
+  "type": "Concept",
+  "description": "Disastrous roll; Invocation Magic botches target the magus's magic.",
+  "evidence": [
+   "the-mysteries-revised::0362",
+   "the-mysteries-revised::0403"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural aura modifying spirits' Casting Scores and lab totals; within dreams it is illusory.",
+  "evidence": [
+   "the-mysteries-revised::0368",
+   "the-mysteries-revised::0460",
+   "the-mysteries-revised::0477"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Magical region with levels; Hermetic Architecture can enlarge, close, or connect regiones.",
+  "evidence": [
+   "the-mysteries-revised::0384",
+   "the-mysteries-revised::0462",
+   "the-mysteries-revised::0465"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Raw magical substance, sacrificed to Daimons and needed to open devices.",
+  "evidence": [
+   "the-mysteries-revised::0375",
+   "the-mysteries-revised::0382",
+   "the-mysteries-revised::0410"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "description": "Initiation hardship; Consummate Talisman imposes a Flaw as Ordeal.",
+  "evidence": [
+   "the-mysteries-revised::0386",
+   "the-mysteries-revised::0413"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "description": "Script for Mystery initiation providing bonuses for Ordeals.",
+  "evidence": [
+   "the-mysteries-revised::0413"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "description": "Aging measure that increases transformation points needed for ascension.",
+  "evidence": [
+   "the-mysteries-revised::0389",
+   "the-mysteries-revised::0390"
+  ]
+ },
+ {
+  "name": "Spontaneous Magic",
+  "type": "Concept",
+  "description": "Improvised Hermetic spellcasting; Rotes compare favorably to it.",
+  "evidence": [
+   "the-mysteries-revised::0360",
+   "the-mysteries-revised::0420",
+   "the-mysteries-revised::0424"
+  ]
+ },
+ {
+  "name": "Formulaic magic",
+  "type": "Concept",
+  "description": "Known Hermetic spells; invoked spirits cast Formulaic spells as powers.",
+  "evidence": [
+   "the-mysteries-revised::0360",
+   "the-mysteries-revised::0366"
+  ]
+ },
+ {
+  "name": "Ritual magic",
+  "type": "Concept",
+  "description": "Rituals consuming vis, including Mystery Rituals such as Invoke Pact and Bind the Mystical Structure.",
+  "evidence": [
+   "the-mysteries-revised::0375",
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0476"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Concept",
+  "aliases": [
+   "Quiet Casting",
+   "Still Casting"
+  ],
+  "description": "Mastery special abilities such as Quiet Casting and Still Casting, which Rotes benefit from.",
+  "evidence": [
+   "the-mysteries-revised::0415",
+   "the-mysteries-revised::0420",
+   "the-mysteries-revised::0424"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Magical talent expressed by a talisman; Invocation botches may affect it.",
+  "evidence": [
+   "the-mysteries-revised::0362",
+   "the-mysteries-revised::0407",
+   "the-mysteries-revised::0469"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "Magical companion that may join an ascending master by sharing the ritual Ordeal.",
+  "evidence": [
+   "the-mysteries-revised::0381",
+   "the-mysteries-revised::0386"
+  ]
+ },
+ {
+  "name": "Immortality",
+  "type": "Concept",
+  "description": "Goal reached by apotheosis; ascended magi become unchanging immortals.",
+  "evidence": [
+   "the-mysteries-revised::0383",
+   "the-mysteries-revised::0391",
+   "the-mysteries-revised::0393"
+  ]
+ },
+ {
+  "name": "Nova stella",
+  "type": "Concept",
+  "description": "New star in the heavens by which an ascended spirit announces its presence.",
+  "evidence": [
+   "the-mysteries-revised::0391"
+  ]
+ },
+ {
+  "name": "Mysteries",
+  "type": "Concept",
+  "description": "Secret initiatory lore; Hermetic Arithmetic, Geometry, Architecture and Dreams are Mysteries.",
+  "evidence": [
+   "the-mysteries-revised::0414",
+   "the-mysteries-revised::0447",
+   "the-mysteries-revised::0468"
+  ]
+ },
+ {
+  "name": "Hermetic Arithmetic",
+  "type": "Concept",
+  "description": "Secrets of number magic in the Arithmetic Magic chapter.",
+  "evidence": [
+   "the-mysteries-revised::0414"
+  ]
+ },
+ {
+  "name": "Gothic cathedrals",
+  "type": "Place",
+  "description": "Great cathedrals created by architects with non-magical tools, masterpieces of the Dominion.",
+  "evidence": [
+   "the-mysteries-revised::0414",
+   "the-mysteries-revised::0433"
+  ]
+ },
+ {
+  "name": "Spying on your sodales using magic",
+  "type": "Concept",
+  "description": "High crime under Hermetic law technically committed by counting magi with Intellego.",
+  "evidence": [
+   "the-mysteries-revised::0425"
+  ]
+ },
+ {
+  "name": "Talisman attunement",
+  "type": "Concept",
+  "aliases": [
+   "attunement"
+  ],
+  "description": "Opening a talisman to magical attunement based on its Shape and Material Bonuses.",
+  "evidence": [
+   "the-mysteries-revised::0407",
+   "the-mysteries-revised::0409",
+   "the-mysteries-revised::0410"
+  ]
+ }
+]

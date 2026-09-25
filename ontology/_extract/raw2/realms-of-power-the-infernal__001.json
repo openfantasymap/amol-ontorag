@@ -1,0 +1,2865 @@
+[
+ {
+  "name": "Satan",
+  "type": "Character",
+  "aliases": [
+   "Lucifer",
+   "The Devil",
+   "Prince of Hell"
+  ],
+  "description": "Chief of the demons and Prince of Hell, an angel who fell through pride and swore vengeance on mankind; also called Lucifer and the Devil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0120",
+   "realms-of-power-the-infernal::0121",
+   "realms-of-power-the-infernal::0131"
+  ]
+ },
+ {
+  "name": "Iblis",
+  "type": "Character",
+  "aliases": [
+   "Shaitan"
+  ],
+  "description": "In Islamic cosmology, a jinn loyal to God who led the angels against the jinn, then refused to worship Adam out of pride and was cast into Hell; afterwards called Shaitan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0122",
+   "realms-of-power-the-infernal::0123",
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Aelfric",
+  "type": "Character",
+  "aliases": [],
+  "description": "11th-century theologian whose De Initio Creaturae argued Lucifer's rebellion left a gap in the heavenly host filled by the creation of man.",
+  "evidence": [
+   "realms-of-power-the-infernal::0120",
+   "realms-of-power-the-infernal::0121"
+  ]
+ },
+ {
+  "name": "De Initio Creaturae",
+  "type": "Item",
+  "aliases": [],
+  "description": "11th-century treatise by Aelfric on Lucifer's rebellion and the gap it left among the angelic choirs.",
+  "evidence": [
+   "realms-of-power-the-infernal::0120",
+   "realms-of-power-the-infernal::0121"
+  ]
+ },
+ {
+  "name": "Adam",
+  "type": "Character",
+  "aliases": [],
+  "description": "The first man, created by God in his likeness; tempted via Eve to eat the forbidden fruit, and later took the demoness Lilith as consort.",
+  "evidence": [
+   "realms-of-power-the-infernal::0121",
+   "realms-of-power-the-infernal::0123",
+   "realms-of-power-the-infernal::0132"
+  ]
+ },
+ {
+  "name": "Eve",
+  "type": "Character",
+  "aliases": [],
+  "description": "The first woman, whom Satan caused to eat the forbidden fruit, bringing about man's fall.",
+  "evidence": [
+   "realms-of-power-the-infernal::0121",
+   "realms-of-power-the-infernal::0126"
+  ]
+ },
+ {
+  "name": "Lilith",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demoness of prostitution, wife of Iblis and concubine of Adam; Queen of Tempters sharing leadership of the ninth order, depicted as a naked woman with a serpent's tail, enemy of infants.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124",
+   "realms-of-power-the-infernal::0128",
+   "realms-of-power-the-infernal::0132"
+  ]
+ },
+ {
+  "name": "Eisheth Zenunim",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One of the four demon wives of Iblis, a demon of prostitution.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Naameh",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One of the four demon wives of Iblis, a demon of prostitution.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Agrat bat Mahlat",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One of the four demon wives of Iblis, a demon of prostitution.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Dasim",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Son of Iblis with dominion over discord.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Al-Awar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Son of Iblis with dominion over debauchery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Sut",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Son of Iblis with dominion over lies.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Tir",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Son of Iblis with dominion over fatal accidents.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Zalambur",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Son of Iblis with dominion over mercantile dishonesty.",
+  "evidence": [
+   "realms-of-power-the-infernal::0124"
+  ]
+ },
+ {
+  "name": "Maskim",
+  "type": "Faction",
+  "aliases": [
+   "Electors of Hell"
+  ],
+  "description": "The nine archdemons heading the nine orders of demons, the ruling council that advises the Devil; each has Infernal Might 75.",
+  "evidence": [
+   "realms-of-power-the-infernal::0125",
+   "realms-of-power-the-infernal::0126"
+  ]
+ },
+ {
+  "name": "Beelzebub",
+  "type": "Creature",
+  "aliases": [
+   "Beelzebul",
+   "Lord of the Dunghill"
+  ],
+  "description": "One of the Maskim, Chief of the False Gods; called Beelzebul (Lord of Heaven) as an angel and Beelzebub (Lord of the Dunghill) after the fall, often depicted as a monstrous fly.",
+  "evidence": [
+   "realms-of-power-the-infernal::0126"
+  ]
+ },
+ {
+  "name": "Pytho",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One of the Maskim, Prince of the Spirits of Deceit, who has lied to prophets and oracles and is believed to have been the serpent in Eden.",
+  "evidence": [
+   "realms-of-power-the-infernal::0126"
+  ]
+ },
+ {
+  "name": "Belial",
+  "type": "Creature",
+  "aliases": [
+   "Beliar",
+   "Prince of Darkness"
+  ],
+  "description": "One of the Maskim, Commander of the Vessels of Iniquity and Prince of Darkness, spirit of hatred, deception and error; Hell's prelate, equated with the Antichrist.",
+  "evidence": [
+   "realms-of-power-the-infernal::0126",
+   "realms-of-power-the-infernal::0127"
+  ]
+ },
+ {
+  "name": "Dumah",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One of the Maskim, Chief of the Avengers of Evil, the Angel of the Silence of Death, a thousand-eyed angel armed with a fiery rod.",
+  "evidence": [
+   "realms-of-power-the-infernal::0127"
+  ]
+ },
+ {
+  "name": "Semyaza",
+  "type": "Creature",
+  "aliases": [
+   "Azazael",
+   "Uzza"
+  ],
+  "description": "One of the Maskim, Chief of the Deluders and foremost of the Grigori, who taught mankind the secrets of Infernal powers and descended to earth with the Watchers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0127",
+   "realms-of-power-the-infernal::0128"
+  ]
+ },
+ {
+  "name": "Meririm",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One of the Maskim, Prince of the Powers of the Air and lord of thunder and lightning in Hell, called the meridian devil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0127"
+  ]
+ },
+ {
+  "name": "Abaddon",
+  "type": "Creature",
+  "aliases": [
+   "Apollyon",
+   "The Destroyer"
+  ],
+  "description": "One of the Maskim, of the Furies; the 'angel of the abyss' of Revelation who will emerge at the fifth trump to destroy mankind.",
+  "evidence": [
+   "realms-of-power-the-infernal::0127",
+   "realms-of-power-the-infernal::0128"
+  ]
+ },
+ {
+  "name": "Astaroth",
+  "type": "Creature",
+  "aliases": [],
+  "description": "One of the Maskim, Prince of the Accusing Angels and once a seraph; Prime Minister of Hell and co-signatory of all diabolic pacts, appearing as an angel astride a dragon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0128",
+   "realms-of-power-the-infernal::0145"
+  ]
+ },
+ {
+  "name": "Ashmodai",
+  "type": "Creature",
+  "aliases": [
+   "Asmodeus"
+  ],
+  "description": "King of Tempters, co-leader of the ninth order with Lilith; eldest child of Adam and Lilith, winged and terrible in aspect.",
+  "evidence": [
+   "realms-of-power-the-infernal::0128"
+  ]
+ },
+ {
+  "name": "Azael",
+  "type": "Creature",
+  "aliases": [
+   "Azazel"
+  ],
+  "description": "Fallen angel who descended to earth with Semyaza leading the Watchers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0128"
+  ]
+ },
+ {
+  "name": "Harut and Marut",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Qur'anic names for Semyaza and Azael, the angels who descended to earth.",
+  "evidence": [
+   "realms-of-power-the-infernal::0128"
+  ]
+ },
+ {
+  "name": "Watchers",
+  "type": "Creature",
+  "aliases": [
+   "Grigori"
+  ],
+  "description": "Angels who descended to earth, mingled with mankind, taught sorcery and warfare and fathered giants, becoming celestial demons; a family of powerful Deluders (Might 40).",
+  "evidence": [
+   "realms-of-power-the-infernal::0128",
+   "realms-of-power-the-infernal::0129",
+   "realms-of-power-the-infernal::0223"
+  ]
+ },
+ {
+  "name": "Nephilim",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Children of angelic fathers and mortal mothers, of intermediate nature, who became terrestrial demons upon death.",
+  "evidence": [
+   "realms-of-power-the-infernal::0129"
+  ]
+ },
+ {
+  "name": "Michael (archangel)",
+  "type": "Character",
+  "aliases": [
+   "Michael"
+  ],
+  "description": "One of the five archangels who refused the sinning Watchers readmission to Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0129"
+  ]
+ },
+ {
+  "name": "Gabriel",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five archangels who refused the sinning Watchers readmission to Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0129"
+  ]
+ },
+ {
+  "name": "Raphael",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five archangels who refused the sinning Watchers readmission to Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0129"
+  ]
+ },
+ {
+  "name": "Uriel",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five archangels who refused the sinning Watchers readmission to Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0129"
+  ]
+ },
+ {
+  "name": "Suryal",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the five archangels who refused the sinning Watchers readmission to Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0129"
+  ]
+ },
+ {
+  "name": "Azazel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fallen being to whom I Enoch ascribes all sin and whom the Apocalypse of Abraham condemns to dwell upon the earth.",
+  "evidence": [
+   "realms-of-power-the-infernal::0130",
+   "realms-of-power-the-infernal::0168"
+  ]
+ },
+ {
+  "name": "Michael (demon)",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon from the ArM5 bestiary, reassigned as a Tempter with the Obsession Sensitive to Mockery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0138"
+  ]
+ },
+ {
+  "name": "Bartholomew",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon from the ArM5 bestiary, a Spirit of Deceit whose Obsession is Avarice, used as an example of the Obsession Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0138",
+   "realms-of-power-the-infernal::0150",
+   "realms-of-power-the-infernal::0151"
+  ]
+ },
+ {
+  "name": "Polandrus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon from the ArM5 bestiary in wolf shape, a Fury with the Obsession of Secrecy rather than a Corrupt Beast.",
+  "evidence": [
+   "realms-of-power-the-infernal::0138",
+   "realms-of-power-the-infernal::0163"
+  ]
+ },
+ {
+  "name": "Moratamis of Guernicus",
+  "type": "Character",
+  "aliases": [
+   "Moratamis"
+  ],
+  "description": "Example magus who studies a book of Infernal Lore to learn the True Name of Gaap.",
+  "evidence": [
+   "realms-of-power-the-infernal::0164"
+  ]
+ },
+ {
+  "name": "Gaap",
+  "type": "Creature",
+  "aliases": [
+   "Gaap, a Prince of Hell"
+  ],
+  "description": "A Demon Prince of Hell of the False Gods (Might 10) whose True Name Moratamis learns; a Corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0164",
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Kushiel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Avenger of Evil whose angel-like name means Rigid One of God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0182"
+  ]
+ },
+ {
+  "name": "Shofiel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Avenger of Evil whose angel-like name means Judge of God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0182"
+  ]
+ },
+ {
+  "name": "Makatiel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Avenger of Evil whose angel-like name means Plague of God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0182"
+  ]
+ },
+ {
+  "name": "Pusiel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Avenger of Evil whose angel-like name means Fire of God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0182",
+   "realms-of-power-the-infernal::0183"
+  ]
+ },
+ {
+  "name": "Rogziel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Avenger of Evil whose angel-like name means Wrath of God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0182",
+   "realms-of-power-the-infernal::0183"
+  ]
+ },
+ {
+  "name": "Five Angels of Punishment",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Five angels of punishment Moses encountered in the Second Heaven per the Midrash Tehillin: Af, Hemah, Meshabber, Hesmed and Mashith.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Af",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel of punishment who deals with murderers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Hemah",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel of punishment who revenges idolatry.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Meshabber",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel of punishment who punishes incest.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Hesmed",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The angel of annihilation among the five angels of punishment.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Mashith",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel of punishment who punishes the wicked through the death of their children.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Moses",
+  "type": "Character",
+  "aliases": [],
+  "description": "Encountered the five angels of punishment in the Second Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Midrash Tehillin",
+  "type": "Item",
+  "aliases": [],
+  "description": "Jewish mystical text telling of the five angels of punishment in the Second Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Second Heaven",
+  "type": "Place",
+  "aliases": [],
+  "description": "Location of the Jewish Hell where Moses met the five angels of punishment.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185"
+  ]
+ },
+ {
+  "name": "Michael Psellos",
+  "type": "Character",
+  "aliases": [
+   "Psellos"
+  ],
+  "description": "Byzantine philosopher and theologian (d. 1079) known for his dialogue on demons, describing six types of Aerial Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0185",
+   "realms-of-power-the-infernal::0186",
+   "realms-of-power-the-infernal::0126"
+  ]
+ },
+ {
+  "name": "De Operationes Daemonum Dialogus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Summa on Infernal Lore (Level 5, Quality 12) by Michael Psellos on the nature of demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0186"
+  ]
+ },
+ {
+  "name": "Rabbi Eleazor",
+  "type": "Character",
+  "aliases": [],
+  "description": "Rabbi of Worms who insists the memunim are deputy angels and dispensers of dreams.",
+  "evidence": [
+   "realms-of-power-the-infernal::0187"
+  ]
+ },
+ {
+  "name": "Worms",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Rabbi Eleazor lives.",
+  "evidence": [
+   "realms-of-power-the-infernal::0187"
+  ]
+ },
+ {
+  "name": "Adramelech",
+  "type": "Creature",
+  "aliases": [
+   "King of Fire",
+   "Moloch",
+   "Adramelech, King of Fire"
+  ],
+  "description": "Prince of the False Gods (Might 50, Ignem), King of Fire who first lit Hell's fires; worshiped in Tyre and Carthage as Moloch with child sacrifice.",
+  "evidence": [
+   "realms-of-power-the-infernal::0163",
+   "realms-of-power-the-infernal::0226",
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Baal-Peor",
+  "type": "Creature",
+  "aliases": [
+   "Belphegor",
+   "Lord of Filth",
+   "Lord of the Openings"
+  ],
+  "description": "False God (Might 30, Corpus), Lord of Filth and Treasurer of Hell, a demon of wealth appearing as an immensely fat naked man.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0235",
+   "realms-of-power-the-infernal::0237"
+  ]
+ },
+ {
+  "name": "Bomburkhan",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tempter imp of the Ruchin family (Might 5) who can make a liar of the boastful.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Tyre",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient city whose men worshiped Adramelech as Moloch.",
+  "evidence": [
+   "realms-of-power-the-infernal::0233",
+   "realms-of-power-the-infernal::0234"
+  ]
+ },
+ {
+  "name": "Carthage",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient city whose men worshiped Adramelech as Moloch.",
+  "evidence": [
+   "realms-of-power-the-infernal::0233",
+   "realms-of-power-the-infernal::0234"
+  ]
+ },
+ {
+  "name": "Aethnici",
+  "type": "Creature",
+  "aliases": [
+   "igneous demons"
+  ],
+  "description": "Family of Aerial Powers (Might 15), igneous demons of the upper air per Psellos, appearing as flames, firebrands and lizards; Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0186",
+   "realms-of-power-the-infernal::0226"
+  ]
+ },
+ {
+  "name": "Andrew",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal ghost of the Accusers (Might 10), a Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0226"
+  ]
+ },
+ {
+  "name": "Aqrab the Conjurer",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Deluder (Might 10), a Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0226",
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Architechus",
+  "type": "Creature",
+  "aliases": [
+   "Architechus, Demon Builder"
+  ],
+  "description": "Fury (Might 25), the Demon Builder; a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0226",
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Ataf the Separator",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of Deceit (Might 20), a Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0226",
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Bael",
+  "type": "Creature",
+  "aliases": [
+   "Bael, Destroyer of Nations"
+  ],
+  "description": "Fury (Might 30), Destroyer of Nations.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Berith the Ennobler",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of Deceit (Might 25), a Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Bordelon",
+  "type": "Creature",
+  "aliases": [
+   "Bordelon, Personal Tormentor"
+  ],
+  "description": "Accuser (Might 15), a Personal Tormentor and Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Decani",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Avengers of Evil (Might 30), Corrupters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Demons of the Fifth Trump",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Furies (Might 20), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Dibbukim",
+  "type": "Creature",
+  "aliases": [
+   "dibbuk"
+  ],
+  "description": "Family of Furies (Might 15), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Druia",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tempter of the Incubi & Succubae family (Might 5), a seducer and Corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Enervators",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Deluders (Might 20), Deceivers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227"
+  ]
+ },
+ {
+  "name": "Famuli",
+  "type": "Creature",
+  "aliases": [
+   "famulus"
+  ],
+  "description": "Family of False Gods (Might 10), Corrupters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Fictiles",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Aerial Powers (Might 10), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Fimus",
+  "type": "Creature",
+  "aliases": [
+   "Fimus, Warrior Demon"
+  ],
+  "description": "Aerial Power (Might 10), a Warrior Demon and Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Forcas",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Deluder of the Watchers family (Might 40), a Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Gavi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A dibbuk of the Furies (Might 15), a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Golab",
+  "type": "Creature",
+  "aliases": [
+   "Golab, Foe of the Seraphim"
+  ],
+  "description": "Vessel of Iniquity (Might 30), Foe of the Seraphim; a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Gourmand the Sweet-Toothed",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Vessel of Iniquity (Might 15), a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Guazzo",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Avenger of Evil (Might 10), a Personal Punisher and Corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Hulikang",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Vessel of Iniquity of the Merry Devils family (Might 20), a Rabble Rouser.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Hutriel",
+  "type": "Creature",
+  "aliases": [
+   "Hutriel, the Rod of God"
+  ],
+  "description": "Avenger of Evil (Might 25), the Rod of God; a Corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Incubi & Succubae",
+  "type": "Creature",
+  "aliases": [
+   "Incubi",
+   "Succubae"
+  ],
+  "description": "Family of Tempters (Might 5), seducing Corrupters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Infernal Dragons",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Spirits of Deceit (Might 35), Deceivers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228",
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Lickspitten",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A famulus of the False Gods (Might 10), a Corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Lilin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Tempters (Might 15), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Lucifuges",
+  "type": "Creature",
+  "aliases": [
+   "heliophobic demons",
+   "lucifugus"
+  ],
+  "description": "Family of Aerial Powers (Might 20), Destroyers; Psellos' heliophobic demons who hate the sun and kill by breath or touch.",
+  "evidence": [
+   "realms-of-power-the-infernal::0186",
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Maggots",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Tempters (Might 5), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Mahonin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tempter of the Maggots family (Might 5), a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Mazzikim",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Tempters (Might 15), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229",
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Men of Good Intent",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Spirits of Deceit (Might 5), Deceivers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229",
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Merry Devils",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Vessels of Iniquity (Might 20), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0228",
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Metathiax",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Decanus of Kidney Diseases, an Avenger of Evil of the Decani (Might 30).",
+  "evidence": [
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Miser's Pot",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Accuser (Might 5), Bane of the Hoarder; a Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229"
+  ]
+ },
+ {
+  "name": "Morrighu the Screech-Hag",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Aerial Power (Might 10), a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229",
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Naonhaithya",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Vessel of Iniquity (Might 40), a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0229",
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Nithael",
+  "type": "Creature",
+  "aliases": [
+   "Nithael, the Great Leveler"
+  ],
+  "description": "Accuser (Might 25), the Great Leveler; a Deceiver.",
+  "evidence": [
+   "realms-of-power-the-infernal::0163",
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Nitibus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tempter of the Shedim (Might 20), a Personal Corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Premnemosyne",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit of Deceit of the Men of Good Intent (Might 5), a False Prophetess.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Rahab",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Aerial Power (Might 35), Prince of the Primordial Sea; a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Reveners",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Vessels of Iniquity (Might 20), Destroyers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Ruchin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Tempters (Might 5), Corrupters, to which Bomburkhan belongs.",
+  "evidence": [
+   "realms-of-power-the-infernal::0227",
+   "realms-of-power-the-infernal::0230",
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Sabaoth",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fury (Might 20), a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Shedim",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Tempters (Might 20), Corrupters; also a Hebrew name for Tempters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Spirits of Solomon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Family of Deluders (Might 20), Deceivers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Thaphaboath",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tempter of the Mazzikim (Might 15), a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Valefar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tempter (Might 15), the Thief's Demon; a Corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230"
+  ]
+ },
+ {
+  "name": "Xaphan",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Aerial Power (Might 15), Forge-man of Hell; a Destroyer.",
+  "evidence": [
+   "realms-of-power-the-infernal::0230",
+   "realms-of-power-the-infernal::0231"
+  ]
+ },
+ {
+  "name": "False Gods",
+  "type": "Faction",
+  "aliases": [
+   "Pseudothei",
+   "Teraphim"
+  ],
+  "description": "Demonic order usurping God's name by demanding worship; appear as pleasing human forms accompanied by an animal; Might up to 30.",
+  "evidence": [
+   "realms-of-power-the-infernal::0139",
+   "realms-of-power-the-infernal::0171",
+   "realms-of-power-the-infernal::0173"
+  ]
+ },
+ {
+  "name": "Spirits of Deceit",
+  "type": "Faction",
+  "aliases": [
+   "Spiritus mendaciorum",
+   "Sheqerim"
+  ],
+  "description": "Demonic order that is the source of all lies, appearing as serpents or dragons and skilled shapeshifters; Might up to 30.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0174",
+   "realms-of-power-the-infernal::0175"
+  ]
+ },
+ {
+  "name": "Vessels of Iniquity",
+  "type": "Faction",
+  "aliases": [
+   "Vasa iniquitatis",
+   "Rephaim"
+  ],
+  "description": "Demonic order, inventors of evil things embodying the most heinous vices, with shapeless natural forms; Might up to 30.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0178",
+   "realms-of-power-the-infernal::0179"
+  ]
+ },
+ {
+  "name": "Avengers of Evil",
+  "type": "Faction",
+  "aliases": [
+   "Angels of Punishment",
+   "Ultores scelorum",
+   "Malakim Habbalah"
+  ],
+  "description": "Demonic order claiming to be Angels of Punishment doing God's work, appearing as immense angels of fiery chains; Might up to 25.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0182",
+   "realms-of-power-the-infernal::0183"
+  ]
+ },
+ {
+  "name": "Deluders",
+  "type": "Faction",
+  "aliases": [
+   "Praestigiatores",
+   "Memunim",
+   "Juggling Impostors"
+  ],
+  "description": "Demonic order that imitates miracles, grants false visions and serves conjurers as familiars; natural form a rent of darkness; Might up to 25.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0187",
+   "realms-of-power-the-infernal::0188"
+  ]
+ },
+ {
+  "name": "Aerial Powers",
+  "type": "Faction",
+  "aliases": [
+   "Potestates aeriae",
+   "Gibborim"
+  ],
+  "description": "Demonic order of huge elemental figures causing natural disasters; Might up to 25.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0190",
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Furies",
+  "type": "Faction",
+  "aliases": [
+   "Furiae",
+   "Enim"
+  ],
+  "description": "Seventh demonic order, disseminators of strife, discord and war, part brute and part human; Might up to 20.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0193",
+   "realms-of-power-the-infernal::0194"
+  ]
+ },
+ {
+  "name": "Accusers",
+  "type": "Faction",
+  "aliases": [
+   "Criminatores",
+   "Mastinim",
+   "accusing angels"
+  ],
+  "description": "Demonic order of 'accusing angels' that uncover and torment sinners, appearing as traditional horned batwinged fiends; Might up to 20.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0196",
+   "realms-of-power-the-infernal::0197"
+  ]
+ },
+ {
+  "name": "Tempters",
+  "type": "Faction",
+  "aliases": [
+   "Tentatores",
+   "Maligenii",
+   "Shedim",
+   "Kakodaemones",
+   "Tempters & Evil Spirits"
+  ],
+  "description": "Ninth and largest demonic order, evil spirits propagating sins of incontinence, the rank-and-file of Hell; Might up to 20.",
+  "evidence": [
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0198",
+   "realms-of-power-the-infernal::0199"
+  ]
+ },
+ {
+  "name": "Kalodaemones",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ancient Greek sorcerers' name for the good spirits used in their magic, contrasted with kakodaemones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0198"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Any creature with an Infernal Might score; true demons chose evil, unlike Infernal creatures such as Corrupt Beasts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0130",
+   "realms-of-power-the-infernal::0131"
+  ]
+ },
+ {
+  "name": "Celestial Demons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demons who once inhabited Heaven and rejected it: angels who fell with Lucifer and the Watchers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0131",
+   "realms-of-power-the-infernal::0132"
+  ]
+ },
+ {
+  "name": "Terrestrial Demons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demons who never knew Heaven: infernal ghosts or progeny of demons, including the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-infernal::0129",
+   "realms-of-power-the-infernal::0132"
+  ]
+ },
+ {
+  "name": "Infernal Angels",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Beings claiming to be angels working in Hell at God's command, such as the Avengers of Evil and Accusers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0132",
+   "realms-of-power-the-infernal::0184"
+  ]
+ },
+ {
+  "name": "Infernal Ghost",
+  "type": "Creature",
+  "aliases": [
+   "Infernal Ghosts"
+  ],
+  "description": "A damned human soul allowed to roam the earth under arrangement with Hell; belongs to an order but lacks the Coagulation Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0169",
+   "realms-of-power-the-infernal::0170",
+   "realms-of-power-the-infernal::0228"
+  ]
+ },
+ {
+  "name": "Corrupt Beasts",
+  "type": "Creature",
+  "aliases": [
+   "Corrupt Beast"
+  ],
+  "description": "Infernal creatures devoid of intellect, made evil rather than choosing it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0130",
+   "realms-of-power-the-infernal::0138"
+  ]
+ },
+ {
+  "name": "Jinn",
+  "type": "Creature",
+  "aliases": [],
+  "description": "In Islamic cosmology, the first inhabitants of the earth, forged from smokeless fire, who grew wicked and were defeated by angels.",
+  "evidence": [
+   "realms-of-power-the-infernal::0122",
+   "realms-of-power-the-infernal::0123"
+  ]
+ },
+ {
+  "name": "Infernal Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Might score of demons, set by order and rank, depleted by Perdo Vim to destroy them.",
+  "evidence": [
+   "realms-of-power-the-infernal::0126",
+   "realms-of-power-the-infernal::0142",
+   "realms-of-power-the-infernal::0157"
+  ]
+ },
+ {
+  "name": "Demonic Orders",
+  "type": "Concept",
+  "aliases": [
+   "nine orders of demons"
+  ],
+  "description": "The nine orders of demons mirroring the nine angelic choirs, grouping demons by function and Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0142",
+   "realms-of-power-the-infernal::0167",
+   "realms-of-power-the-infernal::0170"
+  ]
+ },
+ {
+  "name": "Demonic Rank",
+  "type": "Concept",
+  "aliases": [
+   "Master",
+   "Lord",
+   "Duke",
+   "Prince"
+  ],
+  "description": "Titles of Master, Lord, Duke and Prince granting additional Infernal Might and equivalent Reputation.",
+  "evidence": [
+   "realms-of-power-the-infernal::0140",
+   "realms-of-power-the-infernal::0142"
+  ]
+ },
+ {
+  "name": "Infernal Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Reputation among demons and infernalists of a demon's perceived power in Hell, affecting summoning.",
+  "evidence": [
+   "realms-of-power-the-infernal::0143",
+   "realms-of-power-the-infernal::0144",
+   "realms-of-power-the-infernal::0145"
+  ]
+ },
+ {
+  "name": "Hierarchy score",
+  "type": "Concept",
+  "aliases": [
+   "Hierarchy"
+  ],
+  "description": "A demon's highest Infernal Reputation including rank-equivalent Reputation.",
+  "evidence": [
+   "realms-of-power-the-infernal::0143",
+   "realms-of-power-the-infernal::0144"
+  ]
+ },
+ {
+  "name": "Demon families",
+  "type": "Concept",
+  "aliases": [
+   "family"
+  ],
+  "description": "Groups of demons within an order sharing traits, including a common weakness.",
+  "evidence": [
+   "realms-of-power-the-infernal::0160",
+   "realms-of-power-the-infernal::0170"
+  ]
+ },
+ {
+  "name": "Coagulation",
+  "type": "Concept",
+  "aliases": [
+   "Coagulate"
+  ],
+  "description": "Power common to all demons allowing them to manufacture a solid body from unformed matter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0136",
+   "realms-of-power-the-infernal::0147",
+   "realms-of-power-the-infernal::0148"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Concept",
+  "aliases": [
+   "Obsession Trait"
+  ],
+  "description": "Demonic Power imposing the demon's sin trait on a mortal indulging in venial sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0147",
+   "realms-of-power-the-infernal::0148",
+   "realms-of-power-the-infernal::0150"
+  ]
+ },
+ {
+  "name": "Envisioning",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demonic Power to appear in dreams or cause waking visions; the only way a spiritual demon communicates.",
+  "evidence": [
+   "realms-of-power-the-infernal::0149",
+   "realms-of-power-the-infernal::0187",
+   "realms-of-power-the-infernal::0218"
+  ]
+ },
+ {
+  "name": "Possession",
+  "type": "Concept",
+  "aliases": [
+   "Possession Might Pool"
+  ],
+  "description": "Demonic Power to control a human host (energumen) using a Possession Might Pool.",
+  "evidence": [
+   "realms-of-power-the-infernal::0151",
+   "realms-of-power-the-infernal::0152",
+   "realms-of-power-the-infernal::0153"
+  ]
+ },
+ {
+  "name": "Energumen",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A human host possessed by a demon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0151",
+   "realms-of-power-the-infernal::0153",
+   "realms-of-power-the-infernal::0154"
+  ]
+ },
+ {
+  "name": "Shroud the Stench of the Pit",
+  "type": "Concept",
+  "aliases": [],
+  "description": "False Gods Power concealing the Infernal nature of other Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0171",
+   "realms-of-power-the-infernal::0172",
+   "realms-of-power-the-infernal::0233"
+  ]
+ },
+ {
+  "name": "The Wealth of Nations",
+  "type": "Concept",
+  "aliases": [],
+  "description": "False Gods Power summoning riches from elsewhere.",
+  "evidence": [
+   "realms-of-power-the-infernal::0172",
+   "realms-of-power-the-infernal::0173",
+   "realms-of-power-the-infernal::0236"
+  ]
+ },
+ {
+  "name": "His Master's Voice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "False Gods Power summoning other demons or corrupt beasts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0173",
+   "realms-of-power-the-infernal::0233"
+  ]
+ },
+ {
+  "name": "Change Form",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirits of Deceit Power to change their shape to human or animal forms.",
+  "evidence": [
+   "realms-of-power-the-infernal::0175"
+  ]
+ },
+ {
+  "name": "Trust of the Innocent",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirits of Deceit Power making a target believe a specific passable lie.",
+  "evidence": [
+   "realms-of-power-the-infernal::0175",
+   "realms-of-power-the-infernal::0176"
+  ]
+ },
+ {
+  "name": "Forked Tongue of the Serpent",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirits of Deceit Power making a target believe any lie until he repeats it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0175",
+   "realms-of-power-the-infernal::0176"
+  ]
+ },
+ {
+  "name": "The Serpent's Oracle",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirits of Deceit Power duplicating Intellego spells and glimpsing immediate consequences.",
+  "evidence": [
+   "realms-of-power-the-infernal::0176"
+  ]
+ },
+ {
+  "name": "Form of Wickedness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vessels of Iniquity variant of Coagulation, a shapeless form of visible sin overwhelming viewers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0179",
+   "realms-of-power-the-infernal::0180"
+  ]
+ },
+ {
+  "name": "Form of Man",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vessels of Iniquity Power to shapeshift into any human after Form of Wickedness.",
+  "evidence": [
+   "realms-of-power-the-infernal::0180"
+  ]
+ },
+ {
+  "name": "Contagious Obsession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vessels of Iniquity Power making Obsession victims carriers who spread it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0180",
+   "realms-of-power-the-infernal::0181"
+  ]
+ },
+ {
+  "name": "Punish the Sinner",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Avengers of Evil Power inflicting wounds commensurate with the target's sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0183",
+   "realms-of-power-the-infernal::0184"
+  ]
+ },
+ {
+  "name": "Delusion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Deluders Power creating illusions, always with a flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0188"
+  ]
+ },
+ {
+  "name": "Duplicate the Magi's Creation / Perception / Transmutation / Destruction / Control",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Deluders Powers duplicating Hermetic spells of one Technique.",
+  "evidence": [
+   "realms-of-power-the-infernal::0188"
+  ]
+ },
+ {
+  "name": "Elemental Control",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aerial Powers Power to create Creo, Muto or Rego elemental effects.",
+  "evidence": [
+   "realms-of-power-the-infernal::0190",
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Recalcitrance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aerial Powers Power making them one-and-a-half times harder to control.",
+  "evidence": [
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Waxing Tide of Humors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Furies Power causing passion to overcome sense.",
+  "evidence": [
+   "realms-of-power-the-infernal::0193",
+   "realms-of-power-the-infernal::0194"
+  ]
+ },
+ {
+  "name": "Beserker Rage",
+  "type": "Concept",
+  "aliases": [
+   "Berserker Rage"
+  ],
+  "description": "Furies Power granting anyone the Berserk Virtue until they calm down.",
+  "evidence": [
+   "realms-of-power-the-infernal::0194"
+  ]
+ },
+ {
+  "name": "Endurance of the Enraged",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Furies Power ignoring wound penalties except on Defense.",
+  "evidence": [
+   "realms-of-power-the-infernal::0194"
+  ]
+ },
+ {
+  "name": "Betrayal of the Heart",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Accusers Power revealing a target's secret fact.",
+  "evidence": [
+   "realms-of-power-the-infernal::0196",
+   "realms-of-power-the-infernal::0197"
+  ]
+ },
+ {
+  "name": "Whispers Behind the Back",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Accusers Power inflicting anxiety about secret sins for a month.",
+  "evidence": [
+   "realms-of-power-the-infernal::0197"
+  ]
+ },
+ {
+  "name": "King of Fire (Power)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Adramelech's Power to create any Ignem effect cheaply.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Regal Countenance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Adramelech's Power forcing obedience to terse orders.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232",
+   "realms-of-power-the-infernal::0233"
+  ]
+ },
+ {
+  "name": "Form of Woman",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Baal-Peor's Power to take a beautiful woman's form.",
+  "evidence": [
+   "realms-of-power-the-infernal::0235",
+   "realms-of-power-the-infernal::0236"
+  ]
+ },
+ {
+  "name": "Noxious Vomit",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Baal-Peor's Power spraying corrosive vomit.",
+  "evidence": [
+   "realms-of-power-the-infernal::0235",
+   "realms-of-power-the-infernal::0236"
+  ]
+ },
+ {
+  "name": "Swallow Assault",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Baal-Peor's Power to swallow mundane attacks harmlessly.",
+  "evidence": [
+   "realms-of-power-the-infernal::0236"
+  ]
+ },
+ {
+  "name": "Make a Liar of the Boastful",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bomburkhan's Power granting someone a talent contradicting a boast.",
+  "evidence": [
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Insignificance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bomburkhan's Power preventing any power forcing him to use his Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Misfortune",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ruchin family Power possessed by Bomburkhan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Scourging the Infernal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Relic Power radiating an aura harmful to demons whose Might is lower than the relic's Divine Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0158"
+  ]
+ },
+ {
+  "name": "Relics",
+  "type": "Item",
+  "aliases": [
+   "Relic"
+  ],
+  "description": "Supremely holy items anathema to demons, bearing the Scourging the Infernal Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0158"
+  ]
+ },
+ {
+  "name": "Demonic Weakness",
+  "type": "Concept",
+  "aliases": [
+   "Weakness"
+  ],
+  "description": "Individual weakness every demon has, chosen from Abhorrent Material, Compulsiveness, Ordering, Protected Group, Running Water or Vulnerability.",
+  "evidence": [
+   "realms-of-power-the-infernal::0159",
+   "realms-of-power-the-infernal::0160",
+   "realms-of-power-the-infernal::0161"
+  ]
+ },
+ {
+  "name": "Abhorrent Material/Circumstance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Weakness forcing a demon to flee a particular substance or circumstance.",
+  "evidence": [
+   "realms-of-power-the-infernal::0160",
+   "realms-of-power-the-infernal::0161"
+  ]
+ },
+ {
+  "name": "Compulsiveness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Weakness compelling a demon to count scattered objects.",
+  "evidence": [
+   "realms-of-power-the-infernal::0161"
+  ]
+ },
+ {
+  "name": "Ordering",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Weakness giving a demon no power over anything sealed, counted, measured or tied.",
+  "evidence": [
+   "realms-of-power-the-infernal::0161"
+  ]
+ },
+ {
+  "name": "Protected Group",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Weakness preventing a demon acting against a particular group.",
+  "evidence": [
+   "realms-of-power-the-infernal::0161",
+   "realms-of-power-the-infernal::0162",
+   "realms-of-power-the-infernal::0233"
+  ]
+ },
+ {
+  "name": "Running Water",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Weakness preventing a demon crossing running fresh water.",
+  "evidence": [
+   "realms-of-power-the-infernal::0162",
+   "realms-of-power-the-infernal::0237"
+  ]
+ },
+ {
+  "name": "Vulnerability",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Weakness whereby a substance wounds a demon by touch.",
+  "evidence": [
+   "realms-of-power-the-infernal::0158",
+   "realms-of-power-the-infernal::0162"
+  ]
+ },
+ {
+  "name": "Religious Limitations on Demons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Holy days and rites limiting demons: Holy Saturday, Yom Kippur to Sukkot atonement, and the hajj.",
+  "evidence": [
+   "realms-of-power-the-infernal::0158",
+   "realms-of-power-the-infernal::0159"
+  ]
+ },
+ {
+  "name": "Holy Saturday",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Day on which demons in Christian lands must abandon physical form until Easter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0148",
+   "realms-of-power-the-infernal::0159"
+  ]
+ },
+ {
+  "name": "Yom Kippur",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Jewish holy day; atonement between it and Sukkot drives demons from a household for a year.",
+  "evidence": [
+   "realms-of-power-the-infernal::0159"
+  ]
+ },
+ {
+  "name": "Sukkot",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Jewish holy day ending the atonement period that banishes demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0159"
+  ]
+ },
+ {
+  "name": "Hajj",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pilgrimage to Mecca granting a Muslim a year's immunity from direct Infernal Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0159"
+  ]
+ },
+ {
+  "name": "Mecca",
+  "type": "Place",
+  "aliases": [],
+  "description": "Destination of the hajj pilgrimage.",
+  "evidence": [
+   "realms-of-power-the-infernal::0159"
+  ]
+ },
+ {
+  "name": "True Names",
+  "type": "Concept",
+  "aliases": [
+   "True Name"
+  ],
+  "description": "Secret-name formulas acting as Arcane Connections to demons and angels, learned via Infernal Lore experience.",
+  "evidence": [
+   "realms-of-power-the-infernal::0163",
+   "realms-of-power-the-infernal::0164"
+  ]
+ },
+ {
+  "name": "Synthemata",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Theurgic formulas similar to True Names used by initiated magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0164"
+  ]
+ },
+ {
+  "name": "Theurgy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic mystery using synthemata.",
+  "evidence": [
+   "realms-of-power-the-infernal::0164"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [
+   "Confidence Points"
+  ],
+  "description": "For demons, an aspect of free will letting them act rationally or simulate virtue by spending Confidence Points.",
+  "evidence": [
+   "realms-of-power-the-infernal::0165",
+   "realms-of-power-the-infernal::0203",
+   "realms-of-power-the-infernal::0211"
+  ]
+ },
+ {
+  "name": "Infernal aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aura in which Infernal creatures regain Might faster.",
+  "evidence": [
+   "realms-of-power-the-infernal::0166"
+  ]
+ },
+ {
+  "name": "Divine aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aura in which demons cannot regenerate Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0166"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Supernatural region; Infernal regiones speed demons' Might recovery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0166"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural area of a realm affecting Might recovery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0166"
+  ]
+ },
+ {
+  "name": "Might Pool",
+  "type": "Concept",
+  "aliases": [
+   "Might Points"
+  ],
+  "description": "Spendable Might points that demons regenerate over time.",
+  "evidence": [
+   "realms-of-power-the-infernal::0150",
+   "realms-of-power-the-infernal::0157",
+   "realms-of-power-the-infernal::0166"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance powers must penetrate to affect a target.",
+  "evidence": [
+   "realms-of-power-the-infernal::0148",
+   "realms-of-power-the-infernal::0175",
+   "realms-of-power-the-infernal::0179"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of a power overcoming Magic Resistance; True Names add to its multiplier.",
+  "evidence": [
+   "realms-of-power-the-infernal::0151",
+   "realms-of-power-the-infernal::0163"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystical link to a target; demons' borrowed bodies generate none, but True Names act as one.",
+  "evidence": [
+   "realms-of-power-the-infernal::0136",
+   "realms-of-power-the-infernal::0163"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical substance often left in a slain demon's corpse.",
+  "evidence": [
+   "realms-of-power-the-infernal::0137",
+   "realms-of-power-the-infernal::0157",
+   "realms-of-power-the-infernal::0233"
+  ]
+ },
+ {
+  "name": "Yezer ra",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Jewish term for the inclination towards evil, dominating demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0202"
+  ]
+ },
+ {
+  "name": "Yezer tov",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Jewish term for the inclination towards good, absent in demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0202"
+  ]
+ },
+ {
+  "name": "Seven Virtues",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faith, hope, charity, prudence, justice, fortitude and temperance, which demons entirely lack.",
+  "evidence": [
+   "realms-of-power-the-infernal::0141",
+   "realms-of-power-the-infernal::0203",
+   "realms-of-power-the-infernal::0204"
+  ]
+ },
+ {
+  "name": "Destroyers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon role winning souls through torment, death and disaster.",
+  "evidence": [
+   "realms-of-power-the-infernal::0220",
+   "realms-of-power-the-infernal::0221",
+   "realms-of-power-the-infernal::0222"
+  ]
+ },
+ {
+  "name": "Deceivers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon role corrupting mankind through falsehood.",
+  "evidence": [
+   "realms-of-power-the-infernal::0223",
+   "realms-of-power-the-infernal::0224"
+  ]
+ },
+ {
+  "name": "Corrupters",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon role directly tempting mankind into sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0225",
+   "realms-of-power-the-infernal::0226"
+  ]
+ },
+ {
+  "name": "Teind",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tithe of one mortal soul every seven years a Spirit of Deceit convinced a faerie court it owes Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0176",
+   "realms-of-power-the-infernal::0177"
+  ]
+ },
+ {
+  "name": "Mortal sin",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Unrepented sin that damns a soul forever.",
+  "evidence": [
+   "realms-of-power-the-infernal::0183",
+   "realms-of-power-the-infernal::0221"
+  ]
+ },
+ {
+  "name": "Venial sin",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lesser sin that entails purgatory; a chink demons exploit with Obsession.",
+  "evidence": [
+   "realms-of-power-the-infernal::0148",
+   "realms-of-power-the-infernal::0183",
+   "realms-of-power-the-infernal::0221"
+  ]
+ },
+ {
+  "name": "Infernal Hierarchy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ordering of fallen angels into nine orders mirroring angelic choirs.",
+  "evidence": [
+   "realms-of-power-the-infernal::0168",
+   "realms-of-power-the-infernal::0170"
+  ]
+ },
+ {
+  "name": "Angelic choirs",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The nine (originally ten) choirs of angels, one of which Lucifer took with him.",
+  "evidence": [
+   "realms-of-power-the-infernal::0120",
+   "realms-of-power-the-infernal::0142",
+   "realms-of-power-the-infernal::0145"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Punishment for knowing spells to summon or compel demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0157"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Oath forbidding the summoning and compelling of demons by magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0157"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "aliases": [
+   "Infernalists",
+   "diabolist"
+  ],
+  "description": "Human who serves or summons demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0143",
+   "realms-of-power-the-infernal::0218",
+   "realms-of-power-the-infernal::0219"
+  ]
+ },
+ {
+  "name": "Personal corrupters",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tempters personifying a person's evil inclination, opposing his guardian angel.",
+  "evidence": [
+   "realms-of-power-the-infernal::0226"
+  ]
+ },
+ {
+  "name": "Guardian angel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Angel opposing a person's personal corrupter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0226"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "aliases": [
+   "Pit"
+  ],
+  "description": "Prison of torment for Satan, his demons and damned souls.",
+  "evidence": [
+   "realms-of-power-the-infernal::0121",
+   "realms-of-power-the-infernal::0131",
+   "realms-of-power-the-infernal::0136"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abode of God and the angels from which the rebel angels were cast.",
+  "evidence": [
+   "realms-of-power-the-infernal::0120",
+   "realms-of-power-the-infernal::0129",
+   "realms-of-power-the-infernal::0131"
+  ]
+ },
+ {
+  "name": "Garden of Eden",
+  "type": "Place",
+  "aliases": [
+   "Eden",
+   "paradise"
+  ],
+  "description": "Paradise where the serpent corrupted Eve.",
+  "evidence": [
+   "realms-of-power-the-infernal::0121",
+   "realms-of-power-the-infernal::0126",
+   "realms-of-power-the-infernal::0128"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "Order"
+  ],
+  "description": "Order of magi; knowing demon-summoning spells means expulsion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0157",
+   "realms-of-power-the-infernal::0188",
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Hermetic magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic of the Order, unable to pierce demonic deception.",
+  "evidence": [
+   "realms-of-power-the-infernal::0155",
+   "realms-of-power-the-infernal::0156"
+  ]
+ },
+ {
+  "name": "Hoplites",
+  "type": "CharacterType",
+  "aliases": [
+   "hoplite"
+  ],
+  "description": "Hermetic enforcers who might slay an apprentice of a demon posing as a magus.",
+  "evidence": [
+   "realms-of-power-the-infernal::0188"
+  ]
+ },
+ {
+  "name": "Fourth Lateran Council",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1215 council whose first canon states demons became evil by their own agency.",
+  "evidence": [
+   "realms-of-power-the-infernal::0202"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting in which grimoires describing True Names are found.",
+  "evidence": [
+   "realms-of-power-the-infernal::0163"
+  ]
+ },
+ {
+  "name": "Infernal realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of power native to demons, embodying chaos, discord and schism.",
+  "evidence": [
+   "realms-of-power-the-infernal::0131",
+   "realms-of-power-the-infernal::0141",
+   "realms-of-power-the-infernal::0220"
+  ]
+ },
+ {
+  "name": "Divine realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of God, marshaling forces toward salvation, and origin of the fallen angels.",
+  "evidence": [
+   "realms-of-power-the-infernal::0131",
+   "realms-of-power-the-infernal::0220"
+  ]
+ },
+ {
+  "name": "Magic realm",
+  "type": "Realm",
+  "aliases": [
+   "magical"
+  ],
+  "description": "Realm whose appearance Shroud the Stench of the Pit can make Infernal Powers mimic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0172"
+  ]
+ },
+ {
+  "name": "Faerie realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Realm of faeries; demonic Powers can masquerade as faerie.",
+  "evidence": [
+   "realms-of-power-the-infernal::0172",
+   "realms-of-power-the-infernal::0176",
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0147",
+   "realms-of-power-the-infernal::0156",
+   "realms-of-power-the-infernal::0157"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0149",
+   "realms-of-power-the-infernal::0151",
+   "realms-of-power-the-infernal::0156"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0147",
+   "realms-of-power-the-infernal::0180",
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0134",
+   "realms-of-power-the-infernal::0190",
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156",
+   "realms-of-power-the-infernal::0175"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156",
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0191",
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0172",
+   "realms-of-power-the-infernal::0191",
+   "realms-of-power-the-infernal::0236"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0188"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0135",
+   "realms-of-power-the-infernal::0157",
+   "realms-of-power-the-infernal::0236"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156",
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique referenced in the rules for demonic Powers and magic against demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0176"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability to perceive invisible spirits, including demons with an increased Ease Factor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0133",
+   "realms-of-power-the-infernal::0135",
+   "realms-of-power-the-infernal::0155"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability covering demon knowledge, used to learn weaknesses and True Names.",
+  "evidence": [
+   "realms-of-power-the-infernal::0159",
+   "realms-of-power-the-infernal::0160",
+   "realms-of-power-the-infernal::0163"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with Perception by demons to sense spiritual beings.",
+  "evidence": [
+   "realms-of-power-the-infernal::0135",
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability cited as an example for possession costs.",
+  "evidence": [
+   "realms-of-power-the-infernal::0153"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural means that can reveal a spiritual demon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability; Deluders have Puissant Guile.",
+  "evidence": [
+   "realms-of-power-the-infernal::0187",
+   "realms-of-power-the-infernal::0232",
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability in which Adramelech excels.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability possessed by Adramelech and Baal-Peor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232",
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech specializing in pacts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech and Baal-Peor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232",
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech and Baal-Peor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232",
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Combat Ability.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232",
+   "realms-of-power-the-infernal::0235",
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Baal-Peor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Baal-Peor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Profession: Merchant",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Baal-Peor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of Bomburkhan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Puissant Guile",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue common to the Deluders order.",
+  "evidence": [
+   "realms-of-power-the-infernal::0187",
+   "realms-of-power-the-infernal::0188"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Furies, grantable via Beserker Rage.",
+  "evidence": [
+   "realms-of-power-the-infernal::0193",
+   "realms-of-power-the-infernal::0194"
+  ]
+ },
+ {
+  "name": "Greater Immunity to Flame and Heat",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Puissant Leadership",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0232"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that protects against Baal-Peor's vomit.",
+  "evidence": [
+   "realms-of-power-the-infernal::0236"
+  ]
+ },
+ {
+  "name": "Weak-Willed",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common to the Tempters order.",
+  "evidence": [
+   "realms-of-power-the-infernal::0199",
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Oversensitive",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Baal-Peor (coitus).",
+  "evidence": [
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Obese",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Baal-Peor.",
+  "evidence": [
+   "realms-of-power-the-infernal::0235"
+  ]
+ },
+ {
+  "name": "Short Attention Span",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Bomburkhan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0239"
+  ]
+ },
+ {
+  "name": "Minor Personality Flaw",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw imposed by a botch against Form of Wickedness.",
+  "evidence": [
+   "realms-of-power-the-infernal::0179",
+   "realms-of-power-the-infernal::0180"
+  ]
+ },
+ {
+  "name": "Frosty Breath of the Spoken Lie",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell that cannot detect a demon's lie.",
+  "evidence": [
+   "realms-of-power-the-infernal::0155"
+  ]
+ },
+ {
+  "name": "Discern the Images of Truth and Falsehood",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell that cannot reveal demonic illusion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0155"
+  ]
+ },
+ {
+  "name": "Sight of the True Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell that shows a shape-changed demon as mundane.",
+  "evidence": [
+   "realms-of-power-the-infernal::0155"
+  ]
+ },
+ {
+  "name": "Ward Against Demons",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rego Vim spell warding all demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156"
+  ]
+ },
+ {
+  "name": "Ward Against Animal Demons",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rego Animal ward against animal demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156"
+  ]
+ },
+ {
+  "name": "Ward Against Water Demons",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rego Aquam ward against water demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Perdo Vim spell reducing a demon's Infernal Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0156",
+   "realms-of-power-the-infernal::0157"
+  ]
+ },
+ {
+  "name": "Circular Ward Against Demons",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ward spell; level 30 is needed against an Aerial Power of Might 20.",
+  "evidence": [
+   "realms-of-power-the-infernal::0191"
+  ]
+ },
+ {
+  "name": "Pains of the Perpetual Worry",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose effect Whispers Behind the Back mimics.",
+  "evidence": [
+   "realms-of-power-the-infernal::0197"
+  ]
+ }
+]

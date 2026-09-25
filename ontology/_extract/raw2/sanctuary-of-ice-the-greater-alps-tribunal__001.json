@@ -1,0 +1,4319 @@
+[
+ {
+  "name": "Covenant of the Cave of Twisting Shadows",
+  "type": "Covenant",
+  "aliases": [
+   "Cave of Twisting Shadows",
+   "the Cave"
+  ],
+  "description": "House Criamon covenant haunted by the ghosts of the Criamon Primi, bound to the Axis Magica; its weakest ghosts appear as patches of darkness, giving it its name.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0121",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Covenant of the Icy North",
+  "type": "Covenant",
+  "aliases": [
+   "Icy North"
+  ],
+  "description": "A covenant founded in 771 by magi of different Houses, now a loose affiliation of nine autonomous chapters across the Alps that meet annually at the Motherhouse in Bavaria.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0129",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Motherhouse of the Covenant of the Icy North",
+  "type": "Covenant",
+  "aliases": [
+   "the Motherhouse",
+   "Mother House"
+  ],
+  "description": "The Bavarian seat of the Covenant of the Icy North, effectively a Guernicus house covenant of Quaesitores who manage the Bavarian Common and host the Tribunal and the Midsummer Fair.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0134"
+  ]
+ },
+ {
+  "name": "Highest Aspiration",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of the Highest Aspiration"
+  ],
+  "description": "A covenant that previously held the Motherhouse site and was destroyed in the Sundering of Tremere, leaving its resources unclaimed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133"
+  ]
+ },
+ {
+  "name": "Bavarian Common",
+  "type": "Place",
+  "description": "The collective vis sources of the fallen covenant Highest Aspiration, harvested under Quaesitor oversight and divided annually among Alpine covenants.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0131",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133"
+  ]
+ },
+ {
+  "name": "Midsummer Fair",
+  "type": "Concept",
+  "aliases": [
+   "the Fair",
+   "annual Fair"
+  ],
+  "description": "Annual gathering held at the Motherhouse of the Covenant of the Icy North where Alpine magi trade and socialize, coinciding with informal and Quaesitorial tribunals.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0129",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0131",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0192"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Covenant",
+  "description": "The domus magna of House Guernicus, an ally of the Motherhouse linked to it by Hermes Portal, where Quaesitores are retrained.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0131",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0147"
+  ]
+ },
+ {
+  "name": "Rorschach Chapter",
+  "type": "Covenant",
+  "description": "A tiny chapter house of the Covenant of the Icy North near Rorschach, home to two Mercere magi and linked by Hermes Portal to the Motherhouse.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0166",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Juno's Spire",
+  "type": "Covenant",
+  "aliases": [
+   "the Spire"
+  ],
+  "description": "Chapter house of the Covenant of the Icy North serving as the personal demesne of Archmagus Pietro, linked to the Motherhouse by a defended Hermes Portal.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Tower of Ashes",
+  "type": "Covenant",
+  "description": "Chapter house of the Covenant of the Icy North that is home to Archmaga Jacinta filia Nicoli of the line of Apromor.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0156"
+  ]
+ },
+ {
+  "name": "Covenant Where Journeys End",
+  "type": "Covenant",
+  "aliases": [
+   "Journeys End"
+  ],
+  "description": "Merinita and Bjornaer covenant in a frigid faerie regio on Mont Joux, founded 817, known for kidnapping travelers and its ice-distorted covenfolk.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Sinews of Knowledge",
+  "type": "Covenant",
+  "description": "Pre-Hermetic covenant in caves behind a waterfall in the Bavarian Alps, home of the Longevity Project and famous as the home of the finest longevity potion maker.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0190",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0192"
+  ]
+ },
+ {
+  "name": "Tarragon Vale",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Tarragon Vale"
+  ],
+  "description": "Unterwalden covenant of metaphysical geographers whose four magi and covenfolk vanished twenty-two years ago; its vis income is held by the Quaesitores.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0214",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0215",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Valnastium",
+  "type": "Covenant",
+  "description": "Domus magna of House Jerbiton, a Roman villa in a hidden Dolomiti valley, founded 773, with chapters in several cities linked by Hermes Portals.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0222",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0227"
+  ]
+ },
+ {
+  "name": "Rorschach",
+  "type": "Place",
+  "description": "A village and center of trade on Lake Constance, near which lies the Mercere chapter house of the Covenant of the Icy North.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151"
+  ]
+ },
+ {
+  "name": "Lake Constance",
+  "type": "Place",
+  "description": "Lake on which the trade village of Rorschach stands.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150"
+  ]
+ },
+ {
+  "name": "Saint Gallen",
+  "type": "Place",
+  "aliases": [
+   "Saint Gall"
+  ],
+  "description": "Place whose abbots own a palace near Rorschach; Valnastium has a chapter there and the abbot is an ally of Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Mont Joux",
+  "type": "Place",
+  "aliases": [
+   "Mons Iovis",
+   "Montjoux",
+   "Mont Blanc"
+  ],
+  "description": "The tallest summit in Europe, called Mons Iovis by the Romans after Jupiter Pennius; site of the Covenant Where Journeys End (later known as Mont Blanc).",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Mont Maudit",
+  "type": "Place",
+  "description": "The 'Accursed Mountain', second-highest peak of the Mont Joux ridge, where Bernard of Menthon chained or destroyed the demon worshipped as Jupiter.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160"
+  ]
+ },
+ {
+  "name": "Temple of Jupiter",
+  "type": "Place",
+  "description": "Ruined temple at Montjoux, repeatedly ransacked during the barbarian invasions, which the maga Lucia sought.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160"
+  ]
+ },
+ {
+  "name": "Bright Winter",
+  "type": "Place",
+  "description": "Faerie domain linked to the vast regio at Montjoux once ruled by the White Lady.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "The faerie otherworld; an entrance to it lies on the peak above Journeys End, and Tarragon Vale's magi were pioneers there.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0164",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0215"
+  ]
+ },
+ {
+  "name": "Land of Spirits",
+  "type": "Place",
+  "description": "Mystical realm explored by the magi of Tarragon Vale alongside Arcadia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0215"
+  ]
+ },
+ {
+  "name": "Dachstein",
+  "type": "Place",
+  "description": "Mountain home of the Frost Giants, allies of the Covenant Where Journeys End.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0163",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Righi",
+  "type": "Place",
+  "description": "Alpine mountain where the magi of Journeys End wish to see giants return.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Bavarian Alps",
+  "type": "Place",
+  "description": "Region where the Motherhouse and Sinews of Knowledge lie, and where five chapter houses were created after the fall of Highest Aspiration.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0191"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Place",
+  "description": "The mountain region that forms the Greater Alps Tribunal, where basilisks are unusually common.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0129",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0144",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Danube",
+  "type": "Place",
+  "description": "River on a minor tributary of which Sinews of Knowledge lies.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188"
+  ]
+ },
+ {
+  "name": "Unterwalden",
+  "type": "Place",
+  "description": "Region where Tarragon Vale is perched on a misty hilltop.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0214",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Dolomiti",
+  "type": "Place",
+  "aliases": [
+   "Dolomites"
+  ],
+  "description": "Region in whose inaccessible valleys lies Jerbiton's family villa, now Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0222"
+  ]
+ },
+ {
+  "name": "Vienna",
+  "type": "Place",
+  "description": "City where Valnastium keeps a chapter; basilisks are common near it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0144",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0227"
+  ]
+ },
+ {
+  "name": "Constance",
+  "type": "Place",
+  "description": "City where Valnastium maintains a chapter.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0227"
+  ]
+ },
+ {
+  "name": "Geneva",
+  "type": "Place",
+  "description": "City where Valnastium has a small chapter.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Basel",
+  "type": "Place",
+  "description": "City near which basilisks are relatively common.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0144"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "description": "Site of a magical accident that led to the birth of two dozen Gifted children five years ago.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0134",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0135"
+  ]
+ },
+ {
+  "name": "Verdi",
+  "type": "Place",
+  "description": "Place where House Verditius holds its magic item competition.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Levant",
+  "type": "Place",
+  "description": "Remote region from which magi dig up odd magic items that Balbina repairs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0157",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0199"
+  ]
+ },
+ {
+  "name": "Temple of Nodens",
+  "type": "Place",
+  "description": "Temple in the Stonehenge Tribunal near which Cara was born, bearing rough drawings of piests.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0202"
+  ]
+ },
+ {
+  "name": "Axis Magica",
+  "type": "Place",
+  "description": "The site at the Cave of Twisting Shadows to which the ritually murdered Criamon Primi are bound as genii loci.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0125"
+  ]
+ },
+ {
+  "name": "Tower of Skulls",
+  "type": "Concept",
+  "description": "The fate of solitary magi who slide into horrific Corpus craft, which Ragoneda fears.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Greater Alpine Tribunal",
+   "Alpine Tribunal"
+  ],
+  "description": "The Alpine Tribunal of the Order, where the Covenant of the Icy North and other covenants discussed lie.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0158",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0136",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal in which Athena Alpina was trained.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0136"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Rhineland",
+   "Rhine"
+  ],
+  "description": "Neighboring Tribunal whose magi raid Alpine vis sites and try to poach from the Bavarian Common.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0131",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0192"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Transylvania"
+  ],
+  "description": "Tribunal whose magi try to poach from the Bavarian Common.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0131"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal containing the Temple of Nodens, near which Cara was born.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0202"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Novgorod"
+  ],
+  "description": "Frontier Tribunal to which young Alpine magi usually must emigrate for thirty years.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0159"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Hibernia"
+  ],
+  "description": "Frontier Tribunal to which young Alpine magi may emigrate; Kentigern's beast-mage tradition comes from Hibernia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0159",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon magi"
+  ],
+  "description": "House whose Founder Criamon brought Twilight into Hermetic magic; its magi pursue the Enigma and their Primi dwell as ghosts at the Cave of Twisting Shadows.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0127",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0148"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "House of shapeshifting magi with heartbeasts, which does not require its members to be proficient spellcasters.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0126",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0174",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0182"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "House of the Quaesitores, which effectively holds the Motherhouse of the Icy North and has Magvillus as its seat.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "House devoted to struggle; Pietro was trained in it and Adrasteia, Sabastien and Ragoneda belong to it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "House of hedge traditions to which Kentigern belongs.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "House of redcaps; two Mercere magi live at the Rorschach Chapter and supply redcaps with devices and longevity potions.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "House of fire magi; Pietro joined it by defeating its champions, and Jacinta may become its Prima.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0157",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "House of faerie magi that dominates the Covenant Where Journeys End and opposed Tarragon Vale's ideology.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0169",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0183",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0215"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "House devoted to culture and art, whose domus magna is Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0227"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "House of researchers; Philomena and Hubert pursue longevity research in it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0158",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0193",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0196"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "House of item-makers that holds a magic item competition at Verdi; a lineage of it works on hydraulics at Sinews of Knowledge.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0197",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0199"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "description": "Former House whose members carried a forked stick called a cymar; anti-Druidical prejudice persists.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0203"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "House whose members are viewed with suspicion in the Alps; the Sundering of Tremere destroyed Highest Aspiration.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0136",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Jane, the Fifth Primus",
+  "type": "Character",
+  "aliases": [
+   "Jane"
+  ],
+  "description": "Ghost of the fifth Primus of House Criamon at the Cave of Twisting Shadows, the youngest Primus who knew Criamon in life; friendly and willing to tutor outsiders.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0123",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0124"
+  ]
+ },
+ {
+  "name": "Criamon",
+  "type": "Character",
+  "aliases": [
+   "the Founder"
+  ],
+  "description": "Founder of House Criamon, a scion of Empedocles' lineage, through whom Twilight entered Hermetic magic; he is unable to enter Twilight himself.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0124",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0126",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Empedocles",
+  "type": "Character",
+  "description": "Ancient Greek mystic who opened a path to Twilight by casting himself into a volcano; Criamon descended from his lineage.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0126",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Athena Alpina",
+  "type": "Character",
+  "aliases": [
+   "Athena"
+  ],
+  "description": "Guernicus Intéllego specialist and chief Quaesitor of the Alps, who coordinates the Midsummer Fair and favors a greater role for the Tremere.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0136",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0138"
+  ]
+ },
+ {
+  "name": "Mircalla",
+  "type": "Character",
+  "description": "Ghost of the Motherhouse, a mother murdered by a magus's grogs, immune to Hermetic magic and protective of mistreated apprentices.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0134",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0137"
+  ]
+ },
+ {
+  "name": "Cato",
+  "type": "Character",
+  "description": "Guernicus Quaesitor, second-most senior in the Tribunal, who spies disguised as a mundane using subtle illusions.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0138"
+  ]
+ },
+ {
+  "name": "Adrasteia of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Adrasteia"
+  ],
+  "description": "Quaesitor who roves the Tribunal borders laying traps for vis raiders, often with hoplites.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0149"
+  ]
+ },
+ {
+  "name": "Kentigern of Ex Miscellanea",
+  "type": "Character",
+  "aliases": [
+   "Kentigern"
+  ],
+  "description": "Quaesitor from a Hibernian beast-mage tradition with an affinity for dogs, controlling a pack of faerie hounds.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0147"
+  ]
+ },
+ {
+  "name": "Tobias",
+  "type": "Character",
+  "description": "Kentigern's familiar, a faerie hound that leads his pack and can cast Soothe the Pains of the Beast.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Vincent",
+  "type": "Character",
+  "aliases": [
+   "Archmage Vincent"
+  ],
+  "description": "Archmage follower of Criamon who seeks the Enigma through violent magic and is a fine certámen practitioner.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0148"
+  ]
+ },
+ {
+  "name": "Katrina of Bjornaer",
+  "type": "Character",
+  "aliases": [
+   "Katrina"
+  ],
+  "description": "One of the Order's youngest hoplites, whose heartbeast is a wolverine; she serves the Quaesitores and allies with Adrasteia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0149"
+  ]
+ },
+ {
+  "name": "Mary",
+  "type": "Character",
+  "description": "Senior Mercere maga at the Rorschach Chapter who creates lesser enchanted devices of illusion and travel for redcaps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150"
+  ]
+ },
+ {
+  "name": "Rogitien",
+  "type": "Character",
+  "description": "Mercere alchemist at the Rorschach Chapter who brews longevity potions for redcaps and hoplites; he has the Gentle Gift.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150"
+  ]
+ },
+ {
+  "name": "Pietro",
+  "type": "Character",
+  "aliases": [
+   "Archmage Pietro",
+   "Archmagus Pietro"
+  ],
+  "description": "Archmagus and most senior hoplite of the Tribunal, originally Tytalus, who won entry to House Flambeau with lightning and founded the Pietrine lineage; rumored to be the Antares.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0157"
+  ]
+ },
+ {
+  "name": "Cinnamon",
+  "type": "Character",
+  "description": "Pietro's leopard familiar, which ambushes birds from behind cloudbanks.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "description": "Great general in Order history sent against Dav'nalleous, said to have worn the Antares ruby.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Dav'nalleous",
+  "type": "Character",
+  "description": "Foe against whom Pralix was sent.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Entisimon",
+  "type": "Character",
+  "description": "General who marshaled the Flambeau during the Schism War and reputedly wore the Antares ruby.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Jacinta filia Nicoli",
+  "type": "Character",
+  "aliases": [
+   "Jacinta",
+   "Archmaga Jacinta"
+  ],
+  "description": "Archmaga of the line of Apromor, follower of Flambeau, the most competent Perdo magus in the Order and leader of the Rowan Sisterhood.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0156",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0157",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Apromor",
+  "type": "Character",
+  "description": "Flambeau magus whose line of Perdo specialists includes Jacinta.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0156"
+  ]
+ },
+ {
+  "name": "Lucia",
+  "type": "Character",
+  "description": "Early Merinita maga and combat specialist who killed the White Lady and claimed the Montjoux regio.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160"
+  ]
+ },
+ {
+  "name": "White Lady",
+  "type": "Character",
+  "aliases": [
+   "the Queen"
+  ],
+  "description": "Faerie queen skilled in illusion who ruled the Montjoux regio linked to Bright Winter until slain by Lucia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Bernard of Menthon",
+  "type": "Character",
+  "aliases": [
+   "Saint Bernard"
+  ],
+  "description": "Blessed founder of the Alpine hospices who chained or destroyed the 'demon' worshipped as Jupiter on Mont Maudit.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Yselt filia Rosalia",
+  "type": "Character",
+  "aliases": [
+   "Yselt"
+  ],
+  "description": "Ice-distorted, faerie-blooded senior Merinita maga who leads the Covenant Where Journeys End and holds a veto; her sigil is the icicle.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0169",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Carlo filius Innocu",
+  "type": "Character",
+  "aliases": [
+   "Carlo"
+  ],
+  "description": "Merinita magus of Journeys End born of ice-distorted parents, with barbegazi features and powers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0171"
+  ]
+ },
+ {
+  "name": "Charlotte filia Lupina",
+  "type": "Character",
+  "aliases": [
+   "Charlotte"
+  ],
+  "description": "Timid Merinita maga, daughter of a goose maiden, with latent skinchanging ability.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Giselle filia Bertrand",
+  "type": "Character",
+  "aliases": [
+   "Giselle"
+  ],
+  "description": "Merinita maga whose father was a water elemental; practical, skilled in certámen, and often represents her covenant.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0173"
+  ]
+ },
+ {
+  "name": "Capra filia Bullfinch",
+  "type": "Character",
+  "aliases": [
+   "Capra"
+  ],
+  "description": "Bjornaer maga with an ibex heartbeast, a faerie midwife who believes she is destined to raise the new Jupiter Pennius.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0174",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0175"
+  ]
+ },
+ {
+  "name": "Miklos filius Kosma",
+  "type": "Character",
+  "aliases": [
+   "Miklos"
+  ],
+  "description": "Faerie-blooded young Jerbiton magus at Journeys End, a musician and enchanted tailor married to Lyndsay.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Lyndsay",
+  "type": "Character",
+  "description": "Chief equerry of the Covenant Where Journeys End and Miklos's true love.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Eginhard filius Caspar",
+  "type": "Character",
+  "aliases": [
+   "Eginhard"
+  ],
+  "description": "Bjornaer magus with a lammergeir heartbeast, pair-bonded to Kamilla; glacially patient schemer.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0182",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0183"
+  ]
+ },
+ {
+  "name": "Kamillia filia Bamber",
+  "type": "Character",
+  "aliases": [
+   "Kamilla"
+  ],
+  "description": "Bjornaer maga with a lammergeir heartbeast, the dominant partner of the pair-bonded couple with Eginhard.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Jupiter Pennius",
+  "type": "Character",
+  "aliases": [
+   "Peonn",
+   "Jupiter"
+  ],
+  "description": "Celtic deity of Alpine storms after whom Mont Joux was named; the magi think he was a powerful faerie whose death closed the regio.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0161",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0174"
+  ]
+ },
+ {
+  "name": "Sabrina filia Maura",
+  "type": "Character",
+  "description": "Maga who first improved Bonisagus's longevity potions and became third Primus of House Bonisagus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186"
+  ]
+ },
+ {
+  "name": "Sancia filia Sabrina",
+  "type": "Character",
+  "description": "Perdo Corpus archmage awarded the Sinews site at the Grand Tribunal of 865, who founded the Longevity Project.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187"
+  ]
+ },
+ {
+  "name": "Guernicus",
+  "type": "Character",
+  "description": "Founder of House Guernicus, who determined the 'dead god' skeleton was a magical creature outside the Code.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Founder of House Bonisagus, creator of the first longevity potions; a chair at Valnastium is kept in his honor.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0222"
+  ]
+ },
+ {
+  "name": "Philomena filia Rafe",
+  "type": "Character",
+  "aliases": [
+   "Philomena"
+  ],
+  "description": "Archmaga of Bonisagus and chief researcher of the Longevity Project, a Progressive and secret Amaranth halfling.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0193",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194"
+  ]
+ },
+ {
+  "name": "Paxon filius Valentin",
+  "type": "Character",
+  "aliases": [
+   "Paxon"
+  ],
+  "description": "Archmage of Verditius, the finest brewer of longevity potions in the Order, based at Sinews of Knowledge.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Hubert filius Lorenz",
+  "type": "Character",
+  "aliases": [
+   "Hubert"
+  ],
+  "description": "Bonisagus magus researching hedge-magic longevity methods, such as inverting the familiar bond.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0196"
+  ]
+ },
+ {
+  "name": "Balbina filia Havelock",
+  "type": "Character",
+  "aliases": [
+   "Balbina"
+  ],
+  "description": "Verditius maga with a stammering curse who repairs enchanted items and maintains Sinews' devices.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0198",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0199"
+  ]
+ },
+ {
+  "name": "Himinis the Mad",
+  "type": "Character",
+  "description": "Balbina's ancestor, whose magic items contain dangerous humorous effects.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0199"
+  ]
+ },
+ {
+  "name": "Sabastien filius Luise",
+  "type": "Character",
+  "aliases": [
+   "Sabastien"
+  ],
+  "description": "Tytalus 'professional intruder' who disarms wards in dead magi's sancta and has one of the highest Parma Magica scores in the Order.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0200",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0201"
+  ]
+ },
+ {
+  "name": "Cara filia Sigurd",
+  "type": "Character",
+  "aliases": [
+   "Cara"
+  ],
+  "description": "Bjornaer maga with a piest heartbeast who farms shellfish and lobsters in the lake beneath Sinews of Knowledge.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0202"
+  ]
+ },
+ {
+  "name": "Ragoneda filia Elisa",
+  "type": "Character",
+  "aliases": [
+   "Ragoneda"
+  ],
+  "description": "Young Tytalus Corpus specialist and bone maga, a long-term visitor and negotiator for Sinews of Knowledge.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0204",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205"
+  ]
+ },
+ {
+  "name": "Augustina",
+  "type": "Character",
+  "description": "Ragoneda's apprentice of eight years, a bone maga working in Animál who seeks adventure.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0211"
+  ]
+ },
+ {
+  "name": "Cymena the Redcap",
+  "type": "Character",
+  "aliases": [
+   "Cymena"
+  ],
+  "description": "Nonmagical redcap living at Tarragon Vale, whose grandparents were from there; carries a lickstone and wears dragonette-skin boots.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0218",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0221"
+  ]
+ },
+ {
+  "name": "Jerbiton",
+  "type": "Character",
+  "description": "Founder of House Jerbiton, descended from a Roman soldier; he hid his family's valley villa, which became Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0222",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0223"
+  ]
+ },
+ {
+  "name": "Andru filius Astrolabe",
+  "type": "Character",
+  "aliases": [
+   "Andru",
+   "Primus Andru"
+  ],
+  "description": "Primus of House Jerbiton since 1182, a Greek-born illusionist who seeks to reconcile the Church and the Order; married to Carmine.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0231",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Constance filia Vortimer",
+  "type": "Character",
+  "description": "Secundus of House Jerbiton, a core member of Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Sourdine filia Bronwyn",
+  "type": "Character",
+  "aliases": [
+   "Sourdine"
+  ],
+  "description": "Jerbiton maga at Valnastium, Miklos's contact in smoothing disputes between Yselt and Andru.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Sirocco filia Andru",
+  "type": "Character",
+  "description": "Jerbiton maga, core member of Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Grazia filia Natura",
+  "type": "Character",
+  "description": "Jerbiton maga, core member of Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Kalliope filia Bibliophilus",
+  "type": "Character",
+  "description": "Jerbiton maga, core member of Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Bronwyn filia Astrolabe",
+  "type": "Character",
+  "description": "Jerbiton maga, core member of Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Josephine filia Theodore",
+  "type": "Character",
+  "description": "Lartan Jerbiton maga at Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Francois filius Alban",
+  "type": "Character",
+  "description": "Lartan Jerbiton magus at Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Chloe filia Andru",
+  "type": "Character",
+  "description": "Lartan Jerbiton maga at Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Carmine",
+  "type": "Character",
+  "aliases": [
+   "Carmine of Flambeau"
+  ],
+  "description": "Flambeau maga, long-term non-member at Valnastium, secretly married to Andru; keeps his sigil ring while he keeps her Veil of Fire.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Cyrian",
+  "type": "Character",
+  "aliases": [
+   "the Blessed Cyrian"
+  ],
+  "description": "Blessed figure whose fingerbone relic Andru carries.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0230",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0239"
+  ]
+ },
+ {
+  "name": "Crucifixio",
+  "type": "Character",
+  "description": "Andru's cat familiar with Magic Might 10.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0239"
+  ]
+ },
+ {
+  "name": "Amalthea",
+  "type": "Character",
+  "description": "Mythic goat that suckled Zeus; Capra sees herself as the new Amalthea.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0175"
+  ]
+ },
+ {
+  "name": "Criamon Primi",
+  "type": "Faction",
+  "aliases": [
+   "the Primi"
+  ],
+  "description": "The ghosts of the Primi of House Criamon, ritually bound as genii loci to the Axis Magica, who habitually predict the doom and rebirth of the Order.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0125",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The organization of Hermetic magi, whose doom and rebirth the Criamon Primi predict.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0127",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0197",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitors",
+   "Quaesitor"
+  ],
+  "description": "Guernicus investigators of Hermetic law who manage the Bavarian Common and hold Tarragon Vale's vis.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0147",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Pietrine lineage",
+  "type": "Faction",
+  "aliases": [
+   "Jovians",
+   "Pietrine Flambeau"
+  ],
+  "description": "Flambeau lineage founded by Pietro specializing in Auram lightning magic; its members call themselves Jovians.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0152"
+  ]
+ },
+ {
+  "name": "Rowan Sisterhood",
+  "type": "Faction",
+  "description": "Informal group led by Jacinta, founded during the purge of the Shadow Flambeau, watching for diabolic or vampiric corruption.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Shadow Flambeau",
+  "type": "Faction",
+  "description": "Group purged within House Flambeau, during which the Rowan Sisterhood was founded.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Council of Archmagi",
+  "type": "Faction",
+  "aliases": [
+   "Council of Archmages"
+  ],
+  "description": "Council that reputedly appoints the Antares and hires Sabastien.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0200"
+  ]
+ },
+ {
+  "name": "Frost Giants of Dachstein",
+  "type": "Faction",
+  "aliases": [
+   "giants of Dachstein"
+  ],
+  "description": "Giants allied to the Covenant Where Journeys End.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0163",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Progressives",
+  "type": "Faction",
+  "description": "Highly skilled Bonisagus magi who view the Founder as fallible and do not see themselves as inferior to his generation.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [
+   "Seeker tradition"
+  ],
+  "description": "Hermetic tradition intensely interested in Sinews of Knowledge's 'dead god' vis source.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Longevity Project",
+  "type": "Faction",
+  "description": "Research project at Sinews of Knowledge founded by Sancia filia Sabrina to improve longevity potions, now led by Philomena.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0193"
+  ]
+ },
+ {
+  "name": "Larta",
+  "type": "Faction",
+  "aliases": [
+   "Lartan magi",
+   "Larta magi"
+  ],
+  "description": "Lineage of Jerbiton magi, three of whom are members of Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0230"
+  ]
+ },
+ {
+  "name": "The Fanes",
+  "type": "Faction",
+  "description": "Enemies of Valnastium, fought in a battle where the Standard of the Shadowy Men was used.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0237"
+  ]
+ },
+ {
+  "name": "Mercurial priesthood",
+  "type": "Faction",
+  "description": "Ancient priesthood of Mercurian magic whose artifacts Sabastien is rumored to own.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0201"
+  ]
+ },
+ {
+  "name": "Urbastis cult",
+  "type": "Faction",
+  "description": "Cult known to Andru's cat familiar through Legend Lore.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0239"
+  ]
+ },
+ {
+  "name": "College of Cardinals",
+  "type": "Faction",
+  "description": "Body that elects the Pope, whose election practice House Jerbiton follows.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Hereditary priesthood of the dead god",
+  "type": "Faction",
+  "description": "Pre-Hermetic priests who guarded the 'dead god' skeleton at Sinews of Knowledge and were exterminated during the Sundering.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "description": "Hermetic enforcers serving the Quaesitores; Pietro is the Tribunal's most senior.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0149",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "description": "Messengers of House Mercere, some nonmagical, who travel between covenants.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0166",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0221"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [
+   "Prima",
+   "Primi"
+  ],
+  "description": "Head of a Hermetic House, elected in House Jerbiton by weighted votes.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0229",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0231"
+  ]
+ },
+ {
+  "name": "Secundus",
+  "type": "CharacterType",
+  "aliases": [
+   "Secundi"
+  ],
+  "description": "Deputy Primus of House Jerbiton; the Greater Secundus is the Primus's elected heir.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Antares",
+  "type": "CharacterType",
+  "description": "Rumored supreme war leader appointed by the Council of Archmagi, named for a great ruby badge of office.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Archmage",
+  "type": "CharacterType",
+  "aliases": [
+   "Archmagus",
+   "Archmaga"
+  ],
+  "description": "Magus of high rank; Katrina prepares to challenge for Archmagehood.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0149",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0197",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Halfling",
+  "type": "CharacterType",
+  "description": "Person with one faerie and one mortal parent, common among Journeys End Merinita.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0169",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0173",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "grog turb"
+  ],
+  "description": "Covenant soldiers and servants.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0166",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0204"
+  ]
+ },
+ {
+  "name": "Hedge magician",
+  "type": "CharacterType",
+  "description": "Non-Hermetic magician, some of whom prolong their lives by magic.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0147",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0196"
+  ]
+ },
+ {
+  "name": "Apprentice",
+  "type": "CharacterType",
+  "description": "Trainee magus; Mircalla protects mistreated apprentices.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0137",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0159",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "CharacterType",
+  "description": "Mundane inhabitants of a covenant, often distorted by its aura.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0166",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0221"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [
+   "wizard-ghost"
+  ],
+  "description": "Spirit of the dead; wizard-ghosts have Magic Might of Creo+Vim+10 and a Desires Rest trait.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0121",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Genius Loci",
+  "type": "Creature",
+  "aliases": [
+   "genii locus"
+  ],
+  "description": "Spirit of place that cannot be destroyed without destroying the aura it is bound to; the Criamon Primi are genii loci.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0125",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0137"
+  ]
+ },
+ {
+  "name": "Basilisk",
+  "type": "Creature",
+  "description": "Dangerous beast hatched from an egg laid in a dung heap, relatively common in the Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0144"
+  ]
+ },
+ {
+  "name": "Iaculus",
+  "type": "Creature",
+  "aliases": [
+   "iaculii",
+   "syrenii"
+  ],
+  "description": "Winged snakes, called syrenii by Herodotus, considered ill-omened by Hermetic magi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0145"
+  ]
+ },
+ {
+  "name": "Faerie hound",
+  "type": "Creature",
+  "description": "Faerie dogs; Kentigern controls a pack and his familiar Tobias is one.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Barbegazi",
+  "type": "Creature",
+  "description": "Gnomes that served the White Lady, with huge feet and icicles in their beards.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0171",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Air elemental",
+  "type": "Creature",
+  "description": "Elemental spirit that Kentigern hunts through the sky.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140"
+  ]
+ },
+ {
+  "name": "Water elemental",
+  "type": "Creature",
+  "description": "Elemental; Giselle's father was one possessing a drowned sailor.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0173"
+  ]
+ },
+ {
+  "name": "Piest",
+  "type": "Creature",
+  "description": "Irish serpent-whale that is Cara's heartbeast.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0202"
+  ]
+ },
+ {
+  "name": "Lammergeir",
+  "type": "Creature",
+  "description": "Bearded vulture, the heartbeast of Eginhard and Kamilla.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Alpine dragonette",
+  "type": "Creature",
+  "description": "Small dragon of the Alps whose skin Cymena made into boots.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Goose maiden",
+  "type": "Creature",
+  "description": "Faerie shapeshifter; Charlotte's mother was one.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Dead god",
+  "type": "Creature",
+  "description": "Eight-foot magical skeleton shackled beneath Sinews of Knowledge whose regrowing flesh slows aging.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Giant",
+  "type": "Creature",
+  "description": "Beings the magi of Journeys End wish to see return to the Righi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Animals of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "vultures of Virtue"
+  ],
+  "description": "Magical animals such as snakes and eagles with mystical methods of rejuvenation.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0196",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Hermes Portal",
+  "type": "Item",
+  "aliases": [
+   "Hermetic Portal"
+  ],
+  "description": "Enchanted gateway linking covenants and chapter houses, such as the Motherhouse, Rorschach and Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0132",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0227"
+  ]
+ },
+ {
+  "name": "Quaesitorial blindfold",
+  "type": "Item",
+  "description": "Enchanted blindfold that aids detection of deception and clear reasoning.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Longevity potion",
+  "type": "Item",
+  "aliases": [
+   "longevity charm"
+  ],
+  "description": "Magical potion that slows aging; Paxon is its finest brewer.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Narrative Map",
+  "type": "Item",
+  "description": "Tarragon Vale's device displaying the underlying structures of mystical realms.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0215"
+  ]
+ },
+ {
+  "name": "Miklos's mandolin",
+  "type": "Item",
+  "description": "Magical mandolin won in Arcadia that commands living things through song lyrics.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Standard of the Shadowy Men",
+  "type": "Item",
+  "description": "Jerbiton item creating Group Seven League Stride, invisibility and grog enhancements, used against the Fanes.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0237"
+  ]
+ },
+ {
+  "name": "Veil of Fire",
+  "type": "Item",
+  "description": "Carmine's sigil, an orange-red bridal veil embroidered with the hourglass of Flambeau, kept by Andru.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0230",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Fingerbone of Cyrian",
+  "type": "Item",
+  "description": "Relic of Cyrian sewn into white silk, carried by Andru.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0230",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0239"
+  ]
+ },
+ {
+  "name": "Lickstone",
+  "type": "Item",
+  "description": "Small metal plate attached to the palate carrying redcap spells; Cymena's contains Seven-League Stride.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Antares ruby",
+  "type": "Item",
+  "description": "Enormous ruby reputedly granting extraordinary powers, the badge of the Antares.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Crystals of Montjoux",
+  "type": "Item",
+  "aliases": [
+   "fluorite",
+   "smoky quartz",
+   "black quartz"
+  ],
+  "description": "Quartz and fluorite crystals found embedded together at Montjoux, with magical form and effect bonuses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0161",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0162",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0163"
+  ]
+ },
+ {
+  "name": "Cymar",
+  "type": "Item",
+  "description": "Forked stick resembling a distaff carried by each member of House Diedne.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0203"
+  ]
+ },
+ {
+  "name": "Spindle",
+  "type": "Item",
+  "description": "Implement female magi carry to disguise magic items; has form and effect bonuses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0203",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Distaff",
+  "type": "Item",
+  "description": "Implement whose enchantment is rare due to anti-Druidic prejudice.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0203"
+  ]
+ },
+ {
+  "name": "Virtuous Amaranth",
+  "type": "Item",
+  "aliases": [
+   "Amaranth"
+  ],
+  "description": "Forbidden plant grown by mysterious faeries, addictive; Philomena's body produces it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0195"
+  ]
+ },
+ {
+  "name": "Favor",
+  "type": "Item",
+  "description": "Class of objects arising from True Love sigils with properties transcending Hermetic limits.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "description": "Magus's personal enchanted device; Ragoneda's is a bone spindle.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Lay to Rest the Haunting Spirit",
+  "type": "Spell",
+  "description": "Spell Hermetic magi cast on their dead to prevent ghosts; it does not affect the Criamon Primi, who are genii loci.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122"
+  ]
+ },
+ {
+  "name": "The Gift of the Enigma",
+  "type": "Spell",
+  "description": "Spell of which Archmage Vincent uses a deadly high-level optimization.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0148"
+  ]
+ },
+ {
+  "name": "Soothe the Pains of the Beast",
+  "type": "Spell",
+  "description": "CrAn healing spell for animals known by Kentigern and cast by his familiar Tobias.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Call the Basilisk",
+  "type": "Spell",
+  "description": "Kentigern's CrAn(Re) 50 spell that creates a basilisk so he can study them safely.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0144"
+  ]
+ },
+ {
+  "name": "The Foes of the Ibis",
+  "type": "Spell",
+  "description": "Kentigern's CrAn(Re) 40 spell creating a small flock of iaculii, winged snakes.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0144",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0145"
+  ]
+ },
+ {
+  "name": "Daughter of Zephyrs",
+  "type": "Spell",
+  "description": "Kentigern's CrAn(Re) 45 spell creating a magical horse that gallops through the air.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0144"
+  ]
+ },
+ {
+  "name": "Vision of the Marauding Beast",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "To Know the Owner as Might His Hound",
+  "type": "Spell",
+  "description": "InAn 25 spell letting Kentigern sense what an animal senses.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0145",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0146"
+  ]
+ },
+ {
+  "name": "Opening the Tome of the Animal's Mind",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Circle of Beast Warding",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Mastering the Unruly Beast",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Commanding the Harnessed Beast",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Ward Against the Beasts of Legend",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "True Sight of the Air",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Chirurgeon's Healing Touch",
+  "type": "Spell",
+  "description": "CrCo 20 healing spell known by Kentigern, Miklos, Ragoneda and Andru.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "The Inexorable Search",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Converse with Plant and Tree",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Eyes of the Past",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Veil of Invisibility",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Perception of the Conflicting Motives",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Liar's Chime",
+  "type": "Spell",
+  "description": "InMe(Im) 25 modification of Frosty Breath of the Spoken Lie that sounds a bell when the target lies.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0145",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0146"
+  ]
+ },
+ {
+  "name": "Frosty Breath of the Spoken Lie",
+  "type": "Spell",
+  "description": "Spell that makes a liar's breath frosty, on which Liar's Chime is based.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0145",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0146"
+  ]
+ },
+ {
+  "name": "Peering Into the Mortal Mind",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142"
+  ]
+ },
+ {
+  "name": "The Thief of Memory",
+  "type": "Spell",
+  "description": "PeMe 25 spell removing all memory of an individual, place or event; Quaesitores use it to tidy up after Hermetic criminals.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0146"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "ReMe 20 spell known by Kentigern and Andru; Miklos's mandolin produces a similar effect.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Scales of Magical Weight",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Sense the Nature of Vis",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Sense of Lingering Magic",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0142",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Incantation of Lightning",
+  "type": "Spell",
+  "description": "Auram spell every Pietrine lineage magus must know and master.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151"
+  ]
+ },
+ {
+  "name": "Wings of the Soaring Wind",
+  "type": "Spell",
+  "description": "Auram flight spell that Pietrine magi learn in a Sun-duration version.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151"
+  ]
+ },
+ {
+  "name": "Carve the Mystic Tower",
+  "type": "Spell",
+  "description": "Jacinta's Perdo spell that etches away surplus rock to leave a building.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0156"
+  ]
+ },
+ {
+  "name": "The Finch Flourish",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Blizzard of Down",
+  "type": "Spell",
+  "description": "Miklos's CrAn 20 spell that blinds and buries a group in feathery down.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0180"
+  ]
+ },
+ {
+  "name": "The Scold's Bridle",
+  "type": "Spell",
+  "description": "Miklos's CrAn 20 spell creating a gag that forces magi to cast silently.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0181"
+  ]
+ },
+ {
+  "name": "Cocoon of the Mulberry Worm",
+  "type": "Spell",
+  "description": "Miklos's CrAn 30 spell wrapping a target in layers of silk.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0180"
+  ]
+ },
+ {
+  "name": "Panic of the Elephant's Mouse",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179"
+  ]
+ },
+ {
+  "name": "The Gentle Beast",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179"
+  ]
+ },
+ {
+  "name": "The Couturier's Art",
+  "type": "Spell",
+  "description": "Miklos's spell creating a complete set of clothes with accessories.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0180"
+  ]
+ },
+ {
+  "name": "The Ninth Stitch",
+  "type": "Spell",
+  "description": "Miklos's spell that magically repairs an item of clothing.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0181"
+  ]
+ },
+ {
+  "name": "Aura of Ennobled Presence",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Disguise of the Transformed Image",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Thoughts Within Babble",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Posing the Silent Question",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Recreating the Inner Sea",
+  "type": "Spell",
+  "description": "Ragoneda's CrAq(Co) 25 spell creating a liquid in which severed human flesh stays alive.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Shower of Needles",
+  "type": "Spell",
+  "description": "Ragoneda's CrCo(Re) 20 spell showering a target with bone needles.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0209"
+  ]
+ },
+ {
+  "name": "Tempest of Needles",
+  "type": "Spell",
+  "description": "Group version of Shower of Needles known by Ragoneda.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Eyes of the Owl",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Rack of Thorns",
+  "type": "Spell",
+  "description": "Ragoneda's MuCo 20 spell growing bone thorns inside the target's ribcage.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0209"
+  ]
+ },
+ {
+  "name": "Preternatural Growth and Shrinking",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Easing the Strain of Childbirth",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "The Hidden Skin of the Serpent",
+  "type": "Spell",
+  "description": "MuCo 30 spell turning lower skin into osteoderm plates for +10 Soak.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0209",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "The Suffering of the Seer",
+  "type": "Spell",
+  "description": "MuCo 35 spell sliding bone plates over the victim's eyes, blinding them.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Statue of Bone",
+  "type": "Spell",
+  "description": "Ragoneda's MuCo 50 spell calcifying an enemy into a statue of bone.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Shattered Leg",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Nagging Curse",
+  "type": "Spell",
+  "description": "PeCo 20 spell cracking a tooth's enamel to cause distracting pain.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0210",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0211"
+  ]
+ },
+ {
+  "name": "Grip of the Choking Hand",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Intestinal Suffering",
+  "type": "Spell",
+  "description": "PeCo 40 arcane-range spell creating a lethal bone shard in the victim's intestines.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0211"
+  ]
+ },
+ {
+  "name": "Rise of the Feathery Body",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Leap of Homecoming",
+  "type": "Spell",
+  "description": "ReCo 35 spell usually crafted into redcap lickstones.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Seven League Stride",
+  "type": "Spell",
+  "description": "ReCo 35 travel spell used by Ragoneda, placed in Cymena's lickstone and the Standard of the Shadowy Men.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Charm Against Putrefaction",
+  "type": "Spell",
+  "description": "Spell whose effect is incorporated into Recreating the Inner Sea.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Lungs of Water and Death",
+  "type": "Spell",
+  "description": "Spell cited as the design precedent for Rack of Thorns.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0209"
+  ]
+ },
+ {
+  "name": "Eyes of the Cat",
+  "type": "Spell",
+  "description": "MuCo spell granting night vision, in Cymena's pin and known by Andru.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0218",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Thaumaturgical Transformation of Plants to Iron",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Phantasm of the Skilled Musician",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Phantom Magic",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Image Phantom",
+  "type": "Spell",
+  "description": "MuIm 25 illusion spell known by Andru and enchanted into Jerbiton masks.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0237"
+  ]
+ },
+ {
+  "name": "Visions Beatific",
+  "type": "Spell",
+  "description": "Andru's MuIm(Me) 30 spell making everything appear sublimely beautiful, incapacitating the target.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0236"
+  ]
+ },
+ {
+  "name": "Phantasmal Images",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Restore the Image Transferred",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Wizard's Sidestep",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Captive Voice",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Haunt of the Living Ghost",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Tickling the Humors",
+  "type": "Spell",
+  "description": "Andru's cluster of CrMe variants of Rising Ire instilling other emotions.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0236"
+  ]
+ },
+ {
+  "name": "Gift of Reason",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0234",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Return of Mental Lucidity",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Trail of the Lost Ways",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Call of Morpheus",
+  "type": "Spell",
+  "description": "Andru's group-target version of Call to Slumber.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Call to Slumber",
+  "type": "Spell",
+  "description": "Spell on which Call of Morpheus is based.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Time Unmans All Foes",
+  "type": "Spell",
+  "description": "Andru's variant of Rusted Decay of Ten Score Years with Group target.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Rusted Decay of Ten Score Years",
+  "type": "Spell",
+  "description": "Spell on which Andru's Time Unmans All Foes is based.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Circle of Warriors",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Wielding the Invisible Sling",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Circular Ward Against Demons",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Circular Ward Against Faeries",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Opening the Intangible Tunnel",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Watching Ward",
+  "type": "Spell",
+  "description": "Hermetic spell listed among the spells known by a magus in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Rising Ire",
+  "type": "Spell",
+  "description": "Emotion-instilling spell on which Tickling the Humors is based.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0236"
+  ]
+ },
+ {
+  "name": "Vision of Infernal Terrors",
+  "type": "Spell",
+  "description": "Spell on which Visions Beatific is modeled.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0237"
+  ]
+ },
+ {
+  "name": "Disguise of the New Visage",
+  "type": "Spell",
+  "description": "Spell placed in constant-use masks made by Andru's predecessors.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0237",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Enslave the Mortal Mind",
+  "type": "Spell",
+  "description": "Will-sapping spell to whose use Andru strongly objects.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238"
+  ]
+ },
+ {
+  "name": "The Shrouded Glen",
+  "type": "Spell",
+  "description": "Spell the Quaesitores cast about Tarragon Vale to hide it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Protective ritual ward of a covenant, renewed at a feast; faeries and Mircalla have crossed it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0137",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0166",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Visual Eidetic Memory",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Affinity with Animál",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140"
+  ]
+ },
+ {
+  "name": "Clear Thinker",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140"
+  ]
+ },
+ {
+  "name": "Mastered Spells",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151"
+  ]
+ },
+ {
+  "name": "True Friend",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "description": "Virtue possessed by Rogitien, Miklos and Andru that avoids the social penalties of the Gift.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0150",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Light Touch",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Sidhe Blood",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Affinity",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Well-traveled",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Virtue",
+  "description": "Virtue representing a true love; Miklos loves Lyndsay and Andru and Carmine carry each other's sigils as True Lovers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0176",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Latent Mystical Ability",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Secret Hiding Place",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0173"
+  ]
+ },
+ {
+  "name": "Charmed Life",
+  "type": "Virtue",
+  "description": "Virtue Sabastien may have and Andru has, which Andru wrongly attributes to his relic of Cyrian.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0200",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0201",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Destiny",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0200",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0201"
+  ]
+ },
+ {
+  "name": "Incredible Intelligence",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205"
+  ]
+ },
+ {
+  "name": "Great Intelligence",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Purifying Touch",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Magic Affinity",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Secret Vis Source",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Strong-willed",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Public Vis Source",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Whitlams",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Magic Items",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194"
+  ]
+ },
+ {
+  "name": "Patron",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "description": "Virtue appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "Ability about 25% of those born at Tarragon Vale had, making them prized grogs; it waned after the Vanishing Away.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0221"
+  ]
+ },
+ {
+  "name": "Susceptible to Divine Power",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Minor Magical Deficiency",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140"
+  ]
+ },
+ {
+  "name": "Major Magic Deficiency",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0205",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0151",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0152",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Driving Goal",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0152",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Beloved Enemy",
+  "type": "Flaw",
+  "description": "Flaw (usually -2) mixing the Enemy flaw and True Friend virtue: an enemy nurtured through conflict whom one never tries to destroy.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0155"
+  ]
+ },
+ {
+  "name": "Stingy Master",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0159"
+  ]
+ },
+ {
+  "name": "Weak Parma",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Non-combatant",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Dependant",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Cyclic Magic",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Deep Sleeper",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Indenture",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "description": "Flaw appearing in character statistics or rules in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Brawling",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Certámen",
+  "type": "Ability",
+  "aliases": [
+   "certamen"
+  ],
+  "description": "Formal magical duel and the Ability for it; Vincent is among the Tribunal's finest practitioners.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0148",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0173"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Crossbow",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Greater Alpine Tribunal Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Hermetic Law",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Legend Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0152",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Occult Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "description": "Hermetic protective ability; Sabastien has one of the highest scores in the Order.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0152",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0200"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Scribe Latin",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Speak Latin",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Speak Irish",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Speak German",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0140",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Hermes Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0152",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Speak Own Language",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0152"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Disputatio",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "House Jerbiton Lore",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Lectio",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Play",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Speak Iberian",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Speak Langue d'Oc",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0177",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Boating",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Speak Norman French",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Climb",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Disguise",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Speak Italian",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Speak Romansch",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Storytelling",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Wagoneering",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Bow",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Enigmatic Wisdom",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0233"
+  ]
+ },
+ {
+  "name": "Forgery",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0233"
+  ]
+ },
+ {
+  "name": "Sing",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0233"
+  ]
+ },
+ {
+  "name": "Speak Greek",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0233"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Ability appearing in character statistics in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0233"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [
+   "Cr"
+  ],
+  "description": "Hermetic Technique, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Intéllego",
+  "type": "Art",
+  "aliases": [
+   "In",
+   "Intellego"
+  ],
+  "description": "Hermetic Technique, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [
+   "Mu"
+  ],
+  "description": "Hermetic Technique, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [
+   "Pe"
+  ],
+  "description": "Hermetic Technique of destruction; Jacinta is the Order's most competent Perdo magus and researches suboptimal Perdo spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0156",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [
+   "Re"
+  ],
+  "description": "Hermetic Technique, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Animál",
+  "type": "Art",
+  "aliases": [
+   "An",
+   "Animal"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [
+   "Aq"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [
+   "Au"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Co"
+  ],
+  "description": "Hermetic Form of the human body; Sinews of Knowledge's vis and library are mostly Corpus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0190",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0204",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [
+   "He"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [
+   "Ig"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Imáginem",
+  "type": "Art",
+  "aliases": [
+   "Im",
+   "Imaginem"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [
+   "Me"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [
+   "Te"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [
+   "Vi"
+  ],
+  "description": "Hermetic Form, one of the fifteen Arts, appearing in Arts scores and spell designations in this text.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0178",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight's Gift"
+  ],
+  "description": "State unique to Hermetic magic between success and terminal failure, which entered Hermetic magic through Criamon.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0126",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0128",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "description": "The last Twilight a magus enters, from which they do not return.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0194",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0195"
+  ]
+ },
+ {
+  "name": "Twilight Points",
+  "type": "Concept",
+  "description": "Measure of a magus's progress toward Final Twilight.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0121",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Enigma",
+  "type": "Concept",
+  "description": "The mystery House Criamon seeks to solve, literally 'puzzle'.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0126",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0127",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0148"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "Law of the Order, which does not protect ghosts or magical creatures like the dead god.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0148",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "Magical talent; ghosts cannot have it, and some Journeys End magi believe it is hereditary.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0134",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [
+   "Might"
+  ],
+  "description": "Supernatural power score; wizard-ghosts have Creo + Vim + 10.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0122",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0239"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical substance harvested from vis sources and paid as income.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0123",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0129",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural aura of a site; the Journeys End regio has a Faerie aura 8 and ice distortion.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0164",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0190"
+  ]
+ },
+ {
+  "name": "Aura of Ice",
+  "type": "Concept",
+  "aliases": [
+   "ice distortion"
+  ],
+  "description": "The distorting faerie aura of Journeys End that chills and warps its covenfolk.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0163",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0171",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0167"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "Otherworldly layer of a place; Journeys End lies in a regio replicating mundane topography.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0160",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0161",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0165"
+  ]
+ },
+ {
+  "name": "Heartbeast",
+  "type": "Concept",
+  "description": "Animal form of a Bjornaer magus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0149",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0174",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0202"
+  ]
+ },
+ {
+  "name": "True Form",
+  "type": "Concept",
+  "description": "Bjornaer ideal form that Eginhard struggles to develop.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "Magical animal bonded to a magus; Hubert researches inverting familiar bond qualities.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0143",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0153",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0196"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "description": "Magus's distinctive signature appearing in their magic.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0170",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0173",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0204"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "description": "Formally declared conflict between magi; Jacinta and Pietro declared it simultaneously on each other.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0157",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0200"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "description": "Test ending a Hermetic apprenticeship.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0159",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0174",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0157"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [
+   "Alpine Peripheral Code"
+  ],
+  "description": "Tribunal rulings, including Alpine limits on magically created wealth and recognized vis sites.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0139",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0141",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Sundering of Tremere",
+  "type": "Concept",
+  "aliases": [
+   "the Sundering"
+  ],
+  "description": "Conflict during which Highest Aspiration and the priesthood of the dead god were destroyed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0130",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "War during which Entisimon marshaled the Flambeau.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Vanishing Away",
+  "type": "Concept",
+  "description": "The unexplained disappearance of Tarragon Vale's magi and covenfolk twenty-two years ago.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0215",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0221"
+  ]
+ },
+ {
+  "name": "March",
+  "type": "Concept",
+  "aliases": [
+   "Marches"
+  ],
+  "description": "Hermetic punitive action; the Motherhouse serves as marshalling point for Marches.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0134"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "description": "Order-wide Tribunal; that of 865 awarded the Sinews site to Sancia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0187"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "description": "Regional Hermetic council, usually held at the Motherhouse in the Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0129",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0134",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0202"
+  ]
+ },
+ {
+  "name": "Chapter house",
+  "type": "Concept",
+  "aliases": [
+   "chapter"
+  ],
+  "description": "Subsidiary site of a covenant; the Covenant of the Icy North consists of chapters.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0129",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0133",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Domus magna",
+  "type": "Concept",
+  "description": "The headquarters covenant of a House.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0157"
+  ]
+ },
+ {
+  "name": "Collegial training",
+  "type": "Concept",
+  "description": "Uncertain new Hermetic technique of training many apprentices together.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0135"
+  ]
+ },
+ {
+  "name": "Apparent Aging",
+  "type": "Concept",
+  "description": "Philomena's cosmetic effect that slows apparent aging in magi.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0186",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0193"
+  ]
+ },
+ {
+  "name": "Mercurian magic",
+  "type": "Concept",
+  "description": "One of the traditions from which Hermetic magic arose.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0126"
+  ]
+ },
+ {
+  "name": "Druidism",
+  "type": "Concept",
+  "description": "Tradition from which Hermetic magic arose; anti-Druidical prejudice persists.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0126",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0203"
+  ]
+ },
+ {
+  "name": "Desires Rest",
+  "type": "Concept",
+  "description": "Ghost trait measuring how driven it is to conclude its earthly business.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0121"
+  ]
+ },
+ {
+  "name": "Longevity specialist",
+  "type": "Concept",
+  "description": "Magus who makes longevity potions for others.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0188"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "Realm of the Divine; urban magi face its full effect and Valnastium has patches of Dominion.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0214",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0228"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm of faeries whose aura dominates Journeys End.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0164",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "description": "Realm of magic; wizard-ghosts have Magic Might and magical auras add to it.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0120",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0164"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of demons; Balbina will not work with infernal items.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0199",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0200"
+  ]
+ }
+]

@@ -1,0 +1,2139 @@
+[
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Western Church",
+   "Latin Church",
+   "Church"
+  ],
+  "description": "The Western Christian Church as a human institution in Mythic Europe, holding tremendous spiritual and temporal power and headed by the pope.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0022",
+   "the-church::0026"
+  ]
+ },
+ {
+  "name": "Greek Church",
+  "type": "Faction",
+  "aliases": [
+   "Eastern Church",
+   "Orthodox Church"
+  ],
+  "description": "The Eastern Church centered in Constantinople and Jerusalem, holding sway only on the eastern peripheries of Mythic Europe.",
+  "evidence": [
+   "the-church::0025"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of magi spread throughout Mythic Europe; troupes decide what the Church knows of it and whether it is seen as menace or ally.",
+  "evidence": [
+   "the-church::0024",
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "Papal Curia",
+  "type": "Faction",
+  "aliases": [
+   "papal court",
+   "curia"
+  ],
+  "description": "The papal court, where rumors of the Order of Hermes might circulate; its senior officials are recommended to have the Senior Clergy Virtue.",
+  "evidence": [
+   "the-church::0024",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Cathedral Chapter",
+  "type": "Faction",
+  "description": "A legal corporation of the canons of a cathedral, very influential in diocesan governance and electing the bishop by secret ballot.",
+  "evidence": [
+   "the-church::0117",
+   "the-church::0118"
+  ]
+ },
+ {
+  "name": "Knights Templar",
+  "type": "Faction",
+  "aliases": [
+   "Templars",
+   "Order of the Temple",
+   "Poor Knights"
+  ],
+  "description": "Military order of the Church (the Poor Knights / Order of the Temple) given a full chapter in this book.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0012",
+   "the-church::0013"
+  ]
+ },
+ {
+  "name": "Franciscans",
+  "type": "Faction",
+  "aliases": [
+   "Little Brothers",
+   "Franciscan friars"
+  ],
+  "description": "Order founded by Francis of Assisi, which faced difficulties before being accepted by the Church; also a Holy Tradition.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0014",
+   "the-church::0074"
+  ]
+ },
+ {
+  "name": "Poor Sisters",
+  "type": "Faction",
+  "description": "Franciscan order of women associated with Clare of Assisi.",
+  "evidence": [
+   "the-church::0014"
+  ]
+ },
+ {
+  "name": "Dominicans",
+  "type": "Faction",
+  "description": "Mendicant order discussed alongside the Franciscans.",
+  "evidence": [
+   "the-church::0021"
+  ]
+ },
+ {
+  "name": "Order of Cluny",
+  "type": "Faction",
+  "aliases": [
+   "Cluniacs"
+  ],
+  "description": "Great Benedictine order (the Cluniacs) whose potential corruption is discussed.",
+  "evidence": [
+   "the-church::0011",
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Cistercians",
+  "type": "Faction",
+  "description": "Monastic order emphasizing solitude and manual labor, with a corrupt variant discussed.",
+  "evidence": [
+   "the-church::0011"
+  ]
+ },
+ {
+  "name": "Vallumbrosans",
+  "type": "Faction",
+  "description": "Monastic order of extreme asceticism and silence and total retreat from the world.",
+  "evidence": [
+   "the-church::0011"
+  ]
+ },
+ {
+  "name": "Joachimites",
+  "type": "Faction",
+  "description": "Followers of Joachim of Flora, connected to the Cistercians.",
+  "evidence": [
+   "the-church::0011"
+  ]
+ },
+ {
+  "name": "Hospitallers",
+  "type": "Faction",
+  "description": "Military order discussed among the other military orders.",
+  "evidence": [
+   "the-church::0012"
+  ]
+ },
+ {
+  "name": "Teutons",
+  "type": "Faction",
+  "aliases": [
+   "Teutonic Knights"
+  ],
+  "description": "The Teutonic military order.",
+  "evidence": [
+   "the-church::0012"
+  ]
+ },
+ {
+  "name": "Order of Calatrava",
+  "type": "Faction",
+  "description": "Iberian military order.",
+  "evidence": [
+   "the-church::0012"
+  ]
+ },
+ {
+  "name": "Order of Saint Lazarus",
+  "type": "Faction",
+  "description": "Military order of the Church.",
+  "evidence": [
+   "the-church::0012"
+  ]
+ },
+ {
+  "name": "Order of Saint Thomas at Acre",
+  "type": "Faction",
+  "description": "Military order based at Acre.",
+  "evidence": [
+   "the-church::0012"
+  ]
+ },
+ {
+  "name": "Beguines",
+  "type": "Faction",
+  "description": "Holy women living religious lives outside formal convents; connected to hermits, with male equivalents called Beghards.",
+  "evidence": [
+   "the-church::0010",
+   "the-church::0096",
+   "the-church::0104"
+  ]
+ },
+ {
+  "name": "Beghards",
+  "type": "Faction",
+  "description": "Male equivalents of the Beguines.",
+  "evidence": [
+   "the-church::0096"
+  ]
+ },
+ {
+  "name": "Carmelite Nuns",
+  "type": "Faction",
+  "description": "Order of female religious discussed in the chapter on women.",
+  "evidence": [
+   "the-church::0010"
+  ]
+ },
+ {
+  "name": "Canonesses",
+  "type": "Faction",
+  "description": "Female religious living under a rule as canons.",
+  "evidence": [
+   "the-church::0010"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "description": "Heretics of Southern France targeted by the Albigensian Crusade.",
+  "evidence": [
+   "the-church::0073"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "Hermetic House to which the sample Holy Maga belongs.",
+  "evidence": [
+   "the-church::0010"
+  ]
+ },
+ {
+  "name": "Guild of Saint Bartholomew",
+  "type": "Faction",
+  "description": "A guild dedicated to Saint Bartholomew, used as an example of guild processions earning Devotion.",
+  "evidence": [
+   "the-church::0054"
+  ]
+ },
+ {
+  "name": "Guild of Saint Peter",
+  "type": "Faction",
+  "description": "A guild dedicated to Saint Peter competing in the Easter Day procession.",
+  "evidence": [
+   "the-church::0054"
+  ]
+ },
+ {
+  "name": "Pope",
+  "type": "CharacterType",
+  "description": "The bishop of Rome and head of the Western Church, who crowns emperors and alone can create, divide, or suppress dioceses; has Commanding Aura with Magic Resistance 25.",
+  "evidence": [
+   "the-church::0022",
+   "the-church::0097",
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "Cardinal",
+  "type": "CharacterType",
+  "description": "Senior Church office; cardinals have Commanding Aura with Magic Resistance 20.",
+  "evidence": [
+   "the-church::0106",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Archbishop",
+  "type": "CharacterType",
+  "description": "Senior cleric with jurisdiction over a province of dioceses; Commanding Aura grants Magic Resistance 10.",
+  "evidence": [
+   "the-church::0097",
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "Bishop",
+  "type": "CharacterType",
+  "description": "Elected head of a diocese, chief priest, judge and ruler of his people, bearing ring and crosier.",
+  "evidence": [
+   "the-church::0097",
+   "the-church::0116",
+   "the-church::0118"
+  ]
+ },
+ {
+  "name": "Papal Legate",
+  "type": "CharacterType",
+  "aliases": [
+   "legatus a latere",
+   "legatus missus"
+  ],
+  "description": "Representative of the pope, either legatus a latere or the lesser legatus missus, each with a Commanding Aura.",
+  "evidence": [
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "Archdeacon",
+  "type": "CharacterType",
+  "description": "Cleric governing an archdeaconry within a diocese.",
+  "evidence": [
+   "the-church::0097",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Dean",
+  "type": "CharacterType",
+  "description": "Cleric governing a deanery within an archdeaconry.",
+  "evidence": [
+   "the-church::0097",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Canon",
+  "type": "CharacterType",
+  "description": "Clergy serving a cathedral, forming the cathedral chapter that elects the bishop.",
+  "evidence": [
+   "the-church::0117",
+   "the-church::0118"
+  ]
+ },
+ {
+  "name": "Priest",
+  "type": "CharacterType",
+  "description": "Ordained cleric in major orders who conducts Mass for his parish congregation.",
+  "evidence": [
+   "the-church::0097",
+   "the-church::0102"
+  ]
+ },
+ {
+  "name": "Curate",
+  "type": "CharacterType",
+  "description": "Priest employed to discharge priestly duties in a parish on behalf of the benefice holder.",
+  "evidence": [
+   "the-church::0100",
+   "the-church::0102"
+  ]
+ },
+ {
+  "name": "Chaplain",
+  "type": "CharacterType",
+  "description": "Priest serving a chapel, such as a covenant chapel.",
+  "evidence": [
+   "the-church::0101",
+   "the-church::0102"
+  ]
+ },
+ {
+  "name": "Churchwarden",
+  "type": "CharacterType",
+  "description": "Lay officers who oversee and help run church buildings, developing in England and elsewhere.",
+  "evidence": [
+   "the-church::0028",
+   "the-church::0030"
+  ]
+ },
+ {
+  "name": "Questor",
+  "type": "CharacterType",
+  "description": "Wandering preachers who sell indulgences.",
+  "evidence": [
+   "the-church::0034"
+  ]
+ },
+ {
+  "name": "Monk",
+  "type": "CharacterType",
+  "description": "Male religious living under a monastic rule.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0104"
+  ]
+ },
+ {
+  "name": "Nun",
+  "type": "CharacterType",
+  "description": "Female religious living under a rule in a nunnery.",
+  "evidence": [
+   "the-church::0010",
+   "the-church::0104"
+  ]
+ },
+ {
+  "name": "Friar",
+  "type": "CharacterType",
+  "description": "Mendicant religious; friar characters take the Mendicant Friar Virtue.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0104"
+  ]
+ },
+ {
+  "name": "Abbot",
+  "type": "CharacterType",
+  "aliases": [
+   "Abbess"
+  ],
+  "description": "Head of a monastery; a senior clergy position (abbess for women).",
+  "evidence": [
+   "the-church::0100",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Hermit",
+  "type": "CharacterType",
+  "description": "One who renounces the world to live alone, celibate, observing the liturgical hours outside a formal monastic context.",
+  "evidence": [
+   "the-church::0095"
+  ]
+ },
+ {
+  "name": "Anchorite",
+  "type": "CharacterType",
+  "aliases": [
+   "Anchoress"
+  ],
+  "description": "The most extreme hermits, sealed into an anchorhold built against a church wall.",
+  "evidence": [
+   "the-church::0095",
+   "the-church::0096",
+   "the-church::0104"
+  ]
+ },
+ {
+  "name": "Mystic",
+  "type": "CharacterType",
+  "description": "Those dedicating their lives to pursuit of the love of God through contemplative or monistic mysticism.",
+  "evidence": [
+   "the-church::0074",
+   "the-church::0075"
+  ]
+ },
+ {
+  "name": "Pilgrim",
+  "type": "CharacterType",
+  "description": "A traveler journeying to a holy site or shrine, facing ordeals on the road.",
+  "evidence": [
+   "the-church::0059"
+  ]
+ },
+ {
+  "name": "Holy Roman Emperor",
+  "type": "CharacterType",
+  "description": "Powerful lay ruler who may still attempt to appoint bishops, though such appointments are typically overturned.",
+  "evidence": [
+   "the-church::0119"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting of Ars Magica, a patchwork of about 800 dioceses dominated by the Church.",
+  "evidence": [
+   "the-church::0022",
+   "the-church::0097"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "Center of the Western Church and seat of the pope; a major pilgrimage destination.",
+  "evidence": [
+   "the-church::0025",
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "One of the centers of the Greek Church.",
+  "evidence": [
+   "the-church::0025"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "Holy city, center of the Greek Church and major pilgrimage destination.",
+  "evidence": [
+   "the-church::0025",
+   "the-church::0067",
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Destination of major pilgrimages.",
+  "evidence": [
+   "the-church::0061",
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Santiago de Compostela",
+  "type": "Place",
+  "aliases": [
+   "Santiago"
+  ],
+  "description": "Site of the shrine and tomb of Saint James, a major pilgrimage destination.",
+  "evidence": [
+   "the-church::0071",
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Via Francigena",
+  "type": "Place",
+  "description": "Pilgrimage route from Canterbury through France, across the Alps near Aosta, via Parma and Tuscany to Rome.",
+  "evidence": [
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Via Carolingia",
+  "type": "Place",
+  "description": "Pilgrimage route from Aachen through Strasbourg, Basle, Como, Mantua, Ravenna and Assisi to Rome.",
+  "evidence": [
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Canterbury",
+  "type": "Place",
+  "description": "English city at the start of the Via Francigena.",
+  "evidence": [
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Aachen",
+  "type": "Place",
+  "description": "City in northwest Germany where the Via Carolingia begins.",
+  "evidence": [
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Assisi",
+  "type": "Place",
+  "description": "Italian town on the Via Carolingia.",
+  "evidence": [
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Ravenna",
+  "type": "Place",
+  "description": "Italian city on the Via Carolingia.",
+  "evidence": [
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Antioch",
+  "type": "Place",
+  "description": "City on the pilgrim route to Jerusalem; Templars there are described.",
+  "evidence": [
+   "the-church::0012",
+   "the-church::0067"
+  ]
+ },
+ {
+  "name": "Acre",
+  "type": "Place",
+  "description": "Holy Land city with a Templar presence and the Order of Saint Thomas.",
+  "evidence": [
+   "the-church::0012"
+  ]
+ },
+ {
+  "name": "Damietta",
+  "type": "Place",
+  "description": "Egyptian city where the Fifth Crusade is in 1220.",
+  "evidence": [
+   "the-church::0073"
+  ]
+ },
+ {
+  "name": "Bury Saint Edmunds",
+  "type": "Place",
+  "description": "Town associated with Saint Edmund, where a white bull is led through the streets to invoke fertility.",
+  "evidence": [
+   "the-church::0041"
+  ]
+ },
+ {
+  "name": "The Alps",
+  "type": "Place",
+  "aliases": [
+   "Alps"
+  ],
+  "description": "Mountains crossed by pilgrims traveling to Italy.",
+  "evidence": [
+   "the-church::0067",
+   "the-church::0069",
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "description": "Realm with 21 dioceses, where churchwardens have developed.",
+  "evidence": [
+   "the-church::0028",
+   "the-church::0097"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "description": "Realm with 79 dioceses.",
+  "evidence": [
+   "the-church::0097"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "description": "Region with almost 200 small dioceses.",
+  "evidence": [
+   "the-church::0097"
+  ]
+ },
+ {
+  "name": "Long Melford",
+  "type": "Place",
+  "description": "Parish used as an example of petitioning the Church.",
+  "evidence": [
+   "the-church::0016"
+  ]
+ },
+ {
+  "name": "Fontevrault",
+  "type": "Place",
+  "description": "Abbey discussed in the chapter on women, alongside Las Huelgas.",
+  "evidence": [
+   "the-church::0018"
+  ]
+ },
+ {
+  "name": "Las Huelgas",
+  "type": "Place",
+  "description": "Abbey discussed alongside Fontevrault.",
+  "evidence": [
+   "the-church::0018"
+  ]
+ },
+ {
+  "name": "Anchorhold",
+  "type": "Place",
+  "description": "A small bricked-up cell built against the outer wall of a church in which an anchorite lives.",
+  "evidence": [
+   "the-church::0095",
+   "the-church::0096"
+  ]
+ },
+ {
+  "name": "God",
+  "type": "Character",
+  "description": "Rules Mythic Europe in majesty, served by the angelic hosts; the object of Church worship.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0056"
+  ]
+ },
+ {
+  "name": "Jesus Christ",
+  "type": "Character",
+  "aliases": [
+   "Christ"
+  ],
+  "description": "The Son of God whose life and Passion contemplative mystics imitate.",
+  "evidence": [
+   "the-church::0076",
+   "the-church::0082"
+  ]
+ },
+ {
+  "name": "Virgin Mary",
+  "type": "Character",
+  "aliases": [
+   "Blessed Virgin",
+   "Queen of Heaven",
+   "Mary"
+  ],
+  "description": "The Blessed Virgin, Queen of Heaven, whom anyone may ask to intercede regardless of devotion.",
+  "evidence": [
+   "the-church::0036",
+   "the-church::0043"
+  ]
+ },
+ {
+  "name": "Saint Bartholomew",
+  "type": "Character",
+  "description": "Saint whose day is August 24th; example target of Devotion.",
+  "evidence": [
+   "the-church::0036",
+   "the-church::0043"
+  ]
+ },
+ {
+  "name": "Saint Edmund",
+  "type": "Character",
+  "description": "King and martyr whose day is November 20th, with a power to Bestow Fertility invoked at Bury Saint Edmunds.",
+  "evidence": [
+   "the-church::0036",
+   "the-church::0041",
+   "the-church::0043"
+  ]
+ },
+ {
+  "name": "Saint Jerome",
+  "type": "Character",
+  "description": "Saint with a Power that pacifies wild beasts.",
+  "evidence": [
+   "the-church::0041"
+  ]
+ },
+ {
+  "name": "Saint Christopher",
+  "type": "Character",
+  "description": "Patron of travelers; those who see his likeness and call on him are believed not to die that day on the road.",
+  "evidence": [
+   "the-church::0044"
+  ]
+ },
+ {
+  "name": "Saint Augustine",
+  "type": "Character",
+  "description": "Saint and author of City of God, which counts as a hagiography for Devotion to him.",
+  "evidence": [
+   "the-church::0051"
+  ]
+ },
+ {
+  "name": "Saint James",
+  "type": "Character",
+  "aliases": [
+   "Saint James of Compostela"
+  ],
+  "description": "Saint whose tomb and relics are at Santiago de Compostela.",
+  "evidence": [
+   "the-church::0071",
+   "the-church::0072"
+  ]
+ },
+ {
+  "name": "Saint Peter",
+  "type": "Character",
+  "description": "Saint to whom a guild is dedicated.",
+  "evidence": [
+   "the-church::0054"
+  ]
+ },
+ {
+  "name": "Francis of Assisi",
+  "type": "Character",
+  "aliases": [
+   "Saint Francis"
+  ],
+  "description": "Founder of the Franciscans; perhaps the only one to reconcile contemplative and monistic mysticism.",
+  "evidence": [
+   "the-church::0074",
+   "the-church::0078",
+   "the-church::0021"
+  ]
+ },
+ {
+  "name": "Clare of Assisi",
+  "type": "Character",
+  "description": "Founder figure of the Poor Sisters.",
+  "evidence": [
+   "the-church::0014",
+   "the-church::0021"
+  ]
+ },
+ {
+  "name": "Hildegard of Bingen",
+  "type": "Character",
+  "description": "Female mystic and author discussed in the chapter on women.",
+  "evidence": [
+   "the-church::0010",
+   "the-church::0018"
+  ]
+ },
+ {
+  "name": "Marie of Oignes",
+  "type": "Character",
+  "description": "Beguine and mystic.",
+  "evidence": [
+   "the-church::0010"
+  ]
+ },
+ {
+  "name": "Elizabeth of Schönau",
+  "type": "Character",
+  "description": "Female mystic and visionary author.",
+  "evidence": [
+   "the-church::0010",
+   "the-church::0018"
+  ]
+ },
+ {
+  "name": "Héloïse",
+  "type": "Character",
+  "description": "Historical woman discussed in an insert on female religious.",
+  "evidence": [
+   "the-church::0018"
+  ]
+ },
+ {
+  "name": "Christina of Markyate",
+  "type": "Character",
+  "description": "Holy woman discussed in an insert on female religious.",
+  "evidence": [
+   "the-church::0018"
+  ]
+ },
+ {
+  "name": "Saint Severus of Ravenna",
+  "type": "Character",
+  "description": "Saint discussed in an insert on women.",
+  "evidence": [
+   "the-church::0018"
+  ]
+ },
+ {
+  "name": "Joachim of Flora",
+  "type": "Character",
+  "description": "Cistercian-connected figure whose followers are the Joachimites; associated with the Three Ages of the World.",
+  "evidence": [
+   "the-church::0011",
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Bernard of Clairvaux",
+  "type": "Character",
+  "description": "Cistercian figure (1090-1153).",
+  "evidence": [
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Father Tino of Gradara",
+  "type": "Character",
+  "description": "Sample character in the chapter on corrupt orders.",
+  "evidence": [
+   "the-church::0011"
+  ]
+ },
+ {
+  "name": "Peter of Montaigu",
+  "type": "Character",
+  "description": "Grand Master of the Knights Templar.",
+  "evidence": [
+   "the-church::0012"
+  ]
+ },
+ {
+  "name": "Elias Bonibarone",
+  "type": "Character",
+  "aliases": [
+   "Brother Elias"
+  ],
+  "description": "Minister-General of the Little Brothers (Franciscans).",
+  "evidence": [
+   "the-church::0021"
+  ]
+ },
+ {
+  "name": "Henri of Toulouse",
+  "type": "Character",
+  "description": "Example petitioner in the Petitioning the Church rules.",
+  "evidence": [
+   "the-church::0016"
+  ]
+ },
+ {
+  "name": "Saint John of the Cross",
+  "type": "Character",
+  "description": "Future systematic mystic whose works are not yet written in 1220.",
+  "evidence": [
+   "the-church::0075"
+  ]
+ },
+ {
+  "name": "Ignatius Loyola",
+  "type": "Character",
+  "description": "Future systematic mystic whose works are not yet written in 1220.",
+  "evidence": [
+   "the-church::0075"
+  ]
+ },
+ {
+  "name": "Thomas the Shoemaker",
+  "type": "Character",
+  "description": "Example devout character with Piety +2, devoted to the Blessed Virgin and Saint Bartholomew and owning a relic of Saint Edmund.",
+  "evidence": [
+   "the-church::0036",
+   "the-church::0043"
+  ]
+ },
+ {
+  "name": "Boniface",
+  "type": "Character",
+  "description": "Example werewolf character seeking removal of the Lycanthrope Flaw through a major pilgrimage.",
+  "evidence": [
+   "the-church::0066",
+   "the-church::0067",
+   "the-church::0068"
+  ]
+ },
+ {
+  "name": "Siderius",
+  "type": "Character",
+  "description": "Faithful shield grog who pilgrimages hoping to gain Guardian Angel; True Friend to Boniface.",
+  "evidence": [
+   "the-church::0067",
+   "the-church::0069",
+   "the-church::0070"
+  ]
+ },
+ {
+  "name": "Chrétien the Roamer",
+  "type": "Character",
+  "description": "Much-traveled monk seeking to lose Difficult Underlings who fails his pilgrimage by yielding to temptation.",
+  "evidence": [
+   "the-church::0067",
+   "the-church::0068",
+   "the-church::0070"
+  ]
+ },
+ {
+  "name": "Janus",
+  "type": "Character",
+  "description": "Example magus who flies a ship to shore by a spell, overcoming an Oppositional Element alone.",
+  "evidence": [
+   "the-church::0064",
+   "the-church::0065"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "aliases": [
+   "angelic hosts"
+  ],
+  "description": "Divine beings of the angelic hosts serving God; drawn to monistic mystics.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0092"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "description": "Infernal beings who oppose pilgrims, may carry souls to hell, and may be mistakenly venerated.",
+  "evidence": [
+   "the-church::0036",
+   "the-church::0059",
+   "the-church::0066"
+  ]
+ },
+ {
+  "name": "The Devil",
+  "type": "Creature",
+  "description": "Claims souls for eternal punishment in hell.",
+  "evidence": [
+   "the-church::0030"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "description": "Spirits of the dead that may rise if denied Christian burial or appear from purgatory.",
+  "evidence": [
+   "the-church::0031",
+   "the-church::0035"
+  ]
+ },
+ {
+  "name": "Werewolf",
+  "type": "Creature",
+  "description": "A lycanthrope such as Boniface, a dangerous Supernatural Predator.",
+  "evidence": [
+   "the-church::0068",
+   "the-church::0069"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "description": "Faerie beings, drawn to monistic mystics and possibly mistakenly venerated.",
+  "evidence": [
+   "the-church::0056",
+   "the-church::0092"
+  ]
+ },
+ {
+  "name": "Elemental",
+  "type": "Creature",
+  "description": "Supernatural beings drawn to monistic mystics.",
+  "evidence": [
+   "the-church::0092"
+  ]
+ },
+ {
+  "name": "BaalBaruth",
+  "type": "Creature",
+  "description": "Demon, corrupter of monks.",
+  "evidence": [
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Patarus",
+  "type": "Creature",
+  "description": "Demon described in the chapter on corruption.",
+  "evidence": [
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Jaevert",
+  "type": "Creature",
+  "description": "Demon described in the chapter on corruption.",
+  "evidence": [
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Varriar",
+  "type": "Creature",
+  "description": "Demon described in the chapter on corruption.",
+  "evidence": [
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Divine Realm"
+  ],
+  "description": "The realm of God; mysticism requires alignment with it and Divine Ascent affects characters aligned to it.",
+  "evidence": [
+   "the-church::0023",
+   "the-church::0078",
+   "the-church::0079"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "The realm of demons, which may corrupt Church orders and mystics.",
+  "evidence": [
+   "the-church::0000",
+   "the-church::0077",
+   "the-church::0091"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "One of the four realms; monistic mystics may come to see it as an aspect of God.",
+  "evidence": [
+   "the-church::0077",
+   "the-church::0091"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "description": "One of the four realms; monistic mystics may substitute Dominion Lore for Magic Lore.",
+  "evidence": [
+   "the-church::0077",
+   "the-church::0091"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [
+   "Dominion aura",
+   "Divine Aura"
+  ],
+  "description": "The Divine aura reflecting the real presence of God in churches.",
+  "evidence": [
+   "the-church::0030",
+   "the-church::0112"
+  ]
+ },
+ {
+  "name": "Senior Clergy",
+  "type": "Virtue",
+  "description": "Major Social Status Virtue for archbishops, bishops, abbots and other senior Church members, giving Reputation 4 and access to Church resources.",
+  "evidence": [
+   "the-church::0099",
+   "the-church::0100",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Priest (Virtue)",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for an ordained priest who can conduct Mass and is subject to canon law.",
+  "evidence": [
+   "the-church::0102",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for an ordained member of the clergy in major or minor orders.",
+  "evidence": [
+   "the-church::0103"
+  ]
+ },
+ {
+  "name": "Religious",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for monks, nuns, beguines, anchorites, holy hermits and similar.",
+  "evidence": [
+   "the-church::0104"
+  ]
+ },
+ {
+  "name": "License of Absence",
+  "type": "Virtue",
+  "description": "Major General Virtue giving a priest an extra free season each year.",
+  "evidence": [
+   "the-church::0105"
+  ]
+ },
+ {
+  "name": "Commanding Aura",
+  "type": "Virtue",
+  "description": "Free Supernatural Virtue of Church office equivalent to Aura of Rightful Authority at Voice range, plus rank-based Magic Resistance and Soak.",
+  "evidence": [
+   "the-church::0084",
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Major Virtue increasing Faith Point use; cannot be gained by Spiritual Path; higher scores grant Premonitions, double Magic Resistance and an Empyreal Aura.",
+  "evidence": [
+   "the-church::0075",
+   "the-church::0086",
+   "the-church::0093"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "description": "Virtue representing personal wealth; wealthy priests are often pluralists.",
+  "evidence": [
+   "the-church::0100",
+   "the-church::0102",
+   "the-church::0105"
+  ]
+ },
+ {
+  "name": "Mendicant Friar",
+  "type": "Virtue",
+  "description": "Social status Virtue to be taken by friar characters.",
+  "evidence": [
+   "the-church::0104"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Virtue required for pope, cardinals and archbishops.",
+  "evidence": [
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Guardian Angel",
+  "type": "Virtue",
+  "description": "Major Virtue Siderius seeks through pilgrimage.",
+  "evidence": [
+   "the-church::0067",
+   "the-church::0069"
+  ]
+ },
+ {
+  "name": "Unaging",
+  "type": "Virtue",
+  "description": "Minor Virtue judged inappropriate to gain by pilgrimage.",
+  "evidence": [
+   "the-church::0066",
+   "the-church::0067"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "Virtue gained at True Faith 2.",
+  "evidence": [
+   "the-church::0055",
+   "the-church::0093"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "Always the first Revelation gained by a monistic mystic integrating Divine Ascent.",
+  "evidence": [
+   "the-church::0090",
+   "the-church::0091"
+  ]
+ },
+ {
+  "name": "True Friend",
+  "type": "Virtue",
+  "description": "Virtue representing a loyal friendship, as Siderius to Boniface.",
+  "evidence": [
+   "the-church::0069"
+  ]
+ },
+ {
+  "name": "Privileged Upbringing",
+  "type": "Virtue",
+  "description": "Background Virtue not suitable for gaining by pilgrimage.",
+  "evidence": [
+   "the-church::0063"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "description": "Background Virtue not suitable for gaining by pilgrimage.",
+  "evidence": [
+   "the-church::0063"
+  ]
+ },
+ {
+  "name": "Relic (Virtue)",
+  "type": "Virtue",
+  "description": "Virtue representing possession of a relic, lost if gained through discovered simony.",
+  "evidence": [
+   "the-church::0107"
+  ]
+ },
+ {
+  "name": "Templar Prestige",
+  "type": "Virtue",
+  "description": "New Templar Virtue.",
+  "evidence": [
+   "the-church::0013"
+  ]
+ },
+ {
+  "name": "Templar Confrere",
+  "type": "Virtue",
+  "aliases": [
+   "Templar Consoeur"
+  ],
+  "description": "New Templar Virtue for lay associates of the Templars.",
+  "evidence": [
+   "the-church::0013"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "description": "Major Story Flaw suited to a clergyman secretly violating canon law, e.g. False Presbyter, Heretic, Secret Wife/Husband or Simony.",
+  "evidence": [
+   "the-church::0107"
+  ]
+ },
+ {
+  "name": "Regular",
+  "type": "Flaw",
+  "description": "Minor General Flaw: the character lives by a strict rule and must spend a free season on worship.",
+  "evidence": [
+   "the-church::0108",
+   "the-church::0109"
+  ]
+ },
+ {
+  "name": "Monastic Vows",
+  "type": "Flaw",
+  "description": "Major Story Flaw for characters who have taken monastic vows, to be used when the troupe wants stories about them.",
+  "evidence": [
+   "the-church::0109",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Vow",
+  "type": "Flaw",
+  "description": "Personality Flaw representing a religious vow; a mystic may gain it as a Quest Component.",
+  "evidence": [
+   "the-church::0086",
+   "the-church::0109",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "description": "Personality Flaw (Minor or Major) that counts as Piety 3 or 6 for establishing Devotions.",
+  "evidence": [
+   "the-church::0038",
+   "the-church::0039"
+  ]
+ },
+ {
+  "name": "Difficult Underlings",
+  "type": "Flaw",
+  "description": "Story Flaw where the character cannot control those beneath him, e.g. a priest unable to control his congregation.",
+  "evidence": [
+   "the-church::0029",
+   "the-church::0067"
+  ]
+ },
+ {
+  "name": "Lycanthrope",
+  "type": "Flaw",
+  "description": "Major Flaw that Boniface seeks to remove by pilgrimage.",
+  "evidence": [
+   "the-church::0066",
+   "the-church::0068"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "description": "Flaw representing poverty; a poor priest likely works as a curate or chaplain.",
+  "evidence": [
+   "the-church::0087",
+   "the-church::0102"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "description": "Flaw giving visions; monistic mysticism requires Visions or True Faith.",
+  "evidence": [
+   "the-church::0055",
+   "the-church::0088"
+  ]
+ },
+ {
+  "name": "Twilight Prone",
+  "type": "Flaw",
+  "description": "Hermetic Flaw compared to the monistic mystic's susceptibility to Divine Ascent.",
+  "evidence": [
+   "the-church::0088",
+   "the-church::0089"
+  ]
+ },
+ {
+  "name": "Chaste",
+  "type": "Flaw",
+  "description": "Personality Flaw suitable for characters affected by vows.",
+  "evidence": [
+   "the-church::0109"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "description": "Personality Flaw suitable for characters affected by vows.",
+  "evidence": [
+   "the-church::0109"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "description": "Personality Flaw suitable for characters affected by vows.",
+  "evidence": [
+   "the-church::0109"
+  ]
+ },
+ {
+  "name": "Lecherous",
+  "type": "Flaw",
+  "description": "Personality Flaw indicating problems with a vow of chastity.",
+  "evidence": [
+   "the-church::0109",
+   "the-church::0110"
+  ]
+ },
+ {
+  "name": "Avaricious",
+  "type": "Flaw",
+  "description": "Personality Flaw indicating problems with a vow of poverty.",
+  "evidence": [
+   "the-church::0109",
+   "the-church::0110"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Knowledge of the Church; gained via worship and recommended for clergy.",
+  "evidence": [
+   "the-church::0046",
+   "the-church::0112",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Lore of the Divine realm; may hint at an appropriate saint and can substitute for other Realm Lores for monistic mystics.",
+  "evidence": [
+   "the-church::0041",
+   "the-church::0091",
+   "the-church::0092"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability central to monistic mysticism, determining experience from practicing Holy Abilities.",
+  "evidence": [
+   "the-church::0079",
+   "the-church::0088",
+   "the-church::0090"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Recommended Ability for clergy.",
+  "evidence": [
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Recommended Ability for clergy.",
+  "evidence": [
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Recommended Ability for clergy.",
+  "evidence": [
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Dead Language: Latin",
+  "type": "Ability",
+  "aliases": [
+   "Latin"
+  ],
+  "description": "Latin; recommended for clergy and required literacy for bishops.",
+  "evidence": [
+   "the-church::0114",
+   "the-church::0118"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Knowledge of regions, useful to pilgrims and improved by Care of Souls.",
+  "evidence": [
+   "the-church::0067",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability improved by Care of Souls.",
+  "evidence": [
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "description": "Ability that may be improved through worship.",
+  "evidence": [
+   "the-church::0112"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Realm Lore for which Dominion Lore may be substituted by integrated monistic mystics.",
+  "evidence": [
+   "the-church::0091"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Realm Lore for which Dominion Lore may be substituted by integrated monistic mystics.",
+  "evidence": [
+   "the-church::0091"
+  ]
+ },
+ {
+  "name": "Sense Holy and Unholy",
+  "type": "Ability",
+  "aliases": [
+   "Sense Holy/Unholy"
+  ],
+  "description": "Supernatural Ability given as an example Holy Ability practiced by a monistic mystic.",
+  "evidence": [
+   "the-church::0090"
+  ]
+ },
+ {
+  "name": "Organization Lore: Knights Templar",
+  "type": "Ability",
+  "description": "New Ability covering knowledge of the Templars.",
+  "evidence": [
+   "the-church::0013"
+  ]
+ },
+ {
+  "name": "Devotion",
+  "type": "Ability",
+  "description": "Ability-like trait of focused veneration of a saint or the Virgin, advanced by Devotion Points and used as a bonus when invoking a saint.",
+  "evidence": [
+   "the-church::0038",
+   "the-church::0040"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form; True Faith 3 grants double Magic Resistance against Mentem spells.",
+  "evidence": [
+   "the-church::0093"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "Hermetic spell to which the Commanding Aura power is equivalent.",
+  "evidence": [
+   "the-church::0084",
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "City of God",
+  "type": "Item",
+  "description": "Book by Saint Augustine of Quality 10, granting Devotion Points to those devoted to him.",
+  "evidence": [
+   "the-church::0051"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Item",
+  "description": "Holy remains of a saint; gives +2 per Faith Point to Devotion Total and adds Magic Resistance.",
+  "evidence": [
+   "the-church::0036",
+   "the-church::0042",
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "Ring of Saint Bernard",
+  "type": "Item",
+  "description": "Object of a story seed in the chapter on corruption.",
+  "evidence": [
+   "the-church::0019"
+  ]
+ },
+ {
+  "name": "Rule of Saint Benedict",
+  "type": "Item",
+  "description": "The monastic rule governing Benedictine life.",
+  "evidence": [
+   "the-church::0009"
+  ]
+ },
+ {
+  "name": "Ancrene Riwle",
+  "type": "Item",
+  "description": "The Anchoress' Rule.",
+  "evidence": [
+   "the-church::0010"
+  ]
+ },
+ {
+  "name": "Cum Delicti",
+  "type": "Item",
+  "description": "Letter of approval for the Franciscans.",
+  "evidence": [
+   "the-church::0021"
+  ]
+ },
+ {
+  "name": "Indulgence",
+  "type": "Item",
+  "description": "A certificate purchased with repentance and good works that mitigates the length of a decreed penance.",
+  "evidence": [
+   "the-church::0033",
+   "the-church::0034"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Concept",
+  "description": "Place of purification for souls not good enough for heaven nor bad enough for hell; time there may be reduced by saints, prayers, Masses and perhaps indulgences.",
+  "evidence": [
+   "the-church::0028",
+   "the-church::0030",
+   "the-church::0031"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Concept",
+  "description": "Eternal destination of saved souls.",
+  "evidence": [
+   "the-church::0029",
+   "the-church::0030"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Concept",
+  "description": "Place of eternal punishment of souls claimed by the devil.",
+  "evidence": [
+   "the-church::0030",
+   "the-church::0036"
+  ]
+ },
+ {
+  "name": "Limbo",
+  "type": "Concept",
+  "description": "Destination of unbaptized pagans.",
+  "evidence": [
+   "the-church::0030"
+  ]
+ },
+ {
+  "name": "Vigil",
+  "type": "Concept",
+  "description": "Night of prayer before an important event, costing a Fatigue level and granting a Confidence Point.",
+  "evidence": [
+   "the-church::0037"
+  ]
+ },
+ {
+  "name": "Fasting",
+  "type": "Concept",
+  "description": "Penitential abstinence lasting a season, giving +1 to Petitioning a Saint but a constant Fatigue level.",
+  "evidence": [
+   "the-church::0037"
+  ]
+ },
+ {
+  "name": "Devotion Points",
+  "type": "Concept",
+  "description": "Dedicated experience points used only to raise Devotions, gained through pilgrimage, endowments, guilds, miracles, etc.",
+  "evidence": [
+   "the-church::0038",
+   "the-church::0045"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "description": "Points spent like Confidence Points for +3 on a roll; they do not regenerate without True Faith.",
+  "evidence": [
+   "the-church::0034",
+   "the-church::0111"
+  ]
+ },
+ {
+  "name": "Confidence Points",
+  "type": "Concept",
+  "description": "Points spent for roll bonuses; vigils grant one.",
+  "evidence": [
+   "the-church::0034",
+   "the-church::0037"
+  ]
+ },
+ {
+  "name": "Invoking a Saint",
+  "type": "Concept",
+  "description": "Communication + Charm + Devotion Total roll vs 15 + die to have a saint use a Divine power on one's behalf.",
+  "evidence": [
+   "the-church::0040",
+   "the-church::0041"
+  ]
+ },
+ {
+  "name": "Patron Saint",
+  "type": "Concept",
+  "description": "A saint a character may invoke for intercession, often of the local church, region or profession.",
+  "evidence": [
+   "the-church::0043"
+  ]
+ },
+ {
+  "name": "Sacramentals",
+  "type": "Concept",
+  "description": "Minor folk rituals and prayers, versions of invoking a saint.",
+  "evidence": [
+   "the-church::0040",
+   "the-church::0041"
+  ]
+ },
+ {
+  "name": "Sacraments",
+  "type": "Concept",
+  "description": "Church rites such as Mass, communion, confession and last rites.",
+  "evidence": [
+   "the-church::0035",
+   "the-church::0083"
+  ]
+ },
+ {
+  "name": "Mass",
+  "type": "Concept",
+  "description": "The central Church service; attendance and communion at least once a year is required.",
+  "evidence": [
+   "the-church::0031",
+   "the-church::0032"
+  ]
+ },
+ {
+  "name": "Canonization",
+  "type": "Concept",
+  "description": "Formal Church recognition of a saint, requiring two genuine miracles and a cultus.",
+  "evidence": [
+   "the-church::0056",
+   "the-church::0057",
+   "the-church::0058"
+  ]
+ },
+ {
+  "name": "Dulia",
+  "type": "Concept",
+  "description": "Proper respect granted to an entity, which is not worship.",
+  "evidence": [
+   "the-church::0056"
+  ]
+ },
+ {
+  "name": "Latria",
+  "type": "Concept",
+  "description": "Worship reserved for God alone; offering it to others is a terrible sin.",
+  "evidence": [
+   "the-church::0056"
+  ]
+ },
+ {
+  "name": "Pilgrimage",
+  "type": "Concept",
+  "description": "Journey to a holy site; major and minor pilgrimages have Target Levels 30 and 18 and can grant Virtues or remove Flaws.",
+  "evidence": [
+   "the-church::0059",
+   "the-church::0061",
+   "the-church::0062"
+  ]
+ },
+ {
+  "name": "Oppositional Elements",
+  "type": "Concept",
+  "description": "Story obstacles of set values that each pilgrim must overcome, totaling the Pilgrimage Target Level.",
+  "evidence": [
+   "the-church::0062",
+   "the-church::0064",
+   "the-church::0065"
+  ]
+ },
+ {
+  "name": "Taking the Cross",
+  "type": "Concept",
+  "description": "Committing to a crusade in exchange for a free indulgence and a temporary Faith Point.",
+  "evidence": [
+   "the-church::0073",
+   "the-church::0087"
+  ]
+ },
+ {
+  "name": "Albigensian Crusade",
+  "type": "Concept",
+  "description": "Crusade against the Cathars of Southern France, until 1229.",
+  "evidence": [
+   "the-church::0073"
+  ]
+ },
+ {
+  "name": "Fifth Crusade",
+  "type": "Concept",
+  "description": "Crusade that set off in 1217, at Damietta in 1220.",
+  "evidence": [
+   "the-church::0012",
+   "the-church::0073"
+  ]
+ },
+ {
+  "name": "Fourth Crusade",
+  "type": "Concept",
+  "description": "Ill-fated crusade sixteen years before 1220.",
+  "evidence": [
+   "the-church::0030"
+  ]
+ },
+ {
+  "name": "Northern Crusade",
+  "type": "Concept",
+  "description": "Crusade against the Estonians, ending 1228.",
+  "evidence": [
+   "the-church::0073"
+  ]
+ },
+ {
+  "name": "Contemplative Mysticism",
+  "type": "Concept",
+  "description": "Mystical path of imitating Christ via theosis; its Divine Ascent takes the form of Divine Form and it progresses by Spiritual Paths.",
+  "evidence": [
+   "the-church::0075",
+   "the-church::0076",
+   "the-church::0082"
+  ]
+ },
+ {
+  "name": "Monistic Mysticism",
+  "type": "Concept",
+  "description": "Mystical path of losing the self in the oneness of God, requiring Visions or True Faith; its Divine Ascent takes the form of Divine Gloom.",
+  "evidence": [
+   "the-church::0077",
+   "the-church::0088",
+   "the-church::0090"
+  ]
+ },
+ {
+  "name": "Theosis",
+  "type": "Concept",
+  "description": "Process by which emulation of Christ lets the mystic participate more in the Divine.",
+  "evidence": [
+   "the-church::0076",
+   "the-church::0083"
+  ]
+ },
+ {
+  "name": "Divine Ascent",
+  "type": "Concept",
+  "description": "Divine Warping experience analogous to Wizard's Twilight, triggered by gaining Warping Points.",
+  "evidence": [
+   "the-church::0078",
+   "the-church::0079"
+  ]
+ },
+ {
+  "name": "Divine Form",
+  "type": "Concept",
+  "description": "Divine Ascent result for contemplatives, granting Soak, Penetration, Commanding Aura and punishment for sin.",
+  "evidence": [
+   "the-church::0083",
+   "the-church::0084"
+  ]
+ },
+ {
+  "name": "Divine Gloom",
+  "type": "Concept",
+  "description": "Divine Ascent result for monistics, trading mundane knowledge for Dominion Lore and Holy Abilities.",
+  "evidence": [
+   "the-church::0091",
+   "the-church::0092"
+  ]
+ },
+ {
+  "name": "Wizard's Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight"
+  ],
+  "description": "Hermetic experience compared to Divine Ascent.",
+  "evidence": [
+   "the-church::0079",
+   "the-church::0090"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Warping Points and Score, which for Divine-aligned characters trigger Divine Ascent.",
+  "evidence": [
+   "the-church::0079",
+   "the-church::0082",
+   "the-church::0092"
+  ]
+ },
+ {
+  "name": "Spiritual Path",
+  "type": "Concept",
+  "description": "Series of Quest Components through which a contemplative mystic gains a Revelation.",
+  "evidence": [
+   "the-church::0085",
+   "the-church::0086",
+   "the-church::0087"
+  ]
+ },
+ {
+  "name": "Revelation",
+  "type": "Concept",
+  "description": "Virtue, Method, Power or Supernatural Ability gained through a Spiritual Path or monistic integration.",
+  "evidence": [
+   "the-church::0085",
+   "the-church::0090"
+  ]
+ },
+ {
+  "name": "Quest Components",
+  "type": "Concept",
+  "description": "Valued deeds (pilgrimage, preaching, alms, crusade) totaling a Path Total.",
+  "evidence": [
+   "the-church::0086",
+   "the-church::0087"
+  ]
+ },
+ {
+  "name": "Sins and Tempers",
+  "type": "Concept",
+  "description": "Classification of Personality Traits into sins (Proud, Wrathful...) and opposing tempers (Loyal, Calm...).",
+  "evidence": [
+   "the-church::0079",
+   "the-church::0080"
+  ]
+ },
+ {
+  "name": "Celestial Disorientation",
+  "type": "Concept",
+  "description": "Effect monistic mystics resist more easily by adding Pious.",
+  "evidence": [
+   "the-church::0092"
+  ]
+ },
+ {
+  "name": "Empyreal Aura",
+  "type": "Concept",
+  "description": "Aura radiated to Voice range at True Faith 5.",
+  "evidence": [
+   "the-church::0093",
+   "the-church::0094"
+  ]
+ },
+ {
+  "name": "Holy Tradition",
+  "type": "Concept",
+  "description": "Corporate Divine tradition with Methods and Powers; the Franciscans are one.",
+  "evidence": [
+   "the-church::0014",
+   "the-church::0075"
+  ]
+ },
+ {
+  "name": "Methods and Powers",
+  "type": "Concept",
+  "description": "Holy supernatural abilities many mystics possess.",
+  "evidence": [
+   "the-church::0061",
+   "the-church::0075"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Concept",
+  "description": "Divine magical tradition one may self-initiate into via major pilgrimage with True Faith.",
+  "evidence": [
+   "the-church::0061"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance granted by True Faith, relics and Commanding Aura.",
+  "evidence": [
+   "the-church::0083",
+   "the-church::0106"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Magical Gift possessed strangely by many monistic mystics.",
+  "evidence": [
+   "the-church::0062",
+   "the-church::0088"
+  ]
+ },
+ {
+  "name": "Diocese",
+  "type": "Concept",
+  "description": "Ecclesiastical territory of a bishop; about 800 in Mythic Europe, grouped into provinces and split into archdeaconries and deaneries.",
+  "evidence": [
+   "the-church::0097"
+  ]
+ },
+ {
+  "name": "Parish",
+  "type": "Concept",
+  "description": "Basic unit beneath deaneries where a priest conducts Mass; virtually every covenant lies in one.",
+  "evidence": [
+   "the-church::0097",
+   "the-church::0098"
+  ]
+ },
+ {
+  "name": "Benefice",
+  "type": "Concept",
+  "description": "Church office income; senior clergy may hold several and employ curates.",
+  "evidence": [
+   "the-church::0100",
+   "the-church::0102"
+  ]
+ },
+ {
+  "name": "Canon Law",
+  "type": "Concept",
+  "description": "Church law to which clergy are subject.",
+  "evidence": [
+   "the-church::0100",
+   "the-church::0107"
+  ]
+ },
+ {
+  "name": "Simony",
+  "type": "Concept",
+  "description": "Buying or selling spiritual things such as sacraments or offices.",
+  "evidence": [
+   "the-church::0107",
+   "the-church::0119"
+  ]
+ },
+ {
+  "name": "Worship (Seasonal Activity)",
+  "type": "Concept",
+  "description": "Free-season activity of fasting, prayer and meditation with Source Quality equal to the church's Divine Aura.",
+  "evidence": [
+   "the-church::0108",
+   "the-church::0112"
+  ]
+ },
+ {
+  "name": "Good Works",
+  "type": "Concept",
+  "description": "Seasonal activity of worthy deeds, Source Quality 2 and 1 Faith Point.",
+  "evidence": [
+   "the-church::0113"
+  ]
+ },
+ {
+  "name": "Care of Souls",
+  "type": "Concept",
+  "description": "Priest's seasonal activity of preaching giving willing congregants +1 to activities matching the sermon theme.",
+  "evidence": [
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Tempering an Aura",
+  "type": "Concept",
+  "description": "Divine rule similar to Care of Souls.",
+  "evidence": [
+   "the-church::0093",
+   "the-church::0114"
+  ]
+ },
+ {
+  "name": "Visitation",
+  "type": "Concept",
+  "description": "A bishop's tour of parishes questioning locals about their priest.",
+  "evidence": [
+   "the-church::0028",
+   "the-church::0035"
+  ]
+ },
+ {
+  "name": "Third Lateran Council",
+  "type": "Concept",
+  "description": "1179 council decreeing bishop candidates be at least thirty, legitimate and worthy.",
+  "evidence": [
+   "the-church::0118"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "description": "Home of magi; always located in or with an entrance in a parish.",
+  "evidence": [
+   "the-church::0098",
+   "the-church::0101"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "Supernatural area; a covenant within one must have an entrance in a parish.",
+  "evidence": [
+   "the-church::0098",
+   "the-church::0101"
+  ]
+ },
+ {
+  "name": "Heresy",
+  "type": "Concept",
+  "description": "Heretical interpretations of Church teaching, a danger for mystics and hermits.",
+  "evidence": [
+   "the-church::0025",
+   "the-church::0078",
+   "the-church::0107"
+  ]
+ },
+ {
+  "name": "Liturgical Hours",
+  "type": "Concept",
+  "description": "Daily offices observed by monks, hermits and some laity.",
+  "evidence": [
+   "the-church::0032",
+   "the-church::0095"
+  ]
+ }
+]

@@ -1,0 +1,3401 @@
+[
+ {
+  "name": "Presence (spirit power)",
+  "type": "Concept",
+  "aliases": [
+   "Presence"
+  ],
+  "description": "Constant spirit power granting awareness of everything within a chosen domain, making the spirit coterminous with its landscape feature; possessed by all genii loci and many ghosts.",
+  "evidence": [
+   "realms-of-power-magic::0600",
+   "realms-of-power-magic::0617",
+   "realms-of-power-magic::0650"
+  ]
+ },
+ {
+  "name": "Regio (spirit power)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual spirit power, usable only by spirits with Presence, that forms a Magic regio layer in the spirit's landscape; Might spent is permanently lost.",
+  "evidence": [
+   "realms-of-power-magic::0601",
+   "realms-of-power-magic::0650",
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Stasis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual-like spirit power that closes off a Magic-aura area so that residents' aging points become Warping points instead.",
+  "evidence": [
+   "realms-of-power-magic::0602",
+   "realms-of-power-magic::0603"
+  ]
+ },
+ {
+  "name": "Eidolon (power)",
+  "type": "Concept",
+  "aliases": [
+   "Eidolon"
+  ],
+  "description": "Common spirit power used to create illusions and communicate, e.g. an oasis illusion or phantom noises.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0656",
+   "realms-of-power-magic::0662"
+  ]
+ },
+ {
+  "name": "Master of (Form)",
+  "type": "Concept",
+  "aliases": [
+   "Master of Water",
+   "Master of Earth",
+   "Master of Plants"
+  ],
+  "description": "Spirit power duplicating non-Ritual Muto or Perdo spells of a Form at a Might cost, e.g. Master of Water, Master of Earth, Master of Plants.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0650",
+   "realms-of-power-magic::0656"
+  ]
+ },
+ {
+  "name": "Master of Sound",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power of the Zwergenstimme imago duplicating any non-Ritual sound spell up to level 15.",
+  "evidence": [
+   "realms-of-power-magic::0612"
+  ]
+ },
+ {
+  "name": "Bring Down the Roof",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Zwergenstimme power that collapses a cave roof, causing +20 damage and sealing the exit.",
+  "evidence": [
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Ghost Touch",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit power letting the Zwergenstimme hurl rocks at enemies at a Might cost per attack.",
+  "evidence": [
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0613"
+  ]
+ },
+ {
+  "name": "Gift of Self Assurance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power of the Spirit of Self-Importance that donates a Confidence point to an action that makes its target seem more competent.",
+  "evidence": [
+   "realms-of-power-magic::0615"
+  ]
+ },
+ {
+  "name": "The Preening Peacock",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power raising a touched target's Presence above that of his companions until he looks foolish.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0616"
+  ]
+ },
+ {
+  "name": "Donning the Corporeal Veil",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common spirit power allowing a spirit or ghost to manifest in material form.",
+  "evidence": [
+   "realms-of-power-magic::0606",
+   "realms-of-power-magic::0616",
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Guide",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common spirit power (Mentem) possessed by many genii loci and Astra Planeta.",
+  "evidence": [
+   "realms-of-power-magic::0606",
+   "realms-of-power-magic::0617",
+   "realms-of-power-magic::0656"
+  ]
+ },
+ {
+  "name": "Manifestation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit power by which a genius loci manifests through creatures, e.g. Adranus possessing Sicilian eagles.",
+  "evidence": [
+   "realms-of-power-magic::0606",
+   "realms-of-power-magic::0648",
+   "realms-of-power-magic::0650"
+  ]
+ },
+ {
+  "name": "Material Anchor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit power used to mark prey and intentionally form Arcane Connections; used by the Erinnyes.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0634",
+   "realms-of-power-magic::0640"
+  ]
+ },
+ {
+  "name": "Sight Beyond Sight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Typical power of the Astra Planeta and the Leti.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Touch of Death",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Leti power acting as Clenching Grasp of the Crushed Heart at Touch range, costing 6 Might.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Crafter of (Form)",
+  "type": "Concept",
+  "aliases": [
+   "Crafter of Fire",
+   "Crafter of Earth",
+   "Crafter of Water",
+   "Crafter of Images"
+  ],
+  "description": "Spirit power duplicating non-Ritual Creo or Rego spells of a Form, e.g. Crafter of Fire, Earth, or Water.",
+  "evidence": [
+   "realms-of-power-magic::0608",
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Ruler of (Form)",
+  "type": "Concept",
+  "aliases": [
+   "Ruler of Lava",
+   "Ruler of Smoke",
+   "Ruler of Sandstorms",
+   "Ruler of Fog"
+  ],
+  "description": "Spirit power duplicating spells pertaining to a specific substance, e.g. Ruler of Lava, Smoke, Sandstorms, or Fog.",
+  "evidence": [
+   "realms-of-power-magic::0650",
+   "realms-of-power-magic::0657",
+   "realms-of-power-magic::0660"
+  ]
+ },
+ {
+  "name": "Hibernation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual power of Adranus letting the spirit stay inactive for a year and save Might for its awakening.",
+  "evidence": [
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0650"
+  ]
+ },
+ {
+  "name": "Grant (Virtue)",
+  "type": "Concept",
+  "aliases": [
+   "Grant Puissance in (Ability)"
+  ],
+  "description": "Spirit power granting Virtues to chosen humans, e.g. Grant Dowsing, Grant Puissance in (Ability).",
+  "evidence": [
+   "realms-of-power-magic::0618",
+   "realms-of-power-magic::0646",
+   "realms-of-power-magic::0656"
+  ]
+ },
+ {
+  "name": "Grant (Flaw)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit power inflicting Flaws such as Visions, Wrathful, Greater Malediction, or No Sense of Direction.",
+  "evidence": [
+   "realms-of-power-magic::0646",
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Oath-Swearing",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Genius loci power used to enforce bargains and pacts.",
+  "evidence": [
+   "realms-of-power-magic::0646",
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Control Human",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Typical spirit power of eidolons, lugra, and some genii loci.",
+  "evidence": [
+   "realms-of-power-magic::0614",
+   "realms-of-power-magic::0622",
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Healing (spirit power)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual spirit power of healing possessed by al-Meraya and Aillwee.",
+  "evidence": [
+   "realms-of-power-magic::0656",
+   "realms-of-power-magic::0663"
+  ]
+ },
+ {
+  "name": "Riding the Phantom Steed",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sir Giles' power to materialize his war horse when he takes physical form.",
+  "evidence": [
+   "realms-of-power-magic::0681"
+  ]
+ },
+ {
+  "name": "Invisibility (Sir Giles)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sir Giles' power to make himself and his horse invisible except to Second Sight.",
+  "evidence": [
+   "realms-of-power-magic::0681"
+  ]
+ },
+ {
+  "name": "Ride in Dreams",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sir Giles' power to enter the dreams of a named sleeper and torment him with nightmares.",
+  "evidence": [
+   "realms-of-power-magic::0681"
+  ]
+ },
+ {
+  "name": "Tether Strength",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Value tied to spirit Might used in the Formation of Magic Auras.",
+  "evidence": [
+   "realms-of-power-magic::0600"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "Aura"
+  ],
+  "description": "Supernatural aura of the Magic Realm, in which Airy Spirits swarm and Things of Virtue are found.",
+  "evidence": [
+   "realms-of-power-magic::0600",
+   "realms-of-power-magic::0604",
+   "realms-of-power-magic::0713"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Supernatural layered region with increasing aura; spirits can create and control regio layers.",
+  "evidence": [
+   "realms-of-power-magic::0601",
+   "realms-of-power-magic::0650",
+   "realms-of-power-magic::0664"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of a supernatural creature's power; spells to summon or control spirits must penetrate it.",
+  "evidence": [
+   "realms-of-power-magic::0600",
+   "realms-of-power-magic::0642",
+   "realms-of-power-magic::0626"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Physical embodiment of raw magical power, lifeblood and currency of the Order of Hermes.",
+  "evidence": [
+   "realms-of-power-magic::0685",
+   "realms-of-power-magic::0600",
+   "realms-of-power-magic::0713"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points",
+   "Warping Score"
+  ],
+  "description": "Magical corruption accumulated from magic; aging under Stasis converts to Warping points and Enriched Things of Virtue confer it.",
+  "evidence": [
+   "realms-of-power-magic::0602",
+   "realms-of-power-magic::0664",
+   "realms-of-power-magic::0716"
+  ]
+ },
+ {
+  "name": "Wizard's Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight"
+  ],
+  "description": "State magi may enter from Warping, e.g. from double-botched dedicated vis study.",
+  "evidence": [
+   "realms-of-power-magic::0602",
+   "realms-of-power-magic::0693",
+   "realms-of-power-magic::0703"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The end state of a magus' Twilight feared by Schwall.",
+  "evidence": [
+   "realms-of-power-magic::0664",
+   "realms-of-power-magic::0665"
+  ]
+ },
+ {
+  "name": "Twilight Scars",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Marks gained from Twilight episodes.",
+  "evidence": [
+   "realms-of-power-magic::0664",
+   "realms-of-power-magic::0665"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aging measure; under Stasis aging crises instead add Warping.",
+  "evidence": [
+   "realms-of-power-magic::0602"
+  ]
+ },
+ {
+  "name": "Aspect",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Independent agent a Daimon creates to act on Earth; it is a constant Arcane Connection to its Daimon.",
+  "evidence": [
+   "realms-of-power-magic::0625",
+   "realms-of-power-magic::0626",
+   "realms-of-power-magic::0627"
+  ]
+ },
+ {
+  "name": "True Name",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Secret name expressing a being's spiritual essence; an indefinite Arcane Connection learned as a spell-like ability.",
+  "evidence": [
+   "realms-of-power-magic::0625",
+   "realms-of-power-magic::0641",
+   "realms-of-power-magic::0642"
+  ]
+ },
+ {
+  "name": "Synthemata",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Signs, symbols, or passwords linking a magician to a supernatural creature, used in theurgic spells.",
+  "evidence": [
+   "realms-of-power-magic::0640",
+   "realms-of-power-magic::0641",
+   "realms-of-power-magic::0642"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link used to target or summon; for Airy Spirits any worldly representation serves.",
+  "evidence": [
+   "realms-of-power-magic::0614",
+   "realms-of-power-magic::0640",
+   "realms-of-power-magic::0627"
+  ]
+ },
+ {
+  "name": "Apotheosis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Process by which an animus or other being is elevated to a Daimon.",
+  "evidence": [
+   "realms-of-power-magic::0635",
+   "realms-of-power-magic::0618"
+  ]
+ },
+ {
+  "name": "Titanomachia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War of the Titans in which Faerie gods ousted the Magic spirits from the thrones of the world.",
+  "evidence": [
+   "realms-of-power-magic::0629",
+   "realms-of-power-magic::0636"
+  ]
+ },
+ {
+  "name": "Confidence Score",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Trait possessed by all Daimons (at least 1) and some spirits.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0626",
+   "realms-of-power-magic::0649"
+  ]
+ },
+ {
+  "name": "Magical Qualities and Inferiorities",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Build options for magical creatures such as Focus Power, Ritual Power, and Reduced Abilities.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical Quality granting a flexible spirit power such as Master of (Form).",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0649"
+  ]
+ },
+ {
+  "name": "Ritual Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical Quality for powers with ritual-like effect, e.g. Regio and Hibernation.",
+  "evidence": [
+   "realms-of-power-magic::0601",
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0650"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue/Magical Quality granting a designed supernatural power.",
+  "evidence": [
+   "realms-of-power-magic::0600",
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0716"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue/Magical Quality granting a lesser supernatural power.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0653",
+   "realms-of-power-magic::0716"
+  ]
+ },
+ {
+  "name": "Extraordinary Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vis from places of great power that emulates a magical device or replicates a spell.",
+  "evidence": [
+   "realms-of-power-magic::0686",
+   "realms-of-power-magic::0687"
+  ]
+ },
+ {
+  "name": "Lesser Enchantment Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Extraordinary vis emulating a lesser enchantment, usually level 30 or lower, not consumed by use.",
+  "evidence": [
+   "realms-of-power-magic::0688",
+   "realms-of-power-magic::0710"
+  ]
+ },
+ {
+  "name": "Spell-like Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Extraordinary vis mimicking a high-level spell, consumed at the end of the effect.",
+  "evidence": [
+   "realms-of-power-magic::0694",
+   "realms-of-power-magic::0710"
+  ]
+ },
+ {
+  "name": "Dedicated Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rare vis tied to a Technique and Form combination, counting double for spells, study, and enchantment.",
+  "evidence": [
+   "realms-of-power-magic::0701",
+   "realms-of-power-magic::0702",
+   "realms-of-power-magic::0704"
+  ]
+ },
+ {
+  "name": "Vis Storage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional rule: large vis stocks of one Art cause spontaneous Art-appropriate spells nearby.",
+  "evidence": [
+   "realms-of-power-magic::0706",
+   "realms-of-power-magic::0707"
+  ]
+ },
+ {
+  "name": "Insubstantial Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vis in forms like breezes, sound, or light requiring special containers.",
+  "evidence": [
+   "realms-of-power-magic::0711",
+   "realms-of-power-magic::0712"
+  ]
+ },
+ {
+  "name": "Things of Virtue",
+  "type": "Concept",
+  "aliases": [
+   "Thing of Virtue"
+  ],
+  "description": "Herbs and Objects of Virtue infused with Magic that can be Enriched to grant Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0713",
+   "realms-of-power-magic::0714",
+   "realms-of-power-magic::0715"
+  ]
+ },
+ {
+  "name": "Herbs of Virtue",
+  "type": "Concept",
+  "aliases": [
+   "Herb of Virtue"
+  ],
+  "description": "Magically infused plants that lose potency over time but often confer a Major Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0713",
+   "realms-of-power-magic::0715",
+   "realms-of-power-magic::0719"
+  ]
+ },
+ {
+  "name": "Objects of Virtue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magically infused items, such as parts of Beasts of Virtue or gemstones, that confer Minor Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0713",
+   "realms-of-power-magic::0715"
+  ]
+ },
+ {
+  "name": "Enrichment",
+  "type": "Concept",
+  "aliases": [
+   "Enrichment Total"
+  ],
+  "description": "Season-long procedure using Magic Lore to activate a Thing of Virtue's hidden powers.",
+  "evidence": [
+   "realms-of-power-magic::0714",
+   "realms-of-power-magic::0715",
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Shape and Material Bonus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Enchantment bonuses from objects resonating with the Magic realm; doubled by dedicated vis.",
+  "evidence": [
+   "realms-of-power-magic::0704",
+   "realms-of-power-magic::0713",
+   "realms-of-power-magic::0718"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Western Church antechamber to Heaven from which ghosts often claim to come.",
+  "evidence": [
+   "realms-of-power-magic::0672",
+   "realms-of-power-magic::0673",
+   "realms-of-power-magic::0674"
+  ]
+ },
+ {
+  "name": "Hermetic Spirit Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery allowing magi to use an Airy Spirit's Might to maintain spells or empower enchantments.",
+  "evidence": [
+   "realms-of-power-magic::0639"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery allowing magi to invent Daimon-summoning spells without texts and use synthemata.",
+  "evidence": [
+   "realms-of-power-magic::0639",
+   "realms-of-power-magic::0640"
+  ]
+ },
+ {
+  "name": "Goetic Arts",
+  "type": "Concept",
+  "aliases": [
+   "Ars Goetia"
+  ],
+  "description": "Non-Hermetic arts (Summoning, Ablating, Binding, Commanding) for controlling spirits; Major Supernatural Virtues advanced as Arts.",
+  "evidence": [
+   "realms-of-power-magic::0645"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magic resistance ritual.",
+  "evidence": [
+   "realms-of-power-magic::0693",
+   "realms-of-power-magic::0717",
+   "realms-of-power-magic::0633"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance that prevents benefiting from Enriched Things of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0715",
+   "realms-of-power-magic::0717",
+   "realms-of-power-magic::0718"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic ward that suppresses the powers of Things of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0715"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magus' bonded item; an Enriched Thing of Virtue made into one ignores its owner's Magic Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0718"
+  ]
+ },
+ {
+  "name": "Laboratory Text",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Record needed by non-theurgists to invent a Daimon-summoning ritual.",
+  "evidence": [
+   "realms-of-power-magic::0639",
+   "realms-of-power-magic::0640"
+  ]
+ },
+ {
+  "name": "Limit of the Lunar Sphere",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Boundary between the material world and celestial bodies bridged by the Astra Planeta.",
+  "evidence": [
+   "realms-of-power-magic::0633"
+  ]
+ },
+ {
+  "name": "Sphere of Mentem",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Part of the Magic Realm where visitors may leave behind eidolons.",
+  "evidence": [
+   "realms-of-power-magic::0614"
+  ]
+ },
+ {
+  "name": "Animus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit that may function within beings; may become a Daimon through apotheosis.",
+  "evidence": [
+   "realms-of-power-magic::0600",
+   "realms-of-power-magic::0606",
+   "realms-of-power-magic::0635"
+  ]
+ },
+ {
+  "name": "Ritual (spell)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual spells and effects, e.g. Daimon-summoning Rego Vim rituals.",
+  "evidence": [
+   "realms-of-power-magic::0639",
+   "realms-of-power-magic::0644",
+   "realms-of-power-magic::0702"
+  ]
+ },
+ {
+  "name": "Airy Spirits",
+  "type": "Creature",
+  "aliases": [
+   "Airy Spirit"
+  ],
+  "description": "Spirits native to the material world, swarming in Magic auras and often unnoticed.",
+  "evidence": [
+   "realms-of-power-magic::0604",
+   "realms-of-power-magic::0605",
+   "realms-of-power-magic::0639"
+  ]
+ },
+ {
+  "name": "Daimons",
+  "type": "Creature",
+  "aliases": [
+   "Named Spirits",
+   "Daimon"
+  ],
+  "description": "Named Spirits with the Daimon Virtue who dwell in the Magic Realm and send Aspects to earth.",
+  "evidence": [
+   "realms-of-power-magic::0625",
+   "realms-of-power-magic::0626",
+   "realms-of-power-magic::0627"
+  ]
+ },
+ {
+  "name": "Florae",
+  "type": "Creature",
+  "aliases": [
+   "flora",
+   "nymphae"
+  ],
+  "description": "Airy Spirits attending plants, appearing female with vegetative features; also called nymphae.",
+  "evidence": [
+   "realms-of-power-magic::0606"
+  ]
+ },
+ {
+  "name": "Fauni",
+  "type": "Creature",
+  "aliases": [
+   "faunus",
+   "satyroi"
+  ],
+  "description": "Airy Spirits attending creatures, appearing as male animals or hybrids; sometimes called satyroi.",
+  "evidence": [
+   "realms-of-power-magic::0606"
+  ]
+ },
+ {
+  "name": "The Flora of a Bulrush",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Might 5 Herbam spirit appearing as a young girl paddling in a stream.",
+  "evidence": [
+   "realms-of-power-magic::0607"
+  ]
+ },
+ {
+  "name": "Spirits of the Elements",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Airy Spirits representing individual non-living objects in natural form.",
+  "evidence": [
+   "realms-of-power-magic::0608",
+   "realms-of-power-magic::0609",
+   "realms-of-power-magic::0610"
+  ]
+ },
+ {
+  "name": "Elementals",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Animated pure substances, often confused with spirits of the elements.",
+  "evidence": [
+   "realms-of-power-magic::0608",
+   "realms-of-power-magic::0684"
+  ]
+ },
+ {
+  "name": "Imagines",
+  "type": "Creature",
+  "aliases": [
+   "imago",
+   "Spirits of Sensation"
+  ],
+  "description": "Spirits of sensation embodying sensory species (singular imago).",
+  "evidence": [
+   "realms-of-power-magic::0611"
+  ]
+ },
+ {
+  "name": "Zwergenstimme Imago",
+  "type": "Creature",
+  "aliases": [
+   "zwergenstimme"
+  ],
+  "description": "Echo spirit (\"dwarf voice\") haunting caves and misleading lost humans.",
+  "evidence": [
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0613",
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Eidolons",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Airy Spirits of emotions created by humans near strong magic.",
+  "evidence": [
+   "realms-of-power-magic::0614",
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "The Spirit of Self-Importance",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Might 10 Mentem eidolon that looks like its owner's idealized self.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0616",
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Genii Loci",
+  "type": "Creature",
+  "aliases": [
+   "genius loci",
+   "Spirits of Place"
+  ],
+  "description": "Spirits of place inhabiting natural features via the Presence power.",
+  "evidence": [
+   "realms-of-power-magic::0617",
+   "realms-of-power-magic::0618",
+   "realms-of-power-magic::0646"
+  ]
+ },
+ {
+  "name": "Okeanides",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Greek genii loci of the seas.",
+  "evidence": [
+   "realms-of-power-magic::0617"
+  ]
+ },
+ {
+  "name": "Potamoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Greek genii loci of the rivers.",
+  "evidence": [
+   "realms-of-power-magic::0617"
+  ]
+ },
+ {
+  "name": "Oreades",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Greek genii loci of hills and mountains.",
+  "evidence": [
+   "realms-of-power-magic::0617"
+  ]
+ },
+ {
+  "name": "Dryades",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Greek genii loci of forests.",
+  "evidence": [
+   "realms-of-power-magic::0617"
+  ]
+ },
+ {
+  "name": "Anemoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Greek spirits of specific winds.",
+  "evidence": [
+   "realms-of-power-magic::0617"
+  ]
+ },
+ {
+  "name": "Landwichten",
+  "type": "Creature",
+  "aliases": [
+   "Land-wights",
+   "Landvaettir"
+  ],
+  "description": "German name for genii loci; Land-wights; Norse Landvaettir.",
+  "evidence": [
+   "realms-of-power-magic::0617"
+  ]
+ },
+ {
+  "name": "Jinn",
+  "type": "Creature",
+  "aliases": [
+   "jinni"
+  ],
+  "description": "Genii loci of Persia, the Holy Land, North Africa, and Iberia, aligned to Magic, Faerie, or Infernal; bound by bargains.",
+  "evidence": [
+   "realms-of-power-magic::0620",
+   "realms-of-power-magic::0621"
+  ]
+ },
+ {
+  "name": "Lugra",
+  "type": "Creature",
+  "aliases": [
+   "kakodaimones",
+   "banes"
+  ],
+  "description": "Spirits of the hardships of life, released from Pandora's jar.",
+  "evidence": [
+   "realms-of-power-magic::0622",
+   "realms-of-power-magic::0623",
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Theoi",
+  "type": "Creature",
+  "aliases": [
+   "Theos"
+  ],
+  "description": "Informal title for the most powerful Daimons, e.g. Helios, Prometheus, Pallas.",
+  "evidence": [
+   "realms-of-power-magic::0628",
+   "realms-of-power-magic::0629"
+  ]
+ },
+ {
+  "name": "Astra Planeta",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The seven planetary spirits linking the celestial spheres to the Realm of Magic.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0632",
+   "realms-of-power-magic::0633"
+  ]
+ },
+ {
+  "name": "Selene",
+  "type": "Creature",
+  "aliases": [
+   "Al-Qamar"
+  ],
+  "description": "Planetary spirit of the moon, ruling commoners, fertility, rainfall and witchcraft.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0632"
+  ]
+ },
+ {
+  "name": "Helios",
+  "type": "Creature",
+  "aliases": [
+   "Al-Shams"
+  ],
+  "description": "Planetary spirit of the sun and one of the Theoi, ruling royalty and healing.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0628"
+  ]
+ },
+ {
+  "name": "Stilbon",
+  "type": "Creature",
+  "aliases": [
+   "'Utarid"
+  ],
+  "description": "Planetary spirit of Mercury, ruling knowledge, scribes and travelers.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0632"
+  ]
+ },
+ {
+  "name": "Eosophoros",
+  "type": "Creature",
+  "aliases": [
+   "Al-Zuhara"
+  ],
+  "description": "Planetary spirit of Venus, ruling romance, poets and jewels.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0632"
+  ]
+ },
+ {
+  "name": "Pyroeis",
+  "type": "Creature",
+  "aliases": [
+   "Al-Mirrikh"
+  ],
+  "description": "Planetary spirit of Mars, ruling war, fire and monsters.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0632"
+  ]
+ },
+ {
+  "name": "Phaethon",
+  "type": "Creature",
+  "aliases": [
+   "Al-Mushtari"
+  ],
+  "description": "Planetary spirit of Jupiter, ruling clergy, law and science.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0632"
+  ]
+ },
+ {
+  "name": "Phainon",
+  "type": "Creature",
+  "aliases": [
+   "Zuhal"
+  ],
+  "description": "Planetary spirit of Saturn, ruling death, secrecy and sorrow.",
+  "evidence": [
+   "realms-of-power-magic::0631",
+   "realms-of-power-magic::0632"
+  ]
+ },
+ {
+  "name": "Leti",
+  "type": "Creature",
+  "aliases": [
+   "Letum"
+  ],
+  "description": "Daimons of death, in varieties each led by an eponymous leader.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Keres",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Leti of violent death, led by Ker.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Thanatoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Leti of peaceful death, led by Thanatos.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Akylides",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Leti of poison and disease, led by Akhlys.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Moroi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Leti leading the doomed to fated demise, led by Moros.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Erinnyes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Chthonic Leti who avenge crimes against the natural and moral order.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Teletarch",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Master of Perfection: powerful Daimon embodying a concept or phenomenon.",
+  "evidence": [
+   "realms-of-power-magic::0635"
+  ]
+ },
+ {
+  "name": "Protogonoi",
+  "type": "Creature",
+  "aliases": [
+   "First-Born",
+   "Protogonos"
+  ],
+  "description": "Most primeval spirits, echoes of the Words of Creation; never summoned.",
+  "evidence": [
+   "realms-of-power-magic::0636"
+  ]
+ },
+ {
+  "name": "Kosmokrators",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Governors of the Magic Realm, once walking the earth as Titans, Jotnar, and Fomoire.",
+  "evidence": [
+   "realms-of-power-magic::0636",
+   "realms-of-power-magic::0637"
+  ]
+ },
+ {
+  "name": "Titans",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Greek name for the Kosmokrators, bound in the underworld by Zeus.",
+  "evidence": [
+   "realms-of-power-magic::0629",
+   "realms-of-power-magic::0636"
+  ]
+ },
+ {
+  "name": "Jotnar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norse giants identified with Kosmokrators, slain by Odin and his brothers.",
+  "evidence": [
+   "realms-of-power-magic::0629",
+   "realms-of-power-magic::0636"
+  ]
+ },
+ {
+  "name": "Fomoire",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Celtic beings driven beyond the Ninth Wave by the Children of Danu.",
+  "evidence": [
+   "realms-of-power-magic::0629",
+   "realms-of-power-magic::0636"
+  ]
+ },
+ {
+  "name": "Ghosts",
+  "type": "Creature",
+  "aliases": [
+   "ghost"
+  ],
+  "description": "Spirits of dead humans tied to the world by emotion or need; must have Magic Spirit Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0667",
+   "realms-of-power-magic::0676",
+   "realms-of-power-magic::0677"
+  ]
+ },
+ {
+  "name": "Apparitions",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Lucid ghosts claiming to return from the afterlife, seeking help to pass on.",
+  "evidence": [
+   "realms-of-power-magic::0667",
+   "realms-of-power-magic::0668",
+   "realms-of-power-magic::0679"
+  ]
+ },
+ {
+  "name": "Shades",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ghosts that are distorted reflections dominated by an emotional tie.",
+  "evidence": [
+   "realms-of-power-magic::0668",
+   "realms-of-power-magic::0669",
+   "realms-of-power-magic::0679"
+  ]
+ },
+ {
+  "name": "Spectres",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ghosts doggedly continuing their roles in life, e.g. Tremere's ghostly soldiers.",
+  "evidence": [
+   "realms-of-power-magic::0670",
+   "realms-of-power-magic::0679"
+  ]
+ },
+ {
+  "name": "Ghostly Warder",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Shade with an emotional connection to watch over a character.",
+  "evidence": [
+   "realms-of-power-magic::0669",
+   "realms-of-power-magic::0670"
+  ]
+ },
+ {
+  "name": "Adranus",
+  "type": "Creature",
+  "aliases": [
+   "Spirit of Mount Etna"
+  ],
+  "description": "Might 50 Ignem Daimon slumbering beneath Mount Etna, once worshiped as a fire god.",
+  "evidence": [
+   "realms-of-power-magic::0648",
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0650"
+  ]
+ },
+ {
+  "name": "Rhenus",
+  "type": "Creature",
+  "aliases": [
+   "Spirit of the Rhine"
+  ],
+  "description": "Might 50 Aquam spirit of the Rhine pinioned at the Rhinefalls.",
+  "evidence": [
+   "realms-of-power-magic::0652",
+   "realms-of-power-magic::0653",
+   "realms-of-power-magic::0654"
+  ]
+ },
+ {
+  "name": "al-Meraya (spirit)",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Might 40 Terram Daimon of a thirsty, expanding desert in southern Iberia.",
+  "evidence": [
+   "realms-of-power-magic::0655",
+   "realms-of-power-magic::0656",
+   "realms-of-power-magic::0657"
+  ]
+ },
+ {
+  "name": "Brienz",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Might 30 Aquam Daimon of Lake Brienz, reclusive and irritated by fish.",
+  "evidence": [
+   "realms-of-power-magic::0658",
+   "realms-of-power-magic::0659",
+   "realms-of-power-magic::0660"
+  ]
+ },
+ {
+  "name": "Aillwee",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Might 20 Terram spirit of Aillwee Cave that hungers for shiny things.",
+  "evidence": [
+   "realms-of-power-magic::0661",
+   "realms-of-power-magic::0662",
+   "realms-of-power-magic::0663"
+  ]
+ },
+ {
+  "name": "Salamander of Virtue",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical beast associated with Ignem.",
+  "evidence": [
+   "realms-of-power-magic::0643"
+  ]
+ },
+ {
+  "name": "Beasts of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Snake of Virtue",
+   "Lion of Virtue"
+  ],
+  "description": "Magical animals whose corpses may yield Objects of Virtue, e.g. Snake or Lion of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0713"
+  ]
+ },
+ {
+  "name": "Ledea",
+  "type": "Character",
+  "aliases": [],
+  "description": "Merinita maga who started a healing cult around an Airy Spirit's spring, hoping to convert it to Faerie.",
+  "evidence": [
+   "realms-of-power-magic::0618",
+   "realms-of-power-magic::0619"
+  ]
+ },
+ {
+  "name": "Porphyrion",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus of House Tytalus claiming to have found Pandora's jar beneath the Senate in Rome.",
+  "evidence": [
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Schwall",
+  "type": "Character",
+  "aliases": [],
+  "description": "Reclusive Aquam magus, formerly of Rheinstein, who befriended the Rhine spirit.",
+  "evidence": [
+   "realms-of-power-magic::0664",
+   "realms-of-power-magic::0665"
+  ]
+ },
+ {
+  "name": "Maria",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young woman near Mount Etna with the Visions Flaw who predicts eruptions.",
+  "evidence": [
+   "realms-of-power-magic::0663",
+   "realms-of-power-magic::0664"
+  ]
+ },
+ {
+  "name": "Ismail",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient hermit of the desert of al-Meraya who communes with its spirit.",
+  "evidence": [
+   "realms-of-power-magic::0664"
+  ]
+ },
+ {
+  "name": "Wecelo",
+  "type": "Character",
+  "aliases": [],
+  "description": "Expert fisherman of Lake Brienz saved from drowning by the lake spirit.",
+  "evidence": [
+   "realms-of-power-magic::0665"
+  ]
+ },
+ {
+  "name": "Ciaran",
+  "type": "Character",
+  "aliases": [],
+  "description": "Feral boy adopted by the Aillwee Cave spirit, stealing on its behalf.",
+  "evidence": [
+   "realms-of-power-magic::0665",
+   "realms-of-power-magic::0666"
+  ]
+ },
+ {
+  "name": "Sir Giles",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ghostly knight, a Magical apparition in black mail, haunted by pride.",
+  "evidence": [
+   "realms-of-power-magic::0680",
+   "realms-of-power-magic::0681",
+   "realms-of-power-magic::0682"
+  ]
+ },
+ {
+  "name": "Charles IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "Holy Roman Emperor who wrote of a haunting at his castle in Prague.",
+  "evidence": [
+   "realms-of-power-magic::0671"
+  ]
+ },
+ {
+  "name": "Snowball",
+  "type": "Character",
+  "aliases": [],
+  "description": "Yorkshire tailor attacked by a shapechanging ghost.",
+  "evidence": [
+   "realms-of-power-magic::0671",
+   "realms-of-power-magic::0672"
+  ]
+ },
+ {
+  "name": "Theitmar of Merseburg",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bishop quoted on the night being given to the dead.",
+  "evidence": [
+   "realms-of-power-magic::0667"
+  ]
+ },
+ {
+  "name": "Hesiod",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek poet whose Theogony lists the children of Eris.",
+  "evidence": [
+   "realms-of-power-magic::0622",
+   "realms-of-power-magic::0623"
+  ]
+ },
+ {
+  "name": "Pandora",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mythic woman who opened the jar releasing the lugra.",
+  "evidence": [
+   "realms-of-power-magic::0623"
+  ]
+ },
+ {
+  "name": "Eris",
+  "type": "Character",
+  "aliases": [],
+  "description": "Strife, mother of the lugra per Hesiod.",
+  "evidence": [
+   "realms-of-power-magic::0622",
+   "realms-of-power-magic::0623"
+  ]
+ },
+ {
+  "name": "Elpis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hope, the only being remaining in Pandora's jar.",
+  "evidence": [
+   "realms-of-power-magic::0623"
+  ]
+ },
+ {
+  "name": "Horkos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Oath, a child of Eris most damaging to men who swear falsely.",
+  "evidence": [
+   "realms-of-power-magic::0622",
+   "realms-of-power-magic::0623"
+  ]
+ },
+ {
+  "name": "Mithras",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman warrior god some Flambeau magi consider a Theos of honor and loyalty.",
+  "evidence": [
+   "realms-of-power-magic::0628"
+  ]
+ },
+ {
+  "name": "Prometheus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Minor Greek mythic figure among the Theoi.",
+  "evidence": [
+   "realms-of-power-magic::0628"
+  ]
+ },
+ {
+  "name": "Pallas",
+  "type": "Character",
+  "aliases": [],
+  "description": "Minor Greek mythic figure among the Theoi.",
+  "evidence": [
+   "realms-of-power-magic::0628"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Faerie god who bound the Titans in the underworld.",
+  "evidence": [
+   "realms-of-power-magic::0628",
+   "realms-of-power-magic::0629"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Faerie god who formed the world from the slain Jotnar.",
+  "evidence": [
+   "realms-of-power-magic::0629",
+   "realms-of-power-magic::0694"
+  ]
+ },
+ {
+  "name": "Vulcan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman god of fire who cast out Adranus.",
+  "evidence": [
+   "realms-of-power-magic::0648"
+  ]
+ },
+ {
+  "name": "Adam",
+  "type": "Character",
+  "aliases": [],
+  "description": "First man whose curse some Christian magi say created the lugra.",
+  "evidence": [
+   "realms-of-power-magic::0622"
+  ]
+ },
+ {
+  "name": "Ker",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the Keres.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Thanatos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the Thanatoi.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Akhlys",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the Akylides.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Moros",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the Moroi.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Children of Danu",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Celtic gods who drove the Fomoire beyond the Ninth Wave.",
+  "evidence": [
+   "realms-of-power-magic::0629"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Order of magi for whom vis is lifeblood and currency.",
+  "evidence": [
+   "realms-of-power-magic::0685",
+   "realms-of-power-magic::0717",
+   "realms-of-power-magic::0633"
+  ]
+ },
+ {
+  "name": "Moors",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Muslim inhabitants of southern Iberia near al-Meraya.",
+  "evidence": [
+   "realms-of-power-magic::0655",
+   "realms-of-power-magic::0657"
+  ]
+ },
+ {
+  "name": "Western Church",
+  "type": "Faction",
+  "aliases": [
+   "Church"
+  ],
+  "description": "Church that accepts the concept of Purgatory.",
+  "evidence": [
+   "realms-of-power-magic::0672",
+   "realms-of-power-magic::0674"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House of Ledea.",
+  "evidence": [
+   "realms-of-power-magic::0618"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House of Porphyrion.",
+  "evidence": [
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House some of whose magi consider Mithras a Theos.",
+  "evidence": [
+   "realms-of-power-magic::0628"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House whose domus magna is the Cave of Twisting Shadows.",
+  "evidence": [
+   "realms-of-power-magic::0647"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House with an army of ghostly soldiers (spectres).",
+  "evidence": [
+   "realms-of-power-magic::0670"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal detailed in Guardians of the Forests, with many forest genii loci.",
+  "evidence": [
+   "realms-of-power-magic::0647",
+   "realms-of-power-magic::0652"
+  ]
+ },
+ {
+  "name": "Rheinstein",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Destroyed Rhine covenant to which Schwall formerly belonged.",
+  "evidence": [
+   "realms-of-power-magic::0664"
+  ]
+ },
+ {
+  "name": "Mount Etna",
+  "type": "Place",
+  "aliases": [],
+  "description": "Volcano on Sicily, home of Adranus; last erupted 1194.",
+  "evidence": [
+   "realms-of-power-magic::0648",
+   "realms-of-power-magic::0651"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mediterranean island where Mount Etna stands.",
+  "evidence": [
+   "realms-of-power-magic::0648",
+   "realms-of-power-magic::0651"
+  ]
+ },
+ {
+  "name": "Rhinefalls",
+  "type": "Place",
+  "aliases": [],
+  "description": "Waterfall on the upper Rhine where the river spirit is pinioned.",
+  "evidence": [
+   "realms-of-power-magic::0652",
+   "realms-of-power-magic::0654"
+  ]
+ },
+ {
+  "name": "Rhine",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of Europe's great rivers, with a genius loci Rhenus.",
+  "evidence": [
+   "realms-of-power-magic::0652",
+   "realms-of-power-magic::0654"
+  ]
+ },
+ {
+  "name": "Black Forest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Forest north of the Rhinefalls.",
+  "evidence": [
+   "realms-of-power-magic::0654"
+  ]
+ },
+ {
+  "name": "Desert of al-Meraya",
+  "type": "Place",
+  "aliases": [],
+  "description": "Desert north of al-Meraya in southeast Iberia, inhabited by a thirsty spirit.",
+  "evidence": [
+   "realms-of-power-magic::0655",
+   "realms-of-power-magic::0657"
+  ]
+ },
+ {
+  "name": "al-Meraya",
+  "type": "Place",
+  "aliases": [
+   "Almeria"
+  ],
+  "description": "Moorish port city (Almeria) in southeast Iberia.",
+  "evidence": [
+   "realms-of-power-magic::0655",
+   "realms-of-power-magic::0657"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region including the desert of al-Meraya; home of jinn.",
+  "evidence": [
+   "realms-of-power-magic::0620",
+   "realms-of-power-magic::0655",
+   "realms-of-power-magic::0657"
+  ]
+ },
+ {
+  "name": "Lake Brienz",
+  "type": "Place",
+  "aliases": [],
+  "description": "Steep-sided Alpine lake fed by the Aare.",
+  "evidence": [
+   "realms-of-power-magic::0658",
+   "realms-of-power-magic::0660"
+  ]
+ },
+ {
+  "name": "River Aare",
+  "type": "Place",
+  "aliases": [
+   "Aare"
+  ],
+  "description": "River feeding Lake Brienz.",
+  "evidence": [
+   "realms-of-power-magic::0660"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains containing Lake Brienz and the Cave of Twisting Shadows.",
+  "evidence": [
+   "realms-of-power-magic::0647",
+   "realms-of-power-magic::0660"
+  ]
+ },
+ {
+  "name": "Aillwee Cave",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cave system beneath the Burren in Hibernia, home of a spirit.",
+  "evidence": [
+   "realms-of-power-magic::0661",
+   "realms-of-power-magic::0663"
+  ]
+ },
+ {
+  "name": "An Bhoireann",
+  "type": "Place",
+  "aliases": [
+   "the Burren"
+  ],
+  "description": "Rocky wilderness in western Hibernia above Aillwee Cave.",
+  "evidence": [
+   "realms-of-power-magic::0662",
+   "realms-of-power-magic::0663"
+  ]
+ },
+ {
+  "name": "Hibernia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Aillwee Cave lies.",
+  "evidence": [
+   "realms-of-power-magic::0663"
+  ]
+ },
+ {
+  "name": "Cave of Twisting Shadows",
+  "type": "Place",
+  "aliases": [],
+  "description": "Domus magna of House Criamon in the Alps, with a powerful cave genius loci.",
+  "evidence": [
+   "realms-of-power-magic::0647"
+  ]
+ },
+ {
+  "name": "Mount Olympus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where the kind counterparts to the lugra were summoned by the Gods.",
+  "evidence": [
+   "realms-of-power-magic::0622"
+  ]
+ },
+ {
+  "name": "Eden",
+  "type": "Place",
+  "aliases": [],
+  "description": "From which Adam was cast.",
+  "evidence": [
+   "realms-of-power-magic::0622"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Porphyrion claims to have found Pandora's jar beneath the Senate.",
+  "evidence": [
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Porphyrion was last spotted.",
+  "evidence": [
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Prague",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of Charles IV's haunted castle.",
+  "evidence": [
+   "realms-of-power-magic::0671"
+  ]
+ },
+ {
+  "name": "Yorkshire",
+  "type": "Place",
+  "aliases": [],
+  "description": "English region of medieval ghost tales.",
+  "evidence": [
+   "realms-of-power-magic::0671"
+  ]
+ },
+ {
+  "name": "Persia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land of the jinn.",
+  "evidence": [
+   "realms-of-power-magic::0620"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land of the jinn.",
+  "evidence": [
+   "realms-of-power-magic::0620"
+  ]
+ },
+ {
+  "name": "North Africa",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land of the jinn.",
+  "evidence": [
+   "realms-of-power-magic::0620"
+  ]
+ },
+ {
+  "name": "Babylon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient source of astrology.",
+  "evidence": [
+   "realms-of-power-magic::0631"
+  ]
+ },
+ {
+  "name": "Underworld",
+  "type": "Place",
+  "aliases": [],
+  "description": "Realm of the dead, where the Titans are imprisoned; a gateway believed beneath Etna.",
+  "evidence": [
+   "realms-of-power-magic::0629",
+   "realms-of-power-magic::0648",
+   "realms-of-power-magic::0673"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The game setting.",
+  "evidence": [
+   "realms-of-power-magic::0628",
+   "realms-of-power-magic::0647"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Realm of Magic",
+   "Magic"
+  ],
+  "description": "Realm of Magic where Daimons dwell and from which magical ghosts come.",
+  "evidence": [
+   "realms-of-power-magic::0604",
+   "realms-of-power-magic::0625",
+   "realms-of-power-magic::0672"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Realm of faeries; many gods and some jinn and ghosts belong to it.",
+  "evidence": [
+   "realms-of-power-magic::0620",
+   "realms-of-power-magic::0628",
+   "realms-of-power-magic::0672"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of demons; some jinn and ghosts are Infernal.",
+  "evidence": [
+   "realms-of-power-magic::0620",
+   "realms-of-power-magic::0645",
+   "realms-of-power-magic::0667"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Dominion",
+   "Divine"
+  ],
+  "description": "Divine realm; everything beyond the fixed stars is purely Divine.",
+  "evidence": [
+   "realms-of-power-magic::0604",
+   "realms-of-power-magic::0631"
+  ]
+ },
+ {
+  "name": "Jar of Pandora",
+  "type": "Item",
+  "aliases": [],
+  "description": "Jar that imprisoned the lugra; sought to bind them.",
+  "evidence": [
+   "realms-of-power-magic::0623",
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Rhinegold",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rumored treasure lying at the bottom of the Rhine.",
+  "evidence": [
+   "realms-of-power-magic::0652"
+  ]
+ },
+ {
+  "name": "Looking Glass of Intellego Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Glass of vis letting one see through a wall into a room.",
+  "evidence": [
+   "realms-of-power-magic::0688",
+   "realms-of-power-magic::0689",
+   "realms-of-power-magic::0691"
+  ]
+ },
+ {
+  "name": "Icicle of Perdo Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Never-melting icicle of vis that drains Fatigue.",
+  "evidence": [
+   "realms-of-power-magic::0689",
+   "realms-of-power-magic::0692"
+  ]
+ },
+ {
+  "name": "Dust Devil of Auram Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Small whirlwind of vis keeping air breathable.",
+  "evidence": [
+   "realms-of-power-magic::0689",
+   "realms-of-power-magic::0692"
+  ]
+ },
+ {
+  "name": "Mistletoe Sprig of Herbam Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Mistletoe vis granting understanding of its forest.",
+  "evidence": [
+   "realms-of-power-magic::0689",
+   "realms-of-power-magic::0690",
+   "realms-of-power-magic::0693"
+  ]
+ },
+ {
+  "name": "Ball of Light Ignem Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Glowing ball of vis providing illumination.",
+  "evidence": [
+   "realms-of-power-magic::0690",
+   "realms-of-power-magic::0692"
+  ]
+ },
+ {
+  "name": "Laughter of Mentem Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Vis whose laughter fills listeners with joy.",
+  "evidence": [
+   "realms-of-power-magic::0690",
+   "realms-of-power-magic::0691",
+   "realms-of-power-magic::0693"
+  ]
+ },
+ {
+  "name": "Brimstone of Vim Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Brimstone vis that inflicts a Warping Point on contact.",
+  "evidence": [
+   "realms-of-power-magic::0691",
+   "realms-of-power-magic::0693"
+  ]
+ },
+ {
+  "name": "Seed of Creo Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Seed of vis that grows instantly into a fruit tree.",
+  "evidence": [
+   "realms-of-power-magic::0694",
+   "realms-of-power-magic::0697"
+  ]
+ },
+ {
+  "name": "Ash Branch of Muto Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ash-branch vis granting Reserves of Strength and Toughness in battle.",
+  "evidence": [
+   "realms-of-power-magic::0694",
+   "realms-of-power-magic::0695",
+   "realms-of-power-magic::0697"
+  ]
+ },
+ {
+  "name": "Rosemary Sprig of Rego Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rosemary vis protecting a home from weak wood faeries.",
+  "evidence": [
+   "realms-of-power-magic::0695",
+   "realms-of-power-magic::0698"
+  ]
+ },
+ {
+  "name": "Egg of Animal Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Snake egg of vis that releases poisonous snakes when warmed.",
+  "evidence": [
+   "realms-of-power-magic::0695",
+   "realms-of-power-magic::0698"
+  ]
+ },
+ {
+  "name": "Drop of Spring Water of Aquam Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Drop of vis creating a spring on bare earth.",
+  "evidence": [
+   "realms-of-power-magic::0695",
+   "realms-of-power-magic::0696",
+   "realms-of-power-magic::0698"
+  ]
+ },
+ {
+  "name": "Yarrow of Corpus Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Yarrow vis (soldier's wort) that heals wounds completely.",
+  "evidence": [
+   "realms-of-power-magic::0696",
+   "realms-of-power-magic::0699"
+  ]
+ },
+ {
+  "name": "Crystal of Imaginem Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rock crystal vis granting invisibility as Veil of Invisibility.",
+  "evidence": [
+   "realms-of-power-magic::0696",
+   "realms-of-power-magic::0699"
+  ]
+ },
+ {
+  "name": "Silver Coin of Terram Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Faerie's coin of vis turning a thief to stone.",
+  "evidence": [
+   "realms-of-power-magic::0696",
+   "realms-of-power-magic::0697",
+   "realms-of-power-magic::0699"
+  ]
+ },
+ {
+  "name": "Container for Ephemeral Vis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Enchanted seashell or crystal to capture and release insubstantial vis.",
+  "evidence": [
+   "realms-of-power-magic::0712"
+  ]
+ },
+ {
+  "name": "Centaury of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Herb of Virtue granting witches flight when Enriched.",
+  "evidence": [
+   "realms-of-power-magic::0719"
+  ]
+ },
+ {
+  "name": "Cinquefoil of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Herb of Virtue granting eloquence and the Inspirational Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0719"
+  ]
+ },
+ {
+  "name": "Fennel of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Herb of Virtue with 2 pawns of Vim vis, Enriched on St. Michael's day.",
+  "evidence": [
+   "realms-of-power-magic::0719"
+  ]
+ },
+ {
+  "name": "Periwinkle of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Herb granting Venus's Blessing as a love charm.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Vervain of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Herb granting Enduring Constitution.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Heart's Ease of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Herb granting Lesser Purifying Touch: Childbirth Fever.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Topaz of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Gem granting Inspirational or Puissant Leadership.",
+  "evidence": [
+   "realms-of-power-magic::0717",
+   "realms-of-power-magic::0718"
+  ]
+ },
+ {
+  "name": "Sapphire of Virtue",
+  "type": "Item",
+  "aliases": [],
+  "description": "Gem granting Intuition.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Stone Tell of the Mind That Sits",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell to talk to a physical object, usable to speak with its Airy Spirit.",
+  "evidence": [
+   "realms-of-power-magic::0608",
+   "realms-of-power-magic::0609"
+  ]
+ },
+ {
+  "name": "Stench of Twenty Corpses",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell a spirit of rotting smell might duplicate.",
+  "evidence": [
+   "realms-of-power-magic::0611"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used to boost Penetration for Daimon summoning.",
+  "evidence": [
+   "realms-of-power-magic::0639"
+  ]
+ },
+ {
+  "name": "Perceive the Firewalker",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InIg 30 spell revealing creatures with Ignem-aligned Might.",
+  "evidence": [
+   "realms-of-power-magic::0643"
+  ]
+ },
+ {
+  "name": "Clenching Grasp of the Crushed Heart",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell mirrored by the Leti's Touch of Death.",
+  "evidence": [
+   "realms-of-power-magic::0634"
+  ]
+ },
+ {
+  "name": "Sense the Nature of Vis",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell revealing vis' nature and extraordinary powers.",
+  "evidence": [
+   "realms-of-power-magic::0686",
+   "realms-of-power-magic::0701"
+  ]
+ },
+ {
+  "name": "Frosty Breath of the Spoken Lie",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Lie-detecting spell.",
+  "evidence": [
+   "realms-of-power-magic::0691",
+   "realms-of-power-magic::0692"
+  ]
+ },
+ {
+  "name": "Gift of Bear's Fortitude",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used in the Ash Branch of Muto Vis effect.",
+  "evidence": [
+   "realms-of-power-magic::0695"
+  ]
+ },
+ {
+  "name": "Veil of Invisibility",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Invisibility spell duplicated by the Crystal of Imaginem Vis.",
+  "evidence": [
+   "realms-of-power-magic::0696",
+   "realms-of-power-magic::0697"
+  ]
+ },
+ {
+  "name": "The Silent Vigil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell turning a person to stone.",
+  "evidence": [
+   "realms-of-power-magic::0697"
+  ]
+ },
+ {
+  "name": "Shell of False Determination",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Vim spell effect caused by stored Vim vis.",
+  "evidence": [
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "The Phantom Gift",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Vim effect creatures suffer near large Vim vis stores.",
+  "evidence": [
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Magic Spirit",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Special Virtue for spirits; all ghosts must have it.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0676",
+   "realms-of-power-magic::0677"
+  ]
+ },
+ {
+  "name": "Daimon (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status Virtue of all Daimons.",
+  "evidence": [
+   "realms-of-power-magic::0626",
+   "realms-of-power-magic::0649"
+  ]
+ },
+ {
+  "name": "Ways of the (Land)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue all genii loci possess, e.g. Ways of the Mountains, Deserts, Lakes, Caves.",
+  "evidence": [
+   "realms-of-power-magic::0617",
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0662"
+  ]
+ },
+ {
+  "name": "Spiritual Pact",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue from a major bargain with a spirit.",
+  "evidence": [
+   "realms-of-power-magic::0646"
+  ]
+ },
+ {
+  "name": "Puissant (Ability)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue boosting an Ability, e.g. Puissant Swim, Single Weapon, Leadership.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0680",
+   "realms-of-power-magic::0718"
+  ]
+ },
+ {
+  "name": "Great Communication",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Characteristic Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0612"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue raising Characteristics.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0649"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Perception Virtue of the Zwergenstimme.",
+  "evidence": [
+   "realms-of-power-magic::0612"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of extra Confidence.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Great Perception",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Characteristic Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0656"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue to find hidden water, gained by Ismail from Warping.",
+  "evidence": [
+   "realms-of-power-magic::0656",
+   "realms-of-power-magic::0664"
+  ]
+ },
+ {
+  "name": "Magical Champion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue for ghosts.",
+  "evidence": [
+   "realms-of-power-magic::0677"
+  ]
+ },
+ {
+  "name": "Magical Covenfolk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status for ghosts.",
+  "evidence": [
+   "realms-of-power-magic::0677"
+  ]
+ },
+ {
+  "name": "Magical Master",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status for ghosts.",
+  "evidence": [
+   "realms-of-power-magic::0677"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status for ghosts, e.g. Sir Giles.",
+  "evidence": [
+   "realms-of-power-magic::0677",
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Magical Friend",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status for ghosts.",
+  "evidence": [
+   "realms-of-power-magic::0677"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status of Sir Giles.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granted by Ash Branch vis.",
+  "evidence": [
+   "realms-of-power-magic::0695"
+  ]
+ },
+ {
+  "name": "Toughness",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granted by Ash Branch vis.",
+  "evidence": [
+   "realms-of-power-magic::0695"
+  ]
+ },
+ {
+  "name": "Venus's Blessing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue from Periwinkle of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue from Vervain of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Lesser Purifying Touch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue from Heart's Ease of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue from Topaz or Cinquefoil of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0717",
+   "realms-of-power-magic::0719"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue from Sapphire of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue conferrable by a Herb of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0716"
+  ]
+ },
+ {
+  "name": "Affinity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Experience Virtue that Things of Virtue cannot confer.",
+  "evidence": [
+   "realms-of-power-magic::0715"
+  ]
+ },
+ {
+  "name": "Meddler",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Spirit of Self-Importance.",
+  "evidence": [
+   "realms-of-power-magic::0615"
+  ]
+ },
+ {
+  "name": "Fury",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Adranus.",
+  "evidence": [
+   "realms-of-power-magic::0649"
+  ]
+ },
+ {
+  "name": "Wrathful",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw granted by Adranus.",
+  "evidence": [
+   "realms-of-power-magic::0649"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of prophetic dreams, held by Maria.",
+  "evidence": [
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0663"
+  ]
+ },
+ {
+  "name": "Simple-Minded",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw granted by Adranus; held by Aillwee.",
+  "evidence": [
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0662"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of al-Meraya.",
+  "evidence": [
+   "realms-of-power-magic::0656"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Brienz.",
+  "evidence": [
+   "realms-of-power-magic::0659"
+  ]
+ },
+ {
+  "name": "Reclusive",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Brienz.",
+  "evidence": [
+   "realms-of-power-magic::0659"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Aillwee.",
+  "evidence": [
+   "realms-of-power-magic::0662"
+  ]
+ },
+ {
+  "name": "Human Ally",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Aillwee.",
+  "evidence": [
+   "realms-of-power-magic::0662"
+  ]
+ },
+ {
+  "name": "No Sense of Direction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw granted by Aillwee.",
+  "evidence": [
+   "realms-of-power-magic::0662"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw binding jinn to bargains; granted by Rhenus as curse.",
+  "evidence": [
+   "realms-of-power-magic::0620",
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Mistaken Identity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of a magus who generated a self-importance eidolon.",
+  "evidence": [
+   "realms-of-power-magic::0624"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw of Sir Giles.",
+  "evidence": [
+   "realms-of-power-magic::0680",
+   "realms-of-power-magic::0682"
+  ]
+ },
+ {
+  "name": "Baneful Circumstances",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Sir Giles (during the day).",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Oath of Fealty",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw released by death.",
+  "evidence": [
+   "realms-of-power-magic::0678"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Physical Flaw irrelevant to ghosts.",
+  "evidence": [
+   "realms-of-power-magic::0678"
+  ]
+ },
+ {
+  "name": "Restriction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Hermetic Flaw applicable to Thing of Virtue powers.",
+  "evidence": [
+   "realms-of-power-magic::0716"
+  ]
+ },
+ {
+  "name": "Necessary Condition",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Hermetic Flaw, e.g. intoxication for Centaury flight.",
+  "evidence": [
+   "realms-of-power-magic::0716",
+   "realms-of-power-magic::0719"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability covering knowledge of magical things; needed to Enrich Things of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0714",
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0659"
+  ]
+ },
+ {
+  "name": "(Realm) Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0641"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to see spirits and invisible beings.",
+  "evidence": [
+   "realms-of-power-magic::0606",
+   "realms-of-power-magic::0613",
+   "realms-of-power-magic::0681"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0615"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [
+   "Local Area Lore",
+   "Sicily Lore",
+   "Rhine Lore",
+   "Iberia Lore",
+   "Alps Lore",
+   "An Bhoireann Lore"
+  ],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0649",
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0607",
+   "realms-of-power-magic::0659"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0615"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0612",
+   "realms-of-power-magic::0615"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0612"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0612"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0615"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0680",
+   "realms-of-power-magic::0681"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0615",
+   "realms-of-power-magic::0639",
+   "realms-of-power-magic::0640"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0653"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0656"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0704"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680",
+   "realms-of-power-magic::0681"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0680"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0653",
+   "realms-of-power-magic::0659"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in spirit statistics or rules in this text.",
+  "evidence": [
+   "realms-of-power-magic::0662"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0642",
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0708",
+   "realms-of-power-magic::0694"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0708",
+   "realms-of-power-magic::0689"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0639",
+   "realms-of-power-magic::0643",
+   "realms-of-power-magic::0709"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0687",
+   "realms-of-power-magic::0707"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0609",
+   "realms-of-power-magic::0653",
+   "realms-of-power-magic::0707"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0609",
+   "realms-of-power-magic::0707"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0704",
+   "realms-of-power-magic::0707"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0606",
+   "realms-of-power-magic::0707"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0609",
+   "realms-of-power-magic::0643",
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0611",
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0614",
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0609",
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique or Form) referenced in this text.",
+  "evidence": [
+   "realms-of-power-magic::0644",
+   "realms-of-power-magic::0708"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Art",
+  "aliases": [],
+  "description": "Goetic Art of Summoning, a non-Hermetic spirit art.",
+  "evidence": [
+   "realms-of-power-magic::0645"
+  ]
+ },
+ {
+  "name": "Ablating",
+  "type": "Art",
+  "aliases": [],
+  "description": "Goetic Art of Ablating, a non-Hermetic spirit art.",
+  "evidence": [
+   "realms-of-power-magic::0645"
+  ]
+ },
+ {
+  "name": "Binding",
+  "type": "Art",
+  "aliases": [],
+  "description": "Goetic Art of Binding, a non-Hermetic spirit art.",
+  "evidence": [
+   "realms-of-power-magic::0645"
+  ]
+ },
+ {
+  "name": "Commanding",
+  "type": "Art",
+  "aliases": [],
+  "description": "Goetic Art of Commanding, a non-Hermetic spirit art.",
+  "evidence": [
+   "realms-of-power-magic::0645"
+  ]
+ },
+ {
+  "name": "Theurgist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magician who works with spirits via synthemata.",
+  "evidence": [
+   "realms-of-power-magic::0629",
+   "realms-of-power-magic::0633",
+   "realms-of-power-magic::0639"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic magician able to Enrich Things of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0642",
+   "realms-of-power-magic::0713"
+  ]
+ },
+ {
+  "name": "Wise Woman",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Village practitioner using Herbs of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Natural Magician",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Practitioner using Objects of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0717"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic messenger.",
+  "evidence": [
+   "realms-of-power-magic::0699",
+   "realms-of-power-magic::0700"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant servant.",
+  "evidence": [
+   "realms-of-power-magic::0623"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic wizard.",
+  "evidence": [
+   "realms-of-power-magic::0639",
+   "realms-of-power-magic::0693"
+  ]
+ }
+]

@@ -1,0 +1,2211 @@
+[
+ {
+  "name": "Opening the Arts",
+  "type": "Concept",
+  "aliases": [
+   "Open the Arts",
+   "Opening Arts"
+  ],
+  "description": "The process by which a parens opens a Gifted apprentice to the Hermetic Arts; apprenticeship legally begins only once it is done, and it may destroy, maintain, or convert the apprentice's Supernatural Abilities.",
+  "evidence": [
+   "magic-apprentices::0120",
+   "magic-apprentices::0121",
+   "magic-apprentices::0126"
+  ]
+ },
+ {
+  "name": "Supernatural Ability",
+  "type": "Concept",
+  "aliases": [
+   "Supernatural Abilities"
+  ],
+  "description": "Non-Hermetic magical abilities that many Gifted children possess; they raise the Intellego Vim Lab Total needed to Open the Arts and can be destroyed, kept, or converted into Hermetic Virtues.",
+  "evidence": [
+   "magic-apprentices::0120",
+   "magic-apprentices::0121",
+   "magic-apprentices::0122"
+  ]
+ },
+ {
+  "name": "Hermetic Virtue",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Virtues"
+  ],
+  "description": "Virtues tied to Hermetic magic; they can be taught by a parens who has them, with a Target Level of 15 for Minor and 21 for Major, and converted from Supernatural Abilities.",
+  "evidence": [
+   "magic-apprentices::0121",
+   "magic-apprentices::0139",
+   "magic-apprentices::0140"
+  ]
+ },
+ {
+  "name": "Hermetic Flaw",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Flaws"
+  ],
+  "description": "Flaws tied to Hermetic magic; including one when teaching a Hermetic Virtue gives a bonus, and they are gained through learning Virtues or uncontrolled Twilight and are permanent.",
+  "evidence": [
+   "magic-apprentices::0139",
+   "magic-apprentices::0140",
+   "magic-apprentices::0144"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "description": "A Major Supernatural Virtue with no matching Supernatural Ability; it requires an Intellego Vim Lab Total of 30 to Open the Arts.",
+  "evidence": [
+   "magic-apprentices::0120",
+   "magic-apprentices::0121"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Ability",
+  "description": "A Supernatural Ability used as an example for how Supernatural Abilities stack when Opening the Arts.",
+  "evidence": [
+   "magic-apprentices::0120",
+   "magic-apprentices::0121"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "description": "A Supernatural Virtue that might convert into a Minor Magical Focus with self-transformation when the Arts are Opened.",
+  "evidence": [
+   "magic-apprentices::0121"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "aliases": [
+   "Minor Magical Focus",
+   "Major Magical Focus"
+  ],
+  "description": "A Hermetic Virtue concentrating magical skill on a narrow area; Skinchanger may convert into a Minor Magical Focus, and the Verditius apprentice has a Major Magical Focus (Metal).",
+  "evidence": [
+   "magic-apprentices::0121",
+   "magic-apprentices::0137"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "description": "A Supernatural Virtue that might convert into an Affinity with Intellego or Vim.",
+  "evidence": [
+   "magic-apprentices::0121",
+   "magic-apprentices::0122"
+  ]
+ },
+ {
+  "name": "Affinity with Art",
+  "type": "Virtue",
+  "aliases": [
+   "Affinity"
+  ],
+  "description": "A Virtue that improves progress in one Art or Ability; a Supernatural Virtue like Magic Sensitivity may convert into an Affinity with Intellego or Vim.",
+  "evidence": [
+   "magic-apprentices::0122",
+   "magic-apprentices::0137"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "The ability to work magic; it imposes a social penalty that Parma Magica negates, and its loss is the main reason apprentices fail. The term is believed to originate from Bonisagus' letters to Trianoma.",
+  "evidence": [
+   "magic-apprentices::0128",
+   "magic-apprentices::0147",
+   "magic-apprentices::0216"
+  ]
+ },
+ {
+  "name": "Parens",
+  "type": "CharacterType",
+  "aliases": [
+   "parentes",
+   "pater",
+   "mater"
+  ],
+  "description": "The master who trains an apprentice in Hermetic magic; plural parentes, sometimes addressed as pater or mater.",
+  "evidence": [
+   "magic-apprentices::0122",
+   "magic-apprentices::0123",
+   "magic-apprentices::0124"
+  ]
+ },
+ {
+  "name": "Filius",
+  "type": "Concept",
+  "aliases": [
+   "filia"
+  ],
+  "description": "Hermetic title meaning son (filia, daughter), used by magi after apprenticeship for a magus trained by a given parens.",
+  "evidence": [
+   "magic-apprentices::0122",
+   "magic-apprentices::0123"
+  ]
+ },
+ {
+  "name": "Adolescentia",
+  "type": "Concept",
+  "description": "The stage of life from 15 to 21, a time of service when an apprentice knows enough to assist his master in the lab.",
+  "evidence": [
+   "magic-apprentices::0123",
+   "magic-apprentices::0185"
+  ]
+ },
+ {
+  "name": "Discipulus",
+  "type": "Concept",
+  "aliases": [
+   "discipula",
+   "discipuli",
+   "discipulae"
+  ],
+  "description": "Latin term for an apprentice during apprenticeship; discipula for a female, plurals discipuli and discipulae.",
+  "evidence": [
+   "magic-apprentices::0123"
+  ]
+ },
+ {
+  "name": "Dominus",
+  "type": "Concept",
+  "aliases": [
+   "domina",
+   "domini",
+   "dominae"
+  ],
+  "description": "Term meaning master or lord used by an apprentice for his master; domina for a maga.",
+  "evidence": [
+   "magic-apprentices::0123"
+  ]
+ },
+ {
+  "name": "Frater",
+  "type": "Concept",
+  "aliases": [
+   "soror"
+  ],
+  "description": "Term meaning brother, used for a fellow male taught Hermetic magic by the apprentice's master; soror for a female.",
+  "evidence": [
+   "magic-apprentices::0123"
+  ]
+ },
+ {
+  "name": "Infantia",
+  "type": "Concept",
+  "description": "The period of an apprentice's life before being accepted by a master, meaning infancy.",
+  "evidence": [
+   "magic-apprentices::0123"
+  ]
+ },
+ {
+  "name": "Magister",
+  "type": "Concept",
+  "description": "Term for an apprentice's teacher or tutor, most often applied to mundane teachers, also used in universities.",
+  "evidence": [
+   "magic-apprentices::0123"
+  ]
+ },
+ {
+  "name": "Pueritia",
+  "type": "Concept",
+  "description": "The early stages of an apprentice's education, generally associated with childhood (ages 8 to 14).",
+  "evidence": [
+   "magic-apprentices::0123",
+   "magic-apprentices::0124"
+  ]
+ },
+ {
+  "name": "Tiro",
+  "type": "Concept",
+  "description": "Term meaning young soldier or beginner, used by apprentices for each other and derisively by older magi.",
+  "evidence": [
+   "magic-apprentices::0124"
+  ]
+ },
+ {
+  "name": "Spontaneous Magic",
+  "type": "Concept",
+  "description": "Magic cast without a known formula; an apprentice can cast it once her Arts are Opened, though less reliably than a cantation.",
+  "evidence": [
+   "magic-apprentices::0125",
+   "magic-apprentices::0154"
+  ]
+ },
+ {
+  "name": "Formulaic Spell",
+  "type": "Concept",
+  "aliases": [
+   "formulaic spells"
+  ],
+  "description": "Spells learned in advance; a low-level formulaic spell known by an apprentice is often called a cantation.",
+  "evidence": [
+   "magic-apprentices::0125",
+   "magic-apprentices::0153",
+   "magic-apprentices::0183"
+  ]
+ },
+ {
+  "name": "Casting Tablets",
+  "type": "Item",
+  "description": "Tablets held by a covenant that an apprentice can read and cast from if she has Artes Liberales 1 and Latin 4.",
+  "evidence": [
+   "magic-apprentices::0125"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability of reading and the liberal arts; apprentices generally reach score 1 by adolescence.",
+  "evidence": [
+   "magic-apprentices::0125",
+   "magic-apprentices::0129",
+   "magic-apprentices::0149"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Language Ability required to work magic effectively; apprentices typically reach Latin 4.",
+  "evidence": [
+   "magic-apprentices::0125",
+   "magic-apprentices::0129",
+   "magic-apprentices::0227"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Arcane Ability for understanding Hermetic magic; needed to assist in and create laboratories.",
+  "evidence": [
+   "magic-apprentices::0129",
+   "magic-apprentices::0203",
+   "magic-apprentices::0205"
+  ]
+ },
+ {
+  "name": "Technique",
+  "type": "Concept",
+  "description": "The five Hermetic Arts of action; a newly Opened apprentice has 0 in each.",
+  "evidence": [
+   "magic-apprentices::0125",
+   "magic-apprentices::0127"
+  ]
+ },
+ {
+  "name": "Form",
+  "type": "Concept",
+  "description": "The ten Hermetic Arts of subject; Bonisagus advised masters to favor the Forms first for the student's protection.",
+  "evidence": [
+   "magic-apprentices::0125",
+   "magic-apprentices::0128"
+  ]
+ },
+ {
+  "name": "Hermetic Arts",
+  "type": "Concept",
+  "aliases": [
+   "Arts"
+  ],
+  "description": "The fifteen Techniques and Forms of Hermetic magic, which must be taught one-on-one from magus to apprentice.",
+  "evidence": [
+   "magic-apprentices::0125",
+   "magic-apprentices::0235"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "aliases": [
+   "Wizards' War"
+  ],
+  "description": "Legally sanctioned conflict between magi, in which an apprentice, as property, is fair game to be taken or destroyed.",
+  "evidence": [
+   "magic-apprentices::0126",
+   "magic-apprentices::0130",
+   "magic-apprentices::0132"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [
+   "Wizards' Marches"
+  ],
+  "description": "Legally sanctioned action against a magus in which his property, including apprentices, may be targeted.",
+  "evidence": [
+   "magic-apprentices::0132"
+  ]
+ },
+ {
+  "name": "Low Crime",
+  "type": "Concept",
+  "aliases": [
+   "low crime"
+  ],
+  "description": "A lesser Hermetic offense, such as keeping a Gifted lab assistant, fostering without instruction, or abandoning an apprentice.",
+  "evidence": [
+   "magic-apprentices::0126",
+   "magic-apprentices::0134",
+   "magic-apprentices::0216"
+  ]
+ },
+ {
+  "name": "High Crime",
+  "type": "Concept",
+  "description": "A serious Hermetic offense, such as teaching the final key of Parma Magica before the Oath of Hermes is sworn.",
+  "evidence": [
+   "magic-apprentices::0226"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "description": "The laws of the Order of Hermes, which protect an apprentice only as the parens' property and give the apprentice no appeal against his master.",
+  "evidence": [
+   "magic-apprentices::0127",
+   "magic-apprentices::0131",
+   "magic-apprentices::0133"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Body of Hermetic legal precedent; it requires a magus to teach his apprentice for one season every year.",
+  "evidence": [
+   "magic-apprentices::0128"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Founder of the Order whose letters to Trianoma are believed to be the source of the traditional teaching schedule for apprentices.",
+  "evidence": [
+   "magic-apprentices::0127",
+   "magic-apprentices::0128",
+   "magic-apprentices::0216"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "description": "Recipient of Bonisagus' letters describing apprentice training; also gives her name to Trianoma apprentices of House Bonisagus.",
+  "evidence": [
+   "magic-apprentices::0127",
+   "magic-apprentices::0229"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [
+   "Parma"
+  ],
+  "description": "The Hermetic magic resistance; its final key is taught only after the Oath of Hermes is sworn, and it negates the Gift's social penalty.",
+  "evidence": [
+   "magic-apprentices::0129",
+   "magic-apprentices::0147",
+   "magic-apprentices::0225"
+  ]
+ },
+ {
+  "name": "The Gauntlet",
+  "type": "Concept",
+  "aliases": [
+   "Gauntlet"
+  ],
+  "description": "The test each parens sets his apprentice to decide whether she is ready to become a maga; after three failures House Quaesitor administers one.",
+  "evidence": [
+   "magic-apprentices::0129",
+   "magic-apprentices::0221",
+   "magic-apprentices::0224"
+  ]
+ },
+ {
+  "name": "Gifted Lab Assistant",
+  "type": "CharacterType",
+  "description": "A Gifted child kept as a lab helper without having her Arts Opened; most Tribunals declare this practice a low crime.",
+  "evidence": [
+   "magic-apprentices::0126",
+   "magic-apprentices::0127",
+   "magic-apprentices::0130"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order",
+   "Hermetic Order"
+  ],
+  "description": "The society of Hermetic magi, whose Code governs apprentices and which apprentices join after swearing the Oath.",
+  "evidence": [
+   "magic-apprentices::0128",
+   "magic-apprentices::0150",
+   "magic-apprentices::0227"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [
+   "Tribunals"
+  ],
+  "description": "Hermetic regional governing assembly that judges crimes, can declare apprentices forfeit, and meets every few years.",
+  "evidence": [
+   "magic-apprentices::0126",
+   "magic-apprentices::0130",
+   "magic-apprentices::0132"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House whose apprenticeship is cruel; apprentices challenge their master for their Gauntlet when they feel ready.",
+  "evidence": [
+   "magic-apprentices::0131",
+   "magic-apprentices::0221",
+   "magic-apprentices::0232"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus magi"
+  ],
+  "description": "Hermetic House with the legal privilege of taking apprentices from other magi and sworn to spread magical knowledge; its apprentices pass an oral examination.",
+  "evidence": [
+   "magic-apprentices::0134",
+   "magic-apprentices::0150",
+   "magic-apprentices::0229"
+  ]
+ },
+ {
+  "name": "Fosterage",
+  "type": "Concept",
+  "description": "The practice of magi trading apprentices for short periods, technically a low crime if personal instruction is not also given.",
+  "evidence": [
+   "magic-apprentices::0134"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Flaw",
+  "description": "A Flaw suggested for an apprentice character who stands to inherit property, as in the Inheritance story seed.",
+  "evidence": [
+   "magic-apprentices::0136"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Flaw",
+  "description": "A Flaw representing close bonds to family members, suggested for an apprentice tied to his uncle.",
+  "evidence": [
+   "magic-apprentices::0136"
+  ]
+ },
+ {
+  "name": "Divine Aura",
+  "type": "Concept",
+  "aliases": [
+   "Divine aura"
+  ],
+  "description": "A holy aura such as that of the monastery in the Inheritance story seed, with an aura of 4 that hinders magic.",
+  "evidence": [
+   "magic-apprentices::0136"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Mystery Cult House focused on making magical items; it Initiates apprentices right after Opening their Arts and requires an apprentice piece as Gauntlet.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0143",
+   "magic-apprentices::0233"
+  ]
+ },
+ {
+  "name": "Verditius Magic",
+  "type": "Virtue",
+  "description": "The free House Virtue of Verditius, an Outer Mystery into which apprentices are initiated.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Cautious Sorcerer",
+  "type": "Virtue",
+  "description": "A Virtue held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137"
+  ]
+ },
+ {
+  "name": "Weak Spontaneous Magic",
+  "type": "Flaw",
+  "description": "A Hermetic Flaw held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137"
+  ]
+ },
+ {
+  "name": "Hunchback",
+  "type": "Flaw",
+  "description": "A Flaw held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137"
+  ]
+ },
+ {
+  "name": "Slow Caster",
+  "type": "Flaw",
+  "description": "A Hermetic Flaw held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137"
+  ]
+ },
+ {
+  "name": "Apprentice",
+  "type": "Virtue",
+  "description": "The Free Social Status Virtue for Hermetic apprentices, replaced by Failed Apprentice if the Gift is lost.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0216"
+  ]
+ },
+ {
+  "name": "Failed Apprentice",
+  "type": "Virtue",
+  "description": "A Minor Social Status Virtue gained when an apprentice loses the Gift, replacing Apprentice.",
+  "evidence": [
+   "magic-apprentices::0216"
+  ]
+ },
+ {
+  "name": "Craft: Goldsmith",
+  "type": "Ability",
+  "description": "Craft Ability held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Combat Ability held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "description": "Social Ability of deception held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Native Language",
+  "type": "Ability",
+  "description": "The character's mother tongue Ability.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "description": "Ability of moving unseen, held by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Mischievous Childhood",
+  "type": "Concept",
+  "description": "A childhood template used as the starting point for the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Outer Mystery",
+  "type": "Concept",
+  "description": "The initial Mystery of a Mystery Cult House, through which apprentices gain their free House Virtue by Initiation.",
+  "evidence": [
+   "magic-apprentices::0138",
+   "magic-apprentices::0143"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Faction",
+  "aliases": [
+   "Mystery Cults"
+  ],
+  "description": "Esoteric cults in the Order; Mystery Cult Houses grant House Virtues through Initiation, and a hidden Mystery Cult includes the dream witches.",
+  "evidence": [
+   "magic-apprentices::0139",
+   "magic-apprentices::0143",
+   "magic-apprentices::0184"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "description": "The process of learning Mystery Cult Virtues, sometimes involving Ordeals; Outer Mystery initiation takes a season.",
+  "evidence": [
+   "magic-apprentices::0139",
+   "magic-apprentices::0143"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "description": "A Flaw accepted during Mystery initiation to add a bonus to learning a Mystery Cult Virtue.",
+  "evidence": [
+   "magic-apprentices::0139"
+  ]
+ },
+ {
+  "name": "Teaching Source Quality",
+  "type": "Concept",
+  "description": "Communication + Teaching + 3 + bonuses; compared to a Target Level when teaching a Hermetic Virtue.",
+  "evidence": [
+   "magic-apprentices::0139",
+   "magic-apprentices::0147",
+   "magic-apprentices::0151"
+  ]
+ },
+ {
+  "name": "Communication",
+  "type": "Concept",
+  "aliases": [
+   "Com"
+  ],
+  "description": "A Characteristic used in the Teaching Source Quality.",
+  "evidence": [
+   "magic-apprentices::0139"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability used to teach others; a trainer does not need it but a teacher does.",
+  "evidence": [
+   "magic-apprentices::0139",
+   "magic-apprentices::0151"
+  ]
+ },
+ {
+  "name": "House Virtue",
+  "type": "Concept",
+  "description": "The free Minor Hermetic Virtue each magus receives from his House, gained through 10 seasons of one-on-one interaction or Outer Mystery initiation.",
+  "evidence": [
+   "magic-apprentices::0142",
+   "magic-apprentices::0143"
+  ]
+ },
+ {
+  "name": "Societates",
+  "type": "Faction",
+  "aliases": [
+   "Societas"
+  ],
+  "description": "Group of Hermetic Houses including House Ex Miscellanea, three of which follow the 10-season House Virtue rule.",
+  "evidence": [
+   "magic-apprentices::0142"
+  ]
+ },
+ {
+  "name": "True Lineages",
+  "type": "Faction",
+  "description": "Group of four Hermetic Houses whose apprentices gain the House Virtue through 10 seasons of interaction.",
+  "evidence": [
+   "magic-apprentices::0142"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Societas House whose apprentices receive a package of a Minor Hermetic Virtue, Major non-Hermetic Virtue and Major Hermetic Flaw, and which has no formal Gauntlet.",
+  "evidence": [
+   "magic-apprentices::0142",
+   "magic-apprentices::0217",
+   "magic-apprentices::0230"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Mystery Cult House that Initiates an apprentice's Heartbeast at the Ritual of Twelve Years and recognizes apprentices as magi once they assume their heartbeast.",
+  "evidence": [
+   "magic-apprentices::0143",
+   "magic-apprentices::0203",
+   "magic-apprentices::0229"
+  ]
+ },
+ {
+  "name": "Heartbeast",
+  "type": "Concept",
+  "description": "The animal nature of a Bjornaer magus, Initiated during apprenticeship.",
+  "evidence": [
+   "magic-apprentices::0143",
+   "magic-apprentices::0229"
+  ]
+ },
+ {
+  "name": "Ritual of Twelve Years",
+  "type": "Concept",
+  "description": "The Bjornaer ritual at which an apprentice's Heartbeast is Initiated.",
+  "evidence": [
+   "magic-apprentices::0143"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Mystery Cult House whose apprentices are accepted as magi once asked the Riddle of the Magus.",
+  "evidence": [
+   "magic-apprentices::0143",
+   "magic-apprentices::0229",
+   "magic-apprentices::0230"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Mystery Cult House interested in faeries and nature; Gauntlets involve faerie roads and regiones.",
+  "evidence": [
+   "magic-apprentices::0143",
+   "magic-apprentices::0203",
+   "magic-apprentices::0232"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House whose House Virtue is Puissant Perdo or Puissant Ignem, and whose apprentices undergo a stylized public Gauntlet.",
+  "evidence": [
+   "magic-apprentices::0143",
+   "magic-apprentices::0162",
+   "magic-apprentices::0230"
+  ]
+ },
+ {
+  "name": "Puissant Art",
+  "type": "Virtue",
+  "aliases": [
+   "Puissant Perdo",
+   "Puissant Ignem"
+  ],
+  "description": "A Hermetic Virtue boosting one Art; House Flambeau offers Puissant Perdo or Puissant Ignem as its House Virtue.",
+  "evidence": [
+   "magic-apprentices::0143"
+  ]
+ },
+ {
+  "name": "Inherited Flaw",
+  "type": "Concept",
+  "description": "A Flaw chosen at character generation that develops later in the character's life, such as Suppressed Gift.",
+  "evidence": [
+   "magic-apprentices::0144",
+   "magic-apprentices::0220"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Temporary Twilight"
+  ],
+  "description": "Temporary Twilight episodes, when uncontrolled, can bestow Hermetic Flaws; a failed Twilight comprehension can even cost the Gift.",
+  "evidence": [
+   "magic-apprentices::0144",
+   "magic-apprentices::0219"
+  ]
+ },
+ {
+  "name": "Deficiency",
+  "type": "Flaw",
+  "aliases": [
+   "Hermetic Deficiency"
+  ],
+  "description": "Hermetic Deficiency Flaw that may be gained during the Opening of the Arts.",
+  "evidence": [
+   "magic-apprentices::0144"
+  ]
+ },
+ {
+  "name": "Realm of Magic",
+  "type": "Realm",
+  "aliases": [
+   "Magic realm"
+  ],
+  "description": "The Magic Realm; its creatures are least interested in adolescents.",
+  "evidence": [
+   "magic-apprentices::0145",
+   "magic-apprentices::0198",
+   "magic-apprentices::0232"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "The realm of faeries, which take keen interest in adolescents; a faerie may whisk a youth into it.",
+  "evidence": [
+   "magic-apprentices::0145",
+   "magic-apprentices::0192",
+   "magic-apprentices::0197"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "The realm of the Divine; divine creatures and saints aid adolescents who seek help.",
+  "evidence": [
+   "magic-apprentices::0197"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting of Ars Magica.",
+  "evidence": [
+   "magic-apprentices::0146",
+   "magic-apprentices::0187",
+   "magic-apprentices::0237"
+  ]
+ },
+ {
+  "name": "Trivium",
+  "type": "Concept",
+  "description": "The first stage of medieval learning, taught to future lawyers and clerics.",
+  "evidence": [
+   "magic-apprentices::0146"
+  ]
+ },
+ {
+  "name": "Profession: Scribe",
+  "type": "Ability",
+  "description": "Profession Ability often taught by tutors rather than magi.",
+  "evidence": [
+   "magic-apprentices::0146"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "description": "A form of the Gift without the social penalty.",
+  "evidence": [
+   "magic-apprentices::0147"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "description": "A form of the Gift with a -6 social penalty.",
+  "evidence": [
+   "magic-apprentices::0147"
+  ]
+ },
+ {
+  "name": "Turbulence",
+  "type": "Concept",
+  "aliases": [
+   "Turbulences"
+  ],
+  "description": "Uncontrolled magical outbursts of young Gifted characters, common in stressful lab seasons and classrooms.",
+  "evidence": [
+   "magic-apprentices::0148",
+   "magic-apprentices::0209",
+   "magic-apprentices::0234"
+  ]
+ },
+ {
+  "name": "Summa",
+  "type": "Item",
+  "aliases": [
+   "summae"
+  ],
+  "description": "A type of book for study; e.g. a Corpus summa in a covenant library.",
+  "evidence": [
+   "magic-apprentices::0149",
+   "magic-apprentices::0150"
+  ]
+ },
+ {
+  "name": "Tractatus",
+  "type": "Item",
+  "description": "A type of book for study, alongside summae.",
+  "evidence": [
+   "magic-apprentices::0131",
+   "magic-apprentices::0149"
+  ]
+ },
+ {
+  "name": "Training",
+  "type": "Concept",
+  "description": "A method of instruction for Abilities only, not needing the Teaching Ability; counts as a season of one-on-one instruction.",
+  "evidence": [
+   "magic-apprentices::0151"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [
+   "Arthur"
+  ],
+  "description": "Legendary king whose stories are popular in the 13th century.",
+  "evidence": [
+   "magic-apprentices::0151",
+   "magic-apprentices::0152"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "description": "Arthur's mystical companion, master of self-transformation spells and prophecy, who taught magic to Nimiane.",
+  "evidence": [
+   "magic-apprentices::0151",
+   "magic-apprentices::0152"
+  ]
+ },
+ {
+  "name": "Nimiane",
+  "type": "Character",
+  "description": "Young damsel to whom Merlin taught all his secrets in eight days, recorded in a secret journal.",
+  "evidence": [
+   "magic-apprentices::0152"
+  ]
+ },
+ {
+  "name": "The Book of Nimiane",
+  "type": "Item",
+  "description": "The legendary journal in which Nimiane recorded Merlin's secrets and three great names; sought in the Stonehenge and Normandy Tribunals.",
+  "evidence": [
+   "magic-apprentices::0152"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "description": "Hermetic Tribunal searched for the Book of Nimiane and home of the Woman of the Wheat Fields.",
+  "evidence": [
+   "magic-apprentices::0152",
+   "magic-apprentices::0198"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "description": "Hermetic Tribunal searched for the Book of Nimiane.",
+  "evidence": [
+   "magic-apprentices::0152"
+  ]
+ },
+ {
+  "name": "The Seekers",
+  "type": "Faction",
+  "aliases": [
+   "Seekers"
+  ],
+  "description": "A secretive society of magi within the Order who search out artifacts; they claim the Book of Nimiane does not exist.",
+  "evidence": [
+   "magic-apprentices::0152"
+  ]
+ },
+ {
+  "name": "Cantation",
+  "type": "Concept",
+  "aliases": [
+   "cantamen",
+   "cantations"
+  ],
+  "description": "A low-level formulaic spell, from the Latin cantamen (little spell), especially when cast by an apprentice; it usually succeeds.",
+  "evidence": [
+   "magic-apprentices::0153",
+   "magic-apprentices::0154",
+   "magic-apprentices::0183"
+  ]
+ },
+ {
+  "name": "Incantamen",
+  "type": "Concept",
+  "description": "Latin word Hermetic magi use for spells, meaning both formulaic and spontaneous.",
+  "evidence": [
+   "magic-apprentices::0153"
+  ]
+ },
+ {
+  "name": "The Apprentice's Delight",
+  "type": "Spell",
+  "description": "CrHe 3 cantation that creates a ripe apple lasting two minutes, sweet but not nourishing.",
+  "evidence": [
+   "magic-apprentices::0155"
+  ]
+ },
+ {
+  "name": "The Appropriate Attire",
+  "type": "Spell",
+  "description": "MuAn 4 cantation that changes the color and cut of leather, wool or fur clothing, giving +1 to Etiquette or Charm.",
+  "evidence": [
+   "magic-apprentices::0156"
+  ]
+ },
+ {
+  "name": "The Chameleon Cat",
+  "type": "Spell",
+  "description": "MuAn 5 cantation that changes a beast's color, even to unnatural colors; green cats are a favorite at Durenmar.",
+  "evidence": [
+   "magic-apprentices::0157"
+  ]
+ },
+ {
+  "name": "The Cleric's Pate",
+  "type": "Spell",
+  "description": "PeCo 5 cantation causing the target to lose all the hair on his head.",
+  "evidence": [
+   "magic-apprentices::0158"
+  ]
+ },
+ {
+  "name": "The Cook's Revenge",
+  "type": "Spell",
+  "description": "PeHe(An) 5 cantation that spoils a plate of food.",
+  "evidence": [
+   "magic-apprentices::0159"
+  ]
+ },
+ {
+  "name": "The Curse of Diana",
+  "type": "Spell",
+  "description": "PeAn 4 cantation that makes a small animal lose all its fur.",
+  "evidence": [
+   "magic-apprentices::0160"
+  ]
+ },
+ {
+  "name": "Curse of the Baby's Bladder",
+  "type": "Spell",
+  "description": "ReCo 4 cantation that makes the target release his water; unfortunately popular with apprentices.",
+  "evidence": [
+   "magic-apprentices::0161"
+  ]
+ },
+ {
+  "name": "Closing the Campfire",
+  "type": "Spell",
+  "description": "PeIg 5 cantation that extinguishes a fire the caster touches, popular with Flambeau apprentices.",
+  "evidence": [
+   "magic-apprentices::0162"
+  ]
+ },
+ {
+  "name": "The Dancer's Dame",
+  "type": "Spell",
+  "description": "ReHe 5 cantation animating a linen gown to dance with the caster.",
+  "evidence": [
+   "magic-apprentices::0163"
+  ]
+ },
+ {
+  "name": "Ears of the Hare",
+  "type": "Spell",
+  "description": "MuCo 4 cantation giving the caster a hare's hearing, +1 on hearing Perception rolls.",
+  "evidence": [
+   "magic-apprentices::0164"
+  ]
+ },
+ {
+  "name": "An Evening's Illumination",
+  "type": "Spell",
+  "description": "MuAq 5 cantation that changes water into lamp oil.",
+  "evidence": [
+   "magic-apprentices::0165"
+  ]
+ },
+ {
+  "name": "Hurling the Droplet of Lye",
+  "type": "Spell",
+  "description": "CrAq 3 cantation creating a drop of corrosive lye that can do +1 Damage.",
+  "evidence": [
+   "magic-apprentices::0166"
+  ]
+ },
+ {
+  "name": "Hypnotic Gaze",
+  "type": "Spell",
+  "description": "ReMe 5 cantation that makes the target fall asleep within seconds.",
+  "evidence": [
+   "magic-apprentices::0167"
+  ]
+ },
+ {
+  "name": "The Jongleur's Steps",
+  "type": "Spell",
+  "description": "ReAn 4 cantation animating a shoe to caper and jig, tripping its wearer.",
+  "evidence": [
+   "magic-apprentices::0168"
+  ]
+ },
+ {
+  "name": "Jupiter's Tears",
+  "type": "Spell",
+  "description": "CrAu 5 cantation making a single cloud release a light drizzle.",
+  "evidence": [
+   "magic-apprentices::0169"
+  ]
+ },
+ {
+  "name": "The Laundress' Clothesline",
+  "type": "Spell",
+  "description": "PeAq 4 cantation that immediately dries the caster's worn clothing.",
+  "evidence": [
+   "magic-apprentices::0170"
+  ]
+ },
+ {
+  "name": "Mimic the Christ's Miracle",
+  "type": "Spell",
+  "description": "MuAq 5 cantation changing water into a small amount of wine.",
+  "evidence": [
+   "magic-apprentices::0171"
+  ]
+ },
+ {
+  "name": "A Pestilence of Fleas",
+  "type": "Spell",
+  "description": "MuIm 4 sensory illusion making the target itchy, penalizing concentration and physical tasks by -1.",
+  "evidence": [
+   "magic-apprentices::0172"
+  ]
+ },
+ {
+  "name": "Physician's Sense",
+  "type": "Spell",
+  "description": "InCo 4 cantation that determines the general health of the caster.",
+  "evidence": [
+   "magic-apprentices::0173"
+  ]
+ },
+ {
+  "name": "The Physician's Eye",
+  "type": "Spell",
+  "description": "Spell referenced as the model for Physician's Sense, determining general health.",
+  "evidence": [
+   "magic-apprentices::0173"
+  ]
+ },
+ {
+  "name": "The Poor Performer's Reward",
+  "type": "Spell",
+  "description": "CrTe 4 cantation creating a handful of mud for hurling.",
+  "evidence": [
+   "magic-apprentices::0174",
+   "magic-apprentices::0176"
+  ]
+ },
+ {
+  "name": "The Racing Rot",
+  "type": "Spell",
+  "description": "PeAn 4 cantation that cracks and wears leather goods.",
+  "evidence": [
+   "magic-apprentices::0175"
+  ]
+ },
+ {
+  "name": "The Reward Delivered",
+  "type": "Spell",
+  "description": "ReTe 4 counterpart to The Poor Performer's Reward that hurls the ball of mud at a target.",
+  "evidence": [
+   "magic-apprentices::0176"
+  ]
+ },
+ {
+  "name": "Sense the Sleeping Hound",
+  "type": "Spell",
+  "description": "InAn 5 cantation indicating whether an animal in range is asleep.",
+  "evidence": [
+   "magic-apprentices::0177"
+  ]
+ },
+ {
+  "name": "Shattering Touch",
+  "type": "Spell",
+  "description": "PeTe 5 spell breaking apart a stone object up to a pace across; known by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0138",
+   "magic-apprentices::0178"
+  ]
+ },
+ {
+  "name": "Slap of Awakening",
+  "type": "Spell",
+  "description": "ReMe 5 cantation that instantly awakens a sleeping target.",
+  "evidence": [
+   "magic-apprentices::0179"
+  ]
+ },
+ {
+  "name": "The Smokeless Campfire",
+  "type": "Spell",
+  "description": "MuIg 5 cantation making a fire produce no smoke.",
+  "evidence": [
+   "magic-apprentices::0180"
+  ]
+ },
+ {
+  "name": "The Studious Doppleganger",
+  "type": "Spell",
+  "description": "CrIm 5 cantation creating a visual static copy of the caster studying a book.",
+  "evidence": [
+   "magic-apprentices::0181"
+  ]
+ },
+ {
+  "name": "The Unruffled Traveler",
+  "type": "Spell",
+  "description": "ReAu 4 cantation warding the caster from light breezes.",
+  "evidence": [
+   "magic-apprentices::0182"
+  ]
+ },
+ {
+  "name": "Whispering Fingers",
+  "type": "Spell",
+  "description": "CrMe 5 cantation letting the caster speak directly into the target's mind.",
+  "evidence": [
+   "magic-apprentices::0183"
+  ]
+ },
+ {
+  "name": "Probe for Pure Gold",
+  "type": "Spell",
+  "description": "InTe 4 spell, a variant of Probe for Pure Silver, known by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Probe for Pure Silver",
+  "type": "Spell",
+  "description": "InTe spell of which Probe for Pure Gold is a variant.",
+  "evidence": [
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "The Crystal Dart",
+  "type": "Spell",
+  "description": "MuTe(Re) 10 spell known by the sample Verditius apprentice.",
+  "evidence": [
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Ager Belli",
+  "type": "Spell",
+  "aliases": [
+   "field of battle"
+  ],
+  "description": "CrIm 10 (Req Rego) illusion of a Roman soldier controlled by the caster, used by apprentices to play Bellum.",
+  "evidence": [
+   "magic-apprentices::0211",
+   "magic-apprentices::0212",
+   "magic-apprentices::0215"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Covenant where green cats created with The Chameleon Cat are a favorite.",
+  "evidence": [
+   "magic-apprentices::0157"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House some of whose members find hairless cats beautiful; apprentices take a Grand Tour before their Gauntlet.",
+  "evidence": [
+   "magic-apprentices::0160",
+   "magic-apprentices::0231"
+  ]
+ },
+ {
+  "name": "The Dream Witches",
+  "type": "Faction",
+  "aliases": [
+   "dream witches"
+  ],
+  "description": "Evil sorceresses said to enter apprentices' dreams to create nightmares; they actually exist within an esoteric Mystery Cult of the Order.",
+  "evidence": [
+   "magic-apprentices::0183",
+   "magic-apprentices::0184"
+  ]
+ },
+ {
+  "name": "Goblin",
+  "type": "Creature",
+  "aliases": [
+   "goblins"
+  ],
+  "description": "Traditional bogeyman used to frighten children.",
+  "evidence": [
+   "magic-apprentices::0184"
+  ]
+ },
+ {
+  "name": "Bugbear",
+  "type": "Creature",
+  "aliases": [
+   "bugbears"
+  ],
+  "description": "Traditional bogeyman used to frighten children.",
+  "evidence": [
+   "magic-apprentices::0184"
+  ]
+ },
+ {
+  "name": "Elf",
+  "type": "Creature",
+  "aliases": [
+   "elves"
+  ],
+  "description": "Traditional bogeyman used to frighten children.",
+  "evidence": [
+   "magic-apprentices::0184"
+  ]
+ },
+ {
+  "name": "Vampire",
+  "type": "Creature",
+  "aliases": [
+   "vampires"
+  ],
+  "description": "Traditional bogeyman used to frighten children.",
+  "evidence": [
+   "magic-apprentices::0184"
+  ]
+ },
+ {
+  "name": "Fourth Lateran Council",
+  "type": "Concept",
+  "description": "Church council whose Canon 50 requires marriages be performed by a priest.",
+  "evidence": [
+   "magic-apprentices::0194"
+  ]
+ },
+ {
+  "name": "Clandestine Marriage",
+  "type": "Concept",
+  "description": "Marriage without priest or witnesses, common but recently outlawed by the Church.",
+  "evidence": [
+   "magic-apprentices::0194"
+  ]
+ },
+ {
+  "name": "Jus Primae Noctis",
+  "type": "Concept",
+  "aliases": [
+   "droit du seigneur",
+   "right of the first night"
+  ],
+  "description": "The legend of the lord's right to a bride's first night, noted as not medieval.",
+  "evidence": [
+   "magic-apprentices::0195"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "description": "The Church, which regulates marriage and annulments.",
+  "evidence": [
+   "magic-apprentices::0194",
+   "magic-apprentices::0195"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "demons"
+  ],
+  "description": "Infernal beings that tempt adolescents toward sin.",
+  "evidence": [
+   "magic-apprentices::0196",
+   "magic-apprentices::0214"
+  ]
+ },
+ {
+  "name": "Saint",
+  "type": "Creature",
+  "aliases": [
+   "saints"
+  ],
+  "description": "Divine beings who favor adolescent petitioners (+1 to invoke a patron saint).",
+  "evidence": [
+   "magic-apprentices::0197"
+  ]
+ },
+ {
+  "name": "Unicorn",
+  "type": "Creature",
+  "description": "Creature that may be divine or magic; a magic unicorn might be calmed by a pure adolescent girl.",
+  "evidence": [
+   "magic-apprentices::0197",
+   "magic-apprentices::0198"
+  ]
+ },
+ {
+  "name": "Phoenix",
+  "type": "Creature",
+  "aliases": [
+   "phoenixes"
+  ],
+  "description": "Divine creature that willingly assists the troubled.",
+  "evidence": [
+   "magic-apprentices::0197"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "A supernatural region; divine creatures, guardians and ghosts may dwell in regiones.",
+  "evidence": [
+   "magic-apprentices::0197",
+   "magic-apprentices::0210",
+   "magic-apprentices::0223"
+  ]
+ },
+ {
+  "name": "Troll",
+  "type": "Creature",
+  "description": "Faerie living under a bridge that challenges adolescents to inspire courage.",
+  "evidence": [
+   "magic-apprentices::0197",
+   "magic-apprentices::0198"
+  ]
+ },
+ {
+  "name": "The Woman of the Wheat Fields",
+  "type": "Creature",
+  "description": "A nasty faerie of the Stonehenge Tribunal who abducts boys and removes their brains.",
+  "evidence": [
+   "magic-apprentices::0198"
+  ]
+ },
+ {
+  "name": "Griffin",
+  "type": "Creature",
+  "description": "Magic creature that views an adolescent as an easy meal.",
+  "evidence": [
+   "magic-apprentices::0198"
+  ]
+ },
+ {
+  "name": "Elemental",
+  "type": "Creature",
+  "aliases": [
+   "elementals"
+  ],
+  "description": "Unthinking magic thing that doesn't distinguish adolescents from adults.",
+  "evidence": [
+   "magic-apprentices::0198"
+  ]
+ },
+ {
+  "name": "Fachan",
+  "type": "Creature",
+  "description": "Faerie monster; a variant challenges young men to combat as a step to adulthood.",
+  "evidence": [
+   "magic-apprentices::0199"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [
+   "faeries"
+  ],
+  "description": "Beings of the Faerie realm that feed on the vitality and emotion of adolescents.",
+  "evidence": [
+   "magic-apprentices::0192",
+   "magic-apprentices::0197",
+   "magic-apprentices::0199"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "description": "A community of magi where apprentices and grogs live.",
+  "evidence": [
+   "magic-apprentices::0149",
+   "magic-apprentices::0201",
+   "magic-apprentices::0237"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "grogs"
+  ],
+  "description": "Covenant soldiers and servants; their adolescents replace them in duties.",
+  "evidence": [
+   "magic-apprentices::0130",
+   "magic-apprentices::0201"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "description": "Non-magus player character type.",
+  "evidence": [
+   "magic-apprentices::0122",
+   "magic-apprentices::0201"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "CharacterType",
+  "description": "The people living in a covenant.",
+  "evidence": [
+   "magic-apprentices::0190",
+   "magic-apprentices::0202"
+  ]
+ },
+ {
+  "name": "Turb",
+  "type": "Concept",
+  "description": "The covenant's body of grogs.",
+  "evidence": [
+   "magic-apprentices::0201"
+  ]
+ },
+ {
+  "name": "Laboratory",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic laboratory",
+   "lab"
+  ],
+  "description": "The magus' working space; apprentices assist by adding Int + Magic Theory to the Lab Total.",
+  "evidence": [
+   "magic-apprentices::0203",
+   "magic-apprentices::0205",
+   "magic-apprentices::0206"
+  ]
+ },
+ {
+  "name": "Lab Total",
+  "type": "Concept",
+  "description": "The total used for laboratory activities, to which an apprentice assistant contributes.",
+  "evidence": [
+   "magic-apprentices::0120",
+   "magic-apprentices::0203",
+   "magic-apprentices::0204"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability needed to have more than one lab helper.",
+  "evidence": [
+   "magic-apprentices::0203"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "description": "Virtue that adds to Lab Total.",
+  "evidence": [
+   "magic-apprentices::0204"
+  ]
+ },
+ {
+  "name": "Waster of Vis",
+  "type": "Flaw",
+  "description": "Flaw doubling the vis cost of lab activities.",
+  "evidence": [
+   "magic-apprentices::0204"
+  ]
+ },
+ {
+  "name": "Shared Lab",
+  "type": "Flaw",
+  "description": "A Free Outfitting laboratory Flaw for a lab too small for independent projects; -2 General Quality, -2 Safety.",
+  "evidence": [
+   "magic-apprentices::0203",
+   "magic-apprentices::0207"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "pawn",
+   "rook of vis"
+  ],
+  "description": "Raw magical power used in lab work; apprentices can extract Vim vis.",
+  "evidence": [
+   "magic-apprentices::0206",
+   "magic-apprentices::0215",
+   "magic-apprentices::0221"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A link to a person or place usable for magic; apprentices can fix them.",
+  "evidence": [
+   "magic-apprentices::0206",
+   "magic-apprentices::0207",
+   "magic-apprentices::0208"
+  ]
+ },
+ {
+  "name": "Refinement",
+  "type": "Concept",
+  "description": "Laboratory characteristic; a subpar lab has Refinement equal to Magic Theory - 3.",
+  "evidence": [
+   "magic-apprentices::0205"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Creature",
+  "description": "Magical creature bound to a magus, such as a shapechanging cat.",
+  "evidence": [
+   "magic-apprentices::0132",
+   "magic-apprentices::0207",
+   "magic-apprentices::0214"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Covenant protective ritual that blocks Rego Corpus travel and could limit Turbulences.",
+  "evidence": [
+   "magic-apprentices::0208",
+   "magic-apprentices::0236"
+  ]
+ },
+ {
+  "name": "Bellum",
+  "type": "Concept",
+  "description": "A game invented by Casius in the 10th century where apprentices duel with illusionary Roman soldiers via Ager Belli.",
+  "evidence": [
+   "magic-apprentices::0211",
+   "magic-apprentices::0212",
+   "magic-apprentices::0213"
+  ]
+ },
+ {
+  "name": "Casius",
+  "type": "Character",
+  "description": "10th-century magus who invented Bellum.",
+  "evidence": [
+   "magic-apprentices::0211"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability used in Bellum rolls.",
+  "evidence": [
+   "magic-apprentices::0211",
+   "magic-apprentices::0213"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability to maintain spells; used in Bellum.",
+  "evidence": [
+   "magic-apprentices::0212"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "description": "Oath sworn to become a member of the Order; prerequisite for Parma Magica's final key.",
+  "evidence": [
+   "magic-apprentices::0212",
+   "magic-apprentices::0217",
+   "magic-apprentices::0225"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "description": "Order-wide Tribunal; at the Grand Tribunal of 1162 a Bellum game turned into a riot.",
+  "evidence": [
+   "magic-apprentices::0213"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [
+   "redcaps"
+  ],
+  "description": "Messengers of House Mercere.",
+  "evidence": [
+   "magic-apprentices::0214",
+   "magic-apprentices::0215",
+   "magic-apprentices::0231"
+  ]
+ },
+ {
+  "name": "Suppressed Gift",
+  "type": "Flaw",
+  "description": "Major Hermetic Flaw where the Gift is suppressed but Supernatural Virtues still usable.",
+  "evidence": [
+   "magic-apprentices::0219",
+   "magic-apprentices::0220"
+  ]
+ },
+ {
+  "name": "Amazon",
+  "type": "Faction",
+  "description": "Amazon sorceresses, whose tussling could cost an apprentice the Gift.",
+  "evidence": [
+   "magic-apprentices::0219"
+  ]
+ },
+ {
+  "name": "Blind",
+  "type": "Flaw",
+  "description": "Flaw cited as an example chosen to define a character.",
+  "evidence": [
+   "magic-apprentices::0220"
+  ]
+ },
+ {
+  "name": "Missing Hand",
+  "type": "Flaw",
+  "description": "Flaw cited as an example.",
+  "evidence": [
+   "magic-apprentices::0220"
+  ]
+ },
+ {
+  "name": "Tainted with Evil",
+  "type": "Flaw",
+  "description": "Flaw cited as an example.",
+  "evidence": [
+   "magic-apprentices::0220"
+  ]
+ },
+ {
+  "name": "House Quaesitor",
+  "type": "House",
+  "aliases": [
+   "Quaesitor"
+  ],
+  "description": "Magi who step in after three failed Gauntlets; Quaesitors can be notified of abuse.",
+  "evidence": [
+   "magic-apprentices::0221"
+  ]
+ },
+ {
+  "name": "Fenistal",
+  "type": "Covenant",
+  "description": "Mock covenant in the Rhine Tribunal run by the Exsules, accepting abandoned apprentices.",
+  "evidence": [
+   "magic-apprentices::0218"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal containing Fenistal, with rules of hospitality for young magi.",
+  "evidence": [
+   "magic-apprentices::0218",
+   "magic-apprentices::0227"
+  ]
+ },
+ {
+  "name": "Exsules",
+  "type": "Faction",
+  "description": "Hermetic offshoots running Fenistal who accept Gifted abandoned apprentices.",
+  "evidence": [
+   "magic-apprentices::0218"
+  ]
+ },
+ {
+  "name": "Riddle of the Magus",
+  "type": "Concept",
+  "description": "Personal enigmatic puzzle given to Criamon apprentices marking them as magi.",
+  "evidence": [
+   "magic-apprentices::0229",
+   "magic-apprentices::0230"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "description": "Legal-minded House whose apprentices take a written exam and mock investigation.",
+  "evidence": [
+   "magic-apprentices::0230",
+   "magic-apprentices::0231"
+  ]
+ },
+ {
+  "name": "Grand Tour",
+  "type": "Concept",
+  "description": "Jerbiton pre-Gauntlet visit to a large city to view artifacts.",
+  "evidence": [
+   "magic-apprentices::0231"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "description": "House of Redcaps; Gauntlet involves carrying a message.",
+  "evidence": [
+   "magic-apprentices::0231"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "description": "House whose apprentices face their master in certamen and present a birch branch.",
+  "evidence": [
+   "magic-apprentices::0232"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Formalized magical duel used in Tremere Gauntlets.",
+  "evidence": [
+   "magic-apprentices::0232"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "description": "A magus' magical signature, symbolized by the birch branch in Tremere Gauntlets.",
+  "evidence": [
+   "magic-apprentices::0232"
+  ]
+ },
+ {
+  "name": "Apprentice Piece",
+  "type": "Item",
+  "description": "Completed item a Verditius apprentice must forge for his Gauntlet.",
+  "evidence": [
+   "magic-apprentices::0233"
+  ]
+ },
+ {
+  "name": "Laboratory Text",
+  "type": "Item",
+  "description": "Text Bonisagus apprentices must deliver before their Gauntlet.",
+  "evidence": [
+   "magic-apprentices::0229"
+  ]
+ },
+ {
+  "name": "Scholae Magicae",
+  "type": "Concept",
+  "aliases": [
+   "school of magic"
+  ],
+  "description": "Schools of magic for training apprentices, mostly failed attempts since the 10th century.",
+  "evidence": [
+   "magic-apprentices::0234",
+   "magic-apprentices::0235",
+   "magic-apprentices::0236"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Hermetic war after which a covenant tried to form a Gifted academy.",
+  "evidence": [
+   "magic-apprentices::0235"
+  ]
+ },
+ {
+  "name": "Polyaigos",
+  "type": "Covenant",
+  "description": "Island covenant in the Theban Tribunal running a school for Gifted children.",
+  "evidence": [
+   "magic-apprentices::0237"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal whose treatment of apprentices allows Polyaigos' school.",
+  "evidence": [
+   "magic-apprentices::0237"
+  ]
+ },
+ {
+  "name": "Scholomance",
+  "type": "Covenant",
+  "description": "Mysterious school in the Transylvanian Tribunal teaching 10 students, only one Gifted.",
+  "evidence": [
+   "magic-apprentices::0237"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Transylvania Tribunal"
+  ],
+  "description": "Tribunal containing the Scholomance.",
+  "evidence": [
+   "magic-apprentices::0237"
+  ]
+ },
+ {
+  "name": "Monastery",
+  "type": "Place",
+  "description": "Religious house; the Inheritance seed's monastery has Divine aura 4.",
+  "evidence": [
+   "magic-apprentices::0135",
+   "magic-apprentices::0136"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [
+   "Cr"
+  ],
+  "description": "Hermetic Technique; abbreviated Cr in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [
+   "In"
+  ],
+  "description": "Hermetic Technique; abbreviated In in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0120",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [
+   "Mu"
+  ],
+  "description": "Hermetic Technique; abbreviated Mu in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [
+   "Pe"
+  ],
+  "description": "Hermetic Technique; abbreviated Pe in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [
+   "Re"
+  ],
+  "description": "Hermetic Technique; abbreviated Re in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [
+   "An"
+  ],
+  "description": "Hermetic Form; abbreviated An in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [
+   "Aq"
+  ],
+  "description": "Hermetic Form; abbreviated Aq in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [
+   "Au"
+  ],
+  "description": "Hermetic Form; abbreviated Au in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Co"
+  ],
+  "description": "Hermetic Form; abbreviated Co in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [
+   "He"
+  ],
+  "description": "Hermetic Form; abbreviated He in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [
+   "Ig"
+  ],
+  "description": "Hermetic Form; abbreviated Ig in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [
+   "Im"
+  ],
+  "description": "Hermetic Form; abbreviated Im in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [
+   "Me"
+  ],
+  "description": "Hermetic Form; abbreviated Me in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [
+   "Te"
+  ],
+  "description": "Hermetic Form; abbreviated Te in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0137",
+   "magic-apprentices::0138"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [
+   "Vi"
+  ],
+  "description": "Hermetic Form; abbreviated Vi in spell guidelines and apprentice statistics.",
+  "evidence": [
+   "magic-apprentices::0120",
+   "magic-apprentices::0138"
+  ]
+ }
+]

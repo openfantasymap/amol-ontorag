@@ -1,0 +1,2550 @@
+[
+ {
+  "name": "The Path To Lemnos",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Mu(In)Me 30 Mystery spell: the magus touches a dreaming sleeper and his own spirit enters the target dream while his body lies in trance.",
+  "evidence": [
+   "the-mysteries-revised::0480"
+  ]
+ },
+ {
+  "name": "The Road To Lemnos",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Mu(In)Me 40 Mystery spell that brings the spirits of a touched group of travelers into a sleeper's dream, their bodies lying in trance.",
+  "evidence": [
+   "the-mysteries-revised::0481"
+  ]
+ },
+ {
+  "name": "The Lucid Dreamer",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Dream magic spell referenced as allowing the magus himself to be the dreamer targeted by dream-entry spells.",
+  "evidence": [
+   "the-mysteries-revised::0481"
+  ]
+ },
+ {
+  "name": "Metrodorus",
+  "type": "Character",
+  "aliases": [],
+  "description": "An elderly dream magus with a raven familiar used in examples; later described as a greater dream mage who physically enters the dream of Somnius.",
+  "evidence": [
+   "the-mysteries-revised::0481",
+   "the-mysteries-revised::0482",
+   "the-mysteries-revised::0496"
+  ]
+ },
+ {
+  "name": "Somnius",
+  "type": "Character",
+  "aliases": [],
+  "description": "A dreamer whose dream Metrodorus and Morphea enter in an example of physical and spiritual dream travel.",
+  "evidence": [
+   "the-mysteries-revised::0496"
+  ]
+ },
+ {
+  "name": "Morphea",
+  "type": "Character",
+  "aliases": [],
+  "description": "A dream maga used in examples who explores dreams, fights a demon and a diabolist dream traveler, and physically enters a dream.",
+  "evidence": [
+   "the-mysteries-revised::0491",
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0502"
+  ]
+ },
+ {
+  "name": "Dream Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Mystery Virtue allowing magi to travel spiritually into dreams and cast dream spells; the first degree of the Volshebnii Mechtateli.",
+  "evidence": [
+   "the-mysteries-revised::0482",
+   "the-mysteries-revised::0487",
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "The Greater Dream Grimoire",
+  "type": "Virtue",
+  "aliases": [
+   "greater dream grimoire"
+  ],
+  "description": "Minor Mystery Virtue requiring Dream Magic that teaches how to enter another's dream physically and extract real items from dream into the waking world.",
+  "evidence": [
+   "the-mysteries-revised::0496",
+   "the-mysteries-revised::0503"
+  ]
+ },
+ {
+  "name": "Dream",
+  "type": "Concept",
+  "aliases": [
+   "dream logic",
+   "dream time"
+  ],
+  "description": "A realm of the sleeper's mind where navigation is associative, time is non-linear, and magic is governed by Imaginem for spiritual travelers.",
+  "evidence": [
+   "the-mysteries-revised::0482",
+   "the-mysteries-revised::0483",
+   "the-mysteries-revised::0489"
+  ]
+ },
+ {
+  "name": "Dream Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vis found or existing within a dream; usable there but unable to sustain objects or effects outside the dream.",
+  "evidence": [
+   "the-mysteries-revised::0480",
+   "the-mysteries-revised::0485",
+   "the-mysteries-revised::0502"
+  ]
+ },
+ {
+  "name": "Spiritual Traveler",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A dream traveler whose spirit enters a dream while the body lies entranced; perceives everything in dream as Imaginem illusion.",
+  "evidence": [
+   "the-mysteries-revised::0480",
+   "the-mysteries-revised::0496",
+   "the-mysteries-revised::0493"
+  ]
+ },
+ {
+  "name": "Physical Traveler",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A traveler who bodily enters a dream as if crossing into a regio, subject to real Fatigue, wounds and time, and able to retrieve hidden objects.",
+  "evidence": [
+   "the-mysteries-revised::0496",
+   "the-mysteries-revised::0498",
+   "the-mysteries-revised::0500"
+  ]
+ },
+ {
+  "name": "Lucid Dreaming",
+  "type": "Concept",
+  "aliases": [
+   "The Dreamer in Control"
+  ],
+  "description": "A dreamer realizing she is dreaming and taking control to reshape the dream, rolled as Intelligence vs Ease Factor 9.",
+  "evidence": [
+   "the-mysteries-revised::0486",
+   "the-mysteries-revised::0487",
+   "the-mysteries-revised::0488"
+  ]
+ },
+ {
+  "name": "Hermetic Dream Interpreter",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue (from Divination and Augury chapter) granting a bonus to a dreamer trying to reshape a dream.",
+  "evidence": [
+   "the-mysteries-revised::0487"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A state into which a magus botching a spell in dream may be thrown; his spirit enters real Twilight measured in real-world time.",
+  "evidence": [
+   "the-mysteries-revised::0490"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping points"
+  ],
+  "description": "Points accumulated by a magus botching a spell, even within a dream.",
+  "evidence": [
+   "the-mysteries-revised::0490"
+  ]
+ },
+ {
+  "name": "Phantasm of the Human Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Imaginem spell Morphea uses in a dream to create solid phantom shield grogs.",
+  "evidence": [
+   "the-mysteries-revised::0492"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Perdo Vim Might-reduction spell; in dream it can drain a spiritual traveler's Imaginem score as if Might.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0494"
+  ]
+ },
+ {
+  "name": "Dreamer's Eternal Oblivion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Level 10 dream variant of Demon's Eternal Oblivion used by a diabolist dream traveler against Morphea.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0494"
+  ]
+ },
+ {
+  "name": "Memory Palace",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Physical palace of memory constructed by those with the Art of Memory, which a dream traveler may enter and explore like a burglar.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0514"
+  ]
+ },
+ {
+  "name": "Art of Memory",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue enabling a person to construct a memory palace that dream travelers may enter.",
+  "evidence": [
+   "the-mysteries-revised::0514"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [
+   "Parma"
+  ],
+  "description": "Hermetic protective ability contributing to Magic Resistance, used in Morphea's dream combat example.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0494"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance against spells; spiritual travelers resist dream reshaping and attacks with it, calculated with Form, Parma and aura.",
+  "evidence": [
+   "the-mysteries-revised::0488",
+   "the-mysteries-revised::0494"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to overcome Magic Resistance in the dream combat example.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0494"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [
+   "Magical aura"
+  ],
+  "description": "Supernatural aura; a dreamer's memory palace had a level 2 Magical aura, and dream-location auras are determined by the dream environment.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0501"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Hidden supernatural area; physical dream travel is like crossing into a regio, and Neo-Mercurian groves are often confined to regiones.",
+  "evidence": [
+   "the-mysteries-revised::0496",
+   "the-mysteries-revised::0540",
+   "the-mysteries-revised::0541"
+  ]
+ },
+ {
+  "name": "Substance Over Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Cr(Mu)Te(Me) 20 Mystery Ritual cast by a physical traveler in a dream with real-world vis, making a dream object real so it can leave the dream.",
+  "evidence": [
+   "the-mysteries-revised::0505"
+  ]
+ },
+ {
+  "name": "The Morphean Gate",
+  "type": "Spell",
+  "aliases": [
+   "Morphean Gate"
+  ],
+  "description": "Re(Mu)Co(Me) 40 Mystery spell transporting the caster bodily through a portal into a dream, creating a dream portal back to the real world.",
+  "evidence": [
+   "the-mysteries-revised::0506"
+  ]
+ },
+ {
+  "name": "The Oneiropomp's Treasure",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrIm 30 Mystery Ritual used by a spiritual traveler with real-world vis to give real substance to a small dream object, which appears by his body.",
+  "evidence": [
+   "the-mysteries-revised::0509",
+   "the-mysteries-revised::0510"
+  ]
+ },
+ {
+  "name": "Gift of the Oneiropomp",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Re(Mu)Te(Me) 15 Mystery spell sending a non-magical stone or metal object through a portal into a dream.",
+  "evidence": [
+   "the-mysteries-revised::0511"
+  ]
+ },
+ {
+  "name": "Dream Portal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Portal within dreams, created by physical travelers or occurring naturally, leading to memory, imagination, the dreamscape, or back to the real world.",
+  "evidence": [
+   "the-mysteries-revised::0506",
+   "the-mysteries-revised::0512",
+   "the-mysteries-revised::0515"
+  ]
+ },
+ {
+  "name": "The Mind's Imagination",
+  "type": "Place",
+  "aliases": [
+   "Imagination"
+  ],
+  "description": "Land within the mind reachable from dream that persists into waking; possessing spirits may reside there.",
+  "evidence": [
+   "the-mysteries-revised::0512",
+   "the-mysteries-revised::0513"
+  ]
+ },
+ {
+  "name": "The Mind's Memory",
+  "type": "Place",
+  "aliases": [
+   "Memory"
+  ],
+  "description": "Region of a person's mind containing all memories, reachable by dream travelers, where memories can be moved or made solid.",
+  "evidence": [
+   "the-mysteries-revised::0514"
+  ]
+ },
+ {
+  "name": "The Dreamscape",
+  "type": "Place",
+  "aliases": [
+   "dreamland"
+  ],
+  "description": "Rumored shared dreamland beyond and between dreams where spiritual travelers meet; no direct path back to the waking world.",
+  "evidence": [
+   "the-mysteries-revised::0515",
+   "the-mysteries-revised::0516",
+   "the-mysteries-revised::0517"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Faerie realm; travel by dream logic resembles travel in Arcadia.",
+  "evidence": [
+   "the-mysteries-revised::0483"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Faerie, whose tales inform dream travel ideas; faeries may pass through dream portals and possess people.",
+  "evidence": [
+   "the-mysteries-revised::0483",
+   "the-mysteries-revised::0512",
+   "the-mysteries-revised::0513"
+  ]
+ },
+ {
+  "name": "Volshebnii Mechtateli",
+  "type": "Faction",
+  "aliases": [
+   "dream witches",
+   "Magical Dreamers"
+  ],
+  "description": "Mystery cult of dream magi founded on Raisa's dream magic ('Magical Dreamers' in Russian), feared as dream witches, meeting in the lands of dream.",
+  "evidence": [
+   "the-mysteries-revised::0518",
+   "the-mysteries-revised::0521",
+   "the-mysteries-revised::0525"
+  ]
+ },
+ {
+  "name": "Raisa of Ex Miscellanea",
+  "type": "Character",
+  "aliases": [
+   "Raisa"
+  ],
+  "description": "Maga of the Novgorod Tribunal and dream theorist who founded the Volshebnii Mechtateli tradition after learning Baltic dream magic and pulling real items from dreams.",
+  "evidence": [
+   "the-mysteries-revised::0519",
+   "the-mysteries-revised::0520",
+   "the-mysteries-revised::0521"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Hermetic House to which Raisa, founder of the Volshebnii Mechtateli, belonged.",
+  "evidence": [
+   "the-mysteries-revised::0519"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Novgorod"
+  ],
+  "description": "Northern Tribunal where Raisa grew up and passed her Gauntlet.",
+  "evidence": [
+   "the-mysteries-revised::0519",
+   "the-mysteries-revised::0520"
+  ]
+ },
+ {
+  "name": "Baltic",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region with a small village whose locals practiced dream magics unknown to the Order, inspiring Raisa.",
+  "evidence": [
+   "the-mysteries-revised::0519",
+   "the-mysteries-revised::0520"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Test ending apprenticeship; Raisa's Gauntlet was held before the whole Tribunal.",
+  "evidence": [
+   "the-mysteries-revised::0519",
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "Innate magical talent; strong in Raisa, and required by Children of Hermes for salvation.",
+  "evidence": [
+   "the-mysteries-revised::0519",
+   "the-mysteries-revised::0581"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Well-known Order ritual incorporating Mercurian elements; the Tribunal's Aegis is mentioned in Raisa's Gauntlet.",
+  "evidence": [
+   "the-mysteries-revised::0519",
+   "the-mysteries-revised::0528"
+  ]
+ },
+ {
+  "name": "Faerie Drake",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Potent faerie drake that slumbered in the forest and attacked Raisa's covenant; defeatable only by tears of a rhinoceros.",
+  "evidence": [
+   "the-mysteries-revised::0520"
+  ]
+ },
+ {
+  "name": "Tears of a Rhinoceros",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rare item that Raisa retrieved from dreams to defeat the faerie drake attacking her covenant.",
+  "evidence": [
+   "the-mysteries-revised::0520"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Messengers of the Order bringing news to covenants and carrying vis dues for the Children of Hermes.",
+  "evidence": [
+   "the-mysteries-revised::0520",
+   "the-mysteries-revised::0585"
+  ]
+ },
+ {
+  "name": "Eremite",
+  "type": "CharacterType",
+  "aliases": [
+   "eremites"
+  ],
+  "description": "Magus who lives entirely on his own apart from covenants.",
+  "evidence": [
+   "the-mysteries-revised::0522"
+  ]
+ },
+ {
+  "name": "Vermilion Temple of Wistful Sighs",
+  "type": "Place",
+  "aliases": [
+   "Vermilion Temple"
+  ],
+  "description": "Sacred dream place of the Volshebnii Mechtateli, made of emeralds floating above lemon clouds over an azure sea; said to be the dream of an Eternal Sleeper.",
+  "evidence": [
+   "the-mysteries-revised::0522",
+   "the-mysteries-revised::0524",
+   "the-mysteries-revised::0527"
+  ]
+ },
+ {
+  "name": "The Slumbering",
+  "type": "Place",
+  "aliases": [
+   "Outer Chambers of the Courtyard"
+  ],
+  "description": "The Outer Chambers of the Courtyard of the Vermilion Temple, into which Initiates may invite guests.",
+  "evidence": [
+   "the-mysteries-revised::0523"
+  ]
+ },
+ {
+  "name": "The Sanctuary of Lost Dreams",
+  "type": "Place",
+  "aliases": [],
+  "description": "The innermost chambers of the Vermilion Temple, entered by the Monarchs of the Veiled Court.",
+  "evidence": [
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "Eternal Sleeper",
+  "type": "Character",
+  "aliases": [
+   "Eternal Dreamer"
+  ],
+  "description": "Mysterious being in whose mind the Vermilion Temple is said to be a dream; rumored to be an old one, the sleeping king, or Tytalus.",
+  "evidence": [
+   "the-mysteries-revised::0524"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Tytalus the Founder"
+  ],
+  "description": "Founder of House Tytalus, rumored to be the Eternal Dreamer, ensorcelled in enchanted sleep.",
+  "evidence": [
+   "the-mysteries-revised::0524"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant whose archives hold many forbidden dream magic texts; rumored home of the Blessed One.",
+  "evidence": [
+   "the-mysteries-revised::0523",
+   "the-mysteries-revised::0524",
+   "the-mysteries-revised::0584"
+  ]
+ },
+ {
+  "name": "March",
+  "type": "Concept",
+  "aliases": [
+   "Marched",
+   "Wizard's March"
+  ],
+  "description": "Hermetic sentence of death; Volshebnii Mechtateli members and Children of Hermes followers were Marched.",
+  "evidence": [
+   "the-mysteries-revised::0523",
+   "the-mysteries-revised::0525",
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "Sharp Awakening",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The cult's name for the period of Marches in which all known dream magi of the Volshebnii Mechtateli were killed.",
+  "evidence": [
+   "the-mysteries-revised::0525"
+  ]
+ },
+ {
+  "name": "Agnes of Tremere",
+  "type": "Character",
+  "aliases": [
+   "Agnes"
+  ],
+  "description": "Young maga from Loch Leglean who refounded the Volshebnii Mechtateli as a Mystery with the motto 'In Dreams Begin Responsibilities.'",
+  "evidence": [
+   "the-mysteries-revised::0525",
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "Loch Leglean",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal from which Agnes of Tremere came.",
+  "evidence": [
+   "the-mysteries-revised::0525"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House of Agnes; Children of Hermes claim its Sundering was less effective than believed.",
+  "evidence": [
+   "the-mysteries-revised::0525",
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "Lords of the Passions",
+  "type": "CharacterType",
+  "aliases": [
+   "Lords and Ladies of The Passions"
+  ],
+  "description": "First degree of the Volshebnii Mechtateli, those who know the Minor Virtue Dream Magic.",
+  "evidence": [
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "Monarchs of the Veiled Court",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Second degree of the Volshebnii Mechtateli who maintain the dream of the Vermilion Temple and may enter its innermost chambers.",
+  "evidence": [
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "Death of A Thousand Nightmares",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Penalty for intruders into the Vermilion Temple: nightly death by one's personal nightmare for a thousand nights.",
+  "evidence": [
+   "the-mysteries-revised::0523",
+   "the-mysteries-revised::0527"
+  ]
+ },
+ {
+  "name": "Potent Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue an Initiate of the Volshebnii Mechtateli may persuade an elder to teach (dream).",
+  "evidence": [
+   "the-mysteries-revised::0527"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue (dream) that Volshebnii Mechtateli Initiates may learn.",
+  "evidence": [
+   "the-mysteries-revised::0527"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of images; governs all spells in dream for spiritual travelers and is the aptitude of dream cult Initiates.",
+  "evidence": [
+   "the-mysteries-revised::0489",
+   "the-mysteries-revised::0496",
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of minds; aptitude required for Volshebnii Mechtateli Initiation and used in dream spells.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0520",
+   "the-mysteries-revised::0526"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of bodies; physical travelers resist and perceive magic in proper Forms like Corpus.",
+  "evidence": [
+   "the-mysteries-revised::0497",
+   "the-mysteries-revised::0505"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique of destruction used in Morphea's dream combat example.",
+  "evidence": [
+   "the-mysteries-revised::0493"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique of creation; Creo guidelines give dream objects substance.",
+  "evidence": [
+   "the-mysteries-revised::0504",
+   "the-mysteries-revised::0507"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique of transformation, a requisite for dream-substance and dream-entry spells.",
+  "evidence": [
+   "the-mysteries-revised::0497",
+   "the-mysteries-revised::0504",
+   "the-mysteries-revised::0505"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique of control; Rego Corpus sends bodies into dreams.",
+  "evidence": [
+   "the-mysteries-revised::0497",
+   "the-mysteries-revised::0505"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique of perception used in Key to the Mystic Veil.",
+  "evidence": [
+   "the-mysteries-revised::0541"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of magic, requisite for enchanted dream objects; Neo-Mercurians research Vim magics for ritual.",
+  "evidence": [
+   "the-mysteries-revised::0493",
+   "the-mysteries-revised::0504",
+   "the-mysteries-revised::0531"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of earth and stone; Rego Terram sends objects into dreams.",
+  "evidence": [
+   "the-mysteries-revised::0505",
+   "the-mysteries-revised::0509",
+   "the-mysteries-revised::0542"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of plants, used for sending plants into dreams and for wood in Hiding the Mystic Key.",
+  "evidence": [
+   "the-mysteries-revised::0505",
+   "the-mysteries-revised::0510",
+   "the-mysteries-revised::0542"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of animals; similar dream-entry spells exist for Animal.",
+  "evidence": [
+   "the-mysteries-revised::0505",
+   "the-mysteries-revised::0513"
+  ]
+ },
+ {
+  "name": "Mercurian Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue (ArM5 p.45) that is the root of the Mercurian tradition; required of all Neo-Mercurian Initiates and prerequisite for Road Magic.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0536",
+   "the-mysteries-revised::0538"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient Roman cult from which the Order was born; also a modern exoteric pagan group founded by Priamitus, mainly of Flambeau and Mercere magi.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0530",
+   "the-mysteries-revised::0531"
+  ]
+ },
+ {
+  "name": "Neo-Mercurians",
+  "type": "Faction",
+  "aliases": [
+   "Neo-Mercurian Cult"
+  ],
+  "description": "Mystery cult seeking to reconstruct authentic Mercurian magic within Hermetic theory, restoring ancient temples.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0531",
+   "the-mysteries-revised::0533"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "Order"
+  ],
+  "description": "The Hermetic Order of magi, born out of the memory of the Roman Cult of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0551"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder whose magical system and theory incorporated fragments of non-Hermetic magic; claimed by the Fraternity of Samos to be a Pythagorean.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0532",
+   "the-mysteries-revised::0592"
+  ]
+ },
+ {
+  "name": "Founders",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The founders of the Order of Hermes who ended the anarchy of the Dark Ages.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0531"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Well-known ritual incorporating Mercurian elements; rumored to be used in rites lending power to the Blessed One.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0586"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "Hermetic House with groups drawing upon Mercurian heritage; some members belong to the Cult of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0528",
+   "the-mysteries-revised::0529"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House whose members make up much of the Cult of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0529"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House with members interested in Mercurian magic; rumored center of a conspiracy at Duresca.",
+  "evidence": [
+   "the-mysteries-revised::0529",
+   "the-mysteries-revised::0556",
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "Priamitus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Apprentice of Mercere who founded the modern Cult of Mercury as a priest recreating the ancient priesthood.",
+  "evidence": [
+   "the-mysteries-revised::0530",
+   "the-mysteries-revised::0532"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Mercere, seen by Cult of Mercury members as Mercury reborn.",
+  "evidence": [
+   "the-mysteries-revised::0530"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman deity of trade, travelers, roads and thieves, patron of the Mercurian tradition; known as Hermes to the Greeks.",
+  "evidence": [
+   "the-mysteries-revised::0533",
+   "the-mysteries-revised::0534",
+   "the-mysteries-revised::0530"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic realm"
+  ],
+  "description": "Realm of Power through which cultists believe they ascend to join Mercere.",
+  "evidence": [
+   "the-mysteries-revised::0530"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine's encroaching influence confining Neo-Mercurian groves to regiones.",
+  "evidence": [
+   "the-mysteries-revised::0540"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of demons; Simon Magus was held not to be allied to the Infernal realm.",
+  "evidence": [
+   "the-mysteries-revised::0570"
+  ]
+ },
+ {
+  "name": "Rome Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Rome"
+  ],
+  "description": "Tribunal where the Neo-Mercurians often recruit from the Cult of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0531"
+  ]
+ },
+ {
+  "name": "Provencal Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Provencal"
+  ],
+  "description": "Tribunal where Neo-Mercurians recruit from the Cult of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0531"
+  ]
+ },
+ {
+  "name": "Levant Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Levant"
+  ],
+  "description": "Tribunal where Neo-Mercurians recruit from the Cult of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0531"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Thebes"
+  ],
+  "description": "Tribunal where Neo-Mercurians recruit from the Cult of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0531"
+  ]
+ },
+ {
+  "name": "Wotan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Believed by Neo-Mercurians to be the Germanic form of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0533"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Believed by Neo-Mercurians to be the Norse form of Mercury.",
+  "evidence": [
+   "the-mysteries-revised::0533"
+  ]
+ },
+ {
+  "name": "Lugh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Celtic form of Mercury according to Neo-Mercurians.",
+  "evidence": [
+   "the-mysteries-revised::0533"
+  ]
+ },
+ {
+  "name": "Hermes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek form of Mercury; the Blessed One of the Children of Hermes claims to be him reborn.",
+  "evidence": [
+   "the-mysteries-revised::0533",
+   "the-mysteries-revised::0534",
+   "the-mysteries-revised::0535"
+  ]
+ },
+ {
+  "name": "Thoth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Egyptian deity whose temples are the preferred place for Mercurian rites in Egypt.",
+  "evidence": [
+   "the-mysteries-revised::0533"
+  ]
+ },
+ {
+  "name": "Messengers of Mercury",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "UnGifted servants of the Neo-Mercurians who run messages and help restore lost temples.",
+  "evidence": [
+   "the-mysteries-revised::0533"
+  ]
+ },
+ {
+  "name": "The Congregation",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Rank-and-file Neo-Mercurian Initiates who recover lost secrets of ancient temples and serve the Priests.",
+  "evidence": [
+   "the-mysteries-revised::0533"
+  ]
+ },
+ {
+  "name": "Priests of Mercury",
+  "type": "CharacterType",
+  "aliases": [
+   "The Priests"
+  ],
+  "description": "Neo-Mercurian rank; one Priest cares for each temple and organizes the Mercuralia rites.",
+  "evidence": [
+   "the-mysteries-revised::0533",
+   "the-mysteries-revised::0534",
+   "the-mysteries-revised::0536"
+  ]
+ },
+ {
+  "name": "Mercuralia",
+  "type": "Concept",
+  "aliases": [
+   "Festival of Mercuralia"
+  ],
+  "description": "Festival of Mercury on May 15th, when the Priest sprinkles enchanted water on the Congregation's hands.",
+  "evidence": [
+   "the-mysteries-revised::0533",
+   "the-mysteries-revised::0534"
+  ]
+ },
+ {
+  "name": "Caduceus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Symbol of Mercury/Hermes: a winged staff with entwined serpents.",
+  "evidence": [
+   "the-mysteries-revised::0534"
+  ]
+ },
+ {
+  "name": "Cult of Heroes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Small non-Mystery group within the Cult of Mercury believing ancient heroes can be born again.",
+  "evidence": [
+   "the-mysteries-revised::0535"
+  ]
+ },
+ {
+  "name": "Heracles",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary hero the Cult of Heroes believes descended from the gods and can be reborn.",
+  "evidence": [
+   "the-mysteries-revised::0535"
+  ]
+ },
+ {
+  "name": "Arthur",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary hero named by the Cult of Heroes.",
+  "evidence": [
+   "the-mysteries-revised::0535"
+  ]
+ },
+ {
+  "name": "Beowulf",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary hero named by the Cult of Heroes.",
+  "evidence": [
+   "the-mysteries-revised::0535"
+  ]
+ },
+ {
+  "name": "Gilgamesh",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary hero named by the Cult of Heroes.",
+  "evidence": [
+   "the-mysteries-revised::0535"
+  ]
+ },
+ {
+  "name": "Children of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "The Children"
+  ],
+  "description": "Messianic mystery cult led by Hermes the Blessed One, who claims apotheosis; proselytizing and obsessed with conspiracies in the Order.",
+  "evidence": [
+   "the-mysteries-revised::0535",
+   "the-mysteries-revised::0578",
+   "the-mysteries-revised::0585"
+  ]
+ },
+ {
+  "name": "Performance Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue Initiated by the Neo-Mercurians for use during cult ceremonies.",
+  "evidence": [
+   "the-mysteries-revised::0535",
+   "the-mysteries-revised::0536"
+  ]
+ },
+ {
+  "name": "Neo-Mercurian Magic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization Lore ability of the Neo-Mercurians used with Performance Magic.",
+  "evidence": [
+   "the-mysteries-revised::0535"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue Initiated by the Neo-Mercurians to call pagan gods; the school of theurgy is taught by the Philosophers of Rome.",
+  "evidence": [
+   "the-mysteries-revised::0536",
+   "the-mysteries-revised::0577"
+  ]
+ },
+ {
+  "name": "Divination and Augury",
+  "type": "Virtue",
+  "aliases": [
+   "Augury and Divination"
+  ],
+  "description": "Divinatory Virtue sought by Neo-Mercurians and taught by Children of Hermes scripts via ophiomancy.",
+  "evidence": [
+   "the-mysteries-revised::0536",
+   "the-mysteries-revised::0588"
+  ]
+ },
+ {
+  "name": "Alectryomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roman divination by throwing grain to a hen in a circle.",
+  "evidence": [
+   "the-mysteries-revised::0536"
+  ]
+ },
+ {
+  "name": "Ophiomancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divination from the movements of sacred snakes in a grove.",
+  "evidence": [
+   "the-mysteries-revised::0588"
+  ]
+ },
+ {
+  "name": "Withstand Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue Initiated by Neo-Mercurians to bear the cost of Ritual spells.",
+  "evidence": [
+   "the-mysteries-revised::0536"
+  ]
+ },
+ {
+  "name": "Hermetic Sacrifice",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Mystery Virtue allowing sacrifices on pagan altars to substitute for 1-6 pawns of vis in Ritual summoning.",
+  "evidence": [
+   "the-mysteries-revised::0536",
+   "the-mysteries-revised::0546"
+  ]
+ },
+ {
+  "name": "Road Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Neo-Mercurian extension of Mercurian Magic adding Road and Road Network Ranges and Targets; learnable in a season or Initiated as a Minor Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0536",
+   "the-mysteries-revised::0537",
+   "the-mysteries-revised::0538"
+  ]
+ },
+ {
+  "name": "Road (Range)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Range reaching anyone on the same road or path as the caster; equivalent to Voice.",
+  "evidence": [
+   "the-mysteries-revised::0538"
+  ]
+ },
+ {
+  "name": "Road Network (Range)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Range reaching anyone on connected roads; equivalent to Arcane Connection, requires ritual magic.",
+  "evidence": [
+   "the-mysteries-revised::0538",
+   "the-mysteries-revised::0539"
+  ]
+ },
+ {
+  "name": "Road (Target)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Target covering a road up to 100 paces long; equivalent to Room.",
+  "evidence": [
+   "the-mysteries-revised::0539"
+  ]
+ },
+ {
+  "name": "Road Network (Target)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Target covering a road network 10,000 paces long; equivalent to Boundary, requires ritual magic.",
+  "evidence": [
+   "the-mysteries-revised::0539"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue (ArM5 p.92) whose definition of a Road is used for Road Magic.",
+  "evidence": [
+   "the-mysteries-revised::0538"
+  ]
+ },
+ {
+  "name": "Spontaneous Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic cast without formula; Neo-Mercurians cannot teach Road Magic for it.",
+  "evidence": [
+   "the-mysteries-revised::0538"
+  ]
+ },
+ {
+  "name": "Ritual Magic",
+  "type": "Concept",
+  "aliases": [
+   "Ritual spells"
+  ],
+  "description": "Ritual spells requiring vis and ceremonial casting; Mercurians excel at it.",
+  "evidence": [
+   "the-mysteries-revised::0538",
+   "the-mysteries-revised::0542",
+   "the-mysteries-revised::0546"
+  ]
+ },
+ {
+  "name": "Key to the Mystic Veil",
+  "type": "Item",
+  "aliases": [],
+  "description": "InVi 30 enchantment in a key embedded in a grove feature granting sight across a regio boundary to cultists.",
+  "evidence": [
+   "the-mysteries-revised::0541",
+   "the-mysteries-revised::0542"
+  ]
+ },
+ {
+  "name": "Hiding the Mystic Key",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuTe(He) 15 spell softening stone or wood to hide a small item such as a Key to the Mystic Veil.",
+  "evidence": [
+   "the-mysteries-revised::0542"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to master spells; Mercurians developed special Mastery abilities.",
+  "evidence": [
+   "the-mysteries-revised::0542",
+   "the-mysteries-revised::0536"
+  ]
+ },
+ {
+  "name": "Adaptive Casting",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery special ability for General spells letting mastery apply at different levels.",
+  "evidence": [
+   "the-mysteries-revised::0543"
+  ]
+ },
+ {
+  "name": "Ceremonial Casting",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery ability adding Artes Liberales and Philosophiae to casting via ceremony.",
+  "evidence": [
+   "the-mysteries-revised::0543"
+  ]
+ },
+ {
+  "name": "Disguised Casting",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery ability to suppress or alter one's sigil when casting.",
+  "evidence": [
+   "the-mysteries-revised::0543",
+   "the-mysteries-revised::0544"
+  ]
+ },
+ {
+  "name": "Lab Mastery",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery ability adding mastery score to Lab Total for similar spells.",
+  "evidence": [
+   "the-mysteries-revised::0544"
+  ]
+ },
+ {
+  "name": "Learn From Mistakes",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery ability granting experience when botching or narrowly failing the spell.",
+  "evidence": [
+   "the-mysteries-revised::0544"
+  ]
+ },
+ {
+  "name": "Stalwart Casting",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mastery ability making the spell less fatiguing.",
+  "evidence": [
+   "the-mysteries-revised::0544",
+   "the-mysteries-revised::0545"
+  ]
+ },
+ {
+  "name": "True Lineages",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Houses of the True Lineages whose magi usually share Mastery abilities only with apprentices.",
+  "evidence": [
+   "the-mysteries-revised::0543"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A magus's distinctive magical signature, alterable with Disguised Casting.",
+  "evidence": [
+   "the-mysteries-revised::0544"
+  ]
+ },
+ {
+  "name": "True Names",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic forcing a spirit, which spoils sacrificial relationships.",
+  "evidence": [
+   "the-mysteries-revised::0546"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [
+   "Mystery Cults"
+  ],
+  "description": "Secret Hermetic organization teaching Mystery Virtues via Initiation; example cults in Chapter 14.",
+  "evidence": [
+   "the-mysteries-revised::0547",
+   "the-mysteries-revised::0548",
+   "the-mysteries-revised::0549"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Scripted Quests, Ordeals and Sacrifices used by a Mystagogue to Initiate a Virtue.",
+  "evidence": [
+   "the-mysteries-revised::0549",
+   "the-mysteries-revised::0564",
+   "the-mysteries-revised::0575"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Cult member who performs Initiations.",
+  "evidence": [
+   "the-mysteries-revised::0549",
+   "the-mysteries-revised::0564",
+   "the-mysteries-revised::0574"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to hear rumors of a Mystery Cult (Ease Factor 15).",
+  "evidence": [
+   "the-mysteries-revised::0547"
+  ]
+ },
+ {
+  "name": "Green Cockerel",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Mystery Cult covered in the Hermetic Alchemy chapter.",
+  "evidence": [
+   "the-mysteries-revised::0547"
+  ]
+ },
+ {
+  "name": "Legion of Mithras",
+  "type": "Faction",
+  "aliases": [
+   "the Legion"
+  ],
+  "description": "Public Esoteric Mystery cult of loyal Order defenders, many Hoplites, reviving Mithraic rites justified by foreshadowing.",
+  "evidence": [
+   "the-mysteries-revised::0550",
+   "the-mysteries-revised::0551",
+   "the-mysteries-revised::0554"
+  ]
+ },
+ {
+  "name": "Mithras",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pagan redeemer deity whose mysteries, celebrated on December 25th, the Legion revives.",
+  "evidence": [
+   "the-mysteries-revised::0551",
+   "the-mysteries-revised::0561"
+  ]
+ },
+ {
+  "name": "Cult of Mithras",
+  "type": "Faction",
+  "aliases": [
+   "Mithraism"
+  ],
+  "description": "Ancient pagan Mithraic cult favored by Roman soldiers.",
+  "evidence": [
+   "the-mysteries-revised::0551",
+   "the-mysteries-revised::0553",
+   "the-mysteries-revised::0563"
+  ]
+ },
+ {
+  "name": "Doctrine of Foreshadowing",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Doctrine justifying pagan mysteries as presaging Christianity.",
+  "evidence": [
+   "the-mysteries-revised::0551",
+   "the-mysteries-revised::0552"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magi serving the Quaesitores to March renegades and protect Quaesitors; founders of the Legion of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0552",
+   "the-mysteries-revised::0556"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores"
+  ],
+  "description": "Hermetic investigators and judges who protect the Code.",
+  "evidence": [
+   "the-mysteries-revised::0552",
+   "the-mysteries-revised::0556",
+   "the-mysteries-revised::0580"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Order's law, protected by the Quaesitores.",
+  "evidence": [
+   "the-mysteries-revised::0552",
+   "the-mysteries-revised::0555"
+  ]
+ },
+ {
+  "name": "Joachim of Jerbiton",
+  "type": "Character",
+  "aliases": [],
+  "description": "Early Legion theorist who formulated the doctrine of foreshadowing and found an Initiatory manual of Christianized Mithras rites.",
+  "evidence": [
+   "the-mysteries-revised::0552",
+   "the-mysteries-revised::0553"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House of Joachim; very popular with the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0552",
+   "the-mysteries-revised::0592",
+   "the-mysteries-revised::0593"
+  ]
+ },
+ {
+  "name": "Great Temple",
+  "type": "Place",
+  "aliases": [],
+  "description": "Secret temple of the Legion of Mithras, legendarily in a cavern in the Greater Alps, holding its Initiatory manual.",
+  "evidence": [
+   "the-mysteries-revised::0553",
+   "the-mysteries-revised::0557",
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Greater Alps"
+  ],
+  "description": "Tribunal where legend places the Legion's Great Temple.",
+  "evidence": [
+   "the-mysteries-revised::0557"
+  ]
+ },
+ {
+  "name": "Father of the Legion",
+  "type": "CharacterType",
+  "aliases": [
+   "The Father"
+  ],
+  "description": "Highest rank of the Legion of Mithras, clad in black; whispered to be a Living Ghost.",
+  "evidence": [
+   "the-mysteries-revised::0553",
+   "the-mysteries-revised::0556",
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Rumored to hold a list of all Legion members and choose Hoplites from it.",
+  "evidence": [
+   "the-mysteries-revised::0556"
+  ]
+ },
+ {
+  "name": "Primus of House Guernicus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Head of House Guernicus, one of two who know the Legion's affiliation with the Quaesitores.",
+  "evidence": [
+   "the-mysteries-revised::0556"
+  ]
+ },
+ {
+  "name": "Auxiliary Legion",
+  "type": "Faction",
+  "aliases": [
+   "Auxiliaries"
+  ],
+  "description": "Disciplined grogs and companions supporting the Legion, independently commanded.",
+  "evidence": [
+   "the-mysteries-revised::0558",
+   "the-mysteries-revised::0564"
+  ]
+ },
+ {
+  "name": "Raven of Mithras",
+  "type": "CharacterType",
+  "aliases": [
+   "Ravens"
+  ],
+  "description": "First rank of the Legion; swears an oath gaining Dutybound and learns Strong-Willed.",
+  "evidence": [
+   "the-mysteries-revised::0559",
+   "the-mysteries-revised::0564"
+  ]
+ },
+ {
+  "name": "Bride of Mithras",
+  "type": "CharacterType",
+  "aliases": [
+   "Brides"
+  ],
+  "description": "Second rank of the Legion; organizes Ravens and learns Clear Thinker; symbol a lamp.",
+  "evidence": [
+   "the-mysteries-revised::0560"
+  ]
+ },
+ {
+  "name": "Soldier of Mithras",
+  "type": "CharacterType",
+  "aliases": [
+   "Soldiers"
+  ],
+  "description": "Third rank, heroic champions who learn Reserves of Strength or Enduring Constitution.",
+  "evidence": [
+   "the-mysteries-revised::0561"
+  ]
+ },
+ {
+  "name": "Lion of Mithras",
+  "type": "CharacterType",
+  "aliases": [
+   "Lions",
+   "Captain"
+  ],
+  "description": "Fourth rank (Captain), learns Inscription on the Soul and spends seven years at the temple.",
+  "evidence": [
+   "the-mysteries-revised::0563",
+   "the-mysteries-revised::0564"
+  ]
+ },
+ {
+  "name": "Persian",
+  "type": "CharacterType",
+  "aliases": [
+   "Perseus"
+  ],
+  "description": "Fifth rank, senior Legion member of a Tribunal, carries a silver sickle and learns spirit familiars.",
+  "evidence": [
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Heliodromus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Sixth rank of the Legion, seven members clad in golden robes.",
+  "evidence": [
+   "the-mysteries-revised::0557",
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Living Ghost",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The Father of the Legion is whispered to be one, chained to the temple.",
+  "evidence": [
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor personality Flaw (Legion of Mithras) seared in at Raven Initiation.",
+  "evidence": [
+   "the-mysteries-revised::0559"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "aliases": [
+   "Strong Will"
+  ],
+  "description": "Virtue taught to Ravens of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0559",
+   "the-mysteries-revised::0564",
+   "the-mysteries-revised::0565"
+  ]
+ },
+ {
+  "name": "Clear Thinker",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue taught to Brides of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0560"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Warrior Virtue taught to Soldiers of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0561"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Warrior Virtue taught to Soldiers of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0561"
+  ]
+ },
+ {
+  "name": "Inscription on the Soul",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue taught to Lions of Mithras.",
+  "evidence": [
+   "the-mysteries-revised::0563"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Alternative Virtue initiated if Strong-Willed is possessed.",
+  "evidence": [
+   "the-mysteries-revised::0565"
+  ]
+ },
+ {
+  "name": "Legion of Mithras Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization Lore of the Legion used by Mystagogues.",
+  "evidence": [
+   "the-mysteries-revised::0564",
+   "the-mysteries-revised::0565"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [],
+  "description": "A magus's personal enchanted item; Persians sacrifice it for a silver sickle.",
+  "evidence": [
+   "the-mysteries-revised::0480",
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Silver Sickle",
+  "type": "Item",
+  "aliases": [],
+  "description": "Symbolic sickle carried by the Persian, enchanted as a replacement talisman.",
+  "evidence": [
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Creature",
+  "aliases": [
+   "spirit familiars"
+  ],
+  "description": "Magical companion; Metrodorus has a raven familiar, Persians learn spirit familiars.",
+  "evidence": [
+   "the-mysteries-revised::0481",
+   "the-mysteries-revised::0567"
+  ]
+ },
+ {
+  "name": "Zoroastrian Mysteries",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Mysteries (Realms of Power: The Divine) from which Mithraism is rooted; indifferent to the Legion.",
+  "evidence": [
+   "the-mysteries-revised::0562"
+  ]
+ },
+ {
+  "name": "Sol Invictus",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group linked to Mithraism with little in common with the Legion today.",
+  "evidence": [
+   "the-mysteries-revised::0562"
+  ]
+ },
+ {
+  "name": "Philosophers of Rome",
+  "type": "Faction",
+  "aliases": [
+   "The Philosophers"
+  ],
+  "description": "Secretive non-Christian cult claiming descent from Simon Magus, seeking apotheosis through sensual Gnosticism.",
+  "evidence": [
+   "the-mysteries-revised::0568",
+   "the-mysteries-revised::0571",
+   "the-mysteries-revised::0576"
+  ]
+ },
+ {
+  "name": "Simon Magus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Arch-heresiarch magician, father of Gnosticism, who fell from the air in Rome; claimed ancestor of the Philosophers of Rome.",
+  "evidence": [
+   "the-mysteries-revised::0568",
+   "the-mysteries-revised::0569",
+   "the-mysteries-revised::0570"
+  ]
+ },
+ {
+  "name": "Clementine Recognitiones",
+  "type": "Item",
+  "aliases": [
+   "Pseudo-Clementines"
+  ],
+  "description": "Text quoting Simon Magus; with Pseudo-Clementines, refutes his beliefs.",
+  "evidence": [
+   "the-mysteries-revised::0568",
+   "the-mysteries-revised::0570"
+  ]
+ },
+ {
+  "name": "St. Peter",
+  "type": "Character",
+  "aliases": [
+   "Peter"
+  ],
+  "description": "Apostle who confronted Simon Magus.",
+  "evidence": [
+   "the-mysteries-revised::0569",
+   "the-mysteries-revised::0570"
+  ]
+ },
+ {
+  "name": "St. Paul",
+  "type": "Character",
+  "aliases": [
+   "Paul"
+  ],
+  "description": "Apostle whose Galatians words justify the Legion accepting women; confronted Simon Magus.",
+  "evidence": [
+   "the-mysteries-revised::0555",
+   "the-mysteries-revised::0570"
+  ]
+ },
+ {
+  "name": "Hippolytus of Rome",
+  "type": "Character",
+  "aliases": [],
+  "description": "Church Father whose Philosophumena recounts Simon Magus' death.",
+  "evidence": [
+   "the-mysteries-revised::0569"
+  ]
+ },
+ {
+  "name": "Philosophumena",
+  "type": "Item",
+  "aliases": [],
+  "description": "Book by Hippolytus telling of Simon Magus' burial.",
+  "evidence": [
+   "the-mysteries-revised::0569"
+  ]
+ },
+ {
+  "name": "Acts of St. Peter",
+  "type": "Item",
+  "aliases": [],
+  "description": "Apocryphal text telling of Simon Magus' fall in Rome.",
+  "evidence": [
+   "the-mysteries-revised::0569"
+  ]
+ },
+ {
+  "name": "Nero",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman emperor at whose court Simon Magus competed with the Apostles.",
+  "evidence": [
+   "the-mysteries-revised::0569"
+  ]
+ },
+ {
+  "name": "St. Justin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Attested Simon Magus founded a cult worshiping him.",
+  "evidence": [
+   "the-mysteries-revised::0569"
+  ]
+ },
+ {
+  "name": "Samaria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Native land of Simon Magus.",
+  "evidence": [
+   "the-mysteries-revised::0569"
+  ]
+ },
+ {
+  "name": "Via Sacra",
+  "type": "Place",
+  "aliases": [],
+  "description": "Road outside the Forum where Simon Magus fell.",
+  "evidence": [
+   "the-mysteries-revised::0570"
+  ]
+ },
+ {
+  "name": "Church of Saints Peter and Paul",
+  "type": "Place",
+  "aliases": [],
+  "description": "Church in Rome on the spot where Simon fell.",
+  "evidence": [
+   "the-mysteries-revised::0570"
+  ]
+ },
+ {
+  "name": "Gnosticism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Heretical doctrines stemming from Simon Magus, embraced by the Philosophers of Rome.",
+  "evidence": [
+   "the-mysteries-revised::0570",
+   "the-mysteries-revised::0571",
+   "the-mysteries-revised::0572"
+  ]
+ },
+ {
+  "name": "Apotheosis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Deification sought by Philosophers of Rome and claimed by Hermes the Blessed One.",
+  "evidence": [
+   "the-mysteries-revised::0570",
+   "the-mysteries-revised::0572",
+   "the-mysteries-revised::0580"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Creature",
+  "aliases": [
+   "Daimons"
+  ],
+  "description": "Magical spirit of heroes; ascended Philosophers become Daimons summoned as Aspects.",
+  "evidence": [
+   "the-mysteries-revised::0571",
+   "the-mysteries-revised::0577"
+  ]
+ },
+ {
+  "name": "Hall of Heroes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Destination of apotheosis for Philosophers of Rome.",
+  "evidence": [
+   "the-mysteries-revised::0572",
+   "the-mysteries-revised::0577"
+  ]
+ },
+ {
+  "name": "Alexander the Great",
+  "type": "Character",
+  "aliases": [],
+  "description": "Conqueror reminded he was not a god; a past life of the Blessed One.",
+  "evidence": [
+   "the-mysteries-revised::0574",
+   "the-mysteries-revised::0581"
+  ]
+ },
+ {
+  "name": "Hermetic Synthemata",
+  "type": "Virtue",
+  "aliases": [
+   "Synthemata"
+  ],
+  "description": "Usually the first Initiation taught to Philosophers of Rome.",
+  "evidence": [
+   "the-mysteries-revised::0574",
+   "the-mysteries-revised::0575"
+  ]
+ },
+ {
+  "name": "True Naming",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue first taught to Philosophers of Rome Initiates.",
+  "evidence": [
+   "the-mysteries-revised::0576"
+  ]
+ },
+ {
+  "name": "Hermetic Evocation",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Mystery taught to Philosophers of Rome after True Naming.",
+  "evidence": [
+   "the-mysteries-revised::0576"
+  ]
+ },
+ {
+  "name": "Philosophers of Rome Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization Lore of the Philosophers of Rome.",
+  "evidence": [
+   "the-mysteries-revised::0576"
+  ]
+ },
+ {
+  "name": "Alexandria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Near where the Gnostic papyrus codex for Synthemata was recovered.",
+  "evidence": [
+   "the-mysteries-revised::0575"
+  ]
+ },
+ {
+  "name": "Hermes the Blessed One",
+  "type": "Character",
+  "aliases": [
+   "The Blessed One",
+   "Blessed One"
+  ],
+  "description": "Charismatic leader of the Children of Hermes claiming to be Hermes Trismegistus reborn.",
+  "evidence": [
+   "the-mysteries-revised::0579",
+   "the-mysteries-revised::0580",
+   "the-mysteries-revised::0581"
+  ]
+ },
+ {
+  "name": "Hermes Trismegistus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure the Blessed One claims to be reborn.",
+  "evidence": [
+   "the-mysteries-revised::0581"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where the Blessed One first attracted Quaesitores' attention.",
+  "evidence": [
+   "the-mysteries-revised::0580"
+  ]
+ },
+ {
+  "name": "Erin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Former young Quaesitor who joined the Blessed One and serves in the Inner Circle.",
+  "evidence": [
+   "the-mysteries-revised::0580",
+   "the-mysteries-revised::0585"
+  ]
+ },
+ {
+  "name": "Pythagoras",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mystic of Samos, founder of the Society at Croton; claimed past life of the Blessed One and inspiration of the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0581",
+   "the-mysteries-revised::0590",
+   "the-mysteries-revised::0591"
+  ]
+ },
+ {
+  "name": "Cleopatra",
+  "type": "Character",
+  "aliases": [],
+  "description": "Consort of the Blessed One, said to have been the Egyptian queen in a past life.",
+  "evidence": [
+   "the-mysteries-revised::0581",
+   "the-mysteries-revised::0585"
+  ]
+ },
+ {
+  "name": "Inner Circle",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Blessed One, Cleopatra, Erin and four other magi leading the Children of Hermes.",
+  "evidence": [
+   "the-mysteries-revised::0581",
+   "the-mysteries-revised::0585",
+   "the-mysteries-revised::0587"
+  ]
+ },
+ {
+  "name": "Metempsychosis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Transmigration of souls believed by Children of Hermes and the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0582",
+   "the-mysteries-revised::0595"
+  ]
+ },
+ {
+  "name": "Duresca",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Iberian covenant raided by Children of Hermes; rumored Guernicus conspiracy center.",
+  "evidence": [
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal of Duresca.",
+  "evidence": [
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [],
+  "description": "Destroyed House rumored innocent by the Children of Hermes.",
+  "evidence": [
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "Secret Masters",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Conspiracy that Children of Hermes claim controls the Order.",
+  "evidence": [
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "Sundering of House Tremere",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Historical punishment of House Tremere questioned by Children of Hermes.",
+  "evidence": [
+   "the-mysteries-revised::0583"
+  ]
+ },
+ {
+  "name": "Carpathian Mountains",
+  "type": "Place",
+  "aliases": [],
+  "description": "Rumored site of the Blessed One's fortified covenant.",
+  "evidence": [
+   "the-mysteries-revised::0584"
+  ]
+ },
+ {
+  "name": "Children of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization Lore taught to new Children of Hermes.",
+  "evidence": [
+   "the-mysteries-revised::0585",
+   "the-mysteries-revised::0588"
+  ]
+ },
+ {
+  "name": "Guardian of the Faith",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Local role of Children of Hermes member collecting vis dues.",
+  "evidence": [
+   "the-mysteries-revised::0585",
+   "the-mysteries-revised::0586"
+  ]
+ },
+ {
+  "name": "Study Requirement",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw bestowed by a Children of Hermes Ordeal.",
+  "evidence": [
+   "the-mysteries-revised::0589"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "pawns",
+   "rooks"
+  ],
+  "description": "Raw magical power; dues paid in pawns, sacrifices substitute for it.",
+  "evidence": [
+   "the-mysteries-revised::0485",
+   "the-mysteries-revised::0546",
+   "the-mysteries-revised::0585"
+  ]
+ },
+ {
+  "name": "Mystic Fraternity of Samos",
+  "type": "Faction",
+  "aliases": [
+   "Fraternity of Samos",
+   "Pythagorean Fraternity"
+  ],
+  "description": "Pythagorean Mystery Cult organized by Anaximander of Thebes, popular with House Jerbiton, openly admitting membership.",
+  "evidence": [
+   "the-mysteries-revised::0590",
+   "the-mysteries-revised::0592",
+   "the-mysteries-revised::0593"
+  ]
+ },
+ {
+  "name": "Samos",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ionian island, birthplace of Pythagoras and site of his Semicircle school.",
+  "evidence": [
+   "the-mysteries-revised::0591",
+   "the-mysteries-revised::0593"
+  ]
+ },
+ {
+  "name": "Croton",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Pythagoras founded the Society.",
+  "evidence": [
+   "the-mysteries-revised::0591"
+  ]
+ },
+ {
+  "name": "Semicircle",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Pythagoras' school on Samos.",
+  "evidence": [
+   "the-mysteries-revised::0591"
+  ]
+ },
+ {
+  "name": "The Society",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Pythagoras' cult at Croton dedicated to numerology, purification and secrecy.",
+  "evidence": [
+   "the-mysteries-revised::0591"
+  ]
+ },
+ {
+  "name": "Milo",
+  "type": "Character",
+  "aliases": [
+   "House of Milo"
+  ],
+  "description": "Disciple at whose house Pythagoras met his tragic end.",
+  "evidence": [
+   "the-mysteries-revised::0591",
+   "the-mysteries-revised::0593"
+  ]
+ },
+ {
+  "name": "Babylon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Pythagoras became a master mystic.",
+  "evidence": [
+   "the-mysteries-revised::0591"
+  ]
+ },
+ {
+  "name": "Anaximander of Thebes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Organized the Fraternity of Samos in the early tenth century.",
+  "evidence": [
+   "the-mysteries-revised::0592"
+  ]
+ },
+ {
+  "name": "Cabal Legacy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that for the Fraternity merely means badgering by would-be Initiates.",
+  "evidence": [
+   "the-mysteries-revised::0593"
+  ]
+ },
+ {
+  "name": "Akousmatics",
+  "type": "CharacterType",
+  "aliases": [
+   "Outer Order"
+  ],
+  "description": "Outer Order of the Fraternity of Samos, sign the pentagram.",
+  "evidence": [
+   "the-mysteries-revised::0594",
+   "the-mysteries-revised::0597"
+  ]
+ },
+ {
+  "name": "Mathematikoi",
+  "type": "CharacterType",
+  "aliases": [
+   "Inner Order"
+  ],
+  "description": "Inner Order of the Fraternity of Samos, sign the triangle.",
+  "evidence": [
+   "the-mysteries-revised::0594",
+   "the-mysteries-revised::0597"
+  ]
+ },
+ {
+  "name": "Hermetic Numerology",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "First degree Virtue of the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0596",
+   "the-mysteries-revised::0598",
+   "the-mysteries-revised::0599"
+  ]
+ },
+ {
+  "name": "Hermetic Geometry",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Second degree Virtue of the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0599"
+  ]
+ },
+ {
+  "name": "Mathematicus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "First degree of the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0598"
+  ]
+ },
+ {
+  "name": "Theoreticus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Second degree of the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0599"
+  ]
+ },
+ {
+  "name": "Numerologist's Book",
+  "type": "Item",
+  "aliases": [],
+  "description": "Book an Initiate must create to demonstrate Hermetic Numerology.",
+  "evidence": [
+   "the-mysteries-revised::0599"
+  ]
+ },
+ {
+  "name": "Rotes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Numerological techniques demonstrated on a journey for Theoreticus.",
+  "evidence": [
+   "the-mysteries-revised::0599"
+  ]
+ },
+ {
+  "name": "Fraternity of Samos Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization Lore of the Fraternity.",
+  "evidence": [
+   "the-mysteries-revised::0596",
+   "the-mysteries-revised::0597"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic ability required at 3+ by the Fraternity of Samos.",
+  "evidence": [
+   "the-mysteries-revised::0543",
+   "the-mysteries-revised::0596",
+   "the-mysteries-revised::0598"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic ability required by the Fraternity.",
+  "evidence": [
+   "the-mysteries-revised::0543",
+   "the-mysteries-revised::0596"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability required at 1 by the Fraternity.",
+  "evidence": [
+   "the-mysteries-revised::0596"
+  ]
+ },
+ {
+  "name": "Sacred Precepts of Pythagoras",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Precepts vowed in a Minor Ordeal Vow of the Fraternity.",
+  "evidence": [
+   "the-mysteries-revised::0597"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Used by a dreamer to notice travelers.",
+  "evidence": [
+   "the-mysteries-revised::0487",
+   "the-mysteries-revised::0488"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Process by which Mystery Virtues are conferred.",
+  "evidence": [
+   "the-mysteries-revised::0526",
+   "the-mysteries-revised::0549"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Initiation component bestowing a Flaw.",
+  "evidence": [
+   "the-mysteries-revised::0559",
+   "the-mysteries-revised::0589"
+  ]
+ },
+ {
+  "name": "Quest",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Initiation component requiring a story.",
+  "evidence": [
+   "the-mysteries-revised::0560",
+   "the-mysteries-revised::0564",
+   "the-mysteries-revised::0588"
+  ]
+ }
+]

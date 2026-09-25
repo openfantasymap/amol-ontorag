@@ -1,0 +1,2836 @@
+[
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The magical and medieval world in which Ars Magica sagas are set, full of wonder and supernatural forces.",
+  "evidence": [
+   "magic-apprentices::0008",
+   "magic-apprentices::0009",
+   "magic-apprentices::0090"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The organization of Hermetic magi; an apprentice must pass the Gauntlet and swear the Oath of Hermes to join it.",
+  "evidence": [
+   "magic-apprentices::0044",
+   "magic-apprentices::0049",
+   "magic-apprentices::0112"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House named in the book's trademark notice.",
+  "evidence": [
+   "magic-apprentices::0000"
+  ]
+ },
+ {
+  "name": "Doissetep",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Hermetic covenant named in the trademark notices.",
+  "evidence": [
+   "magic-apprentices::0000",
+   "magic-apprentices::0004"
+  ]
+ },
+ {
+  "name": "Grimgroth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Named in the book's trademark notice as a property of the Order of Hermes setting.",
+  "evidence": [
+   "magic-apprentices::0000"
+  ]
+ },
+ {
+  "name": "Calebais",
+  "type": "Covenant",
+  "aliases": [
+   "The Broken Covenant of Calebais"
+  ],
+  "description": "The Broken Covenant of Calebais, an adventure site that adolescent apprentices and grogs might stumble upon.",
+  "evidence": [
+   "magic-apprentices::0009"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "Hermetic House whose magi may take another magus' apprentice, subject to House rules; a sample apprentice belongs to it.",
+  "evidence": [
+   "magic-apprentices::0112",
+   "magic-apprentices::0117",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder whose achievements underpin Hermetic magic, though magic remains unpredictable despite them.",
+  "evidence": [
+   "magic-apprentices::0083"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House to which the magus Aurulentus belongs.",
+  "evidence": [
+   "magic-apprentices::0070"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House for which the book provides a sample apprentice.",
+  "evidence": [
+   "magic-apprentices::0007"
+  ]
+ },
+ {
+  "name": "Ex Miscellanea",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House including the lineage of Pralix, whose magi are good at detecting Gifted individuals.",
+  "evidence": [
+   "magic-apprentices::0113"
+  ]
+ },
+ {
+  "name": "Lineage of Pralix",
+  "type": "Faction",
+  "aliases": [
+   "Pralix",
+   "Pralixian"
+  ],
+  "description": "Ex Miscellanea lineage whose magi have the Comprehend Magic Virtue and seek Gifted hedge wizards to bring into the Order.",
+  "evidence": [
+   "magic-apprentices::0113"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of the Ex Miscellanea lineage whose members inherit Comprehend Magic.",
+  "evidence": [
+   "magic-apprentices::0113"
+  ]
+ },
+ {
+  "name": "Thebes Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Theban Tribunal"
+  ],
+  "description": "Tribunal that, unlike most, has a dedicated branch of servants searching for Gifted apprentices.",
+  "evidence": [
+   "magic-apprentices::0112"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where Durenmar lies; Odo of Cheriton travels mostly in it and Normandy.",
+  "evidence": [
+   "magic-apprentices::0070",
+   "magic-apprentices::0097"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal in which Odo of Cheriton travels collecting animal tales.",
+  "evidence": [
+   "magic-apprentices::0097"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant where the Bonisagus magus Petrus Virilis lives.",
+  "evidence": [
+   "magic-apprentices::0070"
+  ]
+ },
+ {
+  "name": "Aurulentus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus of House Jerbiton, several of whose forefathers were Gifted.",
+  "evidence": [
+   "magic-apprentices::0070"
+  ]
+ },
+ {
+  "name": "Petrus Virilis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bonisagus magus at Durenmar, all of whose offspring have been Gifted.",
+  "evidence": [
+   "magic-apprentices::0070"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary figure who as a child saw the dragons battling underground beneath Vortigern's castle.",
+  "evidence": [
+   "magic-apprentices::0009"
+  ]
+ },
+ {
+  "name": "King Vortigern",
+  "type": "Character",
+  "aliases": [
+   "Vortigern"
+  ],
+  "description": "Legendary king whose castle building was prevented by battling dragons discovered by the child Merlin.",
+  "evidence": [
+   "magic-apprentices::0009"
+  ]
+ },
+ {
+  "name": "Uther Pendragon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary king for whom Merlin's childhood deed prepared the way.",
+  "evidence": [
+   "magic-apprentices::0009"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary king cited as a famous example of a hero with an exciting childhood.",
+  "evidence": [
+   "magic-apprentices::0009"
+  ]
+ },
+ {
+  "name": "Herakles",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary hero cited for dangerous childhood stories.",
+  "evidence": [
+   "magic-apprentices::0009"
+  ]
+ },
+ {
+  "name": "Cú Chulainn",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary hero cited for dangerous childhood stories.",
+  "evidence": [
+   "magic-apprentices::0009"
+  ]
+ },
+ {
+  "name": "Aesop",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pagan writer who gave a threefold division of the ages of man and author of animal fables popular in 1220.",
+  "evidence": [
+   "magic-apprentices::0011",
+   "magic-apprentices::0097",
+   "magic-apprentices::0098"
+  ]
+ },
+ {
+  "name": "Hesiod",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pagan writer who mentioned four ages of man.",
+  "evidence": [
+   "magic-apprentices::0011"
+  ]
+ },
+ {
+  "name": "Hippocrates",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of the most popular division of the seven ages of man.",
+  "evidence": [
+   "magic-apprentices::0011"
+  ]
+ },
+ {
+  "name": "St Augustine",
+  "type": "Character",
+  "aliases": [],
+  "description": "Christian writer who validated Hippocrates' seven ages of man.",
+  "evidence": [
+   "magic-apprentices::0011"
+  ]
+ },
+ {
+  "name": "St Ambrose",
+  "type": "Character",
+  "aliases": [],
+  "description": "Christian writer who validated Hippocrates' seven ages of man.",
+  "evidence": [
+   "magic-apprentices::0011"
+  ]
+ },
+ {
+  "name": "Peter Abelard",
+  "type": "Character",
+  "aliases": [],
+  "description": "Philosopher quoted on marriage and children being inconsistent with study.",
+  "evidence": [
+   "magic-apprentices::0060"
+  ]
+ },
+ {
+  "name": "Odo of Cheriton",
+  "type": "Character",
+  "aliases": [
+   "Odo"
+  ],
+  "description": "Clerk wandering Mythic Europe collecting animal stories for sermons, who may visit a covenant to interview a child.",
+  "evidence": [
+   "magic-apprentices::0097",
+   "magic-apprentices::0098"
+  ]
+ },
+ {
+  "name": "St Francis of Assisi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Preaching friar whom the Merchant's Son sample character hopes to emulate.",
+  "evidence": [
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Satan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Said to lay an easy snare for the young and innocent.",
+  "evidence": [
+   "magic-apprentices::0098"
+  ]
+ },
+ {
+  "name": "Eleanor",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example seven-year-old character with Magic Sensitivity who incurs an uncontrolled Turbulence of gushing tears.",
+  "evidence": [
+   "magic-apprentices::0080",
+   "magic-apprentices::0081",
+   "magic-apprentices::0083"
+  ]
+ },
+ {
+  "name": "Rufus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example character who takes Inherited Virtue: Large to have a growth spurt around age 10.",
+  "evidence": [
+   "magic-apprentices::0030",
+   "magic-apprentices::0031"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Church"
+  ],
+  "description": "Christian institution requiring baptism with three sponsors and forbidding abandonment of children.",
+  "evidence": [
+   "magic-apprentices::0065",
+   "magic-apprentices::0067",
+   "magic-apprentices::0074"
+  ]
+ },
+ {
+  "name": "Mongols",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Invaders mentioned jokingly as a threat no four-year-old would be asked to stop.",
+  "evidence": [
+   "magic-apprentices::0087"
+  ]
+ },
+ {
+  "name": "Dream Witches",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group described in an insert of the book.",
+  "evidence": [
+   "magic-apprentices::0007"
+  ]
+ },
+ {
+  "name": "Muspelli",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic tradition whose childhoods the book does not specifically address.",
+  "evidence": [
+   "magic-apprentices::0013",
+   "magic-apprentices::0014"
+  ]
+ },
+ {
+  "name": "Learned Magicians",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic magical tradition mentioned as also having had childhoods.",
+  "evidence": [
+   "magic-apprentices::0013",
+   "magic-apprentices::0014"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Infernal practitioner, one of the non-Hermetic traditions named.",
+  "evidence": [
+   "magic-apprentices::0013"
+  ]
+ },
+ {
+  "name": "Spirit Votary",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic tradition named among those not covered in detail.",
+  "evidence": [
+   "magic-apprentices::0013"
+  ]
+ },
+ {
+  "name": "Faerie Doctor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic tradition named among those not covered in detail.",
+  "evidence": [
+   "magic-apprentices::0013"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge magician",
+   "witch"
+  ],
+  "description": "Non-Hermetic magician; Pralixians seek Gifted hedge wizards, and a hedge wizard might steal a Gifted baby.",
+  "evidence": [
+   "magic-apprentices::0097",
+   "magic-apprentices::0113",
+   "magic-apprentices::0077"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic wizard of the Order of Hermes who trains apprentices.",
+  "evidence": [
+   "magic-apprentices::0008",
+   "magic-apprentices::0058"
+  ]
+ },
+ {
+  "name": "Apprentice",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Gifted student of a Hermetic magus, trained for about 15 years before the Gauntlet.",
+  "evidence": [
+   "magic-apprentices::0008",
+   "magic-apprentices::0058",
+   "magic-apprentices::0110"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Low-level character type; young grogs may have up to three points of Virtues and Flaws.",
+  "evidence": [
+   "magic-apprentices::0008",
+   "magic-apprentices::0021",
+   "magic-apprentices::0091"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Character type; young companions may have up to ten points of Virtues and Flaws.",
+  "evidence": [
+   "magic-apprentices::0021",
+   "magic-apprentices::0068"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Inhabitants of a covenant, whose children have Son of Covenfolk status.",
+  "evidence": [
+   "magic-apprentices::0023",
+   "magic-apprentices::0101",
+   "magic-apprentices::0104"
+  ]
+ },
+ {
+  "name": "Parens",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The magus who trains an apprentice, Opens her Arts and is legally responsible for her.",
+  "evidence": [
+   "magic-apprentices::0027",
+   "magic-apprentices::0058",
+   "magic-apprentices::0119"
+  ]
+ },
+ {
+  "name": "Noble Child",
+  "type": "Character",
+  "aliases": [
+   "noble's son"
+  ],
+  "description": "Sample six-year-old companion, a reckless noble's son prophesied to die by fire, with inherited Skinchanger and Great Dexterity.",
+  "evidence": [
+   "magic-apprentices::0068",
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Foundling Child",
+  "type": "Character",
+  "aliases": [],
+  "description": "Sample seven-year-old Gifted orphan apprentice with a knack for books and an inherited Flexible Formulaic Magic.",
+  "evidence": [
+   "magic-apprentices::0071",
+   "magic-apprentices::0072"
+  ]
+ },
+ {
+  "name": "Blacksmith's Son",
+  "type": "Character",
+  "aliases": [],
+  "description": "Sample seven-year-old grog, a bully with Magic Sensitivity and No Sense of Direction.",
+  "evidence": [
+   "magic-apprentices::0091",
+   "magic-apprentices::0092"
+  ]
+ },
+ {
+  "name": "Urchin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Sample eleven-year-old grog, daughter of a branded outlaw living on city streets who aims to lead a gang of child thieves.",
+  "evidence": [
+   "magic-apprentices::0106",
+   "magic-apprentices::0107"
+  ]
+ },
+ {
+  "name": "Merchant's Son",
+  "type": "Character",
+  "aliases": [],
+  "description": "Sample thirteen-year-old companion obsessed with saints' lives, hoping to gain True Faith and become a preaching friar.",
+  "evidence": [
+   "magic-apprentices::0108",
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Apprentice of House Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Sample eight-year-old girl just accepted into House Bonisagus, raised in the woods, with Apt Student.",
+  "evidence": [
+   "magic-apprentices::0117",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power; baptism and similar rites cancel non-Divine supernatural effects on a child.",
+  "evidence": [
+   "magic-apprentices::0042",
+   "magic-apprentices::0065",
+   "magic-apprentices::0093"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power; Infernal animals may want a snack of an infant; Hermetic magic has limits against it.",
+  "evidence": [
+   "magic-apprentices::0042",
+   "magic-apprentices::0075",
+   "magic-apprentices::0093"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power; faerie animals rarely miss a chance to interact with children.",
+  "evidence": [
+   "magic-apprentices::0042",
+   "magic-apprentices::0093"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [
+   "Magic Realm"
+  ],
+  "description": "Realm of Power; magic animals are curious and Turbulences count as a magic power.",
+  "evidence": [
+   "magic-apprentices::0042",
+   "magic-apprentices::0079",
+   "magic-apprentices::0093"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "The innate magical ability required for Hermetic magic, which carries negative social penalties and may appear at birth or later.",
+  "evidence": [
+   "magic-apprentices::0070",
+   "magic-apprentices::0073",
+   "magic-apprentices::0074"
+  ]
+ },
+ {
+  "name": "Ages of Man",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Medieval division of the life cycle; the first three ages, each seven years, are infantia, pueritia and adolescentia.",
+  "evidence": [
+   "magic-apprentices::0011",
+   "magic-apprentices::0055"
+  ]
+ },
+ {
+  "name": "Infantia",
+  "type": "Concept",
+  "aliases": [
+   "infancy"
+  ],
+  "description": "Infancy, the age of man from birth to age 7.",
+  "evidence": [
+   "magic-apprentices::0011",
+   "magic-apprentices::0060"
+  ]
+ },
+ {
+  "name": "Pueritia",
+  "type": "Concept",
+  "aliases": [
+   "childhood"
+  ],
+  "description": "Childhood, the age of man from 8 to 14, when most apprentices are found.",
+  "evidence": [
+   "magic-apprentices::0011",
+   "magic-apprentices::0101"
+  ]
+ },
+ {
+  "name": "Adolescentia",
+  "type": "Concept",
+  "aliases": [
+   "adolescence"
+  ],
+  "description": "Adolescence, the age of man from 15 to 21 and the core of Hermetic apprenticeship.",
+  "evidence": [
+   "magic-apprentices::0011",
+   "magic-apprentices::0013"
+  ]
+ },
+ {
+  "name": "Turbulence",
+  "type": "Concept",
+  "aliases": [
+   "Turbulences",
+   "turbula",
+   "turbulae"
+  ],
+  "description": "An uncontrolled magical outburst of a Gifted child's Gift caused by strong emotion or a botched magical activity.",
+  "evidence": [
+   "magic-apprentices::0078",
+   "magic-apprentices::0079",
+   "magic-apprentices::0081"
+  ]
+ },
+ {
+  "name": "Transitions of Maturation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Three liminal stages (ages 8, 15 and 21) during which a young character may exchange Virtues and Flaws of equal value.",
+  "evidence": [
+   "magic-apprentices::0055",
+   "magic-apprentices::0056",
+   "magic-apprentices::0057"
+  ]
+ },
+ {
+  "name": "Inherited Virtues and Flaws",
+  "type": "Concept",
+  "aliases": [
+   "Inherited Virtue",
+   "Inherited Flaw"
+  ],
+  "description": "Virtues or Flaws chosen at creation that have not yet manifested but must materialize by age 21.",
+  "evidence": [
+   "magic-apprentices::0030",
+   "magic-apprentices::0031"
+  ]
+ },
+ {
+  "name": "Child Virtues and Flaws",
+  "type": "Concept",
+  "aliases": [
+   "Child Virtue",
+   "Child Flaw"
+  ],
+  "description": "New type of Virtue and Flaw reflecting childhood traits that must be exchanged by adulthood.",
+  "evidence": [
+   "magic-apprentices::0032"
+  ]
+ },
+ {
+  "name": "Standard Apprenticeship",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Benchmark model of a 15-year apprenticeship yielding about 240 experience points and 120 spell levels.",
+  "evidence": [
+   "magic-apprentices::0058",
+   "magic-apprentices::0059",
+   "magic-apprentices::0053"
+  ]
+ },
+ {
+  "name": "Aging Chart",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Table giving Characteristic and Size modifiers for characters by age.",
+  "evidence": [
+   "magic-apprentices::0018",
+   "magic-apprentices::0019",
+   "magic-apprentices::0037"
+  ]
+ },
+ {
+  "name": "Example Childhoods",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ability packages (Athletic, Border, Covenant Bred, Exploring, Feral, Fighting, Mischievous, Shy, Social, Traveling, Wilderness) for spending 45 experience points by age 5.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Cantations",
+  "type": "Concept",
+  "aliases": [
+   "Cantation"
+  ],
+  "description": "Low-level formulaic spells that give child apprentices the chance to cast formulaic magic.",
+  "evidence": [
+   "magic-apprentices::0012",
+   "magic-apprentices::0005"
+  ]
+ },
+ {
+  "name": "Bellum",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical game played by adolescent apprentices and young magi to practice Arcane Abilities.",
+  "evidence": [
+   "magic-apprentices::0013",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [
+   "Apprenticeship's End"
+  ],
+  "description": "Test that ends Hermetic apprenticeship, determining if an apprentice is ready to swear the Oath and become a magus.",
+  "evidence": [
+   "magic-apprentices::0013",
+   "magic-apprentices::0003"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Oath sworn by a new magus to join the Order of Hermes.",
+  "evidence": [
+   "magic-apprentices::0013"
+  ]
+ },
+ {
+  "name": "Opening the Arts",
+  "type": "Concept",
+  "aliases": [
+   "Opening the Arts",
+   "Open the Arts"
+  ],
+  "description": "Season-long procedure by which a parens unlocks an apprentice's ability to use Hermetic magic and legally binds her to him.",
+  "evidence": [
+   "magic-apprentices::0119",
+   "magic-apprentices::0116",
+   "magic-apprentices::0058"
+  ]
+ },
+ {
+  "name": "Hermetic Law",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Law of the Order requiring 15 years of apprenticeship with at least one season of teaching per year; faulty Opening of Arts is a low crime.",
+  "evidence": [
+   "magic-apprentices::0058",
+   "magic-apprentices::0119"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The law of the Order, which forbids scrying on another magus with Intellego Vim.",
+  "evidence": [
+   "magic-apprentices::0114"
+  ]
+ },
+ {
+  "name": "Low Crime",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Class of Hermetic offense, e.g. abandoning an apprentice or deliberately including Deficiencies when Opening the Arts.",
+  "evidence": [
+   "magic-apprentices::0044",
+   "magic-apprentices::0119"
+  ]
+ },
+ {
+  "name": "Scrying",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical spying on a magus; using Intellego Vim on another magus counts as scrying and is forbidden.",
+  "evidence": [
+   "magic-apprentices::0114"
+  ]
+ },
+ {
+  "name": "Marched",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hunted down and slain as an outcast magus; an abandoned apprentice may be treated like a Marched magus.",
+  "evidence": [
+   "magic-apprentices::0044"
+  ]
+ },
+ {
+  "name": "Birth Apparitions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Visions or supernatural beings that appear at the birth of important people with realm-linked Virtues or Flaws.",
+  "evidence": [
+   "magic-apprentices::0064"
+  ]
+ },
+ {
+  "name": "Baptism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Christian sacrament that cancels non-Divine supernatural effects on a child and drives out possessing spirits, without affecting the Gift.",
+  "evidence": [
+   "magic-apprentices::0065",
+   "magic-apprentices::0066"
+  ]
+ },
+ {
+  "name": "Brit Milah",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Jewish ritual circumcision and naming eight days after a boy's birth, with the same divine effect as baptism.",
+  "evidence": [
+   "magic-apprentices::0065",
+   "magic-apprentices::0066"
+  ]
+ },
+ {
+  "name": "Adhan",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Islamic call to prayer whispered into a newborn's ear during ritual purification.",
+  "evidence": [
+   "magic-apprentices::0065"
+  ]
+ },
+ {
+  "name": "Godsibs",
+  "type": "Concept",
+  "aliases": [
+   "godfather",
+   "godmother"
+  ],
+  "description": "The three baptismal sponsors (godfathers and godmothers) required by the Church for each child.",
+  "evidence": [
+   "magic-apprentices::0065"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural area strength that adds to the roll to incur a Turbulence.",
+  "evidence": [
+   "magic-apprentices::0079",
+   "magic-apprentices::0080"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Supernatural region; Magic Sensitivity draws the Blacksmith's Son toward regiones.",
+  "evidence": [
+   "magic-apprentices::0049",
+   "magic-apprentices::0079",
+   "magic-apprentices::0092"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Temporary Twilight"
+  ],
+  "description": "Temporary Twilight is an adult magus' magical crisis, likened to controlling a Turbulence.",
+  "evidence": [
+   "magic-apprentices::0049",
+   "magic-apprentices::0081"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Score",
+   "Warping point"
+  ],
+  "description": "Magical corruption measured by Warping Score, opposed to Stamina when controlling a Turbulence.",
+  "evidence": [
+   "magic-apprentices::0081",
+   "magic-apprentices::0115"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection against magic; a Turbulence cannot affect a target with Magic Resistance without Penetration.",
+  "evidence": [
+   "magic-apprentices::0049",
+   "magic-apprentices::0083",
+   "magic-apprentices::0114"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural creature power score; birth apparitions usually have Might 5 or 10.",
+  "evidence": [
+   "magic-apprentices::0064",
+   "magic-apprentices::0093",
+   "magic-apprentices::0094"
+  ]
+ },
+ {
+  "name": "Sympathetic Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Use of sympathetic connections to multiply Penetration, including for Turbulences.",
+  "evidence": [
+   "magic-apprentices::0084"
+  ]
+ },
+ {
+  "name": "Invitation Token",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Token letting a magical being or apprentice work magic within the Aegis of the Hearth; may be given to apprentices.",
+  "evidence": [
+   "magic-apprentices::0085",
+   "magic-apprentices::0086"
+  ]
+ },
+ {
+  "name": "Laboratory",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The magus' workspace, which apprentices clean and where they assist; children can add to Safety and Aesthetics.",
+  "evidence": [
+   "magic-apprentices::0116",
+   "magic-apprentices::0117",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Teaching Source Quality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of instruction quality; the standard parens generates 13.",
+  "evidence": [
+   "magic-apprentices::0027",
+   "magic-apprentices::0058"
+  ]
+ },
+ {
+  "name": "Exposure",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Experience gained by an apprentice assisting the parens when not being taught.",
+  "evidence": [
+   "magic-apprentices::0058",
+   "magic-apprentices::0059"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points a player spends to add to rolls, including to force a Turbulence.",
+  "evidence": [
+   "magic-apprentices::0063",
+   "magic-apprentices::0084"
+  ]
+ },
+ {
+  "name": "Animals of Virtue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical animals described in medieval bestiaries.",
+  "evidence": [
+   "magic-apprentices::0098"
+  ]
+ },
+ {
+  "name": "Aesop's Fables",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Animal fables popular in 1220 whose supernatural animals can be adapted into adventures.",
+  "evidence": [
+   "magic-apprentices::0097",
+   "magic-apprentices::0098"
+  ]
+ },
+ {
+  "name": "Hedge Magic",
+  "type": "Concept",
+  "aliases": [
+   "Hedge Arts"
+  ],
+  "description": "Non-Hermetic magical traditions; a witch's Hedge Arts may let her take an apprentice.",
+  "evidence": [
+   "magic-apprentices::0077",
+   "magic-apprentices::0114"
+  ]
+ },
+ {
+  "name": "False Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Infernal counterpart of The Gift which Intellego Vim cannot distinguish from the true Gift.",
+  "evidence": [
+   "magic-apprentices::0114"
+  ]
+ },
+ {
+  "name": "Blood Rights",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules concerning claims on the Gifted children of magi.",
+  "evidence": [
+   "magic-apprentices::0070"
+  ]
+ },
+ {
+  "name": "Scholae Magicae",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Topic of post-apprenticeship schooling in magic covered by the book.",
+  "evidence": [
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic community where apprentices live, work and play; kinder to Gifted children than villages.",
+  "evidence": [
+   "magic-apprentices::0008",
+   "magic-apprentices::0101",
+   "magic-apprentices::0104"
+  ]
+ },
+ {
+  "name": "Laboratory Turbulences",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Turbulences occurring during laboratory work, covered in the Adolescentia chapter.",
+  "evidence": [
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Hermetic Virtues",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Virtues relating to Hermetic magic which an apprentice can be taught or acquire, including House Virtues.",
+  "evidence": [
+   "magic-apprentices::0012",
+   "magic-apprentices::0052",
+   "magic-apprentices::0072"
+  ]
+ },
+ {
+  "name": "Free House Virtue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "House Virtue that an apprentice studying long enough with his parens may acquire.",
+  "evidence": [
+   "magic-apprentices::0021"
+  ]
+ },
+ {
+  "name": "Social Status",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Category of Virtue or Flaw every character needs; children usually take Son/Daughter of their parent's status.",
+  "evidence": [
+   "magic-apprentices::0021",
+   "magic-apprentices::0023"
+  ]
+ },
+ {
+  "name": "Mitigating Deadly Wounds",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional rule letting a player reduce a wound's severity by accepting a new Flaw.",
+  "evidence": [
+   "magic-apprentices::0088"
+  ]
+ },
+ {
+  "name": "Apprentice",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status Virtue: the character is apprenticed to a Hermetic magus.",
+  "evidence": [
+   "magic-apprentices::0024",
+   "magic-apprentices::0026",
+   "magic-apprentices::0117"
+  ]
+ },
+ {
+  "name": "Orphan",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status Virtue: the child's parents are unknown or deceased.",
+  "evidence": [
+   "magic-apprentices::0026",
+   "magic-apprentices::0071"
+  ]
+ },
+ {
+  "name": "Boundless Energy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Child Virtue granting +3 to Fatigue rolls.",
+  "evidence": [
+   "magic-apprentices::0033"
+  ]
+ },
+ {
+  "name": "Deft Characteristic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Child Virtue halving the age Characteristic Modifier for one Characteristic.",
+  "evidence": [
+   "magic-apprentices::0035"
+  ]
+ },
+ {
+  "name": "Grows Quickly",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Child Virtue treating the character as one age category higher for Size.",
+  "evidence": [
+   "magic-apprentices::0037",
+   "magic-apprentices::0032"
+  ]
+ },
+ {
+  "name": "Inconspicuous",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Child Virtue giving +3 to hide and avoid attention.",
+  "evidence": [
+   "magic-apprentices::0038",
+   "magic-apprentices::0106"
+  ]
+ },
+ {
+  "name": "Protection from Diseases",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Child Supernatural Virtue granting immunity to all diseases from a supernatural agent.",
+  "evidence": [
+   "magic-apprentices::0042"
+  ]
+ },
+ {
+  "name": "Warrior",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting extra experience points, prohibited for characters under 14.",
+  "evidence": [
+   "magic-apprentices::0027"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting extra experience points, prohibited for characters under 14.",
+  "evidence": [
+   "magic-apprentices::0027"
+  ]
+ },
+ {
+  "name": "Skilled Parens",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue assuming an unusually capable parens (Teaching Source Quality 18-19, Lab Total 50).",
+  "evidence": [
+   "magic-apprentices::0027",
+   "magic-apprentices::0028"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Virtue increasing Size; may be Inherited to manifest later.",
+  "evidence": [
+   "magic-apprentices::0029",
+   "magic-apprentices::0030",
+   "magic-apprentices::0032"
+  ]
+ },
+ {
+  "name": "Giant-Blooded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue increasing Size, making a one-year-old Size -1.",
+  "evidence": [
+   "magic-apprentices::0029"
+  ]
+ },
+ {
+  "name": "Light Touch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue a Child Virtue such as Grows Quickly might become.",
+  "evidence": [
+   "magic-apprentices::0032"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue a Child Virtue such as Grows Quickly might become.",
+  "evidence": [
+   "magic-apprentices::0032"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue a Child Virtue such as Grows Quickly might become.",
+  "evidence": [
+   "magic-apprentices::0032"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting 20 experience points per year of childhood.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0108",
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Affinity with Ability",
+  "type": "Virtue",
+  "aliases": [
+   "Affinity"
+  ],
+  "description": "Virtue affecting experience points, e.g. Affinity in Single Weapon, which must be kept once gained.",
+  "evidence": [
+   "magic-apprentices::0055",
+   "magic-apprentices::0056"
+  ]
+ },
+ {
+  "name": "Affinity with Art",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for an Art that is a good choice for Turbulence effects.",
+  "evidence": [
+   "magic-apprentices::0083"
+  ]
+ },
+ {
+  "name": "Puissant Ability",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue adding to an Ability score; can be replaced during transitions (e.g. Puissant Latin, Puissant Craft).",
+  "evidence": [
+   "magic-apprentices::0056",
+   "magic-apprentices::0071",
+   "magic-apprentices::0091"
+  ]
+ },
+ {
+  "name": "Puissant Art",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue adding to an Art score; can be replaced during transitions and suits Turbulence effects.",
+  "evidence": [
+   "magic-apprentices::0056",
+   "magic-apprentices::0083"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [
+   "Increased Characteristics"
+  ],
+  "description": "Virtue adding Characteristic points; can be gained and replaced.",
+  "evidence": [
+   "magic-apprentices::0056",
+   "magic-apprentices::0068"
+  ]
+ },
+ {
+  "name": "Son of Knight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Status Virtue of a young squire.",
+  "evidence": [
+   "magic-apprentices::0021"
+  ]
+ },
+ {
+  "name": "Son of Covenfolk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status Virtue for children of covenant inhabitants.",
+  "evidence": [
+   "magic-apprentices::0023"
+  ]
+ },
+ {
+  "name": "Son of Landed Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue of the Noble Child sample character.",
+  "evidence": [
+   "magic-apprentices::0068"
+  ]
+ },
+ {
+  "name": "Son of Merchant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue of the Merchant's Son.",
+  "evidence": [
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Son of Craftsman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue of the Blacksmith's Son.",
+  "evidence": [
+   "magic-apprentices::0091"
+  ]
+ },
+ {
+  "name": "Great Dexterity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue inherited by the Noble Child, to manifest later.",
+  "evidence": [
+   "magic-apprentices::0068",
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue inherited by the Noble Child, to manifest later.",
+  "evidence": [
+   "magic-apprentices::0068",
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Flexible Formulaic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Hermetic Virtue inherited by the Foundling Child, to materialize during apprenticeship.",
+  "evidence": [
+   "magic-apprentices::0071",
+   "magic-apprentices::0072"
+  ]
+ },
+ {
+  "name": "Book Learner",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Foundling Child.",
+  "evidence": [
+   "magic-apprentices::0071"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue/Ability of the Foundling Child.",
+  "evidence": [
+   "magic-apprentices::0071",
+   "magic-apprentices::0072"
+  ]
+ },
+ {
+  "name": "Intuition",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Blacksmith's Son.",
+  "evidence": [
+   "magic-apprentices::0091"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue/Ability to sense magic, which draws the Blacksmith's Son toward auras and regiones.",
+  "evidence": [
+   "magic-apprentices::0080",
+   "magic-apprentices::0091",
+   "magic-apprentices::0092"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Urchin.",
+  "evidence": [
+   "magic-apprentices::0106"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue the Merchant's Son hopes to gain through veneration of a relic.",
+  "evidence": [
+   "magic-apprentices::0108",
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Luck",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of the Merchant's Son, lucky since birth.",
+  "evidence": [
+   "magic-apprentices::0108",
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue: the Merchant's Son found a holy relic.",
+  "evidence": [
+   "magic-apprentices::0108",
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Apt Student",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue adding to Teaching Source Quality when taught.",
+  "evidence": [
+   "magic-apprentices::0117",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue; a child with it might be asked to look for regiones.",
+  "evidence": [
+   "magic-apprentices::0105"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue; a child with it might accompany covenant goods to market.",
+  "evidence": [
+   "magic-apprentices::0105"
+  ]
+ },
+ {
+  "name": "Comprehend Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue inherent in the lineage of Pralix, useful for detecting Gifted individuals.",
+  "evidence": [
+   "magic-apprentices::0113"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Form of the Gift without social penalty; an infant with it might never be noticed.",
+  "evidence": [
+   "magic-apprentices::0074",
+   "magic-apprentices::0114"
+  ]
+ },
+ {
+  "name": "Peasant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status that Son of Peasant becomes on coming of age.",
+  "evidence": [
+   "magic-apprentices::0021"
+  ]
+ },
+ {
+  "name": "Bastard",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Social Status Flaw: an illegitimate child whose father does not recognize him.",
+  "evidence": [
+   "magic-apprentices::0025",
+   "magic-apprentices::0067"
+  ]
+ },
+ {
+  "name": "Bully",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Child Personality Flaw: compelled to pick on weaker others (Bully +3).",
+  "evidence": [
+   "magic-apprentices::0034",
+   "magic-apprentices::0091"
+  ]
+ },
+ {
+  "name": "Dependence",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Child Personality Flaw: uncomfortable without a trusted mentor, -3 when alone.",
+  "evidence": [
+   "magic-apprentices::0036"
+  ]
+ },
+ {
+  "name": "Infatuation",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major or Minor Child Story Flaw: romantic attraction to someone with no chance of a relationship.",
+  "evidence": [
+   "magic-apprentices::0039"
+  ]
+ },
+ {
+  "name": "Know-It-All",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major or Minor Child Personality Flaw: compelled to show off knowledge and superiority.",
+  "evidence": [
+   "magic-apprentices::0040",
+   "magic-apprentices::0068"
+  ]
+ },
+ {
+  "name": "Late Bloomer",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Child Flaw: treated as one age category lower on the Aging Chart.",
+  "evidence": [
+   "magic-apprentices::0041"
+  ]
+ },
+ {
+  "name": "Turbulence Prone",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Child Flaw for Gifted characters: must check for turbulence on every potential magical botch.",
+  "evidence": [
+   "magic-apprentices::0043"
+  ]
+ },
+ {
+  "name": "Abandoned Apprentice",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw: abandoned by the master mid-training, knowing Hermetic magic but not in the Order.",
+  "evidence": [
+   "magic-apprentices::0044"
+  ]
+ },
+ {
+  "name": "Frail",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw giving -3 to Soak.",
+  "evidence": [
+   "magic-apprentices::0045"
+  ]
+ },
+ {
+  "name": "Low Tolerance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw increasing Fatigue and wound penalties and -3 to resist pain.",
+  "evidence": [
+   "magic-apprentices::0046"
+  ]
+ },
+ {
+  "name": "Short of Breath",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw giving -3 to Stamina rolls to avoid fatigue.",
+  "evidence": [
+   "magic-apprentices::0047",
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Slow Reflexes",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw giving -3 to Initiative when a quick response is needed.",
+  "evidence": [
+   "magic-apprentices::0048",
+   "magic-apprentices::0091"
+  ]
+ },
+ {
+  "name": "Suppressed Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Hermetic Story Flaw: the Gift is temporarily inaccessible, preventing Hermetic magic and Parma Magica.",
+  "evidence": [
+   "magic-apprentices::0049"
+  ]
+ },
+ {
+  "name": "Weak Parens",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw assuming a weak parens (Teaching Source Quality 8, Lab Total 30).",
+  "evidence": [
+   "magic-apprentices::0027",
+   "magic-apprentices::0028"
+  ]
+ },
+ {
+  "name": "Outlaw",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Social Status Flaw, e.g. for a squire who kills a priest.",
+  "evidence": [
+   "magic-apprentices::0021",
+   "magic-apprentices::0022"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw reducing Size; a child with it stays Size -3 until 12.",
+  "evidence": [
+   "magic-apprentices::0029",
+   "magic-apprentices::0056",
+   "magic-apprentices::0106"
+  ]
+ },
+ {
+  "name": "Dwarf",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw reducing Size; a Dwarf stays Size -3 until 14.",
+  "evidence": [
+   "magic-apprentices::0029"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw giving only 10 experience points per year of childhood.",
+  "evidence": [
+   "magic-apprentices::0050"
+  ]
+ },
+ {
+  "name": "Death Prophecy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Noble Child, prophesied to die by fire.",
+  "evidence": [
+   "magic-apprentices::0068",
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Feud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Noble Child.",
+  "evidence": [
+   "magic-apprentices::0068"
+  ]
+ },
+ {
+  "name": "Ability Block",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw (Academic) of the Noble Child.",
+  "evidence": [
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Poor Hearing",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Noble Child.",
+  "evidence": [
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Poor Student",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Noble Child.",
+  "evidence": [
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Reckless",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Noble Child.",
+  "evidence": [
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw: an obvious Gift; such babies are often destroyed or abandoned.",
+  "evidence": [
+   "magic-apprentices::0071",
+   "magic-apprentices::0073",
+   "magic-apprentices::0074"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw whose creature appears as a birth apparition.",
+  "evidence": [
+   "magic-apprentices::0064",
+   "magic-apprentices::0071"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw with a supernatural attachment that may appear as a birth apparition.",
+  "evidence": [
+   "magic-apprentices::0064"
+  ]
+ },
+ {
+  "name": "No Sense of Direction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Blacksmith's Son, who can never find his way home.",
+  "evidence": [
+   "magic-apprentices::0091",
+   "magic-apprentices::0092"
+  ]
+ },
+ {
+  "name": "Daughter of Branded Criminal",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Social Status Flaw of the Urchin.",
+  "evidence": [
+   "magic-apprentices::0106"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw: the Merchant's Son knows of his father's illegal business practices.",
+  "evidence": [
+   "magic-apprentices::0108",
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Overconfident",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Merchant's Son.",
+  "evidence": [
+   "magic-apprentices::0108",
+   "magic-apprentices::0109"
+  ]
+ },
+ {
+  "name": "Obsessed",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Merchant's Son, obsessed with saints' lives.",
+  "evidence": [
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Soft-Hearted",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Apprentice of House Bonisagus.",
+  "evidence": [
+   "magic-apprentices::0117"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Background Flaw only allowed after an enemy has surfaced in play.",
+  "evidence": [
+   "magic-apprentices::0056",
+   "magic-apprentices::0057"
+  ]
+ },
+ {
+  "name": "Deficient Technique",
+  "type": "Flaw",
+  "aliases": [
+   "Deficient Form",
+   "Deficiency"
+  ],
+  "description": "Hermetic Flaw an apprentice gains if the parens' Technique score is below 5 when Opening the Arts.",
+  "evidence": [
+   "magic-apprentices::0119"
+  ]
+ },
+ {
+  "name": "Shared Lab",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "New Laboratory Flaw introduced in the book.",
+  "evidence": [
+   "magic-apprentices::0007"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Native Language",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language an apprentice must learn to read and write for a Hermetic career.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0071",
+   "magic-apprentices::0116"
+  ]
+ },
+ {
+  "name": "Organization Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0050",
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0051"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0052",
+   "magic-apprentices::0069"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0052",
+   "magic-apprentices::0055"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Vocational Ability such as Blacksmith that children may learn from parents.",
+  "evidence": [
+   "magic-apprentices::0052",
+   "magic-apprentices::0091"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Vocational Ability such as Midwife, Merchant or Forester that children may learn from parents.",
+  "evidence": [
+   "magic-apprentices::0052",
+   "magic-apprentices::0063",
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0071",
+   "magic-apprentices::0072"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0071",
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability needed by a proper laboratory assistant.",
+  "evidence": [
+   "magic-apprentices::0117"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability letting a Turbulence overcome Magic Resistance.",
+  "evidence": [
+   "magic-apprentices::0083",
+   "magic-apprentices::0084"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0106",
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0106"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0106"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0108"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0113"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0063"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0027",
+   "magic-apprentices::0058"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic magic resistance ritual; an abandoned apprentice who knows it must join the Order or be slain.",
+  "evidence": [
+   "magic-apprentices::0044",
+   "magic-apprentices::0049",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by young characters, e.g. in example childhoods and sample characters.",
+  "evidence": [
+   "magic-apprentices::0047"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [
+   "Cr"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0063",
+   "magic-apprentices::0083"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [
+   "In"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0114",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [
+   "Mu"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [
+   "Pe"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [
+   "Re"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [
+   "An"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [
+   "Aq"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0083",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [
+   "Au"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Co"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0063",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [
+   "He"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [
+   "Ig"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [
+   "Im"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [
+   "Me"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0117",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [
+   "Te"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [
+   "Vi"
+  ],
+  "description": "One of the 15 Hermetic Arts that a magus needs at 5 to Open an apprentice's Arts fully.",
+  "evidence": [
+   "magic-apprentices::0114",
+   "magic-apprentices::0118"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Covenant protection ritual that can block birth apparitions and hinder Turbulences of children who did not participate in it.",
+  "evidence": [
+   "magic-apprentices::0064",
+   "magic-apprentices::0085",
+   "magic-apprentices::0086"
+  ]
+ },
+ {
+  "name": "Pilum of Fire",
+  "type": "Spell",
+  "aliases": [
+   "Pilums of Fire"
+  ],
+  "description": "Iconic combat spell an early apprentice will not be casting while cleaning the lab.",
+  "evidence": [
+   "magic-apprentices::0116"
+  ]
+ },
+ {
+  "name": "The Numbness of the Gift",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 20 spell making the caster's hand numb when touching a Gifted character; invented to detect Gifted hedge wizards.",
+  "evidence": [
+   "magic-apprentices::0114",
+   "magic-apprentices::0115"
+  ]
+ },
+ {
+  "name": "Sight of the Lazy Parens",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 40 spell making Gifted individuals appear surrounded by a magenta aura to the caster.",
+  "evidence": [
+   "magic-apprentices::0114",
+   "magic-apprentices::0115"
+  ]
+ },
+ {
+  "name": "Ager Belli",
+  "type": "Spell",
+  "aliases": [],
+  "description": "New spell described in an insert of the book.",
+  "evidence": [
+   "magic-apprentices::0007"
+  ]
+ },
+ {
+  "name": "The Apprentice's Delight",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Appropriate Attire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Chameleon Cat",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Cleric's Pate",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Cook's Revenge",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Curse of Diana",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Curse of the Baby's Bladder",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Closing the Campfire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Dancer's Dame",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Ears of the Hare",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "An Evening's Illumination",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Hurling the Droplet of Lye",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Hypnotic Gaze",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Jongleur's Steps",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Jupiter's Tears",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Laundress' Clothesline",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Mimic the Christ's Miracle",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "A Pestilence of Fleas",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Physician's Sense",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Poor Performer's Reward",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Racing Rot",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Reward Delivered",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Sense the Sleeping Hound",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Shattering Touch",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Slap of Awakening",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Smokeless Campfire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Studious Doppleganger",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "The Unruffled Traveler",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Whispering Fingers",
+  "type": "Spell",
+  "aliases": [],
+  "description": "A cantation (low-level formulaic spell for apprentices) listed in the book's contents.",
+  "evidence": [
+   "magic-apprentices::0005",
+   "magic-apprentices::0006"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Supernatural beast; Merlin saw battling dragons, and a year's instruction from an elder dragon might restore a Suppressed Gift.",
+  "evidence": [
+   "magic-apprentices::0009",
+   "magic-apprentices::0010",
+   "magic-apprentices::0049"
+  ]
+ },
+ {
+  "name": "Faerie Wolf",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creature of local superstition said to lick a newborn left in a clearing and bequeath supernatural powers.",
+  "evidence": [
+   "magic-apprentices::0094"
+  ]
+ },
+ {
+  "name": "Infernal Hawk",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal bird in a story seed that follows grogs hoping to snatch a Gifted baby.",
+  "evidence": [
+   "magic-apprentices::0075"
+  ]
+ },
+ {
+  "name": "Troll",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Possible culprit that steals a Gifted baby to eat it.",
+  "evidence": [
+   "magic-apprentices::0097"
+  ]
+ },
+ {
+  "name": "Elf",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Possible baby thief who forgot to leave a changeling.",
+  "evidence": [
+   "magic-apprentices::0097"
+  ]
+ },
+ {
+  "name": "Changeling",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie replacement left for a stolen child.",
+  "evidence": [
+   "magic-apprentices::0097"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirit rumored to haunt an abandoned castle; actually a Gifted child forcing Turbulences.",
+  "evidence": [
+   "magic-apprentices::0107"
+  ]
+ },
+ {
+  "name": "Infernal Bull",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal animal terrorizing local cows in a story idea.",
+  "evidence": [
+   "magic-apprentices::0095"
+  ]
+ }
+]

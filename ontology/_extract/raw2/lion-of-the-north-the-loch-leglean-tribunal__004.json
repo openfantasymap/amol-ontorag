@@ -1,0 +1,797 @@
+[
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [
+   "Cruthaich"
+  ],
+  "description": "Hermetic Technique whose Gaelic name in the Loch Leglean glossary is Cruthaich.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [
+   "Fios"
+  ],
+  "description": "Hermetic Technique whose Gaelic name in the Loch Leglean glossary is Fios.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [
+   "Atharraich"
+  ],
+  "description": "Hermetic Technique whose Gaelic name in the Loch Leglean glossary is Atharraich.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [
+   "Sgrios"
+  ],
+  "description": "Hermetic Technique whose Gaelic name in the Loch Leglean glossary is Sgrios.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [
+   "Ceannseach"
+  ],
+  "description": "Hermetic Technique whose Gaelic name in the Loch Leglean glossary is Ceannseach.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [
+   "Beatach"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Beatach.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [
+   "Uisge"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Uisge.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [
+   "Aile"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Aile.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Corp"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Corp.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [
+   "Lus"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Lus.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [
+   "Teine"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Teine.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [
+   "Iomhaigh"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Iomhaigh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [
+   "Inntinn"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Inntinn.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [
+   "Tir"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Tir.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [
+   "Cumhachd"
+  ],
+  "description": "Hermetic Form whose Gaelic name in the Loch Leglean glossary is Cumhachd.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [
+   "Teachdair"
+  ],
+  "description": "Messenger magus of House Mercere; Gaelic 'Teachdair' (messenger). Thomas Verus is a wandering Redcap.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486",
+   "lion-of-the-north-the-loch-leglean-tribunal::0488",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Apprentice",
+  "type": "CharacterType",
+  "aliases": [
+   "Foghlumach"
+  ],
+  "description": "A magus in training; Gaelic 'Foghlumach' (learner).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Consors",
+  "type": "CharacterType",
+  "aliases": [
+   "Caraid"
+  ],
+  "description": "Companion character; Gaelic 'Caraid' (friend).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [
+   "Comhairle"
+  ],
+  "description": "A community of magi; Gaelic 'Comhairle' (council).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Custos",
+  "type": "CharacterType",
+  "aliases": [
+   "Freiceadan"
+  ],
+  "description": "Covenant guard or servant; Gaelic 'Freiceadan' (guard).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "Dionadair"
+  ],
+  "description": "Covenant supporter or soldier; Gaelic 'Dionadair' (supporter).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Turb",
+  "type": "Concept",
+  "aliases": [
+   "Comhlan",
+   "Buidhean"
+  ],
+  "description": "A covenant's band of grogs; Gaelic 'Comhlan' (band) or 'Buidhean' (company).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Concept",
+  "aliases": [
+   "Geasadaireachd",
+   "Druidheachd"
+  ],
+  "description": "Spells and magic, rendered in Gaelic as Geasadaireachd or Druidheachd.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0486"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [
+   "Alban",
+   "Mythic Scotland"
+  ],
+  "description": "The realm covered by the Loch Leglean Tribunal, settled over centuries by Broch-builders, Picts, Scots, Vikings, Britons and Saxons.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Lowlands",
+  "type": "Place",
+  "aliases": [
+   "Galldach",
+   "Scottish Lowlands"
+  ],
+  "description": "English in culture and law, with many English and Norman families; ruled by the Roman Church.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Highlands",
+  "type": "Place",
+  "aliases": [
+   "Gaidhealtachd",
+   "Scottish Highlands"
+  ],
+  "description": "Hilly, thickly wooded lands where clans rule and bow to no king; home to giants in their further reaches and to the Scottish Church's abbeys.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [
+   "Sasunn"
+  ],
+  "description": "Kingdom to the south whose English and Normans are gaining control over the Scots.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [
+   "Eire"
+  ],
+  "description": "Country named in the Gaelic glossary.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "aliases": [
+   "Fraing"
+  ],
+  "description": "Country named in the Gaelic glossary.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [
+   "Roimh"
+  ],
+  "description": "City named in the Gaelic glossary.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481"
+  ]
+ },
+ {
+  "name": "Picts",
+  "type": "Faction",
+  "description": "People who succeeded the Broch-builders in Scotland's history.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Scots",
+  "type": "Faction",
+  "aliases": [
+   "Albanach"
+  ],
+  "description": "People of Scotland who succeeded the Picts; now losing control to the English and Normans.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Broch-builders",
+  "type": "Faction",
+  "description": "The earliest people in Scotland's history, succeeded by the Picts and Scots.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Vikings",
+  "type": "Faction",
+  "aliases": [
+   "Norsemen",
+   "Lochlannach"
+  ],
+  "description": "Norse whose descendants rule large parts of the northern Highlands and the Islands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Normans",
+  "type": "Faction",
+  "description": "Immigrants gaining control over the Scots; many Norman families live in the Lowlands, and demons have come with them.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Border lords",
+  "type": "Faction",
+  "description": "Lords between Scotland and England who will follow either king for a price.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "King Alexander II",
+  "type": "Character",
+  "aliases": [
+   "Alexander II",
+   "Alexander"
+  ],
+  "description": "Son of William the Lion and king of Scotland, ruling from Castle Rock in Edinburgh; he joined the rebellion against King John and signed the Magna Carta.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "William the Lion",
+  "type": "Character",
+  "description": "Former king of Scotland, father of Alexander II.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "King John of England",
+  "type": "Character",
+  "aliases": [
+   "King John"
+  ],
+  "description": "King of England against whom Alexander II rebelled; father of Joan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Joan",
+  "type": "Character",
+  "description": "Daughter of King John of England, betrothed to Alexander II.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Magna Carta",
+  "type": "Item",
+  "description": "Charter signed by Alexander II after joining the rebellion against King John.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Castle Rock",
+  "type": "Place",
+  "description": "The king of Scotland's seat in Edinburgh, where the Stone of Scone lies.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Edinburgh",
+  "type": "Place",
+  "description": "City where King Alexander II rules from Castle Rock.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Stone of Scone",
+  "type": "Item",
+  "description": "Stone at Castle Rock over which all Scottish kings have been crowned.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Lord Goulis",
+  "type": "Character",
+  "aliases": [
+   "Goulis"
+  ],
+  "description": "Seneschal of Scotland, rumored to be a servant of Satan; his family has held the office as a hereditary fief for three generations.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Satan",
+  "type": "Character",
+  "description": "The devil, whom Lord Goulis is rumored to serve.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Roman Church",
+  "type": "Faction",
+  "aliases": [
+   "Papanach"
+  ],
+  "description": "Rules the Lowlands and is making inroads into the Highlands at the expense of the native Church.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Scottish Church",
+  "type": "Faction",
+  "aliases": [
+   "native Church"
+  ],
+  "description": "Native Church with abbeys in the Highlands; it holds services in Gaelic instead of Latin.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Guillame de Bruyse",
+  "type": "Character",
+  "description": "Bishop of St. Andrews and primate of the Church in Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "St. Andrews",
+  "type": "Place",
+  "description": "Bishopric whose bishop is primate of the Church in Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Gaelic",
+  "type": "Concept",
+  "aliases": [
+   "Gaidhlig"
+  ],
+  "description": "Language of the Highland Scots, used in Scottish Church services.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "description": "First Hermetic wizard to come to Scotland; she pursued and battled Damhan-allaidh, and the tribunal is named for her winter camp.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Damhan-allaidh",
+  "type": "Character",
+  "description": "Foe whom Pralix pursued to Scotland and fought in many battles.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488",
+   "lion-of-the-north-the-loch-leglean-tribunal::0483"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "Hermetic House, many of whose original members came from Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Loch Leglean"
+  ],
+  "description": "Tribunal of Scotland formed in 817, named for Pralix's winter camp; a quarter of its magi belong to no covenant.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Hermetic war during which, in 1008, three Loch Leglean covenants tied to House Diedne were destroyed.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "description": "Hermetic House closely associated with three Loch Leglean covenants destroyed in 1008.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Pact of Crun Clach",
+  "type": "Concept",
+  "description": "Agreement of 1189 that reduced Loch Leglean magi's direct involvement in mortal affairs.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The Hermetic order; its Loch Leglean magi tend to side with non-Hermetic neighbors against mainland magi.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Crun Clach",
+  "type": "Covenant",
+  "description": "A Lowland covenant and one of the three largest in Loch Leglean.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Clan Mac Gruagach",
+  "type": "Covenant",
+  "description": "A Highland covenant and one of the three largest in Loch Leglean.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Horsingas",
+  "type": "Covenant",
+  "aliases": [
+   "Horsingas Covenant"
+  ],
+  "description": "A Saxon covenant and one of the three largest in Loch Leglean; home of the quaesitor Whitburh Frithowebba.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Aonaranan",
+  "type": "CharacterType",
+  "aliases": [
+   "aonaran",
+   "hermits"
+  ],
+  "description": "Loch Leglean magi tied to no covenant who keep their tribunal voting rights.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488"
+  ]
+ },
+ {
+  "name": "Whitburh Frithowebba",
+  "type": "Character",
+  "description": "Magus of Horsingas Covenant and the only quaesitor in the Tribunal.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "description": "Hermetic investigator; Whitburh Frithowebba is the only one in Loch Leglean.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Thomas Verus",
+  "type": "Character",
+  "description": "Wandering Redcap, the only member of House Mercere whose route includes Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "description": "House of the Redcaps; Thomas Verus is the only member whose route includes Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0488",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Faeries",
+  "type": "Creature",
+  "aliases": [
+   "sith",
+   "Sitheach"
+  ],
+  "description": "Common in Scotland; Highland faeries are usually solitary, strange and dangerous, while more humanlike faeries live in knowes.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0482",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Knowe",
+  "type": "Place",
+  "aliases": [
+   "knowes"
+  ],
+  "description": "Hollow hill where the more tolerant, humanlike faeries live.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Rade",
+  "type": "Concept",
+  "aliases": [
+   "rades"
+  ],
+  "description": "A faerie ride or procession.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Gruagachan",
+  "type": "Faction",
+  "aliases": [
+   "Gruagach"
+  ],
+  "description": "Magicians from an ancient, non-Hermetic tradition.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "description": "Wizards found in the northern Islands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Demons",
+  "type": "Creature",
+  "aliases": [
+   "Deamhom",
+   "Fiend"
+  ],
+  "description": "Arrived with Norman and English immigrants but are still less common in Scotland than elsewhere.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0482",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Giants",
+  "type": "Creature",
+  "description": "Live in the further reaches of the Highlands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Stoorworm",
+  "type": "Creature",
+  "description": "A form of water wyrm living in the seas off Scotland's north coast.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting; demons are more common across it than in Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ },
+ {
+  "name": "Islands",
+  "type": "Place",
+  "aliases": [
+   "northern Islands",
+   "Hebrides"
+  ],
+  "description": "Scottish isles ruled by Viking descendants, where the Order of Odin is found.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0481",
+   "lion-of-the-north-the-loch-leglean-tribunal::0487",
+   "lion-of-the-north-the-loch-leglean-tribunal::0489"
+  ]
+ }
+]

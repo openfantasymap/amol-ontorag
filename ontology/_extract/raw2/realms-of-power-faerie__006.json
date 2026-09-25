@@ -1,0 +1,2007 @@
+[
+ {
+  "name": "Faerie Doctor",
+  "type": "CharacterType",
+  "aliases": [
+   "faerie doctors"
+  ],
+  "description": "A hedge practitioner trained from birth by a relative who mediates between humans and the fae, removing curses and diseases and swearing oaths not to take sides between humans and faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0720",
+   "realms-of-power-faerie::0721",
+   "realms-of-power-faerie::0722"
+  ]
+ },
+ {
+  "name": "Faerie Doctor Special Virtue",
+  "type": "Virtue",
+  "description": "Special Virtue that makes a character a Mythic Companion faerie doctor, granting free Dowsing and 2 Virtue points per Flaw point, with compulsory Virtues and Flaws.",
+  "evidence": [
+   "realms-of-power-faerie::0722",
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "A magus-level companion archetype that gains extra Virtue points for Flaws; faerie doctors can be played as Mythic Companions.",
+  "evidence": [
+   "realms-of-power-faerie::0722",
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Curse-Throwing",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue and Ability used by faerie doctors to remove blights, banes, and diseases; compulsory for faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0720",
+   "realms-of-power-faerie::0722",
+   "realms-of-power-faerie::0725"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting faerie doctors locate water and lost things; granted free to the Faerie Doctor Mythic Companion.",
+  "evidence": [
+   "realms-of-power-faerie::0720",
+   "realms-of-power-faerie::0722",
+   "realms-of-power-faerie::0725"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Virtue",
+  "description": "Minor Social Virtue compulsory for faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0722"
+  ]
+ },
+ {
+  "name": "Faerie Friend",
+  "type": "Flaw",
+  "description": "Minor Story Flaw compulsory for faerie doctors, representing the faerie companion acquired at puberty who gives insight into faerie-kind.",
+  "evidence": [
+   "realms-of-power-faerie::0720",
+   "realms-of-power-faerie::0722"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw; faerie doctors take it to obey their oaths.",
+  "evidence": [
+   "realms-of-power-faerie::0722"
+  ]
+ },
+ {
+  "name": "Sin-Eating",
+  "type": "Ability",
+  "aliases": [
+   "sin-eater",
+   "sin-eaters"
+  ],
+  "description": "A cultural variant of Curse-Throwing in which a sin-eater takes on the sins of the dying via a ritual meal, preventing the spirit from becoming a ghost; common among Saxon-descended cultures.",
+  "evidence": [
+   "realms-of-power-faerie::0722",
+   "realms-of-power-faerie::0723"
+  ]
+ },
+ {
+  "name": "Rite of the Scapegoat",
+  "type": "Concept",
+  "aliases": [
+   "scapegoat rite",
+   "scapegoat"
+  ],
+  "description": "Jewish atonement rite, a Divine-aligned version of Curse-Throwing, in which a goat is loaded with a community's sins on Yom Kippur and driven into desolation.",
+  "evidence": [
+   "realms-of-power-faerie::0721",
+   "realms-of-power-faerie::0723",
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Yom Kippur",
+  "type": "Concept",
+  "description": "Jewish day of atonement on which the scapegoat rite is performed.",
+  "evidence": [
+   "realms-of-power-faerie::0723"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House whose magi have heartbeasts; a Bjornaer magus in goat form was unwittingly part of the scapegoat rite in a story seed.",
+  "evidence": [
+   "realms-of-power-faerie::0721"
+  ]
+ },
+ {
+  "name": "Heartbeast",
+  "type": "Concept",
+  "description": "The animal form of a Bjornaer magus.",
+  "evidence": [
+   "realms-of-power-faerie::0721"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Christian Church",
+   "priesthood"
+  ],
+  "description": "The Christian Church, which regularly excommunicates sin-eaters and often clashes with faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0723",
+   "realms-of-power-faerie::0721",
+   "realms-of-power-faerie::0823"
+  ]
+ },
+ {
+  "name": "Satan",
+  "type": "Character",
+  "description": "The Devil, to whom the scapegoat was incorrectly identified as a propitiatory sacrifice.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "description": "Place of damnation from which the sin-eater is believed to save the deceased.",
+  "evidence": [
+   "realms-of-power-faerie::0722"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "description": "Spirit of the dead that wanders the world due to unrepented sins, prevented by Sin-Eating.",
+  "evidence": [
+   "realms-of-power-faerie::0722",
+   "realms-of-power-faerie::0723",
+   "realms-of-power-faerie::0796"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm of power of God; Jewish Curse-Throwing is aligned to it and holy characters experience Divine Ascent.",
+  "evidence": [
+   "realms-of-power-faerie::0723",
+   "realms-of-power-faerie::0742"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of power of demons; infernalists undergo Vituperation instead of Faerie Calling.",
+  "evidence": [
+   "realms-of-power-faerie::0742",
+   "realms-of-power-faerie::0803"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm of power of Magic; homunculi live on its boundary with Faerie and magi experience Wizard's Twilight.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0742"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie",
+   "Faerieland",
+   "Faerie realm"
+  ],
+  "description": "The realm of faeries; adventuring there causes Warping that offsets its time dilation, and those lost to Faerie Calling pass into Faerieland forever.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0734",
+   "realms-of-power-faerie::0742"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "description": "The Faerie Realm beyond the mortal world, reachable through regio boundaries via Portage.",
+  "evidence": [
+   "realms-of-power-faerie::0753",
+   "realms-of-power-faerie::0783",
+   "realms-of-power-faerie::0827"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting world in which faerie wizards and magi live.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0800",
+   "realms-of-power-faerie::0826"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "description": "Saxon-descended land where Sin-Eating is common.",
+  "evidence": [
+   "realms-of-power-faerie::0723"
+  ]
+ },
+ {
+  "name": "Flanders",
+  "type": "Place",
+  "description": "Saxon-descended land where Sin-Eating is common.",
+  "evidence": [
+   "realms-of-power-faerie::0723"
+  ]
+ },
+ {
+  "name": "Frisia",
+  "type": "Place",
+  "description": "Saxon-descended land where Sin-Eating is common.",
+  "evidence": [
+   "realms-of-power-faerie::0723"
+  ]
+ },
+ {
+  "name": "Saxony",
+  "type": "Place",
+  "description": "Saxon-descended land where Sin-Eating is common.",
+  "evidence": [
+   "realms-of-power-faerie::0723"
+  ]
+ },
+ {
+  "name": "Balkan Peninsula",
+  "type": "Place",
+  "description": "Region whose people have traditions analogous to Sin-Eating.",
+  "evidence": [
+   "realms-of-power-faerie::0723"
+  ]
+ },
+ {
+  "name": "Student of Faerie",
+  "type": "Virtue",
+  "description": "Virtue very common among faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Faerie Upbringing",
+  "type": "Flaw",
+  "description": "Flaw very common among faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Transvestite",
+  "type": "Flaw",
+  "description": "Flaw held by a high number of faerie doctors, reflecting their oath to wear women's clothes.",
+  "evidence": [
+   "realms-of-power-faerie::0724",
+   "realms-of-power-faerie::0721"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "description": "Virtue granting resistance to curses and diseases, useful for faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Lesser Immunity",
+  "type": "Virtue",
+  "description": "Virtue granting resistance to curses and diseases; may arise from faerie Warping at score 5.",
+  "evidence": [
+   "realms-of-power-faerie::0724",
+   "realms-of-power-faerie::0731"
+  ]
+ },
+ {
+  "name": "Rapid Convalescence",
+  "type": "Virtue",
+  "description": "Virtue useful to faerie doctors for resisting disease.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Ability",
+  "aliases": [
+   "(Faerie) Summoning"
+  ],
+  "description": "Faerie bargaining art/Virtue for calling faeries and holding them in attendance to bargain; Summoning Total is stress die + Presence + Summoning + Faerie Rank + aura.",
+  "evidence": [
+   "realms-of-power-faerie::0724",
+   "realms-of-power-faerie::0801",
+   "realms-of-power-faerie::0802"
+  ]
+ },
+ {
+  "name": "Control Fertility",
+  "type": "Virtue",
+  "description": "Virtue useful to faerie doctors (from Houses of Hermes: Societates).",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "description": "Virtue useful to faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Herbalism",
+  "type": "Virtue",
+  "description": "Virtue useful to faerie doctors (from Art & Academe).",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Purifying Touch",
+  "type": "Virtue",
+  "description": "Virtue useful to faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "Virtue useful to faerie doctors and a Favored Ability for Gifted ones; may be gained through faerie Warping.",
+  "evidence": [
+   "realms-of-power-faerie::0724",
+   "realms-of-power-faerie::0725",
+   "realms-of-power-faerie::0731"
+  ]
+ },
+ {
+  "name": "Profession: Storyteller",
+  "type": "Ability",
+  "description": "Ability almost essential for faerie doctors.",
+  "evidence": [
+   "realms-of-power-faerie::0724"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Supernatural capacity for magic; Gifted faerie doctors may take a free Supernatural Ability, and a homunculus grants a faerie version of it.",
+  "evidence": [
+   "realms-of-power-faerie::0724",
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0728"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "description": "Version of The Gift that does not disturb people and animals; homunculus wizards have a faerie equivalent.",
+  "evidence": [
+   "realms-of-power-faerie::0727"
+  ]
+ },
+ {
+  "name": "Supernatural Abilities",
+  "type": "Concept",
+  "description": "Abilities with supernatural effects, such as Curse-Throwing; Faerie Methods and Powers are essentially Supernatural Abilities.",
+  "evidence": [
+   "realms-of-power-faerie::0725",
+   "realms-of-power-faerie::0757",
+   "realms-of-power-faerie::0764"
+  ]
+ },
+ {
+  "name": "Favored Abilities",
+  "type": "Concept",
+  "description": "Supernatural Abilities favored by a tradition that do not penalize Source Quality when learning other favored abilities.",
+  "evidence": [
+   "realms-of-power-faerie::0725",
+   "realms-of-power-faerie::0819"
+  ]
+ },
+ {
+  "name": "Homunculus",
+  "type": "Creature",
+  "aliases": [
+   "homunculi"
+  ],
+  "description": "Tiny faerie born from the dreams of magi, living on the boundary of Magic and Faerie, that bonds to the first person it sees and grants him faerie power in exchange for daily blood.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0727"
+  ]
+ },
+ {
+  "name": "Homunculus Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "Homunculi Wizards",
+   "homunculus magi"
+  ],
+  "description": "A hedge wizard whose faerie version of The Gift derives from a bond with a homunculus; experiences Faerie Calling rather than Twilight.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0727",
+   "realms-of-power-faerie::0728"
+  ]
+ },
+ {
+  "name": "Homunculus Wizard Flaw",
+  "type": "Flaw",
+  "description": "Flaw taken with The Gift to play a homunculus wizard; may be the inherent Flaw of an Ex Miscellanea magus.",
+  "evidence": [
+   "realms-of-power-faerie::0728"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge wizards"
+  ],
+  "description": "Non-Hermetic magical practitioner; faerie-aligned ones include homunculus wizards and faerie wizards.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0728",
+   "realms-of-power-faerie::0824"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi; hedge wizards are considered too weak to require them to join or die.",
+  "evidence": [
+   "realms-of-power-faerie::0727",
+   "realms-of-power-faerie::0729",
+   "realms-of-power-faerie::0824"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "Hermetic House whose magi may take Homunculus Wizard as their inherent Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0728"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "description": "Hermetic House whose outer mystery of Faerie Magic benefits homunculus wizards and supplies faerie Ranges and Durations.",
+  "evidence": [
+   "realms-of-power-faerie::0728",
+   "realms-of-power-faerie::0748"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Concept",
+  "description": "House Merinita's outer mystery, attuning magic with the Faerie realm and providing Ranges such as Road.",
+  "evidence": [
+   "realms-of-power-faerie::0728",
+   "realms-of-power-faerie::0748"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Supernatural distortion accumulated from auras, powers, and botches; faerie-aligned characters may develop glamours and Sympathy Traits from it.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0729",
+   "realms-of-power-faerie::0733"
+  ]
+ },
+ {
+  "name": "Faerie Warping",
+  "type": "Concept",
+  "description": "Warping from faerie sources, producing a glamour-Reputation, deprivation needs, faerie Virtues/Flaws, and Sympathy Traits at rising Warping Scores.",
+  "evidence": [
+   "realms-of-power-faerie::0729",
+   "realms-of-power-faerie::0730",
+   "realms-of-power-faerie::0731"
+  ]
+ },
+ {
+  "name": "Wizard's Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight"
+  ],
+  "description": "Experience a magus undergoes upon gaining Warping Points; homunculus wizards do not go into it.",
+  "evidence": [
+   "realms-of-power-faerie::0727",
+   "realms-of-power-faerie::0742"
+  ]
+ },
+ {
+  "name": "Faerie Calling",
+  "type": "Concept",
+  "description": "Dream-like experience when a faerie-aligned character gains 2+ Warping Points at once; resolving it grants or reduces Sympathy Traits, and at high Faerie Rank the character is transformed and lost to Faerieland.",
+  "evidence": [
+   "realms-of-power-faerie::0727",
+   "realms-of-power-faerie::0738",
+   "realms-of-power-faerie::0741"
+  ]
+ },
+ {
+  "name": "Divine Ascent",
+  "type": "Concept",
+  "description": "What a holy character experiences upon gaining Warping Points.",
+  "evidence": [
+   "realms-of-power-faerie::0742"
+  ]
+ },
+ {
+  "name": "Vituperation",
+  "type": "Concept",
+  "description": "What an infernalist undergoes upon gaining Warping Points.",
+  "evidence": [
+   "realms-of-power-faerie::0742"
+  ]
+ },
+ {
+  "name": "Sympathy Traits",
+  "type": "Concept",
+  "aliases": [
+   "Sympathy Trait",
+   "faerie sympathy"
+  ],
+  "description": "Traits representing faerie sympathy with a subject; required for faerie rites and summoning, and they limit maximum rite level and Might affected.",
+  "evidence": [
+   "realms-of-power-faerie::0729",
+   "realms-of-power-faerie::0745",
+   "realms-of-power-faerie::0802"
+  ]
+ },
+ {
+  "name": "Faerie Rank",
+  "type": "Concept",
+  "description": "Measure of a character's alignment with Faerie affecting Faerie Calling mood and bargaining totals.",
+  "evidence": [
+   "realms-of-power-faerie::0729",
+   "realms-of-power-faerie::0739",
+   "realms-of-power-faerie::0802"
+  ]
+ },
+ {
+  "name": "Faerie Metamorphosis",
+  "type": "Flaw",
+  "description": "Flaw required to acquire a glamour through Warping if the character experiences Warping through other means.",
+  "evidence": [
+   "realms-of-power-faerie::0729"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "aliases": [
+   "glamours"
+  ],
+  "description": "Faerie-like persona or substance; a warped character may develop a glamour as a Reputation, and Conjure rites create solid illusory glamours.",
+  "evidence": [
+   "realms-of-power-faerie::0729",
+   "realms-of-power-faerie::0730",
+   "realms-of-power-faerie::0768"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "description": "Stories told about a character; faerie Warping gives a Flaw Reputation that grows with Warping Score.",
+  "evidence": [
+   "realms-of-power-faerie::0729",
+   "realms-of-power-faerie::0730"
+  ]
+ },
+ {
+  "name": "Deprivation",
+  "type": "Concept",
+  "description": "Effect suffered by a glamoured character who fails to act according to his Reputation.",
+  "evidence": [
+   "realms-of-power-faerie::0730",
+   "realms-of-power-faerie::0731"
+  ]
+ },
+ {
+  "name": "Faerie Antipathy",
+  "type": "Flaw",
+  "description": "Supernatural penalty that can manifest at Warping Score 3.",
+  "evidence": [
+   "realms-of-power-faerie::0730"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "description": "Supernatural penalty that can manifest at Warping Score 3.",
+  "evidence": [
+   "realms-of-power-faerie::0730"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "description": "Supernatural Flaw that may manifest at Warping Score 6+.",
+  "evidence": [
+   "realms-of-power-faerie::0731"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "description": "Supernatural Flaw that may manifest at Warping Score 6+.",
+  "evidence": [
+   "realms-of-power-faerie::0731"
+  ]
+ },
+ {
+  "name": "Faerie Sympathy",
+  "type": "Virtue",
+  "description": "Virtue representing sympathy with Faerie via Sympathy Traits; may manifest through Warping and allows faerie wizardry.",
+  "evidence": [
+   "realms-of-power-faerie::0731",
+   "realms-of-power-faerie::0743"
+  ]
+ },
+ {
+  "name": "Lesser Benediction",
+  "type": "Virtue",
+  "description": "Minor faerie-power Virtue that can arise at Warping Score 5.",
+  "evidence": [
+   "realms-of-power-faerie::0731"
+  ]
+ },
+ {
+  "name": "Faerie Aura",
+  "type": "Concept",
+  "description": "Supernatural aura of Faerie; powerful ones grant Warping Points and Grant rites can create them temporarily.",
+  "evidence": [
+   "realms-of-power-faerie::0727",
+   "realms-of-power-faerie::0735",
+   "realms-of-power-faerie::0778"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Layered supernatural area; Portage rites can move targets across regio boundaries, and Grant can create a temporary Faerie regio.",
+  "evidence": [
+   "realms-of-power-faerie::0735",
+   "realms-of-power-faerie::0779",
+   "realms-of-power-faerie::0782"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "description": "Might score of faerie beings; limits what summoners can affect via Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0735",
+   "realms-of-power-faerie::0771",
+   "realms-of-power-faerie::0802"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [
+   "Masters of Faerie Lore"
+  ],
+  "description": "Ability covering faerie etiquette and bargains; masters of it speculate about the fate of those lost to Faerie Calling.",
+  "evidence": [
+   "realms-of-power-faerie::0742",
+   "realms-of-power-faerie::0811",
+   "realms-of-power-faerie::0812"
+  ]
+ },
+ {
+  "name": "Puissant Faerie Lore",
+  "type": "Virtue",
+  "description": "Virtue granted as a Charmed Virtue by the rite A Proper Blessing.",
+  "evidence": [
+   "realms-of-power-faerie::0781"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability used with Perception to act during Faerie Calling.",
+  "evidence": [
+   "realms-of-power-faerie::0738"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability used with Perception to resolve Faerie Calling.",
+  "evidence": [
+   "realms-of-power-faerie::0741"
+  ]
+ },
+ {
+  "name": "Faerie Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "faerie hedge wizards",
+   "faerie wizards"
+  ],
+  "description": "Characters with Faerie Sympathy who practice faerie rites or faerie bargaining, organized into traditions.",
+  "evidence": [
+   "realms-of-power-faerie::0743",
+   "realms-of-power-faerie::0744",
+   "realms-of-power-faerie::0819"
+  ]
+ },
+ {
+  "name": "Faerie Rites",
+  "type": "Concept",
+  "aliases": [
+   "rites",
+   "faerie rite"
+  ],
+  "description": "Spontaneous faerie spells requiring a Faerie Method, Faerie Power, and applicable Sympathy Trait; effects are never permanent.",
+  "evidence": [
+   "realms-of-power-faerie::0743",
+   "realms-of-power-faerie::0744",
+   "realms-of-power-faerie::0745"
+  ]
+ },
+ {
+  "name": "Hermetic Rites",
+  "type": "Concept",
+  "description": "Rituals designed by a magus with a Faerie Method and Power using faerie rite guidelines, cast with vis like Hermetic rituals.",
+  "evidence": [
+   "realms-of-power-faerie::0748"
+  ]
+ },
+ {
+  "name": "Realm Interaction Table",
+  "type": "Concept",
+  "description": "Table determining aura modifiers; Hermetic rites may use its Faerie or Magic column.",
+  "evidence": [
+   "realms-of-power-faerie::0748"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability normally added to ritual casting totals; replaced by Method in Hermetic rites.",
+  "evidence": [
+   "realms-of-power-faerie::0748"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability normally added to ritual casting totals; replaced by Power in Hermetic rites.",
+  "evidence": [
+   "realms-of-power-faerie::0748"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power; Hermetic rites cost vis, and Evocation lets faerie wizards spend vis to boost rites.",
+  "evidence": [
+   "realms-of-power-faerie::0746",
+   "realms-of-power-faerie::0748",
+   "realms-of-power-faerie::0758"
+  ]
+ },
+ {
+  "name": "Faerie Method",
+  "type": "Concept",
+  "description": "Supernatural Ability describing what a faerie wizard does to draw upon Faerie power to perform a rite; examples are Evocation, Enchantment, and Empathy.",
+  "evidence": [
+   "realms-of-power-faerie::0745",
+   "realms-of-power-faerie::0757"
+  ]
+ },
+ {
+  "name": "Faerie Power",
+  "type": "Concept",
+  "description": "Supernatural Ability describing a faerie rite's effect, each vulnerable to a chosen uncommon circumstance; examples Beguile, Conjure, Dream, Grant, Portage, Ware, Weal, Woe.",
+  "evidence": [
+   "realms-of-power-faerie::0745",
+   "realms-of-power-faerie::0764"
+  ]
+ },
+ {
+  "name": "Evocation",
+  "type": "Ability",
+  "description": "Faerie Method (Communication) that ritually calls on faerie gods, costing a Warping or Confidence Point, and allows spending vis on rites.",
+  "evidence": [
+   "realms-of-power-faerie::0758",
+   "realms-of-power-faerie::0819",
+   "realms-of-power-faerie::0823"
+  ]
+ },
+ {
+  "name": "Enchantment",
+  "type": "Ability",
+  "description": "Faerie Method (Presence) where a performance convinces the target to accept a rite, building magnitude via successive rolls.",
+  "evidence": [
+   "realms-of-power-faerie::0759",
+   "realms-of-power-faerie::0760",
+   "realms-of-power-faerie::0761"
+  ]
+ },
+ {
+  "name": "Empathy",
+  "type": "Ability",
+  "description": "Faerie Method (Stamina) drawing Faerie power within the caster through a trance ritual costing Fatigue, doubling Sympathy for effect limits.",
+  "evidence": [
+   "realms-of-power-faerie::0762",
+   "realms-of-power-faerie::0763",
+   "realms-of-power-faerie::0824"
+  ]
+ },
+ {
+  "name": "Beguile",
+  "type": "Ability",
+  "description": "Faerie Power to command targets or alter their memories, perceptions, and emotions.",
+  "evidence": [
+   "realms-of-power-faerie::0765",
+   "realms-of-power-faerie::0766",
+   "realms-of-power-faerie::0767"
+  ]
+ },
+ {
+  "name": "Conjure",
+  "type": "Ability",
+  "description": "Faerie Power producing solid glamours and transforming targets into glamours.",
+  "evidence": [
+   "realms-of-power-faerie::0768",
+   "realms-of-power-faerie::0769",
+   "realms-of-power-faerie::0770"
+  ]
+ },
+ {
+  "name": "Dream",
+  "type": "Ability",
+  "description": "Faerie Power to perceive at a distance, read thoughts, and glimpse faerie visions of the future.",
+  "evidence": [
+   "realms-of-power-faerie::0772",
+   "realms-of-power-faerie::0773",
+   "realms-of-power-faerie::0774"
+  ]
+ },
+ {
+  "name": "Grant",
+  "type": "Ability",
+  "description": "Faerie Power to bless or curse a target with Warping Points, temporary Virtues/Flaws, or Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0777",
+   "realms-of-power-faerie::0778",
+   "realms-of-power-faerie::0779"
+  ]
+ },
+ {
+  "name": "Portage",
+  "type": "Ability",
+  "description": "Faerie Power of instant travel via faerie trods, including across regio boundaries and into the Faerie Realm.",
+  "evidence": [
+   "realms-of-power-faerie::0782",
+   "realms-of-power-faerie::0783",
+   "realms-of-power-faerie::0784"
+  ]
+ },
+ {
+  "name": "Ware",
+  "type": "Ability",
+  "description": "Faerie Power of protection and warding, suppressing supernatural effects and warding against things tied to Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0786",
+   "realms-of-power-faerie::0787",
+   "realms-of-power-faerie::0788"
+  ]
+ },
+ {
+  "name": "Weal",
+  "type": "Ability",
+  "description": "Faerie Power affecting healing and aging, temporarily healing wounds and reducing apparent age.",
+  "evidence": [
+   "realms-of-power-faerie::0791",
+   "realms-of-power-faerie::0792",
+   "realms-of-power-faerie::0793"
+  ]
+ },
+ {
+  "name": "Woe",
+  "type": "Ability",
+  "description": "Faerie Power to injure targets directly, with damage vanishing when the effect ends.",
+  "evidence": [
+   "realms-of-power-faerie::0795",
+   "realms-of-power-faerie::0797",
+   "realms-of-power-faerie::0798"
+  ]
+ },
+ {
+  "name": "Crossroads (Range)",
+  "type": "Concept",
+  "description": "Faerie Range affecting a target on a road from an intersecting road; equivalent to Voice.",
+  "evidence": [
+   "realms-of-power-faerie::0748",
+   "realms-of-power-faerie::0749"
+  ]
+ },
+ {
+  "name": "Presence (Range)",
+  "type": "Concept",
+  "description": "Faerie Range where the caster radiates an invisible faerie aura sized by Presence; equivalent to Voice.",
+  "evidence": [
+   "realms-of-power-faerie::0749"
+  ]
+ },
+ {
+  "name": "Prop (Range)",
+  "type": "Concept",
+  "description": "Faerie Range where the caster touches the target with something he is also touching; equivalent to Touch.",
+  "evidence": [
+   "realms-of-power-faerie::0749",
+   "realms-of-power-faerie::0750"
+  ]
+ },
+ {
+  "name": "Road (Range)",
+  "type": "Concept",
+  "description": "Range from House Merinita's Faerie Magic on which Crossroads is based.",
+  "evidence": [
+   "realms-of-power-faerie::0748",
+   "realms-of-power-faerie::0749"
+  ]
+ },
+ {
+  "name": "Symbol (Faerie Parameter)",
+  "type": "Concept",
+  "description": "Faerie Range, Duration, and Target using a symbol of the target, each requiring 3 points of applicable Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0750",
+   "realms-of-power-faerie::0754",
+   "realms-of-power-faerie::0756"
+  ]
+ },
+ {
+  "name": "Held (Duration)",
+  "type": "Concept",
+  "description": "Faerie Duration delaying the effect while the caster concentrates; equivalent to Concentration.",
+  "evidence": [
+   "realms-of-power-faerie::0750"
+  ]
+ },
+ {
+  "name": "Focus (Duration)",
+  "type": "Concept",
+  "description": "Faerie Duration lasting until the caster performs another supernatural effect; equivalent to Concentration.",
+  "evidence": [
+   "realms-of-power-faerie::0750",
+   "realms-of-power-faerie::0751"
+  ]
+ },
+ {
+  "name": "While (Condition) (Duration)",
+  "type": "Concept",
+  "description": "Faerie Duration lasting while the target performs an activity or holds a temporary condition.",
+  "evidence": [
+   "realms-of-power-faerie::0751"
+  ]
+ },
+ {
+  "name": "Geas (Condition) (Duration)",
+  "type": "Concept",
+  "aliases": [
+   "Geas"
+  ],
+  "description": "Faerie Duration making the effect trigger on an uncommon circumstance outlined to the victim; same level as Sun plus a second Duration.",
+  "evidence": [
+   "realms-of-power-faerie::0751",
+   "realms-of-power-faerie::0752"
+  ]
+ },
+ {
+  "name": "Hour + 1 (Duration)",
+  "type": "Concept",
+  "aliases": [
+   "Hour+1"
+  ],
+  "description": "Faerie Duration lasting an hour and a day; equivalent to Sun.",
+  "evidence": [
+   "realms-of-power-faerie::0752",
+   "realms-of-power-faerie::0786"
+  ]
+ },
+ {
+  "name": "Midday/Midnight (Duration)",
+  "type": "Concept",
+  "description": "Faerie Duration equivalent to Sun that manifests at dawn, noon, dusk, or midnight.",
+  "evidence": [
+   "realms-of-power-faerie::0752"
+  ]
+ },
+ {
+  "name": "Not (Condition) (Duration)",
+  "type": "Concept",
+  "description": "Faerie Duration lasting while the target does not fulfill a common condition, up to a month.",
+  "evidence": [
+   "realms-of-power-faerie::0752"
+  ]
+ },
+ {
+  "name": "Season (Duration)",
+  "type": "Concept",
+  "description": "Faerie ritual Duration running from one equinox or solstice to the next; same level as Moon.",
+  "evidence": [
+   "realms-of-power-faerie::0752"
+  ]
+ },
+ {
+  "name": "Aura (Duration)",
+  "type": "Concept",
+  "description": "Faerie ritual Duration lasting while the target remains within a supernatural aura; equivalent to Year.",
+  "evidence": [
+   "realms-of-power-faerie::0752",
+   "realms-of-power-faerie::0753"
+  ]
+ },
+ {
+  "name": "Faerie (Duration)",
+  "type": "Concept",
+  "description": "Faerie ritual Duration lasting while target or caster has Faerie Might and is in Mythic Europe.",
+  "evidence": [
+   "realms-of-power-faerie::0753"
+  ]
+ },
+ {
+  "name": "Hidden (Duration)",
+  "type": "Concept",
+  "description": "Faerie ritual Duration lasting while the caster or target is hidden; ends if discovered.",
+  "evidence": [
+   "realms-of-power-faerie::0753"
+  ]
+ },
+ {
+  "name": "If (Condition) (Duration)",
+  "type": "Concept",
+  "description": "Faerie ritual Duration triggering when the target fulfills a condition, adding four magnitudes.",
+  "evidence": [
+   "realms-of-power-faerie::0753",
+   "realms-of-power-faerie::0754"
+  ]
+ },
+ {
+  "name": "Medium (Target)",
+  "type": "Concept",
+  "description": "Faerie Target where a medium holds the effect and passes it to a target that comes within range; same level as Part.",
+  "evidence": [
+   "realms-of-power-faerie::0755"
+  ]
+ },
+ {
+  "name": "Passion (Target)",
+  "type": "Concept",
+  "description": "Faerie Target affecting a group through a particular emotion or desire; same level as Group.",
+  "evidence": [
+   "realms-of-power-faerie::0755",
+   "realms-of-power-faerie::0756"
+  ]
+ },
+ {
+  "name": "Gown of Enfolding Colors",
+  "type": "Spell",
+  "description": "Evocation/Beguile 15 rite making everyone in a room perceive the caster or another as especially beautiful.",
+  "evidence": [
+   "realms-of-power-faerie::0765"
+  ]
+ },
+ {
+  "name": "The Irresistible Dance",
+  "type": "Spell",
+  "description": "Empathy/Beguile 25 rite compelling the target to dance with hedonistic abandon.",
+  "evidence": [
+   "realms-of-power-faerie::0765",
+   "realms-of-power-faerie::0766"
+  ]
+ },
+ {
+  "name": "Seduce the Innocent Heart",
+  "type": "Spell",
+  "description": "Enchantment/Beguile 30 rite filling the target with curiosity and carnal desire until sunrise.",
+  "evidence": [
+   "realms-of-power-faerie::0766"
+  ]
+ },
+ {
+  "name": "A Horse of a Different Color",
+  "type": "Spell",
+  "description": "Empathy/Conjure 20 rite giving a target animal colorful wings, making it a chimerical beast able to fly and sing.",
+  "evidence": [
+   "realms-of-power-faerie::0769"
+  ]
+ },
+ {
+  "name": "The Old Guard",
+  "type": "Spell",
+  "description": "Evocation/Conjure 20 rite creating a glamour of ten grogs to protect the caster.",
+  "evidence": [
+   "realms-of-power-faerie::0769",
+   "realms-of-power-faerie::0770"
+  ]
+ },
+ {
+  "name": "Curse of the Faerie Forest",
+  "type": "Spell",
+  "description": "Enchantment/Conjure (Dream) 45 ritual changing a group into animals suited to their surface thoughts until they make amends.",
+  "evidence": [
+   "realms-of-power-faerie::0771"
+  ]
+ },
+ {
+  "name": "Words that Live in Song",
+  "type": "Spell",
+  "description": "Enchantment/Dream 20 rite letting a group understand and join a song in the caster's native language.",
+  "evidence": [
+   "realms-of-power-faerie::0774"
+  ]
+ },
+ {
+  "name": "Vision of the Oracles",
+  "type": "Spell",
+  "description": "Empathy/Dream 30 ritual using a coin on the target's forehead to give a faerie vision about the next year.",
+  "evidence": [
+   "realms-of-power-faerie::0776"
+  ]
+ },
+ {
+  "name": "Red Sky at Dawn, Blue Sky at Dusk",
+  "type": "Spell",
+  "description": "Empathy/Grant ritual tinting a Faerie aura with one of the caster's Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0778"
+  ]
+ },
+ {
+  "name": "Know Then the Calloused Touch of Faerie Hands",
+  "type": "Spell",
+  "description": "Evocation/Grant 30 rite granting the target 5 Warping Points, a permanent effect.",
+  "evidence": [
+   "realms-of-power-faerie::0780"
+  ]
+ },
+ {
+  "name": "A Proper Blessing",
+  "type": "Spell",
+  "description": "Enchantment/Grant 40 ritual granting Puissant Faerie Lore as a Charmed Virtue while the target keeps a stone hidden.",
+  "evidence": [
+   "realms-of-power-faerie::0781"
+  ]
+ },
+ {
+  "name": "Leap of the Shadows",
+  "type": "Spell",
+  "description": "Evocation/Portage 20 rite moving a seen target instantly into shadows.",
+  "evidence": [
+   "realms-of-power-faerie::0783",
+   "realms-of-power-faerie::0784"
+  ]
+ },
+ {
+  "name": "Hearth Prison",
+  "type": "Spell",
+  "description": "Enchantment/Portage 40 ritual preventing everyone in a room from leaving for the duration.",
+  "evidence": [
+   "realms-of-power-faerie::0785"
+  ]
+ },
+ {
+  "name": "The Urgent Messenger",
+  "type": "Spell",
+  "description": "Empathy/Portage 25 rite doubling the target's movement rate while traveling.",
+  "evidence": [
+   "realms-of-power-faerie::0785"
+  ]
+ },
+ {
+  "name": "Release the Spellbound Servant",
+  "type": "Spell",
+  "description": "Empathy/Ware ritual freeing the target from a single supernatural effect for an hour and a day.",
+  "evidence": [
+   "realms-of-power-faerie::0786",
+   "realms-of-power-faerie::0787"
+  ]
+ },
+ {
+  "name": "Sovereign Silence of Opposition",
+  "type": "Spell",
+  "description": "Evocation/Ware rite warding the target from creatures of limited Might while he stays silent.",
+  "evidence": [
+   "realms-of-power-faerie::0787"
+  ]
+ },
+ {
+  "name": "The Eternal Parry",
+  "type": "Spell",
+  "description": "Enchantment/Ware 25 rite giving +3 Defense while the caster brandishes a blade after a dance.",
+  "evidence": [
+   "realms-of-power-faerie::0787",
+   "realms-of-power-faerie::0788"
+  ]
+ },
+ {
+  "name": "The Endless Summer",
+  "type": "Spell",
+  "description": "Empathy/Weal ritual giving a bonus to Aging rolls (and penalty to Recovery) for a year and a day.",
+  "evidence": [
+   "realms-of-power-faerie::0793",
+   "realms-of-power-faerie::0794"
+  ]
+ },
+ {
+  "name": "Stir the Body",
+  "type": "Spell",
+  "description": "Evocation/Weal 20 ritual allowing an immediate Recovery roll.",
+  "evidence": [
+   "realms-of-power-faerie::0794"
+  ]
+ },
+ {
+  "name": "The Faerie Shade",
+  "type": "Spell",
+  "description": "Enchantment/Weal 50 ritual restoring a corpse to life, perhaps animated by a faerie spirit.",
+  "evidence": [
+   "realms-of-power-faerie::0794"
+  ]
+ },
+ {
+  "name": "Curse of the Festering Bruise",
+  "type": "Spell",
+  "description": "Evocation/Woe 20 rite cast on a weapon so the struck target's wound heals as Incapacitating.",
+  "evidence": [
+   "realms-of-power-faerie::0795",
+   "realms-of-power-faerie::0796"
+  ]
+ },
+ {
+  "name": "Touch of the Merciless Lover",
+  "type": "Spell",
+  "description": "Empathy/Woe 25 rite making the target waste away and die until the duration ends.",
+  "evidence": [
+   "realms-of-power-faerie::0795",
+   "realms-of-power-faerie::0796"
+  ]
+ },
+ {
+  "name": "Gaze of Gray Years",
+  "type": "Spell",
+  "description": "Enchantment/Woe 30 rite forcing an Aging roll with a +15 penalty on a target met eye to eye.",
+  "evidence": [
+   "realms-of-power-faerie::0796",
+   "realms-of-power-faerie::0797"
+  ]
+ },
+ {
+  "name": "Charmed Virtue",
+  "type": "Concept",
+  "aliases": [
+   "Charms",
+   "charm"
+  ],
+  "description": "Virtue granted by faerie power that requires a secret ceremonial charm; fails if the secrecy is broken.",
+  "evidence": [
+   "realms-of-power-faerie::0777",
+   "realms-of-power-faerie::0781",
+   "realms-of-power-faerie::0810"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Ability",
+  "description": "Ability the Dream Power can temporarily confer.",
+  "evidence": [
+   "realms-of-power-faerie::0773"
+  ]
+ },
+ {
+  "name": "Faerie Trods",
+  "type": "Concept",
+  "description": "Hermetic term for areas of space connecting places, like paths between regio levels, used by Portage.",
+  "evidence": [
+   "realms-of-power-faerie::0782"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "description": "Hermetic ritual that Ware can suppress.",
+  "evidence": [
+   "realms-of-power-faerie::0788"
+  ]
+ },
+ {
+  "name": "Wards",
+  "type": "Concept",
+  "description": "Effects preventing a specified thing from touching or acting against the target; faerie wards via Ware.",
+  "evidence": [
+   "realms-of-power-faerie::0786",
+   "realms-of-power-faerie::0788"
+  ]
+ },
+ {
+  "name": "Aging",
+  "type": "Concept",
+  "description": "Yearly aging rolls affected by Weal and Woe rites.",
+  "evidence": [
+   "realms-of-power-faerie::0791",
+   "realms-of-power-faerie::0797"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "description": "Points gained from failed Aging rolls, e.g. via Gaze of Gray Years.",
+  "evidence": [
+   "realms-of-power-faerie::0797"
+  ]
+ },
+ {
+  "name": "Faerie Bargaining",
+  "type": "Concept",
+  "aliases": [
+   "bargaining",
+   "Faerie Bargains"
+  ],
+  "description": "Branch of faerie hedge wizardry concerned with bargains between mortals and fay, using Summoning, Bonding, Captivating, and Dismissing.",
+  "evidence": [
+   "realms-of-power-faerie::0743",
+   "realms-of-power-faerie::0800",
+   "realms-of-power-faerie::0811"
+  ]
+ },
+ {
+  "name": "Ars Fabulosa",
+  "type": "Concept",
+  "aliases": [
+   "the fantastic art"
+  ],
+  "description": "The 'fantastic art' of faerie bargaining, developed in the eastern parts of Mythic Europe from ancient spirit-summoning arts.",
+  "evidence": [
+   "realms-of-power-faerie::0800",
+   "realms-of-power-faerie::0801",
+   "realms-of-power-faerie::0820"
+  ]
+ },
+ {
+  "name": "Bonding",
+  "type": "Ability",
+  "description": "Bargaining art forging a mystic bond with a faerie to share Characteristics, powers, enchantments, or protections.",
+  "evidence": [
+   "realms-of-power-faerie::0801",
+   "realms-of-power-faerie::0808",
+   "realms-of-power-faerie::0809"
+  ]
+ },
+ {
+  "name": "Captivating",
+  "type": "Ability",
+  "description": "Bargaining art exchanging bodies with a faerie; warps the summoner but makes both immune to Faerie Calling.",
+  "evidence": [
+   "realms-of-power-faerie::0801",
+   "realms-of-power-faerie::0814",
+   "realms-of-power-faerie::0816"
+  ]
+ },
+ {
+  "name": "Dismissing",
+  "type": "Ability",
+  "description": "Bargaining art undoing effects of beings with Might and releasing them from bargains.",
+  "evidence": [
+   "realms-of-power-faerie::0801",
+   "realms-of-power-faerie::0817",
+   "realms-of-power-faerie::0818"
+  ]
+ },
+ {
+  "name": "(Spirit) Summoning",
+  "type": "Ability",
+  "description": "Infernal-tainted Art calling an incorporeal spirit and binding it in a circle.",
+  "evidence": [
+   "realms-of-power-faerie::0803"
+  ]
+ },
+ {
+  "name": "Ablating",
+  "type": "Ability",
+  "description": "Infernal art related to Spirit Summoning.",
+  "evidence": [
+   "realms-of-power-faerie::0803"
+  ]
+ },
+ {
+  "name": "Binding",
+  "type": "Ability",
+  "description": "Infernal art related to Spirit Summoning.",
+  "evidence": [
+   "realms-of-power-faerie::0803"
+  ]
+ },
+ {
+  "name": "Commanding",
+  "type": "Ability",
+  "description": "Infernal art related to Spirit Summoning.",
+  "evidence": [
+   "realms-of-power-faerie::0803"
+  ]
+ },
+ {
+  "name": "(Elemental) Summoning",
+  "type": "Ability",
+  "description": "Mostly Magic-aligned art summoning an elemental being held in a container.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Controlling",
+  "type": "Ability",
+  "description": "Elementalist Art aligned with Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Divining",
+  "type": "Ability",
+  "description": "Elementalist Art aligned with Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Refining",
+  "type": "Ability",
+  "description": "Elementalist Art aligned with Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Elementalists",
+  "type": "Faction",
+  "description": "Hedge tradition whose arts (Controlling, Divining, Refining) are aligned with Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Sihr",
+  "type": "Ability",
+  "description": "Magic art that summons and binds jinn, researched by Hermetic Sihr.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Hermetic Sihr",
+  "type": "CharacterType",
+  "description": "Hermetic practitioner of Sihr who researches jinn.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Jinn",
+  "type": "Creature",
+  "aliases": [
+   "faerie jinn"
+  ],
+  "description": "Spirits summoned and bound by Sihr, including faerie jinn.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form associated with an element that Elemental Summoning targets.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form associated with an element that Elemental Summoning targets.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form associated with an element that Elemental Summoning targets.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form associated with an element that Elemental Summoning targets.",
+  "evidence": [
+   "realms-of-power-faerie::0804"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form; Rapunzel is likely a potent source of Corpus vis.",
+  "evidence": [
+   "realms-of-power-faerie::0834"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique; Rapunzel is likely a potent source of Creo vis.",
+  "evidence": [
+   "realms-of-power-faerie::0834"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that summoning, bonding, and ward effects must penetrate.",
+  "evidence": [
+   "realms-of-power-faerie::0751",
+   "realms-of-power-faerie::0805",
+   "realms-of-power-faerie::0806"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Link to a target; Symbol range creates one, and Bonding acts as one between faerie and bearer.",
+  "evidence": [
+   "realms-of-power-faerie::0750",
+   "realms-of-power-faerie::0805",
+   "realms-of-power-faerie::0809"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "description": "Ability used with Communication to resolve faerie bargaining sessions.",
+  "evidence": [
+   "realms-of-power-faerie::0813"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability used to deflect a being's power with Dismissing.",
+  "evidence": [
+   "realms-of-power-faerie::0817"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Faith Points are not exchanged during Captivating.",
+  "evidence": [
+   "realms-of-power-faerie::0815"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "description": "Faerie Virtue accessible through Bonding.",
+  "evidence": [
+   "realms-of-power-faerie::0809"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "description": "Faerie Virtue accessible through Bonding.",
+  "evidence": [
+   "realms-of-power-faerie::0809"
+  ]
+ },
+ {
+  "name": "Vitality",
+  "type": "Concept",
+  "description": "What faeries naturally value and seek from mortals; bargains and homunculi draw on it.",
+  "evidence": [
+   "realms-of-power-faerie::0726",
+   "realms-of-power-faerie::0811",
+   "realms-of-power-faerie::0813"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [
+   "fae",
+   "Good Folk",
+   "Fair Folk",
+   "faeries",
+   "fay"
+  ],
+  "description": "Beings of the Faerie realm with roles and Might, also called the Good Folk, Fair Folk, and fae.",
+  "evidence": [
+   "realms-of-power-faerie::0720",
+   "realms-of-power-faerie::0811",
+   "realms-of-power-faerie::0833"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "description": "Spirit that a botched summoning might call by mistake.",
+  "evidence": [
+   "realms-of-power-faerie::0800",
+   "realms-of-power-faerie::0805"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "description": "Spirit especially likely to answer Spirit Summoning.",
+  "evidence": [
+   "realms-of-power-faerie::0800",
+   "realms-of-power-faerie::0803",
+   "realms-of-power-faerie::0805"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "description": "Divine aura; being in it can be a Faerie Power's vulnerability.",
+  "evidence": [
+   "realms-of-power-faerie::0764"
+  ]
+ },
+ {
+  "name": "Pagan Traditions",
+  "type": "Concept",
+  "description": "Groups of pagans following a tradition of faerie wizardry with Favored Abilities.",
+  "evidence": [
+   "realms-of-power-faerie::0819"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "aliases": [
+   "Ordeals"
+  ],
+  "description": "Means of initiating Virtues through Ordeals, rare among faerie wizards.",
+  "evidence": [
+   "realms-of-power-faerie::0819"
+  ]
+ },
+ {
+  "name": "Borrowers",
+  "type": "Faction",
+  "aliases": [
+   "faerie borrowers"
+  ],
+  "description": "Exotic traveling faerie wizards practicing the Ars Fabulosa who trade novel goods to faeries for blessings.",
+  "evidence": [
+   "realms-of-power-faerie::0820",
+   "realms-of-power-faerie::0821"
+  ]
+ },
+ {
+  "name": "Ollamhain",
+  "type": "Faction",
+  "description": "Irish poets and performers with faerie kinship who favor Enchantment, Beguile, Dream, and Portage.",
+  "evidence": [
+   "realms-of-power-faerie::0822"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "description": "Virtue possessed by many Ollamhain.",
+  "evidence": [
+   "realms-of-power-faerie::0822"
+  ]
+ },
+ {
+  "name": "Volkhvy",
+  "type": "Faction",
+  "description": "Russian pagan faerie wizards favoring Evocation, Ceremony, Conjure, and Grant, known for great communal rites.",
+  "evidence": [
+   "realms-of-power-faerie::0823"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "description": "Favored Ability of the Volkhvy.",
+  "evidence": [
+   "realms-of-power-faerie::0823"
+  ]
+ },
+ {
+  "name": "Wise Folk",
+  "type": "Faction",
+  "aliases": [
+   "wise men",
+   "wise women"
+  ],
+  "description": "Faerie-touched wise men and women on society's fringes, favoring Empathy, Ware, Weal, and Woe.",
+  "evidence": [
+   "realms-of-power-faerie::0824"
+  ]
+ },
+ {
+  "name": "Faerie Court",
+  "type": "Concept",
+  "description": "Faerie courts reenacting stories, such as those claiming to be Prester John's kingdom.",
+  "evidence": [
+   "realms-of-power-faerie::0827",
+   "realms-of-power-faerie::0828"
+  ]
+ },
+ {
+  "name": "Prester John",
+  "type": "Character",
+  "description": "Legendary king whose kingdom many faerie courts claim to be.",
+  "evidence": [
+   "realms-of-power-faerie::0827"
+  ]
+ },
+ {
+  "name": "Land of the Silk People",
+  "type": "Place",
+  "description": "Distant land that faerie courts claim to portray.",
+  "evidence": [
+   "realms-of-power-faerie::0827"
+  ]
+ },
+ {
+  "name": "Julius Caesar",
+  "type": "Character",
+  "description": "Historical figure whose conquests appear in faerie story settings.",
+  "evidence": [
+   "realms-of-power-faerie::0827"
+  ]
+ },
+ {
+  "name": "Alexander",
+  "type": "Character",
+  "description": "Historical figure whose empire appears in faerie story settings.",
+  "evidence": [
+   "realms-of-power-faerie::0827"
+  ]
+ },
+ {
+  "name": "Troy",
+  "type": "Place",
+  "description": "Ancient city whose fall appears in faerie story settings.",
+  "evidence": [
+   "realms-of-power-faerie::0827"
+  ]
+ },
+ {
+  "name": "Arthur",
+  "type": "Character",
+  "description": "Legendary king whose court appears in faerie stories; receives Excalibur from a Lady of the Lake.",
+  "evidence": [
+   "realms-of-power-faerie::0827",
+   "realms-of-power-faerie::0836"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "description": "Emperor whose palace appears in faerie story settings.",
+  "evidence": [
+   "realms-of-power-faerie::0827"
+  ]
+ },
+ {
+  "name": "Rapunzel",
+  "type": "Character",
+  "description": "Fairy tale girl stolen by a witch who develops magical healing tears; a likely source of Corpus or Creo vis.",
+  "evidence": [
+   "realms-of-power-faerie::0834"
+  ]
+ },
+ {
+  "name": "Sleeping Beauty",
+  "type": "Character",
+  "description": "Fairy tale princess cursed by an insulted faerie, whose community sleeps in a regio for a hundred years.",
+  "evidence": [
+   "realms-of-power-faerie::0834"
+  ]
+ },
+ {
+  "name": "Eris",
+  "type": "Character",
+  "description": "Figure in The Iliad who pitched the world into war for amusement.",
+  "evidence": [
+   "realms-of-power-faerie::0834"
+  ]
+ },
+ {
+  "name": "Djinni of Aladdin",
+  "type": "Creature",
+  "description": "The djinni from Aladdin and the Wonderful Lamp who grants wishes and lets Aladdin fly.",
+  "evidence": [
+   "realms-of-power-faerie::0835",
+   "realms-of-power-faerie::0837"
+  ]
+ },
+ {
+  "name": "Puss in Boots",
+  "type": "Creature",
+  "description": "Helper cat who makes his master undeservedly rich.",
+  "evidence": [
+   "realms-of-power-faerie::0835"
+  ]
+ },
+ {
+  "name": "Dick Whittington's Cat",
+  "type": "Creature",
+  "description": "Helper cat who makes his master undeservedly rich.",
+  "evidence": [
+   "realms-of-power-faerie::0835"
+  ]
+ },
+ {
+  "name": "Brownie",
+  "type": "Creature",
+  "description": "House goblin that does chores.",
+  "evidence": [
+   "realms-of-power-faerie::0835"
+  ]
+ },
+ {
+  "name": "Dwarf",
+  "type": "Creature",
+  "description": "Faerie folk who act as squires, make things, and forge weapons for heroes.",
+  "evidence": [
+   "realms-of-power-faerie::0834",
+   "realms-of-power-faerie::0835",
+   "realms-of-power-faerie::0836"
+  ]
+ },
+ {
+  "name": "Cinderella",
+  "type": "Character",
+  "description": "Fairy tale heroine whose helper provides a dress, shoes, and a coach.",
+  "evidence": [
+   "realms-of-power-faerie::0836",
+   "realms-of-power-faerie::0837"
+  ]
+ },
+ {
+  "name": "Lady of the Lake",
+  "type": "Character",
+  "description": "Guardian of Excalibur who gives it to Arthur.",
+  "evidence": [
+   "realms-of-power-faerie::0836"
+  ]
+ },
+ {
+  "name": "Excalibur",
+  "type": "Item",
+  "description": "Arthur's sword, guarded by a Lady of the Lake.",
+  "evidence": [
+   "realms-of-power-faerie::0836"
+  ]
+ },
+ {
+  "name": "Lancelot",
+  "type": "Character",
+  "description": "Arthurian knight given three magic shields.",
+  "evidence": [
+   "realms-of-power-faerie::0836"
+  ]
+ },
+ {
+  "name": "Valkyries",
+  "type": "Creature",
+  "description": "Beings of Norse myth that carry the dead.",
+  "evidence": [
+   "realms-of-power-faerie::0837"
+  ]
+ },
+ {
+  "name": "Pixies",
+  "type": "Creature",
+  "description": "Faeries that create dust allowing flight.",
+  "evidence": [
+   "realms-of-power-faerie::0837"
+  ]
+ },
+ {
+  "name": "Snow Queen",
+  "type": "Character",
+  "description": "Faerie who steals and imprisons Kay.",
+  "evidence": [
+   "realms-of-power-faerie::0838"
+  ]
+ },
+ {
+  "name": "Calypso",
+  "type": "Character",
+  "description": "Figure in The Odyssey who wants to keep Odysseus from going home.",
+  "evidence": [
+   "realms-of-power-faerie::0838"
+  ]
+ },
+ {
+  "name": "Odysseus",
+  "type": "Character",
+  "description": "Hero of The Odyssey held by Calypso.",
+  "evidence": [
+   "realms-of-power-faerie::0838"
+  ]
+ },
+ {
+  "name": "Red Riding Hood",
+  "type": "Character",
+  "description": "Fairy tale girl whose varied versions are all good story material.",
+  "evidence": [
+   "realms-of-power-faerie::0831",
+   "realms-of-power-faerie::0838"
+  ]
+ },
+ {
+  "name": "The Beast",
+  "type": "Character",
+  "description": "Cursed prince from Beauty and the Beast.",
+  "evidence": [
+   "realms-of-power-faerie::0839"
+  ]
+ },
+ {
+  "name": "Frog Prince",
+  "type": "Character",
+  "description": "Cursed prince in frog form.",
+  "evidence": [
+   "realms-of-power-faerie::0839"
+  ]
+ }
+]

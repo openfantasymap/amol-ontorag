@@ -40,27 +40,10 @@ def iter_tool_inputs(path):
                 yield block["input"]
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--transcripts", required=True, help="workflow transcript dir (agent-*.jsonl)")
-    ap.add_argument("--out", default=os.path.join(ROOT, "ontology", "_extract", "desc", "recovered.json"))
-    args = ap.parse_args()
-
-    files = sorted(glob.glob(os.path.join(args.transcripts, "agent-*.jsonl")))
-    mentions, agents_with_entities = [], 0
-    for f in files:
-        got = False
-        for inp in iter_tool_inputs(f):
-            ents = inp.get("entities")
-            if isinstance(ents, list) and ents and isinstance(ents[0], dict) and "name" in ents[0]:
-                mentions.extend(ents)
-                got = True
-        if got:
-            agents_with_entities += 1
-
-    print("scanned %d agent transcripts; %d carried entities; %d raw mentions"
-          % (len(files), agents_with_entities, len(mentions)))
-
+def aggregate(mentions, max_evidence=5):
+    """Dedupe raw extraction mentions into entity records (conservative, no LLM):
+    normalized-name buckets, then exact alias=name union-find; extractive
+    description (longest candidate); evidence spread across books."""
     agg = {}
     for m in mentions:
         name = (m.get("name") or "").strip()
@@ -71,9 +54,11 @@ def main():
             continue
         e = agg.get(k)
         if not e:
-            e = {"names": Counter(), "types": Counter(), "aliases": set(), "descs": [], "evidence": set()}
+            e = {"names": Counter(), "base": Counter(), "types": Counter(), "aliases": set(), "descs": [], "evidence": set()}
             agg[k] = e
-        e["names"][name] += 1
+        e["names"][name] += int(m.get("_mentions") or 1)   # merged records keep their weight
+        if m.get("_base"):                                  # already in the published graph
+            e["base"][name] += int(m.get("_mentions") or 1)
         if m.get("type"):
             e["types"][m["type"]] += 1
         for a in (m.get("aliases") or []):
@@ -97,18 +82,23 @@ def main():
             x = parent[x]
         return x
 
+    has_base = {k: bool(e["base"]) for k, e in agg.items()}
+
     def union(a, b):
         ra, rb = find(a), find(b)
-        if ra != rb:
+        # two entities that are both already published stay distinct: merging them
+        # would silently retire one of their IRIs
+        if ra != rb and not (has_base[ra] and has_base[rb]):
             parent[ra] = rb
+            has_base[rb] = has_base[rb] or has_base[ra]
 
     name_to_key = {}
     for k, e in agg.items():
         pn = norm(e["names"].most_common(1)[0][0])
         name_to_key.setdefault(pn, k)
-    for k, e in agg.items():
+    for k, e in sorted(agg.items()):                  # sorted: union order decides ties
         surfaces = set(e["names"]) | e["aliases"]
-        for a in surfaces:
+        for a in sorted(surfaces):
             na = norm(a)
             if len(na) >= 4 and na in name_to_key and name_to_key[na] != k:
                 union(k, name_to_key[na])
@@ -118,10 +108,10 @@ def main():
         clusters[find(k)].append(k)
     merged = {}
     for root, members in clusters.items():
-        M = {"names": Counter(), "types": Counter(), "aliases": set(), "descs": [], "evidence": set()}
+        M = {"names": Counter(), "base": Counter(), "types": Counter(), "aliases": set(), "descs": [], "evidence": set()}
         for k in members:
             e = agg[k]
-            M["names"].update(e["names"]); M["types"].update(e["types"])
+            M["names"].update(e["names"]); M["base"].update(e["base"]); M["types"].update(e["types"])
             M["aliases"] |= e["aliases"]; M["descs"] += e["descs"]; M["evidence"] |= e["evidence"]
         merged[root] = M
     print("merged %d -> %d entities via exact alias=name canonicalization"
@@ -130,19 +120,62 @@ def main():
 
     out = []
     for k, e in agg.items():
-        name = e["names"].most_common(1)[0][0]
+        # an entity already in the published graph keeps its name (and so its IRI)
+        name = (e["base"] or e["names"]).most_common(1)[0][0]
         typ = e["types"].most_common(1)[0][0] if e["types"] else "Concept"
         # extractive description: the longest candidate (most informative), capped
         desc = ""
         if e["descs"]:
             desc = max(e["descs"], key=len)[:500]
-        aliases = sorted({a for a in e["aliases"] if norm(a) != norm(name)})[:8]
+        aliases = sorted({a for a in (e["aliases"] | set(e["names"])) if norm(a) != norm(name)})[:8]
         out.append({
             "name": name, "type": typ, "aliases": aliases,
-            "description": desc, "evidence": sorted(e["evidence"])[:5],
+            "description": desc, "evidence": spread_evidence(e["evidence"], max_evidence),
             "_mentions": sum(e["names"].values()),
         })
-    out.sort(key=lambda x: (-x["_mentions"], x["name"]))
+    out.sort(key=lambda x: (-x["_mentions"], x["name"], x["type"], x["description"], x["evidence"]))
+
+    return out
+
+
+def spread_evidence(ids, limit):
+    """Up to `limit` chunk ids, round-robin across books (chunk id = <book>::<seq>),
+    so every book an entity was extracted from keeps at least one piece of
+    evidence — definedIn is derived from these."""
+    by_book = defaultdict(list)
+    for x in sorted(ids):
+        by_book[x.split("::")[0]].append(x)
+    picked, i = [], 0
+    while len(picked) < limit and any(len(v) > i for v in by_book.values()):
+        for book in sorted(by_book):
+            if len(by_book[book]) > i and len(picked) < limit:
+                picked.append(by_book[book][i])
+        i += 1
+    return sorted(picked)
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--transcripts", required=True, help="workflow transcript dir (agent-*.jsonl)")
+    ap.add_argument("--out", default=os.path.join(ROOT, "ontology", "_extract", "desc", "recovered.json"))
+    args = ap.parse_args()
+
+    files = sorted(glob.glob(os.path.join(args.transcripts, "agent-*.jsonl")))
+    mentions, agents_with_entities = [], 0
+    for f in files:
+        got = False
+        for inp in iter_tool_inputs(f):
+            ents = inp.get("entities")
+            if isinstance(ents, list) and ents and isinstance(ents[0], dict) and "name" in ents[0]:
+                mentions.extend(ents)
+                got = True
+        if got:
+            agents_with_entities += 1
+
+    print("scanned %d agent transcripts; %d carried entities; %d raw mentions"
+          % (len(files), agents_with_entities, len(mentions)))
+
+    out = aggregate(mentions)
 
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:

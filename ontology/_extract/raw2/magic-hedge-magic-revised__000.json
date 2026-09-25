@@ -1,0 +1,2589 @@
+[
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The dominant organization of Hermetic magi in Mythic Europe, which historically offered hedge wizards the choice to 'Join or Die' and relies on its magi's ability to resist hedge magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0009",
+   "magic-hedge-magic-revised::0011",
+   "magic-hedge-magic-revised::0033"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting in which hedge wizard traditions coexist with, and live in the shadow of, the Order of Hermes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0009",
+   "magic-hedge-magic-revised::0021"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge wizards",
+   "hedge magician"
+  ],
+  "description": "Any practitioner of a hedge tradition; the Order usually considers only Gifted ones to be 'proper' wizards.",
+  "evidence": [
+   "magic-hedge-magic-revised::0011",
+   "magic-hedge-magic-revised::0022",
+   "magic-hedge-magic-revised::0055"
+  ]
+ },
+ {
+  "name": "Hedge Magic",
+  "type": "Concept",
+  "aliases": [
+   "hedge tradition"
+  ],
+  "description": "Non-Hermetic magical traditions drawing power from the Magic realm, normally bound by the Limits of Magic and considerably less powerful than Hermetic magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0021",
+   "magic-hedge-magic-revised::0029",
+   "magic-hedge-magic-revised::0030"
+  ]
+ },
+ {
+  "name": "Mathematici",
+  "type": "Faction",
+  "aliases": [
+   "Learned Magicians",
+   "Mathematicus"
+  ],
+  "description": "Scholarly learned magicians who cluster in universities, one of the hedge traditions of the book.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0004"
+  ]
+ },
+ {
+  "name": "Folk Witches",
+  "type": "Faction",
+  "aliases": [
+   "folk witch"
+  ],
+  "description": "Hedge tradition of witches who ply their trade in villages, organized into small covens; they have not solved the social problems of The Gift.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0028",
+   "magic-hedge-magic-revised::0045"
+  ]
+ },
+ {
+  "name": "Elementalists",
+  "type": "Faction",
+  "aliases": [
+   "elementalist"
+  ],
+  "description": "Hedge tradition that controls the four elements through Elementalist Techniques and Forms; in 1220 they tend to look like academics.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0088",
+   "magic-hedge-magic-revised::0089"
+  ]
+ },
+ {
+  "name": "Gruagachan",
+  "type": "Faction",
+  "aliases": [
+   "Gruagach"
+  ],
+  "description": "Hedge wizards who deal out curses and blessings in the interests of justice.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0004"
+  ]
+ },
+ {
+  "name": "Nightwalkers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Hedge tradition whose members leave their bodies to fight for the prosperity of their homes; their abilities resemble certamen.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0017",
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Vitkir",
+  "type": "Faction",
+  "aliases": [
+   "vitki",
+   "vitkar",
+   "rune wizards"
+  ],
+  "description": "Rune wizards of the frozen north of Scandinavia who clash with trolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0009",
+   "magic-hedge-magic-revised::0055"
+  ]
+ },
+ {
+  "name": "Trollsynir",
+  "type": "Faction",
+  "aliases": [],
+  "description": "An alternate tradition related to Gruagach magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004"
+  ]
+ },
+ {
+  "name": "Kolduni",
+  "type": "Faction",
+  "aliases": [],
+  "description": "An alternate tradition related to Gruagach magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004"
+  ]
+ },
+ {
+  "name": "Mythic Alchemists",
+  "type": "Faction",
+  "aliases": [
+   "Alchemist"
+  ],
+  "description": "An alternate tradition related to the learned magicians.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Cunning-folk",
+  "type": "Faction",
+  "aliases": [],
+  "description": "An alternate tradition related to the learned magicians.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Benandanti",
+  "type": "Faction",
+  "aliases": [
+   "Benandante"
+  ],
+  "description": "A local tradition of nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "The Hounds of God",
+  "type": "Faction",
+  "aliases": [
+   "Hound of God"
+  ],
+  "description": "A local tradition of nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Kresniki and Kudlaki",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Local nightwalker traditions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Mazzeru",
+  "type": "Faction",
+  "aliases": [],
+  "description": "A local tradition of nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Taltós",
+  "type": "Faction",
+  "aliases": [],
+  "description": "A local tradition of nightwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Apostles of Apollonius",
+  "type": "Faction",
+  "aliases": [],
+  "description": "An elementalist society.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004"
+  ]
+ },
+ {
+  "name": "Ikhwan as-Safa'",
+  "type": "Faction",
+  "aliases": [
+   "Brethren of Purity & Loyal Friends"
+  ],
+  "description": "An elementalist society, the Brethren of Purity, whose Epistles are referenced.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Tulab Ibn Sina",
+  "type": "Faction",
+  "aliases": [],
+  "description": "An elementalist society associated with the writings of Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Ibn Sina",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scholar whose writings are associated with an elementalist society.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "aliases": [],
+  "description": "An organization discussed in the vitkir chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Lineage of Pralix",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Magi who seek to invite hedge wizards into House Ex Miscellanea.",
+  "evidence": [
+   "magic-hedge-magic-revised::0011"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "The Hermetic House through which hedge wizards join the Order of Hermes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0010",
+   "magic-hedge-magic-revised::0011",
+   "magic-hedge-magic-revised::0012"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcap"
+  ],
+  "description": "UnGifted members of the Order who remain honorary magi through tradition and decline to exercise their votes at Tribunal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014",
+   "magic-hedge-magic-revised::0015"
+  ]
+ },
+ {
+  "name": "Hoplites",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Zealous magi who sometimes scour the land searching for hedge wizards to best in combat.",
+  "evidence": [
+   "magic-hedge-magic-revised::0011"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of Hermetic theory and inventor of the Parma Magica, the only Hermetic Breakthrough in 450 years.",
+  "evidence": [
+   "magic-hedge-magic-revised::0029",
+   "magic-hedge-magic-revised::0071"
+  ]
+ },
+ {
+  "name": "Bonisagus Seekers",
+  "type": "CharacterType",
+  "aliases": [
+   "Seeker"
+  ],
+  "description": "Hermetic magi who eagerly hunt rumors of hedge traditions to gain insights into magic theory.",
+  "evidence": [
+   "magic-hedge-magic-revised::0069"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House whose magi can gain Acclaim for completing Breakthroughs.",
+  "evidence": [
+   "magic-hedge-magic-revised::0081"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House mentioned as a trademark.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0003"
+  ]
+ },
+ {
+  "name": "Doissetep",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Hermetic covenant named as a trademark.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000",
+   "magic-hedge-magic-revised::0003"
+  ]
+ },
+ {
+  "name": "Grimgroth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hermetic figure named as a trademark.",
+  "evidence": [
+   "magic-hedge-magic-revised::0000"
+  ]
+ },
+ {
+  "name": "Bjornaer Heartbeast",
+  "type": "Ability",
+  "aliases": [
+   "Heartbeast"
+  ],
+  "description": "Ability of House Bjornaer that grants a defense like Strength of Form, retained from the House's pre-Hermetic tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0042"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House with the Heartbeast Ability from its pre-Hermetic tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0042"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "Innate capacity for magic; required to join the Order and to Open a hedge tradition, and it imposes a social penalty.",
+  "evidence": [
+   "magic-hedge-magic-revised::0022",
+   "magic-hedge-magic-revised::0023",
+   "magic-hedge-magic-revised::0028"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Variant of The Gift without the usual social penalty; also listed as an elementalist Virtue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Variant of The Gift, listed as a Major elementalist Flaw.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014",
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Opening The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Opening the Gift"
+  ],
+  "description": "Season-long ritual by which a Gifted hedge master Opens an apprentice's Gift to a tradition, governed by an Opening Total vs Opening Ease Factor.",
+  "evidence": [
+   "magic-hedge-magic-revised::0023",
+   "magic-hedge-magic-revised::0024",
+   "magic-hedge-magic-revised::0025"
+  ]
+ },
+ {
+  "name": "Opening of the Arts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Hermetic equivalent of Opening The Gift; harder if the apprentice's Gift was already Opened by a hedge tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0027",
+   "magic-hedge-magic-revised::0012"
+  ]
+ },
+ {
+  "name": "Flawed Opening of The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "If the master lacks a score of 2 in each tradition power, the apprentice gains Flaws such as Deficient Art.",
+  "evidence": [
+   "magic-hedge-magic-revised::0024",
+   "magic-hedge-magic-revised::0025"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Oath by which a hedge wizard officially joins the Order, gaining legal rights such as voting at Tribunal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0012",
+   "magic-hedge-magic-revised::0013"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Code"
+  ],
+  "description": "The Order's law, which prohibits scrying on members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014",
+   "magic-hedge-magic-revised::0030"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic assembly where members vote and which may censure magi.",
+  "evidence": [
+   "magic-hedge-magic-revised::0011",
+   "magic-hedge-magic-revised::0012",
+   "magic-hedge-magic-revised::0017"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic Arcane Ability granting Magic Resistance and shielding magi from the social effects of The Gift; the Order fears hedge wizards learning it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0012",
+   "magic-hedge-magic-revised::0028",
+   "magic-hedge-magic-revised::0071"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical duel unique to the Order of Hermes; hedge wizards without Opened Hermetic Arts cannot participate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0017",
+   "magic-hedge-magic-revised::0015"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status Virtue gained by a hedge wizard upon swearing the Oath of Hermes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0012",
+   "magic-hedge-magic-revised::0049"
+  ]
+ },
+ {
+  "name": "Hedge Wizard (Flaw)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw representing discrimination against hedge wizard converts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0013"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw for a convert who secretly maintains ties to his hedge colleagues.",
+  "evidence": [
+   "magic-hedge-magic-revised::0013"
+  ]
+ },
+ {
+  "name": "Mystery Cults",
+  "type": "Faction",
+  "aliases": [
+   "Mystery Cult"
+  ],
+  "description": "Hermetic cults whose Initiation rules hedge initiations resemble.",
+  "evidence": [
+   "magic-hedge-magic-revised::0012",
+   "magic-hedge-magic-revised::0067",
+   "magic-hedge-magic-revised::0089"
+  ]
+ },
+ {
+  "name": "The Numbness of The Gift",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 20 spell (Personal, Conc, Touch) making the caster's hand feel numb on touching a Gifted character.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique used with Vim to detect The Gift.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014",
+   "magic-hedge-magic-revised::0016"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used to detect or disguise The Gift.",
+  "evidence": [
+   "magic-hedge-magic-revised::0016",
+   "magic-hedge-magic-revised::0014"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique of control, typically resisted by the Immovable Object defense.",
+  "evidence": [
+   "magic-hedge-magic-revised::0040"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique of transformation, resisted by the Strength of Form defense.",
+  "evidence": [
+   "magic-hedge-magic-revised::0042"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form; the folk witch Healing Ability gives Magical Fortitude against Corpus effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0036"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of mind, which might be used to control a hedge wizard teacher.",
+  "evidence": [
+   "magic-hedge-magic-revised::0080"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of water; its vis is usable with Elementalist Water.",
+  "evidence": [
+   "magic-hedge-magic-revised::0090",
+   "magic-hedge-magic-revised::0098",
+   "magic-hedge-magic-revised::0111"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of air; its vis is usable with Elementalist Air.",
+  "evidence": [
+   "magic-hedge-magic-revised::0090",
+   "magic-hedge-magic-revised::0108",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of fire; its vis is usable with Elementalist Fire.",
+  "evidence": [
+   "magic-hedge-magic-revised::0090",
+   "magic-hedge-magic-revised::0098",
+   "magic-hedge-magic-revised::0109"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of earth; its vis is usable with Elementalist Earth.",
+  "evidence": [
+   "magic-hedge-magic-revised::0090",
+   "magic-hedge-magic-revised::0108",
+   "magic-hedge-magic-revised::0117"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance to magic from Form scores and Parma; no hedge tradition has general magic resistance.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014",
+   "magic-hedge-magic-revised::0033",
+   "magic-hedge-magic-revised::0056"
+  ]
+ },
+ {
+  "name": "Limits of Magic",
+  "type": "Concept",
+  "aliases": [
+   "Lesser Limits of Magic",
+   "Greater Limits of Magic"
+  ],
+  "description": "Hermetic theories describing the boundaries of magic; hedge magic is normally bound by them, though oddities suggest errors in Bonisagus' theory.",
+  "evidence": [
+   "magic-hedge-magic-revised::0029",
+   "magic-hedge-magic-revised::0069",
+   "magic-hedge-magic-revised::0071"
+  ]
+ },
+ {
+  "name": "Limit of Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Apparent limit that no hedge tradition has general magic resistance; traditions breaking it would be eliminated by the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0029",
+   "magic-hedge-magic-revised::0033",
+   "magic-hedge-magic-revised::0034"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Protective ritual over covenants; hedge effects must penetrate it and casting within it is penalized.",
+  "evidence": [
+   "magic-hedge-magic-revised::0020"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability; hedge effects must penetrate an Aegis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0020",
+   "magic-hedge-magic-revised::0060"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Might Score of magical beings; hedge wizards without one enter an Aegis freely.",
+  "evidence": [
+   "magic-hedge-magic-revised::0020",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "The realm from which the hedge traditions of this book draw power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0010",
+   "magic-hedge-magic-revised::0043"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Dominion"
+  ],
+  "description": "Realm from which some other hedge traditions draw power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0010"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm from which some hedge traditions draw power; source of (Spirit) Summoning.",
+  "evidence": [
+   "magic-hedge-magic-revised::0010",
+   "magic-hedge-magic-revised::0105"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm from which some hedge traditions draw power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0010"
+  ]
+ },
+ {
+  "name": "Hedge Arts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Arts of a hedge tradition combined like Hermetic Techniques and Forms, not compatible with Hermetic Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0030",
+   "magic-hedge-magic-revised::0031"
+  ]
+ },
+ {
+  "name": "Difficult Arts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hedge Arts that advance as Abilities, preventing easy high Penetration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0030",
+   "magic-hedge-magic-revised::0031",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Accelerated Abilities",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Abilities that advance like Arts, counterpart to Difficult Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0032",
+   "magic-hedge-magic-revised::0035"
+  ]
+ },
+ {
+  "name": "Favored Abilities",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural Abilities favored by a tradition that Gifted members can learn without subtracting their Supernatural total.",
+  "evidence": [
+   "magic-hedge-magic-revised::0033",
+   "magic-hedge-magic-revised::0024"
+  ]
+ },
+ {
+  "name": "Magical Defenses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Limited hedge defenses that grant a bonus or penalty in an area of specialty, equal to Art/5 or Ability score.",
+  "evidence": [
+   "magic-hedge-magic-revised::0035",
+   "magic-hedge-magic-revised::0036"
+  ]
+ },
+ {
+  "name": "Accelerated Expiry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical defense causing spells on the hedge wizard to expire early.",
+  "evidence": [
+   "magic-hedge-magic-revised::0037",
+   "magic-hedge-magic-revised::0036"
+  ]
+ },
+ {
+  "name": "Akacritous Fortune",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical defense adding the Magical Defense Bonus to Defense Total against aimed spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0038"
+  ]
+ },
+ {
+  "name": "Confounding Magics",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical defense raising the Ease Factor of casters' Concentration rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0039"
+  ]
+ },
+ {
+  "name": "Immovable Object",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical defense letting the hedge wizard roll to resist controlling effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0040"
+  ]
+ },
+ {
+  "name": "Magical Fortitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical defense adding bonus to Soak against damaging effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0041",
+   "magic-hedge-magic-revised::0036",
+   "magic-hedge-magic-revised::0111"
+  ]
+ },
+ {
+  "name": "Strength of Form",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical defense allowing a roll to return to natural form against transformation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0042"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Accumulated supernatural effects; hedge wizards don't gain it from strong magic auras and each tradition responds uniquely.",
+  "evidence": [
+   "magic-hedge-magic-revised::0043",
+   "magic-hedge-magic-revised::0110"
+  ]
+ },
+ {
+  "name": "Wizard's Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight"
+  ],
+  "description": "The Order of Hermes' unique response to Warping.",
+  "evidence": [
+   "magic-hedge-magic-revised::0043"
+  ]
+ },
+ {
+  "name": "Twilight Scars",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Physical marks magi gain from Twilight, compared to elementalist warping traits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0111"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power used by some hedge traditions; detectable via Magic Sensitivity or lore.",
+  "evidence": [
+   "magic-hedge-magic-revised::0044",
+   "magic-hedge-magic-revised::0045",
+   "magic-hedge-magic-revised::0090"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability to detect vis and magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0045",
+   "magic-hedge-magic-revised::0026"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability granted by a Major Virtue, used in the Opening example.",
+  "evidence": [
+   "magic-hedge-magic-revised::0026",
+   "magic-hedge-magic-revised::0027"
+  ]
+ },
+ {
+  "name": "Flight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Folk witch Supernatural Ability requiring the Flight Virtue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0065"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Folk witch Ability granting an Accelerated Expiry defense against Arcane Connection effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0036"
+  ]
+ },
+ {
+  "name": "Healing",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Folk witch Ability granting Magical Fortitude against Corpus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0036"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability of magical knowledge accessible via hedge Social Status.",
+  "evidence": [
+   "magic-hedge-magic-revised::0046",
+   "magic-hedge-magic-revised::0058",
+   "magic-hedge-magic-revised::0060"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Lore Ability pagan hedge wizards may begin with.",
+  "evidence": [
+   "magic-hedge-magic-revised::0058"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability accessible to hedge wizards.",
+  "evidence": [
+   "magic-hedge-magic-revised::0060"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic Arcane Ability of theory, used for Insight rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0060",
+   "magic-hedge-magic-revised::0072",
+   "magic-hedge-magic-revised::0080"
+  ]
+ },
+ {
+  "name": "(Hedge Magic) Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability covering the technical details of a hedge tradition's magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0046",
+   "magic-hedge-magic-revised::0061",
+   "magic-hedge-magic-revised::0074"
+  ]
+ },
+ {
+  "name": "(Organization) Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "General Ability of knowledge about a hedge tradition's legends, history and goals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0062"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge a spying hedge wizard might gain.",
+  "evidence": [
+   "magic-hedge-magic-revised::0080"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in learned magicians' Opening Total.",
+  "evidence": [
+   "magic-hedge-magic-revised::0026"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability linked to Elemental Medicine and Elemental Affinity.",
+  "evidence": [
+   "magic-hedge-magic-revised::0093",
+   "magic-hedge-magic-revised::0099"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability linked to Elemental Philosophiae.",
+  "evidence": [
+   "magic-hedge-magic-revised::0093",
+   "magic-hedge-magic-revised::0100",
+   "magic-hedge-magic-revised::0088"
+  ]
+ },
+ {
+  "name": "(Realm) Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Lore linked to Elemental Theurgy and Elemental Affinity.",
+  "evidence": [
+   "magic-hedge-magic-revised::0093",
+   "magic-hedge-magic-revised::0101"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used by a saboteur hedge wizard to deceive a magus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0080"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue representing hedge wizard allies of a magus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0018"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue representing vis trade; also an elementalist Virtue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0018",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Hedge Tradition (Covenant Boon)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Major Covenant Boon/Hook representing a covenant allied with (or enemy of) a hedge tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0018",
+   "magic-hedge-magic-revised::0019"
+  ]
+ },
+ {
+  "name": "Local Ally",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor Covenant Boon for a lone hedge wizard near a covenant.",
+  "evidence": [
+   "magic-hedge-magic-revised::0018"
+  ]
+ },
+ {
+  "name": "Hedge Wizard (Social Status)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status for tradition members, granting access to tradition powers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0055",
+   "magic-hedge-magic-revised::0049",
+   "magic-hedge-magic-revised::0060"
+  ]
+ },
+ {
+  "name": "Greater Magical Defenses",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue doubling Magical Defense Bonuses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0056"
+  ]
+ },
+ {
+  "name": "Known Hedge Wizard",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw: the character is known to and watched by the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0057"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw for unbaptized hedge wizards who avoid churchmen and the Dominion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0058"
+  ]
+ },
+ {
+  "name": "No Magical Defenses",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Flaw removing Magical Defense Bonuses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0059"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A powerful unGifted character with up to 21 points of Virtues.",
+  "evidence": [
+   "magic-hedge-magic-revised::0014",
+   "magic-hedge-magic-revised::0051",
+   "magic-hedge-magic-revised::0053"
+  ]
+ },
+ {
+  "name": "Gifted Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hedge wizard created as a companion with The Gift, the most powerful hedge wizard type.",
+  "evidence": [
+   "magic-hedge-magic-revised::0049",
+   "magic-hedge-magic-revised::0053"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Minor unGifted hedge wizard with up to three Minor Virtues.",
+  "evidence": [
+   "magic-hedge-magic-revised::0052"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "magi"
+  ],
+  "description": "A Hermetic wizard of the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0009",
+   "magic-hedge-magic-revised::0053",
+   "magic-hedge-magic-revised::0072"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [
+   "Initiation Script"
+  ],
+  "description": "Rites where a Mystagogue guides an Initiate through a Script to gain a Virtue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0067",
+   "magic-hedge-magic-revised::0068",
+   "magic-hedge-magic-revised::0075"
+  ]
+ },
+ {
+  "name": "Mystagogue",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Member who directs an Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0067",
+   "magic-hedge-magic-revised::0075"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gaining a Flaw during Initiation; required for unGifted initiations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0067",
+   "magic-hedge-magic-revised::0075"
+  ]
+ },
+ {
+  "name": "Breakthrough",
+  "type": "Concept",
+  "aliases": [
+   "Minor Breakthrough",
+   "Major Breakthrough",
+   "Hermetic Breakthrough"
+  ],
+  "description": "Integration of hedge magic into Hermetic theory via breakthrough points: Minor, Major or Hermetic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0070",
+   "magic-hedge-magic-revised::0071",
+   "magic-hedge-magic-revised::0082"
+  ]
+ },
+ {
+  "name": "Insight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Understanding gained from texts, relics or teachers, allowing a partially Hermetic effect.",
+  "evidence": [
+   "magic-hedge-magic-revised::0072",
+   "magic-hedge-magic-revised::0073",
+   "magic-hedge-magic-revised::0074"
+  ]
+ },
+ {
+  "name": "Original Research",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules from True Lineages for extending Hermetic magic by inspiration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0031",
+   "magic-hedge-magic-revised::0084"
+  ]
+ },
+ {
+  "name": "Ancient Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Extinct traditions, discussed in a separate book, whose integration rules parallel hedge ones.",
+  "evidence": [
+   "magic-hedge-magic-revised::0010",
+   "magic-hedge-magic-revised::0084"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Adds 3 to Insight rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0072"
+  ]
+ },
+ {
+  "name": "Flexible Formulaic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Allows varying spells at casting time.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0078"
+  ]
+ },
+ {
+  "name": "Extraordinary Results",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Chart rolled on during experimentation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0078",
+   "magic-hedge-magic-revised::0079"
+  ]
+ },
+ {
+  "name": "Acclaim",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Recognition a Bonisagus earns for Breakthroughs.",
+  "evidence": [
+   "magic-hedge-magic-revised::0081"
+  ]
+ },
+ {
+  "name": "Ars Goetia",
+  "type": "Concept",
+  "aliases": [
+   "Goetic Arts"
+  ],
+  "description": "Ancient system of magic over spirits, branded sorcery; precursor to elementalist arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0087",
+   "magic-hedge-magic-revised::0088"
+  ]
+ },
+ {
+  "name": "Elementalist Arts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Four Techniques and four Forms of elementalist magic, used in combination.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0090",
+   "magic-hedge-magic-revised::0088"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Art",
+  "aliases": [
+   "(Elemental) Summoning"
+  ],
+  "description": "Elementalist Technique that summons a target associated with an element.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0105",
+   "magic-hedge-magic-revised::0106"
+  ]
+ },
+ {
+  "name": "Controlling",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Technique controlling elemental beings.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0102",
+   "magic-hedge-magic-revised::0106"
+  ]
+ },
+ {
+  "name": "Divining",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Technique to locate, understand and predict elements.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0103"
+  ]
+ },
+ {
+  "name": "Refining",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Technique purifying a target via the elements.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0104"
+  ]
+ },
+ {
+  "name": "Elementalist Air",
+  "type": "Art",
+  "aliases": [],
+  "description": "Difficult Elementalist Form of air, affecting sanguine humors, weather, birds and air elementals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0094",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Elementalist Earth",
+  "type": "Art",
+  "aliases": [],
+  "description": "Difficult Elementalist Form of earth, affecting melancholic humors, minerals and earth elementals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0095",
+   "magic-hedge-magic-revised::0117"
+  ]
+ },
+ {
+  "name": "Elementalist Fire",
+  "type": "Art",
+  "aliases": [],
+  "description": "Difficult Elementalist Form of fire, affecting heat, flame and fire elementals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0096",
+   "magic-hedge-magic-revised::0118"
+  ]
+ },
+ {
+  "name": "Elementalist Water",
+  "type": "Art",
+  "aliases": [],
+  "description": "Difficult Elementalist Form of water, affecting phlegmatic humors, liquids and water elementals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0097",
+   "magic-hedge-magic-revised::0119"
+  ]
+ },
+ {
+  "name": "Elementalist Air (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Elementalist Air 0 and a Sanguine trait.",
+  "evidence": [
+   "magic-hedge-magic-revised::0094",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elementalist Earth (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Elementalist Earth 0 and a Melancholic trait.",
+  "evidence": [
+   "magic-hedge-magic-revised::0095",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elementalist Fire (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Elementalist Fire 0 and a Choleric trait.",
+  "evidence": [
+   "magic-hedge-magic-revised::0096",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elementalist Water (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Elementalist Water 0 and a Phlegmatic trait.",
+  "evidence": [
+   "magic-hedge-magic-revised::0097",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "(Type) Summoning",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major or Minor Supernatural Virtue granting Summoning 0 for a type.",
+  "evidence": [
+   "magic-hedge-magic-revised::0105",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "(Type) Controlling",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major or Minor Supernatural Virtue granting Controlling 0.",
+  "evidence": [
+   "magic-hedge-magic-revised::0102",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "(Type) Divining",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major or Minor Supernatural Virtue granting Divining 0.",
+  "evidence": [
+   "magic-hedge-magic-revised::0103",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "(Type) Refining",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major or Minor Supernatural Virtue granting Refining 0.",
+  "evidence": [
+   "magic-hedge-magic-revised::0104",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elemental Affinity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue giving Elementalist Form xp when studying a chosen Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0093",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elemental Magic",
+  "type": "Virtue",
+  "aliases": [
+   "Elementalist Magic"
+  ],
+  "description": "Major Supernatural Virtue giving bonus xp to other Forms and use of highest Form; Hermetic version affects Aquam, Auram, Ignem, Terram.",
+  "evidence": [
+   "magic-hedge-magic-revised::0098",
+   "magic-hedge-magic-revised::0101",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elemental Medicine",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue giving Form xp when studying Medicine.",
+  "evidence": [
+   "magic-hedge-magic-revised::0099",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elemental Philosophiae",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue giving Form xp when studying Philosophiae.",
+  "evidence": [
+   "magic-hedge-magic-revised::0100",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Elemental Theurgy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue giving Form xp when studying (Realm) Lore.",
+  "evidence": [
+   "magic-hedge-magic-revised::0101",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Affinity with (Art)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0054",
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Cyclic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Available positive (Virtue) and negative (Flaw) for elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0092",
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Fast Caster",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Free Study",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Inoffensive to Animals",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Puissant (Art)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Special Circumstances",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0092"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "aliases": [
+   "Magical Foci"
+  ],
+  "description": "Virtue affecting Arts, including Difficult Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0031"
+  ]
+ },
+ {
+  "name": "Restriction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Study Requirement",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Weak Elemental Resistance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw: elemental traits don't add to Soak; Hermetic version weakens Magic Resistance vs elements.",
+  "evidence": [
+   "magic-hedge-magic-revised::0109",
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Vulnerable to (Form)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw subtracting the opposing elemental trait from Soak.",
+  "evidence": [
+   "magic-hedge-magic-revised::0108",
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Deleterious Circumstances",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Offensive to Animals",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Slow Caster",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Susceptibility to Divine Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Susceptibility to Faerie Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Susceptibility to Infernal Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw available to elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0107"
+  ]
+ },
+ {
+  "name": "Deficient Art",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Typical Flaw from a flawed Opening.",
+  "evidence": [
+   "magic-hedge-magic-revised::0025"
+  ]
+ },
+ {
+  "name": "Elemental Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Elementalist warping as elemental Personality Traits that add to Soak and can cause madness.",
+  "evidence": [
+   "magic-hedge-magic-revised::0110",
+   "magic-hedge-magic-revised::0111",
+   "magic-hedge-magic-revised::0112"
+  ]
+ },
+ {
+  "name": "Choleric",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Elemental trait of Elementalist Fire promoting anger; opposes Phlegmatic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0113",
+   "magic-hedge-magic-revised::0110",
+   "magic-hedge-magic-revised::0096"
+  ]
+ },
+ {
+  "name": "Melancholic",
+  "type": "Concept",
+  "aliases": [
+   "Melancholy"
+  ],
+  "description": "Elemental trait of Elementalist Earth for sorrow; opposes Sanguine.",
+  "evidence": [
+   "magic-hedge-magic-revised::0113",
+   "magic-hedge-magic-revised::0095",
+   "magic-hedge-magic-revised::0111"
+  ]
+ },
+ {
+  "name": "Phlegmatic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Elemental trait of Elementalist Water for jealousy and worry; opposes Choleric.",
+  "evidence": [
+   "magic-hedge-magic-revised::0113",
+   "magic-hedge-magic-revised::0097",
+   "magic-hedge-magic-revised::0112"
+  ]
+ },
+ {
+  "name": "Sanguine",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Elemental trait of Elementalist Air for delight and love; opposes Melancholic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0113",
+   "magic-hedge-magic-revised::0094",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Four Humors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bodily humors studied by elemental physicians.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0099",
+   "magic-hedge-magic-revised::0112"
+  ]
+ },
+ {
+  "name": "Elemental Physician",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Elementalist with a Medicinal Technique.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Elemental Philosopher",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Elementalist with a Philosophical Technique.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Elemental Theurgist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Elementalist with a Theurgical Technique.",
+  "evidence": [
+   "magic-hedge-magic-revised::0089",
+   "magic-hedge-magic-revised::0105",
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Elementals",
+  "type": "Creature",
+  "aliases": [
+   "elemental"
+  ],
+  "description": "Animate creatures of the elements that elemental theurgists affect.",
+  "evidence": [
+   "magic-hedge-magic-revised::0088",
+   "magic-hedge-magic-revised::0115",
+   "magic-hedge-magic-revised::0106"
+  ]
+ },
+ {
+  "name": "Air Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental with high mental and low physical Characteristics.",
+  "evidence": [
+   "magic-hedge-magic-revised::0116"
+  ]
+ },
+ {
+  "name": "Earth Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental with high physical and low mental Characteristics.",
+  "evidence": [
+   "magic-hedge-magic-revised::0117",
+   "magic-hedge-magic-revised::0111"
+  ]
+ },
+ {
+  "name": "Fire Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental high in Presence, Communication, Dexterity, Quickness.",
+  "evidence": [
+   "magic-hedge-magic-revised::0118"
+  ]
+ },
+ {
+  "name": "Water Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental high in Cunning, Perception, Strength, Stamina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0119"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where elementalist arts spread during the eighth-century Arab conquests.",
+  "evidence": [
+   "magic-hedge-magic-revised::0088"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Frozen wastes where rune wizards clash with trolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0009"
+  ]
+ },
+ {
+  "name": "Trolls",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creatures vitkir clash with in Scandinavia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0009"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura bonus added to Lab Totals and vis study.",
+  "evidence": [
+   "magic-hedge-magic-revised::0026",
+   "magic-hedge-magic-revised::0043",
+   "magic-hedge-magic-revised::0090"
+  ]
+ },
+ {
+  "name": "Stefano",
+  "type": "Character",
+  "aliases": [
+   "Stefano the Master"
+  ],
+  "description": "A learned magician who tries to Open Sarah's Gift.",
+  "evidence": [
+   "magic-hedge-magic-revised::0026",
+   "magic-hedge-magic-revised::0027",
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Sarah",
+  "type": "Character",
+  "aliases": [],
+  "description": "A young Gifted girl with Entrancement and Magic Sensitivity in the example.",
+  "evidence": [
+   "magic-hedge-magic-revised::0026",
+   "magic-hedge-magic-revised::0027"
+  ]
+ },
+ {
+  "name": "Marco the Student",
+  "type": "Character",
+  "aliases": [],
+  "description": "A learned magician example character.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Succurro",
+  "type": "Art",
+  "aliases": [],
+  "description": "Learned magician Art used in the Opening Total.",
+  "evidence": [
+   "magic-hedge-magic-revised::0026",
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Magicam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Learned magician Art used in the Opening Total.",
+  "evidence": [
+   "magic-hedge-magic-revised::0026",
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Fortunam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Learned magician Art.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Salutem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Learned magician Art.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Tueor",
+  "type": "Art",
+  "aliases": [],
+  "description": "Learned magician Art.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Vulnero",
+  "type": "Art",
+  "aliases": [],
+  "description": "Learned magician Art.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Coven",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group of folk witches, created with rules based on covenant creation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0019"
+  ]
+ },
+ {
+  "name": "Sabbat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch gatherings.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Elisavet",
+  "type": "Character",
+  "aliases": [
+   "Psychorrhax"
+  ],
+  "description": "Elementalist character known as Psychorrhax.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Matilda",
+  "type": "Character",
+  "aliases": [],
+  "description": "A folk witch character sidebar in the Folk Witches chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Eliza",
+  "type": "Character",
+  "aliases": [],
+  "description": "A folk witch character sidebar in the Folk Witches chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Mistress Greta",
+  "type": "Character",
+  "aliases": [],
+  "description": "A folk witch character sidebar in the Folk Witches chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Janine Kyteler",
+  "type": "Character",
+  "aliases": [],
+  "description": "A folk witch character sidebar in the Folk Witches chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Anne Kors",
+  "type": "Character",
+  "aliases": [],
+  "description": "A folk witch character sidebar in the Folk Witches chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Jean the Wise",
+  "type": "Character",
+  "aliases": [],
+  "description": "A folk witch character sidebar in the Folk Witches chapter.",
+  "evidence": [
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Domhnall the Gruagach",
+  "type": "Character",
+  "aliases": [],
+  "description": "A gruagach character.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Master Conall the Gruagach",
+  "type": "Character",
+  "aliases": [],
+  "description": "A gruagach master character.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Koshchey the Deathless",
+  "type": "Character",
+  "aliases": [],
+  "description": "Subject of a gruagachan story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Rothiger",
+  "type": "Character",
+  "aliases": [],
+  "description": "A Hound of God companion, also shown in wolf form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Arno",
+  "type": "Character",
+  "aliases": [],
+  "description": "A Benandante companion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Eirik Svennson",
+  "type": "Character",
+  "aliases": [],
+  "description": "A warrior vitki.",
+  "evidence": [
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "aliases": [],
+  "description": "God whose sacrifice underlies the runes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Aristeas",
+  "type": "Character",
+  "aliases": [],
+  "description": "Subject of a nightwalker story seed.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Ekstasis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nightwalker spirit-straying power.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Fertility Battles",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nightwalker spirit battles for prosperity.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Elder Futhark",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rune set used by vitkir.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Younger Futhark",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rune set.",
+  "evidence": [
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Anglo-Saxon Futhorc",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rune set.",
+  "evidence": [
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Subtle Opening",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "New Virtue from folk witch integration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Energy Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "New Virtue from folk witch integration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Sense of the Mystic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "New Virtue from folk witch integration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Ritual Items",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "New Virtue from folk witch integration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Quick Charged Items",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue from learned magician integration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0007"
+  ]
+ },
+ {
+  "name": "Cailleach Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Integration of Gruagach magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Improved Voice Range",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Integration of Gruagach magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Geas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gruagach duration type.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004",
+   "magic-hedge-magic-revised::0006"
+  ]
+ },
+ {
+  "name": "Nátt-thel",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Vitkir Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005"
+  ]
+ },
+ {
+  "name": "Familiars",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiars of folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0004"
+  ]
+ },
+ {
+  "name": "Ansuz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Mouth'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Berkanan",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Birch'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Dagaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Day'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Ehwaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Horse'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Fehu",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Wealth'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Gebo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Gift'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Hagalaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Hail'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Isa",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Ice'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Jera",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Year'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Kauno",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Pain'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Laguz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Water'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Mannaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Man'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Naudiz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Need'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Ingwaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Lord'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Othila",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Inheritance'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Perth",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Cup'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Raido",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Riding'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Sowilo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Sun'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Tiwaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Tyr'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Thurisaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Ogre'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Uruz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Auroch'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Wunjo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Joy'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Ihwaz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Yew'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ },
+ {
+  "name": "Algiz",
+  "type": "Art",
+  "aliases": [],
+  "description": "Vitkar rune meaning 'Elk'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0005",
+   "magic-hedge-magic-revised::0007",
+   "magic-hedge-magic-revised::0008"
+  ]
+ }
+]

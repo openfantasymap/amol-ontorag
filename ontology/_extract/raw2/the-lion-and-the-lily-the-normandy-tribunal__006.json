@@ -1,0 +1,2138 @@
+[
+ {
+  "name": "Confluensis",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Quaesitorial covenant of the Normandy Tribunal, founded in 810, which moved to the Orchard of Sour Apples in 1051 and opposes the creation of a Lotharingian Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0734",
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Tribunal of the West Franks"
+  ],
+  "description": "The Tribunal covering northern France, renamed from the Tribunal of the West Franks in 983; it meets every seven years.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0729",
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Neighboring Tribunal for which the pro-Lotharingian faction is a minor annoyance; home of the covenant of Fengheld.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0726",
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Lotharingian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "A proposed new Tribunal whose creation would strip rich vis sources from Normandy; also one of the Tribunals named at the Sixth Grand Tribunal in 865.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Pro-Lotharingian Tribunal Faction",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Faction seeking to create a new Lotharingian Tribunal from parts of the Normandy and Rhine Tribunals ahead of the Grand Tribunal of 1228.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Order-wide gathering of Hermes, meeting every 33 years since 832; the 17th is due in 1228.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0734",
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Brittany",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region holding more vis and faerie sites than anywhere else in the Normandy Tribunal, dominated by House Tytalus; added to the Tribunal in 1018.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0721",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House dominating Brittany, whose domus magna is Fudarus; its founder Tytalus vanished in 807.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0721",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power harvested from vis sources, whose distribution is contested in the Normandy Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0721",
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores"
+  ],
+  "description": "Hermetic investigators and judges of House Guernicus; Confluensis is a Quaesitorial covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720",
+   "the-lion-and-the-lily-the-normandy-tribunal::0727",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Mercer House",
+  "type": "Place",
+  "aliases": [],
+  "description": "A Redcap way-station; Confluensis has investigated a site for a new one in the Lotharingian region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0720"
+  ]
+ },
+ {
+  "name": "Forest of Broceliande",
+  "type": "Place",
+  "aliases": [
+   "Broceliande"
+  ],
+  "description": "Haunted forest in Brittany where numerous covenants have been founded but none survived.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0721"
+  ]
+ },
+ {
+  "name": "Fudarus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded by Tytalus in 798 to train Hariste; the domus magna of House Tytalus, site of the Betrayal of 961.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0721",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733",
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fae beings whose sites abound in Brittany and who make mischief for covenants there.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0721",
+   "the-lion-and-the-lily-the-normandy-tribunal::0724"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of Hermetic magi, founded in 767 by Bonisagus and the Founders.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Order of Preachers",
+  "type": "Faction",
+  "aliases": [
+   "Dominicans",
+   "Preaching Orders"
+  ],
+  "description": "Newly formed religious order charged with combating heresy, prominent in the Albigensian Crusade.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722",
+   "the-lion-and-the-lily-the-normandy-tribunal::0725"
+  ]
+ },
+ {
+  "name": "Albigensian Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Crusade against the Cathars in the Provençal Tribunal, begun 1209 and ending 1229.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722",
+   "the-lion-and-the-lily-the-normandy-tribunal::0743",
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal to the south whose border with Normandy was set on linguistic grounds in 1102.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722",
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Heretical group fought in the Albigensian Crusade.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722"
+  ]
+ },
+ {
+  "name": "Papal Letter of Inquisition",
+  "type": "Item",
+  "aliases": [],
+  "description": "Extremely rare document granting its bearer extraordinary power backed by the papacy; only one Dominican holds one.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722"
+  ]
+ },
+ {
+  "name": "Eloi of Cunfin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus of Cunfin concerned that Church inquisitors may turn northward.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722"
+  ]
+ },
+ {
+  "name": "Jerome of Confluensis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus of Confluensis concerned about the Church's inquisitors.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722"
+  ]
+ },
+ {
+  "name": "Cunfin",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded in 1192.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0722",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Knights Hospitaller",
+  "type": "Faction",
+  "aliases": [
+   "Order of Hospitallers",
+   "Hospitallers"
+  ],
+  "description": "Order of Hospitallers that founded a City of God settlement on the Cotentin Peninsula.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723",
+   "the-lion-and-the-lily-the-normandy-tribunal::0725"
+  ]
+ },
+ {
+  "name": "City of God",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Planned perfect settlement ruled by the Church, likely with a high Dominion aura; the Hospitallers founded one near Confluensis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723",
+   "the-lion-and-the-lily-the-normandy-tribunal::0724"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The divine Realm; a City of God would have a high Dominion aura (4 for the Hospitaller settlement).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Realm-aligned supernatural area strength, e.g. a Dominion aura of 4.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723"
+  ]
+ },
+ {
+  "name": "Cotentin Peninsula",
+  "type": "Place",
+  "aliases": [
+   "Cotentin"
+  ],
+  "description": "Norman peninsula where Confluensis lies and the Hospitallers founded their City of God.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723",
+   "the-lion-and-the-lily-the-normandy-tribunal::0725"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue often borne by the Hospitaller knights.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Item",
+  "aliases": [
+   "Relics"
+  ],
+  "description": "Holy relics carried by the Hospitaller knights.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "demons"
+  ],
+  "description": "Infernal beings that may covertly aid those opposing the pious knights.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723",
+   "the-lion-and-the-lily-the-normandy-tribunal::0724",
+   "the-lion-and-the-lily-the-normandy-tribunal::0725"
+  ]
+ },
+ {
+  "name": "Djinn",
+  "type": "Creature",
+  "aliases": [
+   "djinns"
+  ],
+  "description": "Beings the old crusaders may have faced in battle.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant soldiers and servants whom Hospitaller veterans could train.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0723"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Order's law, whose limitations Confluensis agents must observe closely.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0724"
+  ]
+ },
+ {
+  "name": "St. Giles",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint whose statue in Cotentin is used as a fertility charm and allegedly regrows shaved wood.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0725"
+  ]
+ },
+ {
+  "name": "Statue of St. Giles",
+  "type": "Item",
+  "aliases": [],
+  "description": "Phallic statue in Cotentin from which healing wood shavings are taken and which reputedly regrows them.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0725"
+  ]
+ },
+ {
+  "name": "Fengheld",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant in the Rhine Tribunal with chapter houses, including one near Cherbourg; likely to face a crisis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0726"
+  ]
+ },
+ {
+  "name": "Chapter of Cherbourg",
+  "type": "Covenant",
+  "aliases": [
+   "Cherbourg covenant"
+  ],
+  "description": "Chapter house of Fengheld near Cherbourg, occupied by a single magus considered a cenobite in Normandy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0726"
+  ]
+ },
+ {
+  "name": "Cherbourg",
+  "type": "Place",
+  "aliases": [],
+  "description": "Norman town near which Fengheld founded a chapter house.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0726"
+  ]
+ },
+ {
+  "name": "Chapter House",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Satellite covenant of a parent covenant; not recognized under Normandy's Peripheral Code.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0726"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Local Tribunal rulings supplementing the Code of Hermes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0726"
+  ]
+ },
+ {
+  "name": "Cenobite",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A magus living in an unrecognized covenant, as the Cherbourg magus is treated.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0726"
+  ]
+ },
+ {
+  "name": "Proctor",
+  "type": "Character",
+  "aliases": [],
+  "description": "Senior Quaesitor leading Confluensis, whose agents the player characters may be.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0727"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [],
+  "description": "House of the Quaesitores, which would replace Proctor with a senior Quaesitor.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0727",
+   "the-lion-and-the-lily-the-normandy-tribunal::0728"
+  ]
+ },
+ {
+  "name": "Julius Caesar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman general who concluded his Gallic campaign in 51 BC.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "St. Denis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who evangelized Paris and was martyred at Montmartre in 275.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730",
+   "the-lion-and-the-lily-the-normandy-tribunal::0743"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "aliases": [],
+  "description": "Capital city of France, established by Clovis and Hugh Capet; site of Eboris and the University.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730",
+   "the-lion-and-the-lily-the-normandy-tribunal::0731",
+   "the-lion-and-the-lily-the-normandy-tribunal::0743"
+  ]
+ },
+ {
+  "name": "Montmartre",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hill near Paris where St. Denis was martyred.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "St. Martin of Tours",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who gave half his cloak to a beggar and became bishop of Tours.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Tours",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whose bishops included St. Martin and Gregory; site of the Battle of Tours in 732.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730",
+   "the-lion-and-the-lily-the-normandy-tribunal::0731",
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "St. Perpetuus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bishop of Tours after St. Martin in 397.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Huns",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Invaders of Europe under Attila, defeated at Châlons in 451.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Attila",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the Huns whose westward conquests ended at Châlons.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Merovech",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary king of the Salian Franks (447-458), ancestor of the Merovingians.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730",
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Salian Franks",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Frankish people ruled by Merovech and Childeric.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "St. Geneviève",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who saved Paris from the Huns and from Childeric's siege.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Battle of Châlons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "451 battle in which Romans, Franks and Visigoths defeated the Huns.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Childeric",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of Merovech, king of the Salian Franks who besieged Paris in 464.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Euric",
+  "type": "Character",
+  "aliases": [],
+  "description": "Visigoth king campaigning across Western Europe 470-485.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Odovacar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gothic king who conquered Italy in 476.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730"
+  ]
+ },
+ {
+  "name": "Clovis",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of the Franks, founder of the Merovingian dynasty, first Christian Frankish king; his magical lineage endures.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0730",
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Merovingian Dynasty",
+  "type": "Faction",
+  "aliases": [
+   "Merovingians"
+  ],
+  "description": "Frankish royal dynasty begun by Clovis, ending with Childeric III.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731",
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Childebert I",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son and successor of Clovis who died childless in 558.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Chlotar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Brother of Childebert who inherited the Frankish kingship.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Sigebert",
+  "type": "Character",
+  "aliases": [],
+  "description": "Frankish king who warred on Chilperic in 567.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Chilperic I",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of Chlotar, king who died in 584.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Fredegund",
+  "type": "Character",
+  "aliases": [],
+  "description": "Wife of Chilperic I and regent for Chlotar II.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Chlotar II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Chlotar 'the Grand', reunited the Frankish kingdom in 613.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "St. Gregory of Tours",
+  "type": "Character",
+  "aliases": [
+   "Gregory"
+  ],
+  "description": "Bishop of Tours who wrote the Historia Francorum.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Historia Francorum",
+  "type": "Item",
+  "aliases": [],
+  "description": "History of the Franks written by St. Gregory of Tours in 594.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Dagobert I",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Austrasia and the Franks from 628 to 637.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0731",
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Theoderic III",
+  "type": "Character",
+  "aliases": [],
+  "description": "Frankish king under whom the kingdom reunited in 679.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Ebroin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mayor of the Palace dominating Theoderic III.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Pepin II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pepin 'the Large', Dux et Princeps Francorum.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Traveled widely 731-767 contacting wizards who visited Bonisagus and became Founders.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of the Order of Hermes who swore the Oath in 767.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Founders",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The original magi who founded the Order of Hermes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Battle of Tours",
+  "type": "Concept",
+  "aliases": [],
+  "description": "732 victory by Charles Martel over an Islamic army.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Charles Martel",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of Pepin II who won the Battle of Tours.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Pepin III",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pepin 'the Short', first Carolingian king, crowned 751.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732"
+  ]
+ },
+ {
+  "name": "Carolingian Dynasty",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Frankish royal dynasty begun by Pepin III.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Childeric III",
+  "type": "Character",
+  "aliases": [],
+  "description": "Last Merovingian king, shorn and retired to a monastery.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of the Franks and emperor crowned in 800, who outlawed sorcery but permitted benevolent magic.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0732",
+   "the-lion-and-the-lily-the-normandy-tribunal::0733",
+   "the-lion-and-the-lily-the-normandy-tribunal::0734"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Oath sworn by the Founders in 767.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Site of the first Tribunal gathering of the Order.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Jerbiton",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder who met Charlemagne in 789 and adopted apprentices of Carolinus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Carolinus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Charlemagne's mage-smith.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Branugurix",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus magna of House Diedne in Brittany, founded 791 and destroyed in 1012.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House destroyed in the Schism War.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Tytalus who stole Hariste and founded Fudarus, vanishing into the Maddenhofen Woods in 807.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733",
+   "the-lion-and-the-lily-the-normandy-tribunal::0734"
+  ]
+ },
+ {
+  "name": "Hariste",
+  "type": "Character",
+  "aliases": [],
+  "description": "Apprentice stolen from Pralix; first Prima of Tytalus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733",
+   "the-lion-and-the-lily-the-normandy-tribunal::0734"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus from whom Tytalus stole Hariste; acting leader of House Tytalus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733"
+  ]
+ },
+ {
+  "name": "Maddenhofen Woods",
+  "type": "Place",
+  "aliases": [],
+  "description": "Bohemian woods where Tytalus vanished.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0734"
+  ]
+ },
+ {
+  "name": "Bibracte",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 822, sacked by Montverte in 969.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0734",
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Pagus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded c.840-855, destroyed 1008.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0734",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Treaty of Verdun",
+  "type": "Concept",
+  "aliases": [],
+  "description": "843 treaty dividing Charlemagne's empire.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0734"
+  ]
+ },
+ {
+  "name": "Baiocassium",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 851, destroyed 1011.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0734",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Sinapis",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Flambeau covenant founded c.855-875, abandoned 1063.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0734",
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Regional Hermetic governing gathering, requiring at least twelve magi from four covenants.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0733",
+   "the-lion-and-the-lily-the-normandy-tribunal::0734",
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "West Franks Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal named in 865, predecessor of the Normandy Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Britannian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "One of the Tribunals named in 865.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "One of the Tribunals named in 865.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "One of the Tribunals named in 865.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Eastern Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "One of the Tribunals named in 865.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "One of the Tribunals named in 865.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Rotomagus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded c.875, destroyed in 892 when Vikings sacked Rouen.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Rouen",
+  "type": "Place",
+  "aliases": [],
+  "description": "City sacked by Vikings in 892.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Charles the Fat",
+  "type": "Character",
+  "aliases": [],
+  "description": "Emperor who reunited Charlemagne's empire in 881, deposed 887.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Odo, Count of Paris",
+  "type": "Character",
+  "aliases": [],
+  "description": "Chosen king of the Franks in 888 for resisting the Norse.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Charles the Simple",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of the Franks from 898, driven out by Robert.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735",
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Florum",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 907, moved in 1117.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Cluny",
+  "type": "Place",
+  "aliases": [],
+  "description": "Monastery founded 910.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735"
+  ]
+ },
+ {
+  "name": "Ligurio",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 913, destroyed 1011.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Kerguntuil",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 920, destroyed 1007.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Robert I",
+  "type": "Character",
+  "aliases": [],
+  "description": "Brother of Odo, crowned king in 922, died in combat in 923.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0735",
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Rudolph, Duke of Burgundy",
+  "type": "Character",
+  "aliases": [],
+  "description": "Took the Frankish throne in 923.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Louis IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of the Franks from 936.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Baiocassium Minor",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 936, destroyed 1005.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Montverte",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 941 whose magi sacked Bibracte.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Lothair",
+  "type": "Character",
+  "aliases": [],
+  "description": "King inheriting his father's crown in 954.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Betrayal of House Tytalus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "961 event at Fudarus in which Prima Tasgillia was executed for diabolism.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Tasgillia",
+  "type": "Character",
+  "aliases": [],
+  "description": "Prima of House Tytalus executed for diabolism in 961.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Kalliste",
+  "type": "Character",
+  "aliases": [],
+  "description": "Filia of Tasgillia who replaced her as Prima.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Louis V",
+  "type": "Character",
+  "aliases": [],
+  "description": "'The Indolent', king in 986.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Hugh Capet",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of France from 987, made Paris his capital.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736",
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Otto III",
+  "type": "Character",
+  "aliases": [],
+  "description": "Holy Roman Emperor supporting Hugh Capet.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Adalberon of Reims",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archbishop supporting Hugh Capet.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Robert II",
+  "type": "Character",
+  "aliases": [],
+  "description": "'The Pious', son of Hugh Capet.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Aedes Salii",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Flambeau covenant founded 998, abandoned 1063.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737",
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War against House Diedne 1004-1018, ending with the Tempest.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Caput Capra",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant destroyed in 1005.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "The Tempest",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Final battle of the Schism War in 1012 destroying Branugurix.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737"
+  ]
+ },
+ {
+  "name": "Pertheus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus of House Tytalus who proposed the right of conquest and the Perthean Compact.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737",
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Hermetic Tourney",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tournament redistributing seized vis sources and access to the Tribunal Library.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737",
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Orchard of Sour Apples",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1020, taken over by Confluensis in 1051.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737",
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Lixivia",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1021, disbanded 1124.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Perthean Compact",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Statutes adopted in 1025 defining magi's rights over nearby vis sources.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0737",
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Oleron",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1028.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Henry I of France",
+  "type": "Character",
+  "aliases": [],
+  "description": "King succeeding in 1031.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Conrad II",
+  "type": "Character",
+  "aliases": [],
+  "description": "German emperor who defeated Odo of Champagne at Bar.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Odo of Champagne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Defeated by Conrad II in 1037.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Vexatores",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1048, abandoned 1064.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738",
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Dragon's Rest",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant established at the former site of Confluensis in 1051.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Philip I",
+  "type": "Character",
+  "aliases": [],
+  "description": "'The Fair', king from 1061.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738",
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Baldwin V of Flanders",
+  "type": "Character",
+  "aliases": [],
+  "description": "Co-regent for Philip I.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose conflict with Tytalus ended in 1063.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Lapis Crudus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Joint Tytalus-Flambeau covenant founded 1063, trapped in its regio in 1118, re-emerged 1215.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0738",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740",
+   "the-lion-and-the-lily-the-normandy-tribunal::0743"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural layered area in which Lapis Crudus became trapped.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Battle of Hastings",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1066 battle leading to the Norman conquest of England.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "William of Normandy",
+  "type": "Character",
+  "aliases": [],
+  "description": "Duke who defeated Harold Godwinson at Hastings.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Harold Godwinson",
+  "type": "Character",
+  "aliases": [],
+  "description": "Anglo-Saxon King of England defeated at Hastings.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Nauche-Fleur",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1072, abandoned 1166.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Perpauca",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus whose books became the first tomes of the Library of the Normandy Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Library of the Normandy Tribunal",
+  "type": "Item",
+  "aliases": [],
+  "description": "Tribunal library begun with Perpauca's books; access given as tourney prizes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Crusades",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Series of crusades (First through Eighth) from 1096.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741",
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Cîteaux",
+  "type": "Place",
+  "aliases": [],
+  "description": "Monastery founded 1098, mother house of the Cistercian Order.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Cistercian Order",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Monastic order whose mother house is Cîteaux.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Infelicitas",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1099, abandoned 1158.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Nidi",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1100.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739"
+  ]
+ },
+ {
+  "name": "Louis VI",
+  "type": "Character",
+  "aliases": [],
+  "description": "'The Fat', crowned in Orléans in 1108.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Reims",
+  "type": "Place",
+  "aliases": [],
+  "description": "Traditional coronation city.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0736"
+  ]
+ },
+ {
+  "name": "Picardy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where a plague of restless dead arose in 1109.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Donatores",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Lineage of House Ex Miscellanea founded by hedge wizards who banished the restless dead of Picardy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [],
+  "description": "House containing the Donatores lineage.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic wizards; some founded the Donatores.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Restless Dead",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Plague of undead in Picardy in 1109.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0739",
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "St. Bernard of Clairvaux",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founded Clairvaux Abbey and preached the Second Crusade.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Clairvaux Abbey",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abbey founded by St. Bernard in 1115.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Spider's Palace",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1117 at the former site of Florum.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Peter Abélard",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scholar who came to Paris in 1118.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Requies Aeterna",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded by Donatores magi in 1123.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Alcuin's Auberge",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1124, destroyed 1197.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Geoffrey V of Anjou",
+  "type": "Character",
+  "aliases": [],
+  "description": "Married Matilda, conquered Normandy in 1144.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Matilda",
+  "type": "Character",
+  "aliases": [],
+  "description": "Daughter of Henry I of England, wife of Geoffrey V.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Pope Innocent II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pope who took refuge in France in 1130.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Flanders",
+  "type": "Place",
+  "aliases": [],
+  "description": "Coast reshaped by a tidal wave in 1134.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Bruges",
+  "type": "Place",
+  "aliases": [],
+  "description": "City regaining North Sea access in 1134.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Moles Magna",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1136, destroyed 1182.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Louis VII",
+  "type": "Character",
+  "aliases": [],
+  "description": "'The Young', king from 1137, married Eleanor of Aquitaine.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740"
+  ]
+ },
+ {
+  "name": "Eleanor of Aquitaine",
+  "type": "Character",
+  "aliases": [],
+  "description": "Queen who married Louis VII then Henry II; ransomed Richard; died 1204.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740",
+   "the-lion-and-the-lily-the-normandy-tribunal::0741",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Normandy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Duchy conquered by Geoffrey V and later invaded by Philip II.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0740",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Henry II of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "Henry Plantagenet, begun the Angevin Dynasty in 1154.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Angevin Dynasty",
+  "type": "Faction",
+  "aliases": [
+   "Angevins"
+  ],
+  "description": "Royal dynasty beginning with Henry II.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Cathedral of Notre-Dame",
+  "type": "Place",
+  "aliases": [],
+  "description": "Paris cathedral begun 1163.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Philip II Augustus",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of France from 1180, built the Louvre, won at Bouvines.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742",
+   "the-lion-and-the-lily-the-normandy-tribunal::0743"
+  ]
+ },
+ {
+  "name": "Atsingani",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1187.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "Richard the Lionheart",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of England who defeated Philip II several times; slain 1199.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Louvre",
+  "type": "Place",
+  "aliases": [],
+  "description": "Philip II's fortress in Paris.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741"
+  ]
+ },
+ {
+  "name": "King John of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "Richard's brother and successor who lost Normandy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0741",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Chartres",
+  "type": "Place",
+  "aliases": [],
+  "description": "City with a cathedral damaged by the Great Fire of 1194.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "University of Paris",
+  "type": "Place",
+  "aliases": [],
+  "description": "University chartered by Philip II in 1200.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742",
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Atramentum",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1200, disbanded and reformed as Atramentum Renatus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Exspectatio",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1201 on the site of Atramentum.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Atramentum Renatus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Reformation of Atramentum in 1201.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Arthur of Brittany",
+  "type": "Character",
+  "aliases": [],
+  "description": "Claimant supported by Philip II against John.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Capetians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "French royal dynasty contending with the Angevins.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Eboris",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded in Paris in 1204.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0742",
+   "the-lion-and-the-lily-the-normandy-tribunal::0743"
+  ]
+ },
+ {
+  "name": "Children's Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1212 crusade started by a shepherd boy from Châteaudun.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0743"
+  ]
+ },
+ {
+  "name": "Battle of Bouvines",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1214 victory of Philip II over Saxons, English and Flemish.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0743"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [],
+  "description": "German emperor, Holy Roman Emperor from 1220.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0743",
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Louis VIII",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of France from 1223.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Louis IX",
+  "type": "Character",
+  "aliases": [
+   "St. Louis"
+  ],
+  "description": "King from 1226, canonized as St. Louis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Pope Urban IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "Jacques Pantaléon from Troyes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Pope Clement IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "Guido Le Gros from Saint-Gilles.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Pope Martin IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "Simon de Brie.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "Philip IV",
+  "type": "Character",
+  "aliases": [],
+  "description": "'The Fair', king from 1285.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0744"
+  ]
+ },
+ {
+  "name": "French",
+  "type": "Ability",
+  "aliases": [
+   "Langues d'Ouiel"
+  ],
+  "description": "Living Language of most of the Tribunal (Langues d'Oil), with dialects Orleanais, Norman, Picard, Walloon, Champenois, Bourguignon, Lorrain, Poitevin.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0746",
+   "the-lion-and-the-lily-the-normandy-tribunal::0747"
+  ]
+ },
+ {
+  "name": "Occitan",
+  "type": "Ability",
+  "aliases": [
+   "Langues d'Oc"
+  ],
+  "description": "Living Language (Langues d'Oc) with dialects Gascon, Limousin, Auvergnat, Provencal, Catalan.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0746"
+  ]
+ },
+ {
+  "name": "Breton",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Living Language of Brittany, related to Cornish and Welsh, hardly ever written.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0746"
+  ]
+ },
+ {
+  "name": "Low German",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Living Language with Frisian and Flemish dialects.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0746"
+  ]
+ },
+ {
+  "name": "Anglo-Norman",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Dialect of England's ruling classes closely related to Norman French.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0746",
+   "the-lion-and-the-lily-the-normandy-tribunal::0747"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language of learning in which most books are written.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0746"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability category for spoken languages, with dialect specialties.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745"
+  ]
+ },
+ {
+  "name": "Ile de France",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region including Paris, where Orleanais is spoken.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745"
+  ]
+ },
+ {
+  "name": "Channel Islands",
+  "type": "Place",
+  "aliases": [],
+  "description": "Islands where a dialect close to Norman is spoken.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0746"
+  ]
+ },
+ {
+  "name": "Aquitaine",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region divided between Poitevin French and Occitan speakers.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0746"
+  ]
+ },
+ {
+  "name": "Anjou",
+  "type": "Place",
+  "aliases": [],
+  "description": "County whose dialect is Poitevin; claimed by Philip II.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0742"
+  ]
+ },
+ {
+  "name": "Champagne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Champenois is spoken.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745"
+  ]
+ },
+ {
+  "name": "Burgundy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Bourguignon is spoken.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0731"
+  ]
+ },
+ {
+  "name": "Upper Lorraine",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Lorrain is spoken.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745",
+   "the-lion-and-the-lily-the-normandy-tribunal::0738"
+  ]
+ },
+ {
+  "name": "Lower Lorraine",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Walloon is spoken.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0745"
+  ]
+ }
+]

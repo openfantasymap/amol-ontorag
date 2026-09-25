@@ -1,0 +1,2317 @@
+[
+ {
+  "name": "Bear Island",
+  "type": "Place",
+  "description": "An island in the Sea of Marmara in the Thebes Tribunal, home to a sleeping titaness, faeries, vis sites and regiones; a possible covenant site.",
+  "evidence": [
+   "mythic-locations::0125",
+   "mythic-locations::0142",
+   "mythic-locations::0151"
+  ]
+ },
+ {
+  "name": "Jasonian Way",
+  "type": "Place",
+  "aliases": [
+   "Brendan's Way"
+  ],
+  "description": "A permanent path leading from the Temenos of Dindyméné to the Faerie regio through the faerie forest.",
+  "evidence": [
+   "mythic-locations::0120",
+   "mythic-locations::0127",
+   "mythic-locations::0128"
+  ]
+ },
+ {
+  "name": "Temenos of Dindyméné",
+  "type": "Place",
+  "aliases": [
+   "temenos",
+   "Sacred Grove"
+  ],
+  "description": "A sacred grove atop Mount Dindymon ringed by oaks and chestnuts, with a Magic aura of 3, leading to both a Faerie and a Magic regio.",
+  "evidence": [
+   "mythic-locations::0120",
+   "mythic-locations::0122",
+   "mythic-locations::0151"
+  ]
+ },
+ {
+  "name": "Faerie Regio of Dindyméné",
+  "type": "Place",
+  "description": "A Faerie regio (aura 6) above the temenos on Mount Dindymon, home to the ten Idaian Daktyls in stone and log huts.",
+  "evidence": [
+   "mythic-locations::0121",
+   "mythic-locations::0120",
+   "mythic-locations::0127"
+  ]
+ },
+ {
+  "name": "Magic Regio of Dindyméné",
+  "type": "Place",
+  "description": "An uninhabited Magic regio (aura 6) that is an enlarged copy of the temenos, producing Herbam and Terram vis annually and granting Calm +2 to visitors.",
+  "evidence": [
+   "mythic-locations::0122",
+   "mythic-locations::0131",
+   "mythic-locations::0151"
+  ]
+ },
+ {
+  "name": "Mount Dindymon",
+  "type": "Place",
+  "aliases": [
+   "Mt. Dindymon"
+  ],
+  "description": "The mountain on Bear Island atop which the Temenos of Dindyméné lies and beneath which the titaness Dindyméné is bound.",
+  "evidence": [
+   "mythic-locations::0121",
+   "mythic-locations::0131",
+   "mythic-locations::0136"
+  ]
+ },
+ {
+  "name": "Artakia",
+  "type": "Place",
+  "description": "The Greek town on Bear Island whose citizens know of the faerie regio and whose spring has a Magic aura of 2.",
+  "evidence": [
+   "mythic-locations::0120",
+   "mythic-locations::0141",
+   "mythic-locations::0151"
+  ]
+ },
+ {
+  "name": "Spring of Artakia",
+  "type": "Place",
+  "description": "A spring near Artakia with a Magic aura of 2, the easiest site on Bear Island at which to found a covenant.",
+  "evidence": [
+   "mythic-locations::0151"
+  ]
+ },
+ {
+  "name": "Chytus Harbor",
+  "type": "Place",
+  "description": "The harbor on Bear Island watched by the Gegenees, whose external vis lies in boulders scattered around it.",
+  "evidence": [
+   "mythic-locations::0134",
+   "mythic-locations::0135",
+   "mythic-locations::0136"
+  ]
+ },
+ {
+  "name": "Bear Mountain",
+  "type": "Place",
+  "description": "The forested hills of Bear Island where the Gegenees live.",
+  "evidence": [
+   "mythic-locations::0136"
+  ]
+ },
+ {
+  "name": "Sea of Marmara",
+  "type": "Place",
+  "description": "A busy sea near the western end of the Silk Road where Bear Island lies and where the halcyon's vis source is hidden in coves.",
+  "evidence": [
+   "mythic-locations::0126",
+   "mythic-locations::0143",
+   "mythic-locations::0144"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Region just south of the Sea of Marmara's traffic routes, mentioned as a destination for vessels.",
+  "evidence": [
+   "mythic-locations::0126"
+  ]
+ },
+ {
+  "name": "Silk Road",
+  "type": "Place",
+  "description": "Trade route whose western end lies near the Sea of Marmara.",
+  "evidence": [
+   "mythic-locations::0126"
+  ]
+ },
+ {
+  "name": "Alexandria",
+  "type": "Covenant",
+  "description": "The covenant of the Theban Redcaps, where journals and records including directions to Bear Island are kept.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Hypereia",
+  "type": "Place",
+  "description": "An island of the Thebes Tribunal inhabited by cyclopes.",
+  "evidence": [
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "description": "Land off whose coast Scylla lives in a large rock.",
+  "evidence": [
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "Phrygia",
+  "type": "Place",
+  "description": "Region where Dindyméné is called Kybélé.",
+  "evidence": [
+   "mythic-locations::0136"
+  ]
+ },
+ {
+  "name": "Anatolia",
+  "type": "Place",
+  "description": "Region where Dindyméné is called Kubaba; also a suggested location for the Cursewood in the Theban variant.",
+  "evidence": [
+   "mythic-locations::0136",
+   "mythic-locations::0138",
+   "mythic-locations::0168"
+  ]
+ },
+ {
+  "name": "Greece",
+  "type": "Place",
+  "description": "Mainland where Dindyméné is known as Rhea.",
+  "evidence": [
+   "mythic-locations::0136",
+   "mythic-locations::0138"
+  ]
+ },
+ {
+  "name": "Island of the Sleeping Fomóir",
+  "type": "Place",
+  "description": "Variant renaming of Bear Island when moved to the Hibernia Tribunal.",
+  "evidence": [
+   "mythic-locations::0153"
+  ]
+ },
+ {
+  "name": "Cursewood",
+  "type": "Place",
+  "aliases": [
+   "Cursed Woods",
+   "Qursewood",
+   "Cursed Wood"
+  ],
+  "description": "A cursed forest in a barren valley in Pomerania, about 30 miles across, home of the daimon Wyzwanie and site of Regulus' sanctum, covered by a Malevolent Infernal aura of 5.",
+  "evidence": [
+   "mythic-locations::0156",
+   "mythic-locations::0171",
+   "mythic-locations::0198"
+  ]
+ },
+ {
+  "name": "Pomerania",
+  "type": "Place",
+  "description": "Sparsely settled forested region in the eastern marches of the Rhine Tribunal, bordering Novgorod, where the Cursewood lies.",
+  "evidence": [
+   "mythic-locations::0155",
+   "mythic-locations::0165",
+   "mythic-locations::0171"
+  ]
+ },
+ {
+  "name": "Novgorod",
+  "type": "Place",
+  "description": "Region bordering Pomerania.",
+  "evidence": [
+   "mythic-locations::0165"
+  ]
+ },
+ {
+  "name": "Baltic Coast",
+  "type": "Place",
+  "description": "Coast along which Pomerania's major settlements lie, distant from the Cursewood.",
+  "evidence": [
+   "mythic-locations::0165"
+  ]
+ },
+ {
+  "name": "Empire of Nicea",
+  "type": "Place",
+  "description": "Possible location for the Cursewood in the Theban Tribunal variant.",
+  "evidence": [
+   "mythic-locations::0168"
+  ]
+ },
+ {
+  "name": "Ulster",
+  "type": "Place",
+  "description": "Region in the Hibernian variant, between Lough Neagh and the northern coast, where the Cursewood could be set.",
+  "evidence": [
+   "mythic-locations::0169"
+  ]
+ },
+ {
+  "name": "Lough Neagh",
+  "type": "Place",
+  "description": "Lake in Ulster used as a reference point for the Hibernian variant of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0169"
+  ]
+ },
+ {
+  "name": "Vannes",
+  "type": "Place",
+  "description": "Town used as a reference point for placing the Cursewood in the Normandy Tribunal.",
+  "evidence": [
+   "mythic-locations::0170"
+  ]
+ },
+ {
+  "name": "St. Brieve",
+  "type": "Place",
+  "description": "Town used as a reference point for placing the Cursewood in the Normandy Tribunal.",
+  "evidence": [
+   "mythic-locations::0170"
+  ]
+ },
+ {
+  "name": "Regulus' Encampment",
+  "type": "Place",
+  "aliases": [
+   "Regulus' sanctum"
+  ],
+  "description": "Regulus' sanctum and camp at the center of the Cursewood, now pulled into a level 7 Magic regio with a cottage, lake and the Old Oak.",
+  "evidence": [
+   "mythic-locations::0196",
+   "mythic-locations::0200",
+   "mythic-locations::0212"
+  ]
+ },
+ {
+  "name": "The Old Oak",
+  "type": "Place",
+  "description": "An ancient twisted oak with blood-colored leaves and a pained face in its bark where Regulus was hanged; the source of the Cursewood's Infernal aura and of poisoned Perdo vis sordida.",
+  "evidence": [
+   "mythic-locations::0197",
+   "mythic-locations::0198",
+   "mythic-locations::0202"
+  ]
+ },
+ {
+  "name": "The Poisoned Sap",
+  "type": "Place",
+  "description": "Vis site: the Old Oak oozes poisonous sap yielding Perdo vis sordida.",
+  "evidence": [
+   "mythic-locations::0202"
+  ]
+ },
+ {
+  "name": "Apples of Indigo Hue",
+  "type": "Place",
+  "description": "Vis site: a single apple tree in an old orchard bearing blue apples with up to 4 pawns of Herbam vis sordida yearly.",
+  "evidence": [
+   "mythic-locations::0203"
+  ]
+ },
+ {
+  "name": "Crystal Geodes",
+  "type": "Place",
+  "description": "Vis site: a cave under the highest hill where crystals grow, giving up to 4 pawns of Terram vis sordida yearly.",
+  "evidence": [
+   "mythic-locations::0204"
+  ]
+ },
+ {
+  "name": "The Silver Fish",
+  "type": "Place",
+  "description": "Vis site: a pool at the lake's edge whose fish yield up to 4 pawns of Aquam vis sordida yearly.",
+  "evidence": [
+   "mythic-locations::0205"
+  ]
+ },
+ {
+  "name": "The Lightning Tree",
+  "type": "Place",
+  "description": "Vis site: lightning-struck trees on a hilltop with glowing branches holding up to 4 pawns of Auram vis sordida yearly.",
+  "evidence": [
+   "mythic-locations::0206"
+  ]
+ },
+ {
+  "name": "Thebes Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Theban Tribunal",
+   "Tribunal of Thebes"
+  ],
+  "description": "Tribunal containing Bear Island, where each covenant must bind a patron spirit.",
+  "evidence": [
+   "mythic-locations::0125",
+   "mythic-locations::0128",
+   "mythic-locations::0152"
+  ]
+ },
+ {
+  "name": "Levant Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal whose libraries hold copies of the Argonautika.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "description": "Western tribunal where Valerius Flaccus' Argonautika is easier to find.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "description": "Western tribunal where Valerius Flaccus' Argonautika is easier to find.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Hibernia Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Hibernian Tribunal"
+  ],
+  "description": "Tribunal to which Bear Island and the Cursewood may be moved as variants; its covenants need a cathach.",
+  "evidence": [
+   "mythic-locations::0153",
+   "mythic-locations::0169"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal nominally containing the Cursewood in Pomerania; sigils of dead magi pass to a Master or Archmagus.",
+  "evidence": [
+   "mythic-locations::0156",
+   "mythic-locations::0163",
+   "mythic-locations::0165"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal offered as a variant location for the Cursewood.",
+  "evidence": [
+   "mythic-locations::0170"
+  ]
+ },
+ {
+  "name": "Dindyméné",
+  "type": "Character",
+  "aliases": [
+   "Kybélé",
+   "Kubaba",
+   "Rhea",
+   "Mother-Goddess"
+  ],
+  "description": "A titaness and kosmokrator Daimon of the Magic Realm, mother of Zeus, imprisoned asleep beneath Mount Dindymon; embodies fertility, mountains and wild beasts, with Magic Might 75.",
+  "evidence": [
+   "mythic-locations::0131",
+   "mythic-locations::0136",
+   "mythic-locations::0140"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "description": "Son of Dindyméné who with his siblings imprisoned her beneath Mount Dindymon.",
+  "evidence": [
+   "mythic-locations::0131",
+   "mythic-locations::0136",
+   "mythic-locations::0140"
+  ]
+ },
+ {
+  "name": "Uranus",
+  "type": "Character",
+  "description": "Primordial sky god, father of Dindyméné.",
+  "evidence": [
+   "mythic-locations::0136"
+  ]
+ },
+ {
+  "name": "Gaia",
+  "type": "Character",
+  "description": "Primordial earth goddess, mother of Dindyméné.",
+  "evidence": [
+   "mythic-locations::0136"
+  ]
+ },
+ {
+  "name": "Argos",
+  "type": "Character",
+  "description": "Legendary craftsman who built Jason's ship and carved the Xoanon of Dindyméné.",
+  "evidence": [
+   "mythic-locations::0123",
+   "mythic-locations::0153"
+  ]
+ },
+ {
+  "name": "Jason",
+  "type": "Character",
+  "description": "Mythic hero whose voyage visited Bear Island and who propitiated Dindyméné.",
+  "evidence": [
+   "mythic-locations::0123",
+   "mythic-locations::0126",
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "Kyzikos",
+  "type": "Character",
+  "description": "Legendary king whose slaying is mentioned in the Golden Fleece legend; his staters are said to be buried on Bear Island.",
+  "evidence": [
+   "mythic-locations::0125",
+   "mythic-locations::0127"
+  ]
+ },
+ {
+  "name": "Aeneas",
+  "type": "Character",
+  "description": "Legendary figure whose travels are more popular than the Golden Fleece legend.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Apollonios Rhodios",
+  "type": "Character",
+  "aliases": [
+   "Apollonios"
+  ],
+  "description": "Author of the poem Argonautika.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Apollodorus",
+  "type": "Character",
+  "description": "Author of the Library, which summarizes the Golden Fleece legend.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Hyginus",
+  "type": "Character",
+  "description": "Author of the Fabulae, which summarizes the Golden Fleece legend.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Valerius Flaccus",
+  "type": "Character",
+  "description": "Plagiarist author of a dull but accurate Latin Argonautika.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Pliny",
+  "type": "Character",
+  "description": "Ancient author who commented on the halcyon's benevolent behavior.",
+  "evidence": [
+   "mythic-locations::0142"
+  ]
+ },
+ {
+  "name": "Aristotle",
+  "type": "Character",
+  "description": "Ancient author who commented on the halcyon's benevolent behavior.",
+  "evidence": [
+   "mythic-locations::0142"
+  ]
+ },
+ {
+  "name": "Poseidon",
+  "type": "Character",
+  "description": "God whose holy symbols (trident, horses, sea shells) ward against the Gegenees.",
+  "evidence": [
+   "mythic-locations::0133"
+  ]
+ },
+ {
+  "name": "Titias",
+  "type": "Character",
+  "description": "A male Idaian Daktyl who remains on Bear Island and seeks the magi's help.",
+  "evidence": [
+   "mythic-locations::0145"
+  ]
+ },
+ {
+  "name": "Kyllénos",
+  "type": "Character",
+  "description": "A female Idaian Daktyl who remains on Bear Island with Titias.",
+  "evidence": [
+   "mythic-locations::0145"
+  ]
+ },
+ {
+  "name": "Conaing",
+  "type": "Character",
+  "description": "A Fomóir leader magically put to sleep by Lugh; the Hibernian replacement for Dindyméné.",
+  "evidence": [
+   "mythic-locations::0153"
+  ]
+ },
+ {
+  "name": "Lugh",
+  "type": "Character",
+  "description": "Famous Irish hero who put Conaing to sleep.",
+  "evidence": [
+   "mythic-locations::0153"
+  ]
+ },
+ {
+  "name": "St. Brendan",
+  "type": "Character",
+  "description": "Saint whose baptismal font replaces the xoanon in the Hibernian variant.",
+  "evidence": [
+   "mythic-locations::0153",
+   "mythic-locations::0154"
+  ]
+ },
+ {
+  "name": "Regulus ex Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Regulus",
+   "Regulus of Tytalus"
+  ],
+  "description": "A magus of House Tytalus who about a century ago investigated the Cursewood, built his sanctum there, and was slain by Terentia's diabolists.",
+  "evidence": [
+   "mythic-locations::0155",
+   "mythic-locations::0156",
+   "mythic-locations::0163"
+  ]
+ },
+ {
+  "name": "Wyzwanie",
+  "type": "Character",
+  "aliases": [
+   "Spirit of the Cursed Wood",
+   "Diekdikitís",
+   "Dúshlán",
+   "Aergad"
+  ],
+  "description": "A powerful daimon and genius loci embodying the Cursewood's hostile forest, who tests intruders and guards the infernal artifact; Magic Might 40 (Herbam).",
+  "evidence": [
+   "mythic-locations::0156",
+   "mythic-locations::0166",
+   "mythic-locations::0220"
+  ]
+ },
+ {
+  "name": "Terentia",
+  "type": "Creature",
+  "description": "A powerful demon of rage and war whose diabolist followers slew Regulus with an infernal artifact.",
+  "evidence": [
+   "mythic-locations::0157",
+   "mythic-locations::0159",
+   "mythic-locations::0166"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "description": "Founder of House Tytalus whose mysterious disappearance resembles Regulus' fate.",
+  "evidence": [
+   "mythic-locations::0160",
+   "mythic-locations::0165"
+  ]
+ },
+ {
+  "name": "Mara ex Miscellanea",
+  "type": "Character",
+  "aliases": [
+   "Mara"
+  ],
+  "description": "A young maga of Ex Miscellanea, Regulus' amica and proxy holder of his sigil, author of Curses and Corruption.",
+  "evidence": [
+   "mythic-locations::0163",
+   "mythic-locations::0214",
+   "mythic-locations::0236"
+  ]
+ },
+ {
+  "name": "Stanica",
+  "type": "Character",
+  "description": "Filia of Mara ex Miscellanea who inherited Regulus' proxy vote.",
+  "evidence": [
+   "mythic-locations::0163"
+  ]
+ },
+ {
+  "name": "Alexandros of Bonisagus",
+  "type": "Character",
+  "description": "Author of the summa On Airy Spirits of Significant Places.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "Constantine Alexander of Jerbiton",
+  "type": "Character",
+  "description": "Author of the Terram summa A Material Inspired by the Divine.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "Vries van Breinermoor of Tremere",
+  "type": "Character",
+  "description": "Author of the Vim summa The Arcane Tool.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "Pholus of Tytalus",
+  "type": "Character",
+  "description": "Author of the Magic Lore tractatus Commanding Spirits.",
+  "evidence": [
+   "mythic-locations::0214"
+  ]
+ },
+ {
+  "name": "Dairmuid of Ex Miscellanea",
+  "type": "Character",
+  "description": "Author of the Vim tractatus Unravel That Which is Cast.",
+  "evidence": [
+   "mythic-locations::0214"
+  ]
+ },
+ {
+  "name": "Kraxios Lord of Wrath",
+  "type": "Creature",
+  "aliases": [
+   "Kraxios"
+  ],
+  "description": "A demon who could draw the remaining Infernal aura into a hidden regio and cause paranoid dreams among grogs.",
+  "evidence": [
+   "mythic-locations::0207"
+  ]
+ },
+ {
+  "name": "Schwarzholz",
+  "type": "Creature",
+  "description": "A dark faerie prince who, in a variant, takes over the Cursewood and mimics the Infernal taint to torment Wyzwanie.",
+  "evidence": [
+   "mythic-locations::0226",
+   "mythic-locations::0227"
+  ]
+ },
+ {
+  "name": "Franz",
+  "type": "Character",
+  "description": "A monk who investigated the Cursewood, was scared off, and hid a copy of De Operationes Daemonum Dialogos.",
+  "evidence": [
+   "mythic-locations::0237"
+  ]
+ },
+ {
+  "name": "Michael Psellos",
+  "type": "Character",
+  "description": "Author of De Operationes Daemonum Dialogos.",
+  "evidence": [
+   "mythic-locations::0237"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "description": "Hermetic House of crafters likely interested in the Daktyls' metalworking lore.",
+  "evidence": [
+   "mythic-locations::0129"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytali",
+   "Tytalus"
+  ],
+  "description": "Hermetic House of Regulus; also cited for leper healers interested in the Daktyls.",
+  "evidence": [
+   "mythic-locations::0129",
+   "mythic-locations::0160",
+   "mythic-locations::0165"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "Hermetic researchers who would enjoy meeting the Daktyls.",
+  "evidence": [
+   "mythic-locations::0129",
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House whose trophy-hunters would hang Gegenees heads.",
+  "evidence": [
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Redcaps"
+  ],
+  "description": "House whose official records list Regulus' message address; its Theban Redcaps hold information on Bear Island.",
+  "evidence": [
+   "mythic-locations::0231",
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "description": "House that recorded Regulus entering the Order after his Gauntlet.",
+  "evidence": [
+   "mythic-locations::0231"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "House whose magi would value a faerie forest.",
+  "evidence": [
+   "mythic-locations::0228"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "House of Constantine Alexander.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "House of Vries van Breinermoor.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Miscellanea"
+  ],
+  "description": "House of Mara and Dairmuid.",
+  "evidence": [
+   "mythic-locations::0163",
+   "mythic-locations::0214",
+   "mythic-locations::0236"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Order whose members' knowledge of Regulus is rolled via Organization Lore.",
+  "evidence": [
+   "mythic-locations::0159",
+   "mythic-locations::0231"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators who check proxy votes and want to know if Regulus lives.",
+  "evidence": [
+   "mythic-locations::0163"
+  ]
+ },
+ {
+  "name": "Theban Redcaps",
+  "type": "Faction",
+  "description": "Redcaps of the Thebes Tribunal, the likeliest source of information on Bear Island.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Cult of Wyzwanie",
+  "type": "Faction",
+  "description": "A Mystery Cult Regulus was building around communing with Wyzwanie using Walking the Path.",
+  "evidence": [
+   "mythic-locations::0224",
+   "mythic-locations::0156",
+   "mythic-locations::0160"
+  ]
+ },
+ {
+  "name": "Tuatha Dé Danann",
+  "type": "Creature",
+  "aliases": [
+   "Tuatha Dé"
+  ],
+  "description": "Powerful faeries replacing the Idaian Daktyls in the Hibernian variant, enslaved by Conaing.",
+  "evidence": [
+   "mythic-locations::0153",
+   "mythic-locations::0154"
+  ]
+ },
+ {
+  "name": "Fomóir",
+  "type": "Faction",
+  "description": "Mythic Irish race whose leader Conaing sleeps on the variant island.",
+  "evidence": [
+   "mythic-locations::0153"
+  ]
+ },
+ {
+  "name": "Idaian Daktyls",
+  "type": "Creature",
+  "aliases": [
+   "Daktyls",
+   "Daktyl",
+   "Idaian Daktyl"
+  ],
+  "description": "Ten faeries (five male smiths, five female healers) who act as intercessors between Dindyméné and her worshipers and guard her xoanon; Faerie Might 30.",
+  "evidence": [
+   "mythic-locations::0121",
+   "mythic-locations::0129",
+   "mythic-locations::0147"
+  ]
+ },
+ {
+  "name": "Gegenes",
+  "type": "Creature",
+  "aliases": [
+   "Gegenees"
+  ],
+  "description": "A six-armed faerie giant living on Bear Island's forested slopes that attacks intruders at Chytus Harbor; Faerie Might 20 (Terram).",
+  "evidence": [
+   "mythic-locations::0130",
+   "mythic-locations::0133",
+   "mythic-locations::0134"
+  ]
+ },
+ {
+  "name": "Halcyon",
+  "type": "Creature",
+  "aliases": [
+   "halycon"
+  ],
+  "description": "A mythical magic sea bird serving Dindyméné that calms winds around the winter solstice and eats the Magic regio's Herbam vis; Magic Might 15 (Auram).",
+  "evidence": [
+   "mythic-locations::0128",
+   "mythic-locations::0142",
+   "mythic-locations::0144"
+  ]
+ },
+ {
+  "name": "Scylla",
+  "type": "Creature",
+  "description": "A horrendous monster living in a rock off Italy.",
+  "evidence": [
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "Cyclopes",
+  "type": "Creature",
+  "description": "Monsters inhabiting the island of Hypereia.",
+  "evidence": [
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "Sea nymphs",
+  "type": "Creature",
+  "description": "Nymphs that sun themselves on island beaches in the Thebes Tribunal.",
+  "evidence": [
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "Fathach",
+  "type": "Creature",
+  "description": "An ugly saw-toothed two-armed giant replacing the Gegenes in the Hibernian variant.",
+  "evidence": [
+   "mythic-locations::0153",
+   "mythic-locations::0154"
+  ]
+ },
+ {
+  "name": "Corrupted Tree",
+  "type": "Creature",
+  "aliases": [
+   "Corrupted Oak",
+   "Corrupted Willow",
+   "Corrupted Pine"
+  ],
+  "description": "Oaks, willows and pines of the Cursewood awakened and corrupted by the Infernal aura that ambush and devour victims; Infernal Might 10.",
+  "evidence": [
+   "mythic-locations::0211",
+   "mythic-locations::0231",
+   "mythic-locations::0232"
+  ]
+ },
+ {
+  "name": "Aspect",
+  "type": "Concept",
+  "description": "A physical representation a Daimon sends into the material world; it can be dismissed and replaced at will.",
+  "evidence": [
+   "mythic-locations::0132",
+   "mythic-locations::0136",
+   "mythic-locations::0164"
+  ]
+ },
+ {
+  "name": "Xoanon of Dindyméné",
+  "type": "Item",
+  "aliases": [
+   "xoanon"
+  ],
+  "description": "A wooden effigy carved by Argos with Magic powers to create a bear or lion, command beasts, and summon a storm; required to wake or sleep Dindyméné.",
+  "evidence": [
+   "mythic-locations::0123",
+   "mythic-locations::0124",
+   "mythic-locations::0127"
+  ]
+ },
+ {
+  "name": "Baptismal font of St. Brendan",
+  "type": "Item",
+  "description": "Hibernian variant replacement for the xoanon, with the same powers; an ideal cathach.",
+  "evidence": [
+   "mythic-locations::0153",
+   "mythic-locations::0154"
+  ]
+ },
+ {
+  "name": "Infernal artifact of Terentia",
+  "type": "Item",
+  "description": "A demonic artifact of Terentia used against Regulus and now enclosed in Wyzwanie's boulder aspect.",
+  "evidence": [
+   "mythic-locations::0157",
+   "mythic-locations::0166",
+   "mythic-locations::0222"
+  ]
+ },
+ {
+  "name": "Regulus' Tablet of Power",
+  "type": "Item",
+  "description": "Regulus' talisman, a cypress and cedar tablet set with a star ruby, holding Master of the Magic Spirit and Binding the Magic Spirit.",
+  "evidence": [
+   "mythic-locations::0216",
+   "mythic-locations::0217",
+   "mythic-locations::0218"
+  ]
+ },
+ {
+  "name": "Regulus' Staff of Unraveling",
+  "type": "Item",
+  "description": "An elm staff with basalt and a magnet that cancels Aquam, Auram, Herbam and Terram effects.",
+  "evidence": [
+   "mythic-locations::0219",
+   "mythic-locations::0220"
+  ]
+ },
+ {
+  "name": "Kyzikos staters",
+  "type": "Item",
+  "description": "Lost coins said to be buried in chests on Bear Island.",
+  "evidence": [
+   "mythic-locations::0127"
+  ]
+ },
+ {
+  "name": "Argonautika",
+  "type": "Item",
+  "description": "Poem of the Golden Fleece by Apollonios Rhodios (and a Latin version by Valerius Flaccus); tractati of Faerie Lore Quality 6.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Library of Apollodorus",
+  "type": "Item",
+  "description": "A work summarizing the Golden Fleece legend.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Fabulae",
+  "type": "Item",
+  "description": "Hyginus' work summarizing the Golden Fleece legend.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Besting the Challenge",
+  "type": "Item",
+  "description": "Summa on Area Lore: Cursewood by Regulus, Level 3 Quality 9.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "On Airy Spirits of Significant Places",
+  "type": "Item",
+  "description": "Summa on Magic Lore by Alexandros of Bonisagus, Quality 12 Level 3.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "A Material Inspired by the Divine",
+  "type": "Item",
+  "description": "Summa on Terram by Constantine Alexander of Jerbiton, Quality 13 Level 7.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "The Arcane Tool",
+  "type": "Item",
+  "description": "Summa on Vim by Vries van Breinermoor of Tremere, Quality 9 Level 6.",
+  "evidence": [
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "Journal of Regulus",
+  "type": "Item",
+  "description": "Tractatus on Area Lore: Cursewood, Quality 9, revealing Wyzwanie, the diabolists, vis sources and Significatos.",
+  "evidence": [
+   "mythic-locations::0214",
+   "mythic-locations::0225",
+   "mythic-locations::0196"
+  ]
+ },
+ {
+  "name": "Commanding Spirits",
+  "type": "Item",
+  "description": "Tractatus on Magic Lore by Pholus of Tytalus, Quality 9.",
+  "evidence": [
+   "mythic-locations::0214"
+  ]
+ },
+ {
+  "name": "Unravel That Which is Cast",
+  "type": "Item",
+  "description": "Tractatus on Vim by Dairmuid of Ex Miscellanea, Quality 10.",
+  "evidence": [
+   "mythic-locations::0214"
+  ]
+ },
+ {
+  "name": "Curses and Corruption",
+  "type": "Item",
+  "description": "Mara's Tractatus on Area Lore: Cursewood, Quality 8.",
+  "evidence": [
+   "mythic-locations::0236"
+  ]
+ },
+ {
+  "name": "De Operationes Daemonum Dialogos",
+  "type": "Item",
+  "description": "Book by Michael Psellos; a Latin copy is a Summa on Infernal Lore Level 5 Quality 10.",
+  "evidence": [
+   "mythic-locations::0237"
+  ]
+ },
+ {
+  "name": "Cathach",
+  "type": "Concept",
+  "description": "A trophy item Hibernian covenants need.",
+  "evidence": [
+   "mythic-locations::0153",
+   "mythic-locations::0154"
+  ]
+ },
+ {
+  "name": "Pierce the Faerie Veil",
+  "type": "Spell",
+  "description": "Spell that detects the Faerie regio.",
+  "evidence": [
+   "mythic-locations::0120"
+  ]
+ },
+ {
+  "name": "Pierce the Magic Veil",
+  "type": "Spell",
+  "description": "Variant spell highlighting the Magic regio.",
+  "evidence": [
+   "mythic-locations::0120"
+  ]
+ },
+ {
+  "name": "Clouds of Rain and Thunder",
+  "type": "Spell",
+  "description": "Hermetic spell equivalent to the xoanon's storm power.",
+  "evidence": [
+   "mythic-locations::0123",
+   "mythic-locations::0124"
+  ]
+ },
+ {
+  "name": "Crest of the Earth Wave",
+  "type": "Spell",
+  "description": "Hermetic spell echoed by a Dindyméné power.",
+  "evidence": [
+   "mythic-locations::0138"
+  ]
+ },
+ {
+  "name": "Teeth of the Earth Mother",
+  "type": "Spell",
+  "description": "Hermetic spell echoed by a Dindyméné signature power.",
+  "evidence": [
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "The Earth Split Asunder",
+  "type": "Spell",
+  "description": "Hermetic spell echoed by a Dindyméné power.",
+  "evidence": [
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "The Incantation of Lightning",
+  "type": "Spell",
+  "description": "Hermetic spell echoed by a Dindyméné power.",
+  "evidence": [
+   "mythic-locations::0139",
+   "mythic-locations::0140"
+  ]
+ },
+ {
+  "name": "The Leap of Homecoming",
+  "type": "Spell",
+  "description": "Spell to which the halcyon's Impossible Retreat is similar.",
+  "evidence": [
+   "mythic-locations::0143"
+  ]
+ },
+ {
+  "name": "Intuition of the Forest",
+  "type": "Spell",
+  "description": "Spell that fails in the Cursewood because Wyzwanie will not speak.",
+  "evidence": [
+   "mythic-locations::0171"
+  ]
+ },
+ {
+  "name": "Wall of Thorns",
+  "type": "Spell",
+  "description": "Spell whose effect a Cursewood thorn hazard duplicates.",
+  "evidence": [
+   "mythic-locations::0185"
+  ]
+ },
+ {
+  "name": "Talons of the Wind",
+  "type": "Spell",
+  "description": "Spell used as an example of hostile weather.",
+  "evidence": [
+   "mythic-locations::0190"
+  ]
+ },
+ {
+  "name": "Charge of the Angry Winds",
+  "type": "Spell",
+  "description": "Spell used as an example of hostile weather.",
+  "evidence": [
+   "mythic-locations::0190"
+  ]
+ },
+ {
+  "name": "The Earth's Carbuncle",
+  "type": "Spell",
+  "description": "Spell used as an example of exploding ground.",
+  "evidence": [
+   "mythic-locations::0190"
+  ]
+ },
+ {
+  "name": "Hands of the Grasping Earth",
+  "type": "Spell",
+  "description": "Spell similar to the sucking quicksand hazard.",
+  "evidence": [
+   "mythic-locations::0194"
+  ]
+ },
+ {
+  "name": "Crystal Dart",
+  "type": "Spell",
+  "description": "Spell that can harm corrupted trees.",
+  "evidence": [
+   "mythic-locations::0232"
+  ]
+ },
+ {
+  "name": "Piercing Shaft of Wood",
+  "type": "Spell",
+  "description": "Spell that cannot hurt corrupted trees.",
+  "evidence": [
+   "mythic-locations::0232"
+  ]
+ },
+ {
+  "name": "Master of the Magic Spirit",
+  "type": "Spell",
+  "description": "ReVi 41 effect in Regulus' Tablet forcing an Airy Spirit to obey.",
+  "evidence": [
+   "mythic-locations::0217"
+  ]
+ },
+ {
+  "name": "Binding the Magic Spirit",
+  "type": "Spell",
+  "description": "ReVi 51 effect in Regulus' Tablet binding a Magic being in a circle.",
+  "evidence": [
+   "mythic-locations::0218"
+  ]
+ },
+ {
+  "name": "Unravelling the Fabric of Aquam",
+  "type": "Spell",
+  "description": "PeVi 40 effect in Regulus' Staff cancelling Aquam effects; similar effects exist for Auram, Herbam and Terram.",
+  "evidence": [
+   "mythic-locations::0220"
+  ]
+ },
+ {
+  "name": "Breath of the Angry Goddess",
+  "type": "Concept",
+  "description": "Dindyméné's power creating winds that trap ships at Bear Island.",
+  "evidence": [
+   "mythic-locations::0138",
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "Foul Weather made Fair",
+  "type": "Concept",
+  "description": "Dindyméné's power cancelling Breath of the Angry Goddess or stopping storms.",
+  "evidence": [
+   "mythic-locations::0138",
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "Heed the Mistress' Command",
+  "type": "Concept",
+  "description": "Dindyméné's power forcing an animal to obey her for a day.",
+  "evidence": [
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "The Animal's Tongue",
+  "type": "Concept",
+  "description": "Dindyméné's ritual power granting the Animal Ken Virtue.",
+  "evidence": [
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "The Goddess's Companion",
+  "type": "Concept",
+  "description": "Dindyméné's ritual power creating a mundane bear.",
+  "evidence": [
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "The Goddess's Protector",
+  "type": "Concept",
+  "description": "Dindyméné's ritual power creating a mundane lion.",
+  "evidence": [
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "The Wrath of the Earth Mother",
+  "type": "Concept",
+  "description": "Dindyméné's power causing a severe earthquake.",
+  "evidence": [
+   "mythic-locations::0140"
+  ]
+ },
+ {
+  "name": "Enter the Faerie Forest",
+  "type": "Concept",
+  "description": "Gegenes power to pass between the faerie forest regio and mundane forest on Bear Island.",
+  "evidence": [
+   "mythic-locations::0134"
+  ]
+ },
+ {
+  "name": "Haleyon's Idyllic Day",
+  "type": "Concept",
+  "description": "Halcyon power calming storms over water.",
+  "evidence": [
+   "mythic-locations::0143"
+  ]
+ },
+ {
+  "name": "The Impossible Retreat",
+  "type": "Concept",
+  "description": "Halcyon power to teleport to an Arcane Connection.",
+  "evidence": [
+   "mythic-locations::0143"
+  ]
+ },
+ {
+  "name": "Enter the Sylvan Glen",
+  "type": "Concept",
+  "description": "Daktyl power to enter any Faerie regio.",
+  "evidence": [
+   "mythic-locations::0148",
+   "mythic-locations::0149"
+  ]
+ },
+ {
+  "name": "Smithying",
+  "type": "Concept",
+  "description": "Male Daktyl power duplicating CrTe/MuTe/ReTe spells.",
+  "evidence": [
+   "mythic-locations::0148",
+   "mythic-locations::0149"
+  ]
+ },
+ {
+  "name": "Physicianing",
+  "type": "Concept",
+  "description": "Female Daktyl power duplicating CrCo/MuCo/ReCo spells.",
+  "evidence": [
+   "mythic-locations::0149"
+  ]
+ },
+ {
+  "name": "Hibernation",
+  "type": "Concept",
+  "description": "Wyzwanie's power to go dormant for a year and build Might Pool.",
+  "evidence": [
+   "mythic-locations::0220",
+   "mythic-locations::0221"
+  ]
+ },
+ {
+  "name": "Grant Deficiency",
+  "type": "Concept",
+  "description": "Wyzwanie's power halving a target's Ability or Form until sunrise or sunset.",
+  "evidence": [
+   "mythic-locations::0221"
+  ]
+ },
+ {
+  "name": "Ruler of Nature",
+  "type": "Concept",
+  "description": "Wyzwanie's power duplicating natural weather, water, plant and earth spells.",
+  "evidence": [
+   "mythic-locations::0221",
+   "mythic-locations::0222"
+  ]
+ },
+ {
+  "name": "Animated Branches",
+  "type": "Concept",
+  "description": "Corrupted tree power to wield branches as weapons.",
+  "evidence": [
+   "mythic-locations::0234"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Supernatural ability that reveals regio boundaries.",
+  "evidence": [
+   "mythic-locations::0120",
+   "mythic-locations::0142",
+   "mythic-locations::0196"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "description": "Ability to find regio entrances.",
+  "evidence": [
+   "mythic-locations::0120"
+  ]
+ },
+ {
+  "name": "Spiritual Pact",
+  "type": "Virtue",
+  "description": "Supernatural Virtue by which Dindyméné grants the Daktyls access to her Magic powers.",
+  "evidence": [
+   "mythic-locations::0147",
+   "mythic-locations::0150",
+   "mythic-locations::0152"
+  ]
+ },
+ {
+  "name": "External Vis",
+  "type": "Virtue",
+  "description": "Gegenes quality: its vis lies in an external rock.",
+  "evidence": [
+   "mythic-locations::0133",
+   "mythic-locations::0130"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "description": "Gegenes flaw.",
+  "evidence": [
+   "mythic-locations::0133"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "description": "Gegenes ward against Poseidon's holy symbols.",
+  "evidence": [
+   "mythic-locations::0133"
+  ]
+ },
+ {
+  "name": "Sovereign Ward",
+  "type": "Flaw",
+  "description": "Daktyl ward against Christian religious symbols.",
+  "evidence": [
+   "mythic-locations::0147",
+   "mythic-locations::0148"
+  ]
+ },
+ {
+  "name": "Magical Master",
+  "type": "Virtue",
+  "description": "Dindyméné's Virtue.",
+  "evidence": [
+   "mythic-locations::0137"
+  ]
+ },
+ {
+  "name": "Wrathful",
+  "type": "Flaw",
+  "description": "Dindyméné's flaw.",
+  "evidence": [
+   "mythic-locations::0137"
+  ]
+ },
+ {
+  "name": "Magic Animal",
+  "type": "Virtue",
+  "description": "Halcyon's virtue as a magical beast.",
+  "evidence": [
+   "mythic-locations::0142"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "description": "The halcyon's vis source hidden on the Sea of Marmara's southern shore.",
+  "evidence": [
+   "mythic-locations::0142",
+   "mythic-locations::0144"
+  ]
+ },
+ {
+  "name": "Unaffected by the Gift",
+  "type": "Virtue",
+  "description": "Halcyon virtue.",
+  "evidence": [
+   "mythic-locations::0142"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "description": "Daktyl virtue.",
+  "evidence": [
+   "mythic-locations::0147"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "description": "Daktyl virtue.",
+  "evidence": [
+   "mythic-locations::0147"
+  ]
+ },
+ {
+  "name": "Humanoid Faerie",
+  "type": "Virtue",
+  "description": "Daktyl virtue.",
+  "evidence": [
+   "mythic-locations::0147"
+  ]
+ },
+ {
+  "name": "Place of Power",
+  "type": "Virtue",
+  "description": "Daktyl virtue tied to the Bear Island Faerie Regio.",
+  "evidence": [
+   "mythic-locations::0147"
+  ]
+ },
+ {
+  "name": "Positive Folktales",
+  "type": "Virtue",
+  "description": "Daktyl virtue.",
+  "evidence": [
+   "mythic-locations::0147"
+  ]
+ },
+ {
+  "name": "Ways of the Forest",
+  "type": "Virtue",
+  "description": "Virtue appropriate to Wyzwanie and his cult.",
+  "evidence": [
+   "mythic-locations::0220",
+   "mythic-locations::0224"
+  ]
+ },
+ {
+  "name": "Elemental Magic",
+  "type": "Virtue",
+  "description": "Virtue whose Herbam variant, Nature Wizard, suits the Cult of Wyzwanie.",
+  "evidence": [
+   "mythic-locations::0224"
+  ]
+ },
+ {
+  "name": "Nature Wizard",
+  "type": "Virtue",
+  "description": "A variant of Elemental Magic affecting Herbam rather than Ignem.",
+  "evidence": [
+   "mythic-locations::0224"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "description": "A Herbam magus with a focus in wood bypasses Cursewood obstacles easily.",
+  "evidence": [
+   "mythic-locations::0199",
+   "mythic-locations::0224"
+  ]
+ },
+ {
+  "name": "Daimon",
+  "type": "Virtue",
+  "description": "Quality of Dindyméné and Wyzwanie as primal Magic spirits.",
+  "evidence": [
+   "mythic-locations::0137",
+   "mythic-locations::0220"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Ability used to perform the ceremony to wake Dindyméné.",
+  "evidence": [
+   "mythic-locations::0131",
+   "mythic-locations::0132",
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Lore Ability; several books in Regulus' library cover it.",
+  "evidence": [
+   "mythic-locations::0138",
+   "mythic-locations::0213",
+   "mythic-locations::0214"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "description": "Ability used to study vis sordida and demons.",
+  "evidence": [
+   "mythic-locations::0202",
+   "mythic-locations::0223",
+   "mythic-locations::0237"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Ability usable to research Terentia.",
+  "evidence": [
+   "mythic-locations::0223"
+  ]
+ },
+ {
+  "name": "Forest Lore",
+  "type": "Ability",
+  "description": "Ability allowing communion with Wyzwanie.",
+  "evidence": [
+   "mythic-locations::0172"
+  ]
+ },
+ {
+  "name": "Nature Lore",
+  "type": "Ability",
+  "description": "Lore Wyzwanie may teach.",
+  "evidence": [
+   "mythic-locations::0223"
+  ]
+ },
+ {
+  "name": "Area Lore: Cursewood",
+  "type": "Ability",
+  "description": "Area Lore covered by several books in Regulus' library.",
+  "evidence": [
+   "mythic-locations::0213",
+   "mythic-locations::0214",
+   "mythic-locations::0236"
+  ]
+ },
+ {
+  "name": "Area Lore: Pomerania",
+  "type": "Ability",
+  "description": "Ability rolled to know about Pomerania.",
+  "evidence": [
+   "mythic-locations::0171",
+   "mythic-locations::0172"
+  ]
+ },
+ {
+  "name": "Organization Lore: Order of Hermes",
+  "type": "Ability",
+  "description": "Ability to know about Regulus.",
+  "evidence": [
+   "mythic-locations::0159"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Ability",
+  "description": "Ability and Virtue granted by Dindyméné.",
+  "evidence": [
+   "mythic-locations::0137",
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "Summon Animals",
+  "type": "Ability",
+  "description": "Dindyméné's Ability.",
+  "evidence": [
+   "mythic-locations::0137",
+   "mythic-locations::0138"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability limiting group size in the Cursewood trek.",
+  "evidence": [
+   "mythic-locations::0174",
+   "mythic-locations::0177",
+   "mythic-locations::0221"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability for forest trekking.",
+  "evidence": [
+   "mythic-locations::0175",
+   "mythic-locations::0221"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability for swamp wading and hill climbing.",
+  "evidence": [
+   "mythic-locations::0175",
+   "mythic-locations::0176"
+  ]
+ },
+ {
+  "name": "Profession: Boating",
+  "type": "Ability",
+  "description": "Ability for swamp/river boat travel.",
+  "evidence": [
+   "mythic-locations::0175",
+   "mythic-locations::0194"
+  ]
+ },
+ {
+  "name": "Swimming",
+  "type": "Ability",
+  "description": "Ability for swamp swimming.",
+  "evidence": [
+   "mythic-locations::0176",
+   "mythic-locations::0194"
+  ]
+ },
+ {
+  "name": "Communication",
+  "type": "Concept",
+  "description": "Characteristic used in the waking ceremony.",
+  "evidence": [
+   "mythic-locations::0131"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability of Wyzwanie.",
+  "evidence": [
+   "mythic-locations::0220"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability for overcoming Magic Resistance.",
+  "evidence": [
+   "mythic-locations::0138",
+   "mythic-locations::0180"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0123"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0123",
+   "mythic-locations::0148"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0148"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0202"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0123",
+   "mythic-locations::0139"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0122",
+   "mythic-locations::0203",
+   "mythic-locations::0220"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0122",
+   "mythic-locations::0204",
+   "mythic-locations::0213"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0138",
+   "mythic-locations::0206"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0205",
+   "mythic-locations::0220"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0147",
+   "mythic-locations::0149"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0136",
+   "mythic-locations::0213",
+   "mythic-locations::0231"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0199",
+   "mythic-locations::0221"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0224",
+   "mythic-locations::0232"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "One of the Hermetic Arts referenced in this text.",
+  "evidence": [
+   "mythic-locations::0221"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm of which Dindyméné and Wyzwanie are resident spirits.",
+  "evidence": [
+   "mythic-locations::0136",
+   "mythic-locations::0200",
+   "mythic-locations::0222"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm of the Daktyls' regio and the Gegenees.",
+  "evidence": [
+   "mythic-locations::0121",
+   "mythic-locations::0228"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of Terentia and the corrupting aura of the Cursewood.",
+  "evidence": [
+   "mythic-locations::0198",
+   "mythic-locations::0211"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm to which the talking dove belongs in the Hibernian variant.",
+  "evidence": [
+   "mythic-locations::0153"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "A layered supernatural area such as those atop Mount Dindymon and at the Cursewood's center.",
+  "evidence": [
+   "mythic-locations::0120",
+   "mythic-locations::0121",
+   "mythic-locations::0200"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural aura rating (Magic, Faerie, Infernal) of a place.",
+  "evidence": [
+   "mythic-locations::0120",
+   "mythic-locations::0151",
+   "mythic-locations::0198"
+  ]
+ },
+ {
+  "name": "Malevolent aura",
+  "type": "Concept",
+  "description": "A corrupted Infernal aura caused by cruelty and sin, as covers the Cursewood.",
+  "evidence": [
+   "mythic-locations::0198",
+   "mythic-locations::0237"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Magical raw power found in pawns at vis sites.",
+  "evidence": [
+   "mythic-locations::0122",
+   "mythic-locations::0125",
+   "mythic-locations::0201"
+  ]
+ },
+ {
+  "name": "Vis sordida",
+  "type": "Concept",
+  "aliases": [
+   "filthy vis"
+  ],
+  "description": "Filthy vis formed in Infernal auras, carrying Wrathful and botch risks.",
+  "evidence": [
+   "mythic-locations::0202",
+   "mythic-locations::0209",
+   "mythic-locations::0210"
+  ]
+ },
+ {
+  "name": "Significato",
+  "type": "Concept",
+  "aliases": [
+   "Significatos"
+  ],
+  "description": "A naturally occurring magical phenomenon magi can study like vis.",
+  "evidence": [
+   "mythic-locations::0225",
+   "mythic-locations::0172",
+   "mythic-locations::0214"
+  ]
+ },
+ {
+  "name": "Kosmokrator",
+  "type": "Concept",
+  "description": "One of the primal spirits of the Magic Realm; Dindyméné is one.",
+  "evidence": [
+   "mythic-locations::0136"
+  ]
+ },
+ {
+  "name": "Genius loci",
+  "type": "Concept",
+  "aliases": [
+   "genii loci"
+  ],
+  "description": "A spirit of place; a powerful subset of Airy Spirits.",
+  "evidence": [
+   "mythic-locations::0156",
+   "mythic-locations::0164",
+   "mythic-locations::0168"
+  ]
+ },
+ {
+  "name": "Airy Spirits",
+  "type": "Concept",
+  "description": "Weak magical spirits of flora, fauna, elements or phenomena.",
+  "evidence": [
+   "mythic-locations::0164",
+   "mythic-locations::0172",
+   "mythic-locations::0217"
+  ]
+ },
+ {
+  "name": "Titan",
+  "type": "Concept",
+  "description": "Primordial beings such as Dindyméné, imprisoned by Zeus.",
+  "evidence": [
+   "mythic-locations::0131",
+   "mythic-locations::0138"
+  ]
+ },
+ {
+  "name": "Patron spirit",
+  "type": "Concept",
+  "description": "A spirit each Theban covenant must bind.",
+  "evidence": [
+   "mythic-locations::0152",
+   "mythic-locations::0153"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "description": "Esoteric Hermetic cult with initiation scripts.",
+  "evidence": [
+   "mythic-locations::0129",
+   "mythic-locations::0156",
+   "mythic-locations::0224"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "description": "Script used by Mystery Cults to initiate members.",
+  "evidence": [
+   "mythic-locations::0129"
+  ]
+ },
+ {
+  "name": "Walking the Path",
+  "type": "Concept",
+  "description": "Mechanic of Sacrifice, Quest and Fruit used for communing with Wyzwanie.",
+  "evidence": [
+   "mythic-locations::0173",
+   "mythic-locations::0224"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Supernatural ability of magi derived from the Magic realm.",
+  "evidence": [
+   "mythic-locations::0122"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "Hazard checked for on a double botch when extracting vis.",
+  "evidence": [
+   "mythic-locations::0202",
+   "mythic-locations::0208"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "description": "Ceremony ending apprenticeship after which Regulus entered the Order.",
+  "evidence": [
+   "mythic-locations::0157",
+   "mythic-locations::0160",
+   "mythic-locations::0231"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "Oath sworn by magi entering the Order.",
+  "evidence": [
+   "mythic-locations::0231"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "description": "A magus' voting token that can be lent as a proxy at Tribunal.",
+  "evidence": [
+   "mythic-locations::0163",
+   "mythic-locations::0236"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Link to a place used for teleportation.",
+  "evidence": [
+   "mythic-locations::0143",
+   "mythic-locations::0198"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that powers must Penetrate.",
+  "evidence": [
+   "mythic-locations::0132",
+   "mythic-locations::0133",
+   "mythic-locations::0180"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "description": "Might score of Magic beings.",
+  "evidence": [
+   "mythic-locations::0136",
+   "mythic-locations::0142",
+   "mythic-locations::0150"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "description": "Might score of faeries.",
+  "evidence": [
+   "mythic-locations::0133",
+   "mythic-locations::0147",
+   "mythic-locations::0150"
+  ]
+ },
+ {
+  "name": "Infernal Might",
+  "type": "Concept",
+  "description": "Might score of Infernal beings like corrupted trees.",
+  "evidence": [
+   "mythic-locations::0232"
+  ]
+ },
+ {
+  "name": "Covenant Boons and Hooks",
+  "type": "Concept",
+  "description": "Preexisting boons and hooks for a covenant at the Magic temenos.",
+  "evidence": [
+   "mythic-locations::0141"
+  ]
+ },
+ {
+  "name": "Regio Sight Roll",
+  "type": "Concept",
+  "description": "Roll to see a regio boundary.",
+  "evidence": [
+   "mythic-locations::0120"
+  ]
+ },
+ {
+  "name": "Golden Fleece",
+  "type": "Concept",
+  "description": "Legend of Jason recounted in the Argonautika.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Trojan War",
+  "type": "Concept",
+  "description": "Legend more popular than the Golden Fleece.",
+  "evidence": [
+   "mythic-locations::0125"
+  ]
+ },
+ {
+  "name": "Long Term Fatigue",
+  "type": "Concept",
+  "description": "Fatigue levels lost per stage of the Cursewood trek.",
+  "evidence": [
+   "mythic-locations::0174",
+   "mythic-locations::0179"
+  ]
+ },
+ {
+  "name": "Deprivation",
+  "type": "Concept",
+  "description": "Rules for lack of air applied to quicksand and corrupted trees.",
+  "evidence": [
+   "mythic-locations::0194",
+   "mythic-locations::0232"
+  ]
+ },
+ {
+  "name": "Diabolists",
+  "type": "Concept",
+  "description": "Terentia's followers who slew Regulus.",
+  "evidence": [
+   "mythic-locations::0157",
+   "mythic-locations::0160",
+   "mythic-locations::0231"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "description": "A community of magi; Bear Island and the Cursewood are potential sites.",
+  "evidence": [
+   "mythic-locations::0141",
+   "mythic-locations::0151",
+   "mythic-locations::0238"
+  ]
+ },
+ {
+  "name": "Sanctum",
+  "type": "Concept",
+  "description": "A magus' private domain, marked by a sanctum marker.",
+  "evidence": [
+   "mythic-locations::0157",
+   "mythic-locations::0196",
+   "mythic-locations::0200"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Concept",
+  "description": "A magus' personal enchanted item, like Regulus' Tablet of Power.",
+  "evidence": [
+   "mythic-locations::0216"
+  ]
+ },
+ {
+  "name": "Ink of Hermes",
+  "type": "Concept",
+  "description": "Magical ink inscribed on Regulus' tablet and staff.",
+  "evidence": [
+   "mythic-locations::0216",
+   "mythic-locations::0219"
+  ]
+ }
+]

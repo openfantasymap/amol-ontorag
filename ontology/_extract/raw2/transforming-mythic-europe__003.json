@@ -1,0 +1,1675 @@
+[
+ {
+  "name": "Rumael, The False Neptune",
+  "type": "Creature",
+  "aliases": [
+   "Rumael",
+   "The False Neptune"
+  ],
+  "description": "A demon whose retinue consists of small horse-headed, muscular spirits vulnerable to fire that carry Aquam vis sordida.",
+  "evidence": [
+   "transforming-mythic-europe::0360"
+  ]
+ },
+ {
+  "name": "Neqael",
+  "type": "Creature",
+  "aliases": [
+   "The Lady of the Purple Bower",
+   "Corrupter of Lyonesse"
+  ],
+  "description": "The Lady of the Purple Bower, Corrupter of Lyonesse: a demoness (Lady of the Spirits of Deceit, Infernal Might 40) who poses as a faerie-blooded noblewoman and corrupts courtly love and etiquette.",
+  "evidence": [
+   "transforming-mythic-europe::0361",
+   "transforming-mythic-europe::0362",
+   "transforming-mythic-europe::0363"
+  ]
+ },
+ {
+  "name": "Mavens of Etiquette in the Court of the Purple Bower",
+  "type": "Creature",
+  "aliases": [
+   "Mavens of the Purple Bower"
+  ],
+  "description": "Chaste sexual demons (Tempters, Infernal Might 5) serving Neqael, who teach courtiers a distorted moral code and seduction techniques.",
+  "evidence": [
+   "transforming-mythic-europe::0363",
+   "transforming-mythic-europe::0364",
+   "transforming-mythic-europe::0365"
+  ]
+ },
+ {
+  "name": "The Red Knight of Ys",
+  "type": "Creature",
+  "aliases": [
+   "Red Knight",
+   "Bringer of Requested Inundations"
+  ],
+  "description": "Bringer of Requested Inundations: a demon (Lord of the Avengers of Evil, Infernal Might 30) who drowns victims and destroyed Ys and Lyonesse, but may only harm people after a treacherous mortal grants permission.",
+  "evidence": [
+   "transforming-mythic-europe::0361",
+   "transforming-mythic-europe::0366",
+   "transforming-mythic-europe::0367"
+  ]
+ },
+ {
+  "name": "Lyonesse",
+  "type": "Place",
+  "description": "A half-imaginary land corrupted by Neqael and destroyed by the Red Knight of Ys, popularly believed swallowed by the sea as divine judgment.",
+  "evidence": [
+   "transforming-mythic-europe::0361"
+  ]
+ },
+ {
+  "name": "Ys",
+  "type": "Place",
+  "description": "A kingdom destroyed by the Red Knight after its princess gave him the key to its sea defences.",
+  "evidence": [
+   "transforming-mythic-europe::0366",
+   "transforming-mythic-europe::0367"
+  ]
+ },
+ {
+  "name": "Gwenolod",
+  "type": "Place",
+  "description": "A kingdom destroyed by drowning by the Red Knight of Ys.",
+  "evidence": [
+   "transforming-mythic-europe::0366"
+  ]
+ },
+ {
+  "name": "Merfolk of Ys",
+  "type": "Creature",
+  "aliases": [
+   "merrow"
+  ],
+  "description": "Tribes of merfolk (merrow) around the coasts of France who claim descent from the people of Ys and hate the Red Knight.",
+  "evidence": [
+   "transforming-mythic-europe::0367"
+  ]
+ },
+ {
+  "name": "Coagulation",
+  "type": "Concept",
+  "description": "A standard demonic power (1 point, Corpus) possessed by the demons described.",
+  "evidence": [
+   "transforming-mythic-europe::0360",
+   "transforming-mythic-europe::0362",
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "Envisioning",
+  "type": "Concept",
+  "description": "A demonic Mentem power used, e.g., by the Red Knight to prepare his temptees in dreams.",
+  "evidence": [
+   "transforming-mythic-europe::0360",
+   "transforming-mythic-europe::0362",
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Concept",
+  "description": "A demonic Vim power inflicting a vice such as destructive japery, unrequited passion or infatuation.",
+  "evidence": [
+   "transforming-mythic-europe::0360",
+   "transforming-mythic-europe::0363",
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "Change Form",
+  "type": "Concept",
+  "description": "A demonic power allowing a demon to take any animal or human form.",
+  "evidence": [
+   "transforming-mythic-europe::0363",
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "Trust of the Innocent",
+  "type": "Concept",
+  "description": "A demonic Mentem power making the victim believe a single plausible lie until contrary evidence appears.",
+  "evidence": [
+   "transforming-mythic-europe::0363",
+   "transforming-mythic-europe::0364"
+  ]
+ },
+ {
+  "name": "Forked Tongue of the Serpent",
+  "type": "Concept",
+  "description": "Neqael's power making the target believe any lie until relating it to someone else.",
+  "evidence": [
+   "transforming-mythic-europe::0362"
+  ]
+ },
+ {
+  "name": "Summon Mavens of the Purple Bower",
+  "type": "Concept",
+  "description": "Neqael's power to summon lesser demons, which she rules without mystical compulsion.",
+  "evidence": [
+   "transforming-mythic-europe::0363"
+  ]
+ },
+ {
+  "name": "The Serpent's Oracle",
+  "type": "Concept",
+  "description": "Neqael's power duplicating any Intellego spell or understanding the immediate consequences of an act.",
+  "evidence": [
+   "transforming-mythic-europe::0363"
+  ]
+ },
+ {
+  "name": "Inundation",
+  "type": "Concept",
+  "description": "The Red Knight's power to generate Creo, Muto or Rego-like Aquam or Terram effects that break sea defenses or raise waves.",
+  "evidence": [
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "A Little Hop, A Little Jump, A Little Skip",
+  "type": "Concept",
+  "description": "A demonic power letting a demon step through solid objects, remaining intangible for a round.",
+  "evidence": [
+   "transforming-mythic-europe::0360"
+  ]
+ },
+ {
+  "name": "Mutable Gender",
+  "type": "Concept",
+  "description": "A demonic power allowing a demon to switch gender at will.",
+  "evidence": [
+   "transforming-mythic-europe::0364"
+  ]
+ },
+ {
+  "name": "Infernal Might",
+  "type": "Concept",
+  "description": "The Might score of demons, e.g. Neqael 40, the Red Knight 30.",
+  "evidence": [
+   "transforming-mythic-europe::0362",
+   "transforming-mythic-europe::0364",
+   "transforming-mythic-europe::0367"
+  ]
+ },
+ {
+  "name": "Vis Sordida",
+  "type": "Concept",
+  "description": "Tainted vis carried by demons, such as Aquam, Imaginem, Corpus or Perdo vis sordida.",
+  "evidence": [
+   "transforming-mythic-europe::0360",
+   "transforming-mythic-europe::0363",
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "Venus' Blessing",
+  "type": "Virtue",
+  "description": "A Virtue possessed by the Red Knight of Ys.",
+  "evidence": [
+   "transforming-mythic-europe::0367"
+  ]
+ },
+ {
+  "name": "Great Characteristic",
+  "type": "Virtue",
+  "description": "A Virtue possessed by Neqael.",
+  "evidence": [
+   "transforming-mythic-europe::0362"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "A Virtue possessed by Neqael and the Mavens of Etiquette.",
+  "evidence": [
+   "transforming-mythic-europe::0362",
+   "transforming-mythic-europe::0364"
+  ]
+ },
+ {
+  "name": "Weak-willed",
+  "type": "Flaw",
+  "description": "A Flaw possessed by the Mavens of Etiquette.",
+  "evidence": [
+   "transforming-mythic-europe::0364"
+  ]
+ },
+ {
+  "name": "Honorius III",
+  "type": "Character",
+  "aliases": [
+   "Honorius"
+  ],
+  "description": "The current pope, strongly in favour of crusading, who opposes Jews or Muslims in Christian administration and may preach a crusade against a pagan magical land.",
+  "evidence": [
+   "transforming-mythic-europe::0370",
+   "transforming-mythic-europe::0371",
+   "transforming-mythic-europe::0372"
+  ]
+ },
+ {
+  "name": "Order of Preachers",
+  "type": "Faction",
+  "aliases": [
+   "Dominican Order"
+  ],
+  "description": "A religious order (later the Dominican Order) trained to preach in vernacular language, which the pope sends to convert new lands.",
+  "evidence": [
+   "transforming-mythic-europe::0370",
+   "transforming-mythic-europe::0372"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "description": "Heretics in southern France whom Pope Honorius III favours crushing.",
+  "evidence": [
+   "transforming-mythic-europe::0370"
+  ]
+ },
+ {
+  "name": "Reconquista",
+  "type": "Concept",
+  "description": "The Christian reconquest in Iberia, supported by the pope.",
+  "evidence": [
+   "transforming-mythic-europe::0370",
+   "transforming-mythic-europe::0384"
+  ]
+ },
+ {
+  "name": "Latin Empire",
+  "type": "Place",
+  "description": "The Latin Empire in Constantinople, supported by the pope.",
+  "evidence": [
+   "transforming-mythic-europe::0370"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Quaesitores"
+  ],
+  "description": "Hermetic House whose powerful figures confer with Tremere and Jerbiton about cleaning up a crusade against a magical island.",
+  "evidence": [
+   "transforming-mythic-europe::0371"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "description": "Hermetic House consulted in crises and in favour of mass production of books.",
+  "evidence": [
+   "transforming-mythic-europe::0371",
+   "transforming-mythic-europe::0450"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House that is broadly disgusted by magical book copying, seeing it as cheapening knowledge.",
+  "evidence": [
+   "transforming-mythic-europe::0371",
+   "transforming-mythic-europe::0448"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "description": "Hermetic assembly that judges magi, e.g. in scrying cases, and might cast characters out.",
+  "evidence": [
+   "transforming-mythic-europe::0371",
+   "transforming-mythic-europe::0411",
+   "transforming-mythic-europe::0412"
+  ]
+ },
+ {
+  "name": "North Sea",
+  "type": "Place",
+  "description": "The preferred location for the magical island, surrounded by kingdoms experiencing population growth and trade.",
+  "evidence": [
+   "transforming-mythic-europe::0373",
+   "transforming-mythic-europe::0375"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "description": "The largest city in the west of Mythic Europe, connected to the North Sea by the Seine.",
+  "evidence": [
+   "transforming-mythic-europe::0373"
+  ]
+ },
+ {
+  "name": "Venice",
+  "type": "Place",
+  "description": "A trade power that might bribe nobles into war against a rival northern emporium.",
+  "evidence": [
+   "transforming-mythic-europe::0373",
+   "transforming-mythic-europe::0374"
+  ]
+ },
+ {
+  "name": "Atlantic Ocean",
+  "type": "Place",
+  "description": "An alternative location for a magical island, averaging over 4000 paces deep.",
+  "evidence": [
+   "transforming-mythic-europe::0376"
+  ]
+ },
+ {
+  "name": "The Wedding Ring of Gaea",
+  "type": "Spell",
+  "aliases": [
+   "Wedding Ring of Gaea"
+  ],
+  "description": "A level 35 spell creating a vast stone ring-wall in the sea, used to make an island.",
+  "evidence": [
+   "transforming-mythic-europe::0376",
+   "transforming-mythic-europe::0381",
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Purple Islands",
+  "type": "Place",
+  "description": "Almost-mythical Atlantic islands ruled by a caste of magicians, with Magic and Faerie auras and vis.",
+  "evidence": [
+   "transforming-mythic-europe::0376"
+  ]
+ },
+ {
+  "name": "Scilly Isles",
+  "type": "Place",
+  "description": "Islands off Cornwall owned by the Abbey of Tavistock through a royal grant by Henry I.",
+  "evidence": [
+   "transforming-mythic-europe::0376",
+   "transforming-mythic-europe::0377"
+  ]
+ },
+ {
+  "name": "Tavistock Abbey",
+  "type": "Place",
+  "aliases": [
+   "Abbey of Tavistock"
+  ],
+  "description": "Abbey in Devon that owns the Scilly Isles and founded a monastic community at Tresco.",
+  "evidence": [
+   "transforming-mythic-europe::0377"
+  ]
+ },
+ {
+  "name": "Tresco",
+  "type": "Place",
+  "description": "Island in the Scillies with a small monastic community founded by Tavistock Abbey.",
+  "evidence": [
+   "transforming-mythic-europe::0377"
+  ]
+ },
+ {
+  "name": "Henry I",
+  "type": "Character",
+  "description": "King who granted the Scilly Isles to the Abbey of Tavistock.",
+  "evidence": [
+   "transforming-mythic-europe::0377"
+  ]
+ },
+ {
+  "name": "St Kilda Archipelago",
+  "type": "Place",
+  "aliases": [
+   "Hirtir"
+  ],
+  "description": "Islands far west of Scotland with about a hundred Viking-stock inhabitants, the largest called Hirtir.",
+  "evidence": [
+   "transforming-mythic-europe::0377"
+  ]
+ },
+ {
+  "name": "Outer Hebrides",
+  "type": "Place",
+  "description": "Islands whose petty rulers might claim St Kilda.",
+  "evidence": [
+   "transforming-mythic-europe::0377"
+  ]
+ },
+ {
+  "name": "Hibernia",
+  "type": "Place",
+  "description": "Ireland; islands off its west coast may already be claimed by covenants.",
+  "evidence": [
+   "transforming-mythic-europe::0377",
+   "transforming-mythic-europe::0451"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "Vanished Hermetic House believed by many to have sailed into the West and possibly built a civilization on an Atlantic island.",
+  "evidence": [
+   "transforming-mythic-europe::0377",
+   "transforming-mythic-europe::0378"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Realm",
+  "description": "The faerie West into which House Diedne was believed to have sailed and died.",
+  "evidence": [
+   "transforming-mythic-europe::0377",
+   "transforming-mythic-europe::0378"
+  ]
+ },
+ {
+  "name": "Antillia",
+  "type": "Place",
+  "aliases": [
+   "Isle of Seven Cities"
+  ],
+  "description": "The Isle of Seven Cities, a rectangular Atlantic island opposite Iberia founded by seven bishops fleeing the Moors, perhaps built by a magus.",
+  "evidence": [
+   "transforming-mythic-europe::0378",
+   "transforming-mythic-europe::0379"
+  ]
+ },
+ {
+  "name": "Tartessos",
+  "type": "Place",
+  "description": "An ancient rich port at the edge of the world whose faerie gods may rouse when a new rich port is built.",
+  "evidence": [
+   "transforming-mythic-europe::0379",
+   "transforming-mythic-europe::0380"
+  ]
+ },
+ {
+  "name": "Gods of Tartessos",
+  "type": "Creature",
+  "description": "Old faerie gods of Tartessos who stir when player characters create a rich port at the edge of the world.",
+  "evidence": [
+   "transforming-mythic-europe::0379",
+   "transforming-mythic-europe::0380"
+  ]
+ },
+ {
+  "name": "Baltic Sea",
+  "type": "Place",
+  "description": "A shallow sea (60 paces) whose islands are mostly owned by kingdoms.",
+  "evidence": [
+   "transforming-mythic-europe::0381"
+  ]
+ },
+ {
+  "name": "Gotland",
+  "type": "Place",
+  "description": "Baltic island that cannot be purchased from its ruler.",
+  "evidence": [
+   "transforming-mythic-europe::0381"
+  ]
+ },
+ {
+  "name": "Bornholm",
+  "type": "Place",
+  "description": "Baltic island contested by the King of Denmark and the Bishop of Lund.",
+  "evidence": [
+   "transforming-mythic-europe::0381"
+  ]
+ },
+ {
+  "name": "Ertholmene Archipelago",
+  "type": "Place",
+  "description": "Uninhabited Baltic archipelago lacking sea room.",
+  "evidence": [
+   "transforming-mythic-europe::0381"
+  ]
+ },
+ {
+  "name": "Black Sea",
+  "type": "Place",
+  "description": "Sea between the Theban, Transylvanian and Novgorod Tribunals, with hundreds of faerie islands.",
+  "evidence": [
+   "transforming-mythic-europe::0382"
+  ]
+ },
+ {
+  "name": "Snake Island",
+  "type": "Place",
+  "description": "The only geographically stable faerie island in the Black Sea.",
+  "evidence": [
+   "transforming-mythic-europe::0382"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal whose covenants claim all islands off Greece; it meets on Delos.",
+  "evidence": [
+   "transforming-mythic-europe::0382",
+   "transforming-mythic-europe::0384",
+   "transforming-mythic-europe::0386"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal bordering the Black Sea, whose rules enforce House Mercere's vis rights off Dalmatia.",
+  "evidence": [
+   "transforming-mythic-europe::0382",
+   "transforming-mythic-europe::0384"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal bordering the Black Sea.",
+  "evidence": [
+   "transforming-mythic-europe::0382"
+  ]
+ },
+ {
+  "name": "Mediterranean",
+  "type": "Place",
+  "description": "Sea averaging 1630 paces deep, an alternative site for a magical island.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Lampedusa",
+  "type": "Place",
+  "description": "Island southwest of Sicily once a Roman fish-sauce manufactory, perhaps with a weak Magic aura.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Linosa",
+  "type": "Place",
+  "description": "Small island southwest of Sicily.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Lampione",
+  "type": "Place",
+  "description": "Island southwest of Sicily said to be a stone dropped by a cyclops; may have a Faerie aura.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "description": "Island whose king is the Holy Roman Emperor, with his court at Palermo.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Palermo",
+  "type": "Place",
+  "description": "Seat of the Holy Roman Emperor's court in Sicily.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Holy Roman Emperor",
+  "type": "Character",
+  "description": "Ruler who is also King of Sicily, with his court at Palermo.",
+  "evidence": [
+   "transforming-mythic-europe::0383",
+   "transforming-mythic-europe::0384"
+  ]
+ },
+ {
+  "name": "Tunis",
+  "type": "Place",
+  "description": "Home of strange Arabic sorcerers near Sicily.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Malta",
+  "type": "Place",
+  "description": "Island ruled by a count owing fealty to the King of Sicily.",
+  "evidence": [
+   "transforming-mythic-europe::0383"
+  ]
+ },
+ {
+  "name": "Balearic Islands",
+  "type": "Place",
+  "aliases": [
+   "Balearics"
+  ],
+  "description": "An independent taifa in 1220 with megalithic structures and a former temple to Mercury.",
+  "evidence": [
+   "transforming-mythic-europe::0384"
+  ]
+ },
+ {
+  "name": "Dalmatia",
+  "type": "Place",
+  "description": "Coast whose islands' vis rights are claimed by House Mercere.",
+  "evidence": [
+   "transforming-mythic-europe::0384"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "description": "Hermetic House claiming vis rights on Dalmatian islands, and largely unaffected by book-copying technology.",
+  "evidence": [
+   "transforming-mythic-europe::0384",
+   "transforming-mythic-europe::0449"
+  ]
+ },
+ {
+  "name": "Delos",
+  "type": "Place",
+  "description": "Aegean island once floating, tethered by Zeus; meeting place of the Theban Tribunal.",
+  "evidence": [
+   "transforming-mythic-europe::0385",
+   "transforming-mythic-europe::0386"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "description": "Lord of Olympus who tethered floating Delos to the sea floor.",
+  "evidence": [
+   "transforming-mythic-europe::0385"
+  ]
+ },
+ {
+  "name": "Steering A Vast Stone Dish",
+  "type": "Spell",
+  "description": "ReTe 40 Ring/Circle spell to direct the voyage of a small floating island.",
+  "evidence": [
+   "transforming-mythic-europe::0387"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The most powerful wielders of magic in the thirteenth century, whose magi might become inventors of magical technology.",
+  "evidence": [
+   "transforming-mythic-europe::0388",
+   "transforming-mythic-europe::0414",
+   "transforming-mythic-europe::0447"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "Hermetic law, which uses 'scrying' to designate a proscribed use of magic.",
+  "evidence": [
+   "transforming-mythic-europe::0390",
+   "transforming-mythic-europe::0399",
+   "transforming-mythic-europe::0451"
+  ]
+ },
+ {
+  "name": "Scrying",
+  "type": "Concept",
+  "description": "Intellego magic at Arcane Connection range; legally extended by the Code to any magic spying on a magus's affairs; a High Crime.",
+  "evidence": [
+   "transforming-mythic-europe::0390",
+   "transforming-mythic-europe::0399",
+   "transforming-mythic-europe::0412"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Mystical link used for scrying, remote writing and transport; can be fixed in the laboratory to last indefinitely.",
+  "evidence": [
+   "transforming-mythic-europe::0392",
+   "transforming-mythic-europe::0419",
+   "transforming-mythic-europe::0420"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Covenant ritual that limits remote communication devices and foils spies.",
+  "evidence": [
+   "transforming-mythic-europe::0392",
+   "transforming-mythic-europe::0410",
+   "transforming-mythic-europe::0420"
+  ]
+ },
+ {
+  "name": "Quills of Arcane Correspondence",
+  "type": "Item",
+  "description": "A pair of matched enchanted goose quills; whatever is written with one is copied by the other.",
+  "evidence": [
+   "transforming-mythic-europe::0392",
+   "transforming-mythic-europe::0394",
+   "transforming-mythic-europe::0416"
+  ]
+ },
+ {
+  "name": "Twinning the Quill",
+  "type": "Spell",
+  "description": "ReAn 19 effect in the Quills of Arcane Correspondence that mirrors the movements of one quill in the other.",
+  "evidence": [
+   "transforming-mythic-europe::0395"
+  ]
+ },
+ {
+  "name": "The Unsubtle Knife",
+  "type": "Item",
+  "description": "A silver knife invented by Atrox of Tytalus to send orders to his agents via Arcane Connections.",
+  "evidence": [
+   "transforming-mythic-europe::0396",
+   "transforming-mythic-europe::0397"
+  ]
+ },
+ {
+  "name": "The Writing on the Wall",
+  "type": "Spell",
+  "description": "CrIm 22 effect of the Unsubtle Knife making a written message appear at a connected location, seemingly in blood.",
+  "evidence": [
+   "transforming-mythic-europe::0398"
+  ]
+ },
+ {
+  "name": "Atrox of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Atrox"
+  ],
+  "description": "Magus of House Tytalus who invented the Unsubtle Knife; his sigil makes messages and errors appear in blood.",
+  "evidence": [
+   "transforming-mythic-europe::0396",
+   "transforming-mythic-europe::0398",
+   "transforming-mythic-europe::0435"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytali"
+  ],
+  "description": "Hermetic House whose members mostly believe knowledge must be earned, though some support book copying for its conflicts.",
+  "evidence": [
+   "transforming-mythic-europe::0448",
+   "transforming-mythic-europe::0450"
+  ]
+ },
+ {
+  "name": "Earring of Whispering Voices",
+  "type": "Item",
+  "description": "A silver earring scrying device letting its wearer hear a distant person's voice.",
+  "evidence": [
+   "transforming-mythic-europe::0400",
+   "transforming-mythic-europe::0401"
+  ]
+ },
+ {
+  "name": "A Signal of Intent",
+  "type": "Spell",
+  "description": "CrIm 8 effect making a brief sound at a connected location to signal use of a scrying device.",
+  "evidence": [
+   "transforming-mythic-europe::0402"
+  ]
+ },
+ {
+  "name": "The Ear for a Distant Voice",
+  "type": "Spell",
+  "description": "InIm 12 effect letting the user hear the voice of a person to whom she has an Arcane Connection.",
+  "evidence": [
+   "transforming-mythic-europe::0402",
+   "transforming-mythic-europe::0403"
+  ]
+ },
+ {
+  "name": "The Hermetic Speculum",
+  "type": "Item",
+  "aliases": [
+   "Speculum",
+   "Specula"
+  ],
+  "description": "A rock-crystal sphere or mirror scrying device for seeing distant individuals; spread into general and civic use.",
+  "evidence": [
+   "transforming-mythic-europe::0404",
+   "transforming-mythic-europe::0405",
+   "transforming-mythic-europe::0417"
+  ]
+ },
+ {
+  "name": "Summoning the Image of the Distant",
+  "type": "Spell",
+  "description": "InIm 17 effect of the Hermetic Speculum to see and hear a connected individual.",
+  "evidence": [
+   "transforming-mythic-europe::0406"
+  ]
+ },
+ {
+  "name": "The Scrier Spied",
+  "type": "Spell",
+  "description": "InVi 29 effect of the Hermetic Speculum detecting scrying spells on its bearer.",
+  "evidence": [
+   "transforming-mythic-europe::0404",
+   "transforming-mythic-europe::0407"
+  ]
+ },
+ {
+  "name": "The Invisible Eye Revealed",
+  "type": "Spell",
+  "description": "Spell on which The Scrier Spied is modelled.",
+  "evidence": [
+   "transforming-mythic-europe::0407"
+  ]
+ },
+ {
+  "name": "The Effigy of the Errant Image",
+  "type": "Item",
+  "description": "A small wooden statue letting the user project his image to a connected location for two-way communication.",
+  "evidence": [
+   "transforming-mythic-europe::0408",
+   "transforming-mythic-europe::0409"
+  ]
+ },
+ {
+  "name": "The Wandering Eidolon",
+  "type": "Spell",
+  "description": "Re(In)Im 40 effect of the Effigy projecting the user's image to a distant location.",
+  "evidence": [
+   "transforming-mythic-europe::0410"
+  ]
+ },
+ {
+  "name": "Haunt of the Living Ghost",
+  "type": "Spell",
+  "description": "Creo Imaginem spell usable for a similar effect to the Effigy of the Errant Image.",
+  "evidence": [
+   "transforming-mythic-europe::0408"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic magic resistance, which must be suppressed to receive scrying messages and whose books Quaesitores would ban.",
+  "evidence": [
+   "transforming-mythic-europe::0382",
+   "transforming-mythic-europe::0400",
+   "transforming-mythic-europe::0448"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that scrying and transport effects must penetrate.",
+  "evidence": [
+   "transforming-mythic-europe::0400",
+   "transforming-mythic-europe::0406",
+   "transforming-mythic-europe::0414"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "description": "Ability of an effect to overcome Magic Resistance; zero-Penetration devices avoid scrying accusations.",
+  "evidence": [
+   "transforming-mythic-europe::0412",
+   "transforming-mythic-europe::0414"
+  ]
+ },
+ {
+  "name": "High Crime",
+  "type": "Concept",
+  "description": "Serious Hermetic offense, such as scrying on another magus.",
+  "evidence": [
+   "transforming-mythic-europe::0412"
+  ]
+ },
+ {
+  "name": "Hermetic Oath",
+  "type": "Concept",
+  "description": "Oath prohibiting members from scrying on another maga.",
+  "evidence": [
+   "transforming-mythic-europe::0414"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Tribunal-specific rulings that might forbid supplying scrying magic or permit raiding supplies.",
+  "evidence": [
+   "transforming-mythic-europe::0414",
+   "transforming-mythic-europe::0473"
+  ]
+ },
+ {
+  "name": "Town Crier's Guild",
+  "type": "Faction",
+  "description": "Guild formed to announce news using civic Specula.",
+  "evidence": [
+   "transforming-mythic-europe::0418"
+  ]
+ },
+ {
+  "name": "Holy Roman Empire",
+  "type": "Place",
+  "description": "Empire whose prince commissioned the first Hermetic Speculum.",
+  "evidence": [
+   "transforming-mythic-europe::0417"
+  ]
+ },
+ {
+  "name": "Safeguard the Clandestine Conversation",
+  "type": "Spell",
+  "description": "Mu(Re)Im 10 spell muddling the images and sounds of those within a circle to outside observers and scriers.",
+  "evidence": [
+   "transforming-mythic-europe::0420",
+   "transforming-mythic-europe::0421"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability needed to copy Hermetic books without corruption; Hermetic theory is incomplete.",
+  "evidence": [
+   "transforming-mythic-europe::0422",
+   "transforming-mythic-europe::0423",
+   "transforming-mythic-europe::0448"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Form of minds; influences memories but not knowledge.",
+  "evidence": [
+   "transforming-mythic-europe::0424",
+   "transforming-mythic-europe::0425"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Technique covering the acquisition of information, not information itself.",
+  "evidence": [
+   "transforming-mythic-europe::0425"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Form relating to ink components and plant materials.",
+  "evidence": [
+   "transforming-mythic-europe::0425",
+   "transforming-mythic-europe::0464"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Form relating to ink components and non-living objects.",
+  "evidence": [
+   "transforming-mythic-europe::0425",
+   "transforming-mythic-europe::0463"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Form covering parchment and animals.",
+  "evidence": [
+   "transforming-mythic-europe::0425",
+   "transforming-mythic-europe::0463"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Technique used for craft magic and instant transportation.",
+  "evidence": [
+   "transforming-mythic-europe::0425",
+   "transforming-mythic-europe::0463"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Technique; the Red Knight's power mimics Hermetic Creo effects.",
+  "evidence": [
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Technique; the Red Knight's power mimics Hermetic Muto effects.",
+  "evidence": [
+   "transforming-mythic-europe::0368"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Form of images and species, used in scrying and copying spells.",
+  "evidence": [
+   "transforming-mythic-europe::0362",
+   "transforming-mythic-europe::0428"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Form of water and liquids.",
+  "evidence": [
+   "transforming-mythic-europe::0367",
+   "transforming-mythic-europe::0463"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Form of the body; Rego Corpus spells move the body and what it carries.",
+  "evidence": [
+   "transforming-mythic-europe::0464"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Form of fire, used in library study example.",
+  "evidence": [
+   "transforming-mythic-europe::0454",
+   "transforming-mythic-europe::0455",
+   "transforming-mythic-europe::0463"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Form of magic; used in Impede the Impertinent Interloper.",
+  "evidence": [
+   "transforming-mythic-europe::0475"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Technique of destruction.",
+  "evidence": [
+   "transforming-mythic-europe::0368",
+   "transforming-mythic-europe::0475"
+  ]
+ },
+ {
+  "name": "Inscribed Memories",
+  "type": "Concept",
+  "description": "Memories that power one's Arts and non-physical Abilities, which magic cannot transfer or create.",
+  "evidence": [
+   "transforming-mythic-europe::0424"
+  ]
+ },
+ {
+  "name": "Rego Craft Magic",
+  "type": "Concept",
+  "description": "Rego magic duplicating a craftsman's work from provided raw materials, requiring a Finesse roll.",
+  "evidence": [
+   "transforming-mythic-europe::0425",
+   "transforming-mythic-europe::0426",
+   "transforming-mythic-europe::0427"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability required for Rego craft magic and operating copying devices.",
+  "evidence": [
+   "transforming-mythic-europe::0426",
+   "transforming-mythic-europe::0429",
+   "transforming-mythic-europe::0438"
+  ]
+ },
+ {
+  "name": "Profession: Scribe",
+  "type": "Ability",
+  "description": "Ability for copying books.",
+  "evidence": [
+   "transforming-mythic-europe::0394",
+   "transforming-mythic-europe::0428"
+  ]
+ },
+ {
+  "name": "Organization Lore: Order of Hermes",
+  "type": "Ability",
+  "description": "Ability whose rare books Quaesitores worry about.",
+  "evidence": [
+   "transforming-mythic-europe::0448"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Ability used to know that some merfolk claim Ysian descent.",
+  "evidence": [
+   "transforming-mythic-europe::0367"
+  ]
+ },
+ {
+  "name": "The First Furrow Guides the Second",
+  "type": "Spell",
+  "description": "Cr(In)Im 25 spell laying a book page's image over a blank sheet for copying; also an effect in the Superb Scrinium.",
+  "evidence": [
+   "transforming-mythic-europe::0428",
+   "transforming-mythic-europe::0437",
+   "transforming-mythic-europe::0439"
+  ]
+ },
+ {
+  "name": "The Copyist's Puissant Quill",
+  "type": "Spell",
+  "description": "ReAq 5 craft magic spell making ink form words and images on a page along guidelines.",
+  "evidence": [
+   "transforming-mythic-europe::0429",
+   "transforming-mythic-europe::0431",
+   "transforming-mythic-europe::0441"
+  ]
+ },
+ {
+  "name": "The Copyist's Critical Eye",
+  "type": "Spell",
+  "aliases": [
+   "The Copyist's Deft Eye"
+  ],
+  "description": "InIm 10 spell revealing where a second text differs from the first.",
+  "evidence": [
+   "transforming-mythic-europe::0434",
+   "transforming-mythic-europe::0435"
+  ]
+ },
+ {
+  "name": "The Superb Scrinium",
+  "type": "Item",
+  "aliases": [
+   "Scrinium"
+  ],
+  "description": "An enchanted walnut writing desk that copies and binds an entire book in hours.",
+  "evidence": [
+   "transforming-mythic-europe::0436",
+   "transforming-mythic-europe::0437",
+   "transforming-mythic-europe::0456"
+  ]
+ },
+ {
+  "name": "The Lector's Deft Hand",
+  "type": "Spell",
+  "description": "ReHe(An) 15 effect of the Superb Scrinium turning pages of the book being copied.",
+  "evidence": [
+   "transforming-mythic-europe::0437",
+   "transforming-mythic-europe::0440"
+  ]
+ },
+ {
+  "name": "Stack the Decorated Page",
+  "type": "Spell",
+  "description": "ReHe(An) 20 effect of the Superb Scrinium moving the written sheet to the right-hand slab.",
+  "evidence": [
+   "transforming-mythic-europe::0442"
+  ]
+ },
+ {
+  "name": "Binding the Mundane Codex",
+  "type": "Spell",
+  "description": "ReHe(An) 7 effect binding up to 800 sheets into a book.",
+  "evidence": [
+   "transforming-mythic-europe::0436",
+   "transforming-mythic-europe::0443"
+  ]
+ },
+ {
+  "name": "Binding the Hermetic Codex",
+  "type": "Spell",
+  "description": "Alternative to Binding the Mundane Codex integrating resonant materials.",
+  "evidence": [
+   "transforming-mythic-europe::0436"
+  ]
+ },
+ {
+  "name": "Resonance",
+  "type": "Concept",
+  "description": "Improvements to a book's quality from resonant materials or Magic aura exposure, lost when magically copied.",
+  "evidence": [
+   "transforming-mythic-europe::0433",
+   "transforming-mythic-europe::0434"
+  ]
+ },
+ {
+  "name": "Laboratory Text",
+  "type": "Concept",
+  "description": "Records of lab work that must be copied without deviation to remain usable.",
+  "evidence": [
+   "transforming-mythic-europe::0444",
+   "transforming-mythic-europe::0445",
+   "transforming-mythic-europe::0446"
+  ]
+ },
+ {
+  "name": "Summa",
+  "type": "Concept",
+  "description": "A book type with a Level; a library's best summa sets its base scores.",
+  "evidence": [
+   "transforming-mythic-europe::0431",
+   "transforming-mythic-europe::0452",
+   "transforming-mythic-europe::0453"
+  ]
+ },
+ {
+  "name": "Tractatus",
+  "type": "Concept",
+  "description": "A book type, typically about 160 pages, acting as Quality experience in library rules.",
+  "evidence": [
+   "transforming-mythic-europe::0431",
+   "transforming-mythic-europe::0453"
+  ]
+ },
+ {
+  "name": "Experimentation Table",
+  "type": "Concept",
+  "description": "Table rolled on when using hazardously copied Laboratory Texts.",
+  "evidence": [
+   "transforming-mythic-europe::0445"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagi"
+  ],
+  "description": "Hermetic House split over book copying: some deplore it, others embrace it to disseminate breakthroughs.",
+  "evidence": [
+   "transforming-mythic-europe::0448",
+   "transforming-mythic-europe::0450"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "description": "Hermetic House in favor of mass production of books.",
+  "evidence": [
+   "transforming-mythic-europe::0450"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "Hermetic House whose politically savvy members are eager for books on the Arts.",
+  "evidence": [
+   "transforming-mythic-europe::0450"
+  ]
+ },
+ {
+  "name": "Mystery Houses",
+  "type": "Faction",
+  "description": "Houses whose knowledge must be won through ritual and ordeal, little affected by book copying.",
+  "evidence": [
+   "transforming-mythic-europe::0449"
+  ]
+ },
+ {
+  "name": "Cow and Calf Oath",
+  "type": "Concept",
+  "description": "Hibernian ruling that book recipients will not copy it without permission; common as a gentleman's agreement.",
+  "evidence": [
+   "transforming-mythic-europe::0451",
+   "transforming-mythic-europe::0452"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where the Cow and Calf Oath is part of the Code.",
+  "evidence": [
+   "transforming-mythic-europe::0451"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "description": "The Order's highest body, which has declined to rule on the Cow and Calf Oath.",
+  "evidence": [
+   "transforming-mythic-europe::0451",
+   "transforming-mythic-europe::0452"
+  ]
+ },
+ {
+  "name": "Scribes' Guild",
+  "type": "Faction",
+  "aliases": [
+   "Guild of Scribes"
+  ],
+  "description": "A guild scribes might found to oppose magical book copying.",
+  "evidence": [
+   "transforming-mythic-europe::0458",
+   "transforming-mythic-europe::0459"
+  ]
+ },
+ {
+  "name": "Learned Magicians",
+  "type": "Faction",
+  "description": "Hedge wizards known for parchment amulets and calligraphic chartae who may join the scribes.",
+  "evidence": [
+   "transforming-mythic-europe::0458"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "description": "Non-Hermetic magicians; some can fix Arcane Connections.",
+  "evidence": [
+   "transforming-mythic-europe::0404",
+   "transforming-mythic-europe::0420",
+   "transforming-mythic-europe::0423"
+  ]
+ },
+ {
+  "name": "Gutenberg Printing Press",
+  "type": "Item",
+  "description": "Historical press from 1455 used as a model for the impact of mass book production.",
+  "evidence": [
+   "transforming-mythic-europe::0456",
+   "transforming-mythic-europe::0457"
+  ]
+ },
+ {
+  "name": "Gift of Frog's Legs",
+  "type": "Spell",
+  "description": "Spell allowing the target to jump up to 5 paces, epitomizing travel in the blink of an eye.",
+  "evidence": [
+   "transforming-mythic-europe::0460",
+   "transforming-mythic-europe::0464"
+  ]
+ },
+ {
+  "name": "Leap of Homecoming",
+  "type": "Spell",
+  "description": "Instant transportation spell to one's sanctum.",
+  "evidence": [
+   "transforming-mythic-europe::0460",
+   "transforming-mythic-europe::0475"
+  ]
+ },
+ {
+  "name": "Seven-League Stride",
+  "type": "Spell",
+  "description": "Instant transportation spell blockable by a 25th level Impede the Impertinent Interloper.",
+  "evidence": [
+   "transforming-mythic-europe::0475"
+  ]
+ },
+ {
+  "name": "Instant Transportation",
+  "type": "Concept",
+  "description": "Magical transport rules with new guidelines by magnitude of distance.",
+  "evidence": [
+   "transforming-mythic-europe::0459",
+   "transforming-mythic-europe::0463",
+   "transforming-mythic-europe::0464"
+  ]
+ },
+ {
+  "name": "Requisite",
+  "type": "Concept",
+  "description": "Additional Art required in casting, discussed for instant transportation.",
+  "evidence": [
+   "transforming-mythic-europe::0464",
+   "transforming-mythic-europe::0465"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Effect of constant mystical effects, avoided by designing effects for specific users.",
+  "evidence": [
+   "transforming-mythic-europe::0470",
+   "transforming-mythic-europe::0476",
+   "transforming-mythic-europe::0479"
+  ]
+ },
+ {
+  "name": "Bring the Herd to Market",
+  "type": "Spell",
+  "description": "ReAn 45 spell transporting a group of animals up to seven leagues.",
+  "evidence": [
+   "transforming-mythic-europe::0468"
+  ]
+ },
+ {
+  "name": "A Bridge Without Wood",
+  "type": "Spell",
+  "description": "ReCo 20 spell transporting the target up to 50 paces to a visible point.",
+  "evidence": [
+   "transforming-mythic-europe::0469"
+  ]
+ },
+ {
+  "name": "The Messenger's Shortcut",
+  "type": "Spell",
+  "description": "ReCo(An) 45 spell transporting a rider and horse one league.",
+  "evidence": [
+   "transforming-mythic-europe::0470"
+  ]
+ },
+ {
+  "name": "The Mobile Infantry",
+  "type": "Spell",
+  "description": "ReCo 50 spell transporting 100 men up to seven leagues; its caster was executed in a Wizard's March.",
+  "evidence": [
+   "transforming-mythic-europe::0471"
+  ]
+ },
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "description": "Hermetic execution sentence passed by a Tribunal.",
+  "evidence": [
+   "transforming-mythic-europe::0471"
+  ]
+ },
+ {
+  "name": "The Instant Harvest",
+  "type": "Spell",
+  "description": "ReHe 45 spell transporting a field's crop next to the field.",
+  "evidence": [
+   "transforming-mythic-europe::0472"
+  ]
+ },
+ {
+  "name": "Rapacious Hand of the Highwayman",
+  "type": "Spell",
+  "description": "ReTe 35 spell transporting a wagon three miles, common in the Normandy Tribunal.",
+  "evidence": [
+   "transforming-mythic-europe::0473"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where stealing another covenant's supplies is not forbidden and raiding is common.",
+  "evidence": [
+   "transforming-mythic-europe::0473"
+  ]
+ },
+ {
+  "name": "Portage of the Eagles",
+  "type": "Spell",
+  "description": "ReTe 45 spell transporting goods to an Arcane Connection.",
+  "evidence": [
+   "transforming-mythic-europe::0474"
+  ]
+ },
+ {
+  "name": "Impede the Impertinent Interloper",
+  "type": "Spell",
+  "description": "PeVi General spell cancelling instant transportation into or out of a circle.",
+  "evidence": [
+   "transforming-mythic-europe::0475"
+  ]
+ },
+ {
+  "name": "The Gate of Countless Vistas",
+  "type": "Item",
+  "description": "A stone arched doorway enchanted for instant transport to connected locations, keyed to individual users.",
+  "evidence": [
+   "transforming-mythic-europe::0476",
+   "transforming-mythic-europe::0477"
+  ]
+ },
+ {
+  "name": "The Longest Step Made Short",
+  "type": "Spell",
+  "description": "ReCo 40 effect of the Gate of Countless Vistas transporting one person.",
+  "evidence": [
+   "transforming-mythic-europe::0478"
+  ]
+ },
+ {
+  "name": "Phylactery of the Cautious Maga",
+  "type": "Item",
+  "description": "Invested item that gathers an Arcane Connection and transports its maga to safety.",
+  "evidence": [
+   "transforming-mythic-europe::0479"
+  ]
+ },
+ {
+  "name": "Shape and Material Bonus",
+  "type": "Concept",
+  "description": "Bonuses from item form and material, e.g. rock crystal for clairvoyance.",
+  "evidence": [
+   "transforming-mythic-europe::0393",
+   "transforming-mythic-europe::0399",
+   "transforming-mythic-europe::0467"
+  ]
+ },
+ {
+  "name": "Lesser Enchantment",
+  "type": "Concept",
+  "description": "Single-effect enchanted item type.",
+  "evidence": [
+   "transforming-mythic-europe::0394",
+   "transforming-mythic-europe::0397"
+  ]
+ },
+ {
+  "name": "Invested Item",
+  "type": "Concept",
+  "aliases": [
+   "invested device"
+  ],
+  "description": "Enchanted item prepared with vis to hold multiple effects.",
+  "evidence": [
+   "transforming-mythic-europe::0401",
+   "transforming-mythic-europe::0479"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power used to prepare and enchant items.",
+  "evidence": [
+   "transforming-mythic-europe::0394",
+   "transforming-mythic-europe::0436",
+   "transforming-mythic-europe::0477"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "description": "Supernatural aura; Magic and Faerie auras found on islands.",
+  "evidence": [
+   "transforming-mythic-europe::0376",
+   "transforming-mythic-europe::0383",
+   "transforming-mythic-europe::0433"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm of faeries, with auras and faerie islands.",
+  "evidence": [
+   "transforming-mythic-europe::0376",
+   "transforming-mythic-europe::0380",
+   "transforming-mythic-europe::0382"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of demons.",
+  "evidence": [
+   "transforming-mythic-europe::0362",
+   "transforming-mythic-europe::0367"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "description": "Hermetic community; covenants may exchange scrying and transport devices.",
+  "evidence": [
+   "transforming-mythic-europe::0392",
+   "transforming-mythic-europe::0476"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "description": "A magus's personal magical signature shaping effects.",
+  "evidence": [
+   "transforming-mythic-europe::0398",
+   "transforming-mythic-europe::0402",
+   "transforming-mythic-europe::0435"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The game setting, a world of Aristotelean physics.",
+  "evidence": [
+   "transforming-mythic-europe::0388",
+   "transforming-mythic-europe::0456"
+  ]
+ },
+ {
+  "name": "Magitech",
+  "type": "Concept",
+  "description": "Anachronistic modern-style technology realized through magic.",
+  "evidence": [
+   "transforming-mythic-europe::0388",
+   "transforming-mythic-europe::0389"
+  ]
+ },
+ {
+  "name": "Remote Writing",
+  "type": "Concept",
+  "description": "Enchantment reproducing writing at a distant location, not construable as scrying.",
+  "evidence": [
+   "transforming-mythic-europe::0391",
+   "transforming-mythic-europe::0413"
+  ]
+ }
+]

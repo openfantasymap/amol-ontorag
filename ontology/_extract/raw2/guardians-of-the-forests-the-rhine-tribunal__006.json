@@ -1,0 +1,18 @@
+[
+{"name":"Charlemagne","type":"Character","description":"Historical Frankish emperor whose life, written by Einhard, is listed as a period source for the Rhine Tribunal.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Einhard","type":"Character","description":"Historical author of The Life of Charlemagne, listed among the period works in the bibliography.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Widukind of Corvey","type":"Character","description":"Historical chronicler whose History of the Saxons is listed as a period source.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Gregory of Tours","type":"Character","description":"Historical author of the History of the Franks, listed among the period works.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Julius Caesar","type":"Character","aliases":["Caesar"],"description":"Roman author of The Gallic Wars, listed as a period source.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Tacitus","type":"Character","description":"Roman author of the Germania, listed as a period source on the Germanic lands.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Pliny","type":"Character","description":"Roman author of the Natural History, listed as a period source.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Hildegard of Bingen","type":"Character","description":"Historical figure whose life and works are cited as a bibliographic source for the Rhine Tribunal.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0724"]},
+{"name":"Franks","type":"Faction","description":"Historical Germanic people whose history, by Gregory of Tours, is a cited period source.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Saxons","type":"Faction","description":"Historical Germanic people whose history, by Widukind of Corvey, is a cited period source.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]},
+{"name":"Teufelsmoor","type":"Place","description":"A moor in northern Germany listed among the geography and specific sites sources.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0723"]},
+{"name":"Rhinefalls","type":"Place","aliases":["The Rhinefalls"],"description":"Waterfall on the Rhine listed among the specific sites referenced for the Tribunal.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0723"]},
+{"name":"Grand","type":"Place","aliases":["Andresina"],"description":"Site also known as Andresina, listed among the geography and specific sites sources.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0723"]},
+{"name":"Rhine","type":"Place","description":"The river of the Rhine Tribunal, referenced in sources on its legends and on tolling the Rhine in 1254.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0722","guardians-of-the-forests-the-rhine-tribunal::0724"]},
+{"name":"Megaliths and Megalithic Tombs","type":"Concept","aliases":["Hünengräber","Dolmens"],"description":"Prehistoric stone monuments and dolmens of Germany and the Netherlands cited as reference material for specific sites.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0723"]},
+{"name":"Nibelungenlied","type":"Concept","description":"Anonymous medieval Germanic epic listed among the period works used as sources.","evidence":["guardians-of-the-forests-the-rhine-tribunal::0720"]}
+]

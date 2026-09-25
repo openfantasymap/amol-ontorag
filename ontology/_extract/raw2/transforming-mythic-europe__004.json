@@ -1,0 +1,1414 @@
+[
+ {
+  "name": "Phylactery of the Cautious Maga",
+  "type": "Item",
+  "description": "An invested device, a hollow wooden box with a silver lid holding an Arcane Connection to a safe place, that transports its wearer to safety.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0481",
+   "transforming-mythic-europe::0483"
+  ]
+ },
+ {
+  "name": "Acquire the Connection",
+  "type": "Spell",
+  "description": "ReTe 15 effect of the Phylactery that transports a pinch of dirt or stone from around the magus into the Phylactery's empty compartment.",
+  "evidence": [
+   "transforming-mythic-europe::0482",
+   "transforming-mythic-europe::0483"
+  ]
+ },
+ {
+  "name": "Flee to Safe Refuge",
+  "type": "Spell",
+  "description": "ReCo 44 effect transporting the wearer to the place designated by the Arcane Connection in the Phylactery; linked-triggered with Acquire the Connection.",
+  "evidence": [
+   "transforming-mythic-europe::0483"
+  ]
+ },
+ {
+  "name": "Summoning the Distant Image",
+  "type": "Spell",
+  "description": "InIm 25 effect using an Arcane Connection to show images of a distant room, here appearing in the mirrored lid of the Phylactery.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Plaustrum Pertinax",
+  "type": "Creature",
+  "aliases": [
+   "Stubborn Wagon"
+  ],
+  "description": "A heavily warped covenant wagon turned Magic Thing via the Transformed Thing Virtue, stubborn and disobedient towards magi.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0485",
+   "transforming-mythic-europe::0486"
+  ]
+ },
+ {
+  "name": "Immovable Object",
+  "type": "Spell",
+  "description": "Power of the Plaustrum Pertinax (ReHe 10) allowing the wagon to fix itself completely immobile in place.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0485"
+  ]
+ },
+ {
+  "name": "Magic Thing",
+  "type": "Virtue",
+  "description": "Virtue marking a creature as a magical object-being, possessed by the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0486"
+  ]
+ },
+ {
+  "name": "Transformed Thing",
+  "type": "Virtue",
+  "description": "Virtue (Realms of Power: Magic) granted to the wagon by a botched transportation spell, turning it into a Magic Thing.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0485"
+  ]
+ },
+ {
+  "name": "Essential Virtue",
+  "type": "Virtue",
+  "description": "Virtue from Warping held by the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "description": "Virtue possessed by the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Flaw",
+  "description": "Flaw of the Plaustrum Pertinax marking it as a magical creature.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "description": "Minor Flaw; for the wagon its moving parts sometimes fuse, and it may arise from repeated transportation magic as loneliness when away from home.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0496"
+  ]
+ },
+ {
+  "name": "Oversensitive",
+  "type": "Flaw",
+  "description": "Flaw from Warping making the Plaustrum Pertinax oversensitive to orders from magi.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Concept",
+  "description": "Magical Quality granting a creature a power; the Plaustrum Pertinax has it for Immovable Object.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0485"
+  ]
+ },
+ {
+  "name": "Terram Resistance",
+  "type": "Ability",
+  "description": "Magical Quality/Ability giving resistance to Terram, held by the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0485"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Accumulated magical distortion from powerful mystical effects; instant transportation over 30th level inflicts Warping points leading to Flaws and Virtues.",
+  "evidence": [
+   "transforming-mythic-europe::0485",
+   "transforming-mythic-europe::0496",
+   "transforming-mythic-europe::0493"
+  ]
+ },
+ {
+  "name": "Mercury's Winged Sandals",
+  "type": "Spell",
+  "description": "ReCo 20 spell letting the caster fly as fast as a running horse, controlled with Intelligence + Finesse rolls.",
+  "evidence": [
+   "transforming-mythic-europe::0488",
+   "transforming-mythic-europe::0489"
+  ]
+ },
+ {
+  "name": "Woolen Steed of Araby",
+  "type": "Spell",
+  "aliases": [
+   "The Woolen Steed of Araby"
+  ],
+  "description": "ReAn 20 spell imbuing a woolen rug or pelt with the power of flight, carrying the caster.",
+  "evidence": [
+   "transforming-mythic-europe::0489",
+   "transforming-mythic-europe::0490"
+  ]
+ },
+ {
+  "name": "Vessel of the Clouds",
+  "type": "Spell",
+  "description": "ReHe 30 spell giving a small boat such as a coracle the power of flight with a Load of 50.",
+  "evidence": [
+   "transforming-mythic-europe::0490"
+  ]
+ },
+ {
+  "name": "The Chariot of Zeus",
+  "type": "Spell",
+  "description": "MuCo(Au) 30 spell transforming the caster into a thunderbolt to travel instantly to any visible location.",
+  "evidence": [
+   "transforming-mythic-europe::0491"
+  ]
+ },
+ {
+  "name": "Form of the Zephyr",
+  "type": "Spell",
+  "description": "MuCo(Au) 40 spell transforming the caster into a strong gale wind flying at 50 miles an hour.",
+  "evidence": [
+   "transforming-mythic-europe::0494",
+   "transforming-mythic-europe::0495"
+  ]
+ },
+ {
+  "name": "Hermes' Portal",
+  "type": "Spell",
+  "aliases": [
+   "The Hermes' Portal"
+  ],
+  "description": "Powerful Mercurian Ritual allowing unlimited instantaneous travel between two points for a year.",
+  "evidence": [
+   "transforming-mythic-europe::0491",
+   "transforming-mythic-europe::0492",
+   "transforming-mythic-europe::0493"
+  ]
+ },
+ {
+  "name": "Mercere's Portal",
+  "type": "Item",
+  "aliases": [
+   "Mercere Portal",
+   "Mercere's Portals"
+  ],
+  "description": "Permanent paired enchantments made by a secret House Mercere lab procedure acting like a Hermes' Portal; the network was torn down in the Schism War.",
+  "evidence": [
+   "transforming-mythic-europe::0492",
+   "transforming-mythic-europe::0493",
+   "transforming-mythic-europe::0505"
+  ]
+ },
+ {
+  "name": "Gate of Countless Vistas",
+  "type": "Item",
+  "aliases": [
+   "Gates of Countless Vistas",
+   "Gate"
+  ],
+  "description": "A device of instant transportation; in a saga seed a network of such Gates spreads across Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0492",
+   "transforming-mythic-europe::0493",
+   "transforming-mythic-europe::0505"
+  ]
+ },
+ {
+  "name": "The Leap of Homecoming",
+  "type": "Spell",
+  "description": "Rego Corpus spell of instant transportation that directly targets the individual and inflicts Warping.",
+  "evidence": [
+   "transforming-mythic-europe::0493"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "description": "Spell allowing groups of magi to combine to cast spells such as the Hermes' Portal.",
+  "evidence": [
+   "transforming-mythic-europe::0492"
+  ]
+ },
+ {
+  "name": "Cloak of Mist",
+  "type": "Spell",
+  "description": "Spell (ArM5 p.131) letting the caster seep through cracks like natural mist.",
+  "evidence": [
+   "transforming-mythic-europe::0494"
+  ]
+ },
+ {
+  "name": "The Longest Step Made Short",
+  "type": "Spell",
+  "description": "Basic instant transportation effect of eighth magnitude, usable once per day.",
+  "evidence": [
+   "transforming-mythic-europe::0498"
+  ]
+ },
+ {
+  "name": "Portage of the Eagles",
+  "type": "Spell",
+  "description": "Enchantment for instant transportation of goods over long distances.",
+  "evidence": [
+   "transforming-mythic-europe::0501"
+  ]
+ },
+ {
+  "name": "The Mobile Infantry",
+  "type": "Spell",
+  "description": "Spell to shuffle soldiers across Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0504"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Merceres",
+   "Mercere"
+  ],
+  "description": "The messenger House; guards the secret of Mercere's Portals, entrusted with the Order's banking in a saga seed, and supports the Silver Consensus.",
+  "evidence": [
+   "transforming-mythic-europe::0491",
+   "transforming-mythic-europe::0534",
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius",
+   "Verditii"
+  ],
+  "description": "Craft-magi House best skilled at enchantment, with a set pricing structure for enchanted items; supports the Silver Consensus.",
+  "evidence": [
+   "transforming-mythic-europe::0498",
+   "transforming-mythic-europe::0505",
+   "transforming-mythic-europe::0577"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "description": "House that might see the benefits of rapid transit for mass movement of troops.",
+  "evidence": [
+   "transforming-mythic-europe::0498"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "House supporting the Silver Consensus, preferring the mundane nobility not be molested.",
+  "evidence": [
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "House supporting the Silver Consensus to protect nobility and urban society.",
+  "evidence": [
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "House supporting the Silver Consensus to avoid magi having to govern mundanes.",
+  "evidence": [
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus",
+   "Bonisagi"
+  ],
+  "description": "House supporting the Silver Consensus; its Bonisagi could be stirred to jealousy by inventions.",
+  "evidence": [
+   "transforming-mythic-europe::0542",
+   "transforming-mythic-europe::0584"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Militant House some of whose members support the Silver Consensus to avoid strengthening the Infernal.",
+  "evidence": [
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Militant House some of whose members support the Silver Consensus.",
+  "evidence": [
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "House containing the Rusticani among its members.",
+  "evidence": [
+   "transforming-mythic-europe::0597"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi, whose dynamics could be changed by magical technology and wealth creation.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0508",
+   "transforming-mythic-europe::0533"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Historical conflict during which the Mercere's Portal network was torn down and wealth creation destabilized currencies.",
+  "evidence": [
+   "transforming-mythic-europe::0505",
+   "transforming-mythic-europe::0537",
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "Silver Consensus",
+  "type": "Concept",
+  "description": "Optional Tribunal ruling that no covenant may create more than two Mythic Pounds of silver per member per year, with further principles regulating magical wealth.",
+  "evidence": [
+   "transforming-mythic-europe::0537",
+   "transforming-mythic-europe::0539",
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "description": "The Order-wide Tribunal; in 1063 its 12th meeting confirmed rulings on sale of enchantments.",
+  "evidence": [
+   "transforming-mythic-europe::0534",
+   "transforming-mythic-europe::0535",
+   "transforming-mythic-europe::0577"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitor"
+  ],
+  "description": "Hermetic investigators who confiscate illicit wealth and regulate enchantment sales.",
+  "evidence": [
+   "transforming-mythic-europe::0534",
+   "transforming-mythic-europe::0578",
+   "transforming-mythic-europe::0584"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Oath"
+  ],
+  "description": "The law of the Order; magi may be selfish or amoral yet remain within it.",
+  "evidence": [
+   "transforming-mythic-europe::0533",
+   "transforming-mythic-europe::0572",
+   "transforming-mythic-europe::0584"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic magic resistance which a magus must suppress to be affected by his own transport effect.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0483"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that effects need Penetration to breach.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0550",
+   "transforming-mythic-europe::0596"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A magical link to a person or place; enchantments are Arcane Connections to their creators.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0481",
+   "transforming-mythic-europe::0568"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "description": "A magus's personal enchanted item; placing an effect in it allows Personal Range.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0539"
+  ]
+ },
+ {
+  "name": "Laboratory Text",
+  "type": "Concept",
+  "description": "Written records of lab work allowing others to replicate devices more easily.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0516",
+   "transforming-mythic-europe::0574"
+  ]
+ },
+ {
+  "name": "Invested Device",
+  "type": "Concept",
+  "aliases": [
+   "Invested item"
+  ],
+  "description": "Enchanted item type into which effects are invested with vis.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0574"
+  ]
+ },
+ {
+  "name": "Charged Item",
+  "type": "Concept",
+  "description": "Enchantment with a limited number of charges requiring no vis once a Lab Text exists.",
+  "evidence": [
+   "transforming-mythic-europe::0516",
+   "transforming-mythic-europe::0552",
+   "transforming-mythic-europe::0575"
+  ]
+ },
+ {
+  "name": "Lesser Enchantment",
+  "type": "Concept",
+  "description": "Single-effect enchantment, e.g. the Hermetic Generans and Lancet of Good Health.",
+  "evidence": [
+   "transforming-mythic-europe::0545",
+   "transforming-mythic-europe::0554",
+   "transforming-mythic-europe::0568"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power measured in pawns, used for enchanting items.",
+  "evidence": [
+   "transforming-mythic-europe::0481",
+   "transforming-mythic-europe::0505",
+   "transforming-mythic-europe::0574"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Supernatural talent for magic that engenders suspicion among mundanes.",
+  "evidence": [
+   "transforming-mythic-europe::0508",
+   "transforming-mythic-europe::0510",
+   "transforming-mythic-europe::0573"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Final Twilight"
+  ],
+  "description": "Final Twilight may embrace an innovator before passing on ideas.",
+  "evidence": [
+   "transforming-mythic-europe::0582"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Magical duel that a rival might use to prevent dissemination of a device.",
+  "evidence": [
+   "transforming-mythic-europe::0584"
+  ]
+ },
+ {
+  "name": "Wizard War",
+  "type": "Concept",
+  "description": "Sanctioned conflict between magi a rival might resort to.",
+  "evidence": [
+   "transforming-mythic-europe::0585"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Protective ritual that renders devices like the Instant Breach useless against covenants.",
+  "evidence": [
+   "transforming-mythic-europe::0551"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "description": "Community of magi whose costs and provisioning can be reduced through magic.",
+  "evidence": [
+   "transforming-mythic-europe::0524",
+   "transforming-mythic-europe::0531",
+   "transforming-mythic-europe::0593"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [
+   "redcaps"
+  ],
+  "description": "House Mercere messengers who would use the Gates of Countless Vistas.",
+  "evidence": [
+   "transforming-mythic-europe::0505"
+  ]
+ },
+ {
+  "name": "Concierges",
+  "type": "CharacterType",
+  "description": "Specialist porters of merchant houses who work both sides of the Gates, suffering heavy warping.",
+  "evidence": [
+   "transforming-mythic-europe::0506",
+   "transforming-mythic-europe::0507"
+  ]
+ },
+ {
+  "name": "Beguines",
+  "type": "Faction",
+  "description": "Women of wealthy background with lay religious vows who agitate against the Gates.",
+  "evidence": [
+   "transforming-mythic-europe::0507"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "description": "Minor Magical Focus in Magical Transportation helps achieve instant transportation effects.",
+  "evidence": [
+   "transforming-mythic-europe::0500"
+  ]
+ },
+ {
+  "name": "Motion Sickness",
+  "type": "Flaw",
+  "description": "Flaw that may result from repeated transportation magic.",
+  "evidence": [
+   "transforming-mythic-europe::0496"
+  ]
+ },
+ {
+  "name": "No Sense of Direction",
+  "type": "Flaw",
+  "description": "Flaw that may result from repeated transportation magic.",
+  "evidence": [
+   "transforming-mythic-europe::0496"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Virtue",
+  "description": "Virtue that may arise from repeated transportation, including a sense of north.",
+  "evidence": [
+   "transforming-mythic-europe::0496"
+  ]
+ },
+ {
+  "name": "Homing Instinct",
+  "type": "Virtue",
+  "description": "Virtue from Realms of Power: Magic that may result from repeated transportation.",
+  "evidence": [
+   "transforming-mythic-europe::0496"
+  ]
+ },
+ {
+  "name": "Monstrosity",
+  "type": "Flaw",
+  "description": "(Form) Monstrosity Flaw developed by warped spice trees.",
+  "evidence": [
+   "transforming-mythic-europe::0515"
+  ]
+ },
+ {
+  "name": "Boundless Wealth of the Oceans",
+  "type": "Spell",
+  "description": "CrAn 20 Ritual creating 3,000 pounds of identical pearls marked with the caster's sigil.",
+  "evidence": [
+   "transforming-mythic-europe::0512"
+  ]
+ },
+ {
+  "name": "The Wealth of Croesus",
+  "type": "Spell",
+  "description": "CrTe 30 Ritual creating 13,000 silver pennies bearing the magus's sigil.",
+  "evidence": [
+   "transforming-mythic-europe::0512",
+   "transforming-mythic-europe::0513"
+  ]
+ },
+ {
+  "name": "Potent Salts",
+  "type": "Item",
+  "description": "Charged Item of crystals that turn seawater into salt.",
+  "evidence": [
+   "transforming-mythic-europe::0516",
+   "transforming-mythic-europe::0517"
+  ]
+ },
+ {
+  "name": "Alchemical Separation of Brine",
+  "type": "Spell",
+  "description": "ReAq 4 effect of the Potent Salts converting salt water into pure salt.",
+  "evidence": [
+   "transforming-mythic-europe::0518"
+  ]
+ },
+ {
+  "name": "The Garland of Prosperous Harvests",
+  "type": "Item",
+  "aliases": [
+   "Garland of Prosperous Harvests"
+  ],
+  "description": "A pole with a wreath enchanted to grow plants rapidly and nourish orchards.",
+  "evidence": [
+   "transforming-mythic-europe::0519",
+   "transforming-mythic-europe::0520",
+   "transforming-mythic-europe::0521"
+  ]
+ },
+ {
+  "name": "A Harvest of Figs",
+  "type": "Spell",
+  "description": "CrHe 40 effect bringing a plant from seed to maturity in a day.",
+  "evidence": [
+   "transforming-mythic-europe::0519",
+   "transforming-mythic-europe::0522",
+   "transforming-mythic-europe::0515"
+  ]
+ },
+ {
+  "name": "Nourish the Displaced Vines",
+  "type": "Spell",
+  "description": "CrHe 19 effect permitting plants to grow well regardless of climate and soil.",
+  "evidence": [
+   "transforming-mythic-europe::0520",
+   "transforming-mythic-europe::0523",
+   "transforming-mythic-europe::0515"
+  ]
+ },
+ {
+  "name": "The Instant Harvest",
+  "type": "Spell",
+  "description": "35th-level spell that does the work of seven laborers.",
+  "evidence": [
+   "transforming-mythic-europe::0524"
+  ]
+ },
+ {
+  "name": "The Elfin Baker",
+  "type": "Spell",
+  "description": "ReHe(Aq) 20 spell creating 12 dozen loaves of bread from ingredients.",
+  "evidence": [
+   "transforming-mythic-europe::0524",
+   "transforming-mythic-europe::0528"
+  ]
+ },
+ {
+  "name": "The Elfin Brewer",
+  "type": "Spell",
+  "description": "Similar spell creating 12 dozen pints of ale.",
+  "evidence": [
+   "transforming-mythic-europe::0528"
+  ]
+ },
+ {
+  "name": "Fill the Capacious Silo",
+  "type": "Spell",
+  "description": "CrHe 20 Ritual creating about twenty thousand bushels of grain.",
+  "evidence": [
+   "transforming-mythic-europe::0525",
+   "transforming-mythic-europe::0526",
+   "transforming-mythic-europe::0529"
+  ]
+ },
+ {
+  "name": "Work of a Hundred Querns",
+  "type": "Spell",
+  "description": "ReHe 15 spell turning up to 10 bushels of grain into flour.",
+  "evidence": [
+   "transforming-mythic-europe::0527"
+  ]
+ },
+ {
+  "name": "Hermes Mercatorius & Hermes Furis",
+  "type": "Concept",
+  "description": "Saga seed where the Order becomes the richest institution through banking by House Mercere.",
+  "evidence": [
+   "transforming-mythic-europe::0534",
+   "transforming-mythic-europe::0535",
+   "transforming-mythic-europe::0536"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "description": "Covenant where the Mercere Primus used confiscated wealth as capital.",
+  "evidence": [
+   "transforming-mythic-europe::0534"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "description": "Head of a House, e.g. Primus of Mercere at Harco and of Verditius.",
+  "evidence": [
+   "transforming-mythic-europe::0534",
+   "transforming-mythic-europe::0577"
+  ]
+ },
+ {
+  "name": "Hermetic Generans",
+  "type": "Item",
+  "aliases": [
+   "The Hermetic Generans"
+  ],
+  "description": "Lesser Enchantment (ReTe 15) of an iron disc producing rotary motion like one horsepower.",
+  "evidence": [
+   "transforming-mythic-europe::0545",
+   "transforming-mythic-europe::0546",
+   "transforming-mythic-europe::0547"
+  ]
+ },
+ {
+  "name": "The Instant Breach",
+  "type": "Item",
+  "aliases": [
+   "Instant Breach"
+  ],
+  "description": "PeTe 15 Charged Item destroying a section of stone wall.",
+  "evidence": [
+   "transforming-mythic-europe::0550",
+   "transforming-mythic-europe::0552"
+  ]
+ },
+ {
+  "name": "Breaking the Captain's Baton",
+  "type": "Spell",
+  "description": "Spell (Magi of Hermes) turning trained soldiers into an untrained group.",
+  "evidence": [
+   "transforming-mythic-europe::0549"
+  ]
+ },
+ {
+  "name": "Dissolving the Wall of Shields",
+  "type": "Spell",
+  "description": "Spell (Houses of Hermes: Societates) turning trained soldiers into an untrained group.",
+  "evidence": [
+   "transforming-mythic-europe::0549",
+   "transforming-mythic-europe::0550"
+  ]
+ },
+ {
+  "name": "The Lancet of Good Health",
+  "type": "Item",
+  "aliases": [
+   "Lancet of Good Health"
+  ],
+  "description": "CrCo 25 scalpel giving +6 to Disease Recovery rolls.",
+  "evidence": [
+   "transforming-mythic-europe::0554",
+   "transforming-mythic-europe::0555",
+   "transforming-mythic-europe::0556"
+  ]
+ },
+ {
+  "name": "Sever the Connection",
+  "type": "Spell",
+  "description": "PeVi 20 reducing an Arcane Connection's duration by three magnitudes.",
+  "evidence": [
+   "transforming-mythic-europe::0568",
+   "transforming-mythic-europe::0569"
+  ]
+ },
+ {
+  "name": "Rusticani",
+  "type": "Faction",
+  "aliases": [
+   "Mechanicals"
+  ],
+  "description": "Hedge wizards of House Ex Miscellanea using Craft Magic, also known as Mechanicals.",
+  "evidence": [
+   "transforming-mythic-europe::0597"
+  ]
+ },
+ {
+  "name": "Craft Magic",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue letting the possessor enchant known magic into items.",
+  "evidence": [
+   "transforming-mythic-europe::0597"
+  ]
+ },
+ {
+  "name": "Touched by (Realm)",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue letting crafters make wondrous items without vis.",
+  "evidence": [
+   "transforming-mythic-europe::0596"
+  ]
+ },
+ {
+  "name": "Mathematici of Bologna",
+  "type": "Faction",
+  "description": "Learned magicians producing chartae swiftly.",
+  "evidence": [
+   "transforming-mythic-europe::0598"
+  ]
+ },
+ {
+  "name": "Alchemy",
+  "type": "Concept",
+  "description": "Experimental philosophy using natural magic to produce reagents.",
+  "evidence": [
+   "transforming-mythic-europe::0599",
+   "transforming-mythic-europe::0514"
+  ]
+ },
+ {
+  "name": "Greek Fire",
+  "type": "Item",
+  "description": "Alchemical reagent mass-produced by the Byzantine Empire.",
+  "evidence": [
+   "transforming-mythic-europe::0599"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Faction",
+  "description": "Empire that mass-produced Greek Fire.",
+  "evidence": [
+   "transforming-mythic-europe::0599"
+  ]
+ },
+ {
+  "name": "Inanis",
+  "type": "Concept",
+  "description": "Residue left behind when vis is imbued into an object.",
+  "evidence": [
+   "transforming-mythic-europe::0599"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability apprentices gain exposure in when making copies.",
+  "evidence": [
+   "transforming-mythic-europe::0576",
+   "transforming-mythic-europe::0585"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability used in Intelligence + Finesse rolls for spells.",
+  "evidence": [
+   "transforming-mythic-europe::0488",
+   "transforming-mythic-europe::0512",
+   "transforming-mythic-europe::0527"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability for maintaining effects and suppressing Parma.",
+  "evidence": [
+   "transforming-mythic-europe::0483",
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0494"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability the Plaustrum Pertinax can use.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0486"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "description": "Ability of the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability added when braced against an attack.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0495"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability of the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability of the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0485"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "description": "Ability of the Plaustrum Pertinax.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0485"
+  ]
+ },
+ {
+  "name": "Profession: Drover",
+  "type": "Ability",
+  "description": "Ability for damage rolls of the wagon.",
+  "evidence": [
+   "transforming-mythic-europe::0486"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [
+   "Re"
+  ],
+  "description": "Technique of control used in transportation and craft magic.",
+  "evidence": [
+   "transforming-mythic-europe::0498",
+   "transforming-mythic-europe::0500",
+   "transforming-mythic-europe::0518"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [
+   "Cr"
+  ],
+  "description": "Technique of creation used in wealth spells.",
+  "evidence": [
+   "transforming-mythic-europe::0512",
+   "transforming-mythic-europe::0522",
+   "transforming-mythic-europe::0526"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [
+   "Mu"
+  ],
+  "description": "Technique of transformation.",
+  "evidence": [
+   "transforming-mythic-europe::0491",
+   "transforming-mythic-europe::0494"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [
+   "Pe"
+  ],
+  "description": "Technique of destruction used in the Instant Breach.",
+  "evidence": [
+   "transforming-mythic-europe::0552",
+   "transforming-mythic-europe::0568"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [
+   "In"
+  ],
+  "description": "Technique of perception.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Co"
+  ],
+  "description": "Form of human bodies.",
+  "evidence": [
+   "transforming-mythic-europe::0483",
+   "transforming-mythic-europe::0488",
+   "transforming-mythic-europe::0493"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [
+   "Te"
+  ],
+  "description": "Form of earth and stone.",
+  "evidence": [
+   "transforming-mythic-europe::0482",
+   "transforming-mythic-europe::0490",
+   "transforming-mythic-europe::0512"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [
+   "He"
+  ],
+  "description": "Form of plants.",
+  "evidence": [
+   "transforming-mythic-europe::0484",
+   "transforming-mythic-europe::0490",
+   "transforming-mythic-europe::0522"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [
+   "An"
+  ],
+  "description": "Form of animals.",
+  "evidence": [
+   "transforming-mythic-europe::0489",
+   "transforming-mythic-europe::0512"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [
+   "Im"
+  ],
+  "description": "Form of images.",
+  "evidence": [
+   "transforming-mythic-europe::0484"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [
+   "Au"
+  ],
+  "description": "Form of air.",
+  "evidence": [
+   "transforming-mythic-europe::0491",
+   "transforming-mythic-europe::0494"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [
+   "Aq"
+  ],
+  "description": "Form of water.",
+  "evidence": [
+   "transforming-mythic-europe::0517",
+   "transforming-mythic-europe::0518",
+   "transforming-mythic-europe::0528"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [
+   "Vi"
+  ],
+  "description": "Form of magic.",
+  "evidence": [
+   "transforming-mythic-europe::0568"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "the Enemy"
+  ],
+  "description": "Realm the starving might turn toward.",
+  "evidence": [
+   "transforming-mythic-europe::0542"
+  ]
+ },
+ {
+  "name": "Normandy",
+  "type": "Place",
+  "description": "Region whose covenants crashed the economy of Flanders.",
+  "evidence": [
+   "transforming-mythic-europe::0534"
+  ]
+ },
+ {
+  "name": "Flanders",
+  "type": "Place",
+  "description": "Region whose economy crashed.",
+  "evidence": [
+   "transforming-mythic-europe::0534"
+  ]
+ },
+ {
+  "name": "Genoa",
+  "type": "Place",
+  "description": "City of warehouses and merchant consignments.",
+  "evidence": [
+   "transforming-mythic-europe::0501",
+   "transforming-mythic-europe::0502"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "description": "City of warehouses.",
+  "evidence": [
+   "transforming-mythic-europe::0501",
+   "transforming-mythic-europe::0502"
+  ]
+ },
+ {
+  "name": "Nishapur",
+  "type": "Place",
+  "description": "Persian city sourcing turquoise and malachite.",
+  "evidence": [
+   "transforming-mythic-europe::0501"
+  ]
+ },
+ {
+  "name": "Badakhshan",
+  "type": "Place",
+  "description": "Single source of lapis lazuli.",
+  "evidence": [
+   "transforming-mythic-europe::0501"
+  ]
+ },
+ {
+  "name": "Persia",
+  "type": "Place",
+  "description": "Source of turquoise, pearls and spices.",
+  "evidence": [
+   "transforming-mythic-europe::0501",
+   "transforming-mythic-europe::0511",
+   "transforming-mythic-europe::0519"
+  ]
+ },
+ {
+  "name": "Serica",
+  "type": "Place",
+  "description": "Distant source of silk.",
+  "evidence": [
+   "transforming-mythic-europe::0501",
+   "transforming-mythic-europe::0502"
+  ]
+ },
+ {
+  "name": "Hind",
+  "type": "Place",
+  "description": "Semi-mythical source of diamonds and spices.",
+  "evidence": [
+   "transforming-mythic-europe::0501",
+   "transforming-mythic-europe::0502",
+   "transforming-mythic-europe::0519"
+  ]
+ },
+ {
+  "name": "Soqotra",
+  "type": "Place",
+  "description": "Home of perfume-sorcerers.",
+  "evidence": [
+   "transforming-mythic-europe::0515"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "City fallen in 1204.",
+  "evidence": [
+   "transforming-mythic-europe::0599"
+  ]
+ },
+ {
+  "name": "Mediterranean Sea",
+  "type": "Place",
+  "description": "Sea where 10 percent of ships are lost.",
+  "evidence": [
+   "transforming-mythic-europe::0501"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting.",
+  "evidence": [
+   "transforming-mythic-europe::0480",
+   "transforming-mythic-europe::0501",
+   "transforming-mythic-europe::0583"
+  ]
+ },
+ {
+  "name": "Pliny the Elder",
+  "type": "Character",
+  "description": "Classical authority on pearls and spices.",
+  "evidence": [
+   "transforming-mythic-europe::0511",
+   "transforming-mythic-europe::0512",
+   "transforming-mythic-europe::0519"
+  ]
+ },
+ {
+  "name": "Hugh of Saint Victor",
+  "type": "Character",
+  "description": "Author of a list of seven mechanical arts.",
+  "evidence": [
+   "transforming-mythic-europe::0566"
+  ]
+ },
+ {
+  "name": "Plato",
+  "type": "Character",
+  "description": "Philosopher dividing technologies into productive and acquisitive arts.",
+  "evidence": [
+   "transforming-mythic-europe::0565"
+  ]
+ },
+ {
+  "name": "Hermes",
+  "type": "Character",
+  "aliases": [
+   "Mercury"
+  ],
+  "description": "God depicted as merchant and thief; Roman counterpart Mercury.",
+  "evidence": [
+   "transforming-mythic-europe::0534"
+  ]
+ },
+ {
+  "name": "Croesus",
+  "type": "Character",
+  "description": "Namesake of The Wealth of Croesus spell.",
+  "evidence": [
+   "transforming-mythic-europe::0512"
+  ]
+ },
+ {
+  "name": "Ned Ludd",
+  "type": "Character",
+  "description": "Name attached to Luddite manifestos.",
+  "evidence": [
+   "transforming-mythic-europe::0585"
+  ]
+ },
+ {
+  "name": "Luddites",
+  "type": "Faction",
+  "description": "Movement destroying textile factories; proto-Luddites might harass covenants.",
+  "evidence": [
+   "transforming-mythic-europe::0585",
+   "transforming-mythic-europe::0586"
+  ]
+ },
+ {
+  "name": "Artes Mechanicae",
+  "type": "Concept",
+  "aliases": [
+   "mechanical arts"
+  ],
+  "description": "The mechanical arts, elevated in the 13th century.",
+  "evidence": [
+   "transforming-mythic-europe::0565",
+   "transforming-mythic-europe::0566"
+  ]
+ },
+ {
+  "name": "Perfume-sorcerers of Soqotra",
+  "type": "Faction",
+  "description": "Sorcerers sent by spirits guarding incense trees.",
+  "evidence": [
+   "transforming-mythic-europe::0515"
+  ]
+ }
+]

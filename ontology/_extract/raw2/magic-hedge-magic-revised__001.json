@@ -1,0 +1,2831 @@
+[
+ {
+  "name": "Summoning",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Technique, based on Stamina, of drawing elements, animals or elementals from the surrounding area; costs a long-term Fatigue level.",
+  "evidence": [
+   "magic-hedge-magic-revised::0120",
+   "magic-hedge-magic-revised::0121",
+   "magic-hedge-magic-revised::0123"
+  ]
+ },
+ {
+  "name": "Controlling",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Technique based on Presence that lets an elementalist dictate the behavior of summoned or encountered targets via gesture and incantation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0132",
+   "magic-hedge-magic-revised::0133",
+   "magic-hedge-magic-revised::0136"
+  ]
+ },
+ {
+  "name": "Divining",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Technique based on Perception used to locate and commune with elements and elemental targets; costs no Fatigue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0137",
+   "magic-hedge-magic-revised::0138",
+   "magic-hedge-magic-revised::0141"
+  ]
+ },
+ {
+  "name": "Refining",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Technique taking a season of lab-like work to purify or break down a target, often yielding raw vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0143",
+   "magic-hedge-magic-revised::0146"
+  ]
+ },
+ {
+  "name": "Elementalist Air",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Form for air; associated with the sanguine temperament and yields Auram vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0123",
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Elementalist Earth",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Form for earth; associated with the melancholic temperament.",
+  "evidence": [
+   "magic-hedge-magic-revised::0140",
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Elementalist Fire",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Form for fire; associated with choleric temperament and produces Ignem vis when Refining.",
+  "evidence": [
+   "magic-hedge-magic-revised::0123",
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Elementalist Water",
+  "type": "Art",
+  "aliases": [],
+  "description": "Elementalist Form for water; yields Aquam vis when Refining.",
+  "evidence": [
+   "magic-hedge-magic-revised::0133",
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Elementalist Arts",
+  "type": "Concept",
+  "aliases": [
+   "Elementalist Techniques",
+   "Elementalist Forms"
+  ],
+  "description": "The Techniques and Forms of elementalist magic, traditionally said to have been developed by Apollonius of Tyana and his followers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0152",
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Theurgical Summoning",
+  "type": "Virtue",
+  "aliases": [
+   "(Theurgical) Summoning"
+  ],
+  "description": "Virtue granting Summoning of elementals from pure base material.",
+  "evidence": [
+   "magic-hedge-magic-revised::0120",
+   "magic-hedge-magic-revised::0129",
+   "magic-hedge-magic-revised::0151"
+  ]
+ },
+ {
+  "name": "Theurgical Controlling",
+  "type": "Virtue",
+  "aliases": [
+   "(Theurgical) Controlling"
+  ],
+  "description": "Virtue letting an elemental theurgist command supernatural beings with Might of the appropriate element.",
+  "evidence": [
+   "magic-hedge-magic-revised::0136",
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Philosophical Summoning",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for conjuring natural phenomena, matter, or animals of an element; taught by Ikhwan as-Safa'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0127",
+   "magic-hedge-magic-revised::0157",
+   "magic-hedge-magic-revised::0160"
+  ]
+ },
+ {
+  "name": "Philosophical Refining",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue letting an elemental philosopher extract and move vis; gained via the Blood Oath of Ikhwan as-Safa'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0145",
+   "magic-hedge-magic-revised::0157",
+   "magic-hedge-magic-revised::0161"
+  ]
+ },
+ {
+  "name": "Medicinal Summoning",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for altering bodily humors to cure or cause disease; taught by Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0126",
+   "magic-hedge-magic-revised::0167",
+   "magic-hedge-magic-revised::0175"
+  ]
+ },
+ {
+  "name": "Medicinal Divining",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for sensing imbalanced humors and diagnosing illness; taught by Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0139",
+   "magic-hedge-magic-revised::0167",
+   "magic-hedge-magic-revised::0170"
+  ]
+ },
+ {
+  "name": "Elemental Medicine",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major background Virtue of elemental physicians; acquired through the Ritual of Improving the Physician's Character.",
+  "evidence": [
+   "magic-hedge-magic-revised::0172",
+   "magic-hedge-magic-revised::0174",
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Elemental Philosophiae",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major background Virtue of elemental philosophers, acquired through the Ritual of Making the Soul Actually Knowledgeable.",
+  "evidence": [
+   "magic-hedge-magic-revised::0163",
+   "magic-hedge-magic-revised::0165",
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Elemental Theurgy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Special background Virtue of elemental theurgists that could be converted into a Hermetic Virtue with a Minor Breakthrough.",
+  "evidence": [
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Elemental Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Hermetic Virtue already possessed by some magi; might be an Outer Mystery of a Hermetic Elementalist cult.",
+  "evidence": [
+   "magic-hedge-magic-revised::0178",
+   "magic-hedge-magic-revised::0179"
+  ]
+ },
+ {
+  "name": "Affinity with Controlling",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Elisavet improving her Controlling Art.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue common among Tulab Ibn Sina; allows Islamic characters to allocate experience to Arabic, Theology (Islam) and more.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue frequently possessed by Tulab Ibn Sina members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Famous",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue frequently possessed by Tulab Ibn Sina members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Privileged Upbringing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue frequently possessed by Tulab Ibn Sina members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue frequently possessed by Tulab Ibn Sina members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue frequently possessed by Tulab Ibn Sina members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue letting a folk witch spend three seasons a year on laboratory activities; common among Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176",
+   "magic-hedge-magic-revised::0184",
+   "magic-hedge-magic-revised::0185"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue frequently possessed by Tulab Ibn Sina members.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Folk Witch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Social Status Virtue for characters trained as folk witches, allowing potions, folk witch casting methods and coven membership.",
+  "evidence": [
+   "magic-hedge-magic-revised::0183",
+   "magic-hedge-magic-revised::0188"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue / Supernatural Ability letting a folk witch cast curses via fetishes or potions; Form depends on the curse.",
+  "evidence": [
+   "magic-hedge-magic-revised::0190",
+   "magic-hedge-magic-revised::0214",
+   "magic-hedge-magic-revised::0233"
+  ]
+ },
+ {
+  "name": "Healing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue / Supernatural Ability for true healing of wounds and Fatigue, breaking the Limit of Energy at a Corpus vis cost.",
+  "evidence": [
+   "magic-hedge-magic-revised::0191",
+   "magic-hedge-magic-revised::0220"
+  ]
+ },
+ {
+  "name": "Life-Linked Folk Witch Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue letting a folk witch spend Fatigue levels to boost her Casting Total by 5 each.",
+  "evidence": [
+   "magic-hedge-magic-revised::0192"
+  ]
+ },
+ {
+  "name": "Animal Healer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting the Animal Healing Ability, which heals animals using Animal vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0193"
+  ]
+ },
+ {
+  "name": "Concentrated Potions",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue allowing a folk witch to use up to four times her Folk Witch Magic Theory in vis when brewing.",
+  "evidence": [
+   "magic-hedge-magic-revised::0194"
+  ]
+ },
+ {
+  "name": "Expert Potion Brewer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue doubling the Supernatural Ability in the Lab Total when brewing potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0195"
+  ]
+ },
+ {
+  "name": "Flight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue / Supernatural Ability to fly, using Stamina and Auram, via fetish (broom) or potion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0196",
+   "magic-hedge-magic-revised::0219",
+   "magic-hedge-magic-revised::0235"
+  ]
+ },
+ {
+  "name": "Painless Moon",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue: the folk witch suffers no Medium Wound during her Witch's Moon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0197"
+  ]
+ },
+ {
+  "name": "Well-Trained Folk Witch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Virtue granting 50 extra experience points during folk witch apprenticeship.",
+  "evidence": [
+   "magic-hedge-magic-revised::0198"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Hermetic Virtue suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Adept Laboratory Student",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Cautious Sorcerer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Cyclic Magic (positive)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Fast Caster",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Free Study",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Harnessed Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Magical Memory",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Quiet Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Side Effect",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Special Circumstances",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Subtle Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Outcast",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by the elementalist Elisavet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Meddler",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw possessed by Elisavet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Being",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Elisavet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Elisavet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Vulnerable to (Form)",
+  "type": "Flaw",
+  "aliases": [
+   "Vulnerable to Elementalist Earth"
+  ],
+  "description": "Elementalist Flaw, e.g. Vulnerable to Elementalist Earth, possibly received from a flawed Opening of society Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0149",
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Deleterious Circumstances",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Elementalist/Hermetic Flaw a student may receive from an inadequate Opening; also suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0149",
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Weak Elementalist Resistance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw gained through the Blood Oath of Becoming a Member of Ikhwan as-Safa'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0161"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw gained from initiation; the mentor is the initiation sponsor.",
+  "evidence": [
+   "magic-hedge-magic-revised::0162"
+  ]
+ },
+ {
+  "name": "Study Requirement",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw acquired from the highest initiations of Ikhwan as-Safa' and Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0163",
+   "magic-hedge-magic-revised::0172"
+  ]
+ },
+ {
+  "name": "Restriction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Flaw (e.g. cannot affect himself) gained from the Rite of Testing the Physician's Dedication; also a Major Hermetic Flaw for folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0170",
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Vow",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw requiring the character to find and train a suitable student in the Tulab Ibn Sina tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0171"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw acquired through the Rite of Opening the Mind.",
+  "evidence": [
+   "magic-hedge-magic-revised::0173",
+   "magic-hedge-magic-revised::0174"
+  ]
+ },
+ {
+  "name": "Driven",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typical of Ikhwan as-Safa' or Tulab Ibn Sina members owing to their devotion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0166",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typical of Ikhwan as-Safa' or Tulab Ibn Sina members owing to their devotion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0166",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Obsessed",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typical of Ikhwan as-Safa' or Tulab Ibn Sina members owing to their devotion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0166",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Oversensitive",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typical of Ikhwan as-Safa' or Tulab Ibn Sina members owing to their devotion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0166",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typical of Ikhwan as-Safa' or Tulab Ibn Sina members owing to their devotion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0166",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Temperate",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typical of Ikhwan as-Safa' or Tulab Ibn Sina members owing to their devotion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0166",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw limiting a folk witch to one season of laboratory activity per year.",
+  "evidence": [
+   "magic-hedge-magic-revised::0184",
+   "magic-hedge-magic-revised::0185"
+  ]
+ },
+ {
+  "name": "Folk Witch Gift Opening",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw: a Gifted folk witch's Opening failed to favor one of the seven folk witch Supernatural Abilities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0189"
+  ]
+ },
+ {
+  "name": "Primitive Tradition",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Supernatural Flaw: the folk witch cannot brew potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0199"
+  ]
+ },
+ {
+  "name": "Rarefied Tradition",
+  "type": "Flaw",
+  "aliases": [
+   "Rarified Tradition"
+  ],
+  "description": "Major Supernatural Flaw: the folk witch can only use Supernatural Abilities via potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0200",
+   "magic-hedge-magic-revised::0203"
+  ]
+ },
+ {
+  "name": "Harsh Moon",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Flaw: the folk witch suffers a Heavy Wound during each Witch's Moon.",
+  "evidence": [
+   "magic-hedge-magic-revised::0201"
+  ]
+ },
+ {
+  "name": "Short-Ranged Curses",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Flaw: curse fetishes only work within 100 yards of the target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0202"
+  ]
+ },
+ {
+  "name": "Silent Tradition",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Flaw: the folk witch cannot use the incantation casting method.",
+  "evidence": [
+   "magic-hedge-magic-revised::0203"
+  ]
+ },
+ {
+  "name": "Unstable Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Flaw: folk witch lab creations decay after a year and a day.",
+  "evidence": [
+   "magic-hedge-magic-revised::0204"
+  ]
+ },
+ {
+  "name": "Poorly Trained Folk Witch",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw: 50 fewer apprenticeship experience points.",
+  "evidence": [
+   "magic-hedge-magic-revised::0205"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Difficult Longevity Ritual",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Necessary Condition",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Painful Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Rigid Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Waster of Vis",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Careless Sorcerer",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Creative Block",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Cyclic Magic (negative)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Disorientating Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Susceptibility to Divine Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Susceptibility to Faerie Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Susceptibility to Infernal Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Unimaginative Learner",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Warped Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Weak Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Weird Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw listed as suitable for Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Folk witch Supernatural Ability (Communication, Animal) used via incantation or potion; grants Magical Fortitude and Accelerated Expiry defenses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0184",
+   "magic-hedge-magic-revised::0213",
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Folk witch Supernatural Ability (Perception) used via fetish rod or potion, important for finding vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0218",
+   "magic-hedge-magic-revised::0223",
+   "magic-hedge-magic-revised::0234"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Folk witch Supernatural Ability (Perception, Vim) used by incantation or potion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0184",
+   "magic-hedge-magic-revised::0221",
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Folk witch Supernatural Ability (Stamina, Animal) using an enchanted animal skin fetish or potion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0222",
+   "magic-hedge-magic-revised::0223",
+   "magic-hedge-magic-revised::0236"
+  ]
+ },
+ {
+  "name": "Animal Healing",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability granted by Animal Healer that heals animals using Animal vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0193"
+  ]
+ },
+ {
+  "name": "Folk Witch Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability analogous to Magic Theory, covering the technical details of folk witch magic and used in lab activities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0185",
+   "magic-hedge-magic-revised::0224",
+   "magic-hedge-magic-revised::0225"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic Arcane Ability; elementalists use other Abilities instead of it for Refining.",
+  "evidence": [
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0178",
+   "magic-hedge-magic-revised::0225"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability added by elemental physicians to Refining Totals; core to Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0144",
+   "magic-hedge-magic-revised::0170",
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability required for Tulab Ibn Sina initiations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0170",
+   "magic-hedge-magic-revised::0171",
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability added to Philosophical Refining Totals and required by Ikhwan as-Safa' grades.",
+  "evidence": [
+   "magic-hedge-magic-revised::0145",
+   "magic-hedge-magic-revised::0160",
+   "magic-hedge-magic-revised::0165"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability required by Ikhwan as-Safa' and Tulab Ibn Sina initiations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0160",
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Theology (Islam)",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Academic Ability required for the fourth grade of the Brethren of Purity and for Tulab Ibn Sina rites.",
+  "evidence": [
+   "magic-hedge-magic-revised::0160",
+   "magic-hedge-magic-revised::0161",
+   "magic-hedge-magic-revised::0174"
+  ]
+ },
+ {
+  "name": "Arabic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language Ability required for Ikhwan as-Safa' grades and Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0160",
+   "magic-hedge-magic-revised::0161",
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Islamic Law",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability equivalent to Canon Law in the West, available to Educated characters in Islamic lands.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "(Realm) Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability added by elemental theurgists to Refining Totals and studied secretly by the Brethren.",
+  "evidence": [
+   "magic-hedge-magic-revised::0146",
+   "magic-hedge-magic-revised::0165"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability; Elisavet has it with specialty elementals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0154"
+  ]
+ },
+ {
+  "name": "Organization Lore: Brethren of Purity",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization Lore Ability known by all Brethren of Purity.",
+  "evidence": [
+   "magic-hedge-magic-revised::0165"
+  ]
+ },
+ {
+  "name": "Organization Lore: Students of Avicenna",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization Lore Ability focused on by Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Organization Lore: Folk Witch",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to recognize a folk witch's mark.",
+  "evidence": [
+   "magic-hedge-magic-revised::0186",
+   "magic-hedge-magic-revised::0212"
+  ]
+ },
+ {
+  "name": "Apostles of Apollonius Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Organization lore Ability possessed by Elisavet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0154"
+  ]
+ },
+ {
+  "name": "Mediterranean Sea Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Area Lore Ability possessed by Elisavet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0154"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability acquired through the Rite of Opening the Mind.",
+  "evidence": [
+   "magic-hedge-magic-revised::0173",
+   "magic-hedge-magic-revised::0174"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability for overcoming Magic Resistance; recommended for folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0154",
+   "magic-hedge-magic-revised::0186",
+   "magic-hedge-magic-revised::0237"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to maintain control and recall lost incantations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0154",
+   "magic-hedge-magic-revised::0186",
+   "magic-hedge-magic-revised::0209"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability recommended for folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0186"
+  ]
+ },
+ {
+  "name": "Profession (Scribe)",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability useful to a literate folk witch copying texts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0186"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used for complex flying maneuvers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0219"
+  ]
+ },
+ {
+  "name": "Mythic Alchemy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Learned magic known by many Ikhwan as-Safa'.",
+  "evidence": [
+   "magic-hedge-magic-revised::0165"
+  ]
+ },
+ {
+  "name": "Mythic Herbalism",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Learned magic known by some Ikhwan as-Safa' and Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0165",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of water; fire elementals seek out Aquam vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0130",
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of air; used by Flight and flying-aid enchantment.",
+  "evidence": [
+   "magic-hedge-magic-revised::0129",
+   "magic-hedge-magic-revised::0219",
+   "magic-hedge-magic-revised::0235"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of fire; Refining with Elementalist Fire yields Ignem vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0130",
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of earth.",
+  "evidence": [
+   "magic-hedge-magic-revised::0129",
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used for Second Sight and folk witch vis extraction.",
+  "evidence": [
+   "magic-hedge-magic-revised::0145",
+   "magic-hedge-magic-revised::0221",
+   "magic-hedge-magic-revised::0230"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used for Healing and many curses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0214",
+   "magic-hedge-magic-revised::0220"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used by emotion and tongue curses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0182",
+   "magic-hedge-magic-revised::0214"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form used for Animal Ken, Shapeshifter and beast curses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0193",
+   "magic-hedge-magic-revised::0213",
+   "magic-hedge-magic-revised::0222"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique; Intellego vis is used to enchant a dowsing rod.",
+  "evidence": [
+   "magic-hedge-magic-revised::0234"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique; Rego Mentem magic used to enslave folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0182"
+  ]
+ },
+ {
+  "name": "Elisavet",
+  "type": "Character",
+  "aliases": [
+   "Psychorrhax"
+  ],
+  "description": "Apostle of Apollonius elemental theurgist, 51, exiled daughter of a Hermetic advisor, living on a Mediterranean island with a bound air elemental.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0154",
+   "magic-hedge-magic-revised::0155"
+  ]
+ },
+ {
+  "name": "Apollonius of Tyana",
+  "type": "Character",
+  "aliases": [],
+  "description": "First-century miracle worker whom elementalists believe first developed the Elementalist Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0152"
+  ]
+ },
+ {
+  "name": "Flavius Philostratus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Third-century biographer of Apollonius of Tyana.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151"
+  ]
+ },
+ {
+  "name": "Ibn Sina",
+  "type": "Character",
+  "aliases": [
+   "Avicenna",
+   "Abu Ali al-Hussain Ibn Abdallah Ibn Sina"
+  ],
+  "description": "Abu Ali al-Hussain Ibn Abdallah Ibn Sina (b. 980 near Bukhara), Gifted physician and founder of the Tulab Ibn Sina; entombed in Hamadan.",
+  "evidence": [
+   "magic-hedge-magic-revised::0168",
+   "magic-hedge-magic-revised::0169",
+   "magic-hedge-magic-revised::0173"
+  ]
+ },
+ {
+  "name": "Sultan of Bukhara",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ruler cured by Ibn Sina who rewarded him with access to his library.",
+  "evidence": [
+   "magic-hedge-magic-revised::0168"
+  ]
+ },
+ {
+  "name": "Empedocles",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek teacher whose philosophy influenced the first elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151"
+  ]
+ },
+ {
+  "name": "Galen",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek teacher whose philosophy influenced the first elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151"
+  ]
+ },
+ {
+  "name": "Pythagoras",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek teacher whose philosophy influenced the first elementalists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Socrates",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Plato",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Aristotle",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158",
+   "magic-hedge-magic-revised::0168"
+  ]
+ },
+ {
+  "name": "Plotinus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Euclid",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Ptolemy",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Porphyry",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Iamblichus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Greek philosopher whose teachings the Brethren of Purity combined in their encyclopedia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Hippocrates",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient physician whose teachings Ibn Sina combined with Persian, Arab and Indian magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0168"
+  ]
+ },
+ {
+  "name": "Nero",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman emperor in whose last years Apollonius travelled through Rome and Iberia.",
+  "evidence": [
+   "magic-hedge-magic-revised::0152"
+  ]
+ },
+ {
+  "name": "Apostles of Apollonius",
+  "type": "Faction",
+  "aliases": [
+   "Apostles"
+  ],
+  "description": "Elementalist society teaching Theurgical Summoning and Controlling; ascetic, pious summoners rare but found across Mythic Europe in 1220.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0152",
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Ikhwan as-Safa'",
+  "type": "Faction",
+  "aliases": [
+   "Brethren of Purity",
+   "Ilkhwan as-Safa'",
+   "The Brethren"
+  ],
+  "description": "Brethren of Purity: secretive tenth-century Isma'ili fraternity from Basra teaching Philosophical Summoning and Refining through four grades.",
+  "evidence": [
+   "magic-hedge-magic-revised::0157",
+   "magic-hedge-magic-revised::0158",
+   "magic-hedge-magic-revised::0159"
+  ]
+ },
+ {
+  "name": "Tulab Ibn Sina",
+  "type": "Faction",
+  "aliases": [
+   "Students of Avicenna"
+  ],
+  "description": "Students of Avicenna: elementalist tradition of accomplished Islamic physicians teaching Medicinal Summoning and Divining.",
+  "evidence": [
+   "magic-hedge-magic-revised::0167",
+   "magic-hedge-magic-revised::0169",
+   "magic-hedge-magic-revised::0176"
+  ]
+ },
+ {
+  "name": "Elementalist Societies",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Groups of likeminded elementalists sharing particular Techniques and Forms; initiating members via Mystery Cult rules.",
+  "evidence": [
+   "magic-hedge-magic-revised::0149",
+   "magic-hedge-magic-revised::0150"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Hermetic order; generally regards elementalists and folk witches as curiosities of little threat.",
+  "evidence": [
+   "magic-hedge-magic-revised::0147",
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0181"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [],
+  "description": "House that Gifted elementalists would likely be invited to join.",
+  "evidence": [
+   "magic-hedge-magic-revised::0178",
+   "magic-hedge-magic-revised::0179"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Criamon magi near the Cave of Twisting Shadows support a group of Apostles of Apollonius.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Tytalus magi in a story seed who enslaved a folk witch coven to brew Fatigue potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0182"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "Bonisagus magi might have researched folk witch Fatigue potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0182"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Tremere certamen masters might suspect the Tytalus cabal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0182"
+  ]
+ },
+ {
+  "name": "Isma'ili",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Sect of Shi'i Islam to which the founders of the Brethren of Purity belonged; oppressed in many areas.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158",
+   "magic-hedge-magic-revised::0159",
+   "magic-hedge-magic-revised::0166"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Frowns upon folk witches as pagan remnants but largely ignores them.",
+  "evidence": [
+   "magic-hedge-magic-revised::0180",
+   "magic-hedge-magic-revised::0181"
+  ]
+ },
+ {
+  "name": "Coven",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Small localized group of folk witches, usually an elder mother and daughters.",
+  "evidence": [
+   "magic-hedge-magic-revised::0181",
+   "magic-hedge-magic-revised::0183",
+   "magic-hedge-magic-revised::0188"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Cult through which elementalists learn additional Techniques; may guard elementalist discoveries.",
+  "evidence": [
+   "magic-hedge-magic-revised::0149",
+   "magic-hedge-magic-revised::0179"
+  ]
+ },
+ {
+  "name": "Hermetic Elementalist",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Possible Hermetic mystery cult for which Elemental Magic may be an Outer Mystery.",
+  "evidence": [
+   "magic-hedge-magic-revised::0179"
+  ]
+ },
+ {
+  "name": "Elementalist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hedge wizard practising elemental magic through Elementalist Techniques and Forms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0120",
+   "magic-hedge-magic-revised::0121",
+   "magic-hedge-magic-revised::0149"
+  ]
+ },
+ {
+  "name": "Elemental Physician",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Elementalist of the Medicinal type who manipulates bodily humors.",
+  "evidence": [
+   "magic-hedge-magic-revised::0126",
+   "magic-hedge-magic-revised::0133",
+   "magic-hedge-magic-revised::0144"
+  ]
+ },
+ {
+  "name": "Elemental Philosopher",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Elementalist of the Philosophical type who conjures natural phenomena, matter and animals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0127",
+   "magic-hedge-magic-revised::0135",
+   "magic-hedge-magic-revised::0145"
+  ]
+ },
+ {
+  "name": "Elemental Theurgist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Elementalist of the Theurgical type who summons and commands elementals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0129",
+   "magic-hedge-magic-revised::0136",
+   "magic-hedge-magic-revised::0146"
+  ]
+ },
+ {
+  "name": "Folk Witch",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Widespread, mostly unGifted hedge tradition of village witches using potions, incantations and fetishes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0180",
+   "magic-hedge-magic-revised::0183",
+   "magic-hedge-magic-revised::0207"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic magician.",
+  "evidence": [
+   "magic-hedge-magic-revised::0147"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigator whose ratification may be needed for Order membership.",
+  "evidence": [
+   "magic-hedge-magic-revised::0147",
+   "magic-hedge-magic-revised::0182"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic wizard.",
+  "evidence": [
+   "magic-hedge-magic-revised::0123",
+   "magic-hedge-magic-revised::0207"
+  ]
+ },
+ {
+  "name": "Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Supernatural being summoned from base material; does not recover Might except by eating vis and reverts when Might is spent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0129",
+   "magic-hedge-magic-revised::0130",
+   "magic-hedge-magic-revised::0131"
+  ]
+ },
+ {
+  "name": "Fire Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental of fire; prefers to consume Aquam vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0127",
+   "magic-hedge-magic-revised::0130"
+  ]
+ },
+ {
+  "name": "Air Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental of air, e.g. with Auram powers; Elisavet has one bound to a tree.",
+  "evidence": [
+   "magic-hedge-magic-revised::0129",
+   "magic-hedge-magic-revised::0132",
+   "magic-hedge-magic-revised::0155"
+  ]
+ },
+ {
+  "name": "Earth Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental of earth with Terram powers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0129"
+  ]
+ },
+ {
+  "name": "Water Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental of water.",
+  "evidence": [
+   "magic-hedge-magic-revised::0138"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A folk witch's familiar can assist her in her kitchen.",
+  "evidence": [
+   "magic-hedge-magic-revised::0227"
+  ]
+ },
+ {
+  "name": "Humors",
+  "type": "Concept",
+  "aliases": [
+   "bodily humors"
+  ],
+  "description": "The four bodily humors (blood, black bile, yellow bile, phlegm) manipulated by elemental physicians.",
+  "evidence": [
+   "magic-hedge-magic-revised::0126",
+   "magic-hedge-magic-revised::0133",
+   "magic-hedge-magic-revised::0139"
+  ]
+ },
+ {
+  "name": "Temperament",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dominant temperament of animals and people (choleric, melancholic, phlegmatic, sanguine) linked to elements.",
+  "evidence": [
+   "magic-hedge-magic-revised::0127",
+   "magic-hedge-magic-revised::0162",
+   "magic-hedge-magic-revised::0171"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Raw magical power, in pawns of a Form; produced, consumed and moved by elementalists and folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0130",
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0230"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Might Pool"
+  ],
+  "description": "Measure of supernatural beings' power; elementals' Might Pool can be drained or restored.",
+  "evidence": [
+   "magic-hedge-magic-revised::0121",
+   "magic-hedge-magic-revised::0129",
+   "magic-hedge-magic-revised::0146"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance that elementalist and folk witch effects must penetrate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0124",
+   "magic-hedge-magic-revised::0126",
+   "magic-hedge-magic-revised::0214"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Local supernatural aura added to elementalist and folk witch totals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0121",
+   "magic-hedge-magic-revised::0185",
+   "magic-hedge-magic-revised::0228"
+  ]
+ },
+ {
+  "name": "Summoning Circle",
+  "type": "Concept",
+  "aliases": [
+   "magical container"
+  ],
+  "description": "Magical container traced by an elementalist to bind a summoned target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0123",
+   "magic-hedge-magic-revised::0124"
+  ]
+ },
+ {
+  "name": "Longevity Potion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Elementalist or folk-witch potion similar to a Hermetic longevity ritual giving a bonus to Aging rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0144",
+   "magic-hedge-magic-revised::0215"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic ritual Elisavet seeks.",
+  "evidence": [
+   "magic-hedge-magic-revised::0156"
+  ]
+ },
+ {
+  "name": "Opening the Gift",
+  "type": "Concept",
+  "aliases": [
+   "Opening of The Gift"
+  ],
+  "description": "Mechanism by which a Gifted student is opened to a tradition's favored Arts or Abilities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0149",
+   "magic-hedge-magic-revised::0184",
+   "magic-hedge-magic-revised::0189"
+  ]
+ },
+ {
+  "name": "Opening Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Total (Intelligence + highest Technique + lowest Form + aura) used to open society Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0149"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Innate magical talent; its social effects forced Ibn Sina to travel and cause suspicion of Gifted folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0168",
+   "magic-hedge-magic-revised::0180",
+   "magic-hedge-magic-revised::0184"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery process by which unGifted members gain Arts and Virtues via Scripts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0150",
+   "magic-hedge-magic-revised::0160",
+   "magic-hedge-magic-revised::0184"
+  ]
+ },
+ {
+  "name": "Initiation Script",
+  "type": "Concept",
+  "aliases": [
+   "Script"
+  ],
+  "description": "Structured initiation with Ease Factor and Script Bonus (Quest, Ordeal, etc.).",
+  "evidence": [
+   "magic-hedge-magic-revised::0160",
+   "magic-hedge-magic-revised::0161",
+   "magic-hedge-magic-revised::0162"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Code of the Order; covenants accuse each other of breaking it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0147"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Oath"
+  ],
+  "description": "Oath sworn to join the Order of Hermes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0147"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic court where disputes like the elementalist case are adjudicated.",
+  "evidence": [
+   "magic-hedge-magic-revised::0147",
+   "magic-hedge-magic-revised::0148",
+   "magic-hedge-magic-revised::0181"
+  ]
+ },
+ {
+  "name": "Hermetic Integration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Translating elementalist or folk witch magic into Hermetic theory via breakthroughs.",
+  "evidence": [
+   "magic-hedge-magic-revised::0178",
+   "magic-hedge-magic-revised::0229"
+  ]
+ },
+ {
+  "name": "Minor Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Research breakthrough converting elementalist Virtues into Hermetic Virtues.",
+  "evidence": [
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Major Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Research breakthrough adapting an Elementalist Art to Hermetic magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0178"
+  ]
+ },
+ {
+  "name": "Outer Mystery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery known outside a cult; Elemental Magic may be one.",
+  "evidence": [
+   "magic-hedge-magic-revised::0179"
+  ]
+ },
+ {
+  "name": "Limit of Energy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic limit on restoring Fatigue, broken by folk witch potions and Healing.",
+  "evidence": [
+   "magic-hedge-magic-revised::0182",
+   "magic-hedge-magic-revised::0220"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magical duel won secretly by the Tytalus cabal using Fatigue potions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0182"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic ritual of Magic Resistance a beast-cursed magus cannot perform.",
+  "evidence": [
+   "magic-hedge-magic-revised::0217"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protective effect whose Magic Resistance affects curse penetration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0214"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link to a target required for folk witch curses; folk witches can prolong its lifetime.",
+  "evidence": [
+   "magic-hedge-magic-revised::0214",
+   "magic-hedge-magic-revised::0231",
+   "magic-hedge-magic-revised::0233"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Score"
+  ],
+  "description": "Warping Points gained by folk witches on botches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0211"
+  ]
+ },
+ {
+  "name": "Sabbat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rare meeting of folk witch covens during which witches may assist one another.",
+  "evidence": [
+   "magic-hedge-magic-revised::0181",
+   "magic-hedge-magic-revised::0188",
+   "magic-hedge-magic-revised::0227"
+  ]
+ },
+ {
+  "name": "Folk Witch Casting Methods",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Potion, Incantation, and Fetish methods folk witches use for Supernatural Abilities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0207",
+   "magic-hedge-magic-revised::0209"
+  ]
+ },
+ {
+  "name": "Potion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch casting method; brewed batches granting abilities, with Brew Potency.",
+  "evidence": [
+   "magic-hedge-magic-revised::0209",
+   "magic-hedge-magic-revised::0237",
+   "magic-hedge-magic-revised::0239"
+  ]
+ },
+ {
+  "name": "Incantation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch casting method of reciting a rhyming poem the target must hear.",
+  "evidence": [
+   "magic-hedge-magic-revised::0209",
+   "magic-hedge-magic-revised::0203"
+  ]
+ },
+ {
+  "name": "Fetish",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Item a folk witch must hold to use an Ability, prepared in a season of lab work.",
+  "evidence": [
+   "magic-hedge-magic-revised::0209",
+   "magic-hedge-magic-revised::0210",
+   "magic-hedge-magic-revised::0233"
+  ]
+ },
+ {
+  "name": "Brew Potency",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Lab Total of a potion, used as its Casting Total base.",
+  "evidence": [
+   "magic-hedge-magic-revised::0237",
+   "magic-hedge-magic-revised::0239"
+  ]
+ },
+ {
+  "name": "Witch's Mark",
+  "type": "Concept",
+  "aliases": [
+   "Mark"
+  ],
+  "description": "Each folk witch's mark revealing her effects, like a magus' sigil.",
+  "evidence": [
+   "magic-hedge-magic-revised::0212"
+  ]
+ },
+ {
+  "name": "Magical Defenses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Limited defenses folk witches gain from each power instead of Magic Resistance.",
+  "evidence": [
+   "magic-hedge-magic-revised::0207",
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Magical Fortitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Defense from Animal Ken and Healing.",
+  "evidence": [
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Accelerated Expiry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Defense from Animal Ken and Second Sight.",
+  "evidence": [
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Confounding Magics",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Defense from Dowsing against Mentem effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Immovable Object",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Defense from Flight against Corpus effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Strength of Form",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic Defense from Shapeshifter against Animal or Corpus effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0223"
+  ]
+ },
+ {
+  "name": "Witch's Moon",
+  "type": "Concept",
+  "aliases": [
+   "Witch Moon"
+  ],
+  "description": "Monthly period in which a folk witch suffers a wound and may be unable to use her abilities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0197",
+   "magic-hedge-magic-revised::0201",
+   "magic-hedge-magic-revised::0237"
+  ]
+ },
+ {
+  "name": "Witch's Kitchen",
+  "type": "Concept",
+  "aliases": [
+   "Kitchen"
+  ],
+  "description": "Folk witch equivalent of a laboratory, built around a cauldron.",
+  "evidence": [
+   "magic-hedge-magic-revised::0224",
+   "magic-hedge-magic-revised::0225",
+   "magic-hedge-magic-revised::0227"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Laboratory notes; folk witch Lab Texts are of no use to magi.",
+  "evidence": [
+   "magic-hedge-magic-revised::0229",
+   "magic-hedge-magic-revised::0238"
+  ]
+ },
+ {
+  "name": "Laboratory",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic laboratory; cannot be used by folk witches without conversion.",
+  "evidence": [
+   "magic-hedge-magic-revised::0225",
+   "magic-hedge-magic-revised::0226"
+  ]
+ },
+ {
+  "name": "Experimentation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witches may experiment with lab activities using the Extraordinary Results table.",
+  "evidence": [
+   "magic-hedge-magic-revised::0228"
+  ]
+ },
+ {
+  "name": "Vis Extraction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Extracting Vim vis from an aura; done by elemental philosophers and folk witches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0145",
+   "magic-hedge-magic-revised::0230"
+  ]
+ },
+ {
+  "name": "Curse Fetish Weaving",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Weaving a curse fabric on a loom over a season with an Arcane Connection.",
+  "evidence": [
+   "magic-hedge-magic-revised::0233"
+  ]
+ },
+ {
+  "name": "Dowsing Rod",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fetish for Dowsing; enchanted with 1 pawn of Intellego vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0234"
+  ]
+ },
+ {
+  "name": "Flight Broom",
+  "type": "Concept",
+  "aliases": [
+   "witch's broom"
+  ],
+  "description": "Flying aid fetish (broom, bucket, etc.) enchanted with 1 pawn of Auram vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0235"
+  ]
+ },
+ {
+  "name": "Skin Knitting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Enchanting an animal skin fetish for Shapeshifting using Animal vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0236"
+  ]
+ },
+ {
+  "name": "Curse of Disease",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 9) inflicting fevered disease and a Medium Wound.",
+  "evidence": [
+   "magic-hedge-magic-revised::0214"
+  ]
+ },
+ {
+  "name": "Curse of Miscarriage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 9) that may make a pregnant woman miscarry.",
+  "evidence": [
+   "magic-hedge-magic-revised::0215"
+  ]
+ },
+ {
+  "name": "Curse of Aging",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 12) causing an immediate Aging Crisis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0215"
+  ]
+ },
+ {
+  "name": "Curse of Emotion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 12) making the target feel strong emotion toward someone.",
+  "evidence": [
+   "magic-hedge-magic-revised::0215",
+   "magic-hedge-magic-revised::0216"
+  ]
+ },
+ {
+  "name": "Curse of the Tongue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 15) making the target forget all languages.",
+  "evidence": [
+   "magic-hedge-magic-revised::0216"
+  ]
+ },
+ {
+  "name": "Curse of Paralysis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 15) preventing movement of limbs.",
+  "evidence": [
+   "magic-hedge-magic-revised::0216"
+  ]
+ },
+ {
+  "name": "Curse of the Beast",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 18) turning the target into a small animal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0216",
+   "magic-hedge-magic-revised::0217"
+  ]
+ },
+ {
+  "name": "Curse of Reduction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk witch curse (EF 18) reducing target Size monthly.",
+  "evidence": [
+   "magic-hedge-magic-revised::0217"
+  ]
+ },
+ {
+  "name": "Blood Oath of Becoming a Member of Ikhwan as-Safa'",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Initiation Script granting Philosophical Refining and Weak Elementalist Resistance.",
+  "evidence": [
+   "magic-hedge-magic-revised::0161"
+  ]
+ },
+ {
+  "name": "Ritual of Uncovering the Elemental Nature of Man",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ikhwan as-Safa' Script granting an Elementalist Form tied to humor, and the Mentor Flaw.",
+  "evidence": [
+   "magic-hedge-magic-revised::0162"
+  ]
+ },
+ {
+  "name": "Ritual of Making the Soul Actually Knowledgeable",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ikhwan as-Safa' Script granting Elemental Philosophiae and Study Requirement.",
+  "evidence": [
+   "magic-hedge-magic-revised::0160",
+   "magic-hedge-magic-revised::0163"
+  ]
+ },
+ {
+  "name": "Rite of Testing the Physician's Dedication",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tulab Ibn Sina Script granting Medicinal Divining and Restriction.",
+  "evidence": [
+   "magic-hedge-magic-revised::0170"
+  ]
+ },
+ {
+  "name": "Ritual of Discovering the Physician's Humor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tulab Ibn Sina Script granting an Elementalist Form and Vow.",
+  "evidence": [
+   "magic-hedge-magic-revised::0171"
+  ]
+ },
+ {
+  "name": "Ritual of Improving the Physician's Character",
+  "type": "Concept",
+  "aliases": [
+   "Ritual of Refining the Physician's Character"
+  ],
+  "description": "Tulab Ibn Sina Script granting Elemental Medicine and Study Requirement.",
+  "evidence": [
+   "magic-hedge-magic-revised::0169",
+   "magic-hedge-magic-revised::0172"
+  ]
+ },
+ {
+  "name": "Rite of Opening the Mind",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tulab Ibn Sina Script at Ibn Sina's tomb granting Premonitions and Visions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0173",
+   "magic-hedge-magic-revised::0174"
+  ]
+ },
+ {
+  "name": "Grades of the Brethren",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Four grades of the Brethren of Purity requiring increasing Ability scores.",
+  "evidence": [
+   "magic-hedge-magic-revised::0159",
+   "magic-hedge-magic-revised::0160"
+  ]
+ },
+ {
+  "name": "Islam",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Religion of the Brethren of Purity and Tulab Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0157",
+   "magic-hedge-magic-revised::0169",
+   "magic-hedge-magic-revised::0177"
+  ]
+ },
+ {
+  "name": "Aging Crisis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Crisis ending a longevity potion's effect; triggered by Curse of Aging.",
+  "evidence": [
+   "magic-hedge-magic-revised::0142",
+   "magic-hedge-magic-revised::0215"
+  ]
+ },
+ {
+  "name": "Folk Witch Apprenticeship",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ten-year training by a coven granting 200 experience points.",
+  "evidence": [
+   "magic-hedge-magic-revised::0183",
+   "magic-hedge-magic-revised::0184"
+  ]
+ },
+ {
+  "name": "Epistles of the Brethren of Purity and Loyal Friends",
+  "type": "Item",
+  "aliases": [
+   "Epistles",
+   "Rasa'il Ikhwan as-Safa' wa Khillan al-Wafa"
+  ],
+  "description": "52 letters in four books serving as tractatus and, with the Comprehensive Epistle, summae on Elementalist Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158",
+   "magic-hedge-magic-revised::0163",
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "The Comprehensive Epistle",
+  "type": "Item",
+  "aliases": [
+   "Al-Risala al-Jami'a"
+  ],
+  "description": "Al-Risala al-Jami'a, key to the Epistles; a Philosophiae summa and summa for Philosophical Refining.",
+  "evidence": [
+   "magic-hedge-magic-revised::0163",
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Mathematical Sciences",
+  "type": "Item",
+  "aliases": [
+   "Book One"
+  ],
+  "description": "Book One of the Epistles; Artes Liberales tractatus and Elementalist Air summa.",
+  "evidence": [
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Natural Sciences",
+  "type": "Item",
+  "aliases": [
+   "Book Two"
+  ],
+  "description": "Book Two of the Epistles; Philosophiae tractatus and Elementalist Water summa.",
+  "evidence": [
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Psychological and Rational Sciences",
+  "type": "Item",
+  "aliases": [
+   "Book Three"
+  ],
+  "description": "Book Three of the Epistles; summa for Elementalist Fire.",
+  "evidence": [
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Theological Sciences",
+  "type": "Item",
+  "aliases": [
+   "Book Four"
+  ],
+  "description": "Book Four of the Epistles; Theology (Islam) tractatus and Elementalist Earth summa.",
+  "evidence": [
+   "magic-hedge-magic-revised::0164"
+  ]
+ },
+ {
+  "name": "Al-Qanun fil-Tibb",
+  "type": "Item",
+  "aliases": [
+   "Canon of Medicine"
+  ],
+  "description": "Ibn Sina's Canon of Medicine, summa on Medicine and Medicinal Divining.",
+  "evidence": [
+   "magic-hedge-magic-revised::0174"
+  ]
+ },
+ {
+  "name": "Kitab ash-Shifa",
+  "type": "Item",
+  "aliases": [
+   "Book of Healing"
+  ],
+  "description": "Ibn Sina's Book of Healing; summa on Artes Liberales and the four Elementalist Forms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0174",
+   "magic-hedge-magic-revised::0175"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting in 1220.",
+  "evidence": [
+   "magic-hedge-magic-revised::0150",
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0180"
+  ]
+ },
+ {
+  "name": "Basra",
+  "type": "Place",
+  "aliases": [],
+  "description": "Persian city where Ikhwan as-Safa' was founded.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Bukhara",
+  "type": "Place",
+  "aliases": [],
+  "description": "Persian city near which Ibn Sina was born.",
+  "evidence": [
+   "magic-hedge-magic-revised::0168"
+  ]
+ },
+ {
+  "name": "Hamadan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Persian city with the tomb of Ibn Sina.",
+  "evidence": [
+   "magic-hedge-magic-revised::0173"
+  ]
+ },
+ {
+  "name": "Tomb of Ibn Sina",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site in Hamadan where supplicants of the Rite of Opening the Mind fast.",
+  "evidence": [
+   "magic-hedge-magic-revised::0173"
+  ]
+ },
+ {
+  "name": "Cave of Twisting Shadows",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place in the Greater Alps near which Criamon magi support Apostles of Apollonius.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Greater Alps",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal region with a village of Apostles of Apollonius.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Levant",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where elementalists and Brethren are present.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Andalusia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where the Brethren of Purity are present.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "North Africa",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where the Brethren of Purity are present.",
+  "evidence": [
+   "magic-hedge-magic-revised::0158"
+  ]
+ },
+ {
+  "name": "Mediterranean",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sea where Elisavet's island lies.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0155"
+  ]
+ },
+ {
+  "name": "Asia Minor",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Apollonius formed his circle.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151"
+  ]
+ },
+ {
+  "name": "Alexandria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Visited by Apollonius in 69 AD.",
+  "evidence": [
+   "magic-hedge-magic-revised::0152"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "Apollonius faced trial there in 93.",
+  "evidence": [
+   "magic-hedge-magic-revised::0152"
+  ]
+ },
+ {
+  "name": "Babylon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Source of ancient wizards' elemental magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0151",
+   "magic-hedge-magic-revised::0152"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Destination of Elisavet's banishment.",
+  "evidence": [
+   "magic-hedge-magic-revised::0155"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Theban"
+  ],
+  "description": "Tribunal near which theurgical magic is common.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Levant Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal near which theurgical magic is common.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Magic, associated with the Elementalist Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine realm; some Apostles have Divine versions of the Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153",
+   "magic-hedge-magic-revised::0228"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Infernal realm; folk witches are wrongly thought connected to it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0152",
+   "magic-hedge-magic-revised::0180",
+   "magic-hedge-magic-revised::0181"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Faerie realm.",
+  "evidence": [
+   "magic-hedge-magic-revised::0206"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine aura where some Apostles can practice theurgy without penalty.",
+  "evidence": [
+   "magic-hedge-magic-revised::0153"
+  ]
+ }
+]

@@ -174,13 +174,21 @@ def load_entities(ttl_path):
     return entities, categories
 
 
+_TOKEN_RE = re.compile(r"\w+|[^\w\s]")
+
+
 def build_linker(entities, exclude=frozenset()):
-    """Build two combined alternation matchers (one pass per chunk, scales to
-    thousands of entities). Multi-word aliases match case-insensitively;
-    single-word aliases require exact case (so the Art 'Animal' != 'animal').
-    Entities in `exclude` (grouping/classifier nodes) are not matched in text.
-    Returns (rx_ci, ci_map, rx_cs, cs_map)."""
+    """Alias matcher: multi-word aliases match case-insensitively; single-word
+    aliases require exact case (so the Art 'Animal' != 'animal'). Entities in
+    `exclude` (grouping/classifier nodes) are not matched in text.
+
+    Matching is leftmost-longest and non-overlapping, one pass per case rule —
+    the semantics of a longest-first regex alternation — but done by looking up
+    token-aligned spans in dicts, so it stays linear in the text however many
+    aliases there are (a 30k-way alternation is quadratic in practice).
+    Returns (ci_map, cs_map, max_tokens)."""
     ci, cs = {}, {}   # alias-key -> set(iri)
+    longest = 1
     for e in entities:
         if e["iri"] in exclude:
             continue
@@ -192,26 +200,32 @@ def build_linker(entities, exclude=frozenset()):
                 ci.setdefault(a.lower(), set()).add(e["iri"])
             else:
                 cs.setdefault(a, set()).add(e["iri"])
+            longest = max(longest, len(_TOKEN_RE.findall(a)))
+    return (ci, cs, longest)
 
-    def build_rx(keys, flags):
-        if not keys:
-            return None
-        # longest alternatives first so 'House Bonisagus' wins over 'Bonisagus'
-        body = "|".join(re.escape(k) for k in sorted(keys, key=len, reverse=True))
-        return re.compile(r"\b(?:" + body + r")\b", flags)
 
-    return (build_rx(list(ci), re.IGNORECASE), ci, build_rx(list(cs), 0), cs)
+def _match(text, spans, table, key, longest):
+    hits, i, n = set(), 0, len(spans)
+    while i < n:
+        found = None
+        for j in range(min(n, i + longest) - 1, i - 1, -1):     # longest first
+            iris = table.get(key(text[spans[i][0]:spans[j][1]]))
+            if iris:
+                found = j
+                hits.update(iris)
+                break
+        i = found + 1 if found is not None else i + 1
+    return hits
 
 
 def link_entities(text, linker):
-    rx_ci, ci, rx_cs, cs = linker
+    ci, cs, longest = linker
+    spans = [m.span() for m in _TOKEN_RE.finditer(text)]
     hits = set()
-    if rx_ci:
-        for m in rx_ci.finditer(text):
-            hits.update(ci.get(m.group(0).lower(), ()))
-    if rx_cs:
-        for m in rx_cs.finditer(text):
-            hits.update(cs.get(m.group(0), ()))
+    if ci:
+        hits |= _match(text, spans, ci, str.lower, longest)
+    if cs:
+        hits |= _match(text, spans, cs, lambda s: s, longest)
     return sorted(hits)
 
 # ---------------------------------------------------------------------------
@@ -420,7 +434,7 @@ def main():
         for t in e["types"]:
             by_type[t.rsplit("#", 1)[-1].rsplit("/", 1)[-1]] += 1
     linker = build_linker(entities, exclude=categories)
-    n_alias = len(linker[1]) + len(linker[3])
+    n_alias = len(linker[0]) + len(linker[1])
     print("    %d entities (%d linkable), %d alias keys"
           % (len(entities), len(entities) - len(categories), n_alias))
     evidence = load_evidence(os.path.join(ROOT, "ontology", "_extract", "desc", "recovered.json"))
@@ -461,7 +475,8 @@ def main():
     with open(os.path.join(ROOT, "content", "sources.json"), "w", encoding="utf-8") as f:
         json.dump(sources, f, ensure_ascii=False, indent=2)
 
-    # Provenance: attestedIn = books whose prose mentions the entity (chunk links);
+    # Provenance: attestedIn = books whose prose mentions the entity (chunk links),
+    # plus its defining books;
     # definedIn = book(s) the entity was extracted/defined from (extraction evidence).
     # Both are restricted to books actually ingested in this build.
     built_docs = set(all_chunks_by_doc)
@@ -472,6 +487,9 @@ def main():
         for k in keys:
             defined |= evidence.get(k, set())
         e["definedIn"] = sorted(defined & built_docs)
+        # a defining book attests its entity (orp:definedIn is a sub-property of
+        # orp:attestedIn), even where the alias matcher found no mention in its prose
+        e["attestedIn"] = sorted(set(e["attestedIn"]) | set(e["definedIn"]))
     write_jsonl(os.path.join(ROOT, "ontology", "entities.jsonl"), entities)
     print("    provenance: %d/%d entities attested in >=1 book, %d with a defining book"
           % (sum(1 for e in entities if e["attestedIn"]), len(entities),

@@ -1,0 +1,4485 @@
+[
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Normandy"
+  ],
+  "description": "The Hermetic Tribunal covering Normandy, Brittany and much of France, whose politics are dominated by liege-vassal lines of covenants and a scarcity of vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0134",
+   "the-lion-and-the-lily-the-normandy-tribunal::0135"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal whose meetings Breton covenants such as Fudarus attended before the Schism War.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0193",
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal whose over-competitive team in 1151 earned 13th place in the Tourney, giving rise to the Siege of Shame.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Provençal Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal bordering the Normandy Tribunal near Rocamadour.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "Hermetic House destroyed in the Schism War whose domus magna Branugurix lay near Mount Dol; several Normandy covenants were Diedne.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0193"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House that withdrew from the Normandy Tribunal after conflict with House Tytalus; its magical tournaments inspired the Hermetic Tourney.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0138",
+   "the-lion-and-the-lily-the-normandy-tribunal::0148"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House whose magi fought in the Schism War in Normandy, some trapped in Branugurix's regio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus",
+   "Tytali",
+   "Tytalans"
+  ],
+  "description": "Hermetic House of conflict whose domus magna is Fudarus; currently split between rival Primi Buliste and Harpax.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0199",
+   "the-lion-and-the-lily-the-normandy-tribunal::0200"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Hermetic House of Quaesitores which holds records of Branugurix and uncovered Tasgillia's corruption.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0192"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House founded by Pralix; the sole survivor of Rotomagus joined it.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0191"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House to which Jacques Vert belonged.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0232"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Redcaps",
+   "Mercer House"
+  ],
+  "description": "Hermetic House of Redcaps; Alcuin's Auberge was a small Mercer House founded by Redcaps.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130",
+   "the-lion-and-the-lily-the-normandy-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Fudarus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus magna of House Tytalus on the Isle of Ushant, founded 798, and one of the five great liege lines of the Normandy Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0194",
+   "the-lion-and-the-lily-the-normandy-tribunal::0123"
+  ]
+ },
+ {
+  "name": "Confluensis",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Great liege covenant founded 810, one of the five great lines; later relocated to the Cotentin peninsula.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Florum",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Great liege covenant founded 907 in Flanders, one of the five great lines.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Oleron",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Great liege covenant founded 1028 in Aquitaine, one of the five great lines.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0128",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Montverte",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Great liege covenant founded 941 in Normandy, one of the five great lines; its Flambeau and Tremere magi destroyed Bibracte.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Branugurix",
+  "type": "Covenant",
+  "aliases": [
+   "Bren Gwrac'h"
+  ],
+  "description": "Domus magna of House Diedne (791-1012) in a regio near Mount Dol, sealed by the Diedne Primus in the final battle of the Schism War.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Bibracte",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Fudarus (822-969) on Mount Beauvray that revived a cult of Vercingetorix and was destroyed by Wizard Wars from Montverte magi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125"
+  ]
+ },
+ {
+  "name": "Pagus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Confluensis (840-1008) at a Roman outpost near Cherbourg, damaged by Vikings and destroyed in the Schism War.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0126"
+  ]
+ },
+ {
+  "name": "Baiocassium",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Diedne vassal of Branugurix (851-1011) in the forest near Bayeux, on good terms with local faeries.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Sinapis",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Important liege covenant in Anjou (855-1063), abandoned after the Flambeau-Tytalus conflict.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Rotomagus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant near Rouen (875-892) founded by apprentices of Sinapis and destroyed when Vikings sacked Rouen.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126"
+  ]
+ },
+ {
+  "name": "Ligurio",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Fudarus (913-1011) in the Vendée, destroyed by giants presumed sent by Kerguntuil.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Kerguntuil",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Diedne vassal of Branugurix (920-1007) on the Rose Coast, interested in giant lore.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0177",
+   "the-lion-and-the-lily-the-normandy-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Baiocassium Minor",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Baiocassium (936-1005) within Bayeux, destroyed in the Schism War.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Caput Capra",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Easternmost Diedne covenant (981-1005) on the Loire near Fleury, first casualty of the Schism War in the Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Aedes Salii",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Sinapis on Jersey (998-1063) founded to coordinate the Schism War, named after the Salii.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Orchard of Sour Apples",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Confluensis (1020-1051), later the site to which Confluensis relocated.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Lixivia",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Florum (1021-1124) in Champagne of Redcaps and Gentle Gifted magi acting as intermediary with merchants; disbanded in poverty.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128",
+   "the-lion-and-the-lily-the-normandy-tribunal::0129",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Vexatores",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Fudarus (1048-1064) founded 21 miles from Sinapis to provoke it during the Flambeau-Tytalus conflict.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Dragon's Rest",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Confluensis founded 1051 on the site Confluensis originally occupied.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Lapis Crudus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1063, considered part of the line of Sinapis, located in Ile de France.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128",
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Nauche-Fleur",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Montverte (1072-1166) running a martial and academic school near Niort.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Infelicitas",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Fudarus (1099-1158) founded when Rancrax lost a wager; foundered after his death.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0129",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Nidi",
+  "type": "Covenant",
+  "aliases": [
+   "Conventio Nidi"
+  ],
+  "description": "Vassal of Oleron founded 1100 in Aquitaine.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Spider's Palace",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Florum founded 1117 on Florum's original site.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Requies Aeterna",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Florum founded 1123 in Flanders & Picardy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Alcuin's Auberge",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Florum (1124-1197), a small Mercer House in Tours founded by Redcaps from Lixivia.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Moles Magna",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Oleron (1136-1182) built within a dam on the edge of the Morvan, destroyed when the dam burst.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Atsingani",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Montverte founded 1187 in Anjou.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130",
+   "the-lion-and-the-lily-the-normandy-tribunal::0131"
+  ]
+ },
+ {
+  "name": "Cunfin",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Confluensis founded 1192 in Champagne & Burgundy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0131"
+  ]
+ },
+ {
+  "name": "Atramentum",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Fudarus (1200-1201) whose founders were evicted by the magi who formed Exspectatio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0131",
+   "the-lion-and-the-lily-the-normandy-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Exspectatio",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Fudarus in the Arrée Mountains, occupied by six Tytalan magi who left Fudarus during the Primi feud.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0131",
+   "the-lion-and-the-lily-the-normandy-tribunal::0202",
+   "the-lion-and-the-lily-the-normandy-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Atramentum Renatus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Vassal of Exspectatio in Burgundy founded 1201 by the founders of Atramentum.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0131",
+   "the-lion-and-the-lily-the-normandy-tribunal::0200"
+  ]
+ },
+ {
+  "name": "Eboris",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant founded 1204 in Ile de France.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0131"
+  ]
+ },
+ {
+  "name": "Cabal of the Golden Coin",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Secret cabal, begun by Tytalus magi, that fixes the outcome of Hermetic Tourney contests to maximize prizes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0140"
+  ]
+ },
+ {
+  "name": "Cabal of the Leaden Cart",
+  "type": "Faction",
+  "aliases": [
+   "Cabal of the Laden Cart"
+  ],
+  "description": "Tytalan cabal Iasper seeks to join and in which Kybella is involved.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0210",
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Titanoi",
+  "type": "Faction",
+  "aliases": [],
+  "description": "House Tytalus's cult of theurgists, of which Kybella is a leading member.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitor",
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators who oversee Tribunal cases, fines and the Tourney.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0121",
+   "the-lion-and-the-lily-the-normandy-tribunal::0137",
+   "the-lion-and-the-lily-the-normandy-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Knights Templar",
+  "type": "Faction",
+  "aliases": [
+   "Templars"
+  ],
+  "description": "Military order that built a chapel at Lanleff and Brélévenez Church, reportedly at a Quaesitor's suggestion.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Heusaff family",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Ancient Breton family owning the Isle of Ushant; Lord Heusaff is secretly a guise of the Primus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0199",
+   "the-lion-and-the-lily-the-normandy-tribunal::0204"
+  ]
+ },
+ {
+  "name": "Foutins",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Large clan of local roustabouts, Iasper's mundane family.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0209"
+  ]
+ },
+ {
+  "name": "Veniti",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Strongest tribe of Gauls, defeated by Julius Caesar at sea off Morbihan.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0223"
+  ]
+ },
+ {
+  "name": "Salii",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Priests of Mars after whom Aedes Salii was named.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Five Great Lines",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The five liege-vassal lines of Fudarus, Confluensis, Florum, Oleron and Montverte dominating Normandy politics.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0134"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Tytalus the Founder"
+  ],
+  "description": "Founder of House Tytalus who built Fudarus in 798 after stealing away Hariste.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0192",
+   "the-lion-and-the-lily-the-normandy-tribunal::0195"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "aliases": [],
+  "description": "Filia of Tytalus and founder of House Ex Miscellanea, former home at Fudarus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0192"
+  ]
+ },
+ {
+  "name": "Tasgillia",
+  "type": "Character",
+  "aliases": [],
+  "description": "Prima of House Tytalus corrupted by demons, captured by House Guernicus in 961.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0192",
+   "the-lion-and-the-lily-the-normandy-tribunal::0196"
+  ]
+ },
+ {
+  "name": "Hariste",
+  "type": "Character",
+  "aliases": [],
+  "description": "Apprentice of Pralix stolen by Tytalus; first Prima of House Tytalus who directed crafting of the Rod and Circlet.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0192",
+   "the-lion-and-the-lily-the-normandy-tribunal::0205"
+  ]
+ },
+ {
+  "name": "Kalliste",
+  "type": "Character",
+  "aliases": [],
+  "description": "Prima of House Tytalus who resisted Quaesitores searching Fudarus after Tasgillia's fall.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0192"
+  ]
+ },
+ {
+  "name": "Klynoites",
+  "type": "Character",
+  "aliases": [],
+  "description": "Primus of House Tytalus who wrested control of three Diedne-summoned spirits during the Schism War.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0193"
+  ]
+ },
+ {
+  "name": "Buliste",
+  "type": "Character",
+  "aliases": [
+   "Bulliste",
+   "Buliste filia Bulcis"
+  ],
+  "description": "Prima of House Tytalus, filia of Bulcis, who returned from Final Twilight and disputes leadership with Harpax; wears the Circlet of the Primus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0203",
+   "the-lion-and-the-lily-the-normandy-tribunal::0201"
+  ]
+ },
+ {
+  "name": "Harpax",
+  "type": "Character",
+  "aliases": [
+   "Harpax filius Bulcis",
+   "Lord Heusaff"
+  ],
+  "description": "Tenth Primus of House Tytalus, filius of Bulcis, holds the Rod of the Primus and poses as Lord Heusaff.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0204",
+   "the-lion-and-the-lily-the-normandy-tribunal::0205"
+  ]
+ },
+ {
+  "name": "Bulcis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Master of both Buliste and Harpax.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0203",
+   "the-lion-and-the-lily-the-normandy-tribunal::0204"
+  ]
+ },
+ {
+  "name": "Rancrax",
+  "type": "Character",
+  "aliases": [
+   "Rancrax of Tytalus"
+  ],
+  "description": "Tytalus magus who founded Infelicitas after losing a wager, slain in Wizard's War by a magus of Moles Magna.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0129",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Notatus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus with an affinity for the number seven, after whom the Siege of Notatus is named.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142",
+   "the-lion-and-the-lily-the-normandy-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Adanos",
+  "type": "Character",
+  "aliases": [
+   "Adanos Lutorum"
+  ],
+  "description": "Tytalus magus of Exspectatio with earth-spirit blood, supporter of Harpax.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0210",
+   "the-lion-and-the-lily-the-normandy-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Kybella",
+  "type": "Character",
+  "aliases": [],
+  "description": "Tytalus theurgist of Exspectatio, Titanoi member, who maintains Fudarus's spirit enchantments and casts its Aegis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0202",
+   "the-lion-and-the-lily-the-normandy-tribunal::0210",
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Iasper",
+  "type": "Character",
+  "aliases": [
+   "Iasper filius Adanos"
+  ],
+  "description": "Young Tytalus magus of Exspectatio, filius of Adanos, with an affinity for turmoil.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0209",
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Jacques Vert",
+  "type": "Character",
+  "aliases": [],
+  "description": "Merinita magus who speculated the Nains were dreams of dead Diedne and vanished at Carnac.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0232",
+   "the-lion-and-the-lily-the-normandy-tribunal::0233"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founding figure of the Order whose meeting with Diedne is placed at Carnac.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Diedne",
+  "type": "Character",
+  "aliases": [
+   "Diedne the Founder"
+  ],
+  "description": "Founder of House Diedne, said to have met Trianoma at Carnac.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Vercingetorix",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gaulish hero whose cult Bibracte revived.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125"
+  ]
+ },
+ {
+  "name": "Louis I the Pious",
+  "type": "Character",
+  "aliases": [],
+  "description": "Frankish king, son of Charlemagne, who established Brittany as a duchy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Father of Louis the Pious.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Nominoé",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ninth-century duke and king of Brittany who won independence and founded St. Magloire.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153",
+   "the-lion-and-the-lily-the-normandy-tribunal::0162",
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Charles II the Bald",
+  "type": "Character",
+  "aliases": [],
+  "description": "Successor of Louis defeated by Nominoé.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Erispoë",
+  "type": "Character",
+  "aliases": [],
+  "description": "Nominoé's son, who took the title King of Brittany.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Salomon",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Brittany who took the throne by assassination; martyred in the ninth century.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153",
+   "the-lion-and-the-lily-the-normandy-tribunal::0188"
+  ]
+ },
+ {
+  "name": "Alain Barbe-Torte",
+  "type": "Character",
+  "aliases": [],
+  "description": "Breton king (Crookbeard) who died in 952.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Alain IV Fergent",
+  "type": "Character",
+  "aliases": [],
+  "description": "Duke of Brittany who ended a century of disorder.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Henry II of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "King who added Brittany to his holdings between 1158 and 1166.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0154",
+   "the-lion-and-the-lily-the-normandy-tribunal::0165"
+  ]
+ },
+ {
+  "name": "King John of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king rumored to have murdered Arthur of Brittany.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Arthur of Brittany",
+  "type": "Character",
+  "aliases": [],
+  "description": "Nephew of King John whose rumored murder led to Breton independence.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Peter I of Dreux",
+  "type": "Character",
+  "aliases": [],
+  "description": "Current regent of the duchy of Brittany through marriage to Alice.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Alice of Brittany",
+  "type": "Character",
+  "aliases": [],
+  "description": "Heiress of the former Breton ruling house, wife of Peter of Dreux.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Raoul II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Baron of Fougères who led Breton nobles against Henry II.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0165"
+  ]
+ },
+ {
+  "name": "Geoffroy of Corseul",
+  "type": "Character",
+  "aliases": [],
+  "description": "Man who extended St. Magloire in the new style.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0162"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Wizard who fell for Viviane and is believed asleep under the Stone of Merlin.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0168",
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Viviane",
+  "type": "Character",
+  "aliases": [
+   "Lady of the Lake"
+  ],
+  "description": "Faerie Lady of the Lake who enchanted Merlin and lives at Lake Comper; queen of the korrigan.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0168",
+   "the-lion-and-the-lily-the-normandy-tribunal::0169",
+   "the-lion-and-the-lily-the-normandy-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Sir Lancelot",
+  "type": "Character",
+  "aliases": [],
+  "description": "Knight raised by Viviane who first kissed Guinevere at the Bridge of Secrets.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Queen Guinevere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Queen whose kiss with Lancelot occurred at the Bridge of Secrets.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Morgan Le Fay",
+  "type": "Character",
+  "aliases": [],
+  "description": "Half-sister of King Arthur who imprisoned Guyomart in the Valley of No Return.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0170"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary king; a cave in the Arrée Mountains is where he once slept.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0170",
+   "the-lion-and-the-lily-the-normandy-tribunal::0187"
+  ]
+ },
+ {
+  "name": "Guyomart",
+  "type": "Character",
+  "aliases": [],
+  "description": "Unfaithful lover of Morgan Le Fay trapped at False Lover's Rock.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0170"
+  ]
+ },
+ {
+  "name": "King Gradlon",
+  "type": "Character",
+  "aliases": [
+   "Gradlon"
+  ],
+  "description": "Sixth-century King of Cornouaille whose city Is drowned; founded Quimper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0216",
+   "the-lion-and-the-lily-the-normandy-tribunal::0219"
+  ]
+ },
+ {
+  "name": "Dahut",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gradlon's daughter, seduced by the Devil, who became the siren Marie-Morgane.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0219"
+  ]
+ },
+ {
+  "name": "Marie-Morgane",
+  "type": "Character",
+  "aliases": [],
+  "description": "Evil siren, formerly Dahut, who drowns sailors to people sunken Is.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0219"
+  ]
+ },
+ {
+  "name": "Peter Abélard",
+  "type": "Character",
+  "aliases": [],
+  "description": "Philosopher and theologian who retreated to St-Gildas-de-Rhuys.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0222"
+  ]
+ },
+ {
+  "name": "Julius Caesar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman general who watched the defeat of the Veniti from Tumiac Tumulus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0223"
+  ]
+ },
+ {
+  "name": "Pomponius Mela",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman historian who claimed nine virgin witches lived on Sein Island.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Duke Mark",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ruler who refused St. Paul a bell.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Princess of the Shining Star",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young lady confined in a glass tower in a Magic regio (story seed).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Mother of Winds",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bearded old woman with four giant sons she keeps in order with her sack.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Jean and Jeanne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Petrified betrothed couple, two menhirs on Belle-ile, who could be freed by ritual.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0226"
+  ]
+ },
+ {
+  "name": "Ronan",
+  "type": "Character",
+  "aliases": [
+   "St. Ronan"
+  ],
+  "description": "Irish hermit who settled at St. Renan; St. Ronan's walk is retraced at Locronan.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184",
+   "the-lion-and-the-lily-the-normandy-tribunal::0216"
+  ]
+ },
+ {
+  "name": "St. Maclou",
+  "type": "Character",
+  "aliases": [
+   "St. Malo"
+  ],
+  "description": "Welsh founder of Breton Christianity commemorated at St. Malo; converted Gauls at Aleth.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0161"
+  ]
+ },
+ {
+  "name": "St. Broch",
+  "type": "Character",
+  "aliases": [],
+  "description": "Welsh saint commemorated at St. Brieuc, with a fountain granting a Blessing.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0163"
+  ]
+ },
+ {
+  "name": "St. Guirec",
+  "type": "Character",
+  "aliases": [],
+  "description": "Welsh saint commemorated at Perros Guirec.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155"
+  ]
+ },
+ {
+  "name": "St. Paul the Aurelian",
+  "type": "Character",
+  "aliases": [
+   "St. Paul"
+  ],
+  "description": "Founder of the bishopric of St-Pol-de-Léon who subdued a dragon on Batz.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0182"
+  ]
+ },
+ {
+  "name": "St. Samson",
+  "type": "Character",
+  "aliases": [],
+  "description": "Welsh saint commemorated at Dol, where a cathedral to him is built.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0158"
+  ]
+ },
+ {
+  "name": "St. Tugdual",
+  "type": "Character",
+  "aliases": [],
+  "description": "Welsh saint commemorated at Tréguier.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0177"
+  ]
+ },
+ {
+  "name": "St. Corentine",
+  "type": "Character",
+  "aliases": [],
+  "description": "First bishop of Quimper who lived off a regenerating magical fish.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0216"
+  ]
+ },
+ {
+  "name": "St. Patern",
+  "type": "Character",
+  "aliases": [],
+  "description": "Welsh saint commemorated at Vannes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155"
+  ]
+ },
+ {
+  "name": "St. Michael",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archangel said to have fought the Devil at Mount Dol.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0158"
+  ]
+ },
+ {
+  "name": "St. Nerius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint martyred beside the gates of Fudarus, site of a Divine aura.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196"
+  ]
+ },
+ {
+  "name": "St. Cornelius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint said to have turned pursuing faeries into the Carnac stones.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0220",
+   "the-lion-and-the-lily-the-normandy-tribunal::0233"
+  ]
+ },
+ {
+  "name": "St. Arthmael",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of Ploëmel who defeated a dragon.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "St. Cado",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint with a chapel curing the deaf and a fertility pillar.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0204",
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "St. Gildas",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of St-Gildas-de-Rhuys monastery.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0222"
+  ]
+ },
+ {
+  "name": "St. Guénolé",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of the abbey at Landévennec.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "St. Columba",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint whose followers founded Daoulas abbey.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "St. Briac",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint petitioned at Bourbriac for those subject to fits.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0180"
+  ]
+ },
+ {
+  "name": "St. Matthew",
+  "type": "Character",
+  "aliases": [],
+  "description": "Apostle whose lost head-relic at St. Matthew's Point quells storms.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Our Lady",
+  "type": "Character",
+  "aliases": [
+   "Virgin Mary"
+  ],
+  "description": "The Virgin, venerated at many Breton shrines including Josselin and Our Lady of Haut.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0165",
+   "the-lion-and-the-lily-the-normandy-tribunal::0179",
+   "the-lion-and-the-lily-the-normandy-tribunal::0236"
+  ]
+ },
+ {
+  "name": "Our Lady of Haut healing saints",
+  "type": "Character",
+  "aliases": [
+   "St. Mamertus",
+   "St. Méen",
+   "St. Hubert"
+  ],
+  "description": "Saints petitioned at Our Lady of Haut: St. Mamertus, St. Livertin, St. Eugenia, St. Leobinus, St. Méen, St. Hubert, St. Houarniaule.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Korrigan",
+  "type": "Creature",
+  "aliases": [
+   "Korred"
+  ],
+  "description": "Breton faeries: hunchbacked manikins with cat's claws and goat's hooves who dance and may take the form of a beautiful woman; dangerous in Brocéliande.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0172",
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0234"
+  ]
+ },
+ {
+  "name": "Nain",
+  "type": "Creature",
+  "aliases": [
+   "Nains"
+  ],
+  "description": "Infernal imp-like guardians of the Carnac stones, once korrigan, who lure victims with false treasure and deadly dances.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0230",
+   "the-lion-and-the-lily-the-normandy-tribunal::0231",
+   "the-lion-and-the-lily-the-normandy-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Black Dog",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dog in which the spirit of a deceased family member is trapped by a folk ritual; Divine Might 10.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0188",
+   "the-lion-and-the-lily-the-normandy-tribunal::0189",
+   "the-lion-and-the-lily-the-normandy-tribunal::0190"
+  ]
+ },
+ {
+  "name": "Ankeu",
+  "type": "Creature",
+  "aliases": [
+   "Karrig an Ankeu",
+   "Bag Noz"
+  ],
+  "description": "Death personified in Brittany as a skeleton with a scythe driving a spectral cart.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182",
+   "the-lion-and-the-lily-the-normandy-tribunal::0183"
+  ]
+ },
+ {
+  "name": "Mogidell",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Great Spirit of Ushant of mists and sea-fog, appearing as a huge gray bird.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196",
+   "the-lion-and-the-lily-the-normandy-tribunal::0197",
+   "the-lion-and-the-lily-the-normandy-tribunal::0198"
+  ]
+ },
+ {
+  "name": "Kerseenn",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Great Spirit of Ushant of misdirection, constantly shifting shape.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196",
+   "the-lion-and-the-lily-the-normandy-tribunal::0197",
+   "the-lion-and-the-lily-the-normandy-tribunal::0198"
+  ]
+ },
+ {
+  "name": "Arnev",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Great Spirit of Ushant of stormy weather, a serpent with a horse's head.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196",
+   "the-lion-and-the-lily-the-normandy-tribunal::0197",
+   "the-lion-and-the-lily-the-normandy-tribunal::0198"
+  ]
+ },
+ {
+  "name": "Three Great Spirits of Ushant",
+  "type": "Creature",
+  "aliases": [
+   "Great Spirits"
+  ],
+  "description": "Three mighty spirits bound into Fudarus's walls as genii loci, protecting the covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0193",
+   "the-lion-and-the-lily-the-normandy-tribunal::0194",
+   "the-lion-and-the-lily-the-normandy-tribunal::0196"
+  ]
+ },
+ {
+  "name": "Genius Loci",
+  "type": "Creature",
+  "aliases": [
+   "genii loci"
+  ],
+  "description": "Spirit of place; examples include Ushant's spirits and the feuding spirits of Corong and Toul Goulic gorges.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196",
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Siren",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Sea spirit; one guards a natural bridge near St. Malo.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0161",
+   "the-lion-and-the-lily-the-normandy-tribunal::0219"
+  ]
+ },
+ {
+  "name": "Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Beings of Breton legend associated with dolmens and the covenant Kerguntuil.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0177",
+   "the-lion-and-the-lily-the-normandy-tribunal::0212"
+  ]
+ },
+ {
+  "name": "Devil",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The Devil, fought by St. Michael at Mount Dol and seducer of Dahut.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0158",
+   "the-lion-and-the-lily-the-normandy-tribunal::0219"
+  ]
+ },
+ {
+  "name": "White Fox",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magic creature that gives an ivory ball leading to a hermit.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0238",
+   "the-lion-and-the-lily-the-normandy-tribunal::0239"
+  ]
+ },
+ {
+  "name": "Magical Fish of St. Corentine",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Regenerating fish with Divine Might 2 that fed St. Corentine.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Crossroads Faerie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie governing the transition between life and death that afflicts Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0210",
+   "the-lion-and-the-lily-the-normandy-tribunal::0211"
+  ]
+ },
+ {
+  "name": "Faerie Court of Faeries' Rock",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Faerie court that assembles at Faeries' Rock before the winter solstice to try transgressors.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0166"
+  ]
+ },
+ {
+  "name": "Servant Spirits of Fudarus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Invisible spirits performing menial tasks at Fudarus, commanded by the Circlet of the Primus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0207",
+   "the-lion-and-the-lily-the-normandy-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dragons subdued by St. Paul on Batz and St. Arthmael at Ploëmel.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182",
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Air Elemental",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Elemental that harasses a covenant with wind in a story seed.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0238"
+  ]
+ },
+ {
+  "name": "Rod of the Primus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Enchanted rod of Fudarus controlling rooms' environment; symbol of House Tytalus leadership, held by Harpax.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0200",
+   "the-lion-and-the-lily-the-normandy-tribunal::0205",
+   "the-lion-and-the-lily-the-normandy-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Circlet of the Primus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Enchanted circlet commanding Fudarus's servant spirits, worn by Buliste.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196",
+   "the-lion-and-the-lily-the-normandy-tribunal::0203",
+   "the-lion-and-the-lily-the-normandy-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Casting Tablet",
+  "type": "Item",
+  "aliases": [],
+  "description": "Device allowing a spell to be cast; the Tribunal provides one for The Shrouded Glen.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0138",
+   "the-lion-and-the-lily-the-normandy-tribunal::0201"
+  ]
+ },
+ {
+  "name": "Relic of St. Matthew",
+  "type": "Item",
+  "aliases": [],
+  "description": "Lost head of St. Matthew with the power to quell storms at sea.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Ivory Ball",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ball given by the White Fox that rolls toward a hermit.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0238",
+   "the-lion-and-the-lily-the-normandy-tribunal::0239"
+  ]
+ },
+ {
+  "name": "Statue of Our Lady of Josselin",
+  "type": "Item",
+  "aliases": [],
+  "description": "Wooden Virgin statue before which local women beg forgiveness to avert a curse.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0236"
+  ]
+ },
+ {
+  "name": "Venus of Castennac",
+  "type": "Item",
+  "aliases": [],
+  "description": "Pagan female statue used in rituals that always reappears when thrown in the river.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0236"
+  ]
+ },
+ {
+  "name": "The Shrouded Glen",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used to conceal the Tourney site; a Moon-duration version is available as a casting tablet.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0138"
+  ]
+ },
+ {
+  "name": "Sight of the Active Magics",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Intellego Vim spell used by dimicatio referees.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0148"
+  ]
+ },
+ {
+  "name": "Ball of Abysmal Flame",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell that is a crowd pleaser in the dimicatio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0149"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual protecting a covenant; Kybella casts it for Fudarus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0137",
+   "the-lion-and-the-lily-the-normandy-tribunal::0202"
+  ]
+ },
+ {
+  "name": "Panic of the Trembling Heart",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrMe spell, known by Iasper and imitated by the Black Dog's bark.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0190",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Weight of a Thousand Hells",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell imitated by the Black Dog's Dreadful Howl.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0190"
+  ]
+ },
+ {
+  "name": "Chaos of the Angry Waves",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAq 30 spell known by Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Confusion of the Insane Vibrations",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReIm 30 spell known by Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Confusion of the Numbed Will",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 15 spell known by Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Crest of the Earth's Wave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 20 spell known by Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Prying Eyes",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InIm 5 spell known by Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "The Earth's Carbuncle",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe(Mu) 15 spell known by Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Wielding the Invisible Sling",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 10 spell known by Iasper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Sense the Nature of Vis",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell revealing the Nains' fake vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0231"
+  ]
+ },
+ {
+  "name": "Control Environment of Fudarus",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Six enchantments of the Rod of the Primus varying light, heat, portals, smells, noises and textures.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0206"
+  ]
+ },
+ {
+  "name": "Control Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rego Vim 55 power of the Circlet of the Primus commanding spirits.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Human Form",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Korrigan power to assume a beautiful woman's form.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173"
+  ]
+ },
+ {
+  "name": "Fearsome Bark",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Black Dog power like Panic of the Trembling Heart.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0190"
+  ]
+ },
+ {
+  "name": "Dreadful Howl",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Black Dog power like Weight of a Thousand Hells.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0190"
+  ]
+ },
+ {
+  "name": "Glittering Treasure",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nain power creating vanishing silver coins.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0230",
+   "the-lion-and-the-lily-the-normandy-tribunal::0231"
+  ]
+ },
+ {
+  "name": "Deadly Dance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nain power compelling victims to dance until sunrise.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0231"
+  ]
+ },
+ {
+  "name": "Magician's Desire Denied",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Nain power making objects appear as vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0231"
+  ]
+ },
+ {
+  "name": "Mastery of Mist",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mogidell's power over mist and fog.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Mastery of Misdirection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Kerseenn's power over misdirection.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Mastery of Storms",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Arnev's power over bad weather.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0197",
+   "the-lion-and-the-lily-the-normandy-tribunal::0198"
+  ]
+ },
+ {
+  "name": "Incorporeal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power making the Ushant spirits invisible and intangible.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Presence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power making the Ushant spirits aware of all on Ushant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0197"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Flexible Formulaic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Affinity with Art",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Clear Thinker",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Harnessed Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Puissant Art",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Puissant Concentration",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Self Confident",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0189"
+  ]
+ },
+ {
+  "name": "Long-Winded",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0189"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0189"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Ways of the Island",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed in this text (e.g. for Iasper or the Black Dog).",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Chaotic Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw listed in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Meddler",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw listed in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw listed in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Incomprehensible",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw listed in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Weird Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw listed in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Reckless",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw listed in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0189"
+  ]
+ },
+ {
+  "name": "Curse of Venus",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw listed in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Fudarus grogs suffer a Lesser Malediction making them blind to certain colors.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0202",
+   "the-lion-and-the-lily-the-normandy-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Powerful Ally",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Boon a vassal may gain from a favorable oath.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0120",
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Beholden",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook common for vassals.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0120",
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Indebted",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook for vassals.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook for vassals.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Favors Owed",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Boon for lieges.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Hidden Resources",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Boon representing vassal tithes to liege.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Promised Favors",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor covenant Boon for lieges.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Protector",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor covenant Hook for lieges.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0122"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0189",
+   "the-lion-and-the-lily-the-normandy-tribunal::0190"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0230"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Normandy Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "French",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability appearing in character or creature statistics in this text.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Breton",
+  "type": "Ability",
+  "aliases": [
+   "Speak Breton"
+  ],
+  "description": "Language of western Brittany, rarely written.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0154",
+   "the-lion-and-the-lily-the-normandy-tribunal::0213",
+   "the-lion-and-the-lily-the-normandy-tribunal::0173"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic magic resistance; may not be extended over hastiludium mounts and must not be penetrated in the dimicatio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0145",
+   "the-lion-and-the-lily-the-normandy-tribunal::0148",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0198",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0175",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0206",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0207",
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0174",
+   "the-lion-and-the-lily-the-normandy-tribunal::0176"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169",
+   "the-lion-and-the-lily-the-normandy-tribunal::0227"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0197",
+   "the-lion-and-the-lily-the-normandy-tribunal::0226"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0231"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0176",
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0206",
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0161",
+   "the-lion-and-the-lily-the-normandy-tribunal::0170",
+   "the-lion-and-the-lily-the-normandy-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0190",
+   "the-lion-and-the-lily-the-normandy-tribunal::0203"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0214",
+   "the-lion-and-the-lily-the-normandy-tribunal::0231"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) referenced in this text for spells, powers or vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0148",
+   "the-lion-and-the-lily-the-normandy-tribunal::0170",
+   "the-lion-and-the-lily-the-normandy-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic aura"
+  ],
+  "description": "Realm of Magic; Magic auras found at Carnac, Fudarus, Bréhat and elsewhere.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0162",
+   "the-lion-and-the-lily-the-normandy-tribunal::0195",
+   "the-lion-and-the-lily-the-normandy-tribunal::0228"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie aura"
+  ],
+  "description": "Realm of Faerie; Faerie auras in Brocéliande and Gavrinis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0167",
+   "the-lion-and-the-lily-the-normandy-tribunal::0168",
+   "the-lion-and-the-lily-the-normandy-tribunal::0224"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Dominion"
+  ],
+  "description": "Realm of the Divine; Divine auras at St Nerius's site and Dominion at Our Lady of Haut.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196",
+   "the-lion-and-the-lily-the-normandy-tribunal::0179",
+   "the-lion-and-the-lily-the-normandy-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of the Infernal; Carnac has an Infernal aura at night.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0228",
+   "the-lion-and-the-lily-the-normandy-tribunal::0234",
+   "the-lion-and-the-lily-the-normandy-tribunal::0189"
+  ]
+ },
+ {
+  "name": "Oath of Fealty",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Legally enforceable oath binding a vassal covenant to its liege under Normandy's Peripheral Code.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0132",
+   "the-lion-and-the-lily-the-normandy-tribunal::0133",
+   "the-lion-and-the-lily-the-normandy-tribunal::0120"
+  ]
+ },
+ {
+  "name": "Liege and Vassal Covenants",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Feudal system by which established covenants sponsor and control new vassal covenants in Normandy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0132",
+   "the-lion-and-the-lily-the-normandy-tribunal::0134"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tribunal-specific Hermetic law, including fealty oaths and seisin rules.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0132",
+   "the-lion-and-the-lily-the-normandy-tribunal::0135",
+   "the-lion-and-the-lily-the-normandy-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Founding law of the Order.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0201"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power harvested from sources; scarce in the Normandy Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0134",
+   "the-lion-and-the-lily-the-normandy-tribunal::0150"
+  ]
+ },
+ {
+  "name": "Seisin",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A vis source legally owned by a covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0134",
+   "the-lion-and-the-lily-the-normandy-tribunal::0135"
+  ]
+ },
+ {
+  "name": "Legacy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lease of a vis source granted by the Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0135"
+  ]
+ },
+ {
+  "name": "Tropaeum",
+  "type": "Concept",
+  "aliases": [
+   "tropaea"
+  ],
+  "description": "Vis source lease distributed as a Tourney prize for seven years.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0135",
+   "the-lion-and-the-lily-the-normandy-tribunal::0139",
+   "the-lion-and-the-lily-the-normandy-tribunal::0150"
+  ]
+ },
+ {
+  "name": "Hermetic Tourney",
+  "type": "Concept",
+  "aliases": [
+   "Tourney"
+  ],
+  "description": "Contest held after each Normandy Tribunal meeting to distribute tropaea and prizes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0138",
+   "the-lion-and-the-lily-the-normandy-tribunal::0139",
+   "the-lion-and-the-lily-the-normandy-tribunal::0141"
+  ]
+ },
+ {
+  "name": "Hastiludium",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tourney event of mounted melee on ordinary objects using magic.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0139",
+   "the-lion-and-the-lily-the-normandy-tribunal::0141",
+   "the-lion-and-the-lily-the-normandy-tribunal::0145"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magical duel; the certamen tournament is a Tourney event.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0139",
+   "the-lion-and-the-lily-the-normandy-tribunal::0141",
+   "the-lion-and-the-lily-the-normandy-tribunal::0146"
+  ]
+ },
+ {
+  "name": "Joust",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tourney's most dangerous event, a knightly joust between mounted magi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142",
+   "the-lion-and-the-lily-the-normandy-tribunal::0146",
+   "the-lion-and-the-lily-the-normandy-tribunal::0147"
+  ]
+ },
+ {
+  "name": "Melee",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tourney event in which grogs try to capture opponents' magical castles.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0141",
+   "the-lion-and-the-lily-the-normandy-tribunal::0147",
+   "the-lion-and-the-lily-the-normandy-tribunal::0148"
+  ]
+ },
+ {
+  "name": "Dimicatio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Flambeau favorite Tourney event of forceless spells blocked by fast-cast defense.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0140",
+   "the-lion-and-the-lily-the-normandy-tribunal::0148",
+   "the-lion-and-the-lily-the-normandy-tribunal::0149"
+  ]
+ },
+ {
+  "name": "Hosting Covenant's Choice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tourney event chosen by the hosting covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142",
+   "the-lion-and-the-lily-the-normandy-tribunal::0149"
+  ]
+ },
+ {
+  "name": "Siege of Normandy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "First place in the Tourney.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Siege of Valor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Second place in the Tourney.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142"
+  ]
+ },
+ {
+  "name": "Siege of Notatus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Seventh place in the Tourney, granted a greater prize.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142",
+   "the-lion-and-the-lily-the-normandy-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Siege of Shame",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Thirteenth place, which receives no prize.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0143"
+  ]
+ },
+ {
+  "name": "Siege of Alms",
+  "type": "Concept",
+  "aliases": [],
+  "description": "21st place, a consolation prize.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0143",
+   "the-lion-and-the-lily-the-normandy-tribunal::0144"
+  ]
+ },
+ {
+  "name": "Prize Pawns",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gold tokens exchanged for Tourney prizes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142",
+   "the-lion-and-the-lily-the-normandy-tribunal::0150"
+  ]
+ },
+ {
+  "name": "Luctatio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Contest eremites may attend for vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0135"
+  ]
+ },
+ {
+  "name": "Eremite",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Solitary magus forbidden from owning a seisin.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0135",
+   "the-lion-and-the-lily-the-normandy-tribunal::0124"
+  ]
+ },
+ {
+  "name": "Coenobium",
+  "type": "Concept",
+  "aliases": [
+   "coenobites"
+  ],
+  "description": "Community of magi not meeting vis requirements to be a covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0135",
+   "the-lion-and-the-lily-the-normandy-tribunal::0136"
+  ]
+ },
+ {
+  "name": "Domus Magna",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Headquarters covenant of a House.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0191"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War that destroyed House Diedne.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0193"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "aliases": [
+   "Wizard War"
+  ],
+  "description": "Hermetic declared war between magi.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Permanent Twilight ending a magus's career.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0129",
+   "the-lion-and-the-lily-the-normandy-tribunal::0191"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical state; Buliste's protracted Twilight made her seem dead.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0203",
+   "the-lion-and-the-lily-the-normandy-tribunal::0205"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Layered supernatural area; many in Brittany including Branugurix.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0162",
+   "the-lion-and-the-lily-the-normandy-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural area strength.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0162",
+   "the-lion-and-the-lily-the-normandy-tribunal::0195",
+   "the-lion-and-the-lily-the-normandy-tribunal::0228"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link used for magic at range.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0203",
+   "the-lion-and-the-lily-the-normandy-tribunal::0207"
+  ]
+ },
+ {
+  "name": "Low Crime",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lesser Hermetic crime for which vassals and lieges can prosecute.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0121"
+  ]
+ },
+ {
+  "name": "Hermetic Crime",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Offence under the Code.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0149"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Apprentice's final test.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0142",
+   "the-lion-and-the-lily-the-normandy-tribunal::0199",
+   "the-lion-and-the-lily-the-normandy-tribunal::0214"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "Concept",
+  "aliases": [
+   "Prima"
+  ],
+  "description": "Head of a House.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0191",
+   "the-lion-and-the-lily-the-normandy-tribunal::0195",
+   "the-lion-and-the-lily-the-normandy-tribunal::0200"
+  ]
+ },
+ {
+  "name": "Cow and Calf",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Agreement protecting copies of books.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0120"
+  ]
+ },
+ {
+  "name": "Hermetic Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Reputation among magi; Tourney named ranks grant level 2.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0144"
+  ]
+ },
+ {
+  "name": "Tribunal Meeting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gathering of magi hosted by a lot-chosen covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0137"
+  ]
+ },
+ {
+  "name": "Praeco",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Presiding magus of a Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0137"
+  ]
+ },
+ {
+  "name": "Fast-Cast Defense",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rapid defensive spell used in dimicatio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0148"
+  ]
+ },
+ {
+  "name": "Forceless Casting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Casting with zero Penetration.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0148"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical distortion; the aura warps Fudarus grogs.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Hermetic Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Research advance that may decode Carnac's stones.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Hermetic Geometry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery studied at Carnac.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Hermetic Astrology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery studied at Carnac.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Fertility Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic linked to Carnac and St. Cado's pillar.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0232",
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Path of Aging",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery path whose second quest uses the Fountain of Youth.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0168"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual causing sterility.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Mercere Portals",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical transport portals.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Tro Briez",
+  "type": "Concept",
+  "aliases": [
+   "Tour of Brittany"
+  ],
+  "description": "Pilgrimage visiting the eight Breton founder-saint cathedrals.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155"
+  ]
+ },
+ {
+  "name": "Pardons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Breton religious processions with feasting.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155"
+  ]
+ },
+ {
+  "name": "Theurgy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spirit magic of Fudarus's theurgists.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0196",
+   "the-lion-and-the-lily-the-normandy-tribunal::0213"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural power score.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0173",
+   "the-lion-and-the-lily-the-normandy-tribunal::0189",
+   "the-lion-and-the-lily-the-normandy-tribunal::0197"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine boon from St. Broch's fountain.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0163"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Non-magi living at a covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0178",
+   "the-lion-and-the-lily-the-normandy-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Grogs",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant soldiers and servants.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0147",
+   "the-lion-and-the-lily-the-normandy-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Spring Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Young covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0137"
+  ]
+ },
+ {
+  "name": "Summer Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Established covenant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0137"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Laboratory record.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0137"
+  ]
+ },
+ {
+  "name": "Deep Cover Disguise",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tytalus practice of assumed identities.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0204"
+  ]
+ },
+ {
+  "name": "Hedge Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk magic used by Carnac locals.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0229"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant soldier; contestants in the Tourney melee.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0147",
+   "the-lion-and-the-lily-the-normandy-tribunal::0208"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic wizard.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0124"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-magus character who may compete in the melee.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0147"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Messenger of House Mercere who tallies Tourney points.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0141",
+   "the-lion-and-the-lily-the-normandy-tribunal::0144",
+   "the-lion-and-the-lily-the-normandy-tribunal::0194"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Flambeau enforcers who arrived at Fudarus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0192"
+  ]
+ },
+ {
+  "name": "Brittany",
+  "type": "Place",
+  "aliases": [],
+  "description": "Rugged western peninsula, least-civilized part of the Tribunal.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0152",
+   "the-lion-and-the-lily-the-normandy-tribunal::0158",
+   "the-lion-and-the-lily-the-normandy-tribunal::0154"
+  ]
+ },
+ {
+  "name": "Mount Dol",
+  "type": "Place",
+  "aliases": [],
+  "description": "Granite outcrop sacred to druids, site of Branugurix.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0124",
+   "the-lion-and-the-lily-the-normandy-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Mont St. Michel",
+  "type": "Place",
+  "aliases": [],
+  "description": "Isle at the Normandy border.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0157",
+   "the-lion-and-the-lily-the-normandy-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Dol",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town with a cathedral to St. Samson.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0158"
+  ]
+ },
+ {
+  "name": "Champ-Dolent",
+  "type": "Place",
+  "aliases": [],
+  "description": "Menhir marking the Schism War's final battle.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0158"
+  ]
+ },
+ {
+  "name": "County of Rennes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Eastern Breton region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0156"
+  ]
+ },
+ {
+  "name": "Emerald Coast",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northern coast near Mont St. Michel.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0157"
+  ]
+ },
+ {
+  "name": "St. Malo",
+  "type": "Place",
+  "aliases": [],
+  "description": "Small port on the Rance.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0161"
+  ]
+ },
+ {
+  "name": "Aleth",
+  "type": "Place",
+  "aliases": [],
+  "description": "Settlement near St. Malo.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0161"
+  ]
+ },
+ {
+  "name": "Singing Stones",
+  "type": "Place",
+  "aliases": [],
+  "description": "Rocks yielding Imaginem vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0161"
+  ]
+ },
+ {
+  "name": "Dinan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Port with the Basilica of St. Savior.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0162"
+  ]
+ },
+ {
+  "name": "St. Magloire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Benedictine monastery at Léhon founded by Nominoé.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0162"
+  ]
+ },
+ {
+  "name": "Corseul",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of a temple of Mars in a regio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0162"
+  ]
+ },
+ {
+  "name": "Lamballe",
+  "type": "Place",
+  "aliases": [],
+  "description": "Seat of the Baron of Penthièvre.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0163"
+  ]
+ },
+ {
+  "name": "St. Brieuc",
+  "type": "Place",
+  "aliases": [],
+  "description": "Port with St. Broch's fountain.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0163"
+  ]
+ },
+ {
+  "name": "Rennes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Capital of the duchy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0164",
+   "the-lion-and-the-lily-the-normandy-tribunal::0165"
+  ]
+ },
+ {
+  "name": "Pléchâtel",
+  "type": "Place",
+  "aliases": [],
+  "description": "Village with caves and a vis oak.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0164"
+  ]
+ },
+ {
+  "name": "Langon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Village with a chapel on a temple of Venus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0164"
+  ]
+ },
+ {
+  "name": "Young Ladies",
+  "type": "Place",
+  "aliases": [],
+  "description": "Some 30 standing stones near Langon.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0164"
+  ]
+ },
+ {
+  "name": "Fougères",
+  "type": "Place",
+  "aliases": [],
+  "description": "Frontier castle town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0165"
+  ]
+ },
+ {
+  "name": "Faeries' Rock",
+  "type": "Place",
+  "aliases": [],
+  "description": "Megalithic chamber where a faerie court meets.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0166"
+  ]
+ },
+ {
+  "name": "Brocéliande",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mysterious Faerie forest west of Rennes.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0167",
+   "the-lion-and-the-lily-the-normandy-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Paimpont",
+  "type": "Place",
+  "aliases": [],
+  "description": "Monastery in Brocéliande.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0167"
+  ]
+ },
+ {
+  "name": "Fountain of Youth",
+  "type": "Place",
+  "aliases": [],
+  "description": "Spring in Brocéliande with faerie glamor.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0168",
+   "the-lion-and-the-lily-the-normandy-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Stone of Merlin",
+  "type": "Place",
+  "aliases": [],
+  "description": "Rock slabs where Merlin may sleep.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0168"
+  ]
+ },
+ {
+  "name": "Lake Comper",
+  "type": "Place",
+  "aliases": [],
+  "description": "Viviane's home.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Joyous Garden",
+  "type": "Place",
+  "aliases": [],
+  "description": "Garden Merlin conjured for Viviane.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Crystal Castle",
+  "type": "Place",
+  "aliases": [],
+  "description": "Castle of faerie knights at Lake Comper.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Bridge of Secrets",
+  "type": "Place",
+  "aliases": [],
+  "description": "Bridge near Beignon.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0169"
+  ]
+ },
+ {
+  "name": "Fountain of Barenton",
+  "type": "Place",
+  "aliases": [],
+  "description": "Fountain that yields Vim vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Merlin's Step",
+  "type": "Place",
+  "aliases": [],
+  "description": "Stone at Barenton summoning storms.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Valley of No Return",
+  "type": "Place",
+  "aliases": [],
+  "description": "Valley holding the unfaithful.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0170"
+  ]
+ },
+ {
+  "name": "False Lover's Rock",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Guyomart was trapped.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0170"
+  ]
+ },
+ {
+  "name": "Lordship of Penthièvre",
+  "type": "Place",
+  "aliases": [],
+  "description": "Barony on the central north coast.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0171"
+  ]
+ },
+ {
+  "name": "Rose Coast",
+  "type": "Place",
+  "aliases": [],
+  "description": "Pink granite coast.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0172"
+  ]
+ },
+ {
+  "name": "Bréhat Isles",
+  "type": "Place",
+  "aliases": [],
+  "description": "Isles with Magic aura 4.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0175"
+  ]
+ },
+ {
+  "name": "Seven Isles",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archipelago yielding Herbam and Animal vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0175",
+   "the-lion-and-the-lily-the-normandy-tribunal::0176"
+  ]
+ },
+ {
+  "name": "Tréguier",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town with the Church of St. Tugdual.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Dolmen of Kerguntuil",
+  "type": "Place",
+  "aliases": [],
+  "description": "Petrified giant dolmen.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Lanleff",
+  "type": "Place",
+  "aliases": [],
+  "description": "Round Templar chapel.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Lannion",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town with Brélévenez Church.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Quellen Marsh",
+  "type": "Place",
+  "aliases": [],
+  "description": "Marsh near the Léguer.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0177"
+  ]
+ },
+ {
+  "name": "Yaudet",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hilltop with a regio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Plestin-les Grèves",
+  "type": "Place",
+  "aliases": [],
+  "description": "Bathhouse ruin entrance to the Yaudet regio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0178"
+  ]
+ },
+ {
+  "name": "Loudéac",
+  "type": "Place",
+  "aliases": [],
+  "description": "Market town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Moncontour",
+  "type": "Place",
+  "aliases": [],
+  "description": "Market town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Our Lady of Haut",
+  "type": "Place",
+  "aliases": [],
+  "description": "Healing chapel with Dominion aura 5.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Quintin",
+  "type": "Place",
+  "aliases": [],
+  "description": "Market town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Long Rock",
+  "type": "Place",
+  "aliases": [],
+  "description": "Menhir.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0179"
+  ]
+ },
+ {
+  "name": "Lordship of Léon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northwestern extremity.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0181"
+  ]
+ },
+ {
+  "name": "Finistere",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land's End.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0181",
+   "the-lion-and-the-lily-the-normandy-tribunal::0210"
+  ]
+ },
+ {
+  "name": "St-Pol-de-Léon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Bishopric.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Batz",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Monster's Hole",
+  "type": "Place",
+  "aliases": [],
+  "description": "Dragon pit.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Barnenez tumulus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Tumulus with 11 chambers.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Men-Marz",
+  "type": "Place",
+  "aliases": [],
+  "description": "Menhir.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0182"
+  ]
+ },
+ {
+  "name": "Abers",
+  "type": "Place",
+  "aliases": [],
+  "description": "Coastal region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184"
+  ]
+ },
+ {
+  "name": "St. Renan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Plougerneau",
+  "type": "Place",
+  "aliases": [],
+  "description": "Village.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184"
+  ]
+ },
+ {
+  "name": "Tolente",
+  "type": "Place",
+  "aliases": [],
+  "description": "Vanished town in a regio.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184"
+  ]
+ },
+ {
+  "name": "St. Matthew's Point",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abbey site.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184",
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Isle of Ushant",
+  "type": "Place",
+  "aliases": [
+   "Ushant"
+  ],
+  "description": "Island of Fudarus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0184",
+   "the-lion-and-the-lily-the-normandy-tribunal::0194",
+   "the-lion-and-the-lily-the-normandy-tribunal::0199"
+  ]
+ },
+ {
+  "name": "Lampaul",
+  "type": "Place",
+  "aliases": [],
+  "description": "Fishing community on Ushant.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0199",
+   "the-lion-and-the-lily-the-normandy-tribunal::0201"
+  ]
+ },
+ {
+  "name": "Brest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Port.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Daoulas",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abbey.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Crozon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Peninsula.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Landévennec",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abbey.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Camaret",
+  "type": "Place",
+  "aliases": [],
+  "description": "Village.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Rocamadour",
+  "type": "Place",
+  "aliases": [],
+  "description": "Shrine of Our Lady.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185"
+  ]
+ },
+ {
+  "name": "Morgat",
+  "type": "Place",
+  "aliases": [],
+  "description": "Caves.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185",
+   "the-lion-and-the-lily-the-normandy-tribunal::0186"
+  ]
+ },
+ {
+  "name": "Devil's Chamber",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cave.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0185",
+   "the-lion-and-the-lily-the-normandy-tribunal::0186"
+  ]
+ },
+ {
+  "name": "Arrée Mountains",
+  "type": "Place",
+  "aliases": [],
+  "description": "Highest part of the duchy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0187",
+   "the-lion-and-the-lily-the-normandy-tribunal::0210"
+  ]
+ },
+ {
+  "name": "Huelgoat",
+  "type": "Place",
+  "aliases": [],
+  "description": "Boulder site.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0187"
+  ]
+ },
+ {
+  "name": "Trembling Rock",
+  "type": "Place",
+  "aliases": [],
+  "description": "Rocking stone.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0187"
+  ]
+ },
+ {
+  "name": "Youdig",
+  "type": "Place",
+  "aliases": [],
+  "description": "Entrance to Hell in Yeun Elez.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0187",
+   "the-lion-and-the-lily-the-normandy-tribunal::0188"
+  ]
+ },
+ {
+  "name": "Yeun Elez",
+  "type": "Place",
+  "aliases": [],
+  "description": "Peat bog.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0187",
+   "the-lion-and-the-lily-the-normandy-tribunal::0188"
+  ]
+ },
+ {
+  "name": "Mougau-Bihan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Giant's tomb.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0188"
+  ]
+ },
+ {
+  "name": "Abbey du Relecq",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cistercian monastery.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0188"
+  ]
+ },
+ {
+  "name": "Landernaeu",
+  "type": "Place",
+  "aliases": [],
+  "description": "Port.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0188"
+  ]
+ },
+ {
+  "name": "County of Cornouaille",
+  "type": "Place",
+  "aliases": [],
+  "description": "Peninsula county.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Locronan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Pilgrimage site.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Quimper",
+  "type": "Place",
+  "aliases": [],
+  "description": "Main town of Cornouaille.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0216"
+  ]
+ },
+ {
+  "name": "Sein Island",
+  "type": "Place",
+  "aliases": [],
+  "description": "Druid burial island.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Bay of Troubled Souls",
+  "type": "Place",
+  "aliases": [],
+  "description": "Bay of shipwrecks.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0217"
+  ]
+ },
+ {
+  "name": "Black Mountains",
+  "type": "Place",
+  "aliases": [
+   "Noires Mountains"
+  ],
+  "description": "Hills.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Ménez-Hom",
+  "type": "Place",
+  "aliases": [],
+  "description": "Summit.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Karreg an Tan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Fire Rock with Ignem vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Rostrenen",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hawthorn source.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Carhaix-Plouguer",
+  "type": "Place",
+  "aliases": [
+   "Vorgium"
+  ],
+  "description": "Settlement.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Burthulet",
+  "type": "Place",
+  "aliases": [],
+  "description": "Frigid place.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0218"
+  ]
+ },
+ {
+  "name": "Is",
+  "type": "Place",
+  "aliases": [],
+  "description": "Drowned city.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0219"
+  ]
+ },
+ {
+  "name": "Corong Gorge",
+  "type": "Place",
+  "aliases": [],
+  "description": "Gorge with genius loci.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Toul Goulic Gorge",
+  "type": "Place",
+  "aliases": [],
+  "description": "Gorge with genius loci.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0220"
+  ]
+ },
+ {
+  "name": "Broërec",
+  "type": "Place",
+  "aliases": [],
+  "description": "Southern region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0221"
+  ]
+ },
+ {
+  "name": "Gulf of Morbihan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Gulf.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0222",
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "St-Gildas-de-Rhuys",
+  "type": "Place",
+  "aliases": [],
+  "description": "Monastery.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0222"
+  ]
+ },
+ {
+  "name": "Tumiac Tumulus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Tumulus.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0223"
+  ]
+ },
+ {
+  "name": "Gavrinis",
+  "type": "Place",
+  "aliases": [],
+  "description": "Tumulus gateway to Faerie.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0224"
+  ]
+ },
+ {
+  "name": "Er Lanic",
+  "type": "Place",
+  "aliases": [],
+  "description": "Isle with stones.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0224"
+  ]
+ },
+ {
+  "name": "Locmariaquer",
+  "type": "Place",
+  "aliases": [],
+  "description": "Megaliths.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0225"
+  ]
+ },
+ {
+  "name": "Merchants' Table",
+  "type": "Place",
+  "aliases": [],
+  "description": "Carved stones.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0225"
+  ]
+ },
+ {
+  "name": "Quiberon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0226"
+  ]
+ },
+ {
+  "name": "Roh-en-Aod",
+  "type": "Place",
+  "aliases": [],
+  "description": "Stone yielding Auram vis.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0226"
+  ]
+ },
+ {
+  "name": "Belle-ile",
+  "type": "Place",
+  "aliases": [],
+  "description": "Largest Breton island.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0226",
+   "the-lion-and-the-lily-the-normandy-tribunal::0227"
+  ]
+ },
+ {
+  "name": "Carnac",
+  "type": "Place",
+  "aliases": [],
+  "description": "Great menhir field with Magic by day, Infernal by night.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0228",
+   "the-lion-and-the-lily-the-normandy-tribunal::0229",
+   "the-lion-and-the-lily-the-normandy-tribunal::0232"
+  ]
+ },
+ {
+  "name": "Church of St. Cornelius",
+  "type": "Place",
+  "aliases": [],
+  "description": "Church at Carnac.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0233"
+  ]
+ },
+ {
+  "name": "Vannes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Nominoé's capital.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0155",
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Lanvaux Moors",
+  "type": "Place",
+  "aliases": [],
+  "description": "Moors.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Ploëmel",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0235"
+  ]
+ },
+ {
+  "name": "Josselin",
+  "type": "Place",
+  "aliases": [],
+  "description": "Castle town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0236"
+  ]
+ },
+ {
+  "name": "Castennac",
+  "type": "Place",
+  "aliases": [],
+  "description": "Village.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0236"
+  ]
+ },
+ {
+  "name": "Normandy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Duchy.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0123",
+   "the-lion-and-the-lily-the-normandy-tribunal::0157"
+  ]
+ },
+ {
+  "name": "Champagne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Duchy of fairs.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Anjou",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0153"
+  ]
+ },
+ {
+  "name": "Aquitaine",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Burgundy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0200"
+  ]
+ },
+ {
+  "name": "The Morvan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Ile de France",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127",
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Flanders",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Cotentin",
+  "type": "Place",
+  "aliases": [],
+  "description": "Peninsula.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Jersey",
+  "type": "Place",
+  "aliases": [],
+  "description": "Channel Island.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0128"
+  ]
+ },
+ {
+  "name": "Fleury",
+  "type": "Place",
+  "aliases": [],
+  "description": "Druid site.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Cherbourg",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125"
+  ]
+ },
+ {
+  "name": "Bayeux",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126",
+   "the-lion-and-the-lily-the-normandy-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Rouen",
+  "type": "Place",
+  "aliases": [],
+  "description": "City sacked by Vikings.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126"
+  ]
+ },
+ {
+  "name": "Tours",
+  "type": "Place",
+  "aliases": [],
+  "description": "City.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "Niort",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0129"
+  ]
+ },
+ {
+  "name": "Laon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Town.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0135"
+  ]
+ },
+ {
+  "name": "Mount Beauvray",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mount.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125"
+  ]
+ },
+ {
+  "name": "Vendée",
+  "type": "Place",
+  "aliases": [],
+  "description": "Border region.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0126"
+  ]
+ },
+ {
+  "name": "River Yonne",
+  "type": "Place",
+  "aliases": [],
+  "description": "River.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0130"
+  ]
+ },
+ {
+  "name": "River Loire",
+  "type": "Place",
+  "aliases": [],
+  "description": "River.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0127"
+  ]
+ },
+ {
+  "name": "Stonehenge",
+  "type": "Place",
+  "aliases": [],
+  "description": "Monument.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0228"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "aliases": [],
+  "description": "Infernal destination.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0187"
+  ]
+ },
+ {
+  "name": "English Channel",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sea.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0125"
+  ]
+ },
+ {
+  "name": "River Rance",
+  "type": "Place",
+  "aliases": [],
+  "description": "River.",
+  "evidence": [
+   "the-lion-and-the-lily-the-normandy-tribunal::0161",
+   "the-lion-and-the-lily-the-normandy-tribunal::0162"
+  ]
+ }
+]

@@ -1,0 +1,2716 @@
+[
+ {
+  "name": "Beast of Virtue",
+  "type": "CharacterType",
+  "aliases": [
+   "Beasts of Virtue"
+  ],
+  "description": "A rare Magical specimen of an animal that possesses the remarkable powers attributed to it by medieval bestiaries.",
+  "evidence": [
+   "realms-of-power-magic::0365",
+   "realms-of-power-magic::0360",
+   "realms-of-power-magic::0455"
+  ]
+ },
+ {
+  "name": "Black Dog of the Moor",
+  "type": "Creature",
+  "aliases": [
+   "Black Dog"
+  ],
+  "description": "A magical hound with tracking powers who frees mistreated hounds and is hunted by a local noble in a story seed.",
+  "evidence": [
+   "realms-of-power-magic::0360"
+  ]
+ },
+ {
+  "name": "Caladrius",
+  "type": "Creature",
+  "description": "A kind-hearted magical bird prized by kings and magi for its healing powers.",
+  "evidence": [
+   "realms-of-power-magic::0360"
+  ]
+ },
+ {
+  "name": "Cockerel of Virtue",
+  "type": "Creature",
+  "description": "A magic cockerel whose crowing keeps invisible demons away from a village.",
+  "evidence": [
+   "realms-of-power-magic::0361"
+  ]
+ },
+ {
+  "name": "Great Stallion of the Camargue",
+  "type": "Creature",
+  "aliases": [
+   "The Stallion"
+  ],
+  "description": "A magical stallion who knows the Camargue better than any other living creature and flees humans with his herd.",
+  "evidence": [
+   "realms-of-power-magic::0361"
+  ]
+ },
+ {
+  "name": "Pentele",
+  "type": "Creature",
+  "description": "A being who protects the Beasts of Virtue inhabiting a magical garden realm and may allow visitors to hunt there in exchange for favors.",
+  "evidence": [
+   "realms-of-power-magic::0361"
+  ]
+ },
+ {
+  "name": "Panther of Virtue",
+  "type": "Creature",
+  "description": "A magical panther whose lure causes mysterious disappearances of animals and can ensnare incautious investigators.",
+  "evidence": [
+   "realms-of-power-magic::0362"
+  ]
+ },
+ {
+  "name": "Raven of Virtue",
+  "type": "Creature",
+  "description": "A magical raven that delivers omens of bad things to come.",
+  "evidence": [
+   "realms-of-power-magic::0362"
+  ]
+ },
+ {
+  "name": "Salamander of Virtue",
+  "type": "Creature",
+  "description": "A small poisonous magical salamander that seeks warmth, extinguishing fires, and can pass through a weak Aegis of the Hearth.",
+  "evidence": [
+   "realms-of-power-magic::0362",
+   "realms-of-power-magic::0363"
+  ]
+ },
+ {
+  "name": "Stag of Virtue",
+  "type": "Creature",
+  "description": "A magical stag whose antlers have healing powers; it has the Ways of the Forest Virtue and is a difficult quarry.",
+  "evidence": [
+   "realms-of-power-magic::0363"
+  ]
+ },
+ {
+  "name": "White Stag of the Wood",
+  "type": "Creature",
+  "aliases": [
+   "White Stag",
+   "The White Warder"
+  ],
+  "description": "A magical white stag who guards a forest and its deer, attacking grogs who poach there.",
+  "evidence": [
+   "realms-of-power-magic::0363",
+   "realms-of-power-magic::0364"
+  ]
+ },
+ {
+  "name": "Wise Owl of the Forest",
+  "type": "Creature",
+  "aliases": [
+   "The Owl"
+  ],
+  "description": "A talkative magical owl who monitors the forest, questions its animals, and shares information about magical creatures, vis sources and regiones.",
+  "evidence": [
+   "realms-of-power-magic::0364",
+   "realms-of-power-magic::0374"
+  ]
+ },
+ {
+  "name": "Ants of Virtue",
+  "type": "Creature",
+  "description": "Dog-sized ants of Ethiopia that dig up gold and guard it fiercely.",
+  "evidence": [
+   "realms-of-power-magic::0365",
+   "realms-of-power-magic::0371"
+  ]
+ },
+ {
+  "name": "Antelope of Virtue",
+  "type": "Creature",
+  "description": "A very wild beast with saw-like horns that can cut down trees.",
+  "evidence": [
+   "realms-of-power-magic::0365",
+   "realms-of-power-magic::0372"
+  ]
+ },
+ {
+  "name": "Ape of Virtue",
+  "type": "Creature",
+  "description": "A magical ape that loves to imitate men; apes in Europe are found only in Iberia near Gibraltar.",
+  "evidence": [
+   "realms-of-power-magic::0365",
+   "realms-of-power-magic::0372"
+  ]
+ },
+ {
+  "name": "Asp of Virtue",
+  "type": "Creature",
+  "description": "A venomous serpent of several types, easily charmed by music, said to guard a balm-bearing tree or bear a carbuncle gem.",
+  "evidence": [
+   "realms-of-power-magic::0365",
+   "realms-of-power-magic::0366",
+   "realms-of-power-magic::0372"
+  ]
+ },
+ {
+  "name": "Beaver of Virtue",
+  "type": "Creature",
+  "description": "A gentle magical beaver whose testicles have medicinal properties and whose teeth can cut down trees.",
+  "evidence": [
+   "realms-of-power-magic::0366",
+   "realms-of-power-magic::0372"
+  ]
+ },
+ {
+  "name": "Bees of Virtue",
+  "type": "Creature",
+  "description": "Magical bees spontaneously generated from rotting cattle carcasses, forming a model society ruled by a king.",
+  "evidence": [
+   "realms-of-power-magic::0366",
+   "realms-of-power-magic::0372"
+  ]
+ },
+ {
+  "name": "Crow of Virtue",
+  "type": "Creature",
+  "description": "A magical crow said to know the paths of treachery and predict the future.",
+  "evidence": [
+   "realms-of-power-magic::0366",
+   "realms-of-power-magic::0367",
+   "realms-of-power-magic::0373"
+  ]
+ },
+ {
+  "name": "Dog of Virtue",
+  "type": "Creature",
+  "description": "A magical dog that may heal wounds by licking them; its body parts are useful in warding.",
+  "evidence": [
+   "realms-of-power-magic::0366",
+   "realms-of-power-magic::0367",
+   "realms-of-power-magic::0373"
+  ]
+ },
+ {
+  "name": "Dolphin of Virtue",
+  "type": "Creature",
+  "description": "The fastest fish in the ocean, friendly to man, fond of music, and a harbinger of storms.",
+  "evidence": [
+   "realms-of-power-magic::0367",
+   "realms-of-power-magic::0373"
+  ]
+ },
+ {
+  "name": "Eagle of Virtue",
+  "type": "Creature",
+  "description": "A magical eagle with wondrous eyesight that rejuvenates itself by flying to the sun and diving into a fountain.",
+  "evidence": [
+   "realms-of-power-magic::0367",
+   "realms-of-power-magic::0373"
+  ]
+ },
+ {
+  "name": "Echeneis of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Remora of Virtue",
+   "Echeneis (Remora) of Virtue"
+  ],
+  "description": "A small fish that attaches itself to ships and slows them to a standstill.",
+  "evidence": [
+   "realms-of-power-magic::0368",
+   "realms-of-power-magic::0373"
+  ]
+ },
+ {
+  "name": "Elephant of Virtue",
+  "type": "Creature",
+  "description": "A wise magical elephant that lives three hundred years and never forgets; it must eat mandrake root to mate.",
+  "evidence": [
+   "realms-of-power-magic::0368",
+   "realms-of-power-magic::0374"
+  ]
+ },
+ {
+  "name": "Fox of Virtue",
+  "type": "Creature",
+  "description": "A trickster fox that feigns death to lure carrion birds.",
+  "evidence": [
+   "realms-of-power-magic::0368",
+   "realms-of-power-magic::0374"
+  ]
+ },
+ {
+  "name": "Goat of Virtue",
+  "type": "Creature",
+  "description": "The best climber among beasts, with eyesight keen enough to tell hunters from travelers at a distance.",
+  "evidence": [
+   "realms-of-power-magic::0368",
+   "realms-of-power-magic::0374"
+  ]
+ },
+ {
+  "name": "Goose of Virtue",
+  "type": "Creature",
+  "description": "A good watchman that can smell humans better than any other animal.",
+  "evidence": [
+   "realms-of-power-magic::0368",
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0374"
+  ]
+ },
+ {
+  "name": "Hare of Virtue",
+  "type": "Creature",
+  "description": "A swift, timid hare that can change sex; Alpine hares turn white by eating snow.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0375"
+  ]
+ },
+ {
+  "name": "Hercinia of Virtue",
+  "type": "Creature",
+  "description": "A bird of the forests of southern Germany whose glowing feathers light travelers' paths.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0375"
+  ]
+ },
+ {
+  "name": "Hoopoe of Virtue",
+  "type": "Creature",
+  "description": "A foul bird nesting near cemeteries whose blood and heart are powerful ingredients in black magic.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0375"
+  ]
+ },
+ {
+  "name": "Kingfisher of Virtue",
+  "type": "Creature",
+  "aliases": [
+   "Halcyon"
+  ],
+  "description": "The halcyon, whose mid-winter nesting calms the sea for two weeks.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0375"
+  ]
+ },
+ {
+  "name": "Lynx of Virtue",
+  "type": "Creature",
+  "description": "A keen-sighted lynx whose urine hardens into the flame-colored stone lyncuriam.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0370",
+   "realms-of-power-magic::0375"
+  ]
+ },
+ {
+  "name": "Mouse of Virtue",
+  "type": "Creature",
+  "description": "A mouse born spontaneously from the soil, able to gnaw iron.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0370",
+   "realms-of-power-magic::0375"
+  ]
+ },
+ {
+  "name": "Owl of Virtue",
+  "type": "Creature",
+  "description": "A magical owl that can captivate other birds and charm its captors into releasing it.",
+  "evidence": [
+   "realms-of-power-magic::0370",
+   "realms-of-power-magic::0376"
+  ]
+ },
+ {
+  "name": "Pelican of Virtue",
+  "type": "Creature",
+  "description": "A bird that revives its dead offspring by shedding its own blood over them.",
+  "evidence": [
+   "realms-of-power-magic::0370",
+   "realms-of-power-magic::0376"
+  ]
+ },
+ {
+  "name": "Weasel of Virtue",
+  "type": "Creature",
+  "description": "An unclean animal with an understanding of medicine; the only animal able to kill a basilisk.",
+  "evidence": [
+   "realms-of-power-magic::0370",
+   "realms-of-power-magic::0376"
+  ]
+ },
+ {
+  "name": "Whale of Virtue",
+  "type": "Creature",
+  "description": "A giant whale whose back becomes covered with sand and plants, so sailors mistake it for an island.",
+  "evidence": [
+   "realms-of-power-magic::0370",
+   "realms-of-power-magic::0371",
+   "realms-of-power-magic::0376"
+  ]
+ },
+ {
+  "name": "Wolf of Virtue",
+  "type": "Creature",
+  "description": "A rapacious wolf whose gaze paralyzes its prey.",
+  "evidence": [
+   "realms-of-power-magic::0371",
+   "realms-of-power-magic::0376"
+  ]
+ },
+ {
+  "name": "Woodpecker of Virtue",
+  "type": "Creature",
+  "description": "A bird that makes nails and wedges fall out of any tree it perches on.",
+  "evidence": [
+   "realms-of-power-magic::0371",
+   "realms-of-power-magic::0376",
+   "realms-of-power-magic::0377"
+  ]
+ },
+ {
+  "name": "Lion of Virtue",
+  "type": "Creature",
+  "description": "A magical lion ruler to whom the king of the Bees of Virtue owes tribute in a story seed.",
+  "evidence": [
+   "realms-of-power-magic::0372"
+  ]
+ },
+ {
+  "name": "Basilisk",
+  "type": "Creature",
+  "description": "The mightiest of serpents, with a Might of about 30; only the weasel can kill one.",
+  "evidence": [
+   "realms-of-power-magic::0370",
+   "realms-of-power-magic::0430",
+   "realms-of-power-magic::0437"
+  ]
+ },
+ {
+  "name": "White Wolves of House Tremere",
+  "type": "Creature",
+  "description": "Wolves associated with House Tremere, similar to Wolves of Virtue but with Intelligence rather than Cunning.",
+  "evidence": [
+   "realms-of-power-magic::0371"
+  ]
+ },
+ {
+  "name": "Physiologus",
+  "type": "Item",
+  "description": "An anonymous first-century Greek manuscript on which most medieval bestiaries are based.",
+  "evidence": [
+   "realms-of-power-magic::0365"
+  ]
+ },
+ {
+  "name": "Bestiary",
+  "type": "Item",
+  "aliases": [
+   "Bestiaries"
+  ],
+  "description": "A medieval book about the characteristics and behavior of beasts, attributing remarkable powers to animals.",
+  "evidence": [
+   "realms-of-power-magic::0365"
+  ]
+ },
+ {
+  "name": "Pierre de Beauvais",
+  "type": "Character",
+  "description": "A bestiary author cited on the Antelope and the Asp.",
+  "evidence": [
+   "realms-of-power-magic::0365",
+   "realms-of-power-magic::0366"
+  ]
+ },
+ {
+  "name": "Pliny the Elder",
+  "type": "Character",
+  "description": "Ancient author cited on Alpine hares and on mice.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0370"
+  ]
+ },
+ {
+  "name": "Aristophanes",
+  "type": "Character",
+  "description": "Greek playwright whose play The Birds describes the founding of Nephelococcygia.",
+  "evidence": [
+   "realms-of-power-magic::0380",
+   "realms-of-power-magic::0381"
+  ]
+ },
+ {
+  "name": "The Birds",
+  "type": "Item",
+  "description": "Play by Aristophanes, a tractatus of Quality 5 in Magic Lore, describing Nephelococcygia as intercepting communications between earth and heaven.",
+  "evidence": [
+   "realms-of-power-magic::0380",
+   "realms-of-power-magic::0381"
+  ]
+ },
+ {
+  "name": "The Saga of the Volsungs",
+  "type": "Item",
+  "description": "Norse saga quoted describing a worm creeping to its watering place.",
+  "evidence": [
+   "realms-of-power-magic::0450"
+  ]
+ },
+ {
+  "name": "Lyncuriam",
+  "type": "Item",
+  "description": "A semi-precious flame-colored stone formed from the hardened urine of the Lynx of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0370"
+  ]
+ },
+ {
+  "name": "Carbuncle",
+  "type": "Item",
+  "description": "A gem said by some bestiaries to lie on the asp's forehead.",
+  "evidence": [
+   "realms-of-power-magic::0366"
+  ]
+ },
+ {
+  "name": "Aetites",
+  "type": "Item",
+  "description": "A magical stone some eagles build into their nests.",
+  "evidence": [
+   "realms-of-power-magic::0367"
+  ]
+ },
+ {
+  "name": "Mandrake",
+  "type": "Item",
+  "description": "A Plant of Virtue whose root elephants must eat before they can mate.",
+  "evidence": [
+   "realms-of-power-magic::0368",
+   "realms-of-power-magic::0374"
+  ]
+ },
+ {
+  "name": "Cage of Change",
+  "type": "Item",
+  "description": "An iron enchanted cage (CrVi 30) that gives a captive animal 5 Warping Points in hope it becomes monstrous and can be harvested for Muto vis.",
+  "evidence": [
+   "realms-of-power-magic::0456",
+   "realms-of-power-magic::0457"
+  ]
+ },
+ {
+  "name": "Nephelococcygia",
+  "type": "Place",
+  "description": "A mobile magic regio (aura 10) in the clouds inhabited by intelligent birds, containing a city of nine concentric walls; its entrance usually lies in the Thebes Tribunal.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0379",
+   "realms-of-power-magic::0380"
+  ]
+ },
+ {
+  "name": "Bird of Nephelococcygia",
+  "type": "CharacterType",
+  "aliases": [
+   "Birds of Nephelococcygia"
+  ],
+  "description": "Intelligent birds inhabiting Nephelococcygia, not Beasts of Virtue, playable as magical characters with song-based powers.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0380",
+   "realms-of-power-magic::0381"
+  ]
+ },
+ {
+  "name": "Tereus",
+  "type": "Character",
+  "description": "King of the birds of Nephelococcygia, an epops who nests atop a thousand-foot spire said to hold records of prayers.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0381"
+  ]
+ },
+ {
+  "name": "Trochilus",
+  "type": "Character",
+  "description": "The scatter-brained small brown wren who keeps the single gate of the city of Nephelococcygia.",
+  "evidence": [
+   "realms-of-power-magic::0379"
+  ]
+ },
+ {
+  "name": "Philomena",
+  "type": "Character",
+  "description": "A swallow, sister-in-law of Tereus, who claimed in an interview recorded at Durenmar that Tereus' spire holds records of prayers.",
+  "evidence": [
+   "realms-of-power-magic::0381"
+  ]
+ },
+ {
+  "name": "Assembly of Birds",
+  "type": "Concept",
+  "description": "A mid-winter gathering that all Birds of Nephelococcygia must attend, at which new songs are performed and criticized.",
+  "evidence": [
+   "realms-of-power-magic::0380"
+  ]
+ },
+ {
+  "name": "Command the Flock",
+  "type": "Spell",
+  "description": "Power (ReAn 35) letting the bird trill commands to up to 100 birds for a duration of Sun.",
+  "evidence": [
+   "realms-of-power-magic::0383"
+  ]
+ },
+ {
+  "name": "The Crow's Song",
+  "type": "Spell",
+  "description": "Power (PeCo 40) that forces an Aging Roll with +5 on a target the next time he sleeps.",
+  "evidence": [
+   "realms-of-power-magic::0384"
+  ]
+ },
+ {
+  "name": "Air for Flying",
+  "type": "Spell",
+  "description": "Power (ReAu 35) keeping local weather calm while the bird sings, negating weak magical weather.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0385"
+  ]
+ },
+ {
+  "name": "Call the Flock",
+  "type": "Spell",
+  "description": "Power (ReAn 35) summoning a cloud of mundane birds to gather around the singer.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0386"
+  ]
+ },
+ {
+  "name": "Magical Lineages of Cats",
+  "type": "Faction",
+  "description": "Three families of cats tracing descent to the familiars of the Founders or their earliest apprentices, each with its own oral history and culture.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "Black Lineage",
+  "type": "Faction",
+  "aliases": [
+   "Black Cats"
+  ],
+  "description": "Aristocratic cat lineage descended from Founder Jerbiton's familiar, centered at Valnastium, whose cats defend the home and walk wards around settlements.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0415",
+   "realms-of-power-magic::0417"
+  ]
+ },
+ {
+  "name": "White Lineage",
+  "type": "Faction",
+  "description": "Friendly cat lineage descended from Founder Mercere's familiar, found in his House's covenants, protectors of people.",
+  "evidence": [
+   "realms-of-power-magic::0391"
+  ]
+ },
+ {
+  "name": "Tortoiseshell Lineage",
+  "type": "Faction",
+  "description": "Cat lineage associated with Celtic spellcasters, split after the Schism War with kings in Scotland and the Rhineland, known for predicting the future.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0416"
+  ]
+ },
+ {
+  "name": "Jerbiton",
+  "type": "Character",
+  "description": "Founder whose familiar, a prince of Egyptian cats, began the Black Lineage.",
+  "evidence": [
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "description": "Founder whose familiar began the White Lineage of cats.",
+  "evidence": [
+   "realms-of-power-magic::0391"
+  ]
+ },
+ {
+  "name": "Founders",
+  "type": "CharacterType",
+  "aliases": [
+   "Founder"
+  ],
+  "description": "The founders of the Order of Hermes, whose familiars began the magical lineages of cats.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0391"
+  ]
+ },
+ {
+  "name": "Valnastium",
+  "type": "Covenant",
+  "description": "The domus magna of House Jerbiton in the Tribunal of the Greater Alps, center of the Black Lineage of cats.",
+  "evidence": [
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "Bubastis",
+  "type": "Place",
+  "description": "Ancient Egyptian city whose great queens were ancestors of the Black Lineage's founding cat.",
+  "evidence": [
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "Tribunal of the Greater Alps",
+  "type": "Tribunal",
+  "aliases": [
+   "Greater Alps"
+  ],
+  "description": "Tribunal in which Valnastium lies.",
+  "evidence": [
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "Thebes Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where the entrance to Nephelococcygia is usually located.",
+  "evidence": [
+   "realms-of-power-magic::0379",
+   "realms-of-power-magic::0380"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where the Bonisagus magus Yonnlius is a Master.",
+  "evidence": [
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Conflict after which the Tortoiseshell Lineage of cats split into two groups.",
+  "evidence": [
+   "realms-of-power-magic::0392"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "description": "House to which the Tortoiseshell Lineage of cats may have had links.",
+  "evidence": [
+   "realms-of-power-magic::0392"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "House served by the Black Cats, whose domus magna is Valnastium.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0417"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "description": "House of Founder Mercere, in whose covenants the White Lineage is found.",
+  "evidence": [
+   "realms-of-power-magic::0391"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "description": "House known for its white wolves.",
+  "evidence": [
+   "realms-of-power-magic::0371"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "House of the magus Yonnlius.",
+  "evidence": [
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "House of the hoplite whose Ignem magic warped a family of mice.",
+  "evidence": [
+   "realms-of-power-magic::0464",
+   "realms-of-power-magic::0465"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "House whose magi often consider the cage of change abhorrent.",
+  "evidence": [
+   "realms-of-power-magic::0457"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "House whose magi often consider the cage of change abhorrent.",
+  "evidence": [
+   "realms-of-power-magic::0457"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "Cat power (Mentem) that overcomes the shock of talking cats and inclines humans to obey.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0395"
+  ]
+ },
+ {
+  "name": "Blackberry Cat",
+  "type": "Spell",
+  "aliases": [
+   "Feigned Innocence"
+  ],
+  "description": "Cat power, also called Feigned Innocence, making a group forget something the cat did.",
+  "evidence": [
+   "realms-of-power-magic::0396"
+  ]
+ },
+ {
+  "name": "Curse of Rheumatism",
+  "type": "Spell",
+  "description": "Cat power giving rheumatism in the limb of anyone who touches (kicks) the cat.",
+  "evidence": [
+   "realms-of-power-magic::0397"
+  ]
+ },
+ {
+  "name": "Drain Energy",
+  "type": "Spell",
+  "description": "Cat power similar to Invocation of Weariness at Touch or Eye range.",
+  "evidence": [
+   "realms-of-power-magic::0398"
+  ]
+ },
+ {
+  "name": "Fear of the Mouse",
+  "type": "Spell",
+  "description": "Cat power similar to Panic of the Trembling Heart, making people afraid of the cat.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0399"
+  ]
+ },
+ {
+  "name": "Feline Lullaby",
+  "type": "Spell",
+  "aliases": [
+   "Keeping the Humans Safely Tucked Away"
+  ],
+  "description": "Cat power, also Keeping the Humans Safely Tucked Away, a version of The Call to Slumber.",
+  "evidence": [
+   "realms-of-power-magic::0400"
+  ]
+ },
+ {
+  "name": "Humans are Easily Misplaced",
+  "type": "Spell",
+  "description": "Cat power, a version of Inexorable Search using scent-marked Arcane Connections.",
+  "evidence": [
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0401"
+  ]
+ },
+ {
+  "name": "Incredibly Cute",
+  "type": "Spell",
+  "description": "Cat power similar to Trust of Childlike Faith that impairs others' rationality.",
+  "evidence": [
+   "realms-of-power-magic::0402"
+  ]
+ },
+ {
+  "name": "Mackerel Sky",
+  "type": "Spell",
+  "description": "Cat power, a version of Sailor's Foretaste of the Morrow.",
+  "evidence": [
+   "realms-of-power-magic::0403"
+  ]
+ },
+ {
+  "name": "Master of the Undergrowth",
+  "type": "Spell",
+  "description": "Cat power, a version of Intuition of the Forest.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0404"
+  ]
+ },
+ {
+  "name": "Minor Allergy",
+  "type": "Spell",
+  "description": "Cat power, a Sight-range version of Touch of the Goose Feather.",
+  "evidence": [
+   "realms-of-power-magic::0405"
+  ]
+ },
+ {
+  "name": "Moving Objects with the Mind",
+  "type": "Spell",
+  "description": "Cat power, a Sight-range version of Unseen Arm.",
+  "evidence": [
+   "realms-of-power-magic::0406"
+  ]
+ },
+ {
+  "name": "Prison for Mice and Birds",
+  "type": "Spell",
+  "description": "Cat power, a version of Circle of Beast Warding.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0408"
+  ]
+ },
+ {
+  "name": "Prying Eyes",
+  "type": "Spell",
+  "description": "Cat power (Imaginem) letting a cat touching a roof see inside the room.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0409"
+  ]
+ },
+ {
+  "name": "Suck the Breath",
+  "type": "Spell",
+  "description": "Cat power causing an asthma attack like Grip of the Choking Hand.",
+  "evidence": [
+   "realms-of-power-magic::0410"
+  ]
+ },
+ {
+  "name": "Suckle Cows Dry",
+  "type": "Spell",
+  "description": "Cat power making a cow lactate while cats suckle.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0411"
+  ]
+ },
+ {
+  "name": "Suffocate the Dead",
+  "type": "Spell",
+  "description": "Cat power similar to Lay to Rest the Haunting Spirit, used by sleeping on a ghost's grave.",
+  "evidence": [
+   "realms-of-power-magic::0412"
+  ]
+ },
+ {
+  "name": "Viper's Gaze (cat power)",
+  "type": "Spell",
+  "description": "Cat power, a variant of Viper's Gaze used to immobilize prey.",
+  "evidence": [
+   "realms-of-power-magic::0413"
+  ]
+ },
+ {
+  "name": "Wake the Dead",
+  "type": "Spell",
+  "description": "Cat power animating corpses by leaping over them, like Awaken the Slumbering Corpse.",
+  "evidence": [
+   "realms-of-power-magic::0414"
+  ]
+ },
+ {
+  "name": "Warder's Walk",
+  "type": "Spell",
+  "description": "Vim power used by Black Lineage cats to combine powers, a variant of Wizard's Communion.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0412",
+   "realms-of-power-magic::0415"
+  ]
+ },
+ {
+  "name": "Whispers Through the Black Gate",
+  "type": "Spell",
+  "description": "Cat power to talk to corpses, most often found in tortoiseshells.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0416"
+  ]
+ },
+ {
+  "name": "Cat Like a Shadow",
+  "type": "Spell",
+  "description": "Personal cat power, a version of Veil of Invisibility.",
+  "evidence": [
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0423"
+  ]
+ },
+ {
+  "name": "Felianthrope",
+  "type": "Spell",
+  "description": "Personal cat power to take human shape, a version of The Beast Remade.",
+  "evidence": [
+   "realms-of-power-magic::0424"
+  ]
+ },
+ {
+  "name": "Inconspicuousness",
+  "type": "Spell",
+  "description": "Personal cat power, a version of Invisibility of the Standing Wizard.",
+  "evidence": [
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0425"
+  ]
+ },
+ {
+  "name": "Puffed Up and Hissing",
+  "type": "Spell",
+  "description": "Personal cat power granting extra mass, a version of Beast of Outlandish Size.",
+  "evidence": [
+   "realms-of-power-magic::0426"
+  ]
+ },
+ {
+  "name": "Resistance to Claws",
+  "type": "Spell",
+  "description": "Personal cat power making its coat resistant, a version of Doublet of Impenetrable Silk.",
+  "evidence": [
+   "realms-of-power-magic::0427"
+  ]
+ },
+ {
+  "name": "True Sight of the Air (cat power)",
+  "type": "Spell",
+  "description": "Personal cat power, a version of the spell True Sight of the Air.",
+  "evidence": [
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0428"
+  ]
+ },
+ {
+  "name": "Unmarked Passage",
+  "type": "Spell",
+  "description": "Cat power, a version of Trackless Step.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0429"
+  ]
+ },
+ {
+  "name": "Black Cat Wards",
+  "type": "Spell",
+  "description": "Group of protective powers used by Black Cats to defend homes or settlements from minor faeries and demons.",
+  "evidence": [
+   "realms-of-power-magic::0417",
+   "realms-of-power-magic::0418",
+   "realms-of-power-magic::0421"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Covenant ward that keeps out magical creatures such as the Raven or Fox of Virtue unless they penetrate it.",
+  "evidence": [
+   "realms-of-power-magic::0362",
+   "realms-of-power-magic::0374"
+  ]
+ },
+ {
+  "name": "Loss of But a Moment's Memory",
+  "type": "Spell",
+  "description": "Spell whose effect Blackberry Cat mimics.",
+  "evidence": [
+   "realms-of-power-magic::0396"
+  ]
+ },
+ {
+  "name": "Invocation of Weariness",
+  "type": "Spell",
+  "description": "Corpus spell similar to Drain Energy.",
+  "evidence": [
+   "realms-of-power-magic::0398"
+  ]
+ },
+ {
+  "name": "Panic of the Trembling Heart",
+  "type": "Spell",
+  "description": "Mentem spell similar to Fear of the Mouse.",
+  "evidence": [
+   "realms-of-power-magic::0399"
+  ]
+ },
+ {
+  "name": "The Call to Slumber",
+  "type": "Spell",
+  "description": "Mentem spell of which Feline Lullaby is a version.",
+  "evidence": [
+   "realms-of-power-magic::0400"
+  ]
+ },
+ {
+  "name": "Inexorable Search",
+  "type": "Spell",
+  "description": "Spell of which Humans are Easily Misplaced is a version.",
+  "evidence": [
+   "realms-of-power-magic::0401"
+  ]
+ },
+ {
+  "name": "Trust of Childlike Faith",
+  "type": "Spell",
+  "description": "Mentem spell similar to Incredibly Cute.",
+  "evidence": [
+   "realms-of-power-magic::0402"
+  ]
+ },
+ {
+  "name": "Sailor's Foretaste of the Morrow",
+  "type": "Spell",
+  "description": "Auram spell of which Mackerel Sky is a version.",
+  "evidence": [
+   "realms-of-power-magic::0403"
+  ]
+ },
+ {
+  "name": "Intuition of the Forest",
+  "type": "Spell",
+  "description": "Herbam spell of which Master of the Undergrowth is a version.",
+  "evidence": [
+   "realms-of-power-magic::0404"
+  ]
+ },
+ {
+  "name": "Touch of the Goose Feather",
+  "type": "Spell",
+  "description": "Corpus spell of which Minor Allergy is a Sight-range version.",
+  "evidence": [
+   "realms-of-power-magic::0405"
+  ]
+ },
+ {
+  "name": "Unseen Arm",
+  "type": "Spell",
+  "description": "Terram spell of which Moving Objects with the Mind is a version.",
+  "evidence": [
+   "realms-of-power-magic::0406"
+  ]
+ },
+ {
+  "name": "Pass the Unyielding Portal",
+  "type": "Spell",
+  "description": "Herbam spell also used as a cat power to open doors.",
+  "evidence": [
+   "realms-of-power-magic::0407"
+  ]
+ },
+ {
+  "name": "Circle of Beast Warding",
+  "type": "Spell",
+  "description": "Animal ward spell of which Prison for Mice and Birds is a version.",
+  "evidence": [
+   "realms-of-power-magic::0408"
+  ]
+ },
+ {
+  "name": "Grip of the Choking Hand",
+  "type": "Spell",
+  "description": "Corpus spell whose effect Suck the Breath duplicates.",
+  "evidence": [
+   "realms-of-power-magic::0410"
+  ]
+ },
+ {
+  "name": "Lay to Rest the Haunting Spirit",
+  "type": "Spell",
+  "description": "Mentem spell against ghosts, mimicked by Suffocate the Dead.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0412"
+  ]
+ },
+ {
+  "name": "Viper's Gaze",
+  "type": "Spell",
+  "description": "Animal spell used by cats to immobilize prey.",
+  "evidence": [
+   "realms-of-power-magic::0413"
+  ]
+ },
+ {
+  "name": "Awaken the Slumbering Corpse",
+  "type": "Spell",
+  "description": "Corpus spell animating a corpse, similar to Wake the Dead.",
+  "evidence": [
+   "realms-of-power-magic::0414"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "description": "Vim spell combining the power of casters; Warder's Walk is a variant.",
+  "evidence": [
+   "realms-of-power-magic::0415"
+  ]
+ },
+ {
+  "name": "Veil of Invisibility",
+  "type": "Spell",
+  "description": "Imaginem spell of which Cat Like a Shadow is a personal version.",
+  "evidence": [
+   "realms-of-power-magic::0423"
+  ]
+ },
+ {
+  "name": "The Beast Remade",
+  "type": "Spell",
+  "description": "Animal spell of which Felianthrope is a personal version.",
+  "evidence": [
+   "realms-of-power-magic::0424"
+  ]
+ },
+ {
+  "name": "Invisibility of the Standing Wizard",
+  "type": "Spell",
+  "description": "Imaginem spell of which Inconspicuousness is a personal version.",
+  "evidence": [
+   "realms-of-power-magic::0425"
+  ]
+ },
+ {
+  "name": "Beast of Outlandish Size",
+  "type": "Spell",
+  "description": "Animal spell of which Puffed Up and Hissing is a personal version.",
+  "evidence": [
+   "realms-of-power-magic::0426"
+  ]
+ },
+ {
+  "name": "Doublet of Impenetrable Silk",
+  "type": "Spell",
+  "description": "Animal spell of which Resistance to Claws is a personal version.",
+  "evidence": [
+   "realms-of-power-magic::0427"
+  ]
+ },
+ {
+  "name": "True Sight of the Air",
+  "type": "Spell",
+  "description": "Auram spell granting true sight, also a cat power.",
+  "evidence": [
+   "realms-of-power-magic::0428"
+  ]
+ },
+ {
+  "name": "Trackless Step",
+  "type": "Spell",
+  "description": "Terram spell of which Unmarked Passage is a version.",
+  "evidence": [
+   "realms-of-power-magic::0429"
+  ]
+ },
+ {
+  "name": "Circular Ward Against Demons",
+  "type": "Spell",
+  "description": "Vim ward simulated by Black Cat Wards.",
+  "evidence": [
+   "realms-of-power-magic::0418"
+  ]
+ },
+ {
+  "name": "Ward Against Beasts of Legend",
+  "type": "Spell",
+  "description": "Animal ward simulated by Black Cat Wards.",
+  "evidence": [
+   "realms-of-power-magic::0419"
+  ]
+ },
+ {
+  "name": "Ward Against the Faeries of the Wood",
+  "type": "Spell",
+  "description": "Herbam ward simulated by Black Cat Wards.",
+  "evidence": [
+   "realms-of-power-magic::0420"
+  ]
+ },
+ {
+  "name": "Ring of Warding Against Spirits",
+  "type": "Spell",
+  "description": "Mentem ward simulated by Black Cat Wards.",
+  "evidence": [
+   "realms-of-power-magic::0421"
+  ]
+ },
+ {
+  "name": "Lungs of the Fish",
+  "type": "Spell",
+  "description": "Aquam spell, a continuously active power of Arkliss.",
+  "evidence": [
+   "realms-of-power-magic::0444",
+   "realms-of-power-magic::0445"
+  ]
+ },
+ {
+  "name": "Peering Into the Mortal Mind",
+  "type": "Spell",
+  "description": "Mentem spell, whose Sight-range power version Polymathes possesses.",
+  "evidence": [
+   "realms-of-power-magic::0447",
+   "realms-of-power-magic::0448"
+  ]
+ },
+ {
+  "name": "The Enigma's Gift",
+  "type": "Spell",
+  "description": "Spell whose effect the cage of change resembles, causing rapid Warping.",
+  "evidence": [
+   "realms-of-power-magic::0457"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [
+   "True dragon",
+   "Dragons"
+  ],
+  "description": "The largest and most fearsome mortal creatures, intelligent, with four legs and bat-like wings, renowned for cunning and lust for treasure.",
+  "evidence": [
+   "realms-of-power-magic::0430",
+   "realms-of-power-magic::0431",
+   "realms-of-power-magic::0433"
+  ]
+ },
+ {
+  "name": "Serpent",
+  "type": "Creature",
+  "aliases": [
+   "Serpents"
+  ],
+  "description": "The least of the dragons' kin, snake-like supernatural creatures often venomous and able to entrance.",
+  "evidence": [
+   "realms-of-power-magic::0430",
+   "realms-of-power-magic::0437"
+  ]
+ },
+ {
+  "name": "Drake",
+  "type": "Creature",
+  "aliases": [
+   "Drakes"
+  ],
+  "description": "Misshapen, less intelligent caricatures of dragons with legs and often stunted wings and dangerous breath.",
+  "evidence": [
+   "realms-of-power-magic::0430",
+   "realms-of-power-magic::0437"
+  ]
+ },
+ {
+  "name": "Worm",
+  "type": "Creature",
+  "aliases": [
+   "Worms"
+  ],
+  "description": "Huge serpent-like dragon-kin, typically venomous, that crush or suffocate victims in their coils.",
+  "evidence": [
+   "realms-of-power-magic::0430",
+   "realms-of-power-magic::0431"
+  ]
+ },
+ {
+  "name": "Stellatus",
+  "type": "Creature",
+  "description": "A dragon from ArM5, small for a dragon at Size +8.",
+  "evidence": [
+   "realms-of-power-magic::0431"
+  ]
+ },
+ {
+  "name": "Jörmungandr",
+  "type": "Creature",
+  "aliases": [
+   "Midgard Serpent"
+  ],
+  "description": "The Midgard Serpent, with a Might of 75.",
+  "evidence": [
+   "realms-of-power-magic::0437"
+  ]
+ },
+ {
+  "name": "Scitalis",
+  "type": "Creature",
+  "description": "A slow-moving six-foot serpent with spectacular colors that stupefy those who look at it; its venom causes wounds.",
+  "evidence": [
+   "realms-of-power-magic::0437",
+   "realms-of-power-magic::0438",
+   "realms-of-power-magic::0439",
+   "realms-of-power-magic::0452"
+  ]
+ },
+ {
+  "name": "Varkos",
+  "type": "Character",
+  "aliases": [
+   "Varkos, the Fire Drake",
+   "dragon of the mountains"
+  ],
+  "description": "A misshapen fire drake living in a mountain cave who desperately wants to be seen as a fearsome dragon.",
+  "evidence": [
+   "realms-of-power-magic::0440",
+   "realms-of-power-magic::0441",
+   "realms-of-power-magic::0453"
+  ]
+ },
+ {
+  "name": "Arkliss",
+  "type": "Character",
+  "aliases": [
+   "Arkliss, a Dragon of the Fens"
+  ],
+  "description": "A small but fierce true dragon lairing in a bog, able to dominate people with her gaze and breathe pestilence.",
+  "evidence": [
+   "realms-of-power-magic::0443",
+   "realms-of-power-magic::0444",
+   "realms-of-power-magic::0453"
+  ]
+ },
+ {
+  "name": "Polymathes",
+  "type": "Character",
+  "aliases": [
+   "Polymathes, the Draconic Librarian"
+  ],
+  "description": "An ancient, magically potent dragon who hoards rare books and scrolls in a tunnel lair of illusions.",
+  "evidence": [
+   "realms-of-power-magic::0446",
+   "realms-of-power-magic::0448",
+   "realms-of-power-magic::0454"
+  ]
+ },
+ {
+  "name": "Lindwurm",
+  "type": "Creature",
+  "aliases": [
+   "Lindorm"
+  ],
+  "description": "A huge legless bat-winged worm of German and Scandinavian tales that hoards treasure and takes hostages for ransom.",
+  "evidence": [
+   "realms-of-power-magic::0450",
+   "realms-of-power-magic::0451",
+   "realms-of-power-magic::0454"
+  ]
+ },
+ {
+  "name": "Dazzling Appearance",
+  "type": "Spell",
+  "description": "Scitalis power (ReMe) stupefying all who look at it.",
+  "evidence": [
+   "realms-of-power-magic::0438"
+  ]
+ },
+ {
+  "name": "Puff of Flame",
+  "type": "Spell",
+  "description": "Varkos' power to spit a ball of flame.",
+  "evidence": [
+   "realms-of-power-magic::0440"
+  ]
+ },
+ {
+  "name": "Torrent of Flame",
+  "type": "Spell",
+  "description": "Varkos' power to belch a 30-pace torrent of flame.",
+  "evidence": [
+   "realms-of-power-magic::0440",
+   "realms-of-power-magic::0441"
+  ]
+ },
+ {
+  "name": "Domination",
+  "type": "Spell",
+  "description": "Arkliss' gaze power to bend a person to one command.",
+  "evidence": [
+   "realms-of-power-magic::0443",
+   "realms-of-power-magic::0444",
+   "realms-of-power-magic::0453"
+  ]
+ },
+ {
+  "name": "Pestilential Breath",
+  "type": "Spell",
+  "description": "Arkliss' power exhaling a disease-causing mist.",
+  "evidence": [
+   "realms-of-power-magic::0444"
+  ]
+ },
+ {
+  "name": "Master of Illusion",
+  "type": "Spell",
+  "description": "Polymathes' Focus Power to alter appearances as Muto Imaginem.",
+  "evidence": [
+   "realms-of-power-magic::0447"
+  ]
+ },
+ {
+  "name": "Fiery Breath",
+  "type": "Spell",
+  "description": "Polymathes' power belching fire 50 paces long.",
+  "evidence": [
+   "realms-of-power-magic::0447"
+  ]
+ },
+ {
+  "name": "Poisonous Blood",
+  "type": "Spell",
+  "description": "Polymathes' deadly blood that stays potent for nine days.",
+  "evidence": [
+   "realms-of-power-magic::0448"
+  ]
+ },
+ {
+  "name": "Poisonous Breath",
+  "type": "Spell",
+  "description": "Lindwurm power exhaling a cloud of poisonous black smoke.",
+  "evidence": [
+   "realms-of-power-magic::0451"
+  ]
+ },
+ {
+  "name": "Venomous Bite",
+  "type": "Spell",
+  "description": "Lindwurm bite with the same toxic effect as its breath.",
+  "evidence": [
+   "realms-of-power-magic::0451"
+  ]
+ },
+ {
+  "name": "Constriction",
+  "type": "Concept",
+  "description": "Optional grapple-based attack by which dragons and worms suffocate victims.",
+  "evidence": [
+   "realms-of-power-magic::0435",
+   "realms-of-power-magic::0436",
+   "realms-of-power-magic::0450"
+  ]
+ },
+ {
+  "name": "Transformed Animal",
+  "type": "CharacterType",
+  "description": "An animal Warped by magic whose magical qualities relate to the transforming event; it gains no Magic Might.",
+  "evidence": [
+   "realms-of-power-magic::0455",
+   "realms-of-power-magic::0459"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Accumulated mystical effect that grants animals Flaws and eventually Virtues as their Warping Score rises.",
+  "evidence": [
+   "realms-of-power-magic::0456",
+   "realms-of-power-magic::0458",
+   "realms-of-power-magic::0459"
+  ]
+ },
+ {
+  "name": "Wizard's Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight"
+  ],
+  "description": "State a Hermetic magus may enter if caught in a penetrating cage of change.",
+  "evidence": [
+   "realms-of-power-magic::0457"
+  ]
+ },
+ {
+  "name": "Cat-Fish",
+  "type": "Creature",
+  "aliases": [
+   "Felis Aquatica"
+  ],
+  "description": "A Warped cat, fore-part black cat and back-part silvery fish, living in a tributary of the Seine.",
+  "evidence": [
+   "realms-of-power-magic::0460",
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "Dog that Flew",
+  "type": "Creature",
+  "aliases": [
+   "Canis Volata",
+   "flying dog"
+  ],
+  "description": "A Warped hunting dog with grey feathered wings, able to glide, hiding near Hersfeld.",
+  "evidence": [
+   "realms-of-power-magic::0462",
+   "realms-of-power-magic::0463"
+  ]
+ },
+ {
+  "name": "Mice That Burned the Barn",
+  "type": "Creature",
+  "aliases": [
+   "Mus Flammeus"
+  ],
+  "description": "A family of mice Warped by Flambeau Ignem magic that belch sparks and set barns alight.",
+  "evidence": [
+   "realms-of-power-magic::0464",
+   "realms-of-power-magic::0465"
+  ]
+ },
+ {
+  "name": "Yonnlius",
+  "type": "Character",
+  "description": "Bonisagus magus, a Master in the Rhine Tribunal, who caught and studied the cat-fish.",
+  "evidence": [
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "Hersfeld",
+  "type": "Place",
+  "description": "Town in Central Germany with a bell tower over which a flying dog was seen in 1217.",
+  "evidence": [
+   "realms-of-power-magic::0463"
+  ]
+ },
+ {
+  "name": "Benedictine Abbey of Hersfeld",
+  "type": "Place",
+  "description": "Abbey near Hersfeld whose monks recorded the flying dog as a miracle.",
+  "evidence": [
+   "realms-of-power-magic::0463"
+  ]
+ },
+ {
+  "name": "Seine",
+  "type": "Place",
+  "description": "River in Champagne said to contain a powerful magical regio that Warped the cat-fish.",
+  "evidence": [
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "Champagne",
+  "type": "Place",
+  "description": "Region whose fishermen tell stories of the cat-fish.",
+  "evidence": [
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Place where records such as Philomena's interview and the cat-fish study are held; home of the Great Library.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0450",
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "Great Library of Durenmar",
+  "type": "Place",
+  "description": "Library that it would be inadvisable to mention to Polymathes.",
+  "evidence": [
+   "realms-of-power-magic::0450"
+  ]
+ },
+ {
+  "name": "Camargue",
+  "type": "Place",
+  "description": "Region home to the Great Stallion of the Camargue.",
+  "evidence": [
+   "realms-of-power-magic::0361"
+  ]
+ },
+ {
+  "name": "Ethiopia",
+  "type": "Place",
+  "description": "Land said to be home to the Ants of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0365"
+  ]
+ },
+ {
+  "name": "Straits of Gibraltar",
+  "type": "Place",
+  "description": "Area in Iberia where apes are found in Europe.",
+  "evidence": [
+   "realms-of-power-magic::0365"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "description": "Only part of Europe where apes are found.",
+  "evidence": [
+   "realms-of-power-magic::0365"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Place",
+  "description": "Mountains whose hares turn white eating snow and over which Nephelococcygia sometimes wanders.",
+  "evidence": [
+   "realms-of-power-magic::0369",
+   "realms-of-power-magic::0375",
+   "realms-of-power-magic::0380"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "City alerted by geese to an attack by the Gauls.",
+  "evidence": [
+   "realms-of-power-magic::0368",
+   "realms-of-power-magic::0369"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "description": "Seat of one king of the Tortoiseshell Lineage of cats.",
+  "evidence": [
+   "realms-of-power-magic::0392"
+  ]
+ },
+ {
+  "name": "Rhineland",
+  "type": "Place",
+  "description": "Seat of one king of the Tortoiseshell Lineage of cats.",
+  "evidence": [
+   "realms-of-power-magic::0392"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting of Ars Magica.",
+  "evidence": [
+   "realms-of-power-magic::0361",
+   "realms-of-power-magic::0363",
+   "realms-of-power-magic::0430"
+  ]
+ },
+ {
+  "name": "Homing Instinct",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0381"
+  ]
+ },
+ {
+  "name": "Keen Vision",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0391"
+  ]
+ },
+ {
+  "name": "Lightning Reflexes",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Magic Animal",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Magical Champion",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0383",
+   "realms-of-power-magic::0438"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0458"
+  ]
+ },
+ {
+  "name": "Composer of Power",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0380",
+   "realms-of-power-magic::0381"
+  ]
+ },
+ {
+  "name": "Unaffected by the Gift",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0388"
+  ]
+ },
+ {
+  "name": "Magical Friend",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0388"
+  ]
+ },
+ {
+  "name": "Perfect Balance",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0460"
+  ]
+ },
+ {
+  "name": "Puissant Awareness",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0460"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0460",
+   "realms-of-power-magic::0462"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0391",
+   "realms-of-power-magic::0392"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0392"
+  ]
+ },
+ {
+  "name": "Greater Magical Power",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0393"
+  ]
+ },
+ {
+  "name": "Lesser Magical Power",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0393"
+  ]
+ },
+ {
+  "name": "Master of (Form) Creatures",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0471"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0467",
+   "realms-of-power-magic::0468"
+  ]
+ },
+ {
+  "name": "Gift of Speech",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0434",
+   "realms-of-power-magic::0440",
+   "realms-of-power-magic::0443"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0434",
+   "realms-of-power-magic::0446"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0434",
+   "realms-of-power-magic::0443"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0434",
+   "realms-of-power-magic::0443"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0437",
+   "realms-of-power-magic::0438",
+   "realms-of-power-magic::0445"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0443",
+   "realms-of-power-magic::0451"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0446",
+   "realms-of-power-magic::0447"
+  ]
+ },
+ {
+  "name": "Magical Meditation",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0446"
+  ]
+ },
+ {
+  "name": "Gigantic",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Ways of the Forest",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0363"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0434",
+   "realms-of-power-magic::0440"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "description": "A Virtue or Magic Quality named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "Short Attention Span",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0378"
+  ]
+ },
+ {
+  "name": "Avaricious",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "Gender Nonconforming",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0392"
+  ]
+ },
+ {
+  "name": "Nocturnal",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "(Form) Monstrosity",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0457",
+   "realms-of-power-magic::0458",
+   "realms-of-power-magic::0460"
+  ]
+ },
+ {
+  "name": "Warped Senses",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0458",
+   "realms-of-power-magic::0462"
+  ]
+ },
+ {
+  "name": "Hunger for (Form) Magic",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0458"
+  ]
+ },
+ {
+  "name": "Bound to Magic",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0458"
+  ]
+ },
+ {
+  "name": "Magical Monster",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0434",
+   "realms-of-power-magic::0440"
+  ]
+ },
+ {
+  "name": "Essential Flaw",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0434",
+   "realms-of-power-magic::0443"
+  ]
+ },
+ {
+  "name": "Susceptible to Deprivation",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0438",
+   "realms-of-power-magic::0440"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0434"
+  ]
+ },
+ {
+  "name": "Miniature",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0438"
+  ]
+ },
+ {
+  "name": "Reduced Might",
+  "type": "Flaw",
+  "description": "A Flaw or Inferiority named among the traits of magical animals or dragons in this text.",
+  "evidence": [
+   "realms-of-power-magic::0446"
+  ]
+ },
+ {
+  "name": "Qualities",
+  "type": "Concept",
+  "aliases": [
+   "Magic Qualities"
+  ],
+  "description": "Traits purchased by magical creatures (including Minor Virtues); cats may have only 10 points of them.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0389",
+   "realms-of-power-magic::0437"
+  ]
+ },
+ {
+  "name": "Inferiorities",
+  "type": "Concept",
+  "description": "Negative traits of magical creatures, counterparts to Qualities.",
+  "evidence": [
+   "realms-of-power-magic::0389",
+   "realms-of-power-magic::0390",
+   "realms-of-power-magic::0438"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability; flying is represented as its specialty.",
+  "evidence": [
+   "realms-of-power-magic::0387",
+   "realms-of-power-magic::0363"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability used for taming, training and commanding animals.",
+  "evidence": [
+   "realms-of-power-magic::0467",
+   "realms-of-power-magic::0469",
+   "realms-of-power-magic::0477"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Ability used to predict Nephelococcygia's path and command tamed elementals.",
+  "evidence": [
+   "realms-of-power-magic::0379",
+   "realms-of-power-magic::0471",
+   "realms-of-power-magic::0477"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "description": "Ability that may substitute for Animal Handling when using a mount.",
+  "evidence": [
+   "realms-of-power-magic::0477"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Ability important for dragon combat and constriction attacks.",
+  "evidence": [
+   "realms-of-power-magic::0435",
+   "realms-of-power-magic::0436"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability boosting powers against Magic Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0443",
+   "realms-of-power-magic::0445"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability normally determining how many can be led in a trained group.",
+  "evidence": [
+   "realms-of-power-magic::0476"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability used to spot creatures.",
+  "evidence": [
+   "realms-of-power-magic::0464"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0383",
+   "realms-of-power-magic::0408"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0385",
+   "realms-of-power-magic::0403"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0384",
+   "realms-of-power-magic::0397",
+   "realms-of-power-magic::0414"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0395",
+   "realms-of-power-magic::0396",
+   "realms-of-power-magic::0399"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0409",
+   "realms-of-power-magic::0423",
+   "realms-of-power-magic::0447"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0404",
+   "realms-of-power-magic::0407",
+   "realms-of-power-magic::0420"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0406",
+   "realms-of-power-magic::0429"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0415",
+   "realms-of-power-magic::0418",
+   "realms-of-power-magic::0457"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0440",
+   "realms-of-power-magic::0464",
+   "realms-of-power-magic::0469"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0439",
+   "realms-of-power-magic::0444",
+   "realms-of-power-magic::0469"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0469",
+   "realms-of-power-magic::0474"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0366",
+   "realms-of-power-magic::0457"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0456",
+   "realms-of-power-magic::0460",
+   "realms-of-power-magic::0447"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0451"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Art referenced in powers, vis, or lab totals in this text.",
+  "evidence": [
+   "realms-of-power-magic::0448"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [
+   "Might"
+  ],
+  "description": "Score measuring a magical creature's power and Realm alignment.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0437"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power found in creatures' body parts and harvested as a resource.",
+  "evidence": [
+   "realms-of-power-magic::0360",
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0456"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "A magical realm-level area such as Nephelococcygia or hidden regiones in forests.",
+  "evidence": [
+   "realms-of-power-magic::0364",
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0461"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural strength of a place; Nephelococcygia has a magic aura of 10.",
+  "evidence": [
+   "realms-of-power-magic::0378",
+   "realms-of-power-magic::0456"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A link to a target required for some powers; cats scent-mark humans to create them.",
+  "evidence": [
+   "realms-of-power-magic::0375",
+   "realms-of-power-magic::0401"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "description": "A magus' bonded animal; the cat lineages descend from the Founders' familiars.",
+  "evidence": [
+   "realms-of-power-magic::0362",
+   "realms-of-power-magic::0377",
+   "realms-of-power-magic::0388"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that powers must penetrate to affect a target.",
+  "evidence": [
+   "realms-of-power-magic::0383",
+   "realms-of-power-magic::0384",
+   "realms-of-power-magic::0415"
+  ]
+ },
+ {
+  "name": "Confidence Score",
+  "type": "Concept",
+  "description": "Score representing a character's confidence; default 1 (3) for magical beings.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0440",
+   "realms-of-power-magic::0463"
+  ]
+ },
+ {
+  "name": "Aging Roll",
+  "type": "Concept",
+  "description": "Roll made for aging, forced by The Crow's Song.",
+  "evidence": [
+   "realms-of-power-magic::0384"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "description": "Laboratory record produced while taming a creature, usable as a guide for later taming.",
+  "evidence": [
+   "realms-of-power-magic::0469",
+   "realms-of-power-magic::0470",
+   "realms-of-power-magic::0474"
+  ]
+ },
+ {
+  "name": "Taming",
+  "type": "Concept",
+  "description": "Seasonal activity accumulating points against a creature's Might to tame it.",
+  "evidence": [
+   "realms-of-power-magic::0466",
+   "realms-of-power-magic::0467",
+   "realms-of-power-magic::0469"
+  ]
+ },
+ {
+  "name": "Loyalty Test",
+  "type": "Concept",
+  "description": "Roll of Loyal Personality Trait plus stress die against an Ease Factor for commanding tamed creatures.",
+  "evidence": [
+   "realms-of-power-magic::0474",
+   "realms-of-power-magic::0475",
+   "realms-of-power-magic::0478"
+  ]
+ },
+ {
+  "name": "Trained Group",
+  "type": "Concept",
+  "description": "Group of tamed animals led in combat using Animal Handling.",
+  "evidence": [
+   "realms-of-power-magic::0476"
+  ]
+ },
+ {
+  "name": "Study Requirement",
+  "type": "Concept",
+  "description": "A requirement for magical study that collecting Alpine hares might fulfill.",
+  "evidence": [
+   "realms-of-power-magic::0375"
+  ]
+ },
+ {
+  "name": "Domus Magna",
+  "type": "Concept",
+  "description": "The central covenant of a House, such as Valnastium for Jerbiton.",
+  "evidence": [
+   "realms-of-power-magic::0390"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Supernatural talent whose social penalties apply to taming; magical creatures are often unaffected.",
+  "evidence": [
+   "realms-of-power-magic::0388",
+   "realms-of-power-magic::0468",
+   "realms-of-power-magic::0474"
+  ]
+ },
+ {
+  "name": "Season (character)",
+  "type": "Concept",
+  "description": "Life-stage classification of magical characters (Spring, Summer, Winter) affecting experience.",
+  "evidence": [
+   "realms-of-power-magic::0389",
+   "realms-of-power-magic::0435",
+   "realms-of-power-magic::0440"
+  ]
+ },
+ {
+  "name": "Experimentation",
+  "type": "Concept",
+  "description": "Rules a magus may use when taming an animal.",
+  "evidence": [
+   "realms-of-power-magic::0470"
+  ]
+ },
+ {
+  "name": "Warping Score",
+  "type": "Concept",
+  "description": "Score from accumulated Warping points that grants animals Flaws and Virtues.",
+  "evidence": [
+   "realms-of-power-magic::0456",
+   "realms-of-power-magic::0460",
+   "realms-of-power-magic::0462"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "description": "Covenant servant or warrior character type.",
+  "evidence": [
+   "realms-of-power-magic::0362",
+   "realms-of-power-magic::0363"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "description": "Hermetic investigator who brings transgressions before the Tribunal.",
+  "evidence": [
+   "realms-of-power-magic::0364"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "Faction",
+  "description": "Hermetic messengers who demand the covenant deal with a Wolf of Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0376"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "description": "A Flambeau combat magus whose Ignem magic warped mice.",
+  "evidence": [
+   "realms-of-power-magic::0464"
+  ]
+ },
+ {
+  "name": "Magic Humans",
+  "type": "CharacterType",
+  "description": "Humans or human-form beings affected by the realm of Magic: giants, Spirit Votaries, Magic Kin, and the transformed.",
+  "evidence": [
+   "realms-of-power-magic::0479"
+  ]
+ },
+ {
+  "name": "Giants",
+  "type": "CharacterType",
+  "description": "Magic humans far larger than normal humans.",
+  "evidence": [
+   "realms-of-power-magic::0479"
+  ]
+ },
+ {
+  "name": "Spirit Votaries",
+  "type": "CharacterType",
+  "description": "Humans who have accepted a link with, and power from, spirits.",
+  "evidence": [
+   "realms-of-power-magic::0479"
+  ]
+ },
+ {
+  "name": "Magic Kin",
+  "type": "CharacterType",
+  "description": "Lineages of near-human creatures with a consistent touch of the Magic realm.",
+  "evidence": [
+   "realms-of-power-magic::0479"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "Order"
+  ],
+  "description": "The order of Hermetic magi.",
+  "evidence": [
+   "realms-of-power-magic::0392",
+   "realms-of-power-magic::0463",
+   "realms-of-power-magic::0479"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "description": "The Realm of Magic to which Magic Might creatures are native.",
+  "evidence": [
+   "realms-of-power-magic::0455",
+   "realms-of-power-magic::0458",
+   "realms-of-power-magic::0479"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "description": "Realm that is not now mediated by Nephelococcygia.",
+  "evidence": [
+   "realms-of-power-magic::0381",
+   "realms-of-power-magic::0458"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "description": "Realm whose influence can also cause Warping.",
+  "evidence": [
+   "realms-of-power-magic::0458"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm; some cats may be Infernally tainted and Infernal wolves may take over a forest.",
+  "evidence": [
+   "realms-of-power-magic::0364",
+   "realms-of-power-magic::0414",
+   "realms-of-power-magic::0458"
+  ]
+ }
+]

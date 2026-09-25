@@ -1,0 +1,2043 @@
+[
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "the Infernal",
+   "Infernal",
+   "Hell"
+  ],
+  "description": "The supernatural realm embodying evil, the sum of all opposition to the needs of individuals; it is parasitic on divine light and gains power from human sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0028",
+   "realms-of-power-the-infernal::0029",
+   "realms-of-power-the-infernal::0035"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "the Divine"
+  ],
+  "description": "The realm of God, opposed by the Infernal; beings affiliated with it feel disgust within Infernal auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0057",
+   "realms-of-power-the-infernal::0096"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "description": "Supernatural realm whose creatures recognize Infernal auras as false promises and are especially at risk from their deceptions.",
+  "evidence": [
+   "realms-of-power-the-infernal::0056"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Supernatural realm of amoral fae who are terrified by the inhuman evil of the Infernal; Faerie powers are weak in Infernal auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0058"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "aliases": [
+   "Dominion aura"
+  ],
+  "description": "The Divine aura protecting the homes of God's people; it erodes weaker Infernal auras and flows to fill the void on Good Friday.",
+  "evidence": [
+   "realms-of-power-the-infernal::0046",
+   "realms-of-power-the-infernal::0048",
+   "realms-of-power-the-infernal::0095"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting of Ars Magica, where magic is real and demons work to corrupt all people.",
+  "evidence": [
+   "realms-of-power-the-infernal::0000",
+   "realms-of-power-the-infernal::0029",
+   "realms-of-power-the-infernal::0113"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "aliases": [
+   "Infernus",
+   "the Pit"
+  ],
+  "description": "The place of punishment for demons and damned souls, the aspect of the Infernal realm hidden in the dark abysses of the earth.",
+  "evidence": [
+   "realms-of-power-the-infernal::0036",
+   "realms-of-power-the-infernal::0040",
+   "realms-of-power-the-infernal::0039"
+  ]
+ },
+ {
+  "name": "Gehenna",
+  "type": "Place",
+  "aliases": [
+   "Tartarus",
+   "Gehinnom",
+   "Gehennom",
+   "ge-hinnom"
+  ],
+  "description": "Scriptural term for Hell as a place of hell-fire and brimstone and eternal torment; named after the Vale of Hinnom.",
+  "evidence": [
+   "realms-of-power-the-infernal::0036",
+   "realms-of-power-the-infernal::0041",
+   "realms-of-power-the-infernal::0077"
+  ]
+ },
+ {
+  "name": "Sheol",
+  "type": "Place",
+  "aliases": [
+   "Hades",
+   "Infernus"
+  ],
+  "description": "Scriptural place of eternal darkness where the dead are deprived of Heaven rather than physically punished; also a Jewish degree of Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0037",
+   "realms-of-power-the-infernal::0042"
+  ]
+ },
+ {
+  "name": "Limbo of Infants",
+  "type": "Place",
+  "aliases": [
+   "limbus parvolorum"
+  ],
+  "description": "Part of Hell holding those who die in original sin alone, without personal mortal sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0040"
+  ]
+ },
+ {
+  "name": "Limbo of the Fathers",
+  "type": "Place",
+  "aliases": [
+   "limbus patrum"
+  ],
+  "description": "Part of Hell where the souls of the just who died before Christ awaited Heaven; emptied by the Harrowing of Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0040"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Place",
+  "aliases": [
+   "purgatoria"
+  ],
+  "description": "Where the souls of the just who died in venial sin are cleansed by suffering before admission to Heaven.",
+  "evidence": [
+   "realms-of-power-the-infernal::0040",
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Harrowing of Hell",
+  "type": "Concept",
+  "description": "The common belief that Jesus descended into Hell before his resurrection and liberated the limbo of the Fathers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0040"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Place",
+  "description": "God's abode, from which Hell is as remote as possible; the Eastern Church holds Hell and Heaven to be the same place.",
+  "evidence": [
+   "realms-of-power-the-infernal::0040",
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Gates of Hell",
+  "type": "Place",
+  "description": "The entrance to Hell, guarded and rated as an Infernal aura of 9; some regiones are said to reach them.",
+  "evidence": [
+   "realms-of-power-the-infernal::0039",
+   "realms-of-power-the-infernal::0051",
+   "realms-of-power-the-infernal::0070"
+  ]
+ },
+ {
+  "name": "Sitra Achra",
+  "type": "Concept",
+  "aliases": [
+   "the Other Side",
+   "sitra achra"
+  ],
+  "description": "Kabbalist term for the other side of Creation, the Infernal realm, ruled by the Princes of Evil; demons are born of it when man sins.",
+  "evidence": [
+   "realms-of-power-the-infernal::0032",
+   "realms-of-power-the-infernal::0118",
+   "realms-of-power-the-infernal::0119"
+  ]
+ },
+ {
+  "name": "Qlippot",
+  "type": "Concept",
+  "aliases": [
+   "shells"
+  ],
+  "description": "The ten unholy spheres composing the Infernal realm in Kabbalah, perversions of the ten holy sefirot.",
+  "evidence": [
+   "realms-of-power-the-infernal::0032"
+  ]
+ },
+ {
+  "name": "Sefirot",
+  "type": "Concept",
+  "description": "The ten holy spheres governing God's creation in Kabbalist thought, perverted by the qlippot.",
+  "evidence": [
+   "realms-of-power-the-infernal::0032"
+  ]
+ },
+ {
+  "name": "Princes of Evil",
+  "type": "Faction",
+  "description": "Rulers of the sitra achra, the Infernal realm, in Kabbalist writings.",
+  "evidence": [
+   "realms-of-power-the-infernal::0032"
+  ]
+ },
+ {
+  "name": "Moral Evil",
+  "type": "Concept",
+  "description": "An act of free will against the moral order prescribed by God; the only kind of evil that constitutes sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0030",
+   "realms-of-power-the-infernal::0031"
+  ]
+ },
+ {
+  "name": "Physical Evil",
+  "type": "Concept",
+  "description": "Evil that deprives a subject of some natural good, such as sickness, death, poverty, and oppression; attributed to demons by Divine religions.",
+  "evidence": [
+   "realms-of-power-the-infernal::0031",
+   "realms-of-power-the-infernal::0034"
+  ]
+ },
+ {
+  "name": "Metaphysical Evil",
+  "type": "Concept",
+  "description": "Limitations or privations imposed by one's own nature; magic seeks to overcome it, which may explain the Church's wariness of magic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0029",
+   "realms-of-power-the-infernal::0031",
+   "realms-of-power-the-infernal::0032"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "The magical talent of magi; some Christian magi argue its privation in mundanes is metaphysical evil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0030"
+  ]
+ },
+ {
+  "name": "Infernal Aura",
+  "type": "Concept",
+  "aliases": [
+   "Infernal auras"
+  ],
+  "description": "Regions of distilled evil emanating from the Infernal realm, rated 1–10, increasing at night and on unholy days and eroded by stronger auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0043",
+   "realms-of-power-the-infernal::0045",
+   "realms-of-power-the-infernal::0055"
+  ]
+ },
+ {
+  "name": "Corruption Roll",
+  "type": "Concept",
+  "description": "Storyguide roll (stress die + temporary Infernal aura) made after a major sin to maintain or increase an Infernal aura.",
+  "evidence": [
+   "realms-of-power-the-infernal::0049",
+   "realms-of-power-the-infernal::0053"
+  ]
+ },
+ {
+  "name": "Corruption Rite",
+  "type": "Concept",
+  "aliases": [
+   "corruption rites"
+  ],
+  "description": "Rites learned via Infernal Lore that formalize a mortal sin to allow a corruption roll, usually with candles, profane names, obscene acts and sacrifice.",
+  "evidence": [
+   "realms-of-power-the-infernal::0053",
+   "realms-of-power-the-infernal::0054"
+  ]
+ },
+ {
+  "name": "Tarnished Aura",
+  "type": "Concept",
+  "aliases": [
+   "tarnish",
+   "tarnishing"
+  ],
+  "description": "An Infernal aura bearing a resonance for a particular sin, represented as a sinful Personality Trait affecting all within it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0059",
+   "realms-of-power-the-infernal::0111",
+   "realms-of-power-the-infernal::0112"
+  ]
+ },
+ {
+  "name": "Corrupted Aura",
+  "type": "Concept",
+  "aliases": [
+   "corrupted auras"
+  ],
+  "description": "A permanently tarnished Infernal aura of at least 3 with corrupting effects beyond its tarnish; divided into Debauched, Malevolent and Perfidious.",
+  "evidence": [
+   "realms-of-power-the-infernal::0062",
+   "realms-of-power-the-infernal::0130"
+  ]
+ },
+ {
+  "name": "Debauched Aura",
+  "type": "Concept",
+  "description": "A corrupted aura arising from self-indulgence, tarnished with Sloth, Lust or Gluttony and seductive to mundanes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0062",
+   "realms-of-power-the-infernal::0063"
+  ]
+ },
+ {
+  "name": "Malevolent Aura",
+  "type": "Concept",
+  "description": "A corrupted aura of sentient cruelty tarnished with sins of violence and perverted appetite, adding its strength to damage and botches.",
+  "evidence": [
+   "realms-of-power-the-infernal::0062",
+   "realms-of-power-the-infernal::0067",
+   "realms-of-power-the-infernal::0068"
+  ]
+ },
+ {
+  "name": "Perfidious Aura",
+  "type": "Concept",
+  "description": "A corrupted aura embodying sins that betray trust, such as treachery and hypocrisy, typically found within the Dominion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0062",
+   "realms-of-power-the-infernal::0069",
+   "realms-of-power-the-infernal::0070"
+  ]
+ },
+ {
+  "name": "Infernal Regio",
+  "type": "Concept",
+  "aliases": [
+   "Infernal regiones"
+  ],
+  "description": "Antechambers of Hell consigned to the Infernal by God, where Divine powers are suspended and no pleasure can be felt.",
+  "evidence": [
+   "realms-of-power-the-infernal::0072",
+   "realms-of-power-the-infernal::0073"
+  ]
+ },
+ {
+  "name": "Tartaran Regio",
+  "type": "Concept",
+  "aliases": [
+   "Tartaran regiones"
+  ],
+  "description": "Infernal regio reflecting the torment of Hell, filled with fuel-less hellfire whose damage increases with the victim's sinful traits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0073",
+   "realms-of-power-the-infernal::0074"
+  ]
+ },
+ {
+  "name": "Abyssal Regio",
+  "type": "Concept",
+  "aliases": [
+   "Abyssal regiones"
+  ],
+  "description": "Infernal regio of privation from God that reduces all Characteristics and can inflict madness Flaws.",
+  "evidence": [
+   "realms-of-power-the-infernal::0073",
+   "realms-of-power-the-infernal::0075"
+  ]
+ },
+ {
+  "name": "Devouring Regio",
+  "type": "Concept",
+  "aliases": [
+   "Devouring regiones"
+  ],
+  "description": "Rumored roaming Infernal regiones attracted to evil souls that swallow people and may deliver them to Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0070",
+   "realms-of-power-the-infernal::0071"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "A layered supernatural area; Infernal versions are discussed as manifestations of the Infernal realm.",
+  "evidence": [
+   "realms-of-power-the-infernal::0028",
+   "realms-of-power-the-infernal::0072"
+  ]
+ },
+ {
+  "name": "Infernal Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping"
+  ],
+  "description": "Warping caused primarily by sin or Infernal sources, producing Flaws that encourage sinful behavior and later Infernal Virtues.",
+  "evidence": [
+   "realms-of-power-the-infernal::0076",
+   "realms-of-power-the-infernal::0078",
+   "realms-of-power-the-infernal::0080"
+  ]
+ },
+ {
+  "name": "Warping Point",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points"
+  ],
+  "description": "Points accumulating from supernatural exposure; gained from ritualized sin, strong Infernal auras, powerful Infernal Powers and botches.",
+  "evidence": [
+   "realms-of-power-the-infernal::0081",
+   "realms-of-power-the-infernal::0082",
+   "realms-of-power-the-infernal::0084"
+  ]
+ },
+ {
+  "name": "Infernal Vis",
+  "type": "Concept",
+  "aliases": [
+   "infernally tainted vis",
+   "tainted vis"
+  ],
+  "description": "Vis tainted by Hell's power, undetectable by Hermetic magic, in three types of increasing danger; imposes sinful Personality Traits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0085",
+   "realms-of-power-the-infernal::0086",
+   "realms-of-power-the-infernal::0092"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Magical raw power in flavors corresponding to the Hermetic Arts; can be tainted by the Infernal.",
+  "evidence": [
+   "realms-of-power-the-infernal::0085",
+   "realms-of-power-the-infernal::0087"
+  ]
+ },
+ {
+  "name": "Vis Infesta",
+  "type": "Concept",
+  "aliases": [
+   "unsafe vis"
+  ],
+  "description": "The least dangerous Infernal vis, formed when vis lies a year in an Infernal aura or from minor demons; botches are more severe.",
+  "evidence": [
+   "realms-of-power-the-infernal::0087",
+   "realms-of-power-the-infernal::0088"
+  ]
+ },
+ {
+  "name": "Vis Sordida",
+  "type": "Concept",
+  "aliases": [
+   "filthy vis"
+  ],
+  "description": "The most common Infernal vis, manifesting in Infernal auras; adds +5 per pawn but three extra botch dice per pawn and corrupts enchantments.",
+  "evidence": [
+   "realms-of-power-the-infernal::0089",
+   "realms-of-power-the-infernal::0090",
+   "realms-of-power-the-infernal::0091"
+  ]
+ },
+ {
+  "name": "Vis Prava",
+  "type": "Concept",
+  "aliases": [
+   "wicked vis"
+  ],
+  "description": "The most vile Infernal vis, found in strong Infernal auras or powerful demons; any roll using it is automatically a zero for non-Infernal users.",
+  "evidence": [
+   "realms-of-power-the-infernal::0092",
+   "realms-of-power-the-infernal::0093",
+   "realms-of-power-the-infernal::0094"
+  ]
+ },
+ {
+  "name": "Sin",
+  "type": "Concept",
+  "aliases": [
+   "mortal sin",
+   "venial sin"
+  ],
+  "description": "An act that assists the Infernal or does not serve God, staining the soul; divided into mortal (major) and venial (minor) sins.",
+  "evidence": [
+   "realms-of-power-the-infernal::0096",
+   "realms-of-power-the-infernal::0099"
+  ]
+ },
+ {
+  "name": "Seven Deadly Sins",
+  "type": "Concept",
+  "description": "Model of vices (Proud, Wrathful, Envious, Slothful, Lustful, Greedy, Avaricious) used to categorize Personality Traits with opposing virtues.",
+  "evidence": [
+   "realms-of-power-the-infernal::0099",
+   "realms-of-power-the-infernal::0101",
+   "realms-of-power-the-infernal::0102"
+  ]
+ },
+ {
+  "name": "Redemption",
+  "type": "Concept",
+  "aliases": [
+   "repentance"
+  ],
+  "description": "A sinner may always escape Hell by truly repenting, via confession and penance or ritual fasts of atonement.",
+  "evidence": [
+   "realms-of-power-the-infernal::0106",
+   "realms-of-power-the-infernal::0103"
+  ]
+ },
+ {
+  "name": "Infernal Influence",
+  "type": "Concept",
+  "aliases": [
+   "personal influence",
+   "ceremonial influence"
+  ],
+  "description": "The ability of infernalists to inspire sinful Personality Traits in others via personal or ceremonial influence (simple die + Presence + Leadership).",
+  "evidence": [
+   "realms-of-power-the-infernal::0107",
+   "realms-of-power-the-infernal::0108",
+   "realms-of-power-the-infernal::0109"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [
+   "Confidence Points",
+   "Confidence Point"
+  ],
+  "description": "Points of self-worth and resolve; sinners gain them by indulging or ritualizing sins, at the cost of Warping for ritual acts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0113",
+   "realms-of-power-the-infernal::0114",
+   "realms-of-power-the-infernal::0069"
+  ]
+ },
+ {
+  "name": "Personality Trait",
+  "type": "Concept",
+  "aliases": [
+   "Personality Traits"
+  ],
+  "description": "Traits describing a character's habits and inclinations, used to model sinful and virtuous tendencies and affected by tarnish.",
+  "evidence": [
+   "realms-of-power-the-infernal::0100",
+   "realms-of-power-the-infernal::0101",
+   "realms-of-power-the-infernal::0060"
+  ]
+ },
+ {
+  "name": "Deals with the Devil",
+  "type": "Concept",
+  "aliases": [
+   "pact"
+  ],
+  "description": "Pacts with demons sealed by oath or contract, often with curses to deter repentance; demons often cheat the supplicant.",
+  "evidence": [
+   "realms-of-power-the-infernal::0103",
+   "realms-of-power-the-infernal::0104"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "aliases": [
+   "infernalists",
+   "Diabolist",
+   "diabolists"
+  ],
+  "description": "Characters associated with the Infernal who pursue corruption, can learn corruption rites and exert infernal influence.",
+  "evidence": [
+   "realms-of-power-the-infernal::0053",
+   "realms-of-power-the-infernal::0107",
+   "realms-of-power-the-infernal::0051"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "demons"
+  ],
+  "description": "Agents of the Infernal who corrupt humanity, torment the damned, and walk the earth by God's permission; in Jewish lore born of Lilith and Adam.",
+  "evidence": [
+   "realms-of-power-the-infernal::0000",
+   "realms-of-power-the-infernal::0036",
+   "realms-of-power-the-infernal::0119"
+  ]
+ },
+ {
+  "name": "Avengers of Evil",
+  "type": "Creature",
+  "description": "A type of demon sometimes posited to have Divine status as agents of punishment.",
+  "evidence": [
+   "realms-of-power-the-infernal::0036",
+   "realms-of-power-the-infernal::0118"
+  ]
+ },
+ {
+  "name": "Accusers",
+  "type": "Creature",
+  "description": "A type of demon sometimes posited to have Divine status.",
+  "evidence": [
+   "realms-of-power-the-infernal::0036"
+  ]
+ },
+ {
+  "name": "Satanim",
+  "type": "Creature",
+  "aliases": [
+   "satanim"
+  ],
+  "description": "A group of angels ruled by Satan in Jewish belief, assisting him in opposing man.",
+  "evidence": [
+   "realms-of-power-the-infernal::0117",
+   "realms-of-power-the-infernal::0118"
+  ]
+ },
+ {
+  "name": "Corrupted Beasts",
+  "type": "Creature",
+  "aliases": [
+   "Corrupt Beasts"
+  ],
+  "description": "Creatures corrupted by living in Infernal auras; their corpses commonly yield vis infesta.",
+  "evidence": [
+   "realms-of-power-the-infernal::0067",
+   "realms-of-power-the-infernal::0087"
+  ]
+ },
+ {
+  "name": "Envisioning Power",
+  "type": "Concept",
+  "aliases": [
+   "Envisioning"
+  ],
+  "description": "Common demonic Power used to create delusions to haunt visitors of Infernal auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0044"
+  ]
+ },
+ {
+  "name": "Obsession Power",
+  "type": "Concept",
+  "aliases": [
+   "Obsessions",
+   "Obsession"
+  ],
+  "description": "Common demonic Power inflicting powerful obsessions; determines the trait imposed by vis from a demon's corpse.",
+  "evidence": [
+   "realms-of-power-the-infernal::0044",
+   "realms-of-power-the-infernal::0086"
+  ]
+ },
+ {
+  "name": "The Devil",
+  "type": "Character",
+  "aliases": [
+   "Devil",
+   "archfiend"
+  ],
+  "description": "The personification of evil, understood differently by Jews, Christians and Muslims; master of infernalists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0116",
+   "realms-of-power-the-infernal::0098",
+   "realms-of-power-the-infernal::0064"
+  ]
+ },
+ {
+  "name": "Satan",
+  "type": "Character",
+  "aliases": [
+   "ha-Satan",
+   "The Adversary"
+  ],
+  "description": "In Judaism, the angel charged by God with accusing and testing man, chief of the satanim; Christians use the name for their archfiend.",
+  "evidence": [
+   "realms-of-power-the-infernal::0117",
+   "realms-of-power-the-infernal::0118"
+  ]
+ },
+ {
+  "name": "Sammael",
+  "type": "Character",
+  "aliases": [
+   "the Poison Angel"
+  ],
+  "description": "In Jewish demonology the personification of evil and true Devil, who sent the serpent to tempt Eve; husband of Lilith.",
+  "evidence": [
+   "realms-of-power-the-infernal::0118",
+   "realms-of-power-the-infernal::0119"
+  ]
+ },
+ {
+  "name": "Lilith",
+  "type": "Character",
+  "description": "In Jewish lore Adam's first wife, who fled Eden, became a wife of Sammael and bore Adam demon children daily.",
+  "evidence": [
+   "realms-of-power-the-infernal::0119"
+  ]
+ },
+ {
+  "name": "Iblis",
+  "type": "Character",
+  "aliases": [
+   "Shaitan"
+  ],
+  "description": "The Islamic Devil, who refused to bow to Adam and tempted him with the tree of immortality.",
+  "evidence": [
+   "realms-of-power-the-infernal::0116",
+   "realms-of-power-the-infernal::0029"
+  ]
+ },
+ {
+  "name": "Adam",
+  "type": "Character",
+  "description": "The first man, tempted by Shaitan and cast from Eden; father of demons by Lilith in Jewish lore.",
+  "evidence": [
+   "realms-of-power-the-infernal::0029",
+   "realms-of-power-the-infernal::0119"
+  ]
+ },
+ {
+  "name": "Eve",
+  "type": "Character",
+  "description": "Tempted by Sammael's serpent in the Garden of Eden, the first sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0118",
+   "realms-of-power-the-infernal::0119"
+  ]
+ },
+ {
+  "name": "Garden of Eden",
+  "type": "Place",
+  "aliases": [
+   "Eden"
+  ],
+  "description": "The garden from which Adam and Eve were cast out after the first sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0118",
+   "realms-of-power-the-infernal::0119"
+  ]
+ },
+ {
+  "name": "Molech",
+  "type": "Creature",
+  "aliases": [
+   "Adramelech"
+  ],
+  "description": "A false god worshiped with child sacrifice in the Vale of Hinnom, associated with the demon Adramelech.",
+  "evidence": [
+   "realms-of-power-the-infernal::0076"
+  ]
+ },
+ {
+  "name": "Judas Iscariot",
+  "type": "Character",
+  "aliases": [
+   "Judas"
+  ],
+  "description": "Betrayer of Christ who hanged himself at Aceldama; his conspiracy is why Infernal auras rise the Wednesday before Easter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0046",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Jesus",
+  "type": "Character",
+  "aliases": [
+   "Christ"
+  ],
+  "description": "Harrowed Hell before his resurrection; Good Friday reduces all Infernal auras to zero.",
+  "evidence": [
+   "realms-of-power-the-infernal::0040",
+   "realms-of-power-the-infernal::0046"
+  ]
+ },
+ {
+  "name": "Moses",
+  "type": "Character",
+  "description": "Prophet Satan tried to kill; opposed Egyptian sorcerers aided by Satan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0118"
+  ]
+ },
+ {
+  "name": "Aaron",
+  "type": "Character",
+  "description": "With Moses, contested the Egyptian sorcerers helped by Satan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0118"
+  ]
+ },
+ {
+  "name": "Josiah",
+  "type": "Character",
+  "description": "Prophet who rendered the Vale of Hinnom ceremonially unclean, ending child sacrifice there.",
+  "evidence": [
+   "realms-of-power-the-infernal::0076"
+  ]
+ },
+ {
+  "name": "Mohammad",
+  "type": "Character",
+  "description": "Prophet to whom the Qur'an was communicated, commemorated on the Night of Destiny.",
+  "evidence": [
+   "realms-of-power-the-infernal::0047"
+  ]
+ },
+ {
+  "name": "St. Augustine",
+  "type": "Character",
+  "aliases": [
+   "Augustine"
+  ],
+  "description": "Theologian quoted on God bringing good out of evil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0033"
+  ]
+ },
+ {
+  "name": "Aristotle",
+  "type": "Character",
+  "description": "Philosopher who held evil to be a necessary aspect of the changes of matter with no real existence.",
+  "evidence": [
+   "realms-of-power-the-infernal::0033"
+  ]
+ },
+ {
+  "name": "Pythagoras",
+  "type": "Character",
+  "description": "Greek philosopher cited for rational conceptions of evil inherent in matter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0033"
+  ]
+ },
+ {
+  "name": "Empedocles",
+  "type": "Character",
+  "description": "Greek philosopher cited for conceptions of evil inherent in matter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0033"
+  ]
+ },
+ {
+  "name": "Heraclitus",
+  "type": "Character",
+  "description": "Greek philosopher cited for conceptions of evil inherent in matter.",
+  "evidence": [
+   "realms-of-power-the-infernal::0033"
+  ]
+ },
+ {
+  "name": "Marie de France",
+  "type": "Character",
+  "description": "Translated the Purgatory of St. Patrick into the vernacular in the late 12th century.",
+  "evidence": [
+   "realms-of-power-the-infernal::0037"
+  ]
+ },
+ {
+  "name": "Espurgatoire seint Patritz",
+  "type": "Item",
+  "aliases": [
+   "The Purgatory of St. Patrick"
+  ],
+  "description": "A widely circulated tract describing a knight's vision of the torments of Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0037",
+   "realms-of-power-the-infernal::0038"
+  ]
+ },
+ {
+  "name": "Qur'an",
+  "type": "Item",
+  "aliases": [
+   "Qu'ran"
+  ],
+  "description": "Islamic scripture, quoted on Shaitan and Iblis; its revelation is commemorated on the Night of Destiny.",
+  "evidence": [
+   "realms-of-power-the-infernal::0029",
+   "realms-of-power-the-infernal::0047",
+   "realms-of-power-the-infernal::0116"
+  ]
+ },
+ {
+  "name": "Kabbalists",
+  "type": "Faction",
+  "aliases": [
+   "Kabbalah"
+  ],
+  "description": "Jewish mystics who wrote that God limited his power in creation, defining the sitra achra.",
+  "evidence": [
+   "realms-of-power-the-infernal::0032"
+  ]
+ },
+ {
+  "name": "Zoroastrianism",
+  "type": "Faction",
+  "aliases": [
+   "Zoroastrians"
+  ],
+  "description": "Oldest Divine religion, holding good and evil equal in power though good will triumph.",
+  "evidence": [
+   "realms-of-power-the-infernal::0034",
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Gnostics",
+  "type": "Faction",
+  "aliases": [
+   "Gnostic Christians"
+  ],
+  "description": "Dualist tradition viewing the material world as an instrument of evil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0034"
+  ]
+ },
+ {
+  "name": "Manichees",
+  "type": "Faction",
+  "description": "Dualist sect, succeeded by the Bogomils and Cathars.",
+  "evidence": [
+   "realms-of-power-the-infernal::0034"
+  ]
+ },
+ {
+  "name": "Bogomils",
+  "type": "Faction",
+  "description": "Dualist successors of the Manichees.",
+  "evidence": [
+   "realms-of-power-the-infernal::0034"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "description": "Dualist successors of the Manichees.",
+  "evidence": [
+   "realms-of-power-the-infernal::0034"
+  ]
+ },
+ {
+  "name": "Waldensians",
+  "type": "Faction",
+  "description": "Heretics persecuted for teaching that sacraments from wicked priests were void, a belief encouraged by demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0104",
+   "realms-of-power-the-infernal::0105"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "aliases": [
+   "the Church"
+  ],
+  "description": "The Christian Church, wary of magic and which administers confession and penance.",
+  "evidence": [
+   "realms-of-power-the-infernal::0030",
+   "realms-of-power-the-infernal::0104"
+  ]
+ },
+ {
+  "name": "Eastern Church",
+  "type": "Faction",
+  "description": "Holds that Hell is the same place as Heaven, experienced as torment or pleasure by disposition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Rabbinical Judaism",
+  "type": "Faction",
+  "aliases": [
+   "Judaism",
+   "Jews"
+  ],
+  "description": "Holds Hell has seven degrees and that angels cannot sin, so the Devil is a servant of God.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041",
+   "realms-of-power-the-infernal::0117"
+  ]
+ },
+ {
+  "name": "Islam",
+  "type": "Faction",
+  "aliases": [
+   "Muslims"
+  ],
+  "description": "Holds Hell has seven gates and houses segregating souls by belief; the Devil rebelled at man's creation.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041",
+   "realms-of-power-the-infernal::0116"
+  ]
+ },
+ {
+  "name": "Ladha",
+  "type": "Place",
+  "description": "Islamic degree of Hell for Christians.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Hothama",
+  "type": "Place",
+  "description": "Islamic degree of Hell for Jews.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Saïr",
+  "type": "Place",
+  "description": "Islamic degree of Hell for Sabians.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Sacar",
+  "type": "Place",
+  "description": "Islamic degree of Hell for Zoroastrians.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Gehin",
+  "type": "Place",
+  "description": "Islamic degree of Hell for idolaters and pagans.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Haoviath",
+  "type": "Place",
+  "description": "Seventh and deepest Islamic degree of Hell, for hypocrites.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Abaddon",
+  "type": "Place",
+  "aliases": [
+   "Perdition"
+  ],
+  "description": "Jewish degree of Hell called Perdition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041"
+  ]
+ },
+ {
+  "name": "Titahion",
+  "type": "Place",
+  "aliases": [
+   "the Filthy Mire"
+  ],
+  "description": "Jewish degree of Hell, the Filthy Mire.",
+  "evidence": [
+   "realms-of-power-the-infernal::0041",
+   "realms-of-power-the-infernal::0042"
+  ]
+ },
+ {
+  "name": "Bar Shasketh",
+  "type": "Place",
+  "aliases": [
+   "Pit of Destruction"
+  ],
+  "description": "Jewish degree of Hell, the Pit of Destruction.",
+  "evidence": [
+   "realms-of-power-the-infernal::0042"
+  ]
+ },
+ {
+  "name": "Tzelmoth",
+  "type": "Place",
+  "aliases": [
+   "Shadow of Death"
+  ],
+  "description": "Jewish degree of Hell, the Shadow of Death.",
+  "evidence": [
+   "realms-of-power-the-infernal::0042"
+  ]
+ },
+ {
+  "name": "Shaari Moth",
+  "type": "Place",
+  "aliases": [
+   "Gates of Death"
+  ],
+  "description": "Jewish degree of Hell, the Gates of Death.",
+  "evidence": [
+   "realms-of-power-the-infernal::0042"
+  ]
+ },
+ {
+  "name": "Walpurgisnacht",
+  "type": "Concept",
+  "description": "April 30th in German lands, when witches gather to worship their master; an unholy night strengthening Infernal auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0045",
+   "realms-of-power-the-infernal::0046"
+  ]
+ },
+ {
+  "name": "Allhallow's Eve",
+  "type": "Concept",
+  "description": "Night when demons, witches and ghosts roam the earth, strengthening Infernal auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0046"
+  ]
+ },
+ {
+  "name": "Shabbat",
+  "type": "Concept",
+  "description": "Jewish sabbath; Infernal auras in observant Jewish communities decline by one.",
+  "evidence": [
+   "realms-of-power-the-infernal::0046"
+  ]
+ },
+ {
+  "name": "Good Friday",
+  "type": "Concept",
+  "aliases": [
+   "Easter"
+  ],
+  "description": "At dusk all Infernal auras drop to zero until Easter Monday.",
+  "evidence": [
+   "realms-of-power-the-infernal::0046"
+  ]
+ },
+ {
+  "name": "Night of Destiny",
+  "type": "Concept",
+  "aliases": [
+   "Laylat al-Qadr"
+  ],
+  "description": "27th of Ramadan, when all Infernal auras drop to zero until dawn.",
+  "evidence": [
+   "realms-of-power-the-infernal::0046",
+   "realms-of-power-the-infernal::0047"
+  ]
+ },
+ {
+  "name": "Ramadan",
+  "type": "Concept",
+  "aliases": [
+   "'Id al-Fitr"
+  ],
+  "description": "Islamic month of fasting during which Infernal auras are reduced by two after the Night of Destiny.",
+  "evidence": [
+   "realms-of-power-the-infernal::0047"
+  ]
+ },
+ {
+  "name": "Interdict",
+  "type": "Concept",
+  "description": "Church sanction; Infernal auras in regions under Interdict increase by 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0047"
+  ]
+ },
+ {
+  "name": "Authorities",
+  "type": "Creature",
+  "description": "Angelic choir regulating Creation; Infernal regiones form where they no longer visit.",
+  "evidence": [
+   "realms-of-power-the-infernal::0072"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [
+   "Faith Score"
+  ],
+  "description": "Divine faith granting Magic Resistance and immunity to extra effects of Infernal auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0057",
+   "realms-of-power-the-infernal::0072"
+  ]
+ },
+ {
+  "name": "Aceldama",
+  "type": "Place",
+  "aliases": [
+   "the field of blood"
+  ],
+  "description": "Field in the Vale of Hinnom where Judas hanged himself; Infernal aura 8 and portal to the highest regio level.",
+  "evidence": [
+   "realms-of-power-the-infernal::0051",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Vale of Hinnom",
+  "type": "Place",
+  "aliases": [
+   "Hinnom"
+  ],
+  "description": "Valley by Jerusalem once used for child sacrifice to Molech; a powerful Tartaran regio with temples to the Devil.",
+  "evidence": [
+   "realms-of-power-the-infernal::0076",
+   "realms-of-power-the-infernal::0077",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "City whose cesspool is the Vale of Hinnom.",
+  "evidence": [
+   "realms-of-power-the-infernal::0076",
+   "realms-of-power-the-infernal::0077"
+  ]
+ },
+ {
+  "name": "Kidron",
+  "type": "Place",
+  "aliases": [
+   "river Kidron"
+  ],
+  "description": "River carrying Jerusalem's sewage from Hinnom.",
+  "evidence": [
+   "realms-of-power-the-infernal::0077"
+  ]
+ },
+ {
+  "name": "Das Goldene Kalb",
+  "type": "Place",
+  "description": "Upmarket tavern and brothel in Lübeck owned by a Jerbiton magus, with an Infernal aura 3 tarnished with Lust.",
+  "evidence": [
+   "realms-of-power-the-infernal::0059",
+   "realms-of-power-the-infernal::0060"
+  ]
+ },
+ {
+  "name": "Lübeck",
+  "type": "Place",
+  "description": "Town in northern Germany, location of Das Goldene Kalb.",
+  "evidence": [
+   "realms-of-power-the-infernal::0059"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House; a member owns Das Goldene Kalb.",
+  "evidence": [
+   "realms-of-power-the-infernal::0059"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators kept away from Das Goldene Kalb.",
+  "evidence": [
+   "realms-of-power-the-infernal::0059",
+   "realms-of-power-the-infernal::0060"
+  ]
+ },
+ {
+  "name": "Liddesdale",
+  "type": "Place",
+  "description": "Valley in the Scottish Borders with a Malevolent Infernal aura 3 tarnished with Fear.",
+  "evidence": [
+   "realms-of-power-the-infernal::0064",
+   "realms-of-power-the-infernal::0065"
+  ]
+ },
+ {
+  "name": "Liddeswater",
+  "type": "Place",
+  "description": "Small river running through Liddesdale.",
+  "evidence": [
+   "realms-of-power-the-infernal::0064"
+  ]
+ },
+ {
+  "name": "Hermitage Castle",
+  "type": "Place",
+  "description": "Castle in Liddesdale built on monks' bones, home of Lord David de Soulis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0064"
+  ]
+ },
+ {
+  "name": "David de Soulis",
+  "type": "Character",
+  "aliases": [
+   "Lord David de Soulis"
+  ],
+  "description": "Hereditary seneschal of Scotland rumored to ride with demon dogs seeking souls for his demonic master.",
+  "evidence": [
+   "realms-of-power-the-infernal::0064",
+   "realms-of-power-the-infernal::0065"
+  ]
+ },
+ {
+  "name": "Robyn Redcap",
+  "type": "Creature",
+  "description": "The familiar of David de Soulis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0064",
+   "realms-of-power-the-infernal::0065"
+  ]
+ },
+ {
+  "name": "Ossuary of St Helix",
+  "type": "Place",
+  "aliases": [
+   "church of St Helix"
+  ],
+  "description": "Crypt corrupted into a Perfidious Infernal aura 4 tarnished with hypocrisy, used by Father Theophagus to summon demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0065",
+   "realms-of-power-the-infernal::0066"
+  ]
+ },
+ {
+  "name": "Father Theophagus",
+  "type": "Character",
+  "aliases": [
+   "Theophagus"
+  ],
+  "description": "Priest of St Helix who decorates the church with bones and secretly summons demons in his crypt.",
+  "evidence": [
+   "realms-of-power-the-infernal::0065",
+   "realms-of-power-the-infernal::0066"
+  ]
+ },
+ {
+  "name": "Carolus of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Carolus"
+  ],
+  "description": "Example magus who unwittingly opens an item with vis sordida.",
+  "evidence": [
+   "realms-of-power-the-infernal::0090"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House of Carolus.",
+  "evidence": [
+   "realms-of-power-the-infernal::0090"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The magi's order, in which Infernal vis is not commonly known.",
+  "evidence": [
+   "realms-of-power-the-infernal::0092",
+   "realms-of-power-the-infernal::0085"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "description": "Protective ritual around covenants beyond which Infernal evil lurks.",
+  "evidence": [
+   "realms-of-power-the-infernal::0013"
+  ]
+ },
+ {
+  "name": "Heat of the Searing Forge",
+  "type": "Spell",
+  "description": "Creo Ignem spell whose effects apply to metal-carrying characters in Tartaran regiones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0074"
+  ]
+ },
+ {
+  "name": "Wreaths of Foul Smoke",
+  "type": "Spell",
+  "description": "Creo Auram spell whose effects match the poisonous smoke atop the Vale of Hinnom regio.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "description": "Spell that slays demons leaving no corpse, hence no Infernal vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0092",
+   "realms-of-power-the-infernal::0093"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique referenced in Creo Ignem and Creo Auram spells.",
+  "evidence": [
+   "realms-of-power-the-infernal::0074",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form of fire.",
+  "evidence": [
+   "realms-of-power-the-infernal::0074"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form of air.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form; Vim vis extracted from Infernal auras is vis prava.",
+  "evidence": [
+   "realms-of-power-the-infernal::0090",
+   "realms-of-power-the-infernal::0092"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "description": "Ability giving knowledge of the Infernal, needed to learn corruption rites and ceremonial influence and recognize Infernal vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0053",
+   "realms-of-power-the-infernal::0085",
+   "realms-of-power-the-infernal::0108"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Used with Perception to notice fatigue lost to Infernal aura penalties.",
+  "evidence": [
+   "realms-of-power-the-infernal::0056"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Used with Presence for infernal influence and tarnishing auras.",
+  "evidence": [
+   "realms-of-power-the-infernal::0109",
+   "realms-of-power-the-infernal::0111"
+  ]
+ },
+ {
+  "name": "Dodge",
+  "type": "Ability",
+  "description": "Only defense available to characters stunned in a Perfidious aura.",
+  "evidence": [
+   "realms-of-power-the-infernal::0070"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "description": "Virtue allowing ceremonial influence of strangers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0108"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Virtue making the character trusted by those within his authority.",
+  "evidence": [
+   "realms-of-power-the-infernal::0108"
+  ]
+ },
+ {
+  "name": "Enticer of Multitudes",
+  "type": "Virtue",
+  "description": "Infernal Minor Supernatural Virtue gained at Warping Score 5.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Infernal Protection",
+  "type": "Virtue",
+  "description": "Infernal Minor Supernatural Virtue gained at Warping Score 5.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Gender Shift",
+  "type": "Virtue",
+  "description": "Infernal Minor Supernatural Virtue gained at Warping Score 5.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Aptitude for (Sin)",
+  "type": "Virtue",
+  "description": "Infernal Minor Supernatural Virtue gained at Warping Score 5.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Infernal Blessings",
+  "type": "Virtue",
+  "description": "Infernal Minor Supernatural Virtue gained at Warping Score 5.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Low Self-Esteem",
+  "type": "Flaw",
+  "description": "Flaw for characters without Confidence; Theophagus acquires it temporarily.",
+  "evidence": [
+   "realms-of-power-the-infernal::0066",
+   "realms-of-power-the-infernal::0113"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "description": "Madness Flaw from Abyssal regiones and Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Delusion",
+  "type": "Flaw",
+  "description": "Madness Flaw from Abyssal regiones and Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Depressed",
+  "type": "Flaw",
+  "description": "Madness Flaw from Abyssal regiones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "description": "Madness Flaw from Abyssal regiones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075"
+  ]
+ },
+ {
+  "name": "Obsessed",
+  "type": "Flaw",
+  "description": "Madness Flaw from Abyssal regiones and Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Prohibition",
+  "type": "Flaw",
+  "description": "Madness Flaw from Abyssal regiones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075"
+  ]
+ },
+ {
+  "name": "Simple-Minded",
+  "type": "Flaw",
+  "description": "Madness Flaw from Abyssal regiones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075"
+  ]
+ },
+ {
+  "name": "Weak-Willed",
+  "type": "Flaw",
+  "aliases": [
+   "Weak Willed"
+  ],
+  "description": "Madness Flaw from Abyssal regiones; also acquired by venial sinners through Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0075",
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Avaricious",
+  "type": "Flaw",
+  "description": "Personality Flaw suited to Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Envious",
+  "type": "Flaw",
+  "description": "Personality Flaw suited to Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "description": "Personality Flaw suited to Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Hatred",
+  "type": "Flaw",
+  "description": "Personality Flaw suited to Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Lecherous",
+  "type": "Flaw",
+  "description": "Personality Flaw suited to Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Personality Flaw suited to Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078"
+  ]
+ },
+ {
+  "name": "Wrathful",
+  "type": "Flaw",
+  "description": "Personality Flaw suited to Infernal Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0078",
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Offensive to Animals",
+  "type": "Flaw",
+  "description": "Acquired at Warping Score 3 when Warping comes mainly from venial sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Tainted with Evil",
+  "type": "Flaw",
+  "description": "Acquired at Warping Score 3 when Warping comes from mortal sin or Infernal traffic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Age Quickly",
+  "type": "Flaw",
+  "description": "Common penalty at Infernal Warping Score 6+.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Enfeebled",
+  "type": "Flaw",
+  "description": "Common penalty at Infernal Warping Score 6+.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Plagued by a Demon",
+  "type": "Flaw",
+  "description": "Flaw when a demon is sent to prevent repentance at Warping 6+.",
+  "evidence": [
+   "realms-of-power-the-infernal::0079"
+  ]
+ },
+ {
+  "name": "Vituperation",
+  "type": "Concept",
+  "description": "Infernalist phenomenon possibly manifesting as Devouring regiones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0070"
+  ]
+ },
+ {
+  "name": "Sacrifice",
+  "type": "Concept",
+  "description": "Infernal practice granting bonuses to corruption rolls, e.g. a black goat.",
+  "evidence": [
+   "realms-of-power-the-infernal::0052",
+   "realms-of-power-the-infernal::0054"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance granted passively by True Faith, still active in Infernal regiones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0072"
+  ]
+ },
+ {
+  "name": "Experimentation",
+  "type": "Concept",
+  "description": "Lab rules invoked when enchanting with Infernal vis, with storyguide choosing the worst result.",
+  "evidence": [
+   "realms-of-power-the-infernal::0087",
+   "realms-of-power-the-infernal::0090",
+   "realms-of-power-the-infernal::0093"
+  ]
+ },
+ {
+  "name": "Luciferans",
+  "type": "Faction",
+  "description": "Misguided Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Strigae",
+  "type": "Faction",
+  "description": "Misguided Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Witch-Hammers",
+  "type": "Faction",
+  "description": "Misguided Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Dark Gnostics",
+  "type": "Faction",
+  "description": "Corrupt Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Dread Host",
+  "type": "Faction",
+  "description": "Corrupt Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Mulhidun",
+  "type": "Faction",
+  "description": "Corrupt Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Damhadh-Duidsan",
+  "type": "Faction",
+  "description": "Hermetic Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Ordo Vagorum",
+  "type": "Faction",
+  "description": "Hermetic Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Witches of Thessaly",
+  "type": "Faction",
+  "description": "Hermetic Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0012"
+  ]
+ },
+ {
+  "name": "Venatores",
+  "type": "Faction",
+  "description": "Demon-hunters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0011"
+  ]
+ },
+ {
+  "name": "Maleficia",
+  "type": "Concept",
+  "description": "Infernal methods and powers: Debauchery, Incantation, Consumption, Diablerie, Effusion, Malediction, Phantasm, Psychomachia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0009"
+  ]
+ },
+ {
+  "name": "Ars Goetia",
+  "type": "Concept",
+  "aliases": [
+   "Goetic Arts"
+  ],
+  "description": "Goetic arts of Summoning, Ablating, Binding and Commanding.",
+  "evidence": [
+   "realms-of-power-the-infernal::0010"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Art",
+  "description": "Goetic Art.",
+  "evidence": [
+   "realms-of-power-the-infernal::0010"
+  ]
+ },
+ {
+  "name": "Ablating",
+  "type": "Art",
+  "description": "Goetic Art.",
+  "evidence": [
+   "realms-of-power-the-infernal::0010"
+  ]
+ },
+ {
+  "name": "Binding",
+  "type": "Art",
+  "description": "Goetic Art.",
+  "evidence": [
+   "realms-of-power-the-infernal::0010"
+  ]
+ },
+ {
+  "name": "Commanding",
+  "type": "Art",
+  "description": "Goetic Art.",
+  "evidence": [
+   "realms-of-power-the-infernal::0010"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "CharacterType",
+  "description": "Mythic Companion of the Maleficia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0009"
+  ]
+ },
+ {
+  "name": "Summoner",
+  "type": "CharacterType",
+  "description": "Mythic Companion of Ars Goetia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0010"
+  ]
+ },
+ {
+  "name": "Devil Child",
+  "type": "CharacterType",
+  "description": "Mythic Companion with demonic blood.",
+  "evidence": [
+   "realms-of-power-the-infernal::0008"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "Powerful companion character type.",
+  "evidence": [
+   "realms-of-power-the-infernal::0008"
+  ]
+ },
+ {
+  "name": "Tainted Characters",
+  "type": "CharacterType",
+  "description": "Characters tainted at birth by the Infernal.",
+  "evidence": [
+   "realms-of-power-the-infernal::0008",
+   "realms-of-power-the-infernal::0000"
+  ]
+ },
+ {
+  "name": "False Gods",
+  "type": "Creature",
+  "description": "Order of the Infernal hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007",
+   "realms-of-power-the-infernal::0045"
+  ]
+ },
+ {
+  "name": "Spirits of Deceit",
+  "type": "Creature",
+  "description": "Order of the Infernal hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007"
+  ]
+ },
+ {
+  "name": "Vessels of Iniquity",
+  "type": "Creature",
+  "description": "Order of the Infernal hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007"
+  ]
+ },
+ {
+  "name": "Deluders",
+  "type": "Creature",
+  "description": "Order of the Infernal hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007"
+  ]
+ },
+ {
+  "name": "Aerial Powers",
+  "type": "Creature",
+  "description": "Order of the Infernal hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007"
+  ]
+ },
+ {
+  "name": "Furies",
+  "type": "Creature",
+  "description": "Order of the Infernal hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007"
+  ]
+ },
+ {
+  "name": "Tempters",
+  "type": "Creature",
+  "aliases": [
+   "Evil Spirits"
+  ],
+  "description": "Order of the Infernal hierarchy.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007",
+   "realms-of-power-the-infernal::0105"
+  ]
+ },
+ {
+  "name": "True Names",
+  "type": "Concept",
+  "description": "Demonic trait.",
+  "evidence": [
+   "realms-of-power-the-infernal::0007"
+  ]
+ },
+ {
+  "name": "Apotropaic Spells",
+  "type": "Concept",
+  "description": "Protective Black Magic.",
+  "evidence": [
+   "realms-of-power-the-infernal::0011"
+  ]
+ },
+ {
+  "name": "Infernal Magic",
+  "type": "Concept",
+  "aliases": [
+   "Chthonic Magic",
+   "Goetic Magic",
+   "False Magic"
+  ],
+  "description": "Black magic types.",
+  "evidence": [
+   "realms-of-power-the-infernal::0011"
+  ]
+ },
+ {
+  "name": "Hermetic Arts",
+  "type": "Art",
+  "aliases": [
+   "Arts"
+  ],
+  "description": "The Arts of magi; vis flavors correspond to them.",
+  "evidence": [
+   "realms-of-power-the-infernal::0085",
+   "realms-of-power-the-infernal::0089"
+  ]
+ }
+]

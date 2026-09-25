@@ -1,0 +1,2174 @@
+[
+ {
+  "name": "Zähringen Family",
+  "type": "Faction",
+  "aliases": [
+   "Zähringers",
+   "Zähringer"
+  ],
+  "description": "Noble family of the Alps who began the craze of founding new towns to consolidate their lands into a continuous bloc and serve as points of military strength.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0360",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Kiburg Family",
+  "type": "Faction",
+  "aliases": [
+   "Kiburg"
+  ],
+  "description": "Noble family of the Alps, rival of the Zähringers, which followed a similar policy of founding towns.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0360"
+  ]
+ },
+ {
+  "name": "House of Savoy",
+  "type": "Faction",
+  "aliases": [
+   "Savoy family"
+  ],
+  "description": "Noble family of Savoy, rival of the Zähringers, which also founded new towns to attract settlers.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0360"
+  ]
+ },
+ {
+  "name": "Hapsburg Family",
+  "type": "Faction",
+  "aliases": [
+   "Hapsburg"
+  ],
+  "description": "Noble family, rival of the Zähringers, which followed a policy of founding new towns.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0360"
+  ]
+ },
+ {
+  "name": "Landfriedensbund",
+  "type": "Concept",
+  "aliases": [
+   "landfriedensbund"
+  ],
+  "description": "Temporary regional peace alliances encouraged by German nobles, designed to keep the peace by developing processes of law instead of military feuds; they pave the way for later eternal alliances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0360"
+  ]
+ },
+ {
+  "name": "Town Foundation",
+  "type": "Concept",
+  "description": "The practice of counts declaring villages to be towns, granting privileges and tax exemptions to attract settlers; a craze in full swing in 1220.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0360"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The order of Hermetic magi; the author notes that reworked local myths become fictional once the Order of Hermes is mentioned.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0361"
+  ]
+ },
+ {
+  "name": "Andru filius Astrolabe",
+  "type": "Character",
+  "aliases": [
+   "Andru"
+  ],
+  "description": "Primus of House Jerbiton, son (filius) of Astrolabe.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Angela filia Constance",
+  "type": "Character",
+  "description": "Maga listed in the Tribunal index, daughter (filia) of Constance.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Augustina filia Ragoneda",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Ragoneda.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Balbina filia Havelock",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Havelock.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Bronwyn filia Astrolabe",
+  "type": "Character",
+  "aliases": [
+   "Bronwyn"
+  ],
+  "description": "Maga listed in the index, filia of Astrolabe.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Capra filia Bullfinch",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Bullfinch.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Cara filia Sigurd",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Sigurd.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Carlo filius Innocu",
+  "type": "Character",
+  "description": "Magus listed in the index, filius of Innocu.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Carmine filia Susannah",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Susannah.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Charlotte filia Lupina",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Lupina.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Chloe",
+  "type": "Character",
+  "aliases": [
+   "Chloe, Minstrel"
+  ],
+  "description": "Minstrel listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Circum Perfico",
+  "type": "Character",
+  "description": "Magus listed in the index; parens of Fortuito and Viscus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Constance filia Frederich et Vortimer",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Frederich and Vortimer.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Cymena the Redcap",
+  "type": "Character",
+  "aliases": [
+   "Cymena"
+  ],
+  "description": "A Redcap listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Darius filius Yannes",
+  "type": "Character",
+  "aliases": [
+   "Darius"
+  ],
+  "description": "Magus listed in the index, filius of Yannes; parens of Muscaria.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Echo filia Gribbinus",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Gribbinus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Eginhard",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Esther filia Gribbinus",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Gribbinus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Fortuito filius Circum Perfico",
+  "type": "Character",
+  "description": "Magus listed in the index, filius of Circum Perfico.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "François",
+  "type": "Character",
+  "aliases": [
+   "François, Blacksmith"
+  ],
+  "description": "Blacksmith listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Giselle filia Bertrand",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Bertrand.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Grazia filia Natura",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Natura.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Gunther",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Hagen",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Hannibal",
+  "type": "Character",
+  "description": "Historical figure listed in the index, associated with the Cirque d'Annibal.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Hera",
+  "type": "Character",
+  "aliases": [
+   "Hera, Autocrat and Chatelaine"
+  ],
+  "description": "Listed in the index as Autocrat and Chatelaine.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Hubert filius Lorenz",
+  "type": "Character",
+  "description": "Magus listed in the index, filius of Lorenz.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Jacinta filia Nicoli",
+  "type": "Character",
+  "aliases": [
+   "Jacinta"
+  ],
+  "description": "Archmaga listed in the index, filia of Nicoli.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Jane, the Fifth Primus",
+  "type": "Character",
+  "aliases": [
+   "Jane"
+  ],
+  "description": "Listed in the index as the Fifth Primus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Josephine",
+  "type": "Character",
+  "aliases": [
+   "Josephine, Chef"
+  ],
+  "description": "Chef listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Kalliope filia Bibliophilus",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Bibliophilus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Kamilla",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Katrina",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Kentigern",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "La",
+  "type": "Character",
+  "aliases": [
+   "La, primus of Criamon"
+  ],
+  "description": "Primus of House Criamon, listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Latrunculus filius Aurelia",
+  "type": "Character",
+  "description": "Magus listed in the index, filius of Aurelia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Miklos filius Kosma",
+  "type": "Character",
+  "description": "Magus listed in the index, filius of Kosma.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Mircalla",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Muscaria filia Darius",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Darius.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Paxon filius Valentin",
+  "type": "Character",
+  "aliases": [
+   "Paxon"
+  ],
+  "description": "Archmagus listed in the index, filius of Valentin.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pellam",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pennius",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Peonn",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Phaelene",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Philomena filia Rafe",
+  "type": "Character",
+  "aliases": [
+   "Philomena"
+  ],
+  "description": "Archmaga listed in the index, filia of Rafe.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pietro",
+  "type": "Character",
+  "aliases": [
+   "Pietro, Archmage"
+  ],
+  "description": "Archmage listed in the index; associated with the Pietrine Lineage.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pontius Pilate",
+  "type": "Character",
+  "description": "Historical figure listed in the index in connection with Mount Pilatus.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "description": "Figure listed in the index, associated with the Order of Miscellany.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Ragoneda filia Elisa",
+  "type": "Character",
+  "aliases": [
+   "Ragoneda"
+  ],
+  "description": "Maga listed in the index, filia of Elisa; parens of Augustina.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Regina",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Sabina of Flambeau",
+  "type": "Character",
+  "aliases": [
+   "Sabina"
+  ],
+  "description": "Maga of House Flambeau listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Sebastian filius Luise",
+  "type": "Character",
+  "description": "Magus listed in the index, filius of Luise.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Siobhan filia Vespasian the Avaricious",
+  "type": "Character",
+  "aliases": [
+   "Siobhan"
+  ],
+  "description": "Maga listed in the index, filia of Vespasian the Avaricious.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Sirocco filia Andru",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Andru.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Sourdine filia Bronwyn",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Bronwyn.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Tobias",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Vincent",
+  "type": "Character",
+  "aliases": [
+   "Vincent, Archmage"
+  ],
+  "description": "Archmage listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Viscus filius Circum Perfico",
+  "type": "Character",
+  "description": "Magus listed in the index, filius of Circum Perfico.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Yselt filia Rosalia",
+  "type": "Character",
+  "description": "Maga listed in the index, filia of Rosalia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Cato",
+  "type": "Character",
+  "description": "Character listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Astrolabe",
+  "type": "Character",
+  "description": "Magus referenced in the index as parens of Andru and Bronwyn.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Gribbinus",
+  "type": "Character",
+  "description": "Magus referenced in the index as parens of Echo and Esther.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Aareschlucht",
+  "type": "Place",
+  "description": "Alpine gorge listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Appenzellerland",
+  "type": "Place",
+  "description": "Region listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Augsburg",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Baden",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Basel",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Bavaria",
+  "type": "Place",
+  "description": "Region of the Greater Alps Tribunal listed in the index, with a map of the Bavarian Alps.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Bergenland",
+  "type": "Place",
+  "description": "Region listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Berne",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Botzberg",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Cave of Twisting Shadows",
+  "type": "Place",
+  "description": "Cave listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Cirque d'Annibal",
+  "type": "Place",
+  "description": "Place listed in the index, named after Hannibal.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Constance",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Copper Rooster Inn",
+  "type": "Place",
+  "description": "Inn listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Dachstein",
+  "type": "Place",
+  "description": "Mountain massif listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Danube",
+  "type": "Place",
+  "description": "River listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Dolomites",
+  "type": "Place",
+  "description": "Mountain region listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Domleschg",
+  "type": "Place",
+  "description": "Valley listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Eastern Marches",
+  "type": "Place",
+  "description": "Region of the Tribunal listed in the index, with its own map.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Einsiedeln",
+  "type": "Place",
+  "description": "Place (abbey town) listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Eisenstadt",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Fribourg",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Geneva",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Heiligenblut",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Ingolstadt",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Interlaken",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Juno's Spire",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Jura Mountains",
+  "type": "Place",
+  "description": "Mountain range listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Klagenfurt",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Lake Constance",
+  "type": "Place",
+  "description": "Lake listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Lausanne",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Lucerne",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Lukerbad",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Martigny",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Melk",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Mittenwald",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Mons Voctieus",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Mont Blanc",
+  "type": "Place",
+  "description": "Mountain listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Mont Joux",
+  "type": "Place",
+  "description": "Place listed in the index, source of the crystals of Montjoux.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Mount Pilatus",
+  "type": "Place",
+  "description": "Mountain listed in the index, home of the gnomes of Pilatus and associated with Pontius Pilate.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0364"
+  ]
+ },
+ {
+  "name": "Munich",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pfeffers",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pierres de Niton",
+  "type": "Place",
+  "description": "Rocks listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Regensberg",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Reichenau",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Rhaetia",
+  "type": "Place",
+  "description": "Region listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Righi",
+  "type": "Place",
+  "description": "Mountain listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Rosegarten",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Saint Beatus' Cave",
+  "type": "Place",
+  "description": "Cave listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Saint Bernard Pass",
+  "type": "Place",
+  "description": "Alpine pass listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Saint Gallen",
+  "type": "Place",
+  "description": "Place (abbey) listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Saint Gotthard Pass",
+  "type": "Place",
+  "description": "Alpine pass listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Saint Maurice",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Saint Pierre",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Saint Wolfgang",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Salzburg",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Savoy",
+  "type": "Place",
+  "description": "Region listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Schwyz",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Staubbach Fall",
+  "type": "Place",
+  "description": "Waterfall listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Styria",
+  "type": "Place",
+  "description": "Region listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Tower of Ashes",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Val Fanes",
+  "type": "Place",
+  "description": "Valley listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Vervay",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Vienna",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Vindonossa",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Voralberg",
+  "type": "Place",
+  "description": "Region listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Werfen",
+  "type": "Place",
+  "description": "Place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Winterthur",
+  "type": "Place",
+  "description": "Town listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Wörthsee",
+  "type": "Place",
+  "description": "Lake listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Zurich",
+  "type": "Place",
+  "description": "City listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Gardens of Valnastium",
+  "type": "Place",
+  "description": "Gardens of the covenant Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Library of Valnastium",
+  "type": "Place",
+  "description": "Library of the covenant Valnastium.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Western Alps",
+  "type": "Place",
+  "description": "Region of the Tribunal with its own map in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Tribunal of the Greater Alps"
+  ],
+  "description": "The Tribunal of the Greater Alps, subject of this book; a map of it is listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0360",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Valnastium",
+  "type": "Covenant",
+  "description": "Covenant listed in the index, with its own Gardens and Library.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Icy North",
+  "type": "Covenant",
+  "aliases": [
+   "Icy North — Motherhouse"
+  ],
+  "description": "Listed in the index as a Motherhouse.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Where Journeys End",
+  "type": "Covenant",
+  "description": "Covenant listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Tarragon Vale",
+  "type": "Covenant",
+  "description": "Covenant listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Bavarian Common",
+  "type": "Covenant",
+  "description": "Covenant listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Highest Aspiration",
+  "type": "Covenant",
+  "description": "Listed in the index; likely a covenant of the Tribunal.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House whose primus is Andru filius Astrolabe; the index notes a Jerbiton view of faeries.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House whose primus is La.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House, of which Sabina is a member; Shadow Flambeau is also listed.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "House Díedne",
+  "type": "House",
+  "aliases": [
+   "Díedne"
+  ],
+  "description": "Hermetic House listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Black Lineage",
+  "type": "Faction",
+  "description": "Lineage listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Legion of Mithras",
+  "type": "Faction",
+  "description": "Group listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Order of Miscellany",
+  "type": "Faction",
+  "description": "Group listed in the index, associated with Pralix.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Pietrine Lineage",
+  "type": "Faction",
+  "description": "Lineage listed in the index, associated with Archmage Pietro.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Rowan Sisterhood",
+  "type": "Faction",
+  "description": "Group listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Shadow Flambeau",
+  "type": "Faction",
+  "description": "Group listed in the index, apparently associated with House Flambeau.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Secundi",
+  "type": "Faction",
+  "description": "Group listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Longevity Specialists",
+  "type": "Faction",
+  "description": "Group listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "Faction",
+  "description": "Messengers of the Order listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Barbegazi",
+  "type": "Creature",
+  "description": "Creature listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Blizzard Demons",
+  "type": "Creature",
+  "description": "Demons listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Dragon of Brand",
+  "type": "Creature",
+  "description": "Dragon listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Dragons and Dragonets",
+  "type": "Creature",
+  "aliases": [
+   "dragonets"
+  ],
+  "description": "Creatures listed in the Tribunal index; Vorarlberg dragon myths are cited as a source.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0364"
+  ]
+ },
+ {
+  "name": "Gnomes of Pilatus",
+  "type": "Creature",
+  "description": "Gnomes of Mount Pilatus listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Iaculii",
+  "type": "Creature",
+  "description": "Creatures listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Leviathan",
+  "type": "Creature",
+  "description": "Creature listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Tatzelwurmli",
+  "type": "Creature",
+  "description": "Creature listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Genius Loci",
+  "type": "Creature",
+  "description": "Spirit of place listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Ghosts",
+  "type": "Creature",
+  "description": "Spirits listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Infernal Bridges",
+  "type": "Creature",
+  "description": "Listed in the index; bridges of infernal origin.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Muse",
+  "type": "Creature",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Adrasteia",
+  "type": "Creature",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Athena Alpina",
+  "type": "Creature",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Danu",
+  "type": "Creature",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Fingerbone of Cyrian",
+  "type": "Item",
+  "description": "Item listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Quaesitorial Blindfold",
+  "type": "Item",
+  "description": "Item listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Standard of the Shadowy Men",
+  "type": "Item",
+  "description": "Item listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Veil of Fire",
+  "type": "Item",
+  "description": "Item listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Lickstone",
+  "type": "Item",
+  "description": "Item listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Narrative Map",
+  "type": "Item",
+  "description": "Item listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Crystals of Montjoux",
+  "type": "Item",
+  "aliases": [
+   "crystals of Montjoux"
+  ],
+  "description": "Crystals from Mont Joux listed in the index, alongside fluorites and quartz.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Distaff",
+  "type": "Item",
+  "description": "Listed in the Tribunal index alongside the spindle.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Spindle",
+  "type": "Item",
+  "description": "Listed in the Tribunal index alongside the distaff.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Blood of the Sun",
+  "type": "Item",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Toga Virilis",
+  "type": "Item",
+  "description": "Roman garment listed in the index alongside praetexta, stola, and trabea.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Praetexta",
+  "type": "Item",
+  "description": "Roman garment listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Stola",
+  "type": "Item",
+  "description": "Roman garment listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Trabea",
+  "type": "Item",
+  "description": "Roman garment listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Pulla",
+  "type": "Item",
+  "description": "Roman garment listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Virtue",
+  "description": "Virtue listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Patron",
+  "type": "Virtue",
+  "description": "Virtue listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Sinews of Knowledge",
+  "type": "Virtue",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Beloved Enemy",
+  "type": "Virtue",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Hermetic Law",
+  "type": "Concept",
+  "aliases": [
+   "law, Hermetic"
+  ],
+  "description": "Law of the Order of Hermes listed in the index, including peculiarities, family law, and voting rights.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Family Law",
+  "type": "Concept",
+  "description": "Area of law listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Voting Rights",
+  "type": "Concept",
+  "description": "Hermetic voting rights listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Vis Sources",
+  "type": "Concept",
+  "description": "Sources of vis listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Public Vis Source",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Ostracism",
+  "type": "Concept",
+  "description": "Hermetic legal penalty listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Slaying the Primus",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Training with Primi",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Peril of Excellence",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Quinquennial",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Chapters",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Fetiales",
+  "type": "Concept",
+  "description": "Roman-style office listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Lictor",
+  "type": "Concept",
+  "description": "Roman-style office listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Hoplites",
+  "type": "Concept",
+  "description": "Hermetic hoplites listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Whitlam",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0369"
+  ]
+ },
+ {
+  "name": "Larta Magi",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Midsummer Fair",
+  "type": "Concept",
+  "description": "Recurring fair listed in the index with many page references.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Days of Trembling",
+  "type": "Concept",
+  "description": "Observance listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Frustration Week",
+  "type": "Concept",
+  "description": "Observance listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Baker's Day",
+  "type": "Concept",
+  "description": "Festival listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Bean-Spitting Day",
+  "type": "Concept",
+  "description": "Festival listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Boot Burning",
+  "type": "Concept",
+  "description": "Festival listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Childermas",
+  "type": "Concept",
+  "description": "Feast listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Liberalia",
+  "type": "Concept",
+  "description": "Festival listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "May Day Eve",
+  "type": "Concept",
+  "description": "Festival listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Midsummer Eve",
+  "type": "Concept",
+  "description": "Festival listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0367"
+  ]
+ },
+ {
+  "name": "Rauhnachte",
+  "type": "Concept",
+  "description": "Festival period listed in the index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Ice Distortion",
+  "type": "Concept",
+  "description": "Phenomenon mentioned in the bibliography, loosely based on beliefs of people near Mount Connor in Australia.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0364"
+  ]
+ },
+ {
+  "name": "Cymar",
+  "type": "Concept",
+  "description": "Concept referenced in the bibliography via the article 'Y Cymar'.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0365"
+  ]
+ },
+ {
+  "name": "Rhaetian",
+  "type": "Concept",
+  "description": "Listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Realm",
+  "description": "The Church, listed in the Tribunal index.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "faeries"
+  ],
+  "description": "Faeries are listed in the index, including a Jerbiton view of them; faeries and monsters form a bibliography section.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366",
+   "sanctuary-of-ice-the-greater-alps-tribunal::0364"
+  ]
+ },
+ {
+  "name": "Blizzard of Down",
+  "type": "Spell",
+  "description": "New spell (CrAn 20) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Call the Basilisk",
+  "type": "Spell",
+  "description": "New spell (CrAn(Re) 50) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Cocoon of the Mulberry Worm",
+  "type": "Spell",
+  "description": "New spell (CrAn 30) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "The Couturier's Art",
+  "type": "Spell",
+  "description": "New spell (CrAn(He, Im) 10) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Daughter of Zephyrs",
+  "type": "Spell",
+  "description": "New spell (CrAn(Re) 45) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "The Foes of the Ibis",
+  "type": "Spell",
+  "description": "New spell (CrAn(Re) 40) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "The Hidden Skin of the Serpent",
+  "type": "Spell",
+  "description": "New spell (MuCo(An) 30) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Intestinal Suffering",
+  "type": "Spell",
+  "description": "New spell (PeCo 40) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Liar's Chime",
+  "type": "Spell",
+  "description": "New spell (InMe(Im) 25) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Nagging Curse",
+  "type": "Spell",
+  "description": "New spell (PeCo 20) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "The Ninth Stitch",
+  "type": "Spell",
+  "description": "New spell (CrAn(He, Im) 10) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Rack of Thorns",
+  "type": "Spell",
+  "description": "New spell (MuCo 20) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Recreating the Inner Sea",
+  "type": "Spell",
+  "description": "New spell (CrAq(Co) 25) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "The Scold's Bridle",
+  "type": "Spell",
+  "description": "New spell (CrAn 20) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Shower of Needles",
+  "type": "Spell",
+  "description": "New spell (CrCo(Re) 20) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Statue of Bone",
+  "type": "Spell",
+  "description": "New spell (MuCo 50) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "The Suffering of the Seer",
+  "type": "Spell",
+  "description": "New spell (MuCo 35) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "The Thief of Memory",
+  "type": "Spell",
+  "description": "New spell (PeMe 25) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Tickling the Humors",
+  "type": "Spell",
+  "description": "New spell (CrMe 20/25) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "To Know the Owner as Might His Hound",
+  "type": "Spell",
+  "description": "New spell (InAn 25) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Visions Beatific",
+  "type": "Spell",
+  "description": "New spell (MuIm(Me) 30) listed in the Index of New Spells.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0370"
+  ]
+ },
+ {
+  "name": "Black Quartz",
+  "type": "Item",
+  "description": "Black Quartz listed in the Tribunal index among minerals and substances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Smoky Quartz",
+  "type": "Item",
+  "description": "Smoky Quartz listed in the Tribunal index among minerals and substances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Cubic Fluorite",
+  "type": "Item",
+  "description": "Cubic Fluorite listed in the Tribunal index among minerals and substances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Octagonal Fluorite",
+  "type": "Item",
+  "description": "Octagonal Fluorite listed in the Tribunal index among minerals and substances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Rainbow Fluorite",
+  "type": "Item",
+  "description": "Rainbow Fluorite listed in the Tribunal index among minerals and substances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0368"
+  ]
+ },
+ {
+  "name": "Emeralds",
+  "type": "Item",
+  "description": "Emeralds listed in the Tribunal index among minerals and substances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ },
+ {
+  "name": "Amaranth",
+  "type": "Item",
+  "description": "Amaranth listed in the Tribunal index among minerals and substances.",
+  "evidence": [
+   "sanctuary-of-ice-the-greater-alps-tribunal::0366"
+  ]
+ }
+]

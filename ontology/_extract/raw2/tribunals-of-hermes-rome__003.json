@@ -1,0 +1,2799 @@
+[
+ {
+  "name": "Resting Place of Mars",
+  "type": "Place",
+  "aliases": [
+   "The Resting Place",
+   "Tomb of Mars"
+  ],
+  "description": "A regio on the plains of Lombardy about 10 miles northwest of Milan, possibly the tomb of a sleeping war deity; its aura increases warlike and decreases peaceful Personality Traits.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0360",
+   "tribunals-of-hermes-rome::0361",
+   "tribunals-of-hermes-rome::0362"
+  ]
+ },
+ {
+  "name": "Old Ones",
+  "type": "Creature",
+  "aliases": [
+   "the gods"
+  ],
+  "description": "Ancient beings of enormous power whose civilization was destroyed by Tarhutis; they fled to human lands, were worshipped as gods, and now sleep in hidden places.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0360",
+   "tribunals-of-hermes-rome::0364",
+   "tribunals-of-hermes-rome::0368"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Members of the Order who search for the sleeping Old Ones and their ancient lore, hoping to take their power.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0360"
+  ]
+ },
+ {
+  "name": "Tarhutis",
+  "type": "Character",
+  "aliases": [],
+  "description": "The one said to have destroyed the civilization of the Old Ones millennia ago.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0360"
+  ]
+ },
+ {
+  "name": "Mars",
+  "type": "Character",
+  "aliases": [],
+  "description": "The Roman war deity; the Resting Place of Mars is speculated to be the sleeping place of such a war god.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0360"
+  ]
+ },
+ {
+  "name": "Luctatio",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Luctatio",
+   "Magi of Luctatio"
+  ],
+  "description": "A covenant whose magi came to Lombardy in 1162 and built on the Resting Place of Mars, until an army destroyed its foundation and they moved closer to Milan.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0361",
+   "tribunals-of-hermes-rome::0362",
+   "tribunals-of-hermes-rome::0370"
+  ]
+ },
+ {
+  "name": "Lombardy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of northern Italy whose plains hold the Resting Place of Mars and which has been plagued by unrest for a millennium.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0361",
+   "tribunals-of-hermes-rome::0362",
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Milan",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northern Italian city near the Resting Place of Mars, marched upon by a great army.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0361",
+   "tribunals-of-hermes-rome::0382",
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "aliases": [],
+  "description": "The Italian peninsula, the territory of the Roman Tribunal, full of constant battles and politicking.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0360",
+   "tribunals-of-hermes-rome::0376",
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Tribunal of Rome"
+  ],
+  "description": "The Tribunal of the Order of Hermes covering Italy; one of the oldest Tribunals.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0361",
+   "tribunals-of-hermes-rome::0376",
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regio level"
+  ],
+  "description": "A supernatural layered area whose 'upper' levels can be entered from the mundane level; the Resting Place of Mars has a Magical level ranked five and Saint Aquila a Divine level ranked seven.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0362",
+   "tribunals-of-hermes-rome::0363",
+   "tribunals-of-hermes-rome::0374"
+  ]
+ },
+ {
+  "name": "Magical Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Magical upper level of the Resting Place of Mars regio (level 5), containing a stone block and a tomb full of weapons.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0363",
+   "tribunals-of-hermes-rome::0365"
+  ]
+ },
+ {
+  "name": "Divine Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Divine level (7) covering the Church of Saint Aquila, where those in prayer find absolute peace and those who reject Christ feel dread.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0374",
+   "tribunals-of-hermes-rome::0375"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A supernatural emotional aura around the Resting Place of Mars that alters Personality Traits and Passions.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0362",
+   "tribunals-of-hermes-rome::0363"
+  ]
+ },
+ {
+  "name": "Personality Traits",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Character traits such as Brave or Arrogant, modified by the aura of the Resting Place of Mars.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0362",
+   "tribunals-of-hermes-rome::0363",
+   "tribunals-of-hermes-rome::0367"
+  ]
+ },
+ {
+  "name": "Passions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Strong character emotions treated like Personality Traits for the aura effects of the Resting Place of Mars.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0362",
+   "tribunals-of-hermes-rome::0363"
+  ]
+ },
+ {
+  "name": "Mount Olympus",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the places where the Old Ones are said to sleep.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0364"
+  ]
+ },
+ {
+  "name": "Tertius Quid",
+  "type": "Place",
+  "aliases": [],
+  "description": "A forest where the Old Ones are said to sleep.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0364"
+  ]
+ },
+ {
+  "name": "Stonehenge",
+  "type": "Place",
+  "aliases": [],
+  "description": "Said by some to be a sleeping place of the Old Ones.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0364"
+  ]
+ },
+ {
+  "name": "Infamitus",
+  "type": "Character",
+  "aliases": [
+   "Arch-Mage Infamitus"
+  ],
+  "description": "Arch-Mage quoted on the Old Ones, author of The True Origins of the Magical Traditions.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0364"
+  ]
+ },
+ {
+  "name": "The True Origins of the Magical Traditions",
+  "type": "Item",
+  "aliases": [],
+  "description": "A text by Arch-Mage Infamitus discussing the sleeping Old Ones.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0364"
+  ]
+ },
+ {
+  "name": "Weapons of the Resting Place of Mars",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magnificent weapons lining the tomb walls; each gives +3 damage and +2 First Strike and Attack, shifts Personality Traits toward war, and brings a ghostly swordsman upon the taker.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0366",
+   "tribunals-of-hermes-rome::0367",
+   "tribunals-of-hermes-rome::0369"
+  ]
+ },
+ {
+  "name": "Sarcophagus of the Resting Place of Mars",
+  "type": "Item",
+  "aliases": [],
+  "description": "A huge empty sarcophagus for a being 50 feet tall in the tomb's center; any damage to it repairs on the next new moon.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0365",
+   "tribunals-of-hermes-rome::0366"
+  ]
+ },
+ {
+  "name": "Ghostly Swordsman",
+  "type": "Creature",
+  "aliases": [
+   "ghostly swordsmen",
+   "the watcher"
+  ],
+  "description": "Insubstantial warriors in full chain with great swords who attack anyone who takes a weapon from the Resting Place of Mars at the next new moon, until defeated or the weapon is returned.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0366",
+   "tribunals-of-hermes-rome::0368",
+   "tribunals-of-hermes-rome::0369"
+  ]
+ },
+ {
+  "name": "The Dark",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A malevolent force that might have set the Resting Place of Mars as a trap to gather souls.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0368"
+  ]
+ },
+ {
+  "name": "Church of Saint Aquila",
+  "type": "Place",
+  "aliases": [
+   "Saint Aquila",
+   "Church of St. Aquila"
+  ],
+  "description": "A small, poor romanesque church in eastern Rome near the Porta Salaria built on the home of Saint Aquila, covered by a Divine regio.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0371",
+   "tribunals-of-hermes-rome::0372",
+   "tribunals-of-hermes-rome::0373"
+  ]
+ },
+ {
+  "name": "Saint Aquila",
+  "type": "Character",
+  "aliases": [
+   "Aquila"
+  ],
+  "description": "A first-century Jewish tentmaker converted by Saint Paul in Corinth whose Roman house became a church; he and his wife were martyred.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0371",
+   "tribunals-of-hermes-rome::0372"
+  ]
+ },
+ {
+  "name": "Saint Paul",
+  "type": "Character",
+  "aliases": [],
+  "description": "Converted Aquila and his wife to Christianity in Corinth.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0372"
+  ]
+ },
+ {
+  "name": "Emperor Claudius",
+  "type": "Character",
+  "aliases": [
+   "Claudius"
+  ],
+  "description": "Roman emperor who expelled all Jews from Rome.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0372"
+  ]
+ },
+ {
+  "name": "Corinth",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Aquila and his wife were converted by Saint Paul.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0372"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "City containing the Church of Saint Aquila; home of the Roman Scribe vocation.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0371",
+   "tribunals-of-hermes-rome::0373",
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Porta Salaria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Gate on the eastern side of Rome near the Church of Saint Aquila.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0373"
+  ]
+ },
+ {
+  "name": "Angelo",
+  "type": "Character",
+  "aliases": [],
+  "description": "The old priest of Saint Aquila for 40 years, who has received visions and moves between the mundane and Divine regio.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0372",
+   "tribunals-of-hermes-rome::0373",
+   "tribunals-of-hermes-rome::0374"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine realm, manifest in the regio of Saint Aquila and able to bring divine wrath.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0374",
+   "tribunals-of-hermes-rome::0375"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magical"
+  ],
+  "description": "The magical realm whose regio lies over the Resting Place of Mars.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0363",
+   "tribunals-of-hermes-rome::0365"
+  ]
+ },
+ {
+  "name": "Vocation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Character templates representing peoples and professions; here specific to the Roman Tribunal.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0376"
+  ]
+ },
+ {
+  "name": "Saga",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The ongoing campaign that discoveries like the Resting Place of Mars can alter.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0368",
+   "tribunals-of-hermes-rome::0376"
+  ]
+ },
+ {
+  "name": "Storyguide",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The game master who decides mantra bonuses and the truth of mysteries.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0363"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Covenant warriors and servants; grog vocations include Gang Member and Italian Sailor.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0375",
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Custos",
+  "type": "CharacterType",
+  "aliases": [
+   "custos"
+  ],
+  "description": "Trusted covenant guard status to which grogs aspire.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379",
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-magus player characters; companion vocations include Bologna Scholar and Covenant Ship Captain.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "Magi"
+  ],
+  "description": "A Hermetic wizard of the Order; magus vocations are given for several Houses.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Gang Member",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog vocation: a northern Italian city gang youth now serving magi as a warrior.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Italian Sailor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog vocation: a fisherman's son who sailed Venetian merchant ships and now serves on a magi-owned ship.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Lombard Warrior",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog vocation: a mercenary from Lombardy serving a covenant's magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Messenger",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog vocation: carries messages between a covenant and its interests across Italy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Venetian Thief",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Grog vocation: a Venice street thief fleeing after a killing.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Bologna Scholar",
+  "type": "CharacterType",
+  "aliases": [
+   "Bokonga Scholar",
+   "Student"
+  ],
+  "description": "Companion vocation: a University of Bologna student taught about the Order by the magi of Literatus.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382",
+   "tribunals-of-hermes-rome::0383"
+  ]
+ },
+ {
+  "name": "Covenant Ship Captain",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Companion vocation: captain of a covenant's ship who smuggles on the side.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Roman Scribe",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Companion vocation: a scribe's second son from Rome copying magical documents for magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Rebellious Son",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Companion vocation: a northern noble family's son turned sellsword.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Venetian Spy",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Companion vocation: a Venetian spy selling secrets to the highest bidder.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Commune Mercenary",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magus vocation (Tytalus) who hires out to Italian communes, using subtle self-enhancing magic in battle.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0389"
+  ]
+ },
+ {
+  "name": "Independent Rebel",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magus vocation (Tremere) seeking vengeance on the Roman Tribunal for his master.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0391"
+  ]
+ },
+ {
+  "name": "Literatus Student",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magus vocation (Jerbiton) trained at Literatus and the University of Bologna.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392",
+   "tribunals-of-hermes-rome::0393"
+  ]
+ },
+ {
+  "name": "Necromancer",
+  "type": "CharacterType",
+  "aliases": [
+   "Necromander"
+  ],
+  "description": "Magus vocation (Ex Miscellanea) trained in the catacombs of Vardian's Tomb in necromancy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394",
+   "tribunals-of-hermes-rome::0395",
+   "tribunals-of-hermes-rome::0376"
+  ]
+ },
+ {
+  "name": "Magic Item Merchant",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magus vocation (Verditius) from Verdi who sells magic items to nobles.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396",
+   "tribunals-of-hermes-rome::0397"
+  ]
+ },
+ {
+  "name": "Vardian's Tomb",
+  "type": "Covenant",
+  "aliases": [
+   "the Tomb"
+  ],
+  "description": "A covenant with catacombs where necromancy is taught, home to bickering Jerbiton.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0376",
+   "tribunals-of-hermes-rome::0394",
+   "tribunals-of-hermes-rome::0395"
+  ]
+ },
+ {
+  "name": "University of Bologna",
+  "type": "Place",
+  "aliases": [],
+  "description": "University in Bologna near Literatus where students and apprentices learn mundane learning.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0376",
+   "tribunals-of-hermes-rome::0382",
+   "tribunals-of-hermes-rome::0393"
+  ]
+ },
+ {
+  "name": "Bologna",
+  "type": "Place",
+  "aliases": [],
+  "description": "Italian city home to the University of Bologna.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382",
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Literatus",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "One of the most scholarly covenants in the Order, near the University of Bologna.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382",
+   "tribunals-of-hermes-rome::0392",
+   "tribunals-of-hermes-rome::0393"
+  ]
+ },
+ {
+  "name": "Verdi",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Verdi"
+  ],
+  "description": "Covenant where wealth is valued; it has a townhouse in Venice.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387",
+   "tribunals-of-hermes-rome::0397"
+  ]
+ },
+ {
+  "name": "Venice",
+  "type": "Place",
+  "aliases": [],
+  "description": "City of intrigue and merchant ships, home of thieves and spies.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378",
+   "tribunals-of-hermes-rome::0381",
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Steris",
+  "type": "Character",
+  "aliases": [
+   "Magus Steris"
+  ],
+  "description": "A magus seen in Verdi's townhouse in a scandal reported by a Venetian spy.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of Hermetic magi.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382",
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "The inborn capacity for Hermetic magic.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Christian Church.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0374",
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Communes",
+  "type": "Faction",
+  "aliases": [
+   "commune"
+  ],
+  "description": "Italian city communes that hire mercenaries.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386",
+   "tribunals-of-hermes-rome::0389"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House of a magus vocation template in the Roman Tribunal appendix.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House of a magus vocation template in the Roman Tribunal appendix.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House of a magus vocation template in the Roman Tribunal appendix.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392",
+   "tribunals-of-hermes-rome::0395"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Hermetic House of a magus vocation template in the Roman Tribunal appendix.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House of a magus vocation template in the Roman Tribunal appendix.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [
+   "Certámen"
+  ],
+  "description": "Hermetic magical duel; also an Ability. The Independent Rebel's cry.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0391",
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Necromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Secret arts of the dead taught in Vardian's Tomb.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394",
+   "tribunals-of-hermes-rome::0395"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power used in enchanting items.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396",
+   "tribunals-of-hermes-rome::0397"
+  ]
+ },
+ {
+  "name": "Season",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A three-month unit of downtime for lab work.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0367",
+   "tribunals-of-hermes-rome::0397"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [
+   "Intéllego"
+  ],
+  "description": "Hermetic Art (Technique) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0365",
+   "tribunals-of-hermes-rome::0367",
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Technique) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [
+   "Animál"
+  ],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Córporem"
+  ],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [
+   "Imágonem"
+  ],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art (Form) listed in magus vocation templates.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388",
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Gang Member (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Loyalty",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Stocky",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Reckless",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Versatile Sleeper",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Well-Known",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Light Sleeper",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Lithe",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Training",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Very Knowledgeable",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Exceptional Talent",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Student",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Fast Learner",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Rebel Passion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Superior Armaments",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Light Touch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Greed Passion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Lightning Reflexes",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [
+   "The Gentle Gift"
+  ],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Knack",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Mastered Spells",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Magical Affinity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Subtle Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Highly Skilled",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Learn From Mistakes",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Vengeance Passion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Book-Learner",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Cautious Sorcerer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Extra Arts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Special Circumstances",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Ghostly Warder",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Inventive Genius",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Wealth",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Bad Reputation",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Hired Sword",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Missing Ear",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Over-Confident",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Poor Equipment",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Soft Hearted",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Clumsy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Fury",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Sense of Doom",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Dependant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Dutybound",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Lame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Black Sheep",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Deep Sleeper",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Delusion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Weak Writer",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Incomprehensible",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Lack of Control",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Minor Magic Deficiency",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "aliases": [
+   "The Blatant Gift"
+  ],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Infamous Master",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "No Sigil",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Obsessed",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Stingy Master",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Major Magic Deficiency",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Haunted",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Susceptibility to Divine Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Obligation",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Reclusive",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Verditius Magic (Flaw)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Vis Obligation",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Clumsy Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Wild Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw appearing in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Speak Italian",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Shortsword Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Dodge",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Alertness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Drinking",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Forgery",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Intimidation",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0377"
+  ]
+ },
+ {
+  "name": "Speak Arabic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Mace Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Round Shield Parry",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Scan",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0378"
+  ]
+ },
+ {
+  "name": "Speak German",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "War Maul Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "War Maul Parry",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0379"
+  ]
+ },
+ {
+  "name": "Dagger Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Diplomacy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0380"
+  ]
+ },
+ {
+  "name": "Disguise",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Pick Locks",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Subterfuge",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0381"
+  ]
+ },
+ {
+  "name": "Speak Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Charisma",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Debate",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Self Bow Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Hermes History",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Hermes Law",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Fantastic Beast Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Legend Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Church Knowledge",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Humanities",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Law",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Rhetoric",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Scribe Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0382"
+  ]
+ },
+ {
+  "name": "Battle Axe Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Battle Axe Parry",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Climb",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Boating",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Direction Sense",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0384"
+  ]
+ },
+ {
+  "name": "Scribe Arabic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Craft Illuminations",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0385"
+  ]
+ },
+ {
+  "name": "Bastard Sword Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Kite Shield Parry",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0386"
+  ]
+ },
+ {
+  "name": "Search",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Pretend",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0387"
+  ]
+ },
+ {
+  "name": "Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Morning Star Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Knight Shield Parry",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Scribe Greek",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Occult Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Verditius Magic (Ability)",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Quarterstaff Attack",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Quarterstaff Parry",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability listed in a Roman Tribunal vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used with a warlike trait to enter the Resting Place of Mars regio by meditation.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0363"
+  ]
+ },
+ {
+  "name": "Eyes of the Cat",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuCo 10) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Preternatural Growth and Shrinking",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuCo 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Gift of the Bear's Fortitude",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuCo 30) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Rise of the Feathery Body",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReCo 10) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Endurance of the Berserkers",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReCo 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Edge of the Razor",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuTe 5) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Statue to Animal",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuTe 25) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Fist of Shattering",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (PeTe 5) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0388"
+  ]
+ },
+ {
+  "name": "Rusted Decay of Ten Score Years",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (PeTe 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0389"
+  ]
+ },
+ {
+  "name": "Maintaining the Demanding Spell",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReVi 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0389"
+  ]
+ },
+ {
+  "name": "Circle of Beast Warding",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReAn 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Despair of the Quivering Manacles",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReCo 10) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Lifting the Dangling Puppet",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReCo 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Pilum of Fire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (CrIg 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Wizard's Sidestep",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReIm 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Memory of the Distant Dream",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (CrMe 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReMe 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0390",
+   "tribunals-of-hermes-rome::0392",
+   "tribunals-of-hermes-rome::0393"
+  ]
+ },
+ {
+  "name": "The Chirurgeon's Healing Touch",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (CrCo 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "The Inexorable Search",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InCo 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Eyes of the Past",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InIm 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Thoughts Within Babble",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InMe 25) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Peering into the Mortal Mind",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InMe 30) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Enchantment of Detachment",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuMe 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0392"
+  ]
+ },
+ {
+  "name": "Charm Against Putrefaction",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (CrCo 5) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Awaken the Slumbering Corpse",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReCo 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Whispers Through the Black Gate",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InCo 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "The Walking Corpse",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReCo 25) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Incantation of Summoning the Dead",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReMe 25) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Summon the Haunting Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReMe 25) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Coerce the Spirits of the Night",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (ReMe 35) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0394"
+  ]
+ },
+ {
+  "name": "Phantasmal Animal",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (CrIm 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Phantasm of the Human Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (CrIm 25) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Notes of Delightful Sound",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuIm 10) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Image Phantom",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuIm 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Invisibility of the Standing Wizard",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (PeIm 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Sense the Nature of Vis",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InVi 10) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Scales of the Magical Weight",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InVi 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Perceive the Magical Scent",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (InVi 20) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ },
+ {
+  "name": "Gather the Essence of the Beast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell (MuVi 15) in a Roman Tribunal magus vocation template.",
+  "evidence": [
+   "tribunals-of-hermes-rome::0396"
+  ]
+ }
+]

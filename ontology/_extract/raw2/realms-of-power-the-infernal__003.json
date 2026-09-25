@@ -1,0 +1,2204 @@
+[
+ {
+  "name": "Ablating",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Goetic Art Virtue that opens the Ablating Art at 0; combined with Summoning it lets a sorcerer leech away the power of a demon or spirit.",
+  "evidence": [
+   "realms-of-power-the-infernal::0364",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0388"
+  ]
+ },
+ {
+  "name": "Binding",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Goetic Art Virtue opening the Binding Art, used with Summoning to force a demon or incorporeal spirit into a physical object or person.",
+  "evidence": [
+   "realms-of-power-the-infernal::0367",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Commanding",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Goetic Art Virtue opening the Commanding Art, allowing a sorcerer combined with Summoning to make summoned demons obey him.",
+  "evidence": [
+   "realms-of-power-the-infernal::0370",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Goetic Art Virtue giving the primary Art of the Ars Goetia; combined with other Goetic Arts it binds, destroys and controls demons and spirits.",
+  "evidence": [
+   "realms-of-power-the-infernal::0402",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0439"
+  ]
+ },
+ {
+  "name": "Amorphous",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major or Minor Supernatural Tainted Virtue letting the character take any non-specific human form, as his body has the almost-gaseous property of demonic flesh.",
+  "evidence": [
+   "realms-of-power-the-infernal::0365",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0438"
+  ]
+ },
+ {
+  "name": "Aptitude for (Sin)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Tainted Virtue granting +3 to rolls in a narrow circumstance linked to a demon's Obsession, such as picking pockets or poisoning.",
+  "evidence": [
+   "realms-of-power-the-infernal::0366",
+   "realms-of-power-the-infernal::0362"
+  ]
+ },
+ {
+  "name": "Chthonic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Hermetic Supernatural Virtue making a magus's magic dark and sinister, granting the Chthonic Magic Ability at 1 and benefits from the Infernal realm.",
+  "evidence": [
+   "realms-of-power-the-infernal::0368",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Command Animals",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Tainted Virtue letting the character mentally command mundane animals of a species associated with the demon who tainted him.",
+  "evidence": [
+   "realms-of-power-the-infernal::0369",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0437"
+  ]
+ },
+ {
+  "name": "Consumption",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Power Virtue granting the Supernatural Ability Consumption at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0371",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Convoluted Mind",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Tainted Virtue giving +3 to Infernal Lore rolls to predict demons and a Common Sense-like feeling when dealing with demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0372",
+   "realms-of-power-the-infernal::0362",
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "Corruption",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue letting infernalists teach corrupted knowledge; grants the Corruption Ability at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue letting the character lead or join dark rituals of the maleficia; grants the Ceremony Ability at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0375",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Debauchery",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Method Virtue granting the Supernatural Ability Debauchery at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0376",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Demonic Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Tainted Virtue for a character with a demon parent, giving Infernal Might (Corpus) 5, Infernal Powers, an attendant ruach and a shortened lifespan.",
+  "evidence": [
+   "realms-of-power-the-infernal::0377",
+   "realms-of-power-the-infernal::0378",
+   "realms-of-power-the-infernal::0379"
+  ]
+ },
+ {
+  "name": "Demonic Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue available only with Demonic Blood that increases Infernal Might by 2.",
+  "evidence": [
+   "realms-of-power-the-infernal::0380",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Demonic Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue for demon-blooded characters granting an extra 20 levels of Infernal Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0381",
+   "realms-of-power-the-infernal::0379",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Devil Child",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Special free Mythic Companion Virtue for a character born of demonic parents; taken in place of The Gift.",
+  "evidence": [
+   "realms-of-power-the-infernal::0382",
+   "realms-of-power-the-infernal::0476",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Diablerie",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Power Virtue granting the Supernatural Ability Diablerie at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0383",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Special free Virtue for a Mythic Companion who has given over his soul to the Infernal realm.",
+  "evidence": [
+   "realms-of-power-the-infernal::0384",
+   "realms-of-power-the-infernal::0362"
+  ]
+ },
+ {
+  "name": "Effusion",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Power Virtue granting the Supernatural Ability Effusion at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0385",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Enticer of Multitudes",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Tainted Virtue, a version of Inspirational usable only to manipulate groups toward evil acts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0386",
+   "realms-of-power-the-infernal::0362",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Gender Shift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Tainted Virtue letting the character change gender each midnight.",
+  "evidence": [
+   "realms-of-power-the-infernal::0387",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Hermetic Sorcery",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Hermetic Tainted Virtue: studying Goetic Arts also yields Rego experience, and studying supernatural Lores yields Vim experience.",
+  "evidence": [
+   "realms-of-power-the-infernal::0388",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue letting the character curse enemies with dire predictions; grants the Hex Ability at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0389",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Immune to Disease",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Tainted Virtue marking the character as property of a powerful demon so that lesser disease demons refuse to harm him.",
+  "evidence": [
+   "realms-of-power-the-infernal::0390",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Infernal Blessing",
+  "type": "Virtue",
+  "aliases": [
+   "Infernal Blessings"
+  ],
+  "description": "Major or Minor Supernatural Tainted Virtue granting 60 or 120 levels of beneficial unholy effects from a demon or Infernal tradition.",
+  "evidence": [
+   "realms-of-power-the-infernal::0391",
+   "realms-of-power-the-infernal::0392",
+   "realms-of-power-the-infernal::0393"
+  ]
+ },
+ {
+  "name": "Infernal Heirloom",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Tainted Virtue giving a magical item inherited from a diabolist, whose use draws the owner closer to the demon that made it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0394",
+   "realms-of-power-the-infernal::0468"
+  ]
+ },
+ {
+  "name": "Incantation",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Method Virtue granting the Supernatural Ability Incantation at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0395",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Malediction",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Power Virtue granting the Supernatural Ability Malediction at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0396",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Mentored by Demons",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Tainted Virtue giving 50 extra experience points from demonic teachers, who teach only Abilities that suit their plans.",
+  "evidence": [
+   "realms-of-power-the-infernal::0397",
+   "realms-of-power-the-infernal::0466"
+  ]
+ },
+ {
+  "name": "Phantasm",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Power Virtue granting the Supernatural Ability Phantasm at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0398",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Psychomachia",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Unholy Power Virtue granting the Supernatural Ability Psychomachia at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0399",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Sense Passions",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue letting the character see into hearts and minds; grants the Sense Passions Ability at 1.",
+  "evidence": [
+   "realms-of-power-the-infernal::0400",
+   "realms-of-power-the-infernal::0361"
+  ]
+ },
+ {
+  "name": "Summoner",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Special free Virtue for a Mythic Companion trained as a sorcerer's apprentice.",
+  "evidence": [
+   "realms-of-power-the-infernal::0401",
+   "realms-of-power-the-infernal::0362"
+  ]
+ },
+ {
+  "name": "Tainted Treasure",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Tainted Virtue granting cursed wealth that can only be spent sinfully and ruins non-sinful ventures.",
+  "evidence": [
+   "realms-of-power-the-infernal::0403",
+   "realms-of-power-the-infernal::0404",
+   "realms-of-power-the-infernal::0468"
+  ]
+ },
+ {
+  "name": "Corrupted Abilities",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Tainted Flaw: Abilities taught by a Watcher or corrupted source gain +3 for sinful uses and -3 for selfless ones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0406",
+   "realms-of-power-the-infernal::0405",
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Corrupted Arts",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Tainted Flaw: a Hermetic Art studied from a corrupted source gives +3 for sinful uses and -3 for selfless ones.",
+  "evidence": [
+   "realms-of-power-the-infernal::0407",
+   "realms-of-power-the-infernal::0405",
+   "realms-of-power-the-infernal::0429"
+  ]
+ },
+ {
+  "name": "Corrupted Spells",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Tainted Flaw: at least 30 levels of formulaic spells learned from a corrupted source, favoring sinful use.",
+  "evidence": [
+   "realms-of-power-the-infernal::0408",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "Demonic Familiar",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Story Flaw binding the character to a famulus, a demon that possesses an animal and is not loyal to her.",
+  "evidence": [
+   "realms-of-power-the-infernal::0409",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "Depraved",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major or Minor Personality Flaw: the character seeks to undermine religion and avoids the Dominion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0410",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "Evil Destiny",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw: the Infernal realm has taken an unknown interest in the character, used by the storyguide in secret.",
+  "evidence": [
+   "realms-of-power-the-infernal::0411",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "False Power",
+  "type": "Flaw",
+  "aliases": [
+   "False Powers"
+  ],
+  "description": "Major Supernatural Tainted Flaw making one Supernatural Virtue also Infernally associated, so it appears unholy under investigation.",
+  "evidence": [
+   "realms-of-power-the-infernal::0412",
+   "realms-of-power-the-infernal::0413",
+   "realms-of-power-the-infernal::0414"
+  ]
+ },
+ {
+  "name": "Impious Friend",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Story Tainted Flaw: a minor demon poses as the character's friend to guide him to a tragic destiny.",
+  "evidence": [
+   "realms-of-power-the-infernal::0415",
+   "realms-of-power-the-infernal::0465",
+   "realms-of-power-the-infernal::0469"
+  ]
+ },
+ {
+  "name": "Manufactured Ignorance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Story Tainted Flaw: a Delusion sustained by minor demons who supply supporting evidence.",
+  "evidence": [
+   "realms-of-power-the-infernal::0416",
+   "realms-of-power-the-infernal::0465",
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "No Tradition",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw for an infernalist who belongs to no Infernal tradition and so has no favored Abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0417",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "Repellent",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major General Tainted Flaw: the character bears a physical feature of his demonic creator, imposing -6 on trust rolls.",
+  "evidence": [
+   "realms-of-power-the-infernal::0418",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "Tainted Offspring",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Tainted Flaw: the character's child has been marked by a powerful demon for great but unpleasant things.",
+  "evidence": [
+   "realms-of-power-the-infernal::0419",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "Tragic Life",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw marking a tainted character whose life demons have manipulated to act predictably at a pivotal moment.",
+  "evidence": [
+   "realms-of-power-the-infernal::0420",
+   "realms-of-power-the-infernal::0421",
+   "realms-of-power-the-infernal::0462"
+  ]
+ },
+ {
+  "name": "Vengeful Powers",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Tainted Flaw: non-sinful use of the character's Powers causes harmful, often Infernal side effects.",
+  "evidence": [
+   "realms-of-power-the-infernal::0422",
+   "realms-of-power-the-infernal::0423"
+  ]
+ },
+ {
+  "name": "Witch Marks",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Tainted Flaw: minor disfigurements recognized by folk lore as marks of diabolists.",
+  "evidence": [
+   "realms-of-power-the-infernal::0424",
+   "realms-of-power-the-infernal::0405"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw taken by tainted characters who have rebelled against their demonic creator's design and incurred its enmity.",
+  "evidence": [
+   "realms-of-power-the-infernal::0421",
+   "realms-of-power-the-infernal::0462",
+   "realms-of-power-the-infernal::0403"
+  ]
+ },
+ {
+  "name": "Tainted with Evil",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw often inherited by tainted people when demons distort the human too far.",
+  "evidence": [
+   "realms-of-power-the-infernal::0420",
+   "realms-of-power-the-infernal::0463",
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Delusion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of mistaken belief; demon-blooded or tainted characters may have it to explain their abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0378",
+   "realms-of-power-the-infernal::0416",
+   "realms-of-power-the-infernal::0468"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw under which Demonic Weaknesses may be taken by Devil Children.",
+  "evidence": [
+   "realms-of-power-the-infernal::0477",
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Plagued by an Angel",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw Devil Children often gain when targeted by Heaven's forces.",
+  "evidence": [
+   "realms-of-power-the-infernal::0476"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw Devil Children may gain when they come to Heaven's attention.",
+  "evidence": [
+   "realms-of-power-the-infernal::0476"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "aliases": [
+   "Disfigurement"
+  ],
+  "description": "Inherited Flaw that can distance a tainted character from her designed destiny.",
+  "evidence": [
+   "realms-of-power-the-infernal::0420",
+   "realms-of-power-the-infernal::0465",
+   "realms-of-power-the-infernal::0464"
+  ]
+ },
+ {
+  "name": "Age Quickly",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that demon-blooded characters may not take.",
+  "evidence": [
+   "realms-of-power-the-infernal::0379"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw granting a bad Reputation, which cannot be combined with Infernal Reputations.",
+  "evidence": [
+   "realms-of-power-the-infernal::0449"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw appearing in example tainted characters such as Jochim and Malachi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0466",
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Weakness",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw, e.g. Albert's weakness for flattery of friends.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Pious",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw; Elspeth's is devoted to her demon's mock religion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Monastic Vows",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw taken by Sister Andrea after taking vows at a nunnery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that makes magi; Mythic Companions and demon-blooded characters may not take it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0360",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0475"
+  ]
+ },
+ {
+  "name": "The False Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Corrupted version of The Gift, described in Chapter 12: Black Magic, for apprentices or magi marked by Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373",
+   "realms-of-power-the-infernal::0412",
+   "realms-of-power-the-infernal::0475"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Powerful non-Gifted companion who can rival a magus, receiving a Free Virtue and two Virtue points per Flaw point.",
+  "evidence": [
+   "realms-of-power-the-infernal::0360",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0476"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Divine Virtue that beings with Might cannot take.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue that beings with Might cannot take, and which can become a False Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373",
+   "realms-of-power-the-infernal::0412"
+  ]
+ },
+ {
+  "name": "Blood of the Nephilim",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Divine-affiliated Virtue from Realms of Power: The Divine that beings with Might cannot take.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373"
+  ]
+ },
+ {
+  "name": "Diedne Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue that can be affected by the False Power Flaw.",
+  "evidence": [
+   "realms-of-power-the-infernal::0412"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "aliases": [
+   "False Premonitions"
+  ],
+  "description": "Supernatural Virtue/Ability that can become a False Power vulnerable to demonic manipulation; Malachi has it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0412",
+   "realms-of-power-the-infernal::0477",
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [
+   "False Second Sight"
+  ],
+  "description": "Supernatural Virtue; its False version sees through deceptions when that leads to sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0412",
+   "realms-of-power-the-infernal::0413",
+   "realms-of-power-the-infernal::0443"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Virtue",
+  "aliases": [
+   "False Shapeshifter"
+  ],
+  "description": "Supernatural Virtue; its False version only allows Infernal animal shapes such as cats, wolves, ravens or rats.",
+  "evidence": [
+   "realms-of-power-the-infernal::0413",
+   "realms-of-power-the-infernal::0439"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue (ArM5 p.67) that Sense Passions imitates in limited fashion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0444"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue normally needed to learn Infernal Lore at character creation.",
+  "evidence": [
+   "realms-of-power-the-infernal::0378"
+  ]
+ },
+ {
+  "name": "Unaging",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that demon-blooded characters may not take.",
+  "evidence": [
+   "realms-of-power-the-infernal::0379"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of which Enticer of Multitudes is an evil version.",
+  "evidence": [
+   "realms-of-power-the-infernal::0386",
+   "realms-of-power-the-infernal::0466"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue whose protective feeling is mirrored by Convoluted Mind for demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0372"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue; Tainted Treasure could supply it, and Albert has it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0403",
+   "realms-of-power-the-infernal::0392",
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue, e.g. Malachi's immunity to iron.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Puissant Guile",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue required for all Devil Children.",
+  "evidence": [
+   "realms-of-power-the-infernal::0477",
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Goetic Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic-affiliated supernatural ability referenced in Chapter 12.",
+  "evidence": [
+   "realms-of-power-the-infernal::0439"
+  ]
+ },
+ {
+  "name": "False Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic-affiliated false Virtue referenced in Chapter 12.",
+  "evidence": [
+   "realms-of-power-the-infernal::0439"
+  ]
+ },
+ {
+  "name": "False Faerie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie-affiliated false version of Faerie Blood.",
+  "evidence": [
+   "realms-of-power-the-infernal::0438",
+   "realms-of-power-the-infernal::0439"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Infernal-affiliated supernatural ability (ArM5 p.65).",
+  "evidence": [
+   "realms-of-power-the-infernal::0438"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Elspeth the midwife.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Lesser Purifying Touch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Elspeth, for postnatal infections.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Elspeth.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Jochim.",
+  "evidence": [
+   "realms-of-power-the-infernal::0466"
+  ]
+ },
+ {
+  "name": "Famous",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Jochim as a commander of men.",
+  "evidence": [
+   "realms-of-power-the-infernal::0466"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Sister Andrea.",
+  "evidence": [
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "Strong-willed",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Sister Andrea.",
+  "evidence": [
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "Great Presence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue Malachi has twice.",
+  "evidence": [
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Privileged Upbringing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Malachi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Puissant Leadership",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Malachi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Self-Confident",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that Infernal Powers blessing can mimic; Malachi has it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0393",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Venus's Blessing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Malachi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Malachi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Infernal Supernatural Ability letting a group of 13 (12 participants and a focus character) combine to empower an Infernal effect.",
+  "evidence": [
+   "realms-of-power-the-infernal::0425",
+   "realms-of-power-the-infernal::0426",
+   "realms-of-power-the-infernal::0438"
+  ]
+ },
+ {
+  "name": "Chthonic Magic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability learnable only by magi that draws on the Infernal; substitutes for Magic Theory in dark lab work and increases usable Infernal vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0427",
+   "realms-of-power-the-infernal::0438"
+  ]
+ },
+ {
+  "name": "Consumption",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Power Ability manipulating the energy of living things through dark rites.",
+  "evidence": [
+   "realms-of-power-the-infernal::0428",
+   "realms-of-power-the-infernal::0371"
+  ]
+ },
+ {
+  "name": "Corruption",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability to lead others to evil unaware, via ceremonial and personal influence and teaching corrupted Abilities or Arts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0429",
+   "realms-of-power-the-infernal::0430"
+  ]
+ },
+ {
+  "name": "Debauchery",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Method Ability focusing will through a strenuous physical act, using Stamina for maleficium rolls.",
+  "evidence": [
+   "realms-of-power-the-infernal::0431",
+   "realms-of-power-the-infernal::0376"
+  ]
+ },
+ {
+  "name": "Diablerie",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Power Ability to exert control over spirits, demons and the Infernal realm.",
+  "evidence": [
+   "realms-of-power-the-infernal::0432",
+   "realms-of-power-the-infernal::0383"
+  ]
+ },
+ {
+  "name": "Effusion",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Power Ability wielding power over the physical world, inorganic materials and natural forces.",
+  "evidence": [
+   "realms-of-power-the-infernal::0433",
+   "realms-of-power-the-infernal::0385"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability to bring injury or ruin on enemies through declarations, signs or sympathetic representations, with a chosen delay.",
+  "evidence": [
+   "realms-of-power-the-infernal::0434",
+   "realms-of-power-the-infernal::0435",
+   "realms-of-power-the-infernal::0436"
+  ]
+ },
+ {
+  "name": "Incantation",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Method Ability invoking the Infernal through blasphemous words or writing, adding Communication and costing Confidence.",
+  "evidence": [
+   "realms-of-power-the-infernal::0437",
+   "realms-of-power-the-infernal::0395"
+  ]
+ },
+ {
+  "name": "Malediction",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Power Ability to punish enemies with diabolical curses.",
+  "evidence": [
+   "realms-of-power-the-infernal::0440",
+   "realms-of-power-the-infernal::0396"
+  ]
+ },
+ {
+  "name": "Phantasm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Power Ability to create and control substantial demonic illusions.",
+  "evidence": [
+   "realms-of-power-the-infernal::0441",
+   "realms-of-power-the-infernal::0398"
+  ]
+ },
+ {
+  "name": "Psychomachia",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unholy Power Ability to possess and distort the mind.",
+  "evidence": [
+   "realms-of-power-the-infernal::0442",
+   "realms-of-power-the-infernal::0399"
+  ]
+ },
+ {
+  "name": "Sense Passions",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability to sense emotions, dominant Personality Traits and auras' tarnish, and in limited fashion holiness and unholiness.",
+  "evidence": [
+   "realms-of-power-the-infernal::0443",
+   "realms-of-power-the-infernal::0444"
+  ]
+ },
+ {
+  "name": "True Name of (Being)",
+  "type": "Ability",
+  "aliases": [
+   "True Name of (Demon)",
+   "True Name"
+  ],
+  "description": "Placeholder for knowledge of a being's True Name, learned via (Realm) Lore, acting as a permanent Arcane Connection.",
+  "evidence": [
+   "realms-of-power-the-infernal::0445",
+   "realms-of-power-the-infernal::0428"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Arcane Ability about the Infernal; used to predict demons and resist corruption.",
+  "evidence": [
+   "realms-of-power-the-infernal::0372",
+   "realms-of-power-the-infernal::0378",
+   "realms-of-power-the-infernal::0430"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Lore whose study grants Vim experience with Hermetic Sorcery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0388"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Lore whose study grants Vim experience with Hermetic Sorcery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0388"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Lore whose study grants Vim experience with Hermetic Sorcery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0388"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability for which Chthonic Magic can substitute in dark lab work.",
+  "evidence": [
+   "realms-of-power-the-infernal::0427"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability; Malachi has Guile 3+2.",
+  "evidence": [
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Ablating",
+  "type": "Art",
+  "aliases": [],
+  "description": "Goetic Art that leeches power from demons or spirits; described in Chapter 11: Ars Goetia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0364",
+   "realms-of-power-the-infernal::0388"
+  ]
+ },
+ {
+  "name": "Goetic Arts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The four sorcerous Arts of Ars Goetia: Ablating, Binding, Commanding and Summoning.",
+  "evidence": [
+   "realms-of-power-the-infernal::0388",
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0402"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique gaining experience via Hermetic Sorcery when studying Goetic Arts.",
+  "evidence": [
+   "realms-of-power-the-infernal::0388"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form gaining experience via Hermetic Sorcery when studying Lores; Malachi's Power is Vim.",
+  "evidence": [
+   "realms-of-power-the-infernal::0388",
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form; demon-blooded bodies contain Corpus vis and a profaned Host becomes Corpus vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0377",
+   "realms-of-power-the-infernal::0380",
+   "realms-of-power-the-infernal::0456"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form; profaned holy water yields unholy Aquam vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0455"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of Malachi's mind-controlling Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0479"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique; a Perdo Vim spell can remove hexes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0436"
+  ]
+ },
+ {
+  "name": "False Powers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Powers, including potentially Divine ones, tainted by Hell so they appear unholy, via botches or infernal interference.",
+  "evidence": [
+   "realms-of-power-the-infernal::0360",
+   "realms-of-power-the-infernal::0412",
+   "realms-of-power-the-infernal::0436"
+  ]
+ },
+ {
+  "name": "Tainted Characters",
+  "type": "Concept",
+  "aliases": [
+   "tainted people",
+   "Tainted Children"
+  ],
+  "description": "People whose conception or upbringing demons meddled with, making them tools for Infernal schemes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0458",
+   "realms-of-power-the-infernal::0461",
+   "realms-of-power-the-infernal::0470"
+  ]
+ },
+ {
+  "name": "Tainted Virtues and Flaws",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Category of Virtues and Flaws for demon-tainted characters; no more than half of starting Virtues or Flaws may be Tainted.",
+  "evidence": [
+   "realms-of-power-the-infernal::0363",
+   "realms-of-power-the-infernal::0462"
+  ]
+ },
+ {
+  "name": "Unholy Methods",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Category of Infernal Abilities (Debauchery, Incantation) used to activate maleficia.",
+  "evidence": [
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0376",
+   "realms-of-power-the-infernal::0395"
+  ]
+ },
+ {
+  "name": "Unholy Powers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Category of Infernal Abilities (Consumption, Diablerie, Effusion, Malediction, Phantasm, Psychomachia).",
+  "evidence": [
+   "realms-of-power-the-infernal::0361",
+   "realms-of-power-the-infernal::0371",
+   "realms-of-power-the-infernal::0383"
+  ]
+ },
+ {
+  "name": "Maleficia",
+  "type": "Concept",
+  "aliases": [
+   "maleficium",
+   "The Maleficia"
+  ],
+  "description": "Infernal magic of unholy Methods and Powers described in Chapter 10.",
+  "evidence": [
+   "realms-of-power-the-infernal::0375",
+   "realms-of-power-the-infernal::0391",
+   "realms-of-power-the-infernal::0431"
+  ]
+ },
+ {
+  "name": "Ars Goetia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Goetic sorcery of summoning and controlling demons, described in Chapter 11.",
+  "evidence": [
+   "realms-of-power-the-infernal::0364",
+   "realms-of-power-the-infernal::0402",
+   "realms-of-power-the-infernal::0439"
+  ]
+ },
+ {
+  "name": "Black Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dark Hermetic magic drawing on the Infernal, described in Chapter 12.",
+  "evidence": [
+   "realms-of-power-the-infernal::0368",
+   "realms-of-power-the-infernal::0427",
+   "realms-of-power-the-infernal::0475"
+  ]
+ },
+ {
+  "name": "Infernal Traditions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Traditions of infernalists that teach Infernal Abilities, described in Chapter 13.",
+  "evidence": [
+   "realms-of-power-the-infernal::0391",
+   "realms-of-power-the-infernal::0417",
+   "realms-of-power-the-infernal::0437"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Infernal Might",
+   "Might Pool"
+  ],
+  "description": "Score marking a being as a member of a supernatural realm, granting Magic Resistance and immunity to Warping.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373",
+   "realms-of-power-the-infernal::0446"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Infernal Warping",
+   "Warping Points"
+  ],
+  "description": "Supernatural change from which Might-bearing beings are immune; Infernal Warping can grant Infernal Virtues.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373",
+   "realms-of-power-the-infernal::0363",
+   "realms-of-power-the-infernal::0437"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Wizard's Twilight"
+  ],
+  "description": "Hermetic supernatural backlash from which beings with Might of that realm are immune.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373",
+   "realms-of-power-the-infernal::0450"
+  ]
+ },
+ {
+  "name": "Hubris",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural backlash of a realm to which Might-bearing beings are immune.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373"
+  ]
+ },
+ {
+  "name": "Vituperation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Infernal backlash when an infernalist gains 2+ Warping Points or loses control of Infernal power, tormenting him as if in Hell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0450",
+   "realms-of-power-the-infernal::0451",
+   "realms-of-power-the-infernal::0373"
+  ]
+ },
+ {
+  "name": "Hierarchy Score",
+  "type": "Concept",
+  "aliases": [
+   "Hierarchy"
+  ],
+  "description": "Score equal to an infernalist or demon's highest Reputation, representing authority over demons and used in Power formulas.",
+  "evidence": [
+   "realms-of-power-the-infernal::0449",
+   "realms-of-power-the-infernal::0425",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Infernal Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Reputation representing what the forces of Hell think of a character; always considered beneficial.",
+  "evidence": [
+   "realms-of-power-the-infernal::0448",
+   "realms-of-power-the-infernal::0449",
+   "realms-of-power-the-infernal::0393"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [
+   "Confidence Score",
+   "Confidence Point"
+  ],
+  "description": "Score and points spent to fuel Incantation, Corruption and profaning; can rise after Vituperation.",
+  "evidence": [
+   "realms-of-power-the-infernal::0437",
+   "realms-of-power-the-infernal::0451",
+   "realms-of-power-the-infernal::0454"
+  ]
+ },
+ {
+  "name": "Sacrifice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual killing by infernalists to add a bonus (effigy to innocent human) to Power effect totals.",
+  "evidence": [
+   "realms-of-power-the-infernal::0453",
+   "realms-of-power-the-infernal::0414"
+  ]
+ },
+ {
+  "name": "Profaning the Holy",
+  "type": "Concept",
+  "aliases": [
+   "Profaning"
+  ],
+  "description": "Mystical abuse of a holy object to taint it and produce Infernal vis, costing a Confidence Point.",
+  "evidence": [
+   "realms-of-power-the-infernal::0454",
+   "realms-of-power-the-infernal::0455",
+   "realms-of-power-the-infernal::0456"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "Infernal vis"
+  ],
+  "description": "Magical power in physical form; profaning produces Infernal vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0454",
+   "realms-of-power-the-infernal::0427",
+   "realms-of-power-the-infernal::0377"
+  ]
+ },
+ {
+  "name": "Vis Infesta",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Type of Infernal vis usually produced by profaning.",
+  "evidence": [
+   "realms-of-power-the-infernal::0454"
+  ]
+ },
+ {
+  "name": "Vis Sordida",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Type of Infernal vis a particularly holy profaned object may become.",
+  "evidence": [
+   "realms-of-power-the-infernal::0454"
+  ]
+ },
+ {
+  "name": "Vis Prava",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Type of Infernal vis a very holy profaned object may even become.",
+  "evidence": [
+   "realms-of-power-the-infernal::0454"
+  ]
+ },
+ {
+  "name": "Host",
+  "type": "Concept",
+  "aliases": [
+   "Eucharist"
+  ],
+  "description": "The body of Christ from the Eucharist; the most common object profaned in Mythic Europe, becoming Corpus vis.",
+  "evidence": [
+   "realms-of-power-the-infernal::0455",
+   "realms-of-power-the-infernal::0456"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection that forces of vengeance and hexes must penetrate; granted by Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0373",
+   "realms-of-power-the-infernal::0377",
+   "realms-of-power-the-infernal::0422"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [
+   "Infernal aura"
+  ],
+  "description": "Supernatural realm aura modifying Supernatural Abilities; Infernal auras boost Infernal Powers.",
+  "evidence": [
+   "realms-of-power-the-infernal::0413",
+   "realms-of-power-the-infernal::0436",
+   "realms-of-power-the-infernal::0443"
+  ]
+ },
+ {
+  "name": "Tarnish",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Infernal quality of an aura or soul that Sense Passions can detect.",
+  "evidence": [
+   "realms-of-power-the-infernal::0443"
+  ]
+ },
+ {
+  "name": "Temper",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine quality of an aura, counterpart to tarnish (Realms of Power: The Divine).",
+  "evidence": [
+   "realms-of-power-the-infernal::0443"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link to a target used by Hex; a True Name acts as a permanent one.",
+  "evidence": [
+   "realms-of-power-the-infernal::0434",
+   "realms-of-power-the-infernal::0445"
+  ]
+ },
+ {
+  "name": "True Names",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Names of beings granting permanent Arcane Connection, discussed in Chapter 4: Infernal Legions.",
+  "evidence": [
+   "realms-of-power-the-infernal::0445"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ritual that is the only way to slow the accelerated aging of demon-blooded characters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0379",
+   "realms-of-power-the-infernal::0451"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aging measure; aging points still count toward it for demon-blooded characters.",
+  "evidence": [
+   "realms-of-power-the-infernal::0379",
+   "realms-of-power-the-infernal::0451"
+  ]
+ },
+ {
+  "name": "Aging Table",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Table for aging rolls; demon-blooded roll twice yearly after effective age 35.",
+  "evidence": [
+   "realms-of-power-the-infernal::0378",
+   "realms-of-power-the-infernal::0451"
+  ]
+ },
+ {
+  "name": "Realm Affiliation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Association of supernatural Virtues, Flaws and Abilities with a realm for realm interaction purposes.",
+  "evidence": [
+   "realms-of-power-the-infernal::0437",
+   "realms-of-power-the-infernal::0438",
+   "realms-of-power-the-infernal::0439"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "Concept",
+  "aliases": [
+   "infernalism"
+  ],
+  "description": "Person who deals with demons and the Infernal realm; Might-bearing beings who become infernalists gain Infernal Might.",
+  "evidence": [
+   "realms-of-power-the-infernal::0446",
+   "realms-of-power-the-infernal::0448",
+   "realms-of-power-the-infernal::0453"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "Concept",
+  "aliases": [
+   "diabolator"
+  ],
+  "description": "One who has given his soul to Hell; creates infernal heirlooms and bears witch marks.",
+  "evidence": [
+   "realms-of-power-the-infernal::0384",
+   "realms-of-power-the-infernal::0394",
+   "realms-of-power-the-infernal::0424"
+  ]
+ },
+ {
+  "name": "Infernal Ceremony",
+  "type": "Concept",
+  "aliases": [
+   "coven"
+  ],
+  "description": "Unholy ritual of 13 participants empowered by the Ceremony Ability.",
+  "evidence": [
+   "realms-of-power-the-infernal::0425",
+   "realms-of-power-the-infernal::0426",
+   "realms-of-power-the-infernal::0414"
+  ]
+ },
+ {
+  "name": "Demonic Weaknesses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon weaknesses (Chapter 4) that Devil Children may take as Lesser Malediction Flaws.",
+  "evidence": [
+   "realms-of-power-the-infernal::0477",
+   "realms-of-power-the-infernal::0478"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A demon's defining sin, linked to Aptitude for (Sin) and Amorphous.",
+  "evidence": [
+   "realms-of-power-the-infernal::0365",
+   "realms-of-power-the-infernal::0366"
+  ]
+ },
+ {
+  "name": "Sin",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Moral failings that demons encourage; basis for Corruption and tainting.",
+  "evidence": [
+   "realms-of-power-the-infernal::0366",
+   "realms-of-power-the-infernal::0429",
+   "realms-of-power-the-infernal::0420"
+  ]
+ },
+ {
+  "name": "Absolution",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine sacrament that undoes hexes and can remove False Power.",
+  "evidence": [
+   "realms-of-power-the-infernal::0393",
+   "realms-of-power-the-infernal::0414",
+   "realms-of-power-the-infernal::0436"
+  ]
+ },
+ {
+  "name": "Baptism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sacrament withheld by diabolators to dedicate children to demons.",
+  "evidence": [
+   "realms-of-power-the-infernal::0460",
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Forsaken Duration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maleficia duration typically used for Infernal Blessing effects.",
+  "evidence": [
+   "realms-of-power-the-infernal::0391"
+  ]
+ },
+ {
+  "name": "Infernal Ability",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing giving an unnatural bodily ability such as wings or fangs.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392"
+  ]
+ },
+ {
+  "name": "Infernal Confidence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing granting an additional Confidence Point.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392"
+  ]
+ },
+ {
+  "name": "Infernal Device",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing providing a device with an unholy effect up to level 15.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392"
+  ]
+ },
+ {
+  "name": "Infernal Greatness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing granting effects of a Major Virtue.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392"
+  ]
+ },
+ {
+  "name": "Infernal Health",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing giving +3 Aging rolls at the expense of a victim.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392"
+  ]
+ },
+ {
+  "name": "Infernal Powers (blessing)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing granting effects of an appropriate Minor Virtue.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392",
+   "realms-of-power-the-infernal::0393"
+  ]
+ },
+ {
+  "name": "Infernal Protection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing granting Magic Resistance 15.",
+  "evidence": [
+   "realms-of-power-the-infernal::0393"
+  ]
+ },
+ {
+  "name": "Infernal Prowess",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Common Infernal Blessing enhancing Soak, Damage, Initiative, Attack or Defense.",
+  "evidence": [
+   "realms-of-power-the-infernal::0393"
+  ]
+ },
+ {
+  "name": "Focus Character",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The participant in an Infernal Ceremony who possesses the required Supernatural Ability.",
+  "evidence": [
+   "realms-of-power-the-infernal::0425",
+   "realms-of-power-the-infernal::0426"
+  ]
+ },
+ {
+  "name": "Group Modifier",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Leaderless ceremony bonus equal to total Ceremony scores minus 13.",
+  "evidence": [
+   "realms-of-power-the-infernal::0425",
+   "realms-of-power-the-infernal::0426"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal",
+   "Hell"
+  ],
+  "description": "The realm of Hell and demons, which welcomes all and whose Powers are easy to gain.",
+  "evidence": [
+   "realms-of-power-the-infernal::0446",
+   "realms-of-power-the-infernal::0363",
+   "realms-of-power-the-infernal::0437"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine",
+   "Heaven"
+  ],
+  "description": "Realm of God; welcomes repentant defectors and whose agents meddle with Infernal plans.",
+  "evidence": [
+   "realms-of-power-the-infernal::0360",
+   "realms-of-power-the-infernal::0410",
+   "realms-of-power-the-infernal::0446"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Supernatural realm; demon-blooded characters cannot be affiliated with it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0446",
+   "realms-of-power-the-infernal::0475",
+   "realms-of-power-the-infernal::0436"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Supernatural realm; Hex and other Powers may be False Powers associated with Faerie.",
+  "evidence": [
+   "realms-of-power-the-infernal::0436",
+   "realms-of-power-the-infernal::0446"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine's presence in the world, avoided by Depraved characters and blocking Infernal Ability blessings.",
+  "evidence": [
+   "realms-of-power-the-infernal::0392",
+   "realms-of-power-the-infernal::0410",
+   "realms-of-power-the-infernal::0471"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fallen angels cursed with a fallen nature; they taint children, teach, and plot against mankind.",
+  "evidence": [
+   "realms-of-power-the-infernal::0472",
+   "realms-of-power-the-infernal::0458",
+   "realms-of-power-the-infernal::0461"
+  ]
+ },
+ {
+  "name": "Ruach",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Minor demon attending a demon-blooded character, using its Misfortune Power against her enemies.",
+  "evidence": [
+   "realms-of-power-the-infernal::0378",
+   "realms-of-power-the-infernal::0479"
+  ]
+ },
+ {
+  "name": "Famulus",
+  "type": "Creature",
+  "aliases": [
+   "famuli"
+  ],
+  "description": "Familiar demon that possesses an animal and can lend a character its senses.",
+  "evidence": [
+   "realms-of-power-the-infernal::0409"
+  ]
+ },
+ {
+  "name": "Watcher",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon type (Chapter 6: Demons as Deceivers) that teaches corrupted Abilities.",
+  "evidence": [
+   "realms-of-power-the-infernal::0406"
+  ]
+ },
+ {
+  "name": "Incubus",
+  "type": "Creature",
+  "aliases": [
+   "Incubi",
+   "Succubae",
+   "Incubi and Succubae"
+  ],
+  "description": "Servile demon that carries semen to produce tainted children.",
+  "evidence": [
+   "realms-of-power-the-infernal::0459",
+   "realms-of-power-the-infernal::0462",
+   "realms-of-power-the-infernal::0466"
+  ]
+ },
+ {
+  "name": "Order of Tempters",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Weakest order of demons, to which children of female demons and human males always belong.",
+  "evidence": [
+   "realms-of-power-the-infernal::0472"
+  ]
+ },
+ {
+  "name": "Nephilim",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Humans with angelic ancestry; there is no Infernal equivalent since demon-blooded are sterile.",
+  "evidence": [
+   "realms-of-power-the-infernal::0473"
+  ]
+ },
+ {
+  "name": "Phouka",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie that may become Infernal by delighting in tempting mortals to sin.",
+  "evidence": [
+   "realms-of-power-the-infernal::0446"
+  ]
+ },
+ {
+  "name": "Lucifer",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the fallen angels with whom demons fell.",
+  "evidence": [
+   "realms-of-power-the-infernal::0452"
+  ]
+ },
+ {
+  "name": "Lickspitten",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Example famulus described in Chapter 5.",
+  "evidence": [
+   "realms-of-power-the-infernal::0409"
+  ]
+ },
+ {
+  "name": "Devil Children",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Demon-blooded Mythic Companions created by powerful demons for a task, tragic but free-willed.",
+  "evidence": [
+   "realms-of-power-the-infernal::0476",
+   "realms-of-power-the-infernal::0477"
+  ]
+ },
+ {
+  "name": "Albert",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example tainted merchant conceived under a demonic fever, guarded by a demon posing as the merchant Aldo.",
+  "evidence": [
+   "realms-of-power-the-infernal::0464",
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Aldo",
+  "type": "Character",
+  "aliases": [],
+  "description": "Minor demon masquerading as a merchant friend of Albert.",
+  "evidence": [
+   "realms-of-power-the-infernal::0464",
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Elspeth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example tainted midwife dedicated to a demon at birth, devoting newborns to her demon.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465"
+  ]
+ },
+ {
+  "name": "Jochim",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example tainted noble's son conceived by incubus for a pointless war before the Mongol invasion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465",
+   "realms-of-power-the-infernal::0466",
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "Sister Andrea",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example tainted rebel, niece of a sorcerer, who escaped her Manufactured Ignorance and lives in a nunnery.",
+  "evidence": [
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "Tiberius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Younger noble son guided by a demon posing as his grandfather's ghost, designed by Valefar as a snare for magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0467",
+   "realms-of-power-the-infernal::0468",
+   "realms-of-power-the-infernal::0469"
+  ]
+ },
+ {
+  "name": "Valefar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon who designed Tiberius as a snare for magi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0468"
+  ]
+ },
+ {
+  "name": "Malachi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Devil Child created by the demon Abrigor to raise an army of darkness; raised by an English merchant.",
+  "evidence": [
+   "realms-of-power-the-infernal::0477",
+   "realms-of-power-the-infernal::0478",
+   "realms-of-power-the-infernal::0479"
+  ]
+ },
+ {
+  "name": "Abrigor",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon and False God who created Malachi.",
+  "evidence": [
+   "realms-of-power-the-infernal::0479"
+  ]
+ },
+ {
+  "name": "Free the Devil's Servant",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Malachi's Power that frees a trapped demon after sunset until dawn.",
+  "evidence": [
+   "realms-of-power-the-infernal::0478",
+   "realms-of-power-the-infernal::0479"
+  ]
+ },
+ {
+  "name": "The Obedient Slave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Malachi's Power forcing any person to perform commanded tasks.",
+  "evidence": [
+   "realms-of-power-the-infernal::0479"
+  ]
+ },
+ {
+  "name": "Unbridled Emotion of the Masses",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Malachi's Power seizing up to a hundred targets with his current emotion.",
+  "evidence": [
+   "realms-of-power-the-infernal::0479"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell that keeps demons away; forces of Vengeful Powers cannot cross it.",
+  "evidence": [
+   "realms-of-power-the-infernal::0422"
+  ]
+ },
+ {
+  "name": "Mongols",
+  "type": "Faction",
+  "aliases": [
+   "Mongol people"
+  ],
+  "description": "People a demon lord foresees invading the West.",
+  "evidence": [
+   "realms-of-power-the-infernal::0465",
+   "realms-of-power-the-infernal::0466",
+   "realms-of-power-the-infernal::0467"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The obscure order of wizards who can slow aging, which Tiberius hopes to serve.",
+  "evidence": [
+   "realms-of-power-the-infernal::0468",
+   "realms-of-power-the-infernal::0461"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting in which profaning the Host is common.",
+  "evidence": [
+   "realms-of-power-the-infernal::0455",
+   "realms-of-power-the-infernal::0393"
+  ]
+ },
+ {
+  "name": "Eastern Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Church whose icons infernalists might profane.",
+  "evidence": [
+   "realms-of-power-the-infernal::0456"
+  ]
+ },
+ {
+  "name": "Crusaders",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Might unintentionally profane Muslim holy places.",
+  "evidence": [
+   "realms-of-power-the-infernal::0456"
+  ]
+ },
+ {
+  "name": "The Devil's Penance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Medieval German folk tale of a devil refusing humiliating penance.",
+  "evidence": [
+   "realms-of-power-the-infernal::0451",
+   "realms-of-power-the-infernal::0452"
+  ]
+ }
+]

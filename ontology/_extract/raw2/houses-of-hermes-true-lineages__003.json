@@ -1,0 +1,2057 @@
+[
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "Hermetic House composed mostly of unGifted Redcaps who serve as couriers, bankers and guardians for the Order; the Gift is rarer here than in any other House.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361",
+   "houses-of-hermes-true-lineages::0409",
+   "houses-of-hermes-true-lineages::0428"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcaps"
+  ],
+  "description": "UnGifted members of House Mercere who carry messages between covenants, trade vis and hold all the rights of magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361",
+   "houses-of-hermes-true-lineages::0364",
+   "houses-of-hermes-true-lineages::0472"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "aliases": [
+   "Mercere the Founder"
+  ],
+  "description": "Founder of House Mercere who visited every domus magna, established Harco, took only his own Gifted children as apprentices and later lost his Gift.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0362",
+   "houses-of-hermes-true-lineages::0413",
+   "houses-of-hermes-true-lineages::0419"
+  ]
+ },
+ {
+  "name": "Societas Merceris",
+  "type": "Concept",
+  "aliases": [
+   "Mercere society"
+  ],
+  "description": "Societies within House Mercere, each with its own history, outlook and joining requirements.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0360"
+  ]
+ },
+ {
+  "name": "Mercer House",
+  "type": "Place",
+  "aliases": [
+   "Mercer Houses"
+  ],
+  "description": "A support covenant, or part of a covenant, that serves as the Redcaps' administrative centre and treasury for a Tribunal, run by a senior Redcap.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361",
+   "houses-of-hermes-true-lineages::0362",
+   "houses-of-hermes-true-lineages::0382"
+  ]
+ },
+ {
+  "name": "Senior Redcap",
+  "type": "CharacterType",
+  "description": "The Redcap who runs a Mercer House, keeps track of local Redcaps and represents the House at Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361",
+   "houses-of-hermes-true-lineages::0362",
+   "houses-of-hermes-true-lineages::0402"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal in which the Barcelona Mercer House, known as Yuval's, is located.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361"
+  ]
+ },
+ {
+  "name": "Yuval's",
+  "type": "Place",
+  "description": "Informal name of the Mercer House in Barcelona, named after its senior Redcap and reputed as a wealthy, slightly sinister house of magic and vice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361",
+   "houses-of-hermes-true-lineages::0362"
+  ]
+ },
+ {
+  "name": "Yuval",
+  "type": "Character",
+  "description": "Senior Redcap of the Mercer House in Barcelona, which is named after him.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361",
+   "houses-of-hermes-true-lineages::0362"
+  ]
+ },
+ {
+  "name": "Barcelona",
+  "type": "Place",
+  "description": "City in the Iberian Tribunal where the Mercer House known as Yuval's stands.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0361"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where two Mercer Houses compete for dominance.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0362"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "description": "Regional gathering of magi; House Mercere must distribute invitations about a year in advance and swear to having done so before it begins.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0362",
+   "houses-of-hermes-true-lineages::0383"
+  ]
+ },
+ {
+  "name": "Praeco",
+  "type": "CharacterType",
+  "description": "Official who decides when and where Tribunal meets and whose expenses are reimbursed from the Tribunal treasury.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0362",
+   "houses-of-hermes-true-lineages::0382"
+  ]
+ },
+ {
+  "name": "Presiding Quaesitor",
+  "type": "CharacterType",
+  "description": "Quaesitor who presides at Tribunal, to whom the senior Redcap swears the invitation duty was fulfilled.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0362",
+   "houses-of-hermes-true-lineages::0393"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores"
+  ],
+  "description": "Hermetic investigators and judges; their presence or a letter from them is needed for Redcaps to make binding vis contracts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0381",
+   "houses-of-hermes-true-lineages::0389",
+   "houses-of-hermes-true-lineages::0402"
+  ]
+ },
+ {
+  "name": "Domus Magna",
+  "type": "Concept",
+  "description": "The chief covenant of a House; Mercere visited every domus magna at least once every seven years.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0362",
+   "houses-of-hermes-true-lineages::0404"
+  ]
+ },
+ {
+  "name": "Covenant Registration",
+  "type": "Concept",
+  "description": "Mercere tradition whereby covenants register their address with the House to be visited by Redcaps, agreeing to shelter any member of the Order for three days a year.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0363",
+   "houses-of-hermes-true-lineages::0364"
+  ]
+ },
+ {
+  "name": "Vis Source Registration",
+  "type": "Concept",
+  "description": "Practice of recording a vis source's location and yield with the Redcaps so they can swear to prior ownership at Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0364",
+   "houses-of-hermes-true-lineages::0377"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "description": "Domus magna of House Mercere established by Mercere, where messages for other Tribunals are collected via Mercere's Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0364",
+   "houses-of-hermes-true-lineages::0413",
+   "houses-of-hermes-true-lineages::0420"
+  ]
+ },
+ {
+  "name": "Mercere's Portal",
+  "type": "Item",
+  "aliases": [
+   "Mercere's Portals",
+   "Portal"
+  ],
+  "description": "Paired enchanted archways connecting distant locations, whose construction secret is restricted to House Mercere; guarded by custodians who collect tolls.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0364",
+   "houses-of-hermes-true-lineages::0388",
+   "houses-of-hermes-true-lineages::0442"
+  ]
+ },
+ {
+  "name": "Blacklisting",
+  "type": "Concept",
+  "description": "Informal House Mercere sanction in which Redcaps refuse to recognize a covenant or magus, losing records and messages.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0365",
+   "houses-of-hermes-true-lineages::0366"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where the story is told of a Flambeau wizard blacklisted by Redcaps after burning one alive.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0365",
+   "houses-of-hermes-true-lineages::0366"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House; a tenth-century Flambeau declared Wizard's War on a Redcap, and Flambeau magi helped rebuild the Cult of Mercury.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0366",
+   "houses-of-hermes-true-lineages::0414"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "description": "Formal declaration of hostilities between members of the Order of Hermes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0366",
+   "houses-of-hermes-true-lineages::0389"
+  ]
+ },
+ {
+  "name": "Stonehenge",
+  "type": "Place",
+  "description": "Place where a Redcap fled to hide during a Wizard's War before being burned alive.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0366"
+  ]
+ },
+ {
+  "name": "Hibernia",
+  "type": "Place",
+  "aliases": [
+   "Ireland"
+  ],
+  "description": "Ireland, home of the blacklisted Flambeau wizard.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0366"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power in physical form, prized as payment, traded, lent and banked by Redcaps.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0367",
+   "houses-of-hermes-true-lineages::0371",
+   "houses-of-hermes-true-lineages::0379"
+  ]
+ },
+ {
+  "name": "Vis Exchange",
+  "type": "Concept",
+  "description": "Redcap practice of trading vis like moneychangers, usually two units for one.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0371",
+   "houses-of-hermes-true-lineages::0372"
+  ]
+ },
+ {
+  "name": "Pawn",
+  "type": "Concept",
+  "aliases": [
+   "pawns",
+   "pigni",
+   "rook",
+   "queen"
+  ],
+  "description": "Unit of vis (pigni, 'p'); ten pawns make a rook and ten rooks a queen, a system popularized by Venafro.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0371",
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0385"
+  ]
+ },
+ {
+  "name": "Vis Tenta",
+  "type": "Concept",
+  "aliases": [
+   "v.t.",
+   "persistent vis"
+  ],
+  "description": "Vis associated with a Technique ('persistent vis'), valued at twice vis forma.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0371",
+   "houses-of-hermes-true-lineages::0372"
+  ]
+ },
+ {
+  "name": "Vis Forma",
+  "type": "Concept",
+  "aliases": [
+   "v.f.",
+   "formed vis"
+  ],
+  "description": "Vis associated with a Form ('formed vis').",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0371",
+   "houses-of-hermes-true-lineages::0372"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Technique of transformation; Mercere had a natural affinity for it, inherited by the Mutantes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372",
+   "houses-of-hermes-true-lineages::0412",
+   "houses-of-hermes-true-lineages::0419"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form of the human body.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372",
+   "houses-of-hermes-true-lineages::0421"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form of water.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form of fire.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique of perception.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372",
+   "houses-of-hermes-true-lineages::0447",
+   "houses-of-hermes-true-lineages::0471"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique of creation, highly valued by Mercere for healing and longevity potions.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372",
+   "houses-of-hermes-true-lineages::0374",
+   "houses-of-hermes-true-lineages::0412"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form of magic itself.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372",
+   "houses-of-hermes-true-lineages::0386",
+   "houses-of-hermes-true-lineages::0420"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique of control.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0372",
+   "houses-of-hermes-true-lineages::0386",
+   "houses-of-hermes-true-lineages::0392"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form of animals; Mutantes sympathize with those who study it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0393",
+   "houses-of-hermes-true-lineages::0428"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form of earth, used as a requisite for Twinning the Tome and in Mercere's Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0442",
+   "houses-of-hermes-true-lineages::0447"
+  ]
+ },
+ {
+  "name": "Usury",
+  "type": "Concept",
+  "description": "The Church's moral crime of charging interest on loans, which Redcaps avoid the appearance of when lending vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0373",
+   "houses-of-hermes-true-lineages::0374",
+   "houses-of-hermes-true-lineages::0375"
+  ]
+ },
+ {
+  "name": "Lien",
+  "type": "Concept",
+  "description": "Loan in which the lender receives the use of a borrower's vis source until repaid.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0375",
+   "houses-of-hermes-true-lineages::0391"
+  ]
+ },
+ {
+  "name": "Pawning (Magic Items)",
+  "type": "Concept",
+  "description": "Redcap practice of lending about half an item's value in vis against a magic device that can be bought back within a set time.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0376"
+  ]
+ },
+ {
+  "name": "Speculation",
+  "type": "Concept",
+  "description": "Mercer House funding of risky expeditions in search of vis sources in return for a share of profit.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0376",
+   "houses-of-hermes-true-lineages::0377"
+  ]
+ },
+ {
+  "name": "Usurer",
+  "type": "Virtue",
+  "description": "Character option representing a professional lender who charges high interest (see Appendix, Virtues and Flaws).",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0375"
+  ]
+ },
+ {
+  "name": "Outsider",
+  "type": "Flaw",
+  "description": "Flaw that Jewish characters should take.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0375"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "description": "Flaw European usurers might take to represent consequences of opposing the Church.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0375"
+  ]
+ },
+ {
+  "name": "Profession: Accountant",
+  "type": "Ability",
+  "description": "Ability usurer characters should start with.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0375"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal that in 1208 limited magically created silver to two pounds per resident per year.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0378"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "description": "Body of Hermetic legal precedent and Tribunal rulings supplementing the Code.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0378",
+   "houses-of-hermes-true-lineages::0392",
+   "houses-of-hermes-true-lineages::0401"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "description": "Order-wide Tribunal; site of a famous two-day certamen in the form of a chess game.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0379",
+   "houses-of-hermes-true-lineages::0384"
+  ]
+ },
+ {
+  "name": "Magical Silver",
+  "type": "Concept",
+  "description": "Magically created silver, which Redcaps refuse and which the Stonehenge Tribunal limited after it caused inflation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0378"
+  ]
+ },
+ {
+  "name": "Hermetic Charity",
+  "type": "Concept",
+  "description": "Tradition of Redcaps secretly leaving gifts of vis to deserving magi at the start of winter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0379",
+   "houses-of-hermes-true-lineages::0380"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [
+   "longevity potion"
+  ],
+  "description": "Magic that slows aging; Mercer Houses commission longevity potions for Redcaps from magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0373",
+   "houses-of-hermes-true-lineages::0380",
+   "houses-of-hermes-true-lineages::0402"
+  ]
+ },
+ {
+  "name": "Notary",
+  "type": "CharacterType",
+  "description": "Redcap holding a Quaesitor's letter authorizing binding vis contracts; their notes are treated as legal tender at Mercer Houses.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0381",
+   "houses-of-hermes-true-lineages::0382"
+  ]
+ },
+ {
+  "name": "Tribunal Treasury",
+  "type": "Concept",
+  "description": "Tribunal funds controlled by a Mercer House, which reimburses Tribunal expenses and collects fines.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0382",
+   "houses-of-hermes-true-lineages::0390"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Conflict after which the Diedne were destroyed; since then Mercere has been a House devoted to peace and Portals use passwords.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0428",
+   "houses-of-hermes-true-lineages::0442"
+  ]
+ },
+ {
+  "name": "Venafro",
+  "type": "Character",
+  "description": "Italian Redcap who harvested vis in lands left by the Diedne into chess-pawn tokens, giving rise to the 'pawn' unit.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0385"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "House whose passing left wild lands in Ireland and Britain empty for Venafro to seek vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House whose magi especially embraced Venafro's vis pawns.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0385"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Formal magical duel; a famous certamen at Grand Tribunal took the form of a chess game; Redcaps cannot fight it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0390",
+   "houses-of-hermes-true-lineages::0428"
+  ]
+ },
+ {
+  "name": "The Pawnbrokers",
+  "type": "Faction",
+  "aliases": [
+   "Pawnbroker"
+  ],
+  "description": "Societas Merceris of Redcaps who harvest vis into custom shapes such as tokens, coins, jewelry or tattoos, named in memory of Venafro.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0385",
+   "houses-of-hermes-true-lineages::0386"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "description": "Hermetic Virtue Pawnbroker Redcaps may take to represent vis they discovered in the wild.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0386"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "description": "Ability Pawnbroker Redcaps should have at least one of.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0386"
+  ]
+ },
+ {
+  "name": "Custodian",
+  "type": "CharacterType",
+  "aliases": [
+   "custodial Redcap",
+   "custodes"
+  ],
+  "description": "Custodial Redcap who escorts others through danger, guards Portals, collects fines and debts, and hunts bounties.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0387",
+   "houses-of-hermes-true-lineages::0388",
+   "houses-of-hermes-true-lineages::0390"
+  ]
+ },
+ {
+  "name": "Bounty",
+  "type": "Concept",
+  "description": "Reward in vis offered by a senior Redcap for dealing with a threat to travel.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0387"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [
+   "Hoplites"
+  ],
+  "description": "Magi who hunt down those cast out of the Order.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0390"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where in 1151 Dorisa charged Constantine of Mercere with taking vis from her sanctum.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0392"
+  ]
+ },
+ {
+  "name": "Dorisa",
+  "type": "Character",
+  "description": "Maga of Ex Miscellanea who charged Redcap Constantine with taking twelve pawns of vis from her sanctum.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0392",
+   "houses-of-hermes-true-lineages::0393"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "Hermetic House to which Dorisa belongs.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0392"
+  ]
+ },
+ {
+  "name": "Constantine of Mercere",
+  "type": "Character",
+  "description": "Redcap who entered Dorisa's sanctum to collect a debt of twelve pawns; the charges were dismissed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0392",
+   "houses-of-hermes-true-lineages::0393"
+  ]
+ },
+ {
+  "name": "Sanctum",
+  "type": "Concept",
+  "description": "A magus's private laboratory domain.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0392",
+   "houses-of-hermes-true-lineages::0393"
+  ]
+ },
+ {
+  "name": "Thebes Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where in 1179 Bartholomew of Mercere was tried for seizing a staff from Errantus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0393"
+  ]
+ },
+ {
+  "name": "Bartholomew of Mercere",
+  "type": "Character",
+  "description": "Redcap acquitted of stealing a staff from Errantus but fined for injuring him.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0393",
+   "houses-of-hermes-true-lineages::0394"
+  ]
+ },
+ {
+  "name": "Errantus",
+  "type": "Character",
+  "description": "Criamon magus who kept a staff stolen from Justina and was injured by Bartholomew.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0393",
+   "houses-of-hermes-true-lineages::0394"
+  ]
+ },
+ {
+  "name": "Justina of Criamon",
+  "type": "Character",
+  "description": "Filia of Errantus whose staff he stole; awarded twelve pawns in damages.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0394"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House of Errantus and Justina.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0393",
+   "houses-of-hermes-true-lineages::0394"
+  ]
+ },
+ {
+  "name": "The Bloodcaps",
+  "type": "Faction",
+  "aliases": [
+   "Bloodcap"
+  ],
+  "description": "Societas Merceris lineage descended from a Mercere adoptee's daughter and a violent border faerie; they dye their caps in blood.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0395",
+   "houses-of-hermes-true-lineages::0396",
+   "houses-of-hermes-true-lineages::0397"
+  ]
+ },
+ {
+  "name": "Bloodcap Faerie",
+  "type": "Creature",
+  "description": "Wicked, violent faeries of battlefields and ruined towers with long teeth and talons who dye their caps in their foes' blood.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0395",
+   "houses-of-hermes-true-lineages::0466"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "aliases": [
+   "Strong Faerie Blood",
+   "Faerie Blood (Bloodcap)"
+  ],
+  "description": "Minor General Virtue; the Bloodcap variety gives +1 Strength, long teeth and nails and susceptibility to the Divine.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0396",
+   "houses-of-hermes-true-lineages::0466"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "description": "Flaw Bloodcaps may take: the cross or scripture causes their teeth and nails to fall out.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0396",
+   "houses-of-hermes-true-lineages::0397"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "description": "Flaw Bloodcaps may take: the cross and scripture cause them pain.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0397"
+  ]
+ },
+ {
+  "name": "The Leap of Homecoming",
+  "type": "Spell",
+  "description": "ReCo35 spell enchanted into the iron shoes many Bloodcaps wear.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0397"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Dominion",
+   "divine realm"
+  ],
+  "description": "Realm of Power to which Bloodcaps are very susceptible.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0395",
+   "houses-of-hermes-true-lineages::0466"
+  ]
+ },
+ {
+  "name": "British Isles",
+  "type": "Place",
+  "description": "Region where Bloodcap legends lead most Redcaps to forgo their caps.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0396"
+  ]
+ },
+ {
+  "name": "Legacy",
+  "type": "Flaw",
+  "description": "Flaw required for Followers of Belin; also qualifies characters for Heroic Virtues and Flaws.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0370",
+   "houses-of-hermes-true-lineages::0463"
+  ]
+ },
+ {
+  "name": "Belin",
+  "type": "Character",
+  "description": "Mercere's last apprentice, a legendary female Redcap famed for loyalty, clever disguises and escaping a siege by feigning death.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0369",
+   "houses-of-hermes-true-lineages::0370"
+  ]
+ },
+ {
+  "name": "Followers of Belin",
+  "type": "Faction",
+  "description": "Societas Merceris of Belin's descendants and adoptees who serve as elite, humble messengers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0369",
+   "houses-of-hermes-true-lineages::0370"
+  ]
+ },
+ {
+  "name": "Wandering Redcap",
+  "type": "CharacterType",
+  "description": "Redcaps who serve reluctantly and travel widely, discovering vis sources and trading news.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0398",
+   "houses-of-hermes-true-lineages::0399"
+  ]
+ },
+ {
+  "name": "Lone Redcap",
+  "type": "Virtue",
+  "description": "Minor Status Virtue for a Redcap without ties to a Mercer House, forgoing its magic items and longevity potions.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0402",
+   "houses-of-hermes-true-lineages::0472"
+  ]
+ },
+ {
+  "name": "Orbus",
+  "type": "Concept",
+  "description": "Sanction declaring a Redcap an orphan and throwing him out of House Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0403",
+   "houses-of-hermes-true-lineages::0472"
+  ]
+ },
+ {
+  "name": "Mercere Primus",
+  "type": "Character",
+  "description": "Head of House Mercere, who issues warnings to Redcaps flouting their duties.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0403"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Innate ability to work Hermetic magic; extremely rare in House Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0401",
+   "houses-of-hermes-true-lineages::0409",
+   "houses-of-hermes-true-lineages::0461"
+  ]
+ },
+ {
+  "name": "Golias",
+  "type": "Character",
+  "aliases": [
+   "Bishop Golias"
+  ],
+  "description": "Tenth-century Redcap poet, patron of Fudarus, cast out for diabolism; revered as 'Bishop Golias' by the Goliards.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0404"
+  ]
+ },
+ {
+  "name": "Fudarus",
+  "type": "Covenant",
+  "description": "Domus magna of House Tytalus, where Golias was a semi-permanent resident.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0404"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House whose corruption (diabolism) came to light just before the end of the millennium.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0404"
+  ]
+ },
+ {
+  "name": "The Goliards",
+  "type": "Faction",
+  "aliases": [
+   "Ordo Vagarum",
+   "The Wanderers",
+   "Goliard"
+  ],
+  "description": "Societas Merceris of artistic magi and Redcaps celebrating life's pleasures through song and parody.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0404",
+   "houses-of-hermes-true-lineages::0405",
+   "houses-of-hermes-true-lineages::0407"
+  ]
+ },
+ {
+  "name": "Carmina Burana",
+  "type": "Item",
+  "description": "Famous work produced by the Goliards.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0405"
+  ]
+ },
+ {
+  "name": "Credo au Ribaut",
+  "type": "Item",
+  "aliases": [
+   "The Goliard Credo"
+  ],
+  "description": "Goliard poem quoted as the Goliard Credo.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0408"
+  ]
+ },
+ {
+  "name": "University of Paris",
+  "type": "Place",
+  "description": "Institution where Goliards seek apprentices.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0407"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "description": "Virtue Goliards may take for their academic background.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0407"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "description": "Virtue Goliards may take for their academic background.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0407"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "description": "Flaw Goliards must take for an inspirational vice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0407"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "description": "Virtue many Goliards possess.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0407"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "description": "Virtue many Goliards possess.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0407"
+  ]
+ },
+ {
+  "name": "Hermetic Patron",
+  "type": "Virtue",
+  "description": "Virtue representing a magus patron; common for Goliards and Milvi Redcaps.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0407",
+   "houses-of-hermes-true-lineages::0426"
+  ]
+ },
+ {
+  "name": "Illegitimate Lineage",
+  "type": "Flaw",
+  "description": "Applies to Mercere magi who cannot trace ancestry to the Founder.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0409"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Founder to whom Mercere presented potential students; author of Bonisagus's Theory.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0409",
+   "houses-of-hermes-true-lineages::0420"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "description": "Founder who approached Mercere and received his non-family students.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0409",
+   "houses-of-hermes-true-lineages::0413"
+  ]
+ },
+ {
+  "name": "Deleterious Circumstances",
+  "type": "Flaw",
+  "description": "Hermetic Flaw (in public) appropriate for Mercere magi who feel guilty about magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0411"
+  ]
+ },
+ {
+  "name": "Necessary Condition",
+  "type": "Flaw",
+  "description": "Hermetic Flaw (casting tools) appropriate for Mercere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0411"
+  ]
+ },
+ {
+  "name": "Puissant Art",
+  "type": "Virtue",
+  "description": "Starting Mercere magi take Puissant Art (Creo) or (Muto) as their free Virtue.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0412",
+   "houses-of-hermes-true-lineages::0417"
+  ]
+ },
+ {
+  "name": "Priamitus",
+  "type": "Character",
+  "description": "Mercere's first apprentice and son, who became a priest of the Cult of Mercury and taught Mercurian magic as a Hermetic lineage.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0413",
+   "houses-of-hermes-true-lineages::0414",
+   "houses-of-hermes-true-lineages::0415"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [
+   "Mercury Cultists"
+  ],
+  "description": "Pagan cult preserving Roman worship of natural powers, practicing Mercurian rituals; rebuilt by Priamitus with Flambeau help.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0413",
+   "houses-of-hermes-true-lineages::0414",
+   "houses-of-hermes-true-lineages::0416"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "description": "Roman god; Mercurian magi describe Mercere as Mercury reborn.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0414"
+  ]
+ },
+ {
+  "name": "Mercurian Magi",
+  "type": "CharacterType",
+  "description": "Mercere magi of Priamitus's lineage who practice Mercurian magic and spell mastery abilities.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0413",
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0433"
+  ]
+ },
+ {
+  "name": "Mercurian Magic",
+  "type": "Virtue",
+  "description": "Virtue Hero-Cult magi may take; Mercurian rituals cost less vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0417",
+   "houses-of-hermes-true-lineages::0429"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "description": "Realm through which Mercurians believe they ascend to join Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0414"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Hermetic theory into which Mercurian ceremonies were integrated.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0421",
+   "houses-of-hermes-true-lineages::0426"
+  ]
+ },
+ {
+  "name": "Spell Mastery",
+  "type": "Concept",
+  "aliases": [
+   "Mastered Spells"
+  ],
+  "description": "Mastered spell abilities; Mercurian and Mutantes lineages have special mastery abilities.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0432"
+  ]
+ },
+ {
+  "name": "Adaptive Casting",
+  "type": "Concept",
+  "description": "Cult of Mercury mastery ability letting mastery apply to similar spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0433"
+  ]
+ },
+ {
+  "name": "Ceremonial Casting",
+  "type": "Concept",
+  "description": "Cult of Mercury mastery ability adding Artes Liberales and Philosophiae when casting ceremonially.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0435"
+  ]
+ },
+ {
+  "name": "Disguised Casting",
+  "type": "Concept",
+  "description": "Cult of Mercury mastery ability to suppress or alter one's sigil.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0436"
+  ]
+ },
+ {
+  "name": "Lab Mastery",
+  "type": "Concept",
+  "description": "Cult of Mercury mastery ability adding mastery to Lab Totals for similar effects.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0438"
+  ]
+ },
+ {
+  "name": "Learn from Mistakes",
+  "type": "Concept",
+  "description": "Cult of Mercury mastery ability gaining experience from botches.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0439"
+  ]
+ },
+ {
+  "name": "Stalwart Casting",
+  "type": "Concept",
+  "description": "Cult of Mercury mastery ability reducing fatigue from casting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0415",
+   "houses-of-hermes-true-lineages::0440"
+  ]
+ },
+ {
+  "name": "Boosted Casting",
+  "type": "Concept",
+  "description": "Mutantes mastery ability spending vis to increase spell parameters.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0424",
+   "houses-of-hermes-true-lineages::0434"
+  ]
+ },
+ {
+  "name": "Harnessed Casting",
+  "type": "Concept",
+  "description": "Mutantes mastery ability to end a spell at will.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0424",
+   "houses-of-hermes-true-lineages::0437"
+  ]
+ },
+ {
+  "name": "Tethered Casting",
+  "type": "Concept",
+  "description": "Mutantes mastery ability passing control of a spell to another person or object.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0424",
+   "houses-of-hermes-true-lineages::0441"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability added in Ceremonial Casting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0435"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability added in Ceremonial Casting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0435"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "description": "Magical signature of a magus, altered by Disguised Casting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0384",
+   "houses-of-hermes-true-lineages::0436"
+  ]
+ },
+ {
+  "name": "Cult of Heroes",
+  "type": "Faction",
+  "aliases": [
+   "Hero-Cult"
+  ],
+  "description": "Societas Merceris seeking reborn heroes of antiquity to adopt as Redcaps and elevate through rituals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0416",
+   "houses-of-hermes-true-lineages::0417",
+   "houses-of-hermes-true-lineages::0453"
+  ]
+ },
+ {
+  "name": "Heracles",
+  "type": "Character",
+  "description": "Legendary hero whom the Cult of Heroes believes can be reborn.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0416"
+  ]
+ },
+ {
+  "name": "Arthur",
+  "type": "Character",
+  "description": "Legendary hero whom the Cult of Heroes believes can be reborn.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0416"
+  ]
+ },
+ {
+  "name": "Beowulf",
+  "type": "Character",
+  "description": "Legendary hero whom the Cult of Heroes believes can be reborn.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0416"
+  ]
+ },
+ {
+  "name": "Gilgamesh",
+  "type": "Character",
+  "description": "Legendary hero whom the Cult of Heroes believes can be reborn.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0416"
+  ]
+ },
+ {
+  "name": "Blood of Heroes",
+  "type": "Virtue",
+  "description": "Special free Virtue making a character a Mythic Companion descended from a hero; allows Heroic Virtues and Flaws.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0416",
+   "houses-of-hermes-true-lineages::0460",
+   "houses-of-hermes-true-lineages::0461"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "New character type close in power to magi who can never have The Gift, e.g. those with Blood of Heroes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0460",
+   "houses-of-hermes-true-lineages::0461"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Virtue",
+  "description": "Trait most Hero-Cult members have (see Appendix).",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0417"
+  ]
+ },
+ {
+  "name": "Mythic Blood",
+  "type": "Virtue",
+  "description": "Virtue allowing magi to take Heroic Virtues and Flaws.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0417",
+   "houses-of-hermes-true-lineages::0461",
+   "houses-of-hermes-true-lineages::0470"
+  ]
+ },
+ {
+  "name": "Heroic Virtues and Flaws",
+  "type": "Concept",
+  "aliases": [
+   "Heroic"
+  ],
+  "description": "Category of Virtues and Flaws available only to Heroic characters.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0417",
+   "houses-of-hermes-true-lineages::0463"
+  ]
+ },
+ {
+  "name": "Heroic Personality",
+  "type": "Flaw",
+  "description": "Flaw required for characters with Blood of Heroes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0460"
+  ]
+ },
+ {
+  "name": "(Physical Characteristic) of the Followers",
+  "type": "Spell",
+  "description": "CrCo35 Ritual permanently raising a physical Characteristic by one, to no more than 0.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0418",
+   "houses-of-hermes-true-lineages::0454"
+  ]
+ },
+ {
+  "name": "(Physical Characteristic) of the Heroes",
+  "type": "Spell",
+  "description": "CrCo60 Ritual permanently raising a physical Characteristic by one up to +5; subject is buried under earth.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0418",
+   "houses-of-hermes-true-lineages::0455"
+  ]
+ },
+ {
+  "name": "(Mental Characteristic) of the Followers",
+  "type": "Spell",
+  "description": "CrMe35 Ritual raising a mental Characteristic by one, to no more than 0.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0418",
+   "houses-of-hermes-true-lineages::0456"
+  ]
+ },
+ {
+  "name": "(Mental Characteristic) of the Heroes",
+  "type": "Spell",
+  "description": "CrMe60 Ritual raising a mental Characteristic by one up to +5; subject is immersed in water.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0418",
+   "houses-of-hermes-true-lineages::0457"
+  ]
+ },
+ {
+  "name": "Mercury's Blessing",
+  "type": "Spell",
+  "description": "CrVi25 Mercurian Ritual giving a Might-like aura that improves chances children will have the Gift or heroic qualities.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0418",
+   "houses-of-hermes-true-lineages::0458"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Covenant where Mercere spent much time and Hermes Triceres grew up.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0419"
+  ]
+ },
+ {
+  "name": "Hermes Triceres",
+  "type": "Character",
+  "aliases": [
+   "Triceres",
+   "Mutant"
+  ],
+  "description": "Mercere's second apprentice and son, nicknamed 'Mutant', who specialized in Muto Vim metamagic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0419",
+   "houses-of-hermes-true-lineages::0420"
+  ]
+ },
+ {
+  "name": "Mutantus",
+  "type": "Character",
+  "description": "Great-grandson of Triceres who studied transformation magic and trained the first Mutantes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0420",
+   "houses-of-hermes-true-lineages::0421"
+  ]
+ },
+ {
+  "name": "Mutantes",
+  "type": "Faction",
+  "description": "Mercere lineage descended from Mutantus practicing Mutantum Magic ('magic-taming').",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0421",
+   "houses-of-hermes-true-lineages::0422",
+   "houses-of-hermes-true-lineages::0424"
+  ]
+ },
+ {
+  "name": "Metamagic",
+  "type": "Concept",
+  "description": "Muto Vim magic that alters other magic, developed by Triceres.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0420",
+   "houses-of-hermes-true-lineages::0443"
+  ]
+ },
+ {
+  "name": "Wizard's Reach",
+  "type": "Spell",
+  "description": "Metamagic spell whose rudimentary version was developed by Triceres.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0420"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "description": "Test ending an apprenticeship, which Triceres passed at Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0419"
+  ]
+ },
+ {
+  "name": "Mutantum Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue for descendants of the Mutantes allowing Boosted, Harnessed and Tethered spells and items.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0421",
+   "houses-of-hermes-true-lineages::0443",
+   "houses-of-hermes-true-lineages::0475"
+  ]
+ },
+ {
+  "name": "Magic-Taming",
+  "type": "Concept",
+  "description": "Mutantes view of 'taming' wild magic, giving it direction and binding it to service.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0421",
+   "houses-of-hermes-true-lineages::0424"
+  ]
+ },
+ {
+  "name": "Boosting",
+  "type": "Concept",
+  "aliases": [
+   "Boosted"
+  ],
+  "description": "Mutantum technique spending vis to increase a spell's Range, Duration, Target or size.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0422",
+   "houses-of-hermes-true-lineages::0443",
+   "houses-of-hermes-true-lineages::0446"
+  ]
+ },
+ {
+  "name": "Harnessing",
+  "type": "Concept",
+  "aliases": [
+   "Harnessed"
+  ],
+  "description": "Mutantum technique letting the caster end a spell early by concentrating.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0423",
+   "houses-of-hermes-true-lineages::0443",
+   "houses-of-hermes-true-lineages::0446"
+  ]
+ },
+ {
+  "name": "Tethering",
+  "type": "Concept",
+  "aliases": [
+   "Tethered"
+  ],
+  "description": "Mutantum technique passing control of a spell to another or to an object.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0423",
+   "houses-of-hermes-true-lineages::0446"
+  ]
+ },
+ {
+  "name": "Boosted Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue allowing vis to boost formulaic spell parameters.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0423",
+   "houses-of-hermes-true-lineages::0446",
+   "houses-of-hermes-true-lineages::0464"
+  ]
+ },
+ {
+  "name": "Harnessed Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue allowing cancellation of one's spells and items at will; they end when the caster dies.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0423",
+   "houses-of-hermes-true-lineages::0446",
+   "houses-of-hermes-true-lineages::0469"
+  ]
+ },
+ {
+  "name": "Tethered Magic",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue corresponding to tethering spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0423",
+   "houses-of-hermes-true-lineages::0446"
+  ]
+ },
+ {
+  "name": "Bound Magic",
+  "type": "Flaw",
+  "description": "Flaw with the drawbacks of Mutantes powers but none of the benefits.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0424"
+  ]
+ },
+ {
+  "name": "Fettered Magic",
+  "type": "Flaw",
+  "description": "Flaw with the drawbacks of Mutantes powers but none of the benefits.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0424"
+  ]
+ },
+ {
+  "name": "Tamed Magic",
+  "type": "Virtue",
+  "description": "Major Hermetic Virtue granting Harnessed and Tethered Magic without drawbacks, usable with spontaneous spells; requires Mutantum Magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0446",
+   "houses-of-hermes-true-lineages::0475",
+   "houses-of-hermes-true-lineages::0479"
+  ]
+ },
+ {
+  "name": "Milvi Antiquiti",
+  "type": "Faction",
+  "aliases": [
+   "Milvi",
+   "Milvini"
+  ],
+  "description": "'Kites of old', a Societas Merceris of Mutantes and companions who copy and lend ancient books, flying in hawk form.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0425",
+   "houses-of-hermes-true-lineages::0426",
+   "houses-of-hermes-true-lineages::0427"
+  ]
+ },
+ {
+  "name": "Diodorus Siculus",
+  "type": "Character",
+  "description": "Ancient author of the Bibliotheca Historica describing Egyptian shapechanger priests.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0425"
+  ]
+ },
+ {
+  "name": "Bibliotheca Historica",
+  "type": "Item",
+  "description": "Work by Diodorus Siculus describing Egyptian shapechangers who carried books to Thebes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0425"
+  ]
+ },
+ {
+  "name": "Great Library at Alexandria",
+  "type": "Place",
+  "description": "Library supposedly maintained by the Mutantes' ancestors before its destruction by Caesar.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0425"
+  ]
+ },
+ {
+  "name": "Caesar",
+  "type": "Character",
+  "description": "Destroyer of the Great Library at Alexandria.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0425"
+  ]
+ },
+ {
+  "name": "Thebes",
+  "type": "Place",
+  "description": "City to which hawk-shapechangers carried books from Alexandria.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0425"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Language Milvi Redcaps learn to copy books.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0426"
+  ]
+ },
+ {
+  "name": "Profession: Scribe",
+  "type": "Ability",
+  "description": "Ability Milvi Redcaps learn to copy books.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0426"
+  ]
+ },
+ {
+  "name": "Twinning the Tome",
+  "type": "Spell",
+  "description": "CrAn50 Boosted Ritual creating a near-perfect copy of a book.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0427",
+   "houses-of-hermes-true-lineages::0447"
+  ]
+ },
+ {
+  "name": "The Transformed Folio",
+  "type": "Spell",
+  "description": "MuAn35 Boosted, Harnessed Ritual changing a book's pages into those of another book.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0427",
+   "houses-of-hermes-true-lineages::0448"
+  ]
+ },
+ {
+  "name": "Hunter's Lethal Arrow",
+  "type": "Spell",
+  "description": "PeAn40 Tethered spell giving an animal a fatal wound, often tethered to an arrow.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0427",
+   "houses-of-hermes-true-lineages::0449"
+  ]
+ },
+ {
+  "name": "Shape of the Ancient Kite",
+  "type": "Spell",
+  "description": "MuCo40 harnessed, tethered spell turning the target and carried books into a small raptor.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0426",
+   "houses-of-hermes-true-lineages::0427",
+   "houses-of-hermes-true-lineages::0450"
+  ]
+ },
+ {
+  "name": "The Tireless Flight",
+  "type": "Spell",
+  "description": "ReCo20 boosted, harnessed, tethered spell letting the target ignore fatigue and wound penalties.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0427",
+   "houses-of-hermes-true-lineages::0448",
+   "houses-of-hermes-true-lineages::0451"
+  ]
+ },
+ {
+  "name": "Sense the True Path",
+  "type": "Spell",
+  "description": "InTe15 boosted, tethered spell sensing direction to an arcane connection.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0427",
+   "houses-of-hermes-true-lineages::0452"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Magical link to a place or thing, used by Sense the True Path and Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0388",
+   "houses-of-hermes-true-lineages::0442",
+   "houses-of-hermes-true-lineages::0452"
+  ]
+ },
+ {
+  "name": "Animalists",
+  "type": "CharacterType",
+  "description": "Suggested Mercere specialty of magi creating or healing mounts and useful animal materials.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0428"
+  ]
+ },
+ {
+  "name": "Champions",
+  "type": "CharacterType",
+  "description": "Mercere magi who fight certamen on behalf of Redcaps.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0428"
+  ]
+ },
+ {
+  "name": "Healers",
+  "type": "CharacterType",
+  "description": "Mercere magi who craft healing items and spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0429"
+  ]
+ },
+ {
+  "name": "Rogues",
+  "type": "CharacterType",
+  "description": "Mercere magi who pose as Redcaps for their own purposes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0429"
+  ]
+ },
+ {
+  "name": "Vis-Monkeys",
+  "type": "CharacterType",
+  "description": "Disparaging term for magi who devote themselves solely to lab tinkering.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0429",
+   "houses-of-hermes-true-lineages::0430"
+  ]
+ },
+ {
+  "name": "Chirurgeon's Healing Touch",
+  "type": "Spell",
+  "description": "CrCo20 healing spell practiced by Mercere healers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0429"
+  ]
+ },
+ {
+  "name": "Purification of the Festering Wounds",
+  "type": "Spell",
+  "description": "CrCo20 healing spell practiced by Mercere healers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0429"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "description": "Spell used as an example for Adaptive Casting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0433"
+  ]
+ },
+ {
+  "name": "Hermes' Portal",
+  "type": "Spell",
+  "description": "ReTe75 ritual similar to the connecting ceremony for Mercere's Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0442"
+  ]
+ },
+ {
+  "name": "Ritual",
+  "type": "Concept",
+  "description": "Ritual spells, which require ceremonial casting and vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0435",
+   "houses-of-hermes-true-lineages::0440",
+   "houses-of-hermes-true-lineages::0447"
+  ]
+ },
+ {
+  "name": "Charmed Life",
+  "type": "Virtue",
+  "description": "Major Heroic Virtue granting Luck and rerolls of zeros in dangerous circumstances.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0465"
+  ]
+ },
+ {
+  "name": "Luck",
+  "type": "Virtue",
+  "description": "Virtue included in Charmed Life.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0465"
+  ]
+ },
+ {
+  "name": "Gift of Tongues",
+  "type": "Virtue",
+  "aliases": [
+   "Gift of the Tongues"
+  ],
+  "description": "Minor Heroic Virtue to understand and speak any language when conversing with a fluent speaker.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0466",
+   "houses-of-hermes-true-lineages::0467"
+  ]
+ },
+ {
+  "name": "Great Bearer",
+  "type": "Virtue",
+  "description": "Minor Heroic Virtue letting one carry twice as much and travel twice as far.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0468"
+  ]
+ },
+ {
+  "name": "Heroes' Birthright",
+  "type": "Virtue",
+  "description": "Minor Heroic Virtue granting a special magical power of up to Level 15.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0470"
+  ]
+ },
+ {
+  "name": "Invisible to Magic",
+  "type": "Virtue",
+  "description": "Major Heroic Virtue to become temporarily invisible to magic by concentrating.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0471"
+  ]
+ },
+ {
+  "name": "The Wound That Weeps",
+  "type": "Spell",
+  "description": "PeCo15 spell used as an example for Invisible to Magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0471"
+  ]
+ },
+ {
+  "name": "Weight of a Thousand Hells",
+  "type": "Spell",
+  "description": "CrMe25 spell used as an example for Invisible to Magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0471"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance to spells checked after Invisible to Magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0471"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "description": "Virtue whose benefits Lone Redcaps receive.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0472"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "description": "Flaw forcing a Lone Redcap to work a third season.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0472"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "description": "Virtue letting a Lone Redcap work only one season a year.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0472"
+  ]
+ },
+ {
+  "name": "Magic Items",
+  "type": "Virtue",
+  "description": "Minor General Virtue giving a Redcap 25 more levels of starting magic items.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0473"
+  ]
+ },
+ {
+  "name": "Messenger's Memory",
+  "type": "Virtue",
+  "description": "Minor Heroic Virtue to recall any short message word for word.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0474",
+   "houses-of-hermes-true-lineages::0477"
+  ]
+ },
+ {
+  "name": "Mythic (Characteristic)",
+  "type": "Virtue",
+  "description": "Minor Heroic Virtue granting a specialty for a positive Characteristic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0466",
+   "houses-of-hermes-true-lineages::0476"
+  ]
+ },
+ {
+  "name": "Mythic Mimicry",
+  "type": "Virtue",
+  "description": "Major Heroic Virtue to memorize accounts of any length and mimic voices or handwriting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0477"
+  ]
+ },
+ {
+  "name": "Sure Traveler",
+  "type": "Virtue",
+  "description": "Minor Heroic Virtue: never lost on known routes and unhindered by travel conditions.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0478"
+  ]
+ },
+ {
+  "name": "Vis Sensitivity",
+  "type": "Virtue",
+  "description": "Major Heroic Virtue listed among new Virtues.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0466"
+  ]
+ },
+ {
+  "name": "Latent Magic Ability",
+  "type": "Virtue",
+  "description": "Story circumstance that may warrant Heroic Virtues and Flaws.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0463"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of magi of which Redcaps are full members.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0363",
+   "houses-of-hermes-true-lineages::0461"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Law"
+  ],
+  "description": "Hermetic law; spying on Redcaps with magic and stealing vis are Hermetic crimes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0364",
+   "houses-of-hermes-true-lineages::0382",
+   "houses-of-hermes-true-lineages::0392"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "magical aura"
+  ],
+  "description": "Place of magical power where a Gifted Mercere might set up a lab.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0362"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting of Ars Magica.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0360",
+   "houses-of-hermes-true-lineages::0372"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "description": "Mundane servants of a covenant; Mercere's ungifted children often become grogs.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0391",
+   "houses-of-hermes-true-lineages::0411",
+   "houses-of-hermes-true-lineages::0461"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "description": "Ability boosted by Sure Traveler.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0478"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability used for concentration rolls, e.g. Invisible to Magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0437",
+   "houses-of-hermes-true-lineages::0471"
+  ]
+ }
+]

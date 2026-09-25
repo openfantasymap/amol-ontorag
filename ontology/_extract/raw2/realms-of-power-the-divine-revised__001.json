@@ -1,0 +1,2858 @@
+[
+ {
+  "name": "Michael",
+  "type": "Character",
+  "aliases": [
+   "St. Michael",
+   "Mika'il",
+   "Saint Michael"
+  ],
+  "description": "The greatest of the archangels and Captain of the Lord's Host, a Seraph with Divine Might 100 who leads the battle against the Devil and taught the Ars Notoria to Solomon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0148",
+   "realms-of-power-the-divine-revised::0151",
+   "realms-of-power-the-divine-revised::0152"
+  ]
+ },
+ {
+  "name": "Gabriel",
+  "type": "Character",
+  "aliases": [
+   "Jibril",
+   "Jabra'il"
+  ],
+  "description": "Archangel of Prophecy and chief messenger of God, who announced the incarnation to the Virgin Mary and brought the Qur'an to Muhammad; Divine Might 100 (Mentem).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0144",
+   "realms-of-power-the-divine-revised::0145"
+  ]
+ },
+ {
+  "name": "Raphael",
+  "type": "Character",
+  "description": "Best loved of angels ('God has healed'), Regent of the Sun, head of the guardian angels and of the Cherubim Choir, who protects humanity and heals the sick.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0121"
+  ]
+ },
+ {
+  "name": "Uriel",
+  "type": "Character",
+  "aliases": [
+   "St. Uriel"
+  ],
+  "description": "The 'fire (or light) of God', a Seraph and Archangel of the Presence, Patron of Prophecy and Angel of Punishment who watches over the torments of Hell; removed from the Western Church's list by Pope Zachary in 745.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0121",
+   "realms-of-power-the-divine-revised::0147"
+  ]
+ },
+ {
+  "name": "Israfel",
+  "type": "Character",
+  "description": "Seraph and Angel of the Trumpet and of Last Judgement, who will end the world by blowing his trumpet in Jerusalem; recognised as an archangel in Islam.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Azrael",
+  "type": "Character",
+  "aliases": [
+   "'Azra'il",
+   "'Izra'il"
+  ],
+  "description": "The Archangel of Death, chief angel of death and strongest of the angels, who extracts the souls of prophets and of the Islamic dead; Divine Might 90 and a poisoned long spear.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0136",
+   "realms-of-power-the-divine-revised::0137"
+  ]
+ },
+ {
+  "name": "Metatron",
+  "type": "Character",
+  "aliases": [
+   "Enoch",
+   "Idris",
+   "the Metatron"
+  ],
+  "description": "Once the patriarch Enoch, now the angel of the Face of the Lord, King of Angels and Chancellor of Heaven, a being of living flame with 36 pairs of wings.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0121",
+   "realms-of-power-the-divine-revised::0161"
+  ]
+ },
+ {
+  "name": "Chamuel",
+  "type": "Character",
+  "description": "An archangel listed by Dionysus the Areopagite among the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Zadkiel",
+  "type": "Character",
+  "description": "An archangel listed by Dionysus the Areopagite among the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Jophiel",
+  "type": "Character",
+  "description": "An archangel listed by Dionysus the Areopagite among the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Zerachiel",
+  "type": "Character",
+  "description": "An angel named in some lists of the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Remiel",
+  "type": "Character",
+  "description": "An angel named in some lists of the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Satqiel",
+  "type": "Character",
+  "description": "An angel named in some lists of the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Baraqiel",
+  "type": "Character",
+  "description": "An angel named in some lists of the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Sidriel",
+  "type": "Character",
+  "description": "An angel named in some lists of the archangels.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Anafiel",
+  "type": "Character",
+  "description": "An angel counted among the three largest beings in existence, alongside Metatron and Sandalphon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0121"
+  ]
+ },
+ {
+  "name": "Sandalphon",
+  "type": "Character",
+  "description": "One of the three largest beings in existence, who carries the prayers of the faithful to Heaven; his tears fell to earth when Muhammad died.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0121",
+   "realms-of-power-the-divine-revised::0124"
+  ]
+ },
+ {
+  "name": "Tears of Sandalphon",
+  "type": "Item",
+  "description": "Two powerful divine relics, tears shed by Sandalphon at the death of Muhammad, sought by an angel and by a diabolical coven wishing to use them as arcane connections.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0124"
+  ]
+ },
+ {
+  "name": "Seferiel",
+  "type": "Character",
+  "aliases": [
+   "Archangel Seferiel"
+  ],
+  "description": "An archangel with an interest in the occult and magical arts who follows the actions of Hermetic magi.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0129"
+  ]
+ },
+ {
+  "name": "Asuryal",
+  "type": "Character",
+  "description": "Asuryal, Herald of Deliverance, a Principality (Divine Might 10) who guards the domain of a mundane lord disguised as a minor advisor.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0135"
+  ]
+ },
+ {
+  "name": "Camuel",
+  "type": "Character",
+  "aliases": [
+   "Cameul"
+  ],
+  "description": "Camuel the Dark Angel, a Throne who wrestled with Jacob; once an archangel, he was reduced after trying to prevent Moses receiving the Torah and now mediates prayers of the faithful.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138",
+   "realms-of-power-the-divine-revised::0139"
+  ]
+ },
+ {
+  "name": "Eiael",
+  "type": "Character",
+  "description": "Eiael, Aid to the Wise, an angel (Divine Might 20) tasked with guarding lovers of wisdom who pursue magical arts; he teaches practitioners of Ars Notoria and may be summoned via Psalm 36.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140",
+   "realms-of-power-the-divine-revised::0142",
+   "realms-of-power-the-divine-revised::0143"
+  ]
+ },
+ {
+  "name": "Harut and Marut",
+  "type": "Character",
+  "aliases": [
+   "Harut",
+   "Marut"
+  ],
+  "description": "The angels who, as revealed in the Qur'an, revealed the magical arts to humanity to test the faithful.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0142"
+  ]
+ },
+ {
+  "name": "Kolazonta",
+  "type": "Character",
+  "description": "Kolazonta the Chastiser, an angel of Divine Might 30 (Ignem) serving Uriel, who brought plague upon the rebellious Israelites and was defeated by Aaron.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0146",
+   "realms-of-power-the-divine-revised::0147"
+  ]
+ },
+ {
+  "name": "Midael",
+  "type": "Character",
+  "description": "Midael, Captain of the Celestial Army, a Potentate under Michael who defends those persecuted by evil men, often appearing as a knight.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0153",
+   "realms-of-power-the-divine-revised::0154"
+  ]
+ },
+ {
+  "name": "Munkar",
+  "type": "Character",
+  "description": "One of the two Questioners, Throne angels who examine the Muslim dead in their graves about Muhammad and punish unbelievers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0155",
+   "realms-of-power-the-divine-revised::0156"
+  ]
+ },
+ {
+  "name": "Nakir",
+  "type": "Character",
+  "description": "One of the two Questioners, Throne angels who examine the Muslim dead in their graves about Muhammad and punish unbelievers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0155",
+   "realms-of-power-the-divine-revised::0156"
+  ]
+ },
+ {
+  "name": "Nasir",
+  "type": "Character",
+  "description": "Nasir the Helper, a minor angel charged with the safety of pious travellers, appearing as an unassuming man in travelling clothes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0157",
+   "realms-of-power-the-divine-revised::0158",
+   "realms-of-power-the-divine-revised::0159"
+  ]
+ },
+ {
+  "name": "Samuil",
+  "type": "Character",
+  "description": "Samuil, Angelic Guide, a Cherub who with Raguel transported Enoch through the Seven Heavens and now delivers visions to saints and prophets.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0160",
+   "realms-of-power-the-divine-revised::0161"
+  ]
+ },
+ {
+  "name": "Raguel",
+  "type": "Character",
+  "description": "An angel who, together with Samuil, transported Enoch through the Seven Heavens.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0161"
+  ]
+ },
+ {
+  "name": "Dionysus the Areopagite",
+  "type": "Character",
+  "description": "Authority who lists the archangels as Michael, Gabriel, Raphael, Uriel, Chamuel, Zadkiel and Jophiel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Elijah",
+  "type": "Character",
+  "description": "Patriarch who almost destroyed the archangel Azrael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120"
+  ]
+ },
+ {
+  "name": "Pope Zachary",
+  "type": "Character",
+  "description": "Pope who removed Uriel from the list of angels recognized by the Western Church in 745.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0121"
+  ]
+ },
+ {
+  "name": "Solomon",
+  "type": "Character",
+  "description": "King who received the Ars Notoria from the archangel Michael; the Rings of Solomon and Temple of Solomon bear his name.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0142",
+   "realms-of-power-the-divine-revised::0152",
+   "realms-of-power-the-divine-revised::0231"
+  ]
+ },
+ {
+  "name": "Moses",
+  "type": "Character",
+  "description": "Patriarch who received the Torah, made the brazen serpent Nehushtan, and whose body Michael defended from Satan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0139",
+   "realms-of-power-the-divine-revised::0151",
+   "realms-of-power-the-divine-revised::0233"
+  ]
+ },
+ {
+  "name": "Aaron",
+  "type": "Character",
+  "description": "Moses' brother who, armed with a censer, defeated the fiery angel Kolazonta.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0146",
+   "realms-of-power-the-divine-revised::0147"
+  ]
+ },
+ {
+  "name": "Jacob",
+  "type": "Character",
+  "description": "Patriarch who wrestled through the night with an angel, identified as Camuel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138",
+   "realms-of-power-the-divine-revised::0139"
+  ]
+ },
+ {
+  "name": "David",
+  "type": "Character",
+  "description": "King who invoked the angel Midael in Psalms 34 and 35.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0154"
+  ]
+ },
+ {
+  "name": "Noah",
+  "type": "Character",
+  "description": "Patriarch warned of the Flood by Uriel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0121"
+  ]
+ },
+ {
+  "name": "Daniel",
+  "type": "Character",
+  "description": "Prophet taught by Gabriel; the Book of Daniel names Michael as a chief prince.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0145",
+   "realms-of-power-the-divine-revised::0148",
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Muhammad",
+  "type": "Character",
+  "aliases": [
+   "the Prophet"
+  ],
+  "description": "The Prophet of Islam, to whom Gabriel brought the Qur'an; at his death Sandalphon wept.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0124",
+   "realms-of-power-the-divine-revised::0145",
+   "realms-of-power-the-divine-revised::0156"
+  ]
+ },
+ {
+  "name": "Virgin Mary",
+  "type": "Character",
+  "aliases": [
+   "Blessed Virgin Mary"
+  ],
+  "description": "The Blessed Virgin, to whom Gabriel announced the incarnation of Christ; more honored than Michael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0145",
+   "realms-of-power-the-divine-revised::0148"
+  ]
+ },
+ {
+  "name": "Jesus",
+  "type": "Character",
+  "aliases": [
+   "Christ"
+  ],
+  "description": "Christ, visited by Camuel and Gabriel in the Garden of Gethsemane.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0139",
+   "realms-of-power-the-divine-revised::0145"
+  ]
+ },
+ {
+  "name": "Lucifer",
+  "type": "Character",
+  "aliases": [
+   "Satan",
+   "the Devil"
+  ],
+  "description": "The rebellious angel thrown into Hell by St. Michael, who took his place as chief of the princes of Heaven.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0151"
+  ]
+ },
+ {
+  "name": "Anti-Christ",
+  "type": "Character",
+  "description": "The foe against whom Michael will lead the angelic charge at Armageddon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Adam",
+  "type": "Character",
+  "description": "First man, whom Michael was first to obey God's command to worship.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Balaam",
+  "type": "Character",
+  "description": "Figure to whom Michael appeared (Numbers 22).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0151"
+  ]
+ },
+ {
+  "name": "St. Paul",
+  "type": "Character",
+  "description": "Apostle whom Samuil may have taken to the Heavens.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0161"
+  ]
+ },
+ {
+  "name": "Usama ibn Munqidh",
+  "type": "Character",
+  "description": "Author (d. 1188) of The Book of Learning by Example, who recounts aid from an angel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0157"
+  ]
+ },
+ {
+  "name": "Mansur",
+  "type": "Character",
+  "description": "The Muslim emir of Semita Errabunda, used as an example of invoking God's aid in combat.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0219",
+   "realms-of-power-the-divine-revised::0220",
+   "realms-of-power-the-divine-revised::0221"
+  ]
+ },
+ {
+  "name": "Semita Errabunda",
+  "type": "Covenant",
+  "description": "Covenant whose emir Mansur appears in the example of invoking God's aid.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0219"
+  ]
+ },
+ {
+  "name": "al-Kamil",
+  "type": "Character",
+  "description": "Sultan of Egypt, invested by the 'Abbasid caliph, with Magic Resistance 10 from the commanding aura.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0225"
+  ]
+ },
+ {
+  "name": "al-Nasir",
+  "type": "Character",
+  "description": "The 'Abbasid caliph who invested al-Kamil as sultan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0225"
+  ]
+ },
+ {
+  "name": "Henry I of Cyprus",
+  "type": "Character",
+  "aliases": [
+   "Henry I"
+  ],
+  "description": "Crowned king of Cyprus who carries a fragment of the True Cross, for a total Magic Resistance of 30.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0225",
+   "realms-of-power-the-divine-revised::0226"
+  ]
+ },
+ {
+  "name": "Saint Ursmar",
+  "type": "Character",
+  "description": "Saint whose relics were placed on the church floor at Blaringhem in 1060 to plead for mercy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0230"
+  ]
+ },
+ {
+  "name": "Hugh",
+  "type": "Character",
+  "description": "Local lord at Blaringhem moved by Saint Ursmar's relics to pardon a murderer.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0230"
+  ]
+ },
+ {
+  "name": "John the Baptist",
+  "type": "Character",
+  "aliases": [
+   "Yahya"
+  ],
+  "description": "Precursor to Jesus (Yahya in Islam), beheaded by King Herod; several churches claim his head.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0231",
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "King Herod",
+  "type": "Character",
+  "aliases": [
+   "Herod"
+  ],
+  "description": "King who beheaded John the Baptist at Salome's request.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "Salome",
+  "type": "Character",
+  "description": "Herod's daughter at whose request John the Baptist was beheaded.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "King Hezekiah",
+  "type": "Character",
+  "aliases": [
+   "Hezekiah"
+  ],
+  "description": "King who broke Nehushtan into pieces during his fight against paganism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0233"
+  ]
+ },
+ {
+  "name": "Archangel",
+  "type": "Creature",
+  "aliases": [
+   "Archangels",
+   "Princes of Heaven"
+  ],
+  "description": "The Host of Archangels, ruling angels of the Choirs and Heaven's vanguard; Divine Glory manifest who will war against Hell on Judgment Day.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0122"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "aliases": [
+   "Angels"
+  ],
+  "description": "Messengers of God and caretakers of humanity, the ninth Angelic Hierarchy; every living soul has its own guardian angel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0123",
+   "realms-of-power-the-divine-revised::0127",
+   "realms-of-power-the-divine-revised::0133"
+  ]
+ },
+ {
+  "name": "Grigori",
+  "type": "Creature",
+  "aliases": [
+   "Watchers",
+   "Sons of God"
+  ],
+  "description": "The Watchers, the tenth Choir who stayed neutral in the War in Heaven, were cast to Earth, bred with mortals and now wander as masters of lore, trapped in their Mantles.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0125",
+   "realms-of-power-the-divine-revised::0126"
+  ]
+ },
+ {
+  "name": "Seraphim",
+  "type": "Creature",
+  "aliases": [
+   "Seraph"
+  ],
+  "description": "Angelic Choir to which Israfel, Uriel and Michael belong.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0121",
+   "realms-of-power-the-divine-revised::0148"
+  ]
+ },
+ {
+  "name": "Cherubim",
+  "type": "Creature",
+  "aliases": [
+   "Cherub"
+  ],
+  "description": "Angelic Choir of Raphael and Samuil.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0121",
+   "realms-of-power-the-divine-revised::0132",
+   "realms-of-power-the-divine-revised::0160"
+  ]
+ },
+ {
+  "name": "Thrones",
+  "type": "Creature",
+  "aliases": [
+   "Throne"
+  ],
+  "description": "Angelic Choir of Camuel, Munkar and Nakir; pious kings are placed among them.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0132",
+   "realms-of-power-the-divine-revised::0138",
+   "realms-of-power-the-divine-revised::0155"
+  ]
+ },
+ {
+  "name": "Principalities",
+  "type": "Creature",
+  "aliases": [
+   "Principality"
+  ],
+  "description": "Angelic Choir to which Asuryal belongs; pious kings are placed among them.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0132",
+   "realms-of-power-the-divine-revised::0134"
+  ]
+ },
+ {
+  "name": "Potentates",
+  "type": "Creature",
+  "aliases": [
+   "Potentate"
+  ],
+  "description": "Angelic Choir to which Midael belongs.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0153"
+  ]
+ },
+ {
+  "name": "Guardian Angel",
+  "type": "Creature",
+  "aliases": [
+   "Guardian Angels"
+  ],
+  "description": "Angel assigned to each soul, communicating through Envisioning; also a power granting +5 Soak and Magic Resistance 15.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0123",
+   "realms-of-power-the-divine-revised::0133",
+   "realms-of-power-the-divine-revised::0141"
+  ]
+ },
+ {
+  "name": "Nephilim",
+  "type": "Creature",
+  "description": "The angel-blooded great heroes of the Antediluvian Age.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0173"
+  ]
+ },
+ {
+  "name": "Old Ones",
+  "type": "Creature",
+  "aliases": [
+   "pagan gods"
+  ],
+  "description": "Pagan gods which some magi believe to be transformed Grigori.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0125"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [
+   "Faeries"
+  ],
+  "description": "Supernatural beings whose magic is weakened in the Dominion and against whom God's aid may be invoked.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0210",
+   "realms-of-power-the-divine-revised::0212",
+   "realms-of-power-the-divine-revised::0221"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "Demons",
+   "devils"
+  ],
+  "description": "Infernal beings to whom relics are anathema; some Grigori are believed to have become devils.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0126",
+   "realms-of-power-the-divine-revised::0221",
+   "realms-of-power-the-divine-revised::0237"
+  ]
+ },
+ {
+  "name": "Angelic Choirs",
+  "type": "Concept",
+  "aliases": [
+   "Angelic Choir",
+   "Heavenly Hierarchy"
+  ],
+  "description": "The nine (or ten) orders of angels in the Heavenly Hierarchy, sometimes equated with hierarchies in mortal society.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0132"
+  ]
+ },
+ {
+  "name": "Angelic Mantle",
+  "type": "Concept",
+  "aliases": [
+   "Mantle"
+  ],
+  "description": "The physical form an angel wears to appear as a normal human; Grigori are permanently trapped in theirs.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0125",
+   "realms-of-power-the-divine-revised::0129",
+   "realms-of-power-the-divine-revised::0133"
+  ]
+ },
+ {
+  "name": "Envisioning",
+  "type": "Concept",
+  "description": "The splendorous visionary manifestation through which angels, especially guardian angels, communicate.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0131",
+   "realms-of-power-the-divine-revised::0133"
+  ]
+ },
+ {
+  "name": "Merkavah",
+  "type": "Concept",
+  "description": "A means by which angels may be summoned and spoken with.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0131"
+  ]
+ },
+ {
+  "name": "Seven Heavens",
+  "type": "Place",
+  "description": "The seven Heavens presided over by the seven ruling archangels, through which Enoch was transported.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0160",
+   "realms-of-power-the-divine-revised::0161"
+  ]
+ },
+ {
+  "name": "Heaven",
+  "type": "Place",
+  "description": "The abode of God and the angelic host.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0125",
+   "realms-of-power-the-divine-revised::0161"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "description": "The realm of torment to which the fallen were cast and over which Uriel watches.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0121",
+   "realms-of-power-the-divine-revised::0151"
+  ]
+ },
+ {
+  "name": "War in Heaven",
+  "type": "Concept",
+  "description": "The rebellion in Heaven during which the Grigori remained neutral.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0125"
+  ]
+ },
+ {
+  "name": "Judgment Day",
+  "type": "Concept",
+  "aliases": [
+   "Day of Judgment",
+   "Last Judgement",
+   "Armageddon"
+  ],
+  "description": "The Last Judgement, when archangels will war against Hell and Israfel will sound his trumpet.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0122",
+   "realms-of-power-the-divine-revised::0156"
+  ]
+ },
+ {
+  "name": "Divine Might",
+  "type": "Concept",
+  "description": "The Might score of Divine beings and relics, used to fuel powers and acting as Magic Resistance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0123",
+   "realms-of-power-the-divine-revised::0177",
+   "realms-of-power-the-divine-revised::0237"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "The Realm of God, to which holy characters, angels and relics are aligned.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0162",
+   "realms-of-power-the-divine-revised::0193",
+   "realms-of-power-the-divine-revised::0221"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "The Realm of Hell and demons, against which relics and angels are especially potent.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0148",
+   "realms-of-power-the-divine-revised::0237",
+   "realms-of-power-the-divine-revised::0238"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "aliases": [
+   "Dominion aura",
+   "Divine aura"
+  ],
+  "description": "The Divine aura, which holy characters can temper and in which faerie magic is weakened.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0190",
+   "realms-of-power-the-divine-revised::0201",
+   "realms-of-power-the-divine-revised::0212"
+  ]
+ },
+ {
+  "name": "Holy Characters",
+  "type": "CharacterType",
+  "aliases": [
+   "holy character"
+  ],
+  "description": "Blessed people possessing powers and backgrounds aligned with the Divine realm.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0162",
+   "realms-of-power-the-divine-revised::0163"
+  ]
+ },
+ {
+  "name": "Holy Methods",
+  "type": "Concept",
+  "description": "Supernatural Abilities (Invocation, Meditation, Purity) used with Holy Powers to work miracles.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0163",
+   "realms-of-power-the-divine-revised::0171"
+  ]
+ },
+ {
+  "name": "Holy Powers",
+  "type": "Concept",
+  "description": "Supernatural Abilities (Adjuration, Blessing, Cursing, Intervention, Transcendence, Understanding, Wonders) producing miraculous effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0163",
+   "realms-of-power-the-divine-revised::0164"
+  ]
+ },
+ {
+  "name": "Miraculous Effects",
+  "type": "Concept",
+  "description": "The rules for effects produced by holy Methods and Powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0185",
+   "realms-of-power-the-divine-revised::0197"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "aliases": [
+   "Faith"
+  ],
+  "description": "Points from True Faith or relics usable as Confidence and granting Magic Resistance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0162",
+   "realms-of-power-the-divine-revised::0218",
+   "realms-of-power-the-divine-revised::0237"
+  ]
+ },
+ {
+  "name": "Divine Warping",
+  "type": "Concept",
+  "description": "Warping resulting from holy powers and Divine exposure.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0162"
+  ]
+ },
+ {
+  "name": "Divine Ascent",
+  "type": "Concept",
+  "description": "Temporarily becoming part of the Divine Realm, a risk reduced by Meditation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0193"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Supernatural distortion; those Raised from the Dead accrue Warping points yearly.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0177",
+   "realms-of-power-the-divine-revised::0184"
+  ]
+ },
+ {
+  "name": "Holy Influence",
+  "type": "Concept",
+  "description": "The ability of holy characters to instill Personality Traits in followers via personal or ceremonial influence (die + Presence + Leadership).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0198",
+   "realms-of-power-the-divine-revised::0199",
+   "realms-of-power-the-divine-revised::0200"
+  ]
+ },
+ {
+  "name": "Personal Influence",
+  "type": "Concept",
+  "description": "Holy influence exerted by spending a season setting a good example for followers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0198",
+   "realms-of-power-the-divine-revised::0201"
+  ]
+ },
+ {
+  "name": "Ceremonial Influence",
+  "type": "Concept",
+  "description": "Holy influence exerted through a short ceremony and prayer costing a Faith or Confidence point.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0198",
+   "realms-of-power-the-divine-revised::0201"
+  ]
+ },
+ {
+  "name": "Spiritual Authority",
+  "type": "Concept",
+  "description": "Being invested with responsibility for others' spiritual well being, required for holy influence.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0198",
+   "realms-of-power-the-divine-revised::0199",
+   "realms-of-power-the-divine-revised::0220"
+  ]
+ },
+ {
+  "name": "Temper",
+  "type": "Concept",
+  "description": "A particular aspect of the divine invoked into a Dominion aura as a Personality Trait, aiding compatible acts and hindering opposed ones.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0201",
+   "realms-of-power-the-divine-revised::0202"
+  ]
+ },
+ {
+  "name": "Loyal Temper",
+  "type": "Concept",
+  "aliases": [
+   "Loyal"
+  ],
+  "description": "Temper of loyalty and faithfulness, tied to Faith and opposing the vice of Pride.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0203",
+   "realms-of-power-the-divine-revised::0204"
+  ]
+ },
+ {
+  "name": "Calm Temper",
+  "type": "Concept",
+  "aliases": [
+   "Calm"
+  ],
+  "description": "Temper of tolerance and peace, tied to Hope and opposing the sin of Wrath.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0205"
+  ]
+ },
+ {
+  "name": "Kind Temper",
+  "type": "Concept",
+  "aliases": [
+   "Kind"
+  ],
+  "description": "Temper of love and mercy, tied to Charity and opposing Envy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0206",
+   "realms-of-power-the-divine-revised::0207"
+  ]
+ },
+ {
+  "name": "Brave Temper",
+  "type": "Concept",
+  "aliases": [
+   "Brave"
+  ],
+  "description": "Temper of courage, tied to the cardinal virtue Courage and opposing Sloth.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0208"
+  ]
+ },
+ {
+  "name": "Wise Temper",
+  "type": "Concept",
+  "aliases": [
+   "Wise"
+  ],
+  "description": "Temper of reason over base desire, tied to Prudence and opposing Lust.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0209"
+  ]
+ },
+ {
+  "name": "Strong Temper",
+  "type": "Concept",
+  "aliases": [
+   "Strong"
+  ],
+  "description": "Temper of self-control, tied to Temperance and opposing Gluttony.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0210",
+   "realms-of-power-the-divine-revised::0211"
+  ]
+ },
+ {
+  "name": "Just Temper",
+  "type": "Concept",
+  "aliases": [
+   "Just"
+  ],
+  "description": "Temper of fairness, tied to Justice and opposing Avarice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0212",
+   "realms-of-power-the-divine-revised::0213"
+  ]
+ },
+ {
+  "name": "Pride",
+  "type": "Concept",
+  "description": "One of the capital vices, opposed by a holy temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0203"
+  ]
+ },
+ {
+  "name": "Wrath",
+  "type": "Concept",
+  "description": "One of the capital vices, opposed by a holy temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0205"
+  ]
+ },
+ {
+  "name": "Envy",
+  "type": "Concept",
+  "description": "One of the capital vices, opposed by a holy temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0206"
+  ]
+ },
+ {
+  "name": "Sloth",
+  "type": "Concept",
+  "description": "One of the capital vices, opposed by a holy temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0208"
+  ]
+ },
+ {
+  "name": "Lust",
+  "type": "Concept",
+  "description": "One of the capital vices, opposed by a holy temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0209"
+  ]
+ },
+ {
+  "name": "Gluttony",
+  "type": "Concept",
+  "description": "One of the capital vices, opposed by a holy temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0210"
+  ]
+ },
+ {
+  "name": "Avarice",
+  "type": "Concept",
+  "description": "One of the capital vices, opposed by a holy temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0212"
+  ]
+ },
+ {
+  "name": "Schism",
+  "type": "Concept",
+  "description": "The state of an aura bearing multiple opposing tempers, canceling each other; in 1220 Iberia, Southern France, Byzantium and the Holy Land are in schism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215",
+   "realms-of-power-the-divine-revised::0216"
+  ]
+ },
+ {
+  "name": "Invoking God's Aid",
+  "type": "Concept",
+  "description": "Uttering a prayer and spending a Confidence or Faith point to gain a Divine Aid bonus (stress die + Communication + Dominion Lore).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0217",
+   "realms-of-power-the-divine-revised::0218",
+   "realms-of-power-the-divine-revised::0219"
+  ]
+ },
+ {
+  "name": "Divine Aid Bonus",
+  "type": "Concept",
+  "description": "Bonus of up to +3 to rolls furthering an objective, gained by invoking God's aid.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0219",
+   "realms-of-power-the-divine-revised::0220",
+   "realms-of-power-the-divine-revised::0222"
+  ]
+ },
+ {
+  "name": "Commanding Aura",
+  "type": "Concept",
+  "description": "Divinely granted Magic Resistance, Soak bonus and an Aura of Rightful Authority effect held by invested religious and secular leaders.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0223",
+   "realms-of-power-the-divine-revised::0225",
+   "realms-of-power-the-divine-revised::0227"
+  ]
+ },
+ {
+  "name": "Relics",
+  "type": "Item",
+  "aliases": [
+   "Relic"
+  ],
+  "description": "Physical remains or objects of holy figures with Faith scores and Divine Might, venerated especially in Christianity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0228",
+   "realms-of-power-the-divine-revised::0229",
+   "realms-of-power-the-divine-revised::0237"
+  ]
+ },
+ {
+  "name": "Brandea",
+  "type": "Concept",
+  "description": "Containers and wrappings of original relics, themselves imbued with sanctity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0228"
+  ]
+ },
+ {
+  "name": "Humiliation of Relics",
+  "type": "Concept",
+  "aliases": [
+   "humiliation"
+  ],
+  "description": "Practice of physically humbling relics to prompt a saint's action or persuade the laity to piety.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0229",
+   "realms-of-power-the-divine-revised::0230"
+  ]
+ },
+ {
+  "name": "Scourging the Infernal",
+  "type": "Concept",
+  "description": "Common relic power radiating an aura that repels and damages Infernal creatures.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0237",
+   "realms-of-power-the-divine-revised::0238"
+  ]
+ },
+ {
+  "name": "Cult of Saints",
+  "type": "Concept",
+  "description": "Christian veneration of saints in which relics play an important part.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0229"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance to supernatural effects, granted by Might, Faith, relics or the commanding aura.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0141",
+   "realms-of-power-the-divine-revised::0223",
+   "realms-of-power-the-divine-revised::0237"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Supernatural area aura; Divine auras can be tempered.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0201"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Supernatural region level which Samuil can traverse freely.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0160"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power held in pawns in the bodies of angels and beings.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0177"
+  ]
+ },
+ {
+  "name": "Lunar Sphere",
+  "type": "Concept",
+  "description": "Celestial boundary beyond which Samuil can transport the devout.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0160"
+  ]
+ },
+ {
+  "name": "Trained Group",
+  "type": "Concept",
+  "description": "Group combat rule to which Divine Aid bonuses are added.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0221"
+  ]
+ },
+ {
+  "name": "Holy War",
+  "type": "Concept",
+  "description": "Religiously sanctioned warfare; God's aid may be invoked only against infidels or heretics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0217",
+   "realms-of-power-the-divine-revised::0220",
+   "realms-of-power-the-divine-revised::0221"
+  ]
+ },
+ {
+  "name": "Antediluvian Age",
+  "type": "Concept",
+  "description": "The age before the Flood, era of the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0173"
+  ]
+ },
+ {
+  "name": "Confidence",
+  "type": "Concept",
+  "aliases": [
+   "Confidence Point"
+  ],
+  "description": "Points spent to invoke God's aid or holy methods.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0192",
+   "realms-of-power-the-divine-revised::0217",
+   "realms-of-power-the-divine-revised::0218"
+  ]
+ },
+ {
+  "name": "Personality Traits",
+  "type": "Concept",
+  "description": "Character traits that holy characters can inspire and that map to tempers and vices.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0198",
+   "realms-of-power-the-divine-revised::0213",
+   "realms-of-power-the-divine-revised::0214"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "description": "A magician outside the Order; Holy Magic users carry a reputation as one.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0169"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "Grogs"
+  ],
+  "description": "Supporting character type who cannot take Blood of the Nephilim or invoke God's aid.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0174",
+   "realms-of-power-the-divine-revised::0217"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "magi",
+   "Hermetic magi"
+  ],
+  "description": "Hermetic magician; magi cannot take Blood of the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0126",
+   "realms-of-power-the-divine-revised::0174"
+  ]
+ },
+ {
+  "name": "Focus Character",
+  "type": "CharacterType",
+  "description": "The participant in a Ceremony who possesses the Ability and resolves the effect.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0187",
+   "realms-of-power-the-divine-revised::0188"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Virtue",
+  "description": "Major Hermetic Virtue for Gifted characters replacing Magic Theory with the Supernatural Ability Holy Magic, adapting spells to a divine focus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0169"
+  ]
+ },
+ {
+  "name": "Adjuration",
+  "type": "Virtue",
+  "description": "Major Supernatural Power Virtue to command and control supernatural beings; grants Adjuration 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0165"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Virtue",
+  "description": "Major Supernatural Power Virtue invoking protective and inspirational aspects of the Divine; grants Blessing 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0166"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Virtue",
+  "description": "Minor Supernatural Ability Virtue focusing a group in holy prayer; grants Ceremony 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0167"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Virtue",
+  "description": "Major Supernatural Power Virtue to curse those opposing the Divine Will; grants Cursing 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0168"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Virtue",
+  "description": "Major Supernatural Power Virtue granting Intervention 1 for signs and wonders.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0170"
+  ]
+ },
+ {
+  "name": "Invocation",
+  "type": "Virtue",
+  "description": "Major Supernatural Method Virtue granting Invocation 1, allowing stress dice for miraculous effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0171"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Virtue",
+  "description": "Major Supernatural Method Virtue granting Meditation 1 to gain insight into the Divine.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0172"
+  ]
+ },
+ {
+  "name": "Blood of the Nephilim",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue: angelic blood from the Nephilim, increased size, extremely slow aging, vast appetite.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0173",
+   "realms-of-power-the-divine-revised::0174"
+  ]
+ },
+ {
+  "name": "Powerful Relic",
+  "type": "Virtue",
+  "description": "Major General Virtue: owning a relic with Faith score 3 and one power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0175"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Virtue",
+  "description": "Major Supernatural Method Virtue granting Purity 1 for strenuous miraculous rituals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0176"
+  ]
+ },
+ {
+  "name": "Strong Angelic Heritage",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue requiring Blood of the Nephilim; grants Divine Might (Corpus) and holy powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0177"
+  ]
+ },
+ {
+  "name": "Transcendence",
+  "type": "Virtue",
+  "description": "Major Supernatural Power Virtue to overcome physical limitations; grants Transcendence 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0178"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Virtue",
+  "description": "Major Supernatural Power Virtue to glean the Divine plan; grants Understanding 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0179"
+  ]
+ },
+ {
+  "name": "Wonders",
+  "type": "Virtue",
+  "description": "Major Supernatural Power Virtue to conjure holy items, creatures and elements; grants Wonders 1.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0180"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "description": "Virtue allowing ceremonial influence on anyone willing to listen.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0144",
+   "realms-of-power-the-divine-revised::0199"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "Virtue",
+  "description": "Virtue making one's Nephilim heritage undiluted.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0173"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "description": "Minor Virtue normally needed to learn Dominion Lore at creation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0173"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Virtue",
+  "description": "Minor General Virtue granting a relic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0175"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Major General Virtue granting Faith Points; required for Eremite and Non-traditional.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0174",
+   "realms-of-power-the-divine-revised::0182",
+   "realms-of-power-the-divine-revised::0218"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Magical talent required for Holy Magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0169",
+   "realms-of-power-the-divine-revised::0174"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Virtue",
+  "description": "Virtue incompatible with Blood of the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0174"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "description": "Virtue incompatible with Blood of the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0174"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "description": "Virtue allowing personal influence over those in temporal authority.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0199"
+  ]
+ },
+ {
+  "name": "Enduring Constitution",
+  "type": "Virtue",
+  "description": "Virtue possessed by Camuel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue possessed by Camuel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "description": "Virtue possessed by Azrael, Munkar and Nakir.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0136",
+   "realms-of-power-the-divine-revised::0155"
+  ]
+ },
+ {
+  "name": "Good Teacher",
+  "type": "Virtue",
+  "description": "Virtue possessed by Gabriel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0144"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "description": "Virtue granting immunity (to Fire) held by Kolazonta and Michael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0146",
+   "realms-of-power-the-divine-revised::0148"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Virtue",
+  "description": "Supernatural Virtue/Ability held by Michael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0148"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Virtue",
+  "description": "Supernatural Virtue/Ability held by Michael and Nasir.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0148",
+   "realms-of-power-the-divine-revised::0157"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Virtue",
+  "description": "Virtue/Ability held by Nasir.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0157"
+  ]
+ },
+ {
+  "name": "Ways of the (Local Environment)",
+  "type": "Virtue",
+  "description": "Virtue held by Nasir.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0157"
+  ]
+ },
+ {
+  "name": "Raised from the Dead",
+  "type": "Flaw",
+  "description": "Major Story/Supernatural Flaw: resurrected by a miracle, accruing Warping every year.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0184"
+  ]
+ },
+ {
+  "name": "Eremite",
+  "type": "Flaw",
+  "description": "Major Supernatural Flaw: exploring the divine alone, unable to learn Supernatural Abilities from any tradition; requires True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0182"
+  ]
+ },
+ {
+  "name": "Non-traditional",
+  "type": "Flaw",
+  "description": "Minor Supernatural Flaw: belonging to no holy tradition, with no favored Abilities; requires True Faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0183"
+  ]
+ },
+ {
+  "name": "Apostate",
+  "type": "Flaw",
+  "description": "Minor General Flaw: converted faith, with bad reputation 4 among the former faith.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0164",
+   "realms-of-power-the-divine-revised::0181"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw imposed by Blood of the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0173"
+  ]
+ },
+ {
+  "name": "Age Quickly",
+  "type": "Flaw",
+  "description": "Flaw incompatible with Blood of the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0174"
+  ]
+ },
+ {
+  "name": "Lycanthrope",
+  "type": "Flaw",
+  "description": "Flaw incompatible with Blood of the Nephilim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0174"
+  ]
+ },
+ {
+  "name": "Low Self-Esteem",
+  "type": "Flaw",
+  "description": "Major General Flaw preventing invocation of God's aid.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0217",
+   "realms-of-power-the-divine-revised::0218"
+  ]
+ },
+ {
+  "name": "Long-winded",
+  "type": "Flaw",
+  "description": "Flaw held by Camuel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138"
+  ]
+ },
+ {
+  "name": "Adjuration",
+  "type": "Ability",
+  "description": "Supernatural Ability to control and banish supernatural creatures and their powers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0185"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Ability",
+  "description": "Supernatural Ability bringing beneficial or protective divine effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0186"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "description": "Supernatural Ability letting a group combine holy efforts, with a leader or group modifier.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0187",
+   "realms-of-power-the-divine-revised::0188"
+  ]
+ },
+ {
+  "name": "Cursing",
+  "type": "Ability",
+  "description": "Supernatural Ability bringing negative effects of God's wrath.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0189"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Ability",
+  "description": "Supernatural/Arcane Ability translating Hermetic Arts into magic compatible with the Dominion.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0190"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Ability",
+  "description": "Supernatural Ability causing the divine to manifest physically.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0191"
+  ]
+ },
+ {
+  "name": "Invocation",
+  "type": "Ability",
+  "description": "Holy Method using holy words and prayers, adding Communication and allowing stress dice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0192"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Ability",
+  "description": "Holy Method achieving an ecstatic state, adding Intelligence + Meditation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0193"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Ability",
+  "description": "Holy Method using strenuous physical effort and extended rituals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0194"
+  ]
+ },
+ {
+  "name": "Transcendence",
+  "type": "Ability",
+  "description": "Supernatural Ability bringing miraculous changes to mind and body.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0195"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Ability",
+  "description": "Supernatural Ability granting holy visions of guidance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0196"
+  ]
+ },
+ {
+  "name": "Wonders",
+  "type": "Ability",
+  "description": "Supernatural Ability making creatures, objects and natural forces manifest.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0197"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Arcane lore of the Divine, used to invoke God's aid.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0173",
+   "realms-of-power-the-divine-revised::0218"
+  ]
+ },
+ {
+  "name": "Ars Notoria",
+  "type": "Ability",
+  "description": "Holy art of learning received by Solomon from Michael, taught by Eiael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140",
+   "realms-of-power-the-divine-revised::0141",
+   "realms-of-power-the-divine-revised::0152"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Hermetic Ability not learned by Holy Magic users.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0169"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Knowledge of religious doctrine.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0136",
+   "realms-of-power-the-divine-revised::0140"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "description": "Ability used in holy influence and tempering auras.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0199",
+   "realms-of-power-the-divine-revised::0201"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Lore of magic and magicians.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140",
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "description": "Lore of Hell and devils.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0148",
+   "realms-of-power-the-divine-revised::0153"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Lore of the Church and saints.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0148"
+  ]
+ },
+ {
+  "name": "Israel Lore",
+  "type": "Ability",
+  "description": "Area lore of Israel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Academic Ability of the liberal arts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0140"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Academic Ability of law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0140"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Academic Ability of philosophy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140",
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "description": "Academic Ability of healing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "description": "Ability of binding wounds.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0158"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability to maintain focus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140",
+   "realms-of-power-the-divine-revised::0193"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability to overcome Magic Resistance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140",
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability of alertness.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0136"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Unarmed combat Ability.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0138"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "description": "Ability to make a good impression.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0144"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "description": "Ability of courtly manners.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0138"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability to understand people.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "description": "Ability to lie and detect lies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0155"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability of political scheming.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Martial Ability with one-handed weapons.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "description": "Martial Ability with two-handed weapons.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0136",
+   "realms-of-power-the-divine-revised::0148"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "description": "Martial Ability with thrown weapons.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "description": "Ability of tracking.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0136",
+   "realms-of-power-the-divine-revised::0153"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability of instruction.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140",
+   "realms-of-power-the-divine-revised::0144"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability of physical exertion.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138",
+   "realms-of-power-the-divine-revised::0153"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "description": "Ability with animals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0158"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "description": "Ability of swimming.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0158"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "description": "Ability of performing music.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0134",
+   "realms-of-power-the-divine-revised::0136"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0123",
+   "realms-of-power-the-divine-revised::0140"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0123",
+   "realms-of-power-the-divine-revised::0136"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0146",
+   "realms-of-power-the-divine-revised::0160"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0146",
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0153",
+   "realms-of-power-the-divine-revised::0158"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Art (Form) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0158"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Art (Technique) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0137",
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Art (Technique) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0139",
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Art (Technique) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0142"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Art (Technique) used to classify angelic powers and vis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Curse of the Unportended Plague",
+  "type": "Spell",
+  "description": "Hermetic spell duplicated by Kolazonta's Chastise the Sinful power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0146"
+  ]
+ },
+ {
+  "name": "Enchantment of Detachment",
+  "type": "Spell",
+  "description": "Hermetic spell whose effect Michael duplicates to bring order.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Panic of the Trembling Heart",
+  "type": "Spell",
+  "description": "Hermetic spell whose effect Michael duplicates to create chaos in mortal hearts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Pilum of Fire",
+  "type": "Spell",
+  "description": "Hermetic spell duplicated by Michael's Heavenly Fire at +30 damage.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149"
+  ]
+ },
+ {
+  "name": "Incantation of Lightning",
+  "type": "Spell",
+  "description": "Hermetic spell duplicated by Michael's Heavenly Lance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149",
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "description": "Hermetic spell duplicated by Michael's Smite Evil.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149",
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Confusion of the Numbed Will",
+  "type": "Spell",
+  "description": "Hermetic spell duplicated by Midael's Confound the Wicked.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0153"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "ReMe 20 Hermetic spell whose effect the commanding aura duplicates.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0223",
+   "realms-of-power-the-divine-revised::0225"
+  ]
+ },
+ {
+  "name": "Divine Guidance",
+  "type": "Concept",
+  "description": "Angel power modifying Personality Trait rolls toward virtue.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0123"
+  ]
+ },
+ {
+  "name": "Heavenly Servant",
+  "type": "Concept",
+  "description": "Angel power doubling traits against Infernal beings.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0123",
+   "realms-of-power-the-divine-revised::0124"
+  ]
+ },
+ {
+  "name": "Spirit Form",
+  "type": "Concept",
+  "description": "Angelic power to become pure spirit, immune to physical effects.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0136",
+   "realms-of-power-the-divine-revised::0141",
+   "realms-of-power-the-divine-revised::0144"
+  ]
+ },
+ {
+  "name": "Subtle Form",
+  "type": "Concept",
+  "description": "Angelic power to appear as any human.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0136",
+   "realms-of-power-the-divine-revised::0145",
+   "realms-of-power-the-divine-revised::0155"
+  ]
+ },
+ {
+  "name": "Grant Longevity",
+  "type": "Concept",
+  "description": "Eiael's power to remove Aging Points.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0140"
+  ]
+ },
+ {
+  "name": "Revoke Gifts",
+  "type": "Concept",
+  "description": "Eiael's power to revoke any Ring of Solomon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0141"
+  ]
+ },
+ {
+  "name": "Impart Wisdom",
+  "type": "Concept",
+  "description": "Eiael's power to teach Ars Notoria at Source Quality 13.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0141"
+  ]
+ },
+ {
+  "name": "Enlighten",
+  "type": "Concept",
+  "description": "Gabriel's power to implant Knowledge.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0144"
+  ]
+ },
+ {
+  "name": "Chastise the Sinful",
+  "type": "Concept",
+  "description": "Kolazonta's plague power.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0146"
+  ]
+ },
+ {
+  "name": "Question",
+  "type": "Concept",
+  "description": "Munkar and Nakir's power compelling truthful answers.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0155"
+  ]
+ },
+ {
+  "name": "Comfort the Righteous",
+  "type": "Concept",
+  "description": "Camuel's power alleviating doubt and fear.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138",
+   "realms-of-power-the-divine-revised::0139"
+  ]
+ },
+ {
+  "name": "Unrelenting Struggle",
+  "type": "Concept",
+  "description": "Camuel's power to fight all night without Fatigue.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0138",
+   "realms-of-power-the-divine-revised::0139"
+  ]
+ },
+ {
+  "name": "Smite Evil",
+  "type": "Concept",
+  "description": "Michael's power as Demon's Eternal Oblivion, also affecting Faeries.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149",
+   "realms-of-power-the-divine-revised::0150"
+  ]
+ },
+ {
+  "name": "Celestial Immunity",
+  "type": "Concept",
+  "description": "Saintly miracle used by Michael and Midael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0149",
+   "realms-of-power-the-divine-revised::0153"
+  ]
+ },
+ {
+  "name": "Infallible Guide",
+  "type": "Concept",
+  "description": "Samuil's power to traverse any regio.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0160"
+  ]
+ },
+ {
+  "name": "Transport the Devout",
+  "type": "Concept",
+  "description": "Samuil's power to carry a person anywhere, even beyond the Lunar Sphere.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0160",
+   "realms-of-power-the-divine-revised::0161"
+  ]
+ },
+ {
+  "name": "Mass Healing",
+  "type": "Concept",
+  "description": "Saint Power held by Nehushtan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0234"
+  ]
+ },
+ {
+  "name": "Resist Temptation",
+  "type": "Concept",
+  "description": "Saint Power of the Head of John the Baptist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0233"
+  ]
+ },
+ {
+  "name": "The Faithful Made Whole",
+  "type": "Concept",
+  "description": "Saint Power of the Head of John the Baptist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0233"
+  ]
+ },
+ {
+  "name": "Ark of the Covenant",
+  "type": "Item",
+  "description": "Relic built to carry the tablets of the Law, lost since 587 BC; Faith 10 for Jews and Divine Might 100.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0231",
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "Head of John the Baptist",
+  "type": "Item",
+  "description": "Relic claimed by churches in Amiens, Constantinople and Damascus; Faith 5, Divine Might 50.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0231",
+   "realms-of-power-the-divine-revised::0232",
+   "realms-of-power-the-divine-revised::0233"
+  ]
+ },
+ {
+  "name": "Nehushtan",
+  "type": "Item",
+  "aliases": [
+   "Brazen Serpent of Moses"
+  ],
+  "description": "The brazen serpent of Moses that healed all who looked upon it, broken by Hezekiah; if reassembled it would have Mass Healing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0233",
+   "realms-of-power-the-divine-revised::0234",
+   "realms-of-power-the-divine-revised::0235"
+  ]
+ },
+ {
+  "name": "True Cross",
+  "type": "Item",
+  "description": "Relic of which Henry I of Cyprus carries a fragment with 2 Faith Points.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0225",
+   "realms-of-power-the-divine-revised::0228"
+  ]
+ },
+ {
+  "name": "Holy Lance",
+  "type": "Item",
+  "description": "Relic named among those venerated by the monotheistic faiths.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0228"
+  ]
+ },
+ {
+  "name": "Prophet's Seal Ring",
+  "type": "Item",
+  "description": "Relic named among those venerated by the monotheistic faiths.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0228"
+  ]
+ },
+ {
+  "name": "Ring of Solomon",
+  "type": "Item",
+  "aliases": [
+   "Fourth Ring of Solomon",
+   "Rings of Solomon"
+  ],
+  "description": "Stages of Ars Notoria; Eiael guides practitioners at the Fourth Ring and may revoke them.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0141",
+   "realms-of-power-the-divine-revised::0142",
+   "realms-of-power-the-divine-revised::0143"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "Holy city where Israfel will blow his trumpet, contested by Christians and Muslims.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0215"
+  ]
+ },
+ {
+  "name": "Garden of Gethsemane",
+  "type": "Place",
+  "description": "Where Camuel and Gabriel visited Jesus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0139"
+  ]
+ },
+ {
+  "name": "Watchtowers of the World",
+  "type": "Place",
+  "description": "Places where St. Michael watches for attacks on the City of God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0152"
+  ]
+ },
+ {
+  "name": "City of God",
+  "type": "Place",
+  "description": "Heavenly city guarded by St. Michael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0152"
+  ]
+ },
+ {
+  "name": "Gates of Hell",
+  "type": "Place",
+  "description": "Guarded by St. Michael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0152"
+  ]
+ },
+ {
+  "name": "River Nile",
+  "type": "Place",
+  "description": "River protected by St. Michael.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0152"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "description": "Region in schism due to the Reconquista.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215"
+  ]
+ },
+ {
+  "name": "Southern France",
+  "type": "Place",
+  "description": "Region in schism after the Albigensian Crusade.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215"
+  ]
+ },
+ {
+  "name": "Byzantium",
+  "type": "Place",
+  "description": "Region in schism between Eastern and Western churches.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Region contested by Christians and Muslims.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215",
+   "realms-of-power-the-divine-revised::0231"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "City conquered by the Fourth Crusade in 1204; claims the head of John the Baptist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0223",
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "Nicaea",
+  "type": "Place",
+  "description": "Seat of a claimant to the Byzantine Empire.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Trebizond",
+  "type": "Place",
+  "description": "Seat of a claimant to the Byzantine Empire.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Epirus",
+  "type": "Place",
+  "description": "Seat of a claimant to the Byzantine Empire.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Georgia",
+  "type": "Place",
+  "description": "Eastern Christian state.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Armenia",
+  "type": "Place",
+  "description": "Eastern Christian state.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Baghdad",
+  "type": "Place",
+  "description": "Seat of the 'Abbasid caliph and the exilarch.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Egypt",
+  "type": "Place",
+  "description": "Sultanate of al-Kamil.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0225",
+   "realms-of-power-the-divine-revised::0234"
+  ]
+ },
+ {
+  "name": "Cyprus",
+  "type": "Place",
+  "description": "Kingdom of Henry I.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0225"
+  ]
+ },
+ {
+  "name": "Blaringhem",
+  "type": "Place",
+  "description": "Town in Flanders where Saint Ursmar's relics were humiliated in 1060.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0230"
+  ]
+ },
+ {
+  "name": "Flanders",
+  "type": "Place",
+  "description": "Region containing Blaringhem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0230"
+  ]
+ },
+ {
+  "name": "Amiens",
+  "type": "Place",
+  "description": "French city claiming the head of John the Baptist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "Damascus",
+  "type": "Place",
+  "description": "Syrian city claiming the head of John the Baptist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "Temple of Solomon",
+  "type": "Place",
+  "description": "Temple whose Holy of Holies housed the Ark of the Covenant.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0231",
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "Babylon",
+  "type": "Place",
+  "description": "Power whose troops took Jerusalem in 587 BC.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0231",
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The Hermetic Order, in which Holy Magic users have a poor reputation as hedge wizards.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0169"
+  ]
+ },
+ {
+  "name": "Western Church",
+  "type": "Faction",
+  "aliases": [
+   "Church",
+   "Latin Church"
+  ],
+  "description": "The Latin Christian Church, headed by the Pope (Magic Resistance 25).",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0121",
+   "realms-of-power-the-divine-revised::0223"
+  ]
+ },
+ {
+  "name": "Greek Orthodox Church",
+  "type": "Faction",
+  "description": "Eastern church whose patriarchs have Magic Resistance 20.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0223",
+   "realms-of-power-the-divine-revised::0224",
+   "realms-of-power-the-divine-revised::0239"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Faction",
+  "description": "Empire whose emperor headed the Greek Orthodox Church until 1204.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0223",
+   "realms-of-power-the-divine-revised::0224",
+   "realms-of-power-the-divine-revised::0232"
+  ]
+ },
+ {
+  "name": "'Abbasid Caliphate",
+  "type": "Faction",
+  "aliases": [
+   "'Abbasid caliph"
+  ],
+  "description": "Religious authority in Baghdad whose caliph has Magic Resistance 25.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224",
+   "realms-of-power-the-divine-revised::0225"
+  ]
+ },
+ {
+  "name": "Almohad Caliphate",
+  "type": "Faction",
+  "aliases": [
+   "Almohad caliph"
+  ],
+  "description": "Rival caliphate whose caliph has Magic Resistance 25.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Fourth Crusade",
+  "type": "Faction",
+  "description": "Crusade that conquered Constantinople in 1204.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0223",
+   "realms-of-power-the-divine-revised::0224"
+  ]
+ },
+ {
+  "name": "Albigensian Crusade",
+  "type": "Faction",
+  "description": "Crusade declared against the Cathar heresy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215"
+  ]
+ },
+ {
+  "name": "Cathars",
+  "type": "Faction",
+  "aliases": [
+   "Cathar heresy"
+  ],
+  "description": "Heresy denounced in Southern France.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215"
+  ]
+ },
+ {
+  "name": "Reconquista",
+  "type": "Faction",
+  "description": "Christian war against Muslims in Iberia.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0215"
+  ]
+ },
+ {
+  "name": "Christianity",
+  "type": "Faction",
+  "description": "Monotheistic faith in which relics are most prominent.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0217",
+   "realms-of-power-the-divine-revised::0229"
+  ]
+ },
+ {
+  "name": "Islam",
+  "type": "Faction",
+  "description": "Monotheistic faith with its own list of archangels and few relics.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0120",
+   "realms-of-power-the-divine-revised::0236"
+  ]
+ },
+ {
+  "name": "Judaism",
+  "type": "Faction",
+  "aliases": [
+   "Jews"
+  ],
+  "description": "Monotheistic faith headed by the exilarch of Baghdad.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0224",
+   "realms-of-power-the-divine-revised::0236"
+  ]
+ }
+]

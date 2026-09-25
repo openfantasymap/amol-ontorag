@@ -1,0 +1,2803 @@
+[
+ {
+  "name": "Dwarf",
+  "type": "Creature",
+  "aliases": [
+   "Dwarfs",
+   "Dwarves"
+  ],
+  "description": "Faeries living in communities guarding the entrances to the earth (caves, barrows, mines); cunning smiths with access to the Earth's treasures who can grant External Vis to other faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0600",
+   "realms-of-power-faerie::0602",
+   "realms-of-power-faerie::0652"
+  ]
+ },
+ {
+  "name": "Gnome",
+  "type": "Creature",
+  "aliases": [
+   "Gnomes"
+  ],
+  "description": "Term not used in Mythic Europe except perhaps for earth elementals; gnome-like creatures with pointy red hats have various local names.",
+  "evidence": [
+   "realms-of-power-faerie::0600",
+   "realms-of-power-faerie::0603"
+  ]
+ },
+ {
+  "name": "Goblin",
+  "type": "Creature",
+  "aliases": [
+   "Goblins",
+   "Goblin King"
+  ],
+  "description": "General term for a subterranean faerie of destructive bent found in caves or mines, or a malicious faerie of short stature; prone to taking children for changelings.",
+  "evidence": [
+   "realms-of-power-faerie::0600",
+   "realms-of-power-faerie::0601",
+   "realms-of-power-faerie::0658"
+  ]
+ },
+ {
+  "name": "Barbegazi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "All-male dwarfs of the snows living in mountaintop burrows, with icicle beards and broad feet; their cries cause avalanches.",
+  "evidence": [
+   "realms-of-power-faerie::0602"
+  ]
+ },
+ {
+  "name": "Dvergar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norse dwarves originally maggots in the corpse of Ymir, given intelligence by the gods; they flee sunlight and crafted the treasures of the gods.",
+  "evidence": [
+   "realms-of-power-faerie::0602",
+   "realms-of-power-faerie::0603"
+  ]
+ },
+ {
+  "name": "Karzełek",
+  "type": "Creature",
+  "aliases": [
+   "Karzeleks"
+  ],
+  "description": "Polish dwarfs with green grass for hair who ride diminutive horses over sleeping field hands; they aid diligent farmers but punish minor infractions violently.",
+  "evidence": [
+   "realms-of-power-faerie::0603"
+  ]
+ },
+ {
+  "name": "Knockers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Cornish mine faeries said to warn miners of collapses by knocking, playing along with belief that they are souls of dead Jewish miners.",
+  "evidence": [
+   "realms-of-power-faerie::0603",
+   "realms-of-power-faerie::0604"
+  ]
+ },
+ {
+  "name": "Kobolds",
+  "type": "Creature",
+  "aliases": [
+   "Kobold"
+  ],
+  "description": "German mine faeries that lace mines with arsenical ore and cause minor trouble, though some are helpful.",
+  "evidence": [
+   "realms-of-power-faerie::0604"
+  ]
+ },
+ {
+  "name": "Faun",
+  "type": "Creature",
+  "aliases": [
+   "Fauns"
+  ],
+  "description": "Lustful faeries; twisted fauns prowl the borders of Infernal spaces and are virtually indistinguishable from demons; they hold bacchanalian parties with nymphs.",
+  "evidence": [
+   "realms-of-power-faerie::0605",
+   "realms-of-power-faerie::0662",
+   "realms-of-power-faerie::0667"
+  ]
+ },
+ {
+  "name": "Butatschah-iglis",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A Swiss lake faerie pretending to be a demon: a vast amorphous sack covered in fire-beaming eyes that eats fish and fishermen, guarding a supposed gateway to Hell.",
+  "evidence": [
+   "realms-of-power-faerie::0605"
+  ]
+ },
+ {
+  "name": "Giant",
+  "type": "Creature",
+  "aliases": [
+   "Faerie Giant",
+   "Giants",
+   "Ogre"
+  ],
+  "description": "Huge humanoid faeries (giants, ogres, trolls) that typically guard spaces in faerie stories; unlike Magical giants they are drawn to humans, harvest vitality through terror, and regenerate.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0610",
+   "realms-of-power-faerie::0615"
+  ]
+ },
+ {
+  "name": "Cliff Ogres",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Large faeries haunting cliff-top roads who throw travelers onto rocks for their children to eat.",
+  "evidence": [
+   "realms-of-power-faerie::0611"
+  ]
+ },
+ {
+  "name": "Dev",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Armenian giants with up to seven one-eyed heads; some can change into dragons or other monsters.",
+  "evidence": [
+   "realms-of-power-faerie::0611"
+  ]
+ },
+ {
+  "name": "Gello",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Italian ogress whose breasts drain the blood of children; Vulnerable to the Divine since three missionaries forced her to return a child's blood.",
+  "evidence": [
+   "realms-of-power-faerie::0611"
+  ]
+ },
+ {
+  "name": "Kinderschrecker",
+  "type": "Creature",
+  "aliases": [],
+  "description": "German child-eating ogress ('child guzzler'), a version of the Gello without exsanguinating breasts.",
+  "evidence": [
+   "realms-of-power-faerie::0611"
+  ]
+ },
+ {
+  "name": "Guardian of the Fishes",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A huge, human-shaped scaled faerie of the Baltic Sea with fish fins, gills and eyes, which rarely leaves the water.",
+  "evidence": [
+   "realms-of-power-faerie::0611"
+  ]
+ },
+ {
+  "name": "Jack's Beanstalk Giant",
+  "type": "Creature",
+  "aliases": [
+   "Jack's Giant",
+   "Beanstalk Giant"
+  ],
+  "description": "A hammy giant who knowingly lets a boy become famous by killing him, assisted by a wife who gives magic beans; the most anachronistic faerie in the book.",
+  "evidence": [
+   "realms-of-power-faerie::0611",
+   "realms-of-power-faerie::0612"
+  ]
+ },
+ {
+  "name": "Red Ettin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A three-headed giant who imprisoned the princess of Scotland, can turn people to stone and smell humans; answering his riddles is his Sovereign Ward.",
+  "evidence": [
+   "realms-of-power-faerie::0612"
+  ]
+ },
+ {
+  "name": "Troll",
+  "type": "Creature",
+  "aliases": [
+   "Trolls"
+  ],
+  "description": "A term with divergent meanings: a barrow-faerie ancestral spirit, a shaggy solitary giant of northern Scandinavia turned to stone by sunlight, or a small social faerie of southern Scandinavia.",
+  "evidence": [
+   "realms-of-power-faerie::0612",
+   "realms-of-power-faerie::0613",
+   "realms-of-power-faerie::0671"
+  ]
+ },
+ {
+  "name": "Trow",
+  "type": "Creature",
+  "aliases": [
+   "Trows",
+   "Trowies"
+  ],
+  "description": "Little mound-dwelling faeries of Orkney that dance under the stars and steal musicians; linked to changeling exchanges.",
+  "evidence": [
+   "realms-of-power-faerie::0613",
+   "realms-of-power-faerie::0671"
+  ]
+ },
+ {
+  "name": "Muilearteach",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A sea giantess who comes ashore in storms as a begging hag and devours those who shelter her; she has a pot of healing ointment.",
+  "evidence": [
+   "realms-of-power-faerie::0613"
+  ]
+ },
+ {
+  "name": "Multiheaded Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Giants found across Mythic Europe whose heads each have their own personality, making them either easily confused or incredibly cunning.",
+  "evidence": [
+   "realms-of-power-faerie::0613"
+  ]
+ },
+ {
+  "name": "Vörys-mort",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An enormous, extremely swift giant who can look over the forest and sometimes drives animals toward hunters' traps on the Volga.",
+  "evidence": [
+   "realms-of-power-faerie::0613",
+   "realms-of-power-faerie::0614"
+  ]
+ },
+ {
+  "name": "Orm",
+  "type": "Creature",
+  "aliases": [
+   "Orms",
+   "Faerie Dragon"
+  ],
+  "description": "A class of predominantly faerie dragons ('worms'): vast venomous snakes that crave vital things such as cows' milk or virgins and often poison their surroundings.",
+  "evidence": [
+   "realms-of-power-faerie::0616",
+   "realms-of-power-faerie::0618",
+   "realms-of-power-faerie::0619"
+  ]
+ },
+ {
+  "name": "Alklha",
+  "type": "Creature",
+  "aliases": [
+   "Alkhla"
+  ],
+  "description": "A vast Siberian dragon that seems to swallow the Sun; sliced in half by shamans, its lower body hidden under a ward; it can dispel Sun duration effects by licking them.",
+  "evidence": [
+   "realms-of-power-faerie::0620"
+  ]
+ },
+ {
+  "name": "Gwiber",
+  "type": "Creature",
+  "aliases": [
+   "Gwibers"
+  ],
+  "description": "A Welsh dragon that begins as an orm and grows leathery wings after tasting human breast milk; may form a milk-brother bond with a human infant.",
+  "evidence": [
+   "realms-of-power-faerie::0618",
+   "realms-of-power-faerie::0620",
+   "realms-of-power-faerie::0673"
+  ]
+ },
+ {
+  "name": "Horse-Headed Serpents",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Great water serpents with the heads or forequarters of horses, red or yellow eyes and fangs.",
+  "evidence": [
+   "realms-of-power-faerie::0620",
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Kalshedra",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Albanian fire-breathing dragon that can take hag shape, pollutes water, causes drought and feeds on human vitality.",
+  "evidence": [
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Pisuhänd",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A small dragon of the Baltic coast that acts like a brownie.",
+  "evidence": [
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Tatzelwurm",
+  "type": "Creature",
+  "aliases": [],
+  "description": "An Alpine dragon two to six feet long with a catlike head, lizard body without hind legs, and toxic breath.",
+  "evidence": [
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Stollenwurm",
+  "type": "Creature",
+  "aliases": [
+   "Tunnel Worm"
+  ],
+  "description": "The tunnel worm, a far longer variant of the tatzelwurm that rears up and attacks with its foreclaws.",
+  "evidence": [
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Vishap",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A Mastery Faerie dragon atop Mount Ararat whose blood is so poisonous that weapons that injured it slay with a scratch.",
+  "evidence": [
+   "realms-of-power-faerie::0621",
+   "realms-of-power-faerie::0622"
+  ]
+ },
+ {
+  "name": "Vouivre",
+  "type": "Creature",
+  "aliases": [
+   "Vouivres"
+  ],
+  "description": "A creature with a green two-legged dragon's hindparts and a woman's foreparts, with a single gemstone eye; it guards a treasure hoard and bathes once a year.",
+  "evidence": [
+   "realms-of-power-faerie::0622",
+   "realms-of-power-faerie::0623"
+  ]
+ },
+ {
+  "name": "Wivere",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A wingless, legless French dragon whose Sovereign Ward is that it cannot harm naked people.",
+  "evidence": [
+   "realms-of-power-faerie::0623"
+  ]
+ },
+ {
+  "name": "Brownie",
+  "type": "Creature",
+  "aliases": [
+   "Brownies"
+  ],
+  "description": "A helpful household faerie expecting a dish of milk; can be jealous of babies and taint them with Faerie Blood.",
+  "evidence": [
+   "realms-of-power-faerie::0619",
+   "realms-of-power-faerie::0651"
+  ]
+ },
+ {
+  "name": "Portune",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A helpful household faerie, like a brownie.",
+  "evidence": [
+   "realms-of-power-faerie::0651"
+  ]
+ },
+ {
+  "name": "Bloodcap",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Frightening faeries of cruel winter that haunt places where blood has been shed and feed on fear.",
+  "evidence": [
+   "realms-of-power-faerie::0650"
+  ]
+ },
+ {
+  "name": "Ettin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Brutish Germanic giants (also called ogres or trolls) of Size +3 to +5, harmed by sunlight; their females are troll-wives.",
+  "evidence": [
+   "realms-of-power-faerie::0654",
+   "realms-of-power-faerie::0667"
+  ]
+ },
+ {
+  "name": "Troll-wife",
+  "type": "Creature",
+  "aliases": [
+   "Troll-wives"
+  ],
+  "description": "Often beautiful female ettins who take heroic husbands and bear powerful magicians, or steal Gifted children.",
+  "evidence": [
+   "realms-of-power-faerie::0654"
+  ]
+ },
+ {
+  "name": "Ghula",
+  "type": "Creature",
+  "aliases": [
+   "Ghul"
+  ],
+  "description": "Rapacious wasteland faeries of the Arabic world whose unions with human men produce ghula daughters or ghul-blooded sons.",
+  "evidence": [
+   "realms-of-power-faerie::0657"
+  ]
+ },
+ {
+  "name": "Huldra",
+  "type": "Creature",
+  "aliases": [
+   "Huldrene",
+   "Skogsrå",
+   "Tallemaja",
+   "Huldu",
+   "Huldrekall"
+  ],
+  "description": "A Scandinavian nymph, beautiful in front but hollow-backed with a cow's tail, able to vanish when unobserved; male form is huldu or huldrekall.",
+  "evidence": [
+   "realms-of-power-faerie::0659"
+  ]
+ },
+ {
+  "name": "Nymph",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries haunting the borders of human settlement, archetypal sexual predators attracted to young men; they abduct nympholepts.",
+  "evidence": [
+   "realms-of-power-faerie::0660",
+   "realms-of-power-faerie::0674",
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Padfoot",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A faerie in the form of an immense black dog with glowing green eyes that protects travelers despite its fearsome reputation.",
+  "evidence": [
+   "realms-of-power-faerie::0661"
+  ]
+ },
+ {
+  "name": "Satyr",
+  "type": "Creature",
+  "aliases": [
+   "Satyrs"
+  ],
+  "description": "Lustful faeries who hold bacchanalian parties with nymphs; boys conceived there have satyr blood.",
+  "evidence": [
+   "realms-of-power-faerie::0662"
+  ]
+ },
+ {
+  "name": "Selkie",
+  "type": "Creature",
+  "aliases": [
+   "Selkies"
+  ],
+  "description": "Seal-faeries who can be trapped by mortal men as brides, raise children, and almost always regain freedom.",
+  "evidence": [
+   "realms-of-power-faerie::0663"
+  ]
+ },
+ {
+  "name": "Swanmaiden",
+  "type": "Creature",
+  "aliases": [
+   "Swanmaidens"
+  ],
+  "description": "Close cousins of the selkies who can be trapped by mortal men as brides.",
+  "evidence": [
+   "realms-of-power-faerie::0663"
+  ]
+ },
+ {
+  "name": "Sidhe",
+  "type": "Creature",
+  "aliases": [
+   "Courtly Faeries"
+  ],
+  "description": "Irish name for courtly faeries; highly cognizant ones seek humans to produce children partaking of their nature.",
+  "evidence": [
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Faerie Knight",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Courtly faeries of stories who have passionate encounters with mortal women and later marry them honorably.",
+  "evidence": [
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Glanconer",
+  "type": "Creature",
+  "aliases": [
+   "Glanconers"
+  ],
+  "description": "Sinister courtly faeries who abduct maidens from their homes.",
+  "evidence": [
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Undine",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Courtly faeries inhabiting rivers, especially boundary rivers, progenitors of mortal lineages like the rulers of Lusignan.",
+  "evidence": [
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Mermaid",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A water-inhabiting faerie for which Undine Blood can substitute.",
+  "evidence": [
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Changeling",
+  "type": "Creature",
+  "aliases": [
+   "Changelings"
+  ],
+  "description": "A faerie child, ancient faerie, or carved stock left in place of a stolen human infant, disguised with glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0668",
+   "realms-of-power-faerie::0669",
+   "realms-of-power-faerie::0671"
+  ]
+ },
+ {
+  "name": "Faerie Homunculus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A faerie homunculus whose bond grants a Homunculus Wizard a Faerie version of The Gift.",
+  "evidence": [
+   "realms-of-power-faerie::0710"
+  ]
+ },
+ {
+  "name": "Ymir",
+  "type": "Character",
+  "aliases": [],
+  "description": "The Norse giant from whose corpse the world was made; the dvergar were maggots in his corpse.",
+  "evidence": [
+   "realms-of-power-faerie::0602",
+   "realms-of-power-faerie::0603"
+  ]
+ },
+ {
+  "name": "Fafnir",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of the dwarf king who can turn himself into a dragon to express his greed for treasure.",
+  "evidence": [
+   "realms-of-power-faerie::0603"
+  ]
+ },
+ {
+  "name": "Jerbiton",
+  "type": "Character",
+  "aliases": [
+   "Founder Jerbiton"
+  ],
+  "description": "Founder of the Order whose diaries reveal the truth about the Swiss lake and its supposed Infernal gateway.",
+  "evidence": [
+   "realms-of-power-faerie::0605",
+   "realms-of-power-faerie::0606"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder whose grandchild is said to have married a bloodcap and raised her children as Redcaps.",
+  "evidence": [
+   "realms-of-power-faerie::0650"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Clothed Uther Pendragon in glamour so he appeared to be Igraine's husband.",
+  "evidence": [
+   "realms-of-power-faerie::0646",
+   "realms-of-power-faerie::0647"
+  ]
+ },
+ {
+  "name": "Uther Pendragon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Given the appearance of Igraine's husband by Merlin's glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0646"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of Igraine, conceived through Merlin's glamour trick.",
+  "evidence": [
+   "realms-of-power-faerie::0646"
+  ]
+ },
+ {
+  "name": "Igraine",
+  "type": "Character",
+  "aliases": [],
+  "description": "King Arthur's mother, deceived by Merlin's glamour.",
+  "evidence": [
+   "realms-of-power-faerie::0646",
+   "realms-of-power-faerie::0647"
+  ]
+ },
+ {
+  "name": "Mélusine",
+  "type": "Character",
+  "aliases": [
+   "Melusine"
+  ],
+  "description": "Undine ancestor of the rulers of Lusignan castle.",
+  "evidence": [
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Aelfred",
+  "type": "Character",
+  "aliases": [],
+  "description": "A local faerie doctor used in the example of Curse-Throwing to cure a young woman's barrenness.",
+  "evidence": [
+   "realms-of-power-faerie::0714",
+   "realms-of-power-faerie::0715"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Old god, a powerful faerie whose descendants may bear Faerie God Blood.",
+  "evidence": [
+   "realms-of-power-faerie::0656"
+  ]
+ },
+ {
+  "name": "Venus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Old goddess, a powerful faerie whose descendants may bear Faerie God Blood.",
+  "evidence": [
+   "realms-of-power-faerie::0656"
+  ]
+ },
+ {
+  "name": "Morrigan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Old goddess, a powerful faerie whose descendants may bear Faerie God Blood.",
+  "evidence": [
+   "realms-of-power-faerie::0656"
+  ]
+ },
+ {
+  "name": "Odin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Old god, a powerful faerie whose descendants may bear Faerie God Blood.",
+  "evidence": [
+   "realms-of-power-faerie::0656"
+  ]
+ },
+ {
+  "name": "Pelos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Old god whose descendants may bear Faerie God Blood.",
+  "evidence": [
+   "realms-of-power-faerie::0656"
+  ]
+ },
+ {
+  "name": "Thoth",
+  "type": "Character",
+  "aliases": [
+   "Hermes"
+  ],
+  "description": "Egyptian god identified with Hermes, whose sacred ibis had gwiber-like rivals.",
+  "evidence": [
+   "realms-of-power-faerie::0620",
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Balaam's ass",
+  "type": "Character",
+  "aliases": [],
+  "description": "Biblical animal cited as one God chose to imbue with a soul.",
+  "evidence": [
+   "realms-of-power-faerie::0655"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Faerie realm where dwarfs also dwell.",
+  "evidence": [
+   "realms-of-power-faerie::0600"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The game setting in which the faeries described are found.",
+  "evidence": [
+   "realms-of-power-faerie::0602",
+   "realms-of-power-faerie::0613",
+   "realms-of-power-faerie::0619"
+  ]
+ },
+ {
+  "name": "Swiss Gateway Lake",
+  "type": "Place",
+  "aliases": [],
+  "description": "A lake in Switzerland said to have a gateway to Hell, actually created by a magical battle after the fall of the Western Empire.",
+  "evidence": [
+   "realms-of-power-faerie::0605",
+   "realms-of-power-faerie::0606"
+  ]
+ },
+ {
+  "name": "Mount Ararat",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountain on whose top the dragon Vishap resides.",
+  "evidence": [
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Forest of Luchon",
+  "type": "Place",
+  "aliases": [
+   "Luchon"
+  ],
+  "description": "Forest at the foot of the Pyrenees in France where gem-faced serpents, children of a vouivre, are found.",
+  "evidence": [
+   "realms-of-power-faerie::0622",
+   "realms-of-power-faerie::0623"
+  ]
+ },
+ {
+  "name": "Pyrenees",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains in France at whose foot lies the forest of Luchon.",
+  "evidence": [
+   "realms-of-power-faerie::0622"
+  ]
+ },
+ {
+  "name": "Lusignan Castle",
+  "type": "Place",
+  "aliases": [
+   "Lusignan"
+  ],
+  "description": "Castle whose rulers descend from the undine Mélusine.",
+  "evidence": [
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Baltic Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the Guardian of the Fishes and the pisuhänd.",
+  "evidence": [
+   "realms-of-power-faerie::0611",
+   "realms-of-power-faerie::0621"
+  ]
+ },
+ {
+  "name": "Volga",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Vörys-mort assists hunters.",
+  "evidence": [
+   "realms-of-power-faerie::0614"
+  ]
+ },
+ {
+  "name": "Orkney",
+  "type": "Place",
+  "aliases": [],
+  "description": "Islands where trows dwell.",
+  "evidence": [
+   "realms-of-power-faerie::0613"
+  ]
+ },
+ {
+  "name": "Western Empire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Empire after whose fall the Swiss lake was created by a magical battle.",
+  "evidence": [
+   "realms-of-power-faerie::0606"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "Faerie Realm",
+   "Realm of Faerie"
+  ],
+  "description": "The Faerie realm, whose touch changes humans, grants sympathy, and underlies faerie hedge magic.",
+  "evidence": [
+   "realms-of-power-faerie::0624",
+   "realms-of-power-faerie::0625",
+   "realms-of-power-faerie::0675"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Magic realm; Magical giants and dragons differ from faerie ones.",
+  "evidence": [
+   "realms-of-power-faerie::0605",
+   "realms-of-power-faerie::0610",
+   "realms-of-power-faerie::0645"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine realm; Divine areas have faerie monsters on their edges.",
+  "evidence": [
+   "realms-of-power-faerie::0605",
+   "realms-of-power-faerie::0611"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Infernal realm; twisted fauns prowl the borders of Infernal spaces.",
+  "evidence": [
+   "realms-of-power-faerie::0602",
+   "realms-of-power-faerie::0605"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House whose members' human and animal forms are both true forms, so True Sight cannot detect them.",
+  "evidence": [
+   "realms-of-power-faerie::0694"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcap"
+  ],
+  "description": "Messengers of the Order; one is said to be descended from a bloodcap, another sells Gifted ettin-blooded children.",
+  "evidence": [
+   "realms-of-power-faerie::0650",
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Hermetic investigators whose ire an evil-reputed covenant may raise.",
+  "evidence": [
+   "realms-of-power-faerie::0602"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Order to whose members a Redcap sells Gifted children, in violation of the Code.",
+  "evidence": [
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Code"
+  ],
+  "description": "The Code, which specifies that magi must not molest the fae.",
+  "evidence": [
+   "realms-of-power-faerie::0667"
+  ]
+ },
+ {
+  "name": "Faerie Doctor",
+  "type": "CharacterType",
+  "aliases": [
+   "Lybman"
+  ],
+  "description": "A human intermediary between peasants and faeries in Saxon lands, also called a lybman, who heals with faerie powers like Curse-Throwing and dowsing; also a Special Virtue making the character a Mythic Companion.",
+  "evidence": [
+   "realms-of-power-faerie::0689",
+   "realms-of-power-faerie::0714",
+   "realms-of-power-faerie::0719"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A character type granted by the Faerie Doctor Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0689",
+   "realms-of-power-faerie::0706"
+  ]
+ },
+ {
+  "name": "Nympholept",
+  "type": "CharacterType",
+  "aliases": [
+   "Nympholepts"
+  ],
+  "description": "Young men taken by nymphs for years who gain Faerie Blood and often prophetic powers.",
+  "evidence": [
+   "realms-of-power-faerie::0674"
+  ]
+ },
+ {
+  "name": "Milk Brother",
+  "type": "CharacterType",
+  "aliases": [
+   "Milk-brother"
+  ],
+  "description": "A human who shared milk with a gwiber, gaining Animal Ken and a Faerie Friend bond with it.",
+  "evidence": [
+   "realms-of-power-faerie::0673"
+  ]
+ },
+ {
+  "name": "Faerie Wizard",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Faerie hedge wizards whose powers can depend on faeries assisting them and on Faerie Rank.",
+  "evidence": [
+   "realms-of-power-faerie::0632",
+   "realms-of-power-faerie::0639"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Might score of faerie creatures, aligned with a Form such as Corpus or Animal.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0616",
+   "realms-of-power-faerie::0626"
+  ]
+ },
+ {
+  "name": "Sympathy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A supernatural connection to things a faerie represents, left when faeries draw vitality from humans; enables faerie hedge wizardry.",
+  "evidence": [
+   "realms-of-power-faerie::0625",
+   "realms-of-power-faerie::0626"
+  ]
+ },
+ {
+  "name": "Sympathy Trait",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Trait describing a character's faerie relationship to a class of subjects, usable as a specialization bonus; negative Traits impose penalties and botch dice.",
+  "evidence": [
+   "realms-of-power-faerie::0626",
+   "realms-of-power-faerie::0627",
+   "realms-of-power-faerie::0629"
+  ]
+ },
+ {
+  "name": "Faerie Rank",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The character's highest positive Sympathy Trait modified by the lowest negative one, measuring strength of connection to Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0632",
+   "realms-of-power-faerie::0718"
+  ]
+ },
+ {
+  "name": "Sympathetic Influence",
+  "type": "Concept",
+  "aliases": [
+   "Ceremonial Influence",
+   "Practical Influence"
+  ],
+  "description": "Temporarily gaining a Sympathy Trait via ceremonial influence (a faerie ritual) or practical influence (a season of association).",
+  "evidence": [
+   "realms-of-power-faerie::0633",
+   "realms-of-power-faerie::0634",
+   "realms-of-power-faerie::0635"
+  ]
+ },
+ {
+  "name": "Tinted Aura",
+  "type": "Concept",
+  "aliases": [
+   "Tinting"
+  ],
+  "description": "A Faerie aura given Personality Traits by tinting, imposing temporary traits on all within it.",
+  "evidence": [
+   "realms-of-power-faerie::0636",
+   "realms-of-power-faerie::0637",
+   "realms-of-power-faerie::0638"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A product of human creative effort tied to activating a Virtue, whose power depends on secrecy.",
+  "evidence": [
+   "realms-of-power-faerie::0639",
+   "realms-of-power-faerie::0640"
+  ]
+ },
+ {
+  "name": "Folk Charm",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A crafted charm made by a character with Faerie Lore and a Sympathy Trait that can end a faerie effect.",
+  "evidence": [
+   "realms-of-power-faerie::0642",
+   "realms-of-power-faerie::0643"
+  ]
+ },
+ {
+  "name": "Hermetic Charm",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Use of Sympathy Traits in Hermetic lab work and enchanted devices designed as charms that must be activated in secret.",
+  "evidence": [
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0645"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power used to disguise, create armor, and produce Faerie Blood in mortals.",
+  "evidence": [
+   "realms-of-power-faerie::0609",
+   "realms-of-power-faerie::0646",
+   "realms-of-power-faerie::0668"
+  ]
+ },
+ {
+  "name": "Vitality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The human energy faeries harvest, e.g. through terror, fertility, or hosting.",
+  "evidence": [
+   "realms-of-power-faerie::0610",
+   "realms-of-power-faerie::0625",
+   "realms-of-power-faerie::0646"
+  ]
+ },
+ {
+  "name": "Sovereign Ward",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A faerie's weakness condition; e.g. Red Ettin can be killed by one who answers his riddles, Wivere cannot harm naked people. Also a Major Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0612",
+   "realms-of-power-faerie::0623",
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Mastery Faerie",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A classification of faerie applied to the dragon Vishap.",
+  "evidence": [
+   "realms-of-power-faerie::0622"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Score",
+   "Faerie Warping"
+  ],
+  "description": "Supernatural distortion; Warping Score limits Sympathy Trait growth and botches can give Warping Points.",
+  "evidence": [
+   "realms-of-power-faerie::0627",
+   "realms-of-power-faerie::0629",
+   "realms-of-power-faerie::0624"
+  ]
+ },
+ {
+  "name": "Faerie Calling",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Warping result for faerie magicians, analogous to Twilight, that can grant Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0629",
+   "realms-of-power-faerie::0706"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Experienced by Hermetic magi as they are warped.",
+  "evidence": [
+   "realms-of-power-faerie::0706"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A link used to guide characters or represent a curse recipient; distinct from sympathy.",
+  "evidence": [
+   "realms-of-power-faerie::0601",
+   "realms-of-power-faerie::0625",
+   "realms-of-power-faerie::0715"
+  ]
+ },
+ {
+  "name": "Faerie Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura of the Faerie realm that can be tinted and adds to rolls.",
+  "evidence": [
+   "realms-of-power-faerie::0636",
+   "realms-of-power-faerie::0675",
+   "realms-of-power-faerie::0715"
+  ]
+ },
+ {
+  "name": "Faerie Regio",
+  "type": "Place",
+  "aliases": [],
+  "description": "A faerie regio in which a nymph imprisons a captured woman.",
+  "evidence": [
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance that faerie effects and curse-throwing must penetrate.",
+  "evidence": [
+   "realms-of-power-faerie::0636",
+   "realms-of-power-faerie::0642",
+   "realms-of-power-faerie::0716"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "aliases": [
+   "Penetration Total"
+  ],
+  "description": "Total needed to overcome Magic Resistance; Sympathy Traits can add to it.",
+  "evidence": [
+   "realms-of-power-faerie::0642",
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0716"
+  ]
+ },
+ {
+  "name": "Realm Interaction Table",
+  "type": "Concept",
+  "aliases": [
+   "Realm Interaction chart"
+  ],
+  "description": "Chart determining realm bonuses; Hermetic charms may be treated as Magic or Faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0645",
+   "realms-of-power-faerie::0675"
+  ]
+ },
+ {
+  "name": "Essential Nature",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic concept which magi conclude does not limit the Faerie realm as it limits Magic.",
+  "evidence": [
+   "realms-of-power-faerie::0648"
+  ]
+ },
+ {
+  "name": "Cognizance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Degree of faerie self-awareness (incognizant, narrowly, highly cognizant), affecting Faerie Blood strength.",
+  "evidence": [
+   "realms-of-power-faerie::0616",
+   "realms-of-power-faerie::0647",
+   "realms-of-power-faerie::0648"
+  ]
+ },
+ {
+  "name": "Faerie Power",
+  "type": "Concept",
+  "aliases": [
+   "Faerie Powers"
+  ],
+  "description": "Faerie abilities such as Beguile, Conjure, Dream, Grant, Portage, Ware, Weal and Woe usable as Virtues.",
+  "evidence": [
+   "realms-of-power-faerie::0676",
+   "realms-of-power-faerie::0680",
+   "realms-of-power-faerie::0695"
+  ]
+ },
+ {
+  "name": "Faerie Method",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie wizardry methods such as Empathy, Enchantment and Evocation.",
+  "evidence": [
+   "realms-of-power-faerie::0684",
+   "realms-of-power-faerie::0685",
+   "realms-of-power-faerie::0686"
+  ]
+ },
+ {
+  "name": "Faerie Hedge Wizardry",
+  "type": "Concept",
+  "aliases": [
+   "Faerie hedge magic"
+  ],
+  "description": "Traditions of faerie magic enabled by sympathy; each tradition has four Favored Abilities.",
+  "evidence": [
+   "realms-of-power-faerie::0625",
+   "realms-of-power-faerie::0718"
+  ]
+ },
+ {
+  "name": "Favored Abilities",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Four Abilities of a faerie hedge tradition that initiates learn without usual penalties.",
+  "evidence": [
+   "realms-of-power-faerie::0718"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [],
+  "description": "A magus's talisman can be attuned to Sympathy Traits appropriate to its shape or material.",
+  "evidence": [
+   "realms-of-power-faerie::0645"
+  ]
+ },
+ {
+  "name": "Stock",
+  "type": "Item",
+  "aliases": [],
+  "description": "A crudely carved wooden image left in place of a stolen infant.",
+  "evidence": [
+   "realms-of-power-faerie::0668"
+  ]
+ },
+ {
+  "name": "Rhine Gold",
+  "type": "Item",
+  "aliases": [],
+  "description": "Treasure cursed by a dwarf, contributing to Ragnarok.",
+  "evidence": [
+   "realms-of-power-faerie::0603"
+  ]
+ },
+ {
+  "name": "Vouivre's Eye",
+  "type": "Item",
+  "aliases": [],
+  "description": "The vouivre's single gemstone eye, believed able to turn iron into gold.",
+  "evidence": [
+   "realms-of-power-faerie::0622",
+   "realms-of-power-faerie::0623"
+  ]
+ },
+ {
+  "name": "Ragnarok",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Norse doom to which the curse on the Rhine gold contributes.",
+  "evidence": [
+   "realms-of-power-faerie::0603"
+  ]
+ },
+ {
+  "name": "Deprivation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rolls required when deprived of air or water.",
+  "evidence": [
+   "realms-of-power-faerie::0618",
+   "realms-of-power-faerie::0663",
+   "realms-of-power-faerie::0665"
+  ]
+ },
+ {
+  "name": "Confidence Point",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resource spent in ceremonial influence; a Sympathy experience reward may replace one.",
+  "evidence": [
+   "realms-of-power-faerie::0631",
+   "realms-of-power-faerie::0634"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magic found in faerie bodies, e.g. giants' bones or orm snakeskins.",
+  "evidence": [
+   "realms-of-power-faerie::0610",
+   "realms-of-power-faerie::0618",
+   "realms-of-power-faerie::0623"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Divine aura that northern trolls are unable to face.",
+  "evidence": [
+   "realms-of-power-faerie::0613"
+  ]
+ },
+ {
+  "name": "Lyb-craeft",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical healing and surgery practised by lybmen (faerie doctors).",
+  "evidence": [
+   "realms-of-power-faerie::0719"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Hermetic talent, incompatible with Faerie Doctor and required for Homunculus Wizard.",
+  "evidence": [
+   "realms-of-power-faerie::0689",
+   "realms-of-power-faerie::0706",
+   "realms-of-power-faerie::0710"
+  ]
+ },
+ {
+  "name": "Bloodcap Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety from bloodcaps granting a Strength bonus.",
+  "evidence": [
+   "realms-of-power-faerie::0650"
+  ]
+ },
+ {
+  "name": "Brownie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting a bonus to Profession totals.",
+  "evidence": [
+   "realms-of-power-faerie::0651"
+  ]
+ },
+ {
+  "name": "Dwarf Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting a bonus to Craft totals.",
+  "evidence": [
+   "realms-of-power-faerie::0652",
+   "realms-of-power-faerie::0671"
+  ]
+ },
+ {
+  "name": "Ettin Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting Stamina, with sunlight vulnerability.",
+  "evidence": [
+   "realms-of-power-faerie::0654",
+   "realms-of-power-faerie::0666",
+   "realms-of-power-faerie::0671"
+  ]
+ },
+ {
+  "name": "Faerie God Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood from old gods, granting points in Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0656"
+  ]
+ },
+ {
+  "name": "Ghul Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting retractable claws.",
+  "evidence": [
+   "realms-of-power-faerie::0657"
+  ]
+ },
+ {
+  "name": "Goblin Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting a bonus to stealth totals.",
+  "evidence": [
+   "realms-of-power-faerie::0658"
+  ]
+ },
+ {
+  "name": "Huldra Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety allowing invisibility when still.",
+  "evidence": [
+   "realms-of-power-faerie::0659"
+  ]
+ },
+ {
+  "name": "Nymph Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting a Communication bonus.",
+  "evidence": [
+   "realms-of-power-faerie::0660",
+   "realms-of-power-faerie::0667"
+  ]
+ },
+ {
+  "name": "Padfoot Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting a Perception bonus.",
+  "evidence": [
+   "realms-of-power-faerie::0661"
+  ]
+ },
+ {
+  "name": "Satyr Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting Communication and Presence bonuses with sexually compatible characters.",
+  "evidence": [
+   "realms-of-power-faerie::0662",
+   "realms-of-power-faerie::0667"
+  ]
+ },
+ {
+  "name": "Selkie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety granting a bonus to avoid Deprivation.",
+  "evidence": [
+   "realms-of-power-faerie::0663"
+  ]
+ },
+ {
+  "name": "Sidhe Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "The most common Faerie Blood variety, from courtly faeries, granting a Presence bonus.",
+  "evidence": [
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Undine Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Blood variety from river courtly faeries granting underwater bonuses.",
+  "evidence": [
+   "realms-of-power-faerie::0664",
+   "realms-of-power-faerie::0665",
+   "realms-of-power-faerie::0666"
+  ]
+ },
+ {
+  "name": "External Vis",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue dwarfs can grant to other faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0600"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue of faerie ancestry; also raises max Sympathy Trait score by 1.",
+  "evidence": [
+   "realms-of-power-faerie::0646",
+   "realms-of-power-faerie::0649",
+   "realms-of-power-faerie::0688"
+  ]
+ },
+ {
+  "name": "Strong Faerie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue of potent faerie ancestry, raising max Sympathy Traits by 3.",
+  "evidence": [
+   "realms-of-power-faerie::0646",
+   "realms-of-power-faerie::0648",
+   "realms-of-power-faerie::0699"
+  ]
+ },
+ {
+  "name": "Faerie Legacy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue enhancing the benefit of Faerie Blood.",
+  "evidence": [
+   "realms-of-power-faerie::0649",
+   "realms-of-power-faerie::0690"
+  ]
+ },
+ {
+  "name": "Faerie Sympathy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major or Minor Supernatural Virtue granting a positive Sympathy Trait.",
+  "evidence": [
+   "realms-of-power-faerie::0672",
+   "realms-of-power-faerie::0691"
+  ]
+ },
+ {
+  "name": "Faerie Background",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Supernatural Virtue granting a positive and negative Sympathy Trait from an unusual birth or childhood.",
+  "evidence": [
+   "realms-of-power-faerie::0687"
+  ]
+ },
+ {
+  "name": "Faerie Doctor (Virtue)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Special Virtue making the character a Mythic Companion with free Dowsing.",
+  "evidence": [
+   "realms-of-power-faerie::0672",
+   "realms-of-power-faerie::0689"
+  ]
+ },
+ {
+  "name": "Familiarity with the Fae",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue giving +2 to social rolls with faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0692"
+  ]
+ },
+ {
+  "name": "Frightful Presence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue instilling dread through appearance.",
+  "evidence": [
+   "realms-of-power-faerie::0650",
+   "realms-of-power-faerie::0693"
+  ]
+ },
+ {
+  "name": "Greater Benediction",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue: a supernatural blessing like Flight, True Sight, Universally Liked.",
+  "evidence": [
+   "realms-of-power-faerie::0675",
+   "realms-of-power-faerie::0696",
+   "realms-of-power-faerie::0694"
+  ]
+ },
+ {
+  "name": "Lesser Benediction",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue: a lesser blessing like Gift of the Gab or Green Fingers.",
+  "evidence": [
+   "realms-of-power-faerie::0675",
+   "realms-of-power-faerie::0697",
+   "realms-of-power-faerie::0702"
+  ]
+ },
+ {
+  "name": "Beguile",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting the Beguile Faerie Power.",
+  "evidence": [
+   "realms-of-power-faerie::0676"
+  ]
+ },
+ {
+  "name": "Bonding",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Bonding.",
+  "evidence": [
+   "realms-of-power-faerie::0677"
+  ]
+ },
+ {
+  "name": "Captivating",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Captivating.",
+  "evidence": [
+   "realms-of-power-faerie::0678"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Virtue",
+  "aliases": [
+   "Faerie Ceremony"
+  ],
+  "description": "Minor Supernatural Virtue and Supernatural Ability that pools participants to boost faerie effects (Faerie Ceremony).",
+  "evidence": [
+   "realms-of-power-faerie::0679",
+   "realms-of-power-faerie::0712",
+   "realms-of-power-faerie::0713"
+  ]
+ },
+ {
+  "name": "Conjure",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting the Conjure Faerie Power.",
+  "evidence": [
+   "realms-of-power-faerie::0680"
+  ]
+ },
+ {
+  "name": "Curse-Throwing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue and Ability to cure diseases and curses by transferring them to another.",
+  "evidence": [
+   "realms-of-power-faerie::0681",
+   "realms-of-power-faerie::0714",
+   "realms-of-power-faerie::0716"
+  ]
+ },
+ {
+  "name": "Dismissing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Dismissing.",
+  "evidence": [
+   "realms-of-power-faerie::0682"
+  ]
+ },
+ {
+  "name": "Dream",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting the Dream Faerie Power.",
+  "evidence": [
+   "realms-of-power-faerie::0683",
+   "realms-of-power-faerie::0674"
+  ]
+ },
+ {
+  "name": "Empathy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue granting the Empathy Faerie Method.",
+  "evidence": [
+   "realms-of-power-faerie::0684"
+  ]
+ },
+ {
+  "name": "Enchantment",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue granting the Enchantment Faerie Method.",
+  "evidence": [
+   "realms-of-power-faerie::0685"
+  ]
+ },
+ {
+  "name": "Evocation",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue granting the Evocation Faerie Method.",
+  "evidence": [
+   "realms-of-power-faerie::0686"
+  ]
+ },
+ {
+  "name": "Grant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue/Faerie Power by which faeries teach charms and Virtues.",
+  "evidence": [
+   "realms-of-power-faerie::0639",
+   "realms-of-power-faerie::0695"
+  ]
+ },
+ {
+  "name": "Portage",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Portage.",
+  "evidence": [
+   "realms-of-power-faerie::0698"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue granting Summoning.",
+  "evidence": [
+   "realms-of-power-faerie::0700"
+  ]
+ },
+ {
+  "name": "Ware",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Ware.",
+  "evidence": [
+   "realms-of-power-faerie::0701"
+  ]
+ },
+ {
+  "name": "Weal",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Weal.",
+  "evidence": [
+   "realms-of-power-faerie::0702"
+  ]
+ },
+ {
+  "name": "Woe",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue granting Woe.",
+  "evidence": [
+   "realms-of-power-faerie::0703"
+  ]
+ },
+ {
+  "name": "Flight (Benediction)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Greater Benediction allowing wingless flight with a prop.",
+  "evidence": [
+   "realms-of-power-faerie::0693",
+   "realms-of-power-faerie::0694"
+  ]
+ },
+ {
+  "name": "True Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Greater Benediction seeing through glamour and shapechanges.",
+  "evidence": [
+   "realms-of-power-faerie::0694"
+  ]
+ },
+ {
+  "name": "Universally Liked",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Greater Benediction giving social bonuses.",
+  "evidence": [
+   "realms-of-power-faerie::0694"
+  ]
+ },
+ {
+  "name": "Gift of the Gab",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Lesser Benediction making the speaker convincing.",
+  "evidence": [
+   "realms-of-power-faerie::0701"
+  ]
+ },
+ {
+  "name": "Green Fingers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Lesser Benediction making plants prosper.",
+  "evidence": [
+   "realms-of-power-faerie::0701"
+  ]
+ },
+ {
+  "name": "Pricking Thumbs",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Lesser Benediction sensing ill will.",
+  "evidence": [
+   "realms-of-power-faerie::0701"
+  ]
+ },
+ {
+  "name": "Unusually Fecund",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Example Lesser Benediction ensuring conception.",
+  "evidence": [
+   "realms-of-power-faerie::0701"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue often gained by children who briefly stayed with faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0669"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granted free to faerie doctors, locating water and lost things.",
+  "evidence": [
+   "realms-of-power-faerie::0689",
+   "realms-of-power-faerie::0719"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting understanding of animals, gained by gwiber milk-brothers.",
+  "evidence": [
+   "realms-of-power-faerie::0661",
+   "realms-of-power-faerie::0673"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Prophetic Virtue common to nympholepts.",
+  "evidence": [
+   "realms-of-power-faerie::0674"
+  ]
+ },
+ {
+  "name": "Death Prophecy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue representing linked-life changelings.",
+  "evidence": [
+   "realms-of-power-faerie::0671"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue, example of a charmed Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0660"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "aliases": [
+   "Greater Immunity to Fire",
+   "Greater Immunity to Drowning"
+  ],
+  "description": "Virtue, e.g. to Fire or Drowning.",
+  "evidence": [
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0665"
+  ]
+ },
+ {
+  "name": "Light Touch",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue, example of a charmed Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0651",
+   "realms-of-power-faerie::0658"
+  ]
+ },
+ {
+  "name": "Puissant (Ability)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue giving bonus to an Ability; e.g. Puissant Single Weapon, Stealth, Charm, Swim, Etiquette.",
+  "evidence": [
+   "realms-of-power-faerie::0640",
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0659"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue, example of a charmed Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0650",
+   "realms-of-power-faerie::0652"
+  ]
+ },
+ {
+  "name": "Keen Vision",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue permissible as a charmed Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0640"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that cannot be charmed.",
+  "evidence": [
+   "realms-of-power-faerie::0640"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue whose effects Familiarity with the Fae grants regarding faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0692"
+  ]
+ },
+ {
+  "name": "Huge",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue of size, taken by giants and orms.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0616"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0616"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue and Ability allowing faeries to speak.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0616",
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Human Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue taken by giants.",
+  "evidence": [
+   "realms-of-power-faerie::0608"
+  ]
+ },
+ {
+  "name": "Increased Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0616"
+  ]
+ },
+ {
+  "name": "Place of Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue for a giant in its lair.",
+  "evidence": [
+   "realms-of-power-faerie::0608"
+  ]
+ },
+ {
+  "name": "Faerie Beast",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue taken by orms.",
+  "evidence": [
+   "realms-of-power-faerie::0616"
+  ]
+ },
+ {
+  "name": "Highly Cognizant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0616"
+  ]
+ },
+ {
+  "name": "Personal Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie Virtue granting powers like Constant Damaging Effect or Flight.",
+  "evidence": [
+   "realms-of-power-faerie::0616",
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major faerie Virtue available to Strong Faerie Blooded humans.",
+  "evidence": [
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major faerie Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor faerie Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor faerie Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Ways of the (Land)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue; Ways of the Forest, Desert or Sea.",
+  "evidence": [
+   "realms-of-power-faerie::0657",
+   "realms-of-power-faerie::0659",
+   "realms-of-power-faerie::0663"
+  ]
+ },
+ {
+  "name": "Great Presence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0659",
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of shapechanging into animals.",
+  "evidence": [
+   "realms-of-power-faerie::0657",
+   "realms-of-power-faerie::0663"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for ettin-blooded characters.",
+  "evidence": [
+   "realms-of-power-faerie::0654"
+  ]
+ },
+ {
+  "name": "Venus' Blessing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for sidhe-blooded characters.",
+  "evidence": [
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0663"
+  ]
+ },
+ {
+  "name": "Enchanting Music",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for satyr-blooded characters.",
+  "evidence": [
+   "realms-of-power-faerie::0662"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue.",
+  "evidence": [
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of faeries lacking self-awareness.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0616"
+  ]
+ },
+ {
+  "name": "Faerie Antipathy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major or Minor Supernatural Flaw giving a negative Sympathy Trait.",
+  "evidence": [
+   "realms-of-power-faerie::0704",
+   "realms-of-power-faerie::0707"
+  ]
+ },
+ {
+  "name": "Faerie Heritage",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw: birth engineered by a highly cognizant faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0656",
+   "realms-of-power-faerie::0664",
+   "realms-of-power-faerie::0705"
+  ]
+ },
+ {
+  "name": "Faerie Metamorphosis",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural or Hermetic Flaw developing a glamour when Warping reaches 1.",
+  "evidence": [
+   "realms-of-power-faerie::0706",
+   "realms-of-power-faerie::0707"
+  ]
+ },
+ {
+  "name": "Faerie Upbringing",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw for children raised among faeries, raising max Sympathy Traits.",
+  "evidence": [
+   "realms-of-power-faerie::0670",
+   "realms-of-power-faerie::0707",
+   "realms-of-power-faerie::0708"
+  ]
+ },
+ {
+  "name": "Greater Charm",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw: a Virtue ruled by a single stealable charm.",
+  "evidence": [
+   "realms-of-power-faerie::0639",
+   "realms-of-power-faerie::0709"
+  ]
+ },
+ {
+  "name": "Lesser Charm",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Flaw: a Virtue activated by a secret ritual charm.",
+  "evidence": [
+   "realms-of-power-faerie::0639",
+   "realms-of-power-faerie::0711"
+  ]
+ },
+ {
+  "name": "Homunculus Wizard",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story or Hermetic Flaw: a Faerie version of The Gift through a homunculus.",
+  "evidence": [
+   "realms-of-power-faerie::0707",
+   "realms-of-power-faerie::0710"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typically resulting from faerie interaction.",
+  "evidence": [
+   "realms-of-power-faerie::0650",
+   "realms-of-power-faerie::0654",
+   "realms-of-power-faerie::0675"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw typically resulting from faerie interaction.",
+  "evidence": [
+   "realms-of-power-faerie::0650",
+   "realms-of-power-faerie::0665",
+   "realms-of-power-faerie::0675"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major faerie Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0653",
+   "realms-of-power-faerie::0661",
+   "realms-of-power-faerie::0665"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor faerie Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Reduced Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor faerie Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Slow Power",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor faerie Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0653"
+  ]
+ },
+ {
+  "name": "Faerie Friend",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of amicable bond with a faerie, e.g. gwiber or changeling.",
+  "evidence": [
+   "realms-of-power-faerie::0661",
+   "realms-of-power-faerie::0671",
+   "realms-of-power-faerie::0673"
+  ]
+ },
+ {
+  "name": "Mistaken Identity",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of hostile linked-life relationship with a changeling.",
+  "evidence": [
+   "realms-of-power-faerie::0671"
+  ]
+ },
+ {
+  "name": "Ability Block",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw making certain Abilities unavailable, common with Faerie Upbringing.",
+  "evidence": [
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Prophetic Flaw of nympholepts.",
+  "evidence": [
+   "realms-of-power-faerie::0674"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0649"
+  ]
+ },
+ {
+  "name": "Vulnerable to the Divine",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie weakness of Gello.",
+  "evidence": [
+   "realms-of-power-faerie::0611"
+  ]
+ },
+ {
+  "name": "Curse of Venus",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0660",
+   "realms-of-power-faerie::0662"
+  ]
+ },
+ {
+  "name": "Nocturnal",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0657",
+   "realms-of-power-faerie::0658",
+   "realms-of-power-faerie::0661"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0651",
+   "realms-of-power-faerie::0652"
+  ]
+ },
+ {
+  "name": "Dwarf (Flaw)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for dwarf-blooded characters.",
+  "evidence": [
+   "realms-of-power-faerie::0652"
+  ]
+ },
+ {
+  "name": "Supernatural Nuisance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0656"
+  ]
+ },
+ {
+  "name": "Feral Upbringing",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0663"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-faerie::0664"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0633",
+   "realms-of-power-faerie::0642",
+   "realms-of-power-faerie::0715"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0609",
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0609",
+   "realms-of-power-faerie::0627"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0609"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0609",
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0609"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0609",
+   "realms-of-power-faerie::0618",
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0618",
+   "realms-of-power-faerie::0658"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0626",
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Charm (Ability)",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0608"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0634",
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0670"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0644",
+   "realms-of-power-faerie::0645"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0637",
+   "realms-of-power-faerie::0659"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0651"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0652"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced in faerie rules and statistics.",
+  "evidence": [
+   "realms-of-power-faerie::0715"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form or Technique in faerie rules.",
+  "evidence": [
+   "realms-of-power-faerie::0608",
+   "realms-of-power-faerie::0615"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form or Technique in faerie rules.",
+  "evidence": [
+   "realms-of-power-faerie::0616",
+   "realms-of-power-faerie::0626"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form or Technique in faerie rules.",
+  "evidence": [
+   "realms-of-power-faerie::0618",
+   "realms-of-power-faerie::0626"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form or Technique in faerie rules.",
+  "evidence": [
+   "realms-of-power-faerie::0626"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form or Technique in faerie rules.",
+  "evidence": [
+   "realms-of-power-faerie::0694"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form or Technique in faerie rules.",
+  "evidence": [
+   "realms-of-power-faerie::0694"
+  ]
+ },
+ {
+  "name": "Constrict",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Orm natural power encoiling a victim, dealing automatic damage until broken free.",
+  "evidence": [
+   "realms-of-power-faerie::0617",
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Constant Damaging Effect",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Orm Personal Faerie Power emitting noxious slime or toxic breath for +5 Damage.",
+  "evidence": [
+   "realms-of-power-faerie::0616",
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Venomous Bite",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Orm natural power inflicting adder venom.",
+  "evidence": [
+   "realms-of-power-faerie::0618"
+  ]
+ },
+ {
+  "name": "Flight (Faerie Power)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal Faerie Power of gwibers and flying orms.",
+  "evidence": [
+   "realms-of-power-faerie::0618"
+  ]
+ }
+]

@@ -1,0 +1,1195 @@
+[
+ {
+  "name": "Hoplomachus",
+  "type": "Concept",
+  "aliases": [
+   "hoplomachi"
+  ],
+  "description": "A defensive certamen style named for warriors armored like Greek hoplites; it trades attack and initiative for greatly increased Defense.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0600"
+  ]
+ },
+ {
+  "name": "Laquerius",
+  "type": "Concept",
+  "aliases": [
+   "School of the Noose",
+   "laquetores"
+  ],
+  "description": "The certamen School of the Noose, whose practitioners bind the opponent's ritual working and impose lasting Defense penalties.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0601"
+  ]
+ },
+ {
+  "name": "Provocator",
+  "type": "Concept",
+  "aliases": [
+   "School of Challengers",
+   "provocatores"
+  ],
+  "description": "The certamen School of Challengers, which sacrifices Initiative for a higher Resistance Total; its members are social, organized and flippant in duels.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0602",
+   "houses-of-hermes-true-lineages::0603"
+  ]
+ },
+ {
+  "name": "Pumilius",
+  "type": "Concept",
+  "aliases": [
+   "School of the (Amusing) Dwarfs",
+   "School of Pumilius"
+  ],
+  "description": "The certamen School of the (Amusing) Dwarfs, which projects humorous images into the shared illusion to make opponents lose an attack or defense; some Tremere find it offensive.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0603"
+  ]
+ },
+ {
+  "name": "Retiarius",
+  "type": "Concept",
+  "aliases": [
+   "School of the Fisherman",
+   "retiarii"
+  ],
+  "description": "The certamen School of the Fisherman, which strikes swiftly, gains Initiative bonuses and evades damage.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0604"
+  ]
+ },
+ {
+  "name": "Saggitarius",
+  "type": "Concept",
+  "aliases": [
+   "Technique of the Archer"
+  ],
+  "description": "The Technique of the Archer, a certamen style introduced by a Merinita magus to humiliate a Tremere rival; it adds heavily to Attack but can do only one Fatigue level of damage, and many Tremere dispute its legitimacy.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0605"
+  ]
+ },
+ {
+  "name": "Scissor",
+  "type": "Concept",
+  "aliases": [
+   "School of Carvers",
+   "scissores"
+  ],
+  "description": "The certamen School of Carvers, which skips an attack to deliver a crippling deep attack in the following round.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0606"
+  ]
+ },
+ {
+  "name": "Velitus",
+  "type": "Concept",
+  "aliases": [
+   "Style of the Spear",
+   "velites"
+  ],
+  "description": "The certamen Style of the Spear, which wears down an opponent's magical resistance, potentially making their Resistance Total negative.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0607"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Formalized magical dueling in the Order of Hermes, fought through a shared illusion; accepted as decisive in all disputes at the 817 Grand Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0600",
+   "houses-of-hermes-true-lineages::0630",
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Certamen Schools",
+  "type": "Concept",
+  "aliases": [
+   "Styles of Certamen"
+  ],
+  "description": "Distinct styles of certamen practiced mainly by Tremere magi, each with its own Finesse-based tricks; Harenarii pioneer most new schools.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0600",
+   "houses-of-hermes-true-lineages::0630"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability whose score governs the bonuses of certamen styles and rolls such as drawing legible diagrams magically.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0600",
+   "houses-of-hermes-true-lineages::0611"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [
+   "Parmae Magicae",
+   "Parma Magicae"
+  ],
+  "description": "The Hermetic magic resistance ritual developed by Bonisagus in the Cave; raising it purges a possessing ghost.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0602",
+   "houses-of-hermes-true-lineages::0618",
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere magi"
+  ],
+  "description": "A Hermetic House that practices certamen styles, uses ghosts, recruits dhampirs, and has specialists such as Architects, Assessors and Leadworkers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0603",
+   "houses-of-hermes-true-lineages::0605",
+   "houses-of-hermes-true-lineages::0624"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House; a Merinita magus introduced the saggitarius certamen technique to humiliate a Tremere rival.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0605"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "description": "Hermetic House of the Redcaps, founded by Mercere, whose domus magna is Harco.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus magi"
+  ],
+  "description": "Hermetic House descended from Guernicus; its Primi include Fenicil and Bilera, and Simprim began its Transitionalist movement.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "description": "Hermetic House of Bonisagus; Murion was selected as its Prima in 1213.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order",
+   "Hermetic Order"
+  ],
+  "description": "The order of Hermetic magi formed by the Twelve Founders at Durenmar in 767.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Venomous Velites",
+  "type": "Spell",
+  "description": "Creo Animal level 45 spell (Rego requisite) creating a swarm of a hundred poisonous scorpions the caster can command against specific targets.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0608"
+  ]
+ },
+ {
+  "name": "To See as Others See",
+  "type": "Spell",
+  "description": "Intellego Animal level 40 spell (Rego requisite) letting a magus read an animal's thoughts and direct it as a spy, perceiving through its mind.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0609"
+  ]
+ },
+ {
+  "name": "The Unfaithful Favor",
+  "type": "Spell",
+  "description": "Rego Animal level 45 spell commanding a silk handkerchief to strangle an enemy for whom the magus has an arcane connection.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0610"
+  ]
+ },
+ {
+  "name": "Exactly to Scale",
+  "type": "Spell",
+  "description": "Rego Aquam level 10 spell (Mentem requisite) designed by a Tremere Artificer to draw precise pictures of a magus's ideas in ink, used for diagrams and mapmaking.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0611"
+  ]
+ },
+ {
+  "name": "To Mark with Umbrage",
+  "type": "Spell",
+  "description": "Creo Imaginem level 30 spell marking up to a thousand people with the caster's sigil so friend can be told from foe in battle; a level 25 Voice version affects about ten.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0612",
+   "houses-of-hermes-true-lineages::0608"
+  ]
+ },
+ {
+  "name": "False Prophecy",
+  "type": "Spell",
+  "description": "Muto Mentem level 30 spell that alters a victim's memories of dreams into a persistent crafted nightmare meant to influence decisions.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0613"
+  ]
+ },
+ {
+  "name": "Swords of Silver and Moonlight",
+  "type": "Spell",
+  "description": "Muto Mentem level 40 spell (Terram requisite) making a ghost's metal accouterments solid so it can use its entire kit.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0614"
+  ]
+ },
+ {
+  "name": "Spectral Quinreme",
+  "type": "Spell",
+  "description": "Muto Mentem level 50 spell (Herbam requisite) making a spectral ghost ship solid enough to sail upon and carry cargo.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0615"
+  ]
+ },
+ {
+  "name": "Arming the Legion of the Dead",
+  "type": "Spell",
+  "description": "Muto Mentem level 70 Ritual (Terram requisite) making the metal gear of up to 10,000 ghosts solid, without granting control over them.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0616"
+  ]
+ },
+ {
+  "name": "Voices from Hollow Spaces",
+  "type": "Spell",
+  "description": "Rego Mentem level 25 spell binding ghosts to objects or places such as mirrors, skulls and graves.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0617"
+  ]
+ },
+ {
+  "name": "The Face in the Mirror",
+  "type": "Spell",
+  "description": "Rego Mentem level 40 spell forcing a ghost to possess a magus while the magus retains control, used by Tremere Assessors.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0618"
+  ]
+ },
+ {
+  "name": "Call the Fallen Eagles from the Mist",
+  "type": "Spell",
+  "description": "Rego Mentem level 65 Ritual used on ancient battlefields to summon and control up to 10,000 pagan dead.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0619"
+  ]
+ },
+ {
+  "name": "A Simple Method for Rapid Vallation",
+  "type": "Spell",
+  "description": "Creo Terram level 35 spell creating a crenellated granite wall up to 500 paces wide; a botch during the Corruption of Tytalus put the walkway on the enemy side.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0620"
+  ]
+ },
+ {
+  "name": "Love's Unfaithful Witness",
+  "type": "Spell",
+  "description": "Intellego Terram level 35 spell to question jewelry about its wearer's activities, its personality shaped by its largest gemstone.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0621"
+  ]
+ },
+ {
+  "name": "A Window of Singular Direction",
+  "type": "Spell",
+  "description": "Muto Terram level 15 spell by the Architects of Tremere making a circle of wall transparent from one side.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0622"
+  ]
+ },
+ {
+  "name": "Veil of Invisibility",
+  "type": "Spell",
+  "description": "Spell (ArM5 p.146) referenced as the model for the invisibility power granted by Zmey mythic blood.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0627",
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Wings of the Soaring Wind",
+  "type": "Spell",
+  "description": "Spell (ArM5 p.126) referenced as the model for the Zmey-blood power to fly on the wind.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Shape of the Woodland Prowler",
+  "type": "Spell",
+  "description": "Spell (ArM5 p.131) referenced as the model for the Zmey-blood power to turn into a dog or bear.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique of creation, used in spells such as Venomous Velites and A Simple Method for Rapid Vallation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0608",
+   "houses-of-hermes-true-lineages::0612",
+   "houses-of-hermes-true-lineages::0620"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Hermetic Technique of perception, used in To See as Others See and Love's Unfaithful Witness.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0609",
+   "houses-of-hermes-true-lineages::0621"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Technique of transformation, used in False Prophecy and ghost-arming spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0613",
+   "houses-of-hermes-true-lineages::0614",
+   "houses-of-hermes-true-lineages::0622"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique of control, used in The Unfaithful Favor and ghost-binding spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0608",
+   "houses-of-hermes-true-lineages::0610",
+   "houses-of-hermes-true-lineages::0617"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form governing animals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0608",
+   "houses-of-hermes-true-lineages::0609",
+   "houses-of-hermes-true-lineages::0610"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form governing water and liquids such as ink.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0611"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Hermetic Form governing images and sensory species.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0612"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form governing minds and ghosts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0613",
+   "houses-of-hermes-true-lineages::0617",
+   "houses-of-hermes-true-lineages::0618"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form governing earth, stone and metal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0614",
+   "houses-of-hermes-true-lineages::0620",
+   "houses-of-hermes-true-lineages::0621"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Form governing plants and wood, a requisite for Spectral Quinreme.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0615"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form governing human bodies; amber grants a Corpus bonus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0610"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A magical link to a target that enables Arcane-range spells; Leadworkers can fix arcane connections in kolossoi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0609",
+   "houses-of-hermes-true-lineages::0610",
+   "houses-of-hermes-true-lineages::0629"
+  ]
+ },
+ {
+  "name": "Ritual",
+  "type": "Concept",
+  "description": "Ritual spells such as Arming the Legion of the Dead and Call the Fallen Eagles from the Mist.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0616",
+   "houses-of-hermes-true-lineages::0619"
+  ]
+ },
+ {
+  "name": "Shape and Material Bonus",
+  "type": "Concept",
+  "aliases": [
+   "Materials Table"
+  ],
+  "description": "Bonus table for enchanting, expanded here with amber, human skull, lead, mirror, opal and rhodocrosite.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0610",
+   "houses-of-hermes-true-lineages::0621"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical substance; Leadworkers can make fixed arcane connections without spending vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0629"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "description": "Spirits of the dead tied to Earth by unfinished business, which Tremere magi bind, arm, command and bargain with.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0614",
+   "houses-of-hermes-true-lineages::0617",
+   "houses-of-hermes-true-lineages::0618"
+  ]
+ },
+ {
+  "name": "Ghost Ship",
+  "type": "Creature",
+  "description": "A spectral ship projected by the psyche of a ghost, like its clothes or weapons, which can be made solid with Mentem magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0615"
+  ]
+ },
+ {
+  "name": "Grogs",
+  "type": "CharacterType",
+  "aliases": [
+   "shield grogs"
+  ],
+  "description": "Mundane soldiers and servants of magi; shield grogs and grogs wearing covenant badges are mentioned.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0612",
+   "houses-of-hermes-true-lineages::0614"
+  ]
+ },
+ {
+  "name": "Tremere Artificer",
+  "type": "CharacterType",
+  "aliases": [
+   "Artificer"
+  ],
+  "description": "A Tremere specialist role; one designed the spell Exactly to Scale.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0611"
+  ]
+ },
+ {
+  "name": "Tremere Architect",
+  "type": "CharacterType",
+  "aliases": [
+   "Architects of Tremere",
+   "Architect"
+  ],
+  "description": "Tremere magi specializing in fortification magic, creators of A Window of Singular Direction.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0620",
+   "houses-of-hermes-true-lineages::0622"
+  ]
+ },
+ {
+  "name": "Tremere Assessor",
+  "type": "CharacterType",
+  "aliases": [
+   "Assessors"
+  ],
+  "description": "Tremere magi who use The Face in the Mirror briefly for urgent tasks in cities.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0618"
+  ]
+ },
+ {
+  "name": "Leadworker",
+  "type": "Virtue",
+  "aliases": [
+   "Leadworking",
+   "leadworkers"
+  ],
+  "description": "Minor Hermetic Virtue descended from Aita cult necromancy, enabling crafting of katadesmoi and kolossoi containing fixed arcane connections; Leadworkers also supply Tremere magi with ghosts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0629",
+   "houses-of-hermes-true-lineages::0618"
+  ]
+ },
+ {
+  "name": "Katadesmos",
+  "type": "Item",
+  "aliases": [
+   "katadesmoi",
+   "curse tablet"
+  ],
+  "description": "A curse tablet, usually lead or a mirror's back, used to curse and control the individual named upon it; +2 penetration.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0629"
+  ]
+ },
+ {
+  "name": "Kolossos",
+  "type": "Item",
+  "aliases": [
+   "kolossoi"
+  ],
+  "description": "A figurine used as a curse representation; with an embedded sympathetic connection from the victim's body it grants +3 penetration.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0629"
+  ]
+ },
+ {
+  "name": "Aita cult",
+  "type": "Faction",
+  "aliases": [
+   "Aita"
+  ],
+  "description": "Ancient necromantic cult whose style of necromancy is the source of Leadworking.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0629"
+  ]
+ },
+ {
+  "name": "Dhampir",
+  "type": "Virtue",
+  "aliases": [
+   "dhampirs"
+  ],
+  "description": "Major Supernatural Virtue: a half-vampire child with slowed aging, Second Sight and darkvision; Tremere recruit dhampirs as guards but forbid training them as Hermetic magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0623",
+   "houses-of-hermes-true-lineages::0624"
+  ]
+ },
+ {
+  "name": "Vampire",
+  "type": "Creature",
+  "description": "A type of dark faerie found in the Transylvania Tribunal that returns from the grave, fathers dhampirs, and has varied vulnerabilities such as crossroads and church bells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0623",
+   "houses-of-hermes-true-lineages::0624"
+  ]
+ },
+ {
+  "name": "Dark Faerie",
+  "type": "Creature",
+  "description": "Faeries of a dark kind, including vampires, not strictly infernal spirits, with widely varying vulnerabilities.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0623"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "description": "Virtue (ArM5 p.48) possessed by dhampirs, letting them see invisible beings.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0623",
+   "houses-of-hermes-true-lineages::0624"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Lore Ability that dhampirs may learn at character generation with a +1 bonus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0624"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "The inborn capacity for magic; dhampirs may have it, and Mercere lost his in 773.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0624",
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "description": "Flaw applicable to a dhampir trained as a Hermetic magus against House Tremere's prohibition.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0624"
+  ]
+ },
+ {
+  "name": "Hedge wizard",
+  "type": "CharacterType",
+  "description": "Non-Hermetic wizards; hedge wizard dhampirs are permitted as Tremere servants.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0624"
+  ]
+ },
+ {
+  "name": "Folk Dancer",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue: members of a troupe of a dozen or more who perform pagan dances creating minor magical effects such as a harvest blessing reducing storms.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0625"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "description": "Ability used with Dexterity by folk dancers to perform magical dances.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0625"
+  ]
+ },
+ {
+  "name": "Samovily Blood",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue granting Faerie Blood bonuses plus one bonus (archery, riding, music, Presence or underwater) from descent from samovily.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0626"
+  ]
+ },
+ {
+  "name": "Samovily",
+  "type": "Creature",
+  "description": "Bulgarian mystical maidens, mostly faeries (one infernal), including woodland archers who ride deer, water and air spirits, and breath-stealing ghosts of brides.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0626"
+  ]
+ },
+ {
+  "name": "Wili",
+  "type": "Creature",
+  "description": "Breath-sucking ghostly maidens referenced as similar to one type of samovily.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0626"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "description": "Virtue whose usual bonuses are gained by characters with Samovily Blood.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0626"
+  ]
+ },
+ {
+  "name": "Mythic Blood (Zmey)",
+  "type": "Virtue",
+  "description": "Major Hermetic Virtue from descent from a zmey, granting a Minor Magical Focus with Storms and an innate power of invisibility, flight, or shapechange.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0627",
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Zmey",
+  "type": "Creature",
+  "aliases": [
+   "zmeyitsas"
+  ],
+  "description": "A variety of dragon native to the Transylvania Tribunal that guards villages against evil spirits, flies, shapeshifts and charms young women; females are zmeyitsas.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0627"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "description": "Virtue type; Zmey blood grants a Minor Magical Focus with Storms.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0627",
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Lecherous",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw typical of zmey descendants.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0627",
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Meddler",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw typical of zmey descendants.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0627",
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "description": "Minor Personality Flaw typical of zmey descendants.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0627",
+   "houses-of-hermes-true-lineages::0628"
+  ]
+ },
+ {
+  "name": "Harenarius",
+  "type": "Virtue",
+  "aliases": [
+   "Person of the Sand",
+   "Harenarii"
+  ],
+  "description": "Minor Hermetic Virtue, a 'Person of the Sand' able to master two Certamen Schools, starting with Reputation 2 as a master duelist among Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0630"
+  ]
+ },
+ {
+  "name": "Nyktophylax",
+  "type": "Virtue",
+  "aliases": [
+   "Nyktophylaxes",
+   "night guards"
+  ],
+  "description": "Minor Hermetic Virtue: 'night guards' whose Sun-duration magic fails at noon and midnight, named from sentry duty in the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0631"
+  ]
+ },
+ {
+  "name": "Transylvania Tribunal",
+  "type": "Tribunal",
+  "description": "Hermetic Tribunal where vampires that father dhampirs and zmey are found.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0623",
+   "houses-of-hermes-true-lineages::0627"
+  ]
+ },
+ {
+  "name": "Thebes Tribunal",
+  "type": "Tribunal",
+  "description": "Regional Tribunal where Bonisagus was last seen alive in 836.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "description": "The Order-wide Tribunal, constituted in 773, first met in 799, set on a 33-year schedule in 832.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "First Tribunal",
+  "type": "Tribunal",
+  "description": "The original gathering of the Founders at Durenmar in 767, which formed the Order; its second meeting was 773.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Founder born in Florence in 690 who developed the Parma Magica in the Cave; Marched his filius Jovius and was last seen in 836.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "description": "Founder born in Thessaly in 705, apprentice of Bonisagus, who recruited Mercere, Guernicus and others to form the Order; died after the 832 Grand Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Guernicus",
+  "type": "Character",
+  "description": "Founder born 714, apprenticed as a Mercurian earth wizard, who sought justice for his murdered master.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Viea",
+  "type": "Character",
+  "description": "Met Bonisagus at the Cave with Trianoma in 731 but soon departed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Notatus",
+  "type": "Character",
+  "description": "Accepted as Bonisagus's second apprentice in 732.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "description": "Founder, the first magus to accept Trianoma's invitation; lost his Gift in 773, helped bring Redcaps into the Order and died in 818.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Guorna the Fetid",
+  "type": "Character",
+  "description": "Met by Trianoma in 757.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Twelve Founders",
+  "type": "Faction",
+  "aliases": [
+   "Founders"
+  ],
+  "description": "The founders who formed the Order of Hermes at Durenmar in 767.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Jovius",
+  "type": "Character",
+  "description": "Filius of Bonisagus whom Bonisagus was forced to March in 812.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Fenicil",
+  "type": "Character",
+  "description": "Primus of House Guernicus from 832 who declared in 875 that the Order's tradition reaches to the beginnings of history.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Tremere",
+  "type": "Character",
+  "description": "Founder of the Order and the last founder to die, in 862.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Belin",
+  "type": "Character",
+  "description": "Magus of House Mercere who died in 887.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Golias",
+  "type": "Character",
+  "description": "Magus of House Mercere cast out of the Order in 961.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Insatella",
+  "type": "Character",
+  "description": "Became Prima of House Mercere in 1141.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Simprim",
+  "type": "Character",
+  "description": "Started the Transitionalist movement within House Guernicus in 1148.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Murion",
+  "type": "Character",
+  "description": "Selected as Prima of House Bonisagus in 1213.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Umno",
+  "type": "Character",
+  "description": "Tremere Primus who retired in 1218 to lead the Burning Acorns Vexillation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Poena",
+  "type": "Character",
+  "description": "Became Prima of House Tremere in 1218 and began a series of research covenants.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Bilera",
+  "type": "Character",
+  "description": "Elected Guernicus Prima in 1218.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "description": "Messengers brought into the Order in 817 at the urging of Mercere and Trianoma.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Mercurian rituals",
+  "type": "Concept",
+  "aliases": [
+   "Mercurian"
+  ],
+  "description": "Rituals discovered by Bonisagus in an abandoned well in 717; Guernicus was apprenticed as a Mercurian earth wizard.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "The Cave",
+  "type": "Place",
+  "aliases": [
+   "Cave"
+  ],
+  "description": "Where Bonisagus retreated in 720 to develop the Parma Magica and met Trianoma and Viea.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Where the Twelve Founders gathered in 767 to form the Order of Hermes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "description": "Domus magna of House Mercere, founded 770.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Covenant",
+  "description": "Domus magna of House Guernicus, whose inner council summoned thirty magi for the Curse of Thoth in 1011.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Curse of Thoth",
+  "type": "Spell",
+  "description": "Ritual performed in 1011 by thirty Guernicus magi summoned to Magvillus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "Hermetic war of 1003-1017 during which Nyktophylaxes served as sentries.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0631",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Sundering of House Tremere",
+  "type": "Concept",
+  "description": "Event in 848 in the history of House Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ },
+ {
+  "name": "Corruption of Tytalus",
+  "type": "Concept",
+  "description": "Historical episode during which a Tremere magus botched A Simple Method for Rapid Vallation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0620"
+  ]
+ },
+ {
+  "name": "Duresca scrolls",
+  "type": "Item",
+  "description": "Scrolls discovered in 937.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Transitionalist movement",
+  "type": "Faction",
+  "aliases": [
+   "Transitionalists"
+  ],
+  "description": "Movement within House Guernicus started by Simprim in 1148.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Burning Acorns Vexillation",
+  "type": "Faction",
+  "description": "Tremere vexillation led by retired Primus Umno from 1218.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Tremere Decennial",
+  "type": "Concept",
+  "aliases": [
+   "Decenial"
+  ],
+  "description": "Periodic Tremere gathering; the most recent was in 1218.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Tiranova rebellion",
+  "type": "Concept",
+  "description": "Rebellion of 1185 that led to independence for the Bulgarians.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Sack of Constantinople",
+  "type": "Concept",
+  "description": "The 1204 sack of Constantinople.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "City whose general blinded a Bulgarian army in 1014, sacked in 1204.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "Florence",
+  "type": "Place",
+  "description": "Birthplace of Bonisagus in 690.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Thessaly",
+  "type": "Place",
+  "description": "Birthplace of Trianoma in 705.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "City cited as an example of what Roman legionnaire ghosts might refuse to attack.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0619"
+  ]
+ },
+ {
+  "name": "Domus magna",
+  "type": "Concept",
+  "description": "The chief covenant of a Hermetic House, e.g. Harco and Magvillus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0632",
+   "houses-of-hermes-true-lineages::0634"
+  ]
+ },
+ {
+  "name": "March",
+  "type": "Concept",
+  "description": "Hermetic sentence of death and outlawry; Bonisagus was forced to March his filius Jovius.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0633"
+  ]
+ }
+]

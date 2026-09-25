@@ -1,0 +1,2602 @@
+[
+ {
+  "name": "Tueor",
+  "type": "Art",
+  "aliases": [
+   "Tu"
+  ],
+  "description": "Learned magician Technique ('I guard/protect') whose charms defend a target from specific harms; loosely analogous to Hermetic Rego.",
+  "evidence": [
+   "magic-hedge-magic-revised::0480",
+   "magic-hedge-magic-revised::0481",
+   "magic-hedge-magic-revised::0506"
+  ]
+ },
+ {
+  "name": "Succurro",
+  "type": "Art",
+  "aliases": [
+   "Su",
+   "Succuro"
+  ],
+  "description": "Learned magician Technique ('I aid') enhancing pre-existing aspects of a target; closest to Hermetic Creo but cannot create from nothing.",
+  "evidence": [
+   "magic-hedge-magic-revised::0481",
+   "magic-hedge-magic-revised::0482",
+   "magic-hedge-magic-revised::0511"
+  ]
+ },
+ {
+  "name": "Vulnero",
+  "type": "Art",
+  "aliases": [
+   "Vu"
+  ],
+  "description": "Learned magician Technique ('I harm') whose charms cause harm to a target; resembles Perdo, and such charms are often called curses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0481",
+   "magic-hedge-magic-revised::0482",
+   "magic-hedge-magic-revised::0511"
+  ]
+ },
+ {
+  "name": "Fortunam",
+  "type": "Art",
+  "aliases": [
+   "Fa"
+  ],
+  "description": "Learned magician Form governing luck; it has no Hermetic equivalent.",
+  "evidence": [
+   "magic-hedge-magic-revised::0483",
+   "magic-hedge-magic-revised::0507",
+   "magic-hedge-magic-revised::0513"
+  ]
+ },
+ {
+  "name": "Magicam",
+  "type": "Art",
+  "aliases": [
+   "Ma"
+  ],
+  "description": "Learned magician Form governing magic, protection from hostile magic and magical powers; corresponds most closely to Vim.",
+  "evidence": [
+   "magic-hedge-magic-revised::0483",
+   "magic-hedge-magic-revised::0508",
+   "magic-hedge-magic-revised::0523"
+  ]
+ },
+ {
+  "name": "Salutem",
+  "type": "Art",
+  "aliases": [
+   "Sa"
+  ],
+  "description": "Learned magician Form governing health of humans, animals and plants; broader yet narrower than Corpus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0483",
+   "magic-hedge-magic-revised::0484",
+   "magic-hedge-magic-revised::0532"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Hermetic Technique; Tueor charms may use Rego vis and are compared to Rego spells.",
+  "evidence": [
+   "magic-hedge-magic-revised::0480",
+   "magic-hedge-magic-revised::0490"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Hermetic Technique most closely corresponding to Succurro.",
+  "evidence": [
+   "magic-hedge-magic-revised::0481",
+   "magic-hedge-magic-revised::0490"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Hermetic Technique that Vulnero charms closely resemble.",
+  "evidence": [
+   "magic-hedge-magic-revised::0482",
+   "magic-hedge-magic-revised::0490"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Hermetic Technique whose unnatural modifications Succurro cannot replicate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0481"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Hermetic Form corresponding to Magicam; Vim vis may aid Magicam or Fortunam charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0483",
+   "magic-hedge-magic-revised::0490",
+   "magic-hedge-magic-revised::0523"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Hermetic Form that Salutem charms partially overlap.",
+  "evidence": [
+   "magic-hedge-magic-revised::0483",
+   "magic-hedge-magic-revised::0484",
+   "magic-hedge-magic-revised::0532"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Hermetic Form; Salutem charms cannot replicate all aspects of Animal magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0484",
+   "magic-hedge-magic-revised::0490"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Hermetic Form; Salutem may use Herbam vis.",
+  "evidence": [
+   "magic-hedge-magic-revised::0484",
+   "magic-hedge-magic-revised::0490"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Hermetic Form; Salutem may use Mentem vis; Succurro and Fortunam defend against Mentem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0490",
+   "magic-hedge-magic-revised::0511"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Hermetic Form; Tueor grants defense against Terram effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0490",
+   "magic-hedge-magic-revised::0511"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Hermetic Form whose vis may aid protective Salutem charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0490"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Hermetic Form whose vis may aid protective Salutem charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0490"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Hermetic Form whose vis may aid protective Salutem charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0490",
+   "magic-hedge-magic-revised::0524"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Concept",
+  "aliases": [
+   "carmen",
+   "carmina",
+   "curse"
+  ],
+  "description": "The spells of learned magicians, cast like Formulaic spells; called 'carmen' (plural carmina) in Latin; harmful ones are called curses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0482",
+   "magic-hedge-magic-revised::0485",
+   "magic-hedge-magic-revised::0486"
+  ]
+ },
+ {
+  "name": "Casting Score",
+  "type": "Concept",
+  "description": "Learned magician score: Hedge Technique + Hedge Form + Communication + Aura Modifier, used to cast charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0486"
+  ]
+ },
+ {
+  "name": "Formulary",
+  "type": "Item",
+  "aliases": [
+   "formularies"
+  ],
+  "description": "Large, poorly organized collection of hundreds or thousands of charms from which learned magicians may cast directly.",
+  "evidence": [
+   "magic-hedge-magic-revised::0487",
+   "magic-hedge-magic-revised::0488"
+  ]
+ },
+ {
+  "name": "Amulet",
+  "type": "Item",
+  "aliases": [
+   "amulets"
+  ],
+  "description": "Learned magician charged magical device taking a season to create, designed for a single subject and holding multiple charges.",
+  "evidence": [
+   "magic-hedge-magic-revised::0491",
+   "magic-hedge-magic-revised::0492",
+   "magic-hedge-magic-revised::0497"
+  ]
+ },
+ {
+  "name": "Charta",
+  "type": "Item",
+  "aliases": [
+   "chartae"
+  ],
+  "description": "Single-use learned magician device created quickly, whose single charge is expended upon creation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0491",
+   "magic-hedge-magic-revised::0492",
+   "magic-hedge-magic-revised::0493"
+  ]
+ },
+ {
+  "name": "Horoscope",
+  "type": "Concept",
+  "aliases": [
+   "nativity horoscope"
+  ],
+  "description": "Astronomical requirement for amulets and chartae; a daily horoscope adds +5 and a nativity horoscope +10 to Lab Total.",
+  "evidence": [
+   "magic-hedge-magic-revised::0493",
+   "magic-hedge-magic-revised::0495"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "description": "Raw magical power that learned magicians may use in casting charms but not study from.",
+  "evidence": [
+   "magic-hedge-magic-revised::0490",
+   "magic-hedge-magic-revised::0527"
+  ]
+ },
+ {
+  "name": "Laboratory Texts",
+  "type": "Concept",
+  "description": "Texts recording charms or devices; learned magicians write and copy charm lab texts much faster than Hermetic ones.",
+  "evidence": [
+   "magic-hedge-magic-revised::0499"
+  ]
+ },
+ {
+  "name": "Realm Interaction Effects",
+  "type": "Concept",
+  "description": "Negative aura effects on magic from other realms, which Entreat the Powers can mitigate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0501",
+   "magic-hedge-magic-revised::0502"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "description": "Realm-aligned area influence modifying casting and Lab Totals, e.g. Dominion 3 in Bologna.",
+  "evidence": [
+   "magic-hedge-magic-revised::0486",
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0504"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "description": "Divine aura; Bologna's streets have a Dominion aura of 3.",
+  "evidence": [
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0503",
+   "magic-hedge-magic-revised::0527"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that many charms must penetrate to affect a target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0481",
+   "magic-hedge-magic-revised::0513",
+   "magic-hedge-magic-revised::0530"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "description": "Ability of a magical effect to overcome Magic Resistance; Entreat the Powers cannot aid it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0497",
+   "magic-hedge-magic-revised::0527"
+  ]
+ },
+ {
+  "name": "Magic Defense",
+  "type": "Concept",
+  "description": "Defenses learned magicians receive against specific Hermetic Form effects from their Arts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0511"
+  ]
+ },
+ {
+  "name": "Alacritous Fortune",
+  "type": "Concept",
+  "aliases": [
+   "Charm of Alacritous Fortune"
+  ],
+  "description": "Magic Defense from Tueor granting defense vs Terram effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0511",
+   "magic-hedge-magic-revised::0524"
+  ]
+ },
+ {
+  "name": "Accelerated Expiry",
+  "type": "Concept",
+  "description": "Magic Defense from Succurro against Corpus or Mentem effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0511"
+  ]
+ },
+ {
+  "name": "Confounding Magics",
+  "type": "Concept",
+  "description": "Magic Defense from Vulnero, Fortunam and Magicam against Corpus, Mentem, or Vim effects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0511"
+  ]
+ },
+ {
+  "name": "Magical Fortitude",
+  "type": "Concept",
+  "description": "Magic Defense from Salutem against Corpus effects; also basis of Magical Fortitude charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0511",
+   "magic-hedge-magic-revised::0524"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [
+   "Initiation Script"
+  ],
+  "description": "Mystery process by which unGifted mathematici gain Arts, with Ease Factor, Script Bonus, Quests and Ordeals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0505",
+   "magic-hedge-magic-revised::0506",
+   "magic-hedge-magic-revised::0574"
+  ]
+ },
+ {
+  "name": "Ordeal",
+  "type": "Concept",
+  "description": "Part of an Initiation Script that imposes Flaws on the Initiate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0505",
+   "magic-hedge-magic-revised::0506",
+   "magic-hedge-magic-revised::0507"
+  ]
+ },
+ {
+  "name": "Botch",
+  "type": "Concept",
+  "description": "Disastrous failure; learned magician botches cause realm-specific problems and Warping.",
+  "evidence": [
+   "magic-hedge-magic-revised::0504",
+   "magic-hedge-magic-revised::0546",
+   "magic-hedge-magic-revised::0547"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [
+   "Warping Points",
+   "Warping Score"
+  ],
+  "description": "Magical corruption; learned magicians gain Warping Points from botches and may suffer interventions or abduction.",
+  "evidence": [
+   "magic-hedge-magic-revised::0547",
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0550"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Concept",
+  "description": "Confrontation by a powerful realm entity when a learned magician gains 2+ Warping Points from a botch; may yield boons or punishments.",
+  "evidence": [
+   "magic-hedge-magic-revised::0547",
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0549"
+  ]
+ },
+ {
+  "name": "Abduction",
+  "type": "Concept",
+  "description": "At Warping Score 7, a realm entity removes the magician to a regio or strips his magic, permanently at Warping Score 10.",
+  "evidence": [
+   "magic-hedge-magic-revised::0550"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "description": "Supernatural area aligned with a realm to which entities may abduct learned magicians.",
+  "evidence": [
+   "magic-hedge-magic-revised::0550"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "description": "Hermetic phenomenon whose botch dice Fortunam charms do not affect.",
+  "evidence": [
+   "magic-hedge-magic-revised::0514"
+  ]
+ },
+ {
+  "name": "Breakthrough",
+  "type": "Concept",
+  "description": "Result of integrating non-Hermetic magic into Hermetic theory; learned magicians' magic offers one.",
+  "evidence": [
+   "magic-hedge-magic-revised::0584",
+   "magic-hedge-magic-revised::0585",
+   "magic-hedge-magic-revised::0586"
+  ]
+ },
+ {
+  "name": "Insight",
+  "type": "Concept",
+  "description": "Research resource gained from hedge sources for Hermetic integration.",
+  "evidence": [
+   "magic-hedge-magic-revised::0554",
+   "magic-hedge-magic-revised::0563",
+   "magic-hedge-magic-revised::0585"
+  ]
+ },
+ {
+  "name": "Integration",
+  "type": "Concept",
+  "description": "Process by which a magus incorporates the learned magicians' magic into Hermetic magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0586",
+   "magic-hedge-magic-revised::0587"
+  ]
+ },
+ {
+  "name": "Single Cast Charged Items",
+  "type": "Concept",
+  "description": "Breakthrough (40 points) letting Hermetic magi quickly create single-use charged items from chartae techniques.",
+  "evidence": [
+   "magic-hedge-magic-revised::0585",
+   "magic-hedge-magic-revised::0586",
+   "magic-hedge-magic-revised::0587"
+  ]
+ },
+ {
+  "name": "Charged Item",
+  "type": "Item",
+  "aliases": [
+   "charged device"
+  ],
+  "description": "Magical device with a finite number of uses; amulets function as charged devices.",
+  "evidence": [
+   "magic-hedge-magic-revised::0492",
+   "magic-hedge-magic-revised::0581",
+   "magic-hedge-magic-revised::0586"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "description": "Hermetic protection whose benefits might lure learned magicians into the Order; its secrets must not leak.",
+  "evidence": [
+   "magic-hedge-magic-revised::0564"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "description": "Law of the Order; leaking Parma Magica would be a serious breach of it; also an Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0564"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "Organization of Hermetic magi, which may invite powerful mathematici to join.",
+  "evidence": [
+   "magic-hedge-magic-revised::0552",
+   "magic-hedge-magic-revised::0561",
+   "magic-hedge-magic-revised::0564"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators who visit covenants harboring Gifted mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0563"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "Supernatural talent for magic whose social effects hamper Gifted mathematici as teachers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0553",
+   "magic-hedge-magic-revised::0557",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "description": "Severe form of The Gift that would make a mathematicus incapable of recruiting students.",
+  "evidence": [
+   "magic-hedge-magic-revised::0553"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "description": "Formal end of apprenticeship, which the Mathematici lack.",
+  "evidence": [
+   "magic-hedge-magic-revised::0556"
+  ]
+ },
+ {
+  "name": "Covenant Boon",
+  "type": "Concept",
+  "description": "Covenant benefit, e.g. Mathematicus Ally.",
+  "evidence": [
+   "magic-hedge-magic-revised::0562"
+  ]
+ },
+ {
+  "name": "Mathematicus Ally",
+  "type": "Concept",
+  "description": "Minor Covenant Boon: a single mathematicus living near the covenant aids the magi.",
+  "evidence": [
+   "magic-hedge-magic-revised::0562"
+  ]
+ },
+ {
+  "name": "Mathematicus Resident",
+  "type": "Concept",
+  "description": "Minor Covenant Hook: one or more mathematici live in the covenant.",
+  "evidence": [
+   "magic-hedge-magic-revised::0563"
+  ]
+ },
+ {
+  "name": "Learned Magician",
+  "type": "CharacterType",
+  "aliases": [
+   "learned magicians",
+   "magician"
+  ],
+  "description": "Hedge wizard of the Mathematici type who casts charms and creates amulets and chartae.",
+  "evidence": [
+   "magic-hedge-magic-revised::0485",
+   "magic-hedge-magic-revised::0491",
+   "magic-hedge-magic-revised::0551"
+  ]
+ },
+ {
+  "name": "Mathematicus",
+  "type": "CharacterType",
+  "aliases": [
+   "mathematici"
+  ],
+  "description": "Member of the Mathematici; unGifted mathematici gain Arts through Initiations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0505",
+   "magic-hedge-magic-revised::0551",
+   "magic-hedge-magic-revised::0559"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge magician"
+  ],
+  "description": "Non-Hermetic magician; learned magicians are hedge wizards.",
+  "evidence": [
+   "magic-hedge-magic-revised::0495",
+   "magic-hedge-magic-revised::0579"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "Hermetic magi",
+   "magi"
+  ],
+  "description": "Hermetic magician of the Order of Hermes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0480",
+   "magic-hedge-magic-revised::0564",
+   "magic-hedge-magic-revised::0587"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "grogs"
+  ],
+  "description": "Covenant servants who might carry chartae or benefit from charged devices.",
+  "evidence": [
+   "magic-hedge-magic-revised::0543",
+   "magic-hedge-magic-revised::0587",
+   "magic-hedge-magic-revised::0595"
+  ]
+ },
+ {
+  "name": "Companion",
+  "type": "CharacterType",
+  "description": "Character type; nightwalkers are designed as conventional companions and mathematicus companions exist.",
+  "evidence": [
+   "magic-hedge-magic-revised::0505",
+   "magic-hedge-magic-revised::0590"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "description": "Powerful companion type; nightwalkers are not designed as such.",
+  "evidence": [
+   "magic-hedge-magic-revised::0590"
+  ]
+ },
+ {
+  "name": "Mathematici",
+  "type": "Faction",
+  "aliases": [
+   "Mathematici of Bologna"
+  ],
+  "description": "Learned magician tradition tied to the University of Bologna, founded by Giacomo about a century ago.",
+  "evidence": [
+   "magic-hedge-magic-revised::0551",
+   "magic-hedge-magic-revised::0552",
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "Guild of Masters",
+  "type": "Faction",
+  "aliases": [
+   "guild of the masters"
+  ],
+  "description": "Non-democratic masters' guild of the University of Bologna that decides who teaches.",
+  "evidence": [
+   "magic-hedge-magic-revised::0553",
+   "magic-hedge-magic-revised::0567"
+  ]
+ },
+ {
+  "name": "Mythic Alchemists",
+  "type": "Faction",
+  "aliases": [
+   "mythic alchemist"
+  ],
+  "description": "Alternate learned tradition that creates potions, powders and pastilles rather than charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0572",
+   "magic-hedge-magic-revised::0575",
+   "magic-hedge-magic-revised::0578"
+  ]
+ },
+ {
+  "name": "Cunning-Folk",
+  "type": "Faction",
+  "aliases": [
+   "cunning-folk"
+  ],
+  "description": "Rural, mostly unGifted magicians close to faeries who use charms to aid peasants.",
+  "evidence": [
+   "magic-hedge-magic-revised::0579",
+   "magic-hedge-magic-revised::0580",
+   "magic-hedge-magic-revised::0581"
+  ]
+ },
+ {
+  "name": "Nightwalkers",
+  "type": "Faction",
+  "aliases": [
+   "nightwalker"
+  ],
+  "description": "Un-Gifted folk magicians whose spirits stray while their bodies are insensible; several regional traditions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0588",
+   "magic-hedge-magic-revised::0590",
+   "magic-hedge-magic-revised::0591"
+  ]
+ },
+ {
+  "name": "Benandanti",
+  "type": "Faction",
+  "aliases": [
+   "benandanta"
+  ],
+  "description": "Nightwalker tradition first encountered by Roman-descended members of the Order.",
+  "evidence": [
+   "magic-hedge-magic-revised::0588",
+   "magic-hedge-magic-revised::0591"
+  ]
+ },
+ {
+  "name": "Hound of God",
+  "type": "Faction",
+  "description": "Regional nightwalker tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0591"
+  ]
+ },
+ {
+  "name": "Kresnik",
+  "type": "Faction",
+  "description": "Regional nightwalker tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0591"
+  ]
+ },
+ {
+  "name": "Kudlaki",
+  "type": "Faction",
+  "description": "Regional nightwalker tradition.",
+  "evidence": [
+   "magic-hedge-magic-revised::0591"
+  ]
+ },
+ {
+  "name": "Taltós",
+  "type": "Faction",
+  "description": "Regional nightwalker tradition whose candidates battle an elder taltós at initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0591",
+   "magic-hedge-magic-revised::0596"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "description": "Hermetic House; no nightwalker group has been powerful enough to be adopted into it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0588",
+   "magic-hedge-magic-revised::0589"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House whose Leadworker Virtue incorporates related defixio magic; its members speculate on sleepwalkers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0552",
+   "magic-hedge-magic-revised::0599"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House whose speculative magi note the sleepwalker class of hedge magicians.",
+  "evidence": [
+   "magic-hedge-magic-revised::0599"
+  ]
+ },
+ {
+  "name": "Leadworker",
+  "type": "Virtue",
+  "description": "House Tremere Virtue thought to incorporate the more powerful ancestral form of learned magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0552"
+  ]
+ },
+ {
+  "name": "Cartouche Magic",
+  "type": "Concept",
+  "description": "Magic of ancient Egypt believed ancestral to learned magicians' magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0552"
+  ]
+ },
+ {
+  "name": "Defixio Magic",
+  "type": "Concept",
+  "description": "Magic practiced by Roman chthonic cults, descended from cartouche magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0552"
+  ]
+ },
+ {
+  "name": "Alchemy",
+  "type": "Concept",
+  "description": "Occult science developed in ancient Egypt, recently revived in Mythic Europe via Arabic translations.",
+  "evidence": [
+   "magic-hedge-magic-revised::0573",
+   "magic-hedge-magic-revised::0574"
+  ]
+ },
+ {
+  "name": "Potion",
+  "type": "Item",
+  "description": "Mythic alchemist creation using amulet mechanics, usable by anyone, requiring vis per 5 levels.",
+  "evidence": [
+   "magic-hedge-magic-revised::0575",
+   "magic-hedge-magic-revised::0576"
+  ]
+ },
+ {
+  "name": "Powder",
+  "type": "Item",
+  "description": "Alchemical creation using charta mechanics without astrology.",
+  "evidence": [
+   "magic-hedge-magic-revised::0575"
+  ]
+ },
+ {
+  "name": "Pastille",
+  "type": "Item",
+  "description": "Small ignited lump of alchemical paste whose smoke carries magic to a Group target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0576"
+  ]
+ },
+ {
+  "name": "Arcane Experimentation",
+  "type": "Concept",
+  "description": "Rules all alchemical creations must use.",
+  "evidence": [
+   "magic-hedge-magic-revised::0575"
+  ]
+ },
+ {
+  "name": "Ekstasis",
+  "type": "Concept",
+  "aliases": [
+   "straying",
+   "stray"
+  ],
+  "description": "Hermetic term ('straying') for the nightwalker power of spirit travel.",
+  "evidence": [
+   "magic-hedge-magic-revised::0588"
+  ]
+ },
+ {
+  "name": "Phantasticum",
+  "type": "Concept",
+  "description": "The straying spirit of a nightwalker, which can take material form far from the body.",
+  "evidence": [
+   "magic-hedge-magic-revised::0588",
+   "magic-hedge-magic-revised::0592",
+   "magic-hedge-magic-revised::0599"
+  ]
+ },
+ {
+  "name": "Fertility Battle",
+  "type": "Concept",
+  "aliases": [
+   "fertility battles"
+  ],
+  "description": "Spirit battles nightwalkers fight in militias to protect their communities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0588",
+   "magic-hedge-magic-revised::0592",
+   "magic-hedge-magic-revised::0594"
+  ]
+ },
+ {
+  "name": "Hamr",
+  "type": "Concept",
+  "description": "Norse term for a corporeal phantasticum, an animal-shaped battle spirit of a trance warrior.",
+  "evidence": [
+   "magic-hedge-magic-revised::0597",
+   "magic-hedge-magic-revised::0598"
+  ]
+ },
+ {
+  "name": "Bamr",
+  "type": "Concept",
+  "description": "Hybrid, larger-than-human phantasticum form within which sleepwalkers are cloaked.",
+  "evidence": [
+   "magic-hedge-magic-revised::0599"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm of Power with which learned magicians' powers are aligned.",
+  "evidence": [
+   "magic-hedge-magic-revised::0501",
+   "magic-hedge-magic-revised::0503",
+   "magic-hedge-magic-revised::0546"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [
+   "Divine Realm"
+  ],
+  "description": "Realm of Power; angels may be invoked; Divine entities rarely abduct.",
+  "evidence": [
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0550",
+   "magic-hedge-magic-revised::0560"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "Faerie realm"
+  ],
+  "description": "Realm of Power; cunning-folk revere faeries.",
+  "evidence": [
+   "magic-hedge-magic-revised::0501",
+   "magic-hedge-magic-revised::0504",
+   "magic-hedge-magic-revised::0580"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "description": "Realm of Power; its powers may masquerade as other realms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0504",
+   "magic-hedge-magic-revised::0550",
+   "magic-hedge-magic-revised::0560"
+  ]
+ },
+ {
+  "name": "Angel",
+  "type": "Creature",
+  "description": "Divine beings invoked by learned magicians; one pesters Marco.",
+  "evidence": [
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0560",
+   "magic-hedge-magic-revised::0570"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "description": "Infernal beings; Magicam charms can blunt their attacks but not control or harm them.",
+  "evidence": [
+   "magic-hedge-magic-revised::0480",
+   "magic-hedge-magic-revised::0523"
+  ]
+ },
+ {
+  "name": "Faerie Wolf",
+  "type": "Creature",
+  "aliases": [
+   "Faerie wolves"
+  ],
+  "description": "Example of a creature whose claws a Tueor Salutem charm would protect against.",
+  "evidence": [
+   "magic-hedge-magic-revised::0481"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "description": "Spirits of the dead; a slain hamr becomes an unusual ghost.",
+  "evidence": [
+   "magic-hedge-magic-revised::0569",
+   "magic-hedge-magic-revised::0593",
+   "magic-hedge-magic-revised::0597"
+  ]
+ },
+ {
+  "name": "Aging Crisis",
+  "type": "Concept",
+  "description": "Aging event which Succurro Salutem effects can resolve.",
+  "evidence": [
+   "magic-hedge-magic-revised::0538"
+  ]
+ },
+ {
+  "name": "Living Conditions",
+  "type": "Concept",
+  "description": "Modifier to aging that Succurro Salutem effects improve.",
+  "evidence": [
+   "magic-hedge-magic-revised::0537",
+   "magic-hedge-magic-revised::0539"
+  ]
+ },
+ {
+  "name": "Quotidian Fever",
+  "type": "Concept",
+  "description": "Serious disease inflicted by the Curse of Quotidian Fever.",
+  "evidence": [
+   "magic-hedge-magic-revised::0541"
+  ]
+ },
+ {
+  "name": "Purgatory",
+  "type": "Concept",
+  "description": "Afterlife state studied by Marco at an angel's urging.",
+  "evidence": [
+   "magic-hedge-magic-revised::0570"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "Link needed for a half taltós's new weapon to harm spirits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0596"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Supernatural ability to see spirits; nightwalkers gain it in phantastic form; also a Virtue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0592",
+   "magic-hedge-magic-revised::0596",
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Entreat the Powers",
+  "type": "Virtue",
+  "aliases": [
+   "Entreat the (Realm) Powers"
+  ],
+  "description": "Lets a magician invoke realm powers to offset negative aura effects on charms and devices.",
+  "evidence": [
+   "magic-hedge-magic-revised::0501",
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0503"
+  ]
+ },
+ {
+  "name": "Entreat the Divine Powers",
+  "type": "Virtue",
+  "description": "Minor Virtue gained via Initiation, invoking Divine powers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0510"
+  ]
+ },
+ {
+  "name": "Entreat the Faerie Powers",
+  "type": "Virtue",
+  "description": "Required Virtue for cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0579"
+  ]
+ },
+ {
+  "name": "Quiet Magic",
+  "type": "Virtue",
+  "description": "Cannot be used with Entreat the Powers.",
+  "evidence": [
+   "magic-hedge-magic-revised::0501"
+  ]
+ },
+ {
+  "name": "Venus' Blessing",
+  "type": "Virtue",
+  "description": "Virtue granting +3 to Communication and Presence rolls with compatible characters.",
+  "evidence": [
+   "magic-hedge-magic-revised::0518"
+  ]
+ },
+ {
+  "name": "Luck",
+  "type": "Virtue",
+  "description": "Virtue whose bonus Fortunam charms can emulate.",
+  "evidence": [
+   "magic-hedge-magic-revised::0517",
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Good Teacher",
+  "type": "Virtue",
+  "description": "Virtue granted by Gift of Prometheus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Virtue",
+  "description": "Virtue granted by Gift of Mars.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Lightning Reflexes",
+  "type": "Virtue",
+  "description": "Virtue granted by Gift of Mercury.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "description": "Virtue granted by Gift of Hercules.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Strong-Willed",
+  "type": "Virtue",
+  "description": "Virtue granted by Gift of Hera.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "description": "Virtue granted by Gift of Apollo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Common Sense",
+  "type": "Virtue",
+  "description": "Virtue granted by Gift of Minerva.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "description": "Virtue whose guidelines define broad categories for Tueor Salutem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0533"
+  ]
+ },
+ {
+  "name": "Lesser Immunity",
+  "type": "Virtue",
+  "description": "Virtue whose guidelines define narrow categories for Tueor Salutem.",
+  "evidence": [
+   "magic-hedge-magic-revised::0533"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "description": "Virtue providing Soak, cumulative with Achilles' Bane charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0535"
+  ]
+ },
+ {
+  "name": "Student of (Realm)",
+  "type": "Virtue",
+  "aliases": [
+   "Student of the Divine",
+   "Student of Faerie Realm"
+  ],
+  "description": "Boon Virtue an appeased realm entity may grant.",
+  "evidence": [
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0549",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "description": "Virtue giving 50 xp in Arcane Abilities; recommended for Hermetic learned magicians.",
+  "evidence": [
+   "magic-hedge-magic-revised::0564",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Magister in Artibus",
+  "type": "Virtue",
+  "description": "Virtue held by Stefano the Master.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Mathematicus of Bologna",
+  "type": "Virtue",
+  "description": "Tradition Virtue held by Stefano and Marco.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Affinity with Divine Lore",
+  "type": "Virtue",
+  "description": "Virtue held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Book Learner",
+  "type": "Virtue",
+  "description": "Virtue held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Educated",
+  "type": "Virtue",
+  "description": "Virtue held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Great Intelligence",
+  "type": "Virtue",
+  "description": "Virtue held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "description": "Virtue held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Skilled Master",
+  "type": "Virtue",
+  "description": "Virtue held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Priest",
+  "type": "Virtue",
+  "description": "Social status Virtue held by Marco the Student.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Strong Amulet Magic",
+  "type": "Virtue",
+  "description": "Virtue held by Marco the Student.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Relic",
+  "type": "Virtue",
+  "description": "Virtue held by Marco, who owns a finger bone of Saint Odilo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Virtue",
+  "description": "Virtue and Ability held by Marco.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "description": "Virtue held by Marco (minor clergy).",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Well-Traveled",
+  "type": "Virtue",
+  "description": "Virtue held by Marco.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Mythic Alchemy",
+  "type": "Virtue",
+  "description": "Required Virtue of mythic alchemists; their lab assistants need it too.",
+  "evidence": [
+   "magic-hedge-magic-revised::0572",
+   "magic-hedge-magic-revised::0576"
+  ]
+ },
+ {
+  "name": "Laboratory Magician",
+  "type": "Virtue",
+  "description": "Required Virtue for mythic alchemists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0572"
+  ]
+ },
+ {
+  "name": "Mythic Herbalism",
+  "type": "Virtue",
+  "description": "Required for cunning-folk and an ability of mythic alchemists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0572",
+   "magic-hedge-magic-revised::0579"
+  ]
+ },
+ {
+  "name": "Natural Magician",
+  "type": "Virtue",
+  "description": "Ability/Virtue of mythic alchemists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0572"
+  ]
+ },
+ {
+  "name": "Purifying Touch",
+  "type": "Virtue",
+  "description": "Ability of cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0579"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "description": "Ability of cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0579"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Virtue",
+  "description": "Social Status usually possessed by cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "description": "Appropriate Virtue for cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "description": "Appropriate Virtue for cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Faerie Friend",
+  "type": "Virtue",
+  "description": "Appropriate Virtue for cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Virtue",
+  "description": "Appropriate Virtue/Flaw for cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Quick Charged Items",
+  "type": "Virtue",
+  "description": "Minor Hermetic Virtue letting a magus create single-use charged items in one hour per magnitude.",
+  "evidence": [
+   "magic-hedge-magic-revised::0581",
+   "magic-hedge-magic-revised::0582"
+  ]
+ },
+ {
+  "name": "Nightwalker",
+  "type": "Virtue",
+  "description": "Major Supernatural Virtue letting a character stray and generate a phantasticum, with many powers and duties.",
+  "evidence": [
+   "magic-hedge-magic-revised::0591",
+   "magic-hedge-magic-revised::0592",
+   "magic-hedge-magic-revised::0593"
+  ]
+ },
+ {
+  "name": "Versatile Phantasticum",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue letting nightwalkers fight in animal or elemental form outside fertility battles.",
+  "evidence": [
+   "magic-hedge-magic-revised::0594"
+  ]
+ },
+ {
+  "name": "Half Taltós",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue of a failed taltós candidate, granting limited Second Sight and spirit-harming weapons.",
+  "evidence": [
+   "magic-hedge-magic-revised::0596"
+  ]
+ },
+ {
+  "name": "Hamr Virtue",
+  "type": "Virtue",
+  "aliases": [
+   "Hvar",
+   "Hamr"
+  ],
+  "description": "Minor Supernatural Virtue letting a warrior in trance send forth his hamr in animal shape.",
+  "evidence": [
+   "magic-hedge-magic-revised::0597",
+   "magic-hedge-magic-revised::0598"
+  ]
+ },
+ {
+  "name": "Sleepwalker",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue: magician cloaked within a bamr rather than straying.",
+  "evidence": [
+   "magic-hedge-magic-revised::0599"
+  ]
+ },
+ {
+  "name": "Short-Ranged Magic",
+  "type": "Flaw",
+  "description": "Major Flaw imposed by the Tueor Initiation Ordeal.",
+  "evidence": [
+   "magic-hedge-magic-revised::0506",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Short-Lived Magic",
+  "type": "Flaw",
+  "description": "Minor Flaw imposed by the Tueor Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0506",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Careless Sorcerer",
+  "type": "Flaw",
+  "description": "Minor Flaw imposed by the Fortunam Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0507"
+  ]
+ },
+ {
+  "name": "Weird Magic",
+  "type": "Flaw",
+  "description": "Minor Flaw from the Fortunam Initiation or intervention punishment.",
+  "evidence": [
+   "magic-hedge-magic-revised::0507",
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0549"
+  ]
+ },
+ {
+  "name": "Weak Magic",
+  "type": "Flaw",
+  "description": "Minor Flaw from the Magicam Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0508",
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Warped Magic",
+  "type": "Flaw",
+  "description": "Minor Flaw from the Magicam Initiation or intervention punishment.",
+  "evidence": [
+   "magic-hedge-magic-revised::0508",
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "No Magic Defenses",
+  "type": "Flaw",
+  "description": "Minor Flaw from the Salutem Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0509",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Incompatible Hedge Arts",
+  "type": "Flaw",
+  "description": "Minor Flaw (e.g. Vulnero and Salutem) from the Salutem Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0509",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Intervention Prone",
+  "type": "Flaw",
+  "description": "Major Flaw from the Entreat the Divine Powers Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0510",
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Susceptibility to (Realm) Power",
+  "type": "Flaw",
+  "aliases": [
+   "Susceptibility to Infernal Power"
+  ],
+  "description": "Flaw punishment tied to the realm of the botch.",
+  "evidence": [
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0549",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Deleterious Circumstances",
+  "type": "Flaw",
+  "description": "Flaw limiting charm casting in a realm, or e.g. wilderness.",
+  "evidence": [
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0549",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Plagued by Supernatural Entity",
+  "type": "Flaw",
+  "aliases": [
+   "Plagued by Angel"
+  ],
+  "description": "Flaw punishment tied to the realm of the botch.",
+  "evidence": [
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0549",
+   "magic-hedge-magic-revised::0550"
+  ]
+ },
+ {
+  "name": "Hedge Wizard (Flaw)",
+  "type": "Flaw",
+  "description": "Flaw a nominally Hermetic learned magician should take.",
+  "evidence": [
+   "magic-hedge-magic-revised::0564"
+  ]
+ },
+ {
+  "name": "Driven",
+  "type": "Flaw",
+  "description": "Flaw held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Dependent",
+  "type": "Flaw",
+  "description": "Flaw held by Stefano (his sister).",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Poor Eyesight",
+  "type": "Flaw",
+  "description": "Flaw held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Compassionate",
+  "type": "Flaw",
+  "description": "Flaw held by Marco.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Fragile Constitution",
+  "type": "Flaw",
+  "description": "Flaw held by Marco.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Social Handicap",
+  "type": "Flaw",
+  "description": "Flaw held by Marco (sickly).",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Vow",
+  "type": "Flaw",
+  "description": "Flaw held by Marco (celibacy).",
+  "evidence": [
+   "magic-hedge-magic-revised::0568"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "description": "Flaw a nightwalker has while in phantastic form.",
+  "evidence": [
+   "magic-hedge-magic-revised::0593"
+  ]
+ },
+ {
+  "name": "No Text Casting",
+  "type": "Flaw",
+  "description": "Required Flaw for mythic alchemists.",
+  "evidence": [
+   "magic-hedge-magic-revised::0572"
+  ]
+ },
+ {
+  "name": "Communication",
+  "type": "Ability",
+  "description": "Characteristic in Casting Score.",
+  "evidence": [
+   "magic-hedge-magic-revised::0486"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "description": "Ability used in amulet/charta Lab Total and horoscopes (astronomy).",
+  "evidence": [
+   "magic-hedge-magic-revised::0492",
+   "magic-hedge-magic-revised::0495",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability tested for Tueor Initiation; used by alchemists instead of Artes Liberales.",
+  "evidence": [
+   "magic-hedge-magic-revised::0506",
+   "magic-hedge-magic-revised::0575"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "description": "Ability tested for Fortunam Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0507",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Ability tested for Magicam Initiation and to detect curses.",
+  "evidence": [
+   "magic-hedge-magic-revised::0508",
+   "magic-hedge-magic-revised::0520",
+   "magic-hedge-magic-revised::0564"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "description": "Ability tested for Salutem Initiation.",
+  "evidence": [
+   "magic-hedge-magic-revised::0509",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Divine Lore",
+  "type": "Ability",
+  "aliases": [
+   "(Realm) Lore"
+  ],
+  "description": "Ability tested for Entreat the Divine Powers; (Realm) Lore feeds Entreat total.",
+  "evidence": [
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0510",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "description": "Ability; learned by cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "description": "Ability held by Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Language",
+  "type": "Ability",
+  "description": "Ability used to find charms in formularies and write lab texts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0487",
+   "magic-hedge-magic-revised::0499"
+  ]
+ },
+ {
+  "name": "Profession (Scribe)",
+  "type": "Ability",
+  "description": "Ability used to copy lab texts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0499",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "description": "Ability used to avoid interventions and resist coughing fits.",
+  "evidence": [
+   "magic-hedge-magic-revised::0541",
+   "magic-hedge-magic-revised::0548",
+   "magic-hedge-magic-revised::0592"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "description": "Martial Ability affected by Grant Fortuna Belli.",
+  "evidence": [
+   "magic-hedge-magic-revised::0515",
+   "magic-hedge-magic-revised::0516"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "description": "Martial Ability affected by Charm Against Capriciousness.",
+  "evidence": [
+   "magic-hedge-magic-revised::0516"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "description": "Martial Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0566",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Hex",
+  "type": "Ability",
+  "description": "Infernal Supernatural Ability against which Charm Against the Hex protects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0525",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Ability",
+  "description": "Supernatural Ability against which a charm protects.",
+  "evidence": [
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Bologna Lore",
+  "type": "Ability",
+  "description": "Area Lore ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Charm (Ability)",
+  "type": "Ability",
+  "description": "Social Ability used in epistolary relationships.",
+  "evidence": [
+   "magic-hedge-magic-revised::0557",
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "description": "Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "description": "Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "description": "Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability; cunning-folk learn it.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Lore of the Mathematici",
+  "type": "Ability",
+  "description": "Organization Lore ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "description": "Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "description": "Language Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0569",
+   "magic-hedge-magic-revised::0581"
+  ]
+ },
+ {
+  "name": "Italian",
+  "type": "Ability",
+  "description": "Language Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Arabic",
+  "type": "Ability",
+  "description": "Language Ability giving access to Moorish alchemical texts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0578"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Craft: Charm",
+  "type": "Ability",
+  "description": "Ability cunning-folk substitute for Artes Liberales in Lab Totals.",
+  "evidence": [
+   "magic-hedge-magic-revised::0581",
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "description": "Ability often learned by cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Herbalism",
+  "type": "Ability",
+  "description": "Ability often learned by cunning-folk.",
+  "evidence": [
+   "magic-hedge-magic-revised::0583"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "description": "Ability; replaced by Mythic Alchemy or Craft: Charm for lab assistance.",
+  "evidence": [
+   "magic-hedge-magic-revised::0564",
+   "magic-hedge-magic-revised::0576",
+   "magic-hedge-magic-revised::0581"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "description": "Ability; texts on it traded by a mathematicus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0564"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "description": "Ability used for half taltós ritual fatigue.",
+  "evidence": [
+   "magic-hedge-magic-revised::0596"
+  ]
+ },
+ {
+  "name": "Circular Ward Against Demons",
+  "type": "Spell",
+  "description": "Rego Vim spell protecting against all demon attacks.",
+  "evidence": [
+   "magic-hedge-magic-revised::0480",
+   "magic-hedge-magic-revised::0481"
+  ]
+ },
+ {
+  "name": "Chirurgeon's Healing Touch",
+  "type": "Spell",
+  "description": "Hermetic spell that can heal various wounds addressed by separate charms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0488"
+  ]
+ },
+ {
+  "name": "Stay the Fickle Hand of Fate",
+  "type": "Spell",
+  "description": "TuFa 5 charm preventing random mishaps from selecting the target.",
+  "evidence": [
+   "magic-hedge-magic-revised::0515"
+  ]
+ },
+ {
+  "name": "Grant Fortuna Belli",
+  "type": "Spell",
+  "description": "TuFa 15 charm making combatants re-roll non-positive Attack Advantage for a Martial Ability.",
+  "evidence": [
+   "magic-hedge-magic-revised::0515",
+   "magic-hedge-magic-revised::0516",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Charm Against Capriciousness",
+  "type": "Spell",
+  "description": "TuFa 20 charm treating stress rolls for Great Weapon as simple rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0516",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Fortune Favors the Bold",
+  "type": "Spell",
+  "description": "SuFa 5 charm giving +2 to luck-based rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0518"
+  ]
+ },
+ {
+  "name": "Gift of Venus",
+  "type": "Spell",
+  "aliases": [
+   "Venus' Blessing charm"
+  ],
+  "description": "SuFa 25 charm granting Venus' Blessing; others in the Gift of [God] series exist.",
+  "evidence": [
+   "magic-hedge-magic-revised::0518",
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Gift of Prometheus",
+  "type": "Spell",
+  "description": "Gift of [God] charm granting Good Teacher; Stefano casts it before lectures.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519",
+   "magic-hedge-magic-revised::0566",
+   "magic-hedge-magic-revised::0567"
+  ]
+ },
+ {
+  "name": "Charm of Quickness",
+  "type": "Spell",
+  "aliases": [
+   "Charm of Communication",
+   "Charm of Stamina"
+  ],
+  "description": "SuFa 20 charm improving luck with Quickness; exists for each Characteristic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Curse of Fortuna",
+  "type": "Spell",
+  "description": "VuFa 20 curse adding a botch die and minor misfortunes.",
+  "evidence": [
+   "magic-hedge-magic-revised::0521"
+  ]
+ },
+ {
+  "name": "Dispel Fortuna Belli",
+  "type": "Spell",
+  "description": "VuFa 5 curse forcing re-rolls of positive Attack Advantage.",
+  "evidence": [
+   "magic-hedge-magic-revised::0521",
+   "magic-hedge-magic-revised::0522",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Curse of Weakness",
+  "type": "Spell",
+  "description": "VuFa 25 curse giving -1 to Strength rolls.",
+  "evidence": [
+   "magic-hedge-magic-revised::0522"
+  ]
+ },
+ {
+  "name": "Magical Fortitude Charm Against Lightning",
+  "type": "Spell",
+  "aliases": [
+   "Magical Fortitude Charm"
+  ],
+  "description": "TuMa 5 charm adding +8 Soak vs magical lightning.",
+  "evidence": [
+   "magic-hedge-magic-revised::0524",
+   "magic-hedge-magic-revised::0566",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Charm of Alacritous Fortune Against Earth",
+  "type": "Spell",
+  "description": "TuMa 10 charm adding +4 Defense vs magical earth attacks.",
+  "evidence": [
+   "magic-hedge-magic-revised::0524",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Charm Against the Hex",
+  "type": "Spell",
+  "description": "TuMa 10 charm raising Hex Ease Factor by +9.",
+  "evidence": [
+   "magic-hedge-magic-revised::0524",
+   "magic-hedge-magic-revised::0525",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Magician's Boost",
+  "type": "Spell",
+  "description": "SuMa general charm increasing a just-cast charm by 5 levels.",
+  "evidence": [
+   "magic-hedge-magic-revised::0528"
+  ]
+ },
+ {
+  "name": "Revive the Fading Amulet",
+  "type": "Spell",
+  "description": "SuMa general charm adding one charge to one's own amulet.",
+  "evidence": [
+   "magic-hedge-magic-revised::0528",
+   "magic-hedge-magic-revised::0529"
+  ]
+ },
+ {
+  "name": "Magician's Second Wind",
+  "type": "Spell",
+  "description": "SuMa general charm increasing a charm's Duration (or Range/Target) by one.",
+  "evidence": [
+   "magic-hedge-magic-revised::0529"
+  ]
+ },
+ {
+  "name": "Stifle the Lengthy Sickness",
+  "type": "Spell",
+  "description": "VuMa general charm reducing the Duration of a disease-causing magical effect.",
+  "evidence": [
+   "magic-hedge-magic-revised::0530",
+   "magic-hedge-magic-revised::0531"
+  ]
+ },
+ {
+  "name": "Charm of Protection Against the Faerie",
+  "type": "Spell",
+  "aliases": [
+   "Charm of Protection against the Infernal"
+  ],
+  "description": "VuMa general charm warding against Faerie creatures of lower Might; versions for other realms.",
+  "evidence": [
+   "magic-hedge-magic-revised::0531",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Charm of Protection Against the Attacks of Semita Errabunda",
+  "type": "Spell",
+  "description": "TuSa 15 charm giving +4 Defense vs nonmagical attacks by Semita Errabunda residents.",
+  "evidence": [
+   "magic-hedge-magic-revised::0535"
+  ]
+ },
+ {
+  "name": "Charm of Protection Against Achilles' Bane",
+  "type": "Spell",
+  "description": "TuSa 5 charm adding +8 Soak vs non-magical arrows; versions for other weapons.",
+  "evidence": [
+   "magic-hedge-magic-revised::0535",
+   "magic-hedge-magic-revised::0566",
+   "magic-hedge-magic-revised::0569"
+  ]
+ },
+ {
+  "name": "Charm of Warding Against Unwanted Pests",
+  "type": "Spell",
+  "description": "TuSa 5 charm keeping pests away from the recipient.",
+  "evidence": [
+   "magic-hedge-magic-revised::0536"
+  ]
+ },
+ {
+  "name": "Curse of Coughing Fits",
+  "type": "Spell",
+  "description": "VuSa 10 curse causing uncontrollable coughing.",
+  "evidence": [
+   "magic-hedge-magic-revised::0540",
+   "magic-hedge-magic-revised::0541",
+   "magic-hedge-magic-revised::0566"
+  ]
+ },
+ {
+  "name": "Curse of Quotidian Fever",
+  "type": "Spell",
+  "description": "VuSa 25 curse inflicting quotidian fever.",
+  "evidence": [
+   "magic-hedge-magic-revised::0541"
+  ]
+ },
+ {
+  "name": "Curse of the Aged Swordsman",
+  "type": "Spell",
+  "description": "VuSa 15 curse causing hand cramping, -2 to affected activities.",
+  "evidence": [
+   "magic-hedge-magic-revised::0541"
+  ]
+ },
+ {
+  "name": "Amulet for an Ample Harvest",
+  "type": "Item",
+  "description": "SuSa 20 amulet with 2 charges protecting a field's crops, buried from Vernal to Autumnal Equinox.",
+  "evidence": [
+   "magic-hedge-magic-revised::0538",
+   "magic-hedge-magic-revised::0539"
+  ]
+ },
+ {
+  "name": "Charta for Healing a Broken Limb",
+  "type": "Item",
+  "description": "SuSa 4 charta giving +6 to Recovery rolls for a broken limb.",
+  "evidence": [
+   "magic-hedge-magic-revised::0538",
+   "magic-hedge-magic-revised::0539"
+  ]
+ },
+ {
+  "name": "Amulet of Longevity",
+  "type": "Item",
+  "description": "SuSa 5 amulet with 4 charges giving +2 Living Conditions.",
+  "evidence": [
+   "magic-hedge-magic-revised::0539"
+  ]
+ },
+ {
+  "name": "Finger Bone of Saint Odilo",
+  "type": "Item",
+  "description": "Relic acquired by Marco the Student.",
+  "evidence": [
+   "magic-hedge-magic-revised::0570"
+  ]
+ },
+ {
+  "name": "Liber de Compositione Alchemiae",
+  "type": "Item",
+  "description": "Morienus Romanus' alchemical work, translated into Latin by Robert of Chester in 1144.",
+  "evidence": [
+   "magic-hedge-magic-revised::0573"
+  ]
+ },
+ {
+  "name": "Giacomo",
+  "type": "Character",
+  "description": "Accomplished Bologna scholar who joined the First Crusade in 1096, found Greek formularies and founded the Mathematici; also used in rules examples.",
+  "evidence": [
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0503",
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "Stefano the Master",
+  "type": "Character",
+  "aliases": [
+   "Stefano",
+   "Stephano"
+  ],
+  "description": "Gifted mathematicus and master at Bologna, born in Rome to a jurist, specializing in Fortunam.",
+  "evidence": [
+   "magic-hedge-magic-revised::0564",
+   "magic-hedge-magic-revised::0565",
+   "magic-hedge-magic-revised::0567"
+  ]
+ },
+ {
+  "name": "Marco the Student",
+  "type": "Character",
+  "aliases": [
+   "Marco"
+  ],
+  "description": "Priest and unGifted mathematicus pestered by a purported angel, owning a relic of Saint Odilo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0568",
+   "magic-hedge-magic-revised::0569",
+   "magic-hedge-magic-revised::0570"
+  ]
+ },
+ {
+  "name": "Saint Odilo",
+  "type": "Character",
+  "description": "Patron saint of souls in purgatory.",
+  "evidence": [
+   "magic-hedge-magic-revised::0570"
+  ]
+ },
+ {
+  "name": "Robert of Chester",
+  "type": "Character",
+  "description": "Translated the Liber de Compositione Alchemiae into Latin in 1144.",
+  "evidence": [
+   "magic-hedge-magic-revised::0573"
+  ]
+ },
+ {
+  "name": "Morienus Romanus",
+  "type": "Character",
+  "description": "Author of Liber de Compositione Alchemiae.",
+  "evidence": [
+   "magic-hedge-magic-revised::0573"
+  ]
+ },
+ {
+  "name": "Boðvar Bjarki",
+  "type": "Character",
+  "description": "Norse folk hero whose hamr took the shape of a great white bear in battle.",
+  "evidence": [
+   "magic-hedge-magic-revised::0597"
+  ]
+ },
+ {
+  "name": "Prometheus",
+  "type": "Character",
+  "description": "Mythic figure invoked in Gift of Prometheus (Good Teacher).",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Venus",
+  "type": "Character",
+  "description": "Goddess invoked in Gift of Venus.",
+  "evidence": [
+   "magic-hedge-magic-revised::0518"
+  ]
+ },
+ {
+  "name": "Mars",
+  "type": "Character",
+  "description": "God invoked in a Gift charm (Berserk).",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "description": "God invoked in a Gift charm (Lightning Reflexes).",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Hercules",
+  "type": "Character",
+  "description": "Hero invoked in a Gift charm (Reserves of Strength).",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Hera",
+  "type": "Character",
+  "description": "Goddess invoked in a Gift charm (Strong-Willed).",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Fortuna",
+  "type": "Character",
+  "description": "Goddess of luck invoked in Gift charms and the Curse of Fortuna.",
+  "evidence": [
+   "magic-hedge-magic-revised::0519",
+   "magic-hedge-magic-revised::0521"
+  ]
+ },
+ {
+  "name": "Apollo",
+  "type": "Character",
+  "description": "God invoked in a Gift charm (Free Expression).",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Minerva",
+  "type": "Character",
+  "description": "Goddess invoked in a Gift charm (Common Sense).",
+  "evidence": [
+   "magic-hedge-magic-revised::0519"
+  ]
+ },
+ {
+  "name": "Bologna",
+  "type": "Place",
+  "description": "City in northern Italy, home to a great university and the Mathematici; Dominion aura 3.",
+  "evidence": [
+   "magic-hedge-magic-revised::0502",
+   "magic-hedge-magic-revised::0553",
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "University of Bologna",
+  "type": "Place",
+  "description": "Great student-run university of ~6,000 students with Faculties of Law and of Arts and Medicine; home of the Mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0551",
+   "magic-hedge-magic-revised::0553",
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "San Pietro",
+  "type": "Place",
+  "description": "Cathedral in Bologna around which university instruction occurs; some clergy join the Mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0553",
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The setting.",
+  "evidence": [
+   "magic-hedge-magic-revised::0551",
+   "magic-hedge-magic-revised::0559",
+   "magic-hedge-magic-revised::0573"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Where Giacomo discovered Greek charm texts during the First Crusade.",
+  "evidence": [
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "description": "Birthplace of Stefano.",
+  "evidence": [
+   "magic-hedge-magic-revised::0567"
+  ]
+ },
+ {
+  "name": "Egypt",
+  "type": "Place",
+  "description": "Ancient source of cartouche magic and alchemy.",
+  "evidence": [
+   "magic-hedge-magic-revised::0552",
+   "magic-hedge-magic-revised::0554",
+   "magic-hedge-magic-revised::0573"
+  ]
+ },
+ {
+  "name": "Oxford",
+  "type": "Place",
+  "description": "University town suitable for Mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0571"
+  ]
+ },
+ {
+  "name": "Cambridge",
+  "type": "Place",
+  "description": "University town suitable for Mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0571"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "description": "University town suitable for Mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0571"
+  ]
+ },
+ {
+  "name": "Montpellier",
+  "type": "Place",
+  "description": "University town suitable for Mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0571"
+  ]
+ },
+ {
+  "name": "Salamanca",
+  "type": "Place",
+  "description": "University town suitable for Mathematici.",
+  "evidence": [
+   "magic-hedge-magic-revised::0571"
+  ]
+ },
+ {
+  "name": "Iberian Peninsula",
+  "type": "Place",
+  "description": "Region where mythic alchemists study Arabic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0578"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "description": "Where Giacomo returned with texts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0553",
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "Semita Errabunda",
+  "type": "Covenant",
+  "description": "Covenant whose members' non-magical attacks are defended against by a specific Tueor Salutem charm.",
+  "evidence": [
+   "magic-hedge-magic-revised::0535"
+  ]
+ },
+ {
+  "name": "First Crusade",
+  "type": "Concept",
+  "description": "Crusade of 1096 joined by Giacomo.",
+  "evidence": [
+   "magic-hedge-magic-revised::0555"
+  ]
+ },
+ {
+  "name": "Roman Empire",
+  "type": "Faction",
+  "description": "Ancient empire whose chthonic cults practiced defixio magic.",
+  "evidence": [
+   "magic-hedge-magic-revised::0552",
+   "magic-hedge-magic-revised::0573"
+  ]
+ },
+ {
+  "name": "Moors",
+  "type": "Faction",
+  "description": "Moorish lands where Giacomo met charm casters; they hold alchemical texts.",
+  "evidence": [
+   "magic-hedge-magic-revised::0555",
+   "magic-hedge-magic-revised::0578"
+  ]
+ }
+]

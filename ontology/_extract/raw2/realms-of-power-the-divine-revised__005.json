@@ -1,0 +1,2378 @@
+[
+ {
+  "name": "'Alim",
+  "type": "Virtue",
+  "aliases": [
+   "Alim"
+  ],
+  "description": "Minor Social Status Virtue for members of the Muslim religious elite, such as mu'adhdhin, imam, mufti or qadi; allows purchase of Academic Abilities and is male-only.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0601",
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0625"
+  ]
+ },
+ {
+  "name": "Bureaucrat",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for a member of the Muslim civil administration, such as a katib or watha'iqi; allows Academic Abilities.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0601",
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0622"
+  ]
+ },
+ {
+  "name": "Educated (Islamic)",
+  "type": "Virtue",
+  "description": "Minor General Virtue for characters educated in a mosque or Qur'an school, granting 50 experience points in Arabic, Persian, Greek, Latin, Theology: Islam, Islamic Law and Artes Liberales.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0602",
+   "realms-of-power-the-divine-revised::0600"
+  ]
+ },
+ {
+  "name": "Emir",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue equivalent to Knight for Muslim nobles, who are also likely skilled in hunting, religious teaching and culture.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0603",
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0626"
+  ]
+ },
+ {
+  "name": "Mamluk",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue for a former military slave trained at a military school, educated in Islam and freed at adulthood; grants Martial Abilities and Theology: Islam.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0604",
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0623"
+  ]
+ },
+ {
+  "name": "Muqta'",
+  "type": "Virtue",
+  "aliases": [
+   "Muqta"
+  ],
+  "description": "Major Social Status Virtue for an important emir entrusted with an iqta' (a fief); follows the Landed Noble rules.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0605",
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0626"
+  ]
+ },
+ {
+  "name": "Sufi",
+  "type": "Virtue",
+  "description": "Minor Social Status or Supernatural Virtue for a Muslim mystic belonging to a Sufi tariqa led by a shaykh; includes the Mentor Flaw and access to Theology: Islam, Islamic Law and Dominion Lore.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0606",
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0630"
+  ]
+ },
+ {
+  "name": "Dhimmi",
+  "type": "Flaw",
+  "description": "Minor General Flaw for a non-Muslim living under Muslim rule who must pay the jizya head tax and abide by social restrictions in return for protection.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0607",
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0622"
+  ]
+ },
+ {
+  "name": "Eunuch",
+  "type": "Flaw",
+  "description": "Minor General Flaw for a castrated male character, often made so for work in a harem or military school; grants freedom of movement among the sexes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0608",
+   "realms-of-power-the-divine-revised::0600"
+  ]
+ },
+ {
+  "name": "Outsider",
+  "type": "Flaw",
+  "description": "Social Status Flaw (Major, with a new Minor version for grogs) representing hostility faced by Muslims in non-Muslim lands and required of all Jewish characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0619",
+   "realms-of-power-the-divine-revised::0719"
+  ]
+ },
+ {
+  "name": "Magister in Artibus",
+  "type": "Virtue",
+  "description": "Major Social Status Virtue forbidden to Muslim and Jewish characters, since European-style universities are unavailable to them.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0703"
+  ]
+ },
+ {
+  "name": "Clerk",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue forbidden to Muslim characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0600"
+  ]
+ },
+ {
+  "name": "Mendicant Friar",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue forbidden to Muslim characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0600"
+  ]
+ },
+ {
+  "name": "Priest",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue forbidden to Muslim characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0600"
+  ]
+ },
+ {
+  "name": "Monastic Vows",
+  "type": "Flaw",
+  "description": "Major Story Flaw forbidden to Muslim and Jewish characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0600",
+   "realms-of-power-the-divine-revised::0703"
+  ]
+ },
+ {
+  "name": "Branded Criminal",
+  "type": "Flaw",
+  "description": "Minor Social Status Flaw forbidden to Muslim characters because criminals are not branded in Muslim societies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0600"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "Virtue",
+  "description": "Social Status Virtue implying a feudal position; the Emir Virtue mirrors it, and it is forbidden to Jewish characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0603",
+   "realms-of-power-the-divine-revised::0605",
+   "realms-of-power-the-divine-revised::0703"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "description": "Social Status Virtue whose rules apply to the Muqta'; forbidden to Jewish characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0605",
+   "realms-of-power-the-divine-revised::0703"
+  ]
+ },
+ {
+  "name": "Warrior",
+  "type": "Virtue",
+  "description": "Minor General Virtue forbidden to Jewish characters because of restrictions on carrying arms and armor.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0629"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Flaw",
+  "description": "Minor Story Flaw automatically possessed by Sufis, representing their shaykh.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0606"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Virtue",
+  "description": "Virtue required of all zahids.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0619"
+  ]
+ },
+ {
+  "name": "Meditation",
+  "type": "Ability",
+  "description": "Holy Method Ability favored by Sufis, required for zahids; Dream Interpretation and Gematria can substitute for it.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0619",
+   "realms-of-power-the-divine-revised::0707"
+  ]
+ },
+ {
+  "name": "Understanding",
+  "type": "Ability",
+  "description": "Holy Power Ability favored by Sufis and required of zahids.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0619",
+   "realms-of-power-the-divine-revised::0630"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Supernatural Ability required of zahids.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0619",
+   "realms-of-power-the-divine-revised::0620"
+  ]
+ },
+ {
+  "name": "Ceremony",
+  "type": "Ability",
+  "description": "Ability enabling a leader such as a Sufi shaykh to synchronize the efforts of group ritual participants.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0611",
+   "realms-of-power-the-divine-revised::0670"
+  ]
+ },
+ {
+  "name": "Transcendence",
+  "type": "Ability",
+  "description": "Holy Power favored by Sufis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0670"
+  ]
+ },
+ {
+  "name": "Invocation",
+  "type": "Ability",
+  "description": "Holy Method favored by Zoroastrian magi and Ba'al Shem; associated with the Zoroastrian rituals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0616",
+   "realms-of-power-the-divine-revised::0705"
+  ]
+ },
+ {
+  "name": "Holy Magic",
+  "type": "Virtue",
+  "description": "Virtue required to cast the Zoroastrian holy rituals and favored by the Zoroastrian societas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0615"
+  ]
+ },
+ {
+  "name": "Sense Holiness and Unholiness",
+  "type": "Ability",
+  "description": "Supernatural Ability favored by Zoroastrian magi and possessed by the devout mu'adhdhin.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0621"
+  ]
+ },
+ {
+  "name": "Wonders",
+  "type": "Ability",
+  "description": "Holy Power favored by Zoroastrians and associated with their holy rituals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0616",
+   "realms-of-power-the-divine-revised::0617"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Virtue",
+  "description": "Minor Social Status Virtue a zahid may take when living in Muslim lands.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0619"
+  ]
+ },
+ {
+  "name": "Dependent",
+  "type": "Flaw",
+  "description": "Major Story Flaw taken by a zahid shaykh to represent his Sufi tariqa.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0619",
+   "realms-of-power-the-divine-revised::0631"
+  ]
+ },
+ {
+  "name": "Zahid",
+  "type": "Virtue",
+  "description": "Free Mythic Companion Virtue that all zahids must begin with.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0619"
+  ]
+ },
+ {
+  "name": "Zahids",
+  "type": "CharacterType",
+  "description": "Mythic Companions who are exceptionally ascetic Sufis, often shaykhs, able to work miraculous karamas and synchronize followers' efforts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0619",
+   "realms-of-power-the-divine-revised::0620"
+  ]
+ },
+ {
+  "name": "Islamic Law",
+  "type": "Ability",
+  "description": "Academic Ability, the Muslim version of Civil & Canon Law, drawn from the Qur'an and Sunna.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0609",
+   "realms-of-power-the-divine-revised::0602",
+   "realms-of-power-the-divine-revised::0625"
+  ]
+ },
+ {
+  "name": "Theology: Islam",
+  "type": "Ability",
+  "description": "Academic Ability, the Islamic equivalent of Christian Theology, based on the Qur'an and Sunna.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0609",
+   "realms-of-power-the-divine-revised::0602",
+   "realms-of-power-the-divine-revised::0604"
+  ]
+ },
+ {
+  "name": "Dominion Lore",
+  "type": "Ability",
+  "description": "Arcane Ability purchasable by Sufis and required of zahids.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0606",
+   "realms-of-power-the-divine-revised::0620",
+   "realms-of-power-the-divine-revised::0630"
+  ]
+ },
+ {
+  "name": "Holy Tradition: Sufis",
+  "type": "Faction",
+  "aliases": [
+   "Sufis"
+  ],
+  "description": "Holy tradition of Muslim mystics who gather in tariqas to seek God through communal dhikr and sama' meditation, led by a shaykh.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0611"
+  ]
+ },
+ {
+  "name": "Tariqa",
+  "type": "Faction",
+  "aliases": [
+   "tariqas"
+  ],
+  "description": "A Sufi group or order led by a shaykh, gathering for communal meditation rituals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0606",
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0619"
+  ]
+ },
+ {
+  "name": "Shaykh",
+  "type": "CharacterType",
+  "description": "Holy leader of a Sufi tariqa, often possessing the Ceremony Ability.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0606",
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0619"
+  ]
+ },
+ {
+  "name": "Dhikr",
+  "type": "Concept",
+  "description": "Sufi group meditation in which the names of God are intoned with bodily movement until closeness with Him is achieved.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0610",
+   "realms-of-power-the-divine-revised::0630"
+  ]
+ },
+ {
+  "name": "Sama'",
+  "type": "Concept",
+  "description": "Sufi group meditation of listening to music or poetry composed for God to reach an ecstatic state.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0610"
+  ]
+ },
+ {
+  "name": "Karamas",
+  "type": "Concept",
+  "description": "Miraculous acts worked by zahids through pious contemplation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0619"
+  ]
+ },
+ {
+  "name": "Holy Societas: Zoroastrians",
+  "type": "Faction",
+  "aliases": [
+   "Zoroastrians",
+   "Zoroastrianism"
+  ],
+  "description": "Ancient holy tradition founded by Zoroaster; by 1220 a new generation in the Levant and Thebes, with Gifted members mostly in House Flambeau.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0613",
+   "realms-of-power-the-divine-revised::0615"
+  ]
+ },
+ {
+  "name": "Zoroaster",
+  "type": "Character",
+  "aliases": [
+   "Zarathushtra"
+  ],
+  "description": "Prophet who founded the Persian faith on monotheism and revealed the Gathas.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0617"
+  ]
+ },
+ {
+  "name": "Gathas",
+  "type": "Item",
+  "description": "Divine hymns of Zoroaster revealing Ahura Mazda.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612"
+  ]
+ },
+ {
+  "name": "Ahura Mazda",
+  "type": "Character",
+  "description": "The one supreme, all-knowing God of Zoroastrianism, the 'Wise Lord'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0615",
+   "realms-of-power-the-divine-revised::0618"
+  ]
+ },
+ {
+  "name": "Angra Mainyu",
+  "type": "Character",
+  "aliases": [
+   "Destructive Spirit",
+   "Hostile Spirit"
+  ],
+  "description": "The 'Destructive Spirit', opposite of Ahura Mazda, bringing disorder, falsehood and suffering.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0613",
+   "realms-of-power-the-divine-revised::0614"
+  ]
+ },
+ {
+  "name": "Amesha Spentas",
+  "type": "Creature",
+  "aliases": [
+   "Immortals"
+  ],
+  "description": "The 'Beneficent Immortals' personifying the seven pillars of the material world.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0612",
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Magoi",
+  "type": "CharacterType",
+  "aliases": [
+   "Magu"
+  ],
+  "description": "Zoroastrian priests who venerate fire, pursue truth and fight servants of Angra Mainyu; source of the word 'magus'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0613",
+   "realms-of-power-the-divine-revised::0614"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "description": "Hermetic House to which most Zoroastrian magi belong, owing to veneration of fire and fighting evil.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0615"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "description": "The Hermetic order which several Gifted Zoroastrian refugees joined.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0615",
+   "realms-of-power-the-divine-revised::0692"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "description": "Magical aptitude possessed by some Zoroastrian refugees who joined the Order of Hermes.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0615"
+  ]
+ },
+ {
+  "name": "(Immortal)'s Blessing",
+  "type": "Spell",
+  "aliases": [
+   "Spenta Armaiti's Blessing"
+  ],
+  "description": "CrVi(Gen) Zoroastrian holy ritual granting a casting bonus to a following spell of a Form associated with one of seven Immortals, limited by a Personality trait.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Asha Vahishta",
+  "type": "Creature",
+  "description": "One of the Zoroastrian Immortals (Amesha Spentas): 'Best Righteousness', associated with Brave and Ignem/Imaginem in the Blessing ritual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Khshathra Vairya",
+  "type": "Creature",
+  "description": "One of the Zoroastrian Immortals (Amesha Spentas): 'Desirable Dominion', associated with Just and Vim in the Blessing ritual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Haurvatat",
+  "type": "Creature",
+  "description": "One of the Zoroastrian Immortals (Amesha Spentas): 'Health', associated with Strong and Aquam/Auram in the Blessing ritual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Spenta Armaiti",
+  "type": "Creature",
+  "description": "One of the Zoroastrian Immortals (Amesha Spentas): 'Holy Devotion', associated with Loyal and Terram in the Blessing ritual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Ameretat",
+  "type": "Creature",
+  "description": "One of the Zoroastrian Immortals (Amesha Spentas): 'Long Life', associated with Calm and Herbam in the Blessing ritual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Vohu Manah",
+  "type": "Creature",
+  "description": "One of the Zoroastrian Immortals (Amesha Spentas): 'Good Purpose', associated with Kind and Animal in the Blessing ritual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Spenta Mainyu",
+  "type": "Creature",
+  "description": "One of the Zoroastrian Immortals (Amesha Spentas): 'Holy Spirit', associated with Wise and Corpus/Mentem in the Blessing ritual.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Saoshyant's Elixir",
+  "type": "Spell",
+  "description": "CrCo50 Zoroastrian ritual requiring ordeal by molten metal and sacrifice of a holy bull; the drinker need not make aging rolls and cannot die while following Zoroastrianism, gaining Warping instead.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0617",
+   "realms-of-power-the-divine-revised::0618"
+  ]
+ },
+ {
+  "name": "Saoshyant",
+  "type": "Character",
+  "description": "The Savior, Seed of Zoroaster, from whom the elixir of eternal life was handed down.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0617",
+   "realms-of-power-the-divine-revised::0618"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "description": "Hermetic ritual that loses effectiveness when Saoshyant's Elixir is performed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0617"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Points gained yearly by those under Saoshyant's Elixir.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0618"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "description": "Zoroastrians believe those entering Final Twilight after the elixir join Ahura Mazda in Paradise.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0618"
+  ]
+ },
+ {
+  "name": "The Mysteries (Revised)",
+  "type": "Item",
+  "description": "Forthcoming book said to cover initiation into Holy Magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0615"
+  ]
+ },
+ {
+  "name": "Mu'adhdhin",
+  "type": "CharacterType",
+  "aliases": [
+   "The Devout Mu'adhdhin"
+  ],
+  "description": "Mosque attendant who summons the faithful to prayer; basis of the Devout Mu'adhdhin grog template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0601",
+   "realms-of-power-the-divine-revised::0621"
+  ]
+ },
+ {
+  "name": "Katib",
+  "type": "CharacterType",
+  "aliases": [
+   "The Christian Katib"
+  ],
+  "description": "Scribe or secretary of the Muslim bureaucracy; basis of the Christian Katib grog template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0601",
+   "realms-of-power-the-divine-revised::0622",
+   "realms-of-power-the-divine-revised::0623"
+  ]
+ },
+ {
+  "name": "Qadi",
+  "type": "CharacterType",
+  "aliases": [
+   "The High-Ranking Qadi"
+  ],
+  "description": "Muslim judge; basis of the High-Ranking Qadi companion template.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0601",
+   "realms-of-power-the-divine-revised::0625",
+   "realms-of-power-the-divine-revised::0626"
+  ]
+ },
+ {
+  "name": "Mufti",
+  "type": "CharacterType",
+  "description": "Someone formally entitled to give a legal opinion in Islam.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0601"
+  ]
+ },
+ {
+  "name": "The Mamluk Soldier",
+  "type": "CharacterType",
+  "description": "Grog template for a low-ranking Turkish Mamluk soldier.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0623",
+   "realms-of-power-the-divine-revised::0624"
+  ]
+ },
+ {
+  "name": "The Mamluk Emir",
+  "type": "CharacterType",
+  "description": "Companion template for a proud, reckless, land-holding Mamluk noble cursed by jinn.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0626",
+   "realms-of-power-the-divine-revised::0627",
+   "realms-of-power-the-divine-revised::0628"
+  ]
+ },
+ {
+  "name": "The Muslim Traveller",
+  "type": "CharacterType",
+  "description": "Companion template for a Muslim scholar wandering Europe, inspired by a guardian angel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0628",
+   "realms-of-power-the-divine-revised::0629"
+  ]
+ },
+ {
+  "name": "The Sufi Poetess",
+  "type": "CharacterType",
+  "description": "Companion template for a blind Sufi poetess, a living saint able to heal with a touch.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0630",
+   "realms-of-power-the-divine-revised::0631"
+  ]
+ },
+ {
+  "name": "Iqta'",
+  "type": "Concept",
+  "description": "Muslim land grant similar to a feudal fief entrusted to a muqta'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0605"
+  ]
+ },
+ {
+  "name": "Jizya",
+  "type": "Concept",
+  "description": "Head tax paid by adult male dhimmis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0607"
+  ]
+ },
+ {
+  "name": "Student of Divine",
+  "type": "Virtue",
+  "description": "Virtue granting a bonus to Dominion Lore, held by the Sufi Poetess.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0630"
+  ]
+ },
+ {
+  "name": "Lesser Purifying Touch",
+  "type": "Virtue",
+  "description": "Virtue letting the Sufi Poetess heal (Quotidian Fever) with a touch.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0630"
+  ]
+ },
+ {
+  "name": "Guardian Angel",
+  "type": "Virtue",
+  "description": "Virtue of the Muslim Traveller, whose angel inspires him to explore holy sites.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0628",
+   "realms-of-power-the-divine-revised::0629"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "description": "Flaw of the Mamluk Emir, cursed by jinn to wound a companion in every battle.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0626"
+  ]
+ },
+ {
+  "name": "Jinn",
+  "type": "Creature",
+  "description": "Spirits who cursed the Mamluk Emir.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0626"
+  ]
+ },
+ {
+  "name": "Jewish People",
+  "type": "Faction",
+  "aliases": [
+   "Jews"
+  ],
+  "description": "Exiled worshipers of the one God, dispersed across Mythic Europe and the East in the diaspora, often persecuted.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0632",
+   "realms-of-power-the-divine-revised::0633",
+   "realms-of-power-the-divine-revised::0638"
+  ]
+ },
+ {
+  "name": "Abraham",
+  "type": "Character",
+  "description": "Father of the Jewish people who covenanted with God; credited as author of the Sefer Yetzirah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0634",
+   "realms-of-power-the-divine-revised::0668"
+  ]
+ },
+ {
+  "name": "Jacob",
+  "type": "Character",
+  "description": "Abraham's grandson, father of twelve sons.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0634"
+  ]
+ },
+ {
+  "name": "Joseph",
+  "type": "Character",
+  "description": "Son of Jacob sold into slavery in Egypt who gained Pharaoh's favor through Divine prophecies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0634"
+  ]
+ },
+ {
+  "name": "Moses",
+  "type": "Character",
+  "description": "Prophet who freed the Hebrews from Egypt and received the Ten Commandments and Torah at Sinai.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0634",
+   "realms-of-power-the-divine-revised::0635",
+   "realms-of-power-the-divine-revised::0650"
+  ]
+ },
+ {
+  "name": "Joshua",
+  "type": "Character",
+  "description": "Conqueror of Canaan.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0635",
+   "realms-of-power-the-divine-revised::0667"
+  ]
+ },
+ {
+  "name": "Bezalel",
+  "type": "Character",
+  "description": "Craftsman who built the Ark, with profound understanding of creation through Hebrew letters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0635"
+  ]
+ },
+ {
+  "name": "Ark of the Covenant",
+  "type": "Item",
+  "aliases": [
+   "the Ark"
+  ],
+  "description": "Ark built by Bezalel holding the tablets of the Ten Commandments, Aaron's rod and manna.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0635"
+  ]
+ },
+ {
+  "name": "Ten Commandments",
+  "type": "Item",
+  "description": "Stone tablets received by Moses at Sinai.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0635"
+  ]
+ },
+ {
+  "name": "Saul",
+  "type": "Character",
+  "description": "First king of Israel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636"
+  ]
+ },
+ {
+  "name": "David",
+  "type": "Character",
+  "description": "King of Israel; the Star of David is said to resemble his shield.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636",
+   "realms-of-power-the-divine-revised::0665"
+  ]
+ },
+ {
+  "name": "Solomon",
+  "type": "Character",
+  "description": "King of great wisdom and magical power who built the Temple in Jerusalem; knew the location of Luz from birds.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636",
+   "realms-of-power-the-divine-revised::0700",
+   "realms-of-power-the-divine-revised::0701"
+  ]
+ },
+ {
+  "name": "Rehoboam",
+  "type": "Character",
+  "description": "Solomon's son under whom Israel split into Israel and Judah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636"
+  ]
+ },
+ {
+  "name": "Nebuchadnezzar",
+  "type": "Character",
+  "aliases": [
+   "Nebuchadnezzer"
+  ],
+  "description": "Conqueror of Jerusalem in 587 BC who destroyed the First Temple.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636"
+  ]
+ },
+ {
+  "name": "Cyrus the Great",
+  "type": "Character",
+  "description": "Persian king who returned the Jews to Israel in 539 BC.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0637"
+  ]
+ },
+ {
+  "name": "Temple in Jerusalem",
+  "type": "Place",
+  "aliases": [
+   "First Temple",
+   "Second Temple",
+   "the Temple"
+  ],
+  "description": "The Temple built by Solomon, destroyed in 587 BC, rebuilt as the Second Temple and destroyed by the Romans.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636",
+   "realms-of-power-the-divine-revised::0637",
+   "realms-of-power-the-divine-revised::0660"
+  ]
+ },
+ {
+  "name": "Western Wall",
+  "type": "Place",
+  "description": "All that remains of the Temple, with a Divine aura of 10.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0660"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "description": "Capital of Judah and site of the Temple, holier than the rest of Israel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636",
+   "realms-of-power-the-divine-revised::0660",
+   "realms-of-power-the-divine-revised::0641"
+  ]
+ },
+ {
+  "name": "Israel",
+  "type": "Place",
+  "description": "Jewish homeland, formerly Canaan, considered holy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0634",
+   "realms-of-power-the-divine-revised::0660"
+  ]
+ },
+ {
+  "name": "Judah",
+  "type": "Place",
+  "description": "Southern kingdom with Jerusalem as capital.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636"
+  ]
+ },
+ {
+  "name": "Canaan",
+  "type": "Place",
+  "description": "Land promised to Abraham, which became Israel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0634",
+   "realms-of-power-the-divine-revised::0635"
+  ]
+ },
+ {
+  "name": "Babylon",
+  "type": "Place",
+  "description": "Place of Jewish exile; its great yeshivot are the pinnacle of Jewish scholarship.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0636",
+   "realms-of-power-the-divine-revised::0676"
+  ]
+ },
+ {
+  "name": "Mount Sinai",
+  "type": "Place",
+  "aliases": [
+   "Sinai"
+  ],
+  "description": "Where Moses received the Torah from God.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0635",
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0657"
+  ]
+ },
+ {
+  "name": "Egypt",
+  "type": "Place",
+  "description": "Land where the Hebrews were enslaved.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0634",
+   "realms-of-power-the-divine-revised::0640"
+  ]
+ },
+ {
+  "name": "Diaspora",
+  "type": "Concept",
+  "description": "The dispersal of the Jews after the fall of the Second Temple.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0638"
+  ]
+ },
+ {
+  "name": "Ashkenazim",
+  "type": "Faction",
+  "aliases": [
+   "Ashkenazi"
+  ],
+  "description": "Jews in Christian lands, mostly France and Germany, socially isolated and turned towards theology and mysticism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0638",
+   "realms-of-power-the-divine-revised::0639",
+   "realms-of-power-the-divine-revised::0644"
+  ]
+ },
+ {
+  "name": "Sephardim",
+  "type": "Faction",
+  "aliases": [
+   "Sephardic"
+  ],
+  "description": "Jews of Muslim and Mediterranean lands who embrace secular learning and public life.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0638",
+   "realms-of-power-the-divine-revised::0640",
+   "realms-of-power-the-divine-revised::0647"
+  ]
+ },
+ {
+  "name": "Karaites",
+  "type": "Faction",
+  "aliases": [
+   "Karaite"
+  ],
+  "description": "Small Jewish sect founded in Persia basing theology on the Tanakh alone and rejecting the Talmud.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0641",
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0693"
+  ]
+ },
+ {
+  "name": "Rabbinical Judaism",
+  "type": "Faction",
+  "aliases": [
+   "Rabbinite"
+  ],
+  "description": "Majority Jewish sect grounded in interpretation of Tanakh and Talmud.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0646",
+   "realms-of-power-the-divine-revised::0641"
+  ]
+ },
+ {
+  "name": "Kabbalah",
+  "type": "Ability",
+  "description": "Jewish mysticism seeking to manifest Divine principles; also a Major Supernatural Virtue and Ability usable as Invocation and enabling golem creation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0639",
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0710"
+  ]
+ },
+ {
+  "name": "Almohads",
+  "type": "Faction",
+  "aliases": [
+   "Almohad"
+  ],
+  "description": "Muslim power whose push into Andalusia displaces Sephardic communities.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0640"
+  ]
+ },
+ {
+  "name": "Andalusia",
+  "type": "Place",
+  "description": "Region from which Sephardim are being displaced.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0640"
+  ]
+ },
+ {
+  "name": "Provence",
+  "type": "Place",
+  "description": "Region with the strongest Kabbalah adherents.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0639",
+   "realms-of-power-the-divine-revised::0669",
+   "realms-of-power-the-divine-revised::0674"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "description": "City where Jewish and Karaite quarters are divided by a gateless wall; its Jewish community suffered in 1204.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0641",
+   "realms-of-power-the-divine-revised::0642"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Place",
+  "description": "Empire tolerating Jews under restrictions.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0642",
+   "realms-of-power-the-divine-revised::0689"
+  ]
+ },
+ {
+  "name": "Baghdad",
+  "type": "Place",
+  "description": "City home to the Exilarch.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0642",
+   "realms-of-power-the-divine-revised::0655"
+  ]
+ },
+ {
+  "name": "Exilarch",
+  "type": "CharacterType",
+  "description": "Notional head of all diaspora Jews, based in Baghdad, able to extend Holy Influence.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0642",
+   "realms-of-power-the-divine-revised::0655"
+  ]
+ },
+ {
+  "name": "Fourth Lateran Council",
+  "type": "Concept",
+  "description": "Council of 1215 requiring Jews to wear distinguishing marks.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0643"
+  ]
+ },
+ {
+  "name": "Innocent III",
+  "type": "Character",
+  "aliases": [
+   "Pope Innocent III"
+  ],
+  "description": "Pope who clarified the Lateran legislation and cancelled crusaders' debts in 1215.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0643",
+   "realms-of-power-the-divine-revised::0690"
+  ]
+ },
+ {
+  "name": "Bishop of Speyer",
+  "type": "Character",
+  "description": "Bishop who sheltered Jews from a mob in his castle in 1096.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0644"
+  ]
+ },
+ {
+  "name": "Worms",
+  "type": "Place",
+  "description": "City whose Jews found no protector in 1096.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0644"
+  ]
+ },
+ {
+  "name": "Norwich",
+  "type": "Place",
+  "description": "English city whose Jews were massacred in 1190 and site of the first blood libel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0644",
+   "realms-of-power-the-divine-revised::0648"
+  ]
+ },
+ {
+  "name": "York",
+  "type": "Place",
+  "description": "English city where besieged Jews in the castle took their own lives in 1190.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0644"
+  ]
+ },
+ {
+  "name": "Ba'al Ov",
+  "type": "CharacterType",
+  "description": "Necromantic practitioners of summoning magic outlawed by Halakha.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0644",
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0672"
+  ]
+ },
+ {
+  "name": "Ba'al Shem",
+  "type": "CharacterType",
+  "description": "Itinerant practitioners of Divine magic specializing in folk healing and seggulot; also a Free Social Status Virtue and holy tradition.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0705",
+   "realms-of-power-the-divine-revised::0697"
+  ]
+ },
+ {
+  "name": "Beth Din",
+  "type": "Faction",
+  "description": "Rabbinic court hearing cases under halakhic law, led by the Rosh Beth Din.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0685",
+   "realms-of-power-the-divine-revised::0715"
+  ]
+ },
+ {
+  "name": "Beit ha-midrash",
+  "type": "Place",
+  "description": "School attached to a synagogue focused on Hebrew literacy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0676",
+   "realms-of-power-the-divine-revised::0708"
+  ]
+ },
+ {
+  "name": "Gematria",
+  "type": "Ability",
+  "description": "School of Jewish mysticism using numerology of Hebrew letters; Major Supernatural Virtue and Ability usable in place of Meditation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0668",
+   "realms-of-power-the-divine-revised::0709"
+  ]
+ },
+ {
+  "name": "Golem",
+  "type": "Creature",
+  "description": "Being of unliving clay brought to life by a kabbalist through Divine forces.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0669",
+   "realms-of-power-the-divine-revised::0710"
+  ]
+ },
+ {
+  "name": "Halakha",
+  "type": "Concept",
+  "aliases": [
+   "Rabbinical Law",
+   "Rabbinic Law"
+  ],
+  "description": "Jewish law as laid down in the Torah and interpreted by rabbis.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0645",
+   "realms-of-power-the-divine-revised::0684",
+   "realms-of-power-the-divine-revised::0685"
+  ]
+ },
+ {
+  "name": "Kashrut",
+  "type": "Concept",
+  "aliases": [
+   "kosher"
+  ],
+  "description": "Dietary requirements codified in the Torah; kosher food complies.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0646",
+   "realms-of-power-the-divine-revised::0692"
+  ]
+ },
+ {
+  "name": "Merkavah",
+  "type": "Ability",
+  "description": "School of Jewish mysticism communing with angels via True Names; Major Supernatural Virtue usable in place of Purity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0646",
+   "realms-of-power-the-divine-revised::0712",
+   "realms-of-power-the-divine-revised::0670"
+  ]
+ },
+ {
+  "name": "Miqveh",
+  "type": "Place",
+  "description": "Communal ritual bathhouse maintaining halakhic purity.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0646",
+   "realms-of-power-the-divine-revised::0660",
+   "realms-of-power-the-divine-revised::0675"
+  ]
+ },
+ {
+  "name": "Mitzvot",
+  "type": "Concept",
+  "description": "The 613 lawful deeds dictated by the Torah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0646",
+   "realms-of-power-the-divine-revised::0684",
+   "realms-of-power-the-divine-revised::0692"
+  ]
+ },
+ {
+  "name": "Rabbi",
+  "type": "Virtue",
+  "description": "Religious leader and teacher of a Jewish community; a Minor Social Status Virtue.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0646",
+   "realms-of-power-the-divine-revised::0714",
+   "realms-of-power-the-divine-revised::0652"
+  ]
+ },
+ {
+  "name": "Sefirot",
+  "type": "Concept",
+  "aliases": [
+   "Sefirah",
+   "Tree of Life"
+  ],
+  "description": "The ten emanations of Divine power forming the Tree of Life in Kabbalah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0664",
+   "realms-of-power-the-divine-revised::0668"
+  ]
+ },
+ {
+  "name": "Seggulot",
+  "type": "Item",
+  "aliases": [
+   "seggulah"
+  ],
+  "description": "Amulets fusing folk knowledge and Divine magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0706"
+  ]
+ },
+ {
+  "name": "Shabbat",
+  "type": "Concept",
+  "description": "Day of rest from Friday to Saturday sundown.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0653"
+  ]
+ },
+ {
+  "name": "Shema",
+  "type": "Concept",
+  "description": "Statement of Jewish belief from Deuteronomy 6:4, used in tefillin and mezuzot.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0653",
+   "realms-of-power-the-divine-revised::0663"
+  ]
+ },
+ {
+  "name": "Shofar",
+  "type": "Item",
+  "description": "Instrument made from a kosher animal's horn; a relic with one Faith Point when sounded on holy days or in exorcism.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0664"
+  ]
+ },
+ {
+  "name": "Synagogue",
+  "type": "Place",
+  "description": "Gathering place for Rabbinical Jews to hear Torah readings.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0660"
+  ]
+ },
+ {
+  "name": "Talmud",
+  "type": "Item",
+  "description": "Book of interpretations of Halakha and cultural wisdom; a Summa on Judaic Lore, Theology: Judaism and Rabbinic Law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0666",
+   "realms-of-power-the-divine-revised::0663"
+  ]
+ },
+ {
+  "name": "Tanakh",
+  "type": "Item",
+  "description": "The Hebrew Bible, comprising Torah, Nevi'im and Ketuvim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0641"
+  ]
+ },
+ {
+  "name": "Torah",
+  "type": "Item",
+  "description": "First five books of the Tanakh transcribed by Moses; a Summa on Theology: Judaism, Judaic Lore and Rabbinic Law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0647",
+   "realms-of-power-the-divine-revised::0662",
+   "realms-of-power-the-divine-revised::0665"
+  ]
+ },
+ {
+  "name": "Sefer Torah",
+  "type": "Item",
+  "description": "Ceremonial scroll of the Torah in a synagogue, treated as a relic with one Faith Point.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0646",
+   "realms-of-power-the-divine-revised::0662",
+   "realms-of-power-the-divine-revised::0666"
+  ]
+ },
+ {
+  "name": "True Torah",
+  "type": "Item",
+  "description": "Primordial Torah of black fire on white fire residing in heaven.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0662",
+   "realms-of-power-the-divine-revised::0695",
+   "realms-of-power-the-divine-revised::0700"
+  ]
+ },
+ {
+  "name": "Yeshivah",
+  "type": "Place",
+  "aliases": [
+   "yeshivot"
+  ],
+  "description": "Advanced school where learned rabbis teach.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0648",
+   "realms-of-power-the-divine-revised::0676"
+  ]
+ },
+ {
+  "name": "Blood Libel",
+  "type": "Concept",
+  "description": "Unfounded accusation that Jews practice human sacrifice.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0648"
+  ]
+ },
+ {
+  "name": "William of Norwich",
+  "type": "Character",
+  "description": "Boy involved in the first blood libel accusation in England in 1144.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0648"
+  ]
+ },
+ {
+  "name": "Philip II of France",
+  "type": "Character",
+  "description": "King who ransomed and expelled Jews in 1182 and recalled them in 1198.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0648",
+   "realms-of-power-the-divine-revised::0649"
+  ]
+ },
+ {
+  "name": "Richard",
+  "type": "Character",
+  "description": "English king whose ransom was paid in part by taxing Jews.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0649"
+  ]
+ },
+ {
+  "name": "Maimonides",
+  "type": "Character",
+  "aliases": [
+   "Moses ben Maimon",
+   "Rabbi Moses Ben Maimon"
+  ],
+  "description": "Philosopher and physician (1138-1204) who codified 13 articles of faith and wrote the Mishneh Torah and Guide to the Perplexed.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0650",
+   "realms-of-power-the-divine-revised::0667",
+   "realms-of-power-the-divine-revised::0679"
+  ]
+ },
+ {
+  "name": "Gehenna",
+  "type": "Place",
+  "description": "Jewish understanding of Hell where souls are cleansed before resurrection.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0651"
+  ]
+ },
+ {
+  "name": "Semikhah",
+  "type": "Concept",
+  "description": "Rabbinic ordination granting authority over halakhic law and Dominion auras.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0652"
+  ]
+ },
+ {
+  "name": "Rosh ha-Shanah",
+  "type": "Concept",
+  "description": "Jewish new year on 1 Tishri when all are judged.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0653",
+   "realms-of-power-the-divine-revised::0654",
+   "realms-of-power-the-divine-revised::0664"
+  ]
+ },
+ {
+  "name": "Sefer ha-Chayyim",
+  "type": "Item",
+  "aliases": [
+   "Book of Names"
+  ],
+  "description": "Book of Names in which those meriting another year are recorded.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0654"
+  ]
+ },
+ {
+  "name": "Yom Kippur",
+  "type": "Concept",
+  "description": "Day of Atonement closing the Sefer ha-Chayyim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0654",
+   "realms-of-power-the-divine-revised::0664"
+  ]
+ },
+ {
+  "name": "Kapparah",
+  "type": "Concept",
+  "description": "Ritual of transferring sins to a chicken before Yom Kippur.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0654"
+  ]
+ },
+ {
+  "name": "Holy Influence",
+  "type": "Concept",
+  "description": "Exertion of spiritual authority, including tempering an aura.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0654",
+   "realms-of-power-the-divine-revised::0655"
+  ]
+ },
+ {
+  "name": "Presbyter Judaeorum",
+  "type": "CharacterType",
+  "description": "Chief rabbi of all English Jews, held in 1220 by Josce of London.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0655"
+  ]
+ },
+ {
+  "name": "Josce of London",
+  "type": "Character",
+  "description": "Presbyter Judaeorum of England in 1220.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0655"
+  ]
+ },
+ {
+  "name": "Sukkot",
+  "type": "Concept",
+  "description": "Harvest festival commemorating forty years in the wilderness.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0655"
+  ]
+ },
+ {
+  "name": "Shemini Atzeret",
+  "type": "Concept",
+  "description": "Festival marking the end and beginning of the Torah reading cycle.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0655",
+   "realms-of-power-the-divine-revised::0656"
+  ]
+ },
+ {
+  "name": "Hanukkah",
+  "type": "Concept",
+  "description": "Eight-day festival commemorating the miracle of oil.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0656",
+   "realms-of-power-the-divine-revised::0664"
+  ]
+ },
+ {
+  "name": "Purim",
+  "type": "Concept",
+  "description": "Celebration with public reading of the Book of Esther.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0656"
+  ]
+ },
+ {
+  "name": "Pesach",
+  "type": "Concept",
+  "description": "Passover commemorating the escape from Egypt.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0656",
+   "realms-of-power-the-divine-revised::0657"
+  ]
+ },
+ {
+  "name": "Shavu'ot",
+  "type": "Concept",
+  "description": "Festival celebrating revelation at Sinai.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0657"
+  ]
+ },
+ {
+  "name": "Tisha B'Av",
+  "type": "Concept",
+  "description": "Fast commemorating destruction of both Temples.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0657"
+  ]
+ },
+ {
+  "name": "Hebrew Calendar",
+  "type": "Concept",
+  "description": "Lunar calendar with a 19-year cycle; Julian 1 April 1220 equals 26 Nisan 4980.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0658",
+   "realms-of-power-the-divine-revised::0659"
+  ]
+ },
+ {
+  "name": "Judah Halevi",
+  "type": "Character",
+  "description": "Toledo-born poet (1075-1140) who held Israel the only place for true prophecy; murdered outside Jerusalem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0660",
+   "realms-of-power-the-divine-revised::0678",
+   "realms-of-power-the-divine-revised::0679"
+  ]
+ },
+ {
+  "name": "Tefillin",
+  "type": "Item",
+  "aliases": [
+   "phylacteries"
+  ],
+  "description": "Leather boxes containing the Shema; those owned by a Tzadik Nistar act as a relic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0663"
+  ]
+ },
+ {
+  "name": "Mezuzot",
+  "type": "Item",
+  "aliases": [
+   "mezuzah"
+  ],
+  "description": "Phylactery cases bound to door posts.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0663"
+  ]
+ },
+ {
+  "name": "Menorah",
+  "type": "Item",
+  "aliases": [
+   "chanukkiyah"
+  ],
+  "description": "Six- or eight-branched candelabrum; the eight-branched chanukkiyah is used at Hanukkah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0664"
+  ]
+ },
+ {
+  "name": "Star of David",
+  "type": "Item",
+  "description": "Six-pointed star symbolizing God with kabbalistic resonance.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0665"
+  ]
+ },
+ {
+  "name": "Nevi'im",
+  "type": "Item",
+  "aliases": [
+   "Prophets"
+  ],
+  "description": "The Prophets, second section of the Tanakh; Tractatus on Theology: Judaism and Dream Interpretation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0666",
+   "realms-of-power-the-divine-revised::0667"
+  ]
+ },
+ {
+  "name": "Ketuvim",
+  "type": "Item",
+  "aliases": [
+   "Writings"
+  ],
+  "description": "The Writings, final section of the Tanakh; a collection of tractatus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0667"
+  ]
+ },
+ {
+  "name": "Mishneh Torah",
+  "type": "Item",
+  "description": "Maimonides' Summa on Rabbinic Law, the foremost authority.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0667",
+   "realms-of-power-the-divine-revised::0679",
+   "realms-of-power-the-divine-revised::0684"
+  ]
+ },
+ {
+  "name": "Guide to the Perplexed",
+  "type": "Item",
+  "aliases": [
+   "Guide for the Perplexed"
+  ],
+  "description": "Maimonides' philosophical work; Summa Philosophiae and Theology: Judaism, and a Gematria tractatus.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0668",
+   "realms-of-power-the-divine-revised::0679"
+  ]
+ },
+ {
+  "name": "Sefer Yetzirah",
+  "type": "Item",
+  "description": "Book of Creation attributed to Abraham; Summa Kabbalah required to create a golem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0668",
+   "realms-of-power-the-divine-revised::0669",
+   "realms-of-power-the-divine-revised::0665"
+  ]
+ },
+ {
+  "name": "Ma'asei-Bereshit",
+  "type": "Faction",
+  "description": "School of philosophy seeking the foundations of creation, based on the Sefer Yetzirah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0668",
+   "realms-of-power-the-divine-revised::0669"
+  ]
+ },
+ {
+  "name": "Sefer ha-Bahir",
+  "type": "Item",
+  "description": "Book of Illumination by Provencal kabbalists; Tractatus on Kabbalah and Ceremony.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0669"
+  ]
+ },
+ {
+  "name": "Sefer ha-Razim",
+  "type": "Item",
+  "description": "Book of Amulets revealed to Noah by Raziel; tractatus on Craft Amulets, Merkavah, Ceremony and Dominion Lore.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0669",
+   "realms-of-power-the-divine-revised::0670"
+  ]
+ },
+ {
+  "name": "Raziel",
+  "type": "Creature",
+  "description": "Angel who revealed the Sefer ha-Razim to Noah and Sefer Raziel to Adam.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0669",
+   "realms-of-power-the-divine-revised::0670",
+   "realms-of-power-the-divine-revised::0671"
+  ]
+ },
+ {
+  "name": "Noah",
+  "type": "Character",
+  "description": "Recipient of the Sefer ha-Razim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0669"
+  ]
+ },
+ {
+  "name": "Adam",
+  "type": "Character",
+  "description": "Recipient of the original Sefer Raziel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0670",
+   "realms-of-power-the-divine-revised::0671"
+  ]
+ },
+ {
+  "name": "Sefer Raziel",
+  "type": "Item",
+  "description": "Book of sorcery on astral forces; Summae on Gematria, Merkavah, Intervention and Transcendence.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0670",
+   "realms-of-power-the-divine-revised::0671"
+  ]
+ },
+ {
+  "name": "Hechalot Texts",
+  "type": "Item",
+  "description": "Scrolls on Ma'aseh Merkavah; studying them alone grants 'Curious about the Infernal'.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0671",
+   "realms-of-power-the-divine-revised::0672"
+  ]
+ },
+ {
+  "name": "Ma'aseh Merkavah",
+  "type": "Concept",
+  "description": "Ancient mystical tradition from which Merkavah and Goetic Summoning derive.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0671"
+  ]
+ },
+ {
+  "name": "Summoning",
+  "type": "Ability",
+  "description": "Goetic art deriving from Ma'aseh Merkavah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0671"
+  ]
+ },
+ {
+  "name": "Sword of Moses",
+  "type": "Item",
+  "description": "Theurgic book naming angels and demons; Summa Infernal Lore and insight into Canaanite Necromancy.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0672"
+  ]
+ },
+ {
+  "name": "Canaanite Necromancy",
+  "type": "Concept",
+  "description": "Extinct magical form researchable via the Sword of Moses.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0672"
+  ]
+ },
+ {
+  "name": "Craft Amulets",
+  "type": "Ability",
+  "description": "Supernatural Ability to make seggulot; also a Minor Supernatural Virtue.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0706",
+   "realms-of-power-the-divine-revised::0669",
+   "realms-of-power-the-divine-revised::0703"
+  ]
+ },
+ {
+  "name": "Dream Interpretation",
+  "type": "Ability",
+  "description": "Supernatural Ability to divine prophetic dreams, usable in place of Meditation.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0707",
+   "realms-of-power-the-divine-revised::0666",
+   "realms-of-power-the-divine-revised::0703"
+  ]
+ },
+ {
+  "name": "Rabbinic Law",
+  "type": "Ability",
+  "description": "Academic Ability of Jewish law.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0665",
+   "realms-of-power-the-divine-revised::0667",
+   "realms-of-power-the-divine-revised::0715"
+  ]
+ },
+ {
+  "name": "Theology: Judaism",
+  "type": "Ability",
+  "description": "Academic Ability of Jewish theology.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0665",
+   "realms-of-power-the-divine-revised::0708",
+   "realms-of-power-the-divine-revised::0715"
+  ]
+ },
+ {
+  "name": "Judaic Lore",
+  "type": "Ability",
+  "description": "Lore Ability of Jewish folklore and culture.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0665",
+   "realms-of-power-the-divine-revised::0708"
+  ]
+ },
+ {
+  "name": "Benjamin of Tudela",
+  "type": "Character",
+  "description": "12th-century traveler from Navarre to Jerusalem who recorded Jewish communities and wrote the Sefer ha-Masa'ot.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0673",
+   "realms-of-power-the-divine-revised::0674",
+   "realms-of-power-the-divine-revised::0675"
+  ]
+ },
+ {
+  "name": "Sefer ha-Masa'ot",
+  "type": "Item",
+  "description": "The Book of Travels; Summa Mediterranean Lore.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0675"
+  ]
+ },
+ {
+  "name": "Kingdom of Sicily",
+  "type": "Place",
+  "aliases": [
+   "Sicily"
+  ],
+  "description": "Kingdom accepting of multiple cultures; Jews held the silk monopoly under Frederick II.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0673",
+   "realms-of-power-the-divine-revised::0689"
+  ]
+ },
+ {
+  "name": "Palermo",
+  "type": "Place",
+  "description": "City with fifteen hundred Jews.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0674"
+  ]
+ },
+ {
+  "name": "Chelm",
+  "type": "Place",
+  "aliases": [
+   "Wise Men of Chelm"
+  ],
+  "description": "Mythical city of fools of Jewish folklore.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0695",
+   "realms-of-power-the-divine-revised::0698"
+  ]
+ },
+ {
+  "name": "Nehardea",
+  "type": "Place",
+  "description": "Babylonian yeshivah city.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0676"
+  ]
+ },
+ {
+  "name": "Pumbedita",
+  "type": "Place",
+  "description": "Babylonian yeshivah city.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0676"
+  ]
+ },
+ {
+  "name": "Sura",
+  "type": "Place",
+  "description": "Babylonian yeshivah city where Saadia Gaon was Gaon.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0676",
+   "realms-of-power-the-divine-revised::0678"
+  ]
+ },
+ {
+  "name": "Geonim",
+  "type": "CharacterType",
+  "aliases": [
+   "Gaon"
+  ],
+  "description": "Title of leaders of the Babylonian yeshivot.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0676",
+   "realms-of-power-the-divine-revised::0678"
+  ]
+ },
+ {
+  "name": "Isaac Ben Solomon Israeli",
+  "type": "Character",
+  "description": "Tunisian physician (850-932), monist and accomplished kabbalist.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0678"
+  ]
+ },
+ {
+  "name": "Saadia Gaon",
+  "type": "Character",
+  "description": "Gaon of Sura (882-942), opponent of the Karaites.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0678"
+  ]
+ },
+ {
+  "name": "Samuel ben Judah ibn Tibbon",
+  "type": "Character",
+  "description": "Translator of Maimonides living in Marseilles until 1230.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0679"
+  ]
+ },
+ {
+  "name": "Shadchan",
+  "type": "Virtue",
+  "description": "Marriage arranger; a Minor Social Status Virtue open to men and women.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0680",
+   "realms-of-power-the-divine-revised::0716"
+  ]
+ },
+ {
+  "name": "Cherem",
+  "type": "Concept",
+  "description": "Civic ostracism excommunication under Halakha.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0686"
+  ]
+ },
+ {
+  "name": "Karet",
+  "type": "Concept",
+  "description": "Serious excommunication; the dead under it become dybbukim.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0686",
+   "realms-of-power-the-divine-revised::0687"
+  ]
+ },
+ {
+  "name": "Dybbukim",
+  "type": "Creature",
+  "description": "Spirits cut off from heaven that possess the living.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0686",
+   "realms-of-power-the-divine-revised::0687"
+  ]
+ },
+ {
+  "name": "Radhanites",
+  "type": "Faction",
+  "description": "Jewish merchants from southern Iraq who trade widely, including in slaves.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0693",
+   "realms-of-power-the-divine-revised::0694"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "description": "Ruler under whom Jews held a silk monopoly in Sicily.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0689"
+  ]
+ },
+ {
+  "name": "Lamed Vav Tzadikim Nistarim",
+  "type": "Faction",
+  "aliases": [
+   "Nistarim"
+  ],
+  "description": "The 36 hidden righteous souls in each generation who sustain the world.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0695",
+   "realms-of-power-the-divine-revised::0663"
+  ]
+ },
+ {
+  "name": "Yeshivah shel Malah",
+  "type": "Place",
+  "description": "Celestial level 5 regio where the dead study the True Torah under Zagzagel.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0695",
+   "realms-of-power-the-divine-revised::0699",
+   "realms-of-power-the-divine-revised::0700"
+  ]
+ },
+ {
+  "name": "Zagzagel",
+  "type": "Creature",
+  "description": "Angel who presides over the Yeshivah shel Malah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0695",
+   "realms-of-power-the-divine-revised::0700"
+  ]
+ },
+ {
+  "name": "Ibbur",
+  "type": "Creature",
+  "description": "Spirit that co-inhabits a body to express its wisdom.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0696"
+  ]
+ },
+ {
+  "name": "Rav Hamnuna Sava",
+  "type": "Creature",
+  "description": "Talmudic sage turned faerie appearing as an ass-driver teaching secrets of the Oral Torah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0696",
+   "realms-of-power-the-divine-revised::0697"
+  ]
+ },
+ {
+  "name": "Evil Eye",
+  "type": "Flaw",
+  "description": "Harm from ill-will actually perpetrated by demons; also a Minor Supernatural Flaw.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0697",
+   "realms-of-power-the-divine-revised::0698",
+   "realms-of-power-the-divine-revised::0719"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "description": "Faerie Flaw representing observance of folk charms.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0698"
+  ]
+ },
+ {
+  "name": "Vulnerable to Folk Tradition",
+  "type": "Flaw",
+  "description": "Minor Hermetic Flaw letting targets gain resistance through folk rituals against the magus's magic.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0698",
+   "realms-of-power-the-divine-revised::0699"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "description": "Ability determining resistance granted by folk charms.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0699"
+  ]
+ },
+ {
+  "name": "City of Luz",
+  "type": "Place",
+  "aliases": [
+   "Luz"
+  ],
+  "description": "Divine city of immortality reached via an almond tree in the Holy Land; level 3 and 7 regio.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0699",
+   "realms-of-power-the-divine-revised::0700",
+   "realms-of-power-the-divine-revised::0701"
+  ]
+ },
+ {
+  "name": "Angel of Death",
+  "type": "Creature",
+  "description": "Angel unable to enter the City of Luz.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0700"
+  ]
+ },
+ {
+  "name": "Celestial Regio",
+  "type": "Concept",
+  "description": "Places where the Divine touches Earth.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0696",
+   "realms-of-power-the-divine-revised::0699"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "description": "The Divine realm whose auras rabbis may temper.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0653",
+   "realms-of-power-the-divine-revised::0635"
+  ]
+ },
+ {
+  "name": "Educated (Hebrew)",
+  "type": "Virtue",
+  "description": "Minor General Virtue granting 50 xp in Hebrew, Aramaic, Theology: Judaism and Judaic Lore.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0708"
+  ]
+ },
+ {
+  "name": "Rosh Beth Din",
+  "type": "Virtue",
+  "description": "Major Social Status Virtue for the head of the Beth Din court.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0715"
+  ]
+ },
+ {
+  "name": "Kabbalist",
+  "type": "Virtue",
+  "description": "Free Mythic Companion Social Status Virtue required of all kabbalists.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0711"
+  ]
+ },
+ {
+  "name": "Shamash",
+  "type": "Virtue",
+  "description": "Free Social Status Virtue for the servant of the synagogue.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0717",
+   "realms-of-power-the-divine-revised::0675"
+  ]
+ },
+ {
+  "name": "Sofer",
+  "type": "Virtue",
+  "description": "Free Social Status Virtue for the scribe of the Sefer Torah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0718"
+  ]
+ },
+ {
+  "name": "Astrological Magic",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue adding Artes Liberales to Kabbalah totals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0704"
+  ]
+ },
+ {
+  "name": "Philosophic Magic",
+  "type": "Virtue",
+  "description": "Minor Supernatural Virtue adding Philosophiae to Kabbalah totals.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0703",
+   "realms-of-power-the-divine-revised::0713"
+  ]
+ },
+ {
+  "name": "Karaite Magic",
+  "type": "Flaw",
+  "description": "Major Hermetic Flaw listed for Jewish characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0719"
+  ]
+ },
+ {
+  "name": "Gabai",
+  "type": "Flaw",
+  "description": "Minor Social Status Flaw for Jewish characters.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0719"
+  ]
+ },
+ {
+  "name": "Tzadik Nistar",
+  "type": "Flaw",
+  "description": "Major Story Flaw for one of the hidden righteous.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0719"
+  ]
+ },
+ {
+  "name": "Adjuration",
+  "type": "Ability",
+  "description": "Favored Ability of the Ba'al Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0705"
+  ]
+ },
+ {
+  "name": "Blessing",
+  "type": "Ability",
+  "description": "Favored Ability of the Ba'al Shem.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0705"
+  ]
+ },
+ {
+  "name": "Intervention",
+  "type": "Ability",
+  "description": "Holy Power used to reach the City of Luz.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0670",
+   "realms-of-power-the-divine-revised::0701"
+  ]
+ },
+ {
+  "name": "Purity",
+  "type": "Ability",
+  "description": "Holy Method replaceable by Merkavah.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0701",
+   "realms-of-power-the-divine-revised::0712"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "description": "Form boosted by Asha Vahishta's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Form boosted by Asha Vahishta's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Form boosted by Khshathra Vairya's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "description": "Form boosted by Haurvatat's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "description": "Form boosted by Haurvatat's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Form boosted by Spenta Armaiti's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "description": "Form boosted by Ameretat's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Form boosted by Vohu Manah's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Form boosted by Spenta Mainyu's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Form boosted by Spenta Mainyu's Blessing.",
+  "evidence": [
+   "realms-of-power-the-divine-revised::0616"
+  ]
+ }
+]

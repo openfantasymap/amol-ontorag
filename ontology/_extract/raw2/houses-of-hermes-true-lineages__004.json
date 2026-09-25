@@ -1,0 +1,2911 @@
+[
+ {
+  "name": "Tethered Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue letting a magus pass control of non-Ritual spells to others or tether spells to objects; all their spells become arcane connections to them.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0480",
+   "houses-of-hermes-true-lineages::0483"
+  ]
+ },
+ {
+  "name": "Vis Sensitivity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Heroic Virtue allowing a character to sense raw vis by touch, gauge its pawns and identify its Art.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481"
+  ]
+ },
+ {
+  "name": "Magic Sensitivity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that may be taken free with Vis Sensitivity, at a penalty to Magic Resistance.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481"
+  ]
+ },
+ {
+  "name": "Bound Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw: when the magus dies, all their spells end and magic items they created cease to function.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0482"
+  ]
+ },
+ {
+  "name": "Fettered Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw: all the magus's spells and activated item effects are arcane connections to them.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0483"
+  ]
+ },
+ {
+  "name": "Hermetic Patron",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Story Flaw for a Redcap or magus watched over by an older magus or Redcap patron who grants favors but demands service.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0484"
+  ]
+ },
+ {
+  "name": "Heroic Personality",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Heroic Flaw granting strong Personality traits and Confidence, but letting the storyguide sometimes dictate the character's heroic actions.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0485"
+  ]
+ },
+ {
+  "name": "Illegitimate Lineage",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Hermetic Flaw for a member of House Mercere not descended by blood from Mercere, giving a poor reputation and denying House benefits.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0486"
+  ]
+ },
+ {
+  "name": "Legacy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Story Flaw: the character descends from a legendary magus or Redcap and is accorded respect but given harder tasks.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0487"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw: the character does not follow the Church and has never been baptized.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0488"
+  ]
+ },
+ {
+  "name": "Tragic (Characteristic)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Heroic Flaw imposing a specialty in a negative Characteristic that subtracts three and adds a botch die in that circumstance.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0489"
+  ]
+ },
+ {
+  "name": "Usurer",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Status Flaw: the character lends at abusive interest, earning about ten pounds of silver a year but a poor reputation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0490"
+  ]
+ },
+ {
+  "name": "Mutantum Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magical aptitude suggested as related to Bound Magic and Fettered Magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0482",
+   "houses-of-hermes-true-lineages::0483"
+  ]
+ },
+ {
+  "name": "Tamed Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that may be combined with Bound or Fettered Magic to represent imperfect understanding of one's talent.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0482",
+   "houses-of-hermes-true-lineages::0483"
+  ]
+ },
+ {
+  "name": "Harnessed Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue from the core rules that already includes the effect of Bound Magic, so cannot be taken with it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0482"
+  ]
+ },
+ {
+  "name": "Heroic Virtues and Flaws",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Category of Virtues and Flaws that Legacy characters may take if appropriate to their lineage.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0487"
+  ]
+ },
+ {
+  "name": "Minor Magical Focus in Certamen",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "All Tremere magi have a Minor Magical Focus in Certamen, making them excellent duelists but limiting their power.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571",
+   "houses-of-hermes-true-lineages::0576"
+  ]
+ },
+ {
+  "name": "Mercurian Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue whose practitioners in House Tremere mostly died in the Tempest; no longer required for membership.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that can modify a Tremere magus's relationship with his tribune or conciliarius.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Mentor",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that can modify a Tremere magus's relationship with his tribune or conciliarius.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that can modify a Tremere magus's relationship with his tribune or conciliarius.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Skilled Parens",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Self Confident",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571",
+   "houses-of-hermes-true-lineages::0570"
+  ]
+ },
+ {
+  "name": "Social Contacts",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Cautious Sorcerer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Temporal Influence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue listed as common among Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that may explain stories about the wolves of Coeris; Tremere shapeshifters often take owl form.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that may explain stories about the wolves of Coeris.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue that occasionally occurs among common white wolves.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0565"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue all Tremere Assessors possess.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0579"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by the ghostly cataphract.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0558"
+  ]
+ },
+ {
+  "name": "Dark Secret (Diedne Magic)",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw not appropriate for Tremere characters, since the House would react violently to a druidical lineage.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes magi unable to fight to doctrine and thus ineffective soldiers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571",
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that few Tremere magi would accept in an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Faerie Upbringing",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that few Tremere magi would accept in an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Noncombatant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that few Tremere magi would accept in an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Softhearted",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that few Tremere magi would accept in an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Reclusive",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that few Tremere magi would accept in an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Weak Parens",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw: a Weak Parens would not train a child in House Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw a Tremere master might acquire during or after an apprenticeship.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Tainted with Evil",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that would prevent an apprentice from being selected for Tremere training.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Magic Addiction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that prevents a magus serving effectively; most Tremere see it as humiliating.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Painful Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that prevents a magus serving effectively; most Tremere see it as humiliating.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Fury",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that prevents a magus serving effectively; most Tremere see it as humiliating.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Rigid Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Short-ranged Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Unstructured Caster",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Careless Sorcerer",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Slow Caster",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Unpredictable Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Warped Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Weak Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Weird Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Weakness",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Afflicted Tongue",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Motion Sickness",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "No Sense of Direction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Obese",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Palsied Hands",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Poor Eyesight",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Poor Hearing",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that makes a Tremere magus suboptimal on the battlefield but can be hidden; a source of embarrassment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Clumsy Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that would cripple a Tremere magus in sagas using this chapter's dueling rules.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw creating an obligation in addition to that of House membership.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0572"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "House of the Redcaps; members not descended from Mercere by blood are considered illegitimate.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0486",
+   "houses-of-hermes-true-lineages::0537"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere magi"
+  ],
+  "description": "Hermetic House assuming a chaotic, dangerous world, organized militarily with block voting and domination of the Transylvanian Tribunal; domus magna Coeris.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0491",
+   "houses-of-hermes-true-lineages::0515",
+   "houses-of-hermes-true-lineages::0522"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House; many expected Tremere to join it; its demonically corrupted magi were fought by Tremere and Quaesitores.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0499",
+   "houses-of-hermes-true-lineages::0503",
+   "houses-of-hermes-true-lineages::0586"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne",
+   "the druids"
+  ],
+  "description": "Druidic House exterminated by House Tremere in the Schism War after accusations of human sacrifice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0503",
+   "houses-of-hermes-true-lineages::0505",
+   "houses-of-hermes-true-lineages::0537"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [],
+  "description": "House that shares useful information with the Order and whose magi aid Tremere spell research.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0517",
+   "houses-of-hermes-true-lineages::0576"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose fantastic powers are contrasted with Tremere material aid; collaborates with the Burning Acorn Vexillation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0531",
+   "houses-of-hermes-true-lineages::0537"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "House cited as having fantastic powers compared to Tremere material aid.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0531"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "House whose Primus brokered a truce between Tremere and his enemies in 848.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0501"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [],
+  "description": "House whose members alone employ the Bestiarius certamen school using their Heartbeast.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0593"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Founder Flambeau's House; Tremere sought to dissuade Flambeau from aggression.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditus magi"
+  ],
+  "description": "House of item-makers contracted by Tremere to build magic items, lodged at the Covenant of Lycaneon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0576",
+   "houses-of-hermes-true-lineages::0578"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Mercere; true Merceres are descended from him by blood.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0486"
+  ]
+ },
+ {
+  "name": "Tremere",
+  "type": "Character",
+  "aliases": [
+   "the Founder"
+  ],
+  "description": "Founder of House Tremere, youngest and weakest Founder, developer of certamen, who tried to dominate the Order and was thwarted in the Sundering; died 862.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500",
+   "houses-of-hermes-true-lineages::0501",
+   "houses-of-hermes-true-lineages::0502"
+  ]
+ },
+ {
+  "name": "Albanus",
+  "type": "Character",
+  "aliases": [
+   "Primus Albanus"
+  ],
+  "description": "Tremere's oldest student and successor, First Primus, who spoke Tremere's eulogy and founded the Broken Mirrors Vexillation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0491",
+   "houses-of-hermes-true-lineages::0502",
+   "houses-of-hermes-true-lineages::0538"
+  ]
+ },
+ {
+  "name": "Poena",
+  "type": "Character",
+  "aliases": [
+   "Prima Poena"
+  ],
+  "description": "Current Prima of House Tremere, who has funded research projects especially against Islamic wizards of the Levant.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0539",
+   "houses-of-hermes-true-lineages::0545"
+  ]
+ },
+ {
+  "name": "Cercistum",
+  "type": "Character",
+  "aliases": [],
+  "description": "Primus of Tremere at the beginning of the Schism War, killed in battle; claimed he could raise ghost armies.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0539",
+   "houses-of-hermes-true-lineages::0554"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder who met Guorna the Fetid in 757 and helped propagate certamen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0500"
+  ]
+ },
+ {
+  "name": "Guorna the Fetid",
+  "type": "Character",
+  "aliases": [
+   "Guorna"
+  ],
+  "description": "Necromancer ruling a remnant cult in Naples, parens of Tytalus and Tremere, whose followers they slaughtered.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0499",
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder, fellow apprentice of Tremere under Guorna, whom Tremere sought to avoid serving.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0499",
+   "houses-of-hermes-true-lineages::0500"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder who taught Tytalus and Tremere and created certamen with Tremere's aid.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0500"
+  ]
+ },
+ {
+  "name": "Jerbiton",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder whose nominal suzerainty was accepted by Byzantine magi resisting Tremere; helped propagate certamen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500"
+  ]
+ },
+ {
+  "name": "Umno",
+  "type": "Character",
+  "aliases": [],
+  "description": "Previous Primus of House Tremere, now governing the Burning Acorn Vexillation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0537"
+  ]
+ },
+ {
+  "name": "The Epicurean",
+  "type": "Character",
+  "aliases": [],
+  "description": "Masked figure who always leads the Cold Iron Vexillation; in Arcadia a continuing entity.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0538"
+  ]
+ },
+ {
+  "name": "Valerius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archmagus and current Secutor of House Tremere whose mind was damaged in a faerie forest.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0545",
+   "houses-of-hermes-true-lineages::0546"
+  ]
+ },
+ {
+  "name": "Theodoros of Tytalus",
+  "type": "Character",
+  "aliases": [
+   "Theodoros"
+  ],
+  "description": "Rival of Valerius who intends to challenge him to certamen and then the Prima.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0545",
+   "houses-of-hermes-true-lineages::0546"
+  ]
+ },
+ {
+  "name": "Kore",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fifth and only necromantic Prima of Tremere, creator of the Scythian torc, first Primus replaced by force for insanity.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Agrippina",
+  "type": "Character",
+  "aliases": [
+   "Nemesis"
+  ],
+  "description": "Famous tenth-century duelist who sent white roses with challenges; nicknamed Nemesis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0588"
+  ]
+ },
+ {
+  "name": "Samuel, King of the Bulgars",
+  "type": "Character",
+  "aliases": [
+   "Samuel"
+  ],
+  "description": "Bulgarian king who died of shock on seeing his blinded army in 1014.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0504"
+  ]
+ },
+ {
+  "name": "Asen",
+  "type": "Character",
+  "aliases": [],
+  "description": "Elder of two brothers who rebelled against the Byzantine Empire in 1185, raiding Thrace and Macedonia.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507",
+   "houses-of-hermes-true-lineages::0510"
+  ]
+ },
+ {
+  "name": "Ivan Asen II",
+  "type": "Character",
+  "aliases": [
+   "Ivan II"
+  ],
+  "description": "Current Tsar of Bulgaria, claiming the title Emperor of the Bulgars and Greeks, enemy of the Latins in Constantinople.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Isaac Angelus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Byzantine Emperor forced to send forces north against the Bulgarian rebellion.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Andrew II",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Hungary whose conflicts with his nobles are being resolved; his daughter married John II in 1218.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0510"
+  ]
+ },
+ {
+  "name": "John II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Married the daughter of Andrew II in 1218, partly due to Tremere influence.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0510"
+  ]
+ },
+ {
+  "name": "Thamyris",
+  "type": "Character",
+  "aliases": [],
+  "description": "Blind bard after whom amber-eyed children in Transylvania are often named.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0506"
+  ]
+ },
+ {
+  "name": "King Lycurgus of Sparta",
+  "type": "Character",
+  "aliases": [
+   "Lycurgus"
+  ],
+  "description": "Spartan king whose saying 'Obedience is of the highest benefit' is a Tremere moral touchstone.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0497"
+  ]
+ },
+ {
+  "name": "Xenophon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Classical author whose aphorisms many Tremere magi favor.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0497"
+  ]
+ },
+ {
+  "name": "Orpheus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mythic figure who departed into the underworld through the Gate of Eurydice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0508"
+  ]
+ },
+ {
+  "name": "Hannibal",
+  "type": "Character",
+  "aliases": [],
+  "description": "Commander whose three victories over the Romans in Italy Cercistum claimed he could raise as ghosts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0554",
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Belisarius",
+  "type": "Character",
+  "aliases": [],
+  "description": "General whose troops sacked Naples; Guorna claimed to raise the dead of that sack.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Justinian",
+  "type": "Character",
+  "aliases": [],
+  "description": "Emperor whose sixth-century imperial adventure left cataphract ghosts in the West.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0558"
+  ]
+ },
+ {
+  "name": "Aita",
+  "type": "Character",
+  "aliases": [],
+  "description": "Underworld deity whose priesthood (butterfly symbol) was House Tremere's first ancestral tradition.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0495",
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0505"
+  ]
+ },
+ {
+  "name": "Pluto",
+  "type": "Character",
+  "aliases": [],
+  "description": "God of the Underworld and hidden wealth whom Tremere's ancestors served, symbolized by the two-pronged pitchfork.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0495",
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0505"
+  ]
+ },
+ {
+  "name": "Mercury Psychopompos",
+  "type": "Character",
+  "aliases": [
+   "Mercury"
+  ],
+  "description": "Mercury as Conductor of Souls, whom Tremere's ancestors served as priests after the Cult of Mercury absorbed them.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0505"
+  ]
+ },
+ {
+  "name": "Hermes",
+  "type": "Character",
+  "aliases": [],
+  "description": "God to whom Tremere's white wolf pack was sacred; many Tremere refuse to swear oaths to Hermes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0518"
+  ]
+ },
+ {
+  "name": "Charon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ferryman on the River Styx, after whom the Charon certamen trick is named.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0595"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcap"
+  ],
+  "description": "Members of House Mercere, often unGifted messengers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0484",
+   "houses-of-hermes-true-lineages::0486",
+   "houses-of-hermes-true-lineages::0487"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitor"
+  ],
+  "description": "Hermetic investigators; Tremere aided them against Tytalus diabolists and they watch Tremere necromancers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0497",
+   "houses-of-hermes-true-lineages::0503",
+   "houses-of-hermes-true-lineages::0584"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Roman cult that absorbed Tremere's ancestral necromantic tradition during Augustus's reign.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0498"
+  ]
+ },
+ {
+  "name": "Necromantic cult",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Tremere's ancestral necromantic tradition, which made lairs under cities like Naples.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0494",
+   "houses-of-hermes-true-lineages::0498"
+  ]
+ },
+ {
+  "name": "Theban League",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group of Byzantine magi who resisted Tremere under Jerbiton's nominal suzerainty.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500"
+  ]
+ },
+ {
+  "name": "Dacians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "People who ruled Transylvania before the Romans, fighting under wolf-headed dragon banners.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493"
+  ]
+ },
+ {
+  "name": "Islamic wizards",
+  "type": "Faction",
+  "aliases": [
+   "Arabic wizards"
+  ],
+  "description": "Mystical groups beyond the Order, especially of the Levant, whom House Tremere studies and Poena seeks to counter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0519",
+   "houses-of-hermes-true-lineages::0539",
+   "houses-of-hermes-true-lineages::0583"
+  ]
+ },
+ {
+  "name": "Abyssal Bearer Vexillation",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Continuing Tremere vexillation ensuring no Tremere magus is left unburied; led by the eldest-by-eldest descendant of Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0536"
+  ]
+ },
+ {
+  "name": "Burning Acorn Vexillation",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Continuing Tremere vexillation of explorers seeking the leaders of House Diedne, governed by Umno.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0536",
+   "houses-of-hermes-true-lineages::0537"
+  ]
+ },
+ {
+  "name": "Cold Iron Vexillation",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Tremere vexillation of faerie-blooded soldier-diplomats settling faerie disputes, led by the Epicurean.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0537",
+   "houses-of-hermes-true-lineages::0538"
+  ]
+ },
+ {
+  "name": "Broken Mirrors Vexillation",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Vexillation founded by Albanus to investigate diabolism, treason or cowardice within House Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0538"
+  ]
+ },
+ {
+  "name": "House Council",
+  "type": "Faction",
+  "aliases": [
+   "Council"
+  ],
+  "description": "Council of Tremere magi holding their own sigils, meeting every ten years at Coeris; lacking formal powers since the Schism.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0514",
+   "houses-of-hermes-true-lineages::0522"
+  ]
+ },
+ {
+  "name": "Pirates of Rhodes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Pirates against whom Tremere's new naval doctrine is to be tested.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0583"
+  ]
+ },
+ {
+  "name": "Latins",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Latin invaders occupying Constantinople and the Theban Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507",
+   "houses-of-hermes-true-lineages::0558"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal utterly dominated by House Tremere, stretching from the Adriatic to the Black Sea, with only five covenants.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0515",
+   "houses-of-hermes-true-lineages::0549"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal containing the last substantial pagan populations by 1220.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0488",
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal whose covenants may have precipitated the Byzantine invasion of Bulgaria.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0504",
+   "houses-of-hermes-true-lineages::0533",
+   "houses-of-hermes-true-lineages::0558"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal with a large Tremere House covenant, sharing an exarch with Provencal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0509",
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal with a large Tremere House covenant; its exarch inherits leadership if Coeris falls.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0509",
+   "houses-of-hermes-true-lineages::0533",
+   "houses-of-hermes-true-lineages::0539"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal with a large Tremere covenant; its exarchate controls the British Tribunals and Normandy.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0509",
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal supervised by its own Tremere exarch.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Levant Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal overseen with Thebes by one Tremere exarch.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Provencal Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal sharing a Tremere exarch with Iberia.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal in the Stonehenge-based exarchate.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Greater Alps Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal in the exarchate with Transylvania and Novgorod.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Order-wide Tribunal that in 817 accepted certamen as decisive in all disputes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500",
+   "houses-of-hermes-true-lineages::0501"
+  ]
+ },
+ {
+  "name": "Coeris",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus Magna of House Tremere in the Transylvanian Alps, above the Gate of Eurydice and holding the House treasury.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0508",
+   "houses-of-hermes-true-lineages::0539"
+  ]
+ },
+ {
+  "name": "Covenant of Lycaneon",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Tremere covenant holding the House's amber deposits and lodging hired Verditius magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0575",
+   "houses-of-hermes-true-lineages::0576"
+  ]
+ },
+ {
+  "name": "Gate of Eurydice",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abyss beneath Coeris through which Orpheus entered the underworld; focus of Tremere funeral practice, possibly a regio.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0508",
+   "houses-of-hermes-true-lineages::0536"
+  ]
+ },
+ {
+  "name": "Waters of Forgetfulness",
+  "type": "Place",
+  "aliases": [],
+  "description": "Waters in the funeral cavern of Coeris, harvested for vis, whose residue dyes Tremere robes and heals psychological injuries.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0496",
+   "houses-of-hermes-true-lineages::0508"
+  ]
+ },
+ {
+  "name": "Mount Lycaeon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Associated with a ritual rumored to turn men into wolves for nine years.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493"
+  ]
+ },
+ {
+  "name": "Transylvania",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where House Tremere is dominant.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0515",
+   "houses-of-hermes-true-lineages::0549"
+  ]
+ },
+ {
+  "name": "Naples",
+  "type": "Place",
+  "aliases": [],
+  "description": "City over a great cave complex where Guorna's necromantic cult was based.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0494",
+   "houses-of-hermes-true-lineages::0498",
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whose catacombs hosted early Christian churches.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0498"
+  ]
+ },
+ {
+  "name": "Hades",
+  "type": "Place",
+  "aliases": [],
+  "description": "The underworld, reachable via the Gate of Eurydice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0491",
+   "houses-of-hermes-true-lineages::0508"
+  ]
+ },
+ {
+  "name": "Bulgaria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom invaded by Byzantium in 1014 and later rebelling under the Asens.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0504",
+   "houses-of-hermes-true-lineages::0507",
+   "houses-of-hermes-true-lineages::0515"
+  ]
+ },
+ {
+  "name": "Hungary",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom in the Transylvanian Tribunal ruled by Andrew II.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507",
+   "houses-of-hermes-true-lineages::0510",
+   "houses-of-hermes-true-lineages::0515"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Eastern Empire where Tremere attacked magicians; invaded Bulgaria and Hungary.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500",
+   "houses-of-hermes-true-lineages::0504",
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "aliases": [],
+  "description": "Capital occupied by the Latins, coveted by Ivan Asen II.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Tirnova",
+  "type": "Place",
+  "aliases": [],
+  "description": "Place near which the Asen brothers were minor lords.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Thrace",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region raided by Asen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Macedonia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region raided by Asen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Epirus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Balkan power in 1220.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Nicea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Balkan power in 1220.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0507"
+  ]
+ },
+ {
+  "name": "Croatia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Part of the Transylvanian Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0515"
+  ]
+ },
+ {
+  "name": "Rodopi Mountains",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains marking the southern extent of the Transylvanian Tribunal in Bulgaria.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0515"
+  ]
+ },
+ {
+  "name": "Transylvanian Alps",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mountains where Tremere built Coeris.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500",
+   "houses-of-hermes-true-lineages::0539"
+  ]
+ },
+ {
+  "name": "Dacia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Origin of another necromantic remnant group allied to Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0499"
+  ]
+ },
+ {
+  "name": "Kalkriese",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of the Varus disaster skirmish where Tremere necromancers routed Diedne magi with ghosts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0554"
+  ]
+ },
+ {
+  "name": "Cape Pachynus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of the storm destroying a Roman fleet in 255 BC.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0554",
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Cserwenitsa",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hungarian site of Europe's only significant opal deposits, secured by a Tremere covenant.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0575"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Faerie realm where the Epicurean is a continuing entity.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0538"
+  ]
+ },
+ {
+  "name": "Adriatic Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sea where the Tremere fleet is active; griffin vultures live along its coast.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0515",
+   "houses-of-hermes-true-lineages::0569",
+   "houses-of-hermes-true-lineages::0582"
+  ]
+ },
+ {
+  "name": "Black Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Sea where the Tremere fleet is active.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0515",
+   "houses-of-hermes-true-lineages::0582"
+  ]
+ },
+ {
+  "name": "Cyprus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island beyond which Tremere interests may expand.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0583"
+  ]
+ },
+ {
+  "name": "Rhodes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island home to pirates.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0583"
+  ]
+ },
+ {
+  "name": "Levant",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of Islamic wizards.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0539"
+  ]
+ },
+ {
+  "name": "Baltic Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Main alternative source of amber.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0575"
+  ]
+ },
+ {
+  "name": "River Styx",
+  "type": "Place",
+  "aliases": [],
+  "description": "Underworld river of Charon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0595"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical dueling system developed by Tremere and Bonisagus, used by House Tremere to settle disputes and mark life stages.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0500",
+   "houses-of-hermes-true-lineages::0587",
+   "houses-of-hermes-true-lineages::0590"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [
+   "the Schism"
+  ],
+  "description": "War in which House Diedne was destroyed; over half of House Tremere died.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0492",
+   "houses-of-hermes-true-lineages::0503",
+   "houses-of-hermes-true-lineages::0504"
+  ]
+ },
+ {
+  "name": "The Tempest",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Decisive battle of the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571"
+  ]
+ },
+ {
+  "name": "The Sundering",
+  "type": "Concept",
+  "aliases": [
+   "Sunderers"
+  ],
+  "description": "The 848 defeat of Tremere's plan to rule the Order, when his lieutenants' minds were broken.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0497",
+   "houses-of-hermes-true-lineages::0502",
+   "houses-of-hermes-true-lineages::0514"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sanctioned war between magi, which closely matched duelists avoid via certamen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0553",
+   "houses-of-hermes-true-lineages::0587"
+  ]
+ },
+ {
+  "name": "Wizards' March",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic outlawing and hunt of a magus, which Tremere magi attend and lead.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0525",
+   "houses-of-hermes-true-lineages::0527",
+   "houses-of-hermes-true-lineages::0529"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Test ending apprenticeship; for Tremere a certamen challenge between apprentice and master.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0541",
+   "houses-of-hermes-true-lineages::0515"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Symbol of a magus; in House Tremere a birchwood wand held by the parens until claimed by certamen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0541",
+   "houses-of-hermes-true-lineages::0542",
+   "houses-of-hermes-true-lineages::0543"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [
+   "Prima"
+  ],
+  "description": "Leader of House Tremere, ruling for life from Coeris and appointing a successor.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0522",
+   "houses-of-hermes-true-lineages::0539",
+   "houses-of-hermes-true-lineages::0550"
+  ]
+ },
+ {
+  "name": "Exarch",
+  "type": "CharacterType",
+  "aliases": [
+   "exarchs"
+  ],
+  "description": "Senior Tremere magus commanding House operations in one or more Tribunals; six exist.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0522",
+   "houses-of-hermes-true-lineages::0533",
+   "houses-of-hermes-true-lineages::0545"
+  ]
+ },
+ {
+  "name": "Legatus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Field leader of House Tremere in war and the Primus's heir.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0539",
+   "houses-of-hermes-true-lineages::0550"
+  ]
+ },
+ {
+  "name": "Secutor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere conciliarius who wins the right to assess the Primus's competency and may challenge the Primus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0545",
+   "houses-of-hermes-true-lineages::0550"
+  ]
+ },
+ {
+  "name": "Conciliarius",
+  "type": "CharacterType",
+  "aliases": [
+   "consiliari"
+  ],
+  "description": "Member of the Tremere Council holding his own sigil; councilor and counselor.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0522",
+   "houses-of-hermes-true-lineages::0523",
+   "houses-of-hermes-true-lineages::0542"
+  ]
+ },
+ {
+  "name": "Tribune",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Local Tremere advocate who speaks and votes for the House at Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0516",
+   "houses-of-hermes-true-lineages::0523",
+   "houses-of-hermes-true-lineages::0544"
+  ]
+ },
+ {
+  "name": "Vexillation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Small Tremere squad or group given a single task, some continuing indefinitely.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0535",
+   "houses-of-hermes-true-lineages::0536"
+  ]
+ },
+ {
+  "name": "Dragon banner",
+  "type": "Item",
+  "aliases": [
+   "Tribunal's Dragon Banner"
+  ],
+  "description": "Enchanted wolfish dragonhead battle banner carried for each exarch.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0535",
+   "houses-of-hermes-true-lineages::0578"
+  ]
+ },
+ {
+  "name": "Vexillation pennant",
+  "type": "Item",
+  "aliases": [],
+  "description": "Pennant enchanted with useful communication and travel effects given to vexillation leaders.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0535"
+  ]
+ },
+ {
+  "name": "Scythian torc",
+  "type": "Item",
+  "aliases": [],
+  "description": "Torc of teeth of a Scythian chieftain and warriors, made by Kore, summoning thirty-four ghostly horsemen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Skull of Guorna the Fetid",
+  "type": "Item",
+  "aliases": [],
+  "description": "Relic sought by necromancers to learn Guorna's techniques.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0555"
+  ]
+ },
+ {
+  "name": "Birchwood wand",
+  "type": "Item",
+  "aliases": [],
+  "description": "Wand serving as a young Tremere magus's sigil, used to ignite the funeral pyre.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0541",
+   "houses-of-hermes-true-lineages::0542",
+   "houses-of-hermes-true-lineages::0543"
+  ]
+ },
+ {
+  "name": "Tremere Doctrine",
+  "type": "Concept",
+  "aliases": [
+   "the Doctrine"
+  ],
+  "description": "House Tremere's method of war and philosophy of living, emphasizing coordinated soldiers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0513",
+   "houses-of-hermes-true-lineages::0514",
+   "houses-of-hermes-true-lineages::0564"
+  ]
+ },
+ {
+  "name": "Block voting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tremere practice of voting as a bloc at Tribunal via free proxies to the Tribune.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0516"
+  ]
+ },
+ {
+  "name": "Transitionalism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tremere political priority for Code changes compelling magi to assist the Order.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0517"
+  ]
+ },
+ {
+  "name": "Decennial",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ten-yearly meeting of the Tremere Council at Coeris.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0522",
+   "houses-of-hermes-true-lineages::0539",
+   "houses-of-hermes-true-lineages::0550"
+  ]
+ },
+ {
+  "name": "Ceremony of Welcome",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tremere ceremonies at which Housemates meet and Gauntlets are often held.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0511",
+   "houses-of-hermes-true-lineages::0541"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Body of Hermetic rulings Tremere seek to reform.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0516",
+   "houses-of-hermes-true-lineages::0595"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Order's law protecting mundanes and faeries; summoning the damned breaches it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0521",
+   "houses-of-hermes-true-lineages::0556"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [
+   "Parma"
+  ],
+  "description": "Hermetic magical defense; valued by Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0494",
+   "houses-of-hermes-true-lineages::0564",
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine realm's influence, which invaded necromantic sites.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0488",
+   "houses-of-hermes-true-lineages::0494",
+   "houses-of-hermes-true-lineages::0498"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The one possible exception to Tremere disdain for gods.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0518"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm to which the commonest ghosts are linked.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0556"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection against magic; cannot be granted to mounts except by extending the Parma.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0564"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "raw vis"
+  ],
+  "description": "Raw magical power measured in pawns; using it is dishonorable in Tremere duels.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0481",
+   "houses-of-hermes-true-lineages::0522",
+   "houses-of-hermes-true-lineages::0540"
+  ]
+ },
+ {
+  "name": "Arcane connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical link to a target.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0480",
+   "houses-of-hermes-true-lineages::0554",
+   "houses-of-hermes-true-lineages::0568"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical corruption, caused by using the Gate of Eurydice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0506",
+   "houses-of-hermes-true-lineages::0508"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical layered area; many think the Gate of Eurydice is one.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0508"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Specialty; Tremere magi cannot have foci other than certamen.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0576",
+   "houses-of-hermes-true-lineages::0580"
+  ]
+ },
+ {
+  "name": "Necromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic of the dead practised by Tremere's ancestors and physicians.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0494",
+   "houses-of-hermes-true-lineages::0554",
+   "houses-of-hermes-true-lineages::0584"
+  ]
+ },
+ {
+  "name": "Diabolism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon worship that Tremere watch for.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0510",
+   "houses-of-hermes-true-lineages::0533",
+   "houses-of-hermes-true-lineages::0584"
+  ]
+ },
+ {
+  "name": "Longevity potion",
+  "type": "Item",
+  "aliases": [],
+  "description": "Potion crafted by Tremere physicians.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0584"
+  ]
+ },
+ {
+  "name": "Domus Magna",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Chief covenant of a House.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0496",
+   "houses-of-hermes-true-lineages::0533"
+  ]
+ },
+ {
+  "name": "Orbus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Outcast status declared by a Primus on one challenger.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0547"
+  ]
+ },
+ {
+  "name": "Leap of Homecoming",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rego spell many Tremere use to retreat or deploy.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0553"
+  ]
+ },
+ {
+  "name": "Seven League Stride",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Riskier Rego transport spell used in desperation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0553"
+  ]
+ },
+ {
+  "name": "Weaver's Trap of Webs",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used as a guideline for whether a ghost escapes ethereal fisherman webs.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0569"
+  ]
+ },
+ {
+  "name": "Perdo Mentem ritual (Sundering)",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Likely ritual used inside Coeris to break Tremere's lieutenants' minds.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0502"
+  ]
+ },
+ {
+  "name": "Ritual of Mount Lycaeon",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rumored ritual turning men into wolves for nine years.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493"
+  ]
+ },
+ {
+  "name": "Amber Eyes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Amber eyes given to over a thousand blinded Bulgars by a single Tremere ritual, inherited in Transylvania.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0506"
+  ]
+ },
+ {
+  "name": "Mars incised with a square",
+  "type": "Concept",
+  "aliases": [],
+  "description": "House Tremere's symbol; the square represents a Roman road flagstone.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0491",
+   "houses-of-hermes-true-lineages::0492"
+  ]
+ },
+ {
+  "name": "Voluntas vincit omnia",
+  "type": "Concept",
+  "aliases": [
+   "The Will conquers all"
+  ],
+  "description": "House Tremere motto, 'The Will conquers all', rarely used.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0491",
+   "houses-of-hermes-true-lineages::0497"
+  ]
+ },
+ {
+  "name": "Butterfly and Two-Pronged Fork",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ancestral Tremere symbols of Aita's priesthood and Pluto.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0495"
+  ]
+ },
+ {
+  "name": "Tines",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tremere term for a magus's preferred certamen arts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0495"
+  ]
+ },
+ {
+  "name": "Varus Disaster",
+  "type": "Concept",
+  "aliases": [
+   "Varius Disaster"
+  ],
+  "description": "Roman defeat killing 60,000 legionaries whose ghosts routed Diedne magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0554"
+  ]
+ },
+ {
+  "name": "Duel for love",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Certamen fought without a political issue, without vis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0588"
+  ]
+ },
+ {
+  "name": "Chess",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Game with Old, Prima and Expedition variants popular among Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0598",
+   "houses-of-hermes-true-lineages::0599"
+  ]
+ },
+ {
+  "name": "Auxiliaries",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mundane soldiers led by Tremere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0538",
+   "houses-of-hermes-true-lineages::0581"
+  ]
+ },
+ {
+  "name": "School of the Swordsman",
+  "type": "Concept",
+  "aliases": [
+   "Gladiator",
+   "School of the Sword"
+  ],
+  "description": "Balanced certamen school of the Founder Tremere, reflected in the basic rules.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0591",
+   "houses-of-hermes-true-lineages::0597"
+  ]
+ },
+ {
+  "name": "Andabatus",
+  "type": "Concept",
+  "aliases": [
+   "Blind Fighting school",
+   "andabata"
+  ],
+  "description": "Blind Fighting certamen school trading Defense for Attack.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0592"
+  ]
+ },
+ {
+  "name": "Bestiarius",
+  "type": "Concept",
+  "aliases": [
+   "School of Beasts"
+  ],
+  "description": "School of Beasts used by Bjornaer, substituting Heartbeast for Finesse.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0593"
+  ]
+ },
+ {
+  "name": "Bone-Biting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Diedne-derived certamen technique of self-injury for strength.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0594"
+  ]
+ },
+ {
+  "name": "Charon (certamen trick)",
+  "type": "Concept",
+  "aliases": [
+   "School of Charon"
+  ],
+  "description": "Trick allowing two spells on an opponent at certamen's end.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0595"
+  ]
+ },
+ {
+  "name": "Essedarius",
+  "type": "Concept",
+  "aliases": [
+   "Charioteer"
+  ],
+  "description": "Charioteer certamen techniques that intimidate foes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0596"
+  ]
+ },
+ {
+  "name": "Gladiatrix",
+  "type": "Concept",
+  "aliases": [
+   "School of the Swordswoman"
+  ],
+  "description": "School of the Swordswoman using a phantasmal chessboard.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0597",
+   "houses-of-hermes-true-lineages::0598"
+  ]
+ },
+ {
+  "name": "Architects",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere Terram specialists maintaining fortifications, roads and bridges.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0577"
+  ]
+ },
+ {
+  "name": "Artificers",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere makers of ritual objects, banners, sigils and secret items.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0578"
+  ]
+ },
+ {
+  "name": "Assessor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere urban diplomats, merchants or spies with the Gentle Gift.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0579"
+  ]
+ },
+ {
+  "name": "Disputants",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere certamen specialists.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0580"
+  ]
+ },
+ {
+  "name": "Master of Auxiliaries",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere magi who lead mundane soldiers with multicast spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0581"
+  ]
+ },
+ {
+  "name": "Nauarchos",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere naval officers of the House fleet.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0582"
+  ]
+ },
+ {
+  "name": "Physicians",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere healers and corporeal necromancers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0584"
+  ]
+ },
+ {
+  "name": "Scouts",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere explorers and information gatherers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0585"
+  ]
+ },
+ {
+  "name": "Signalers",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Tremere communication and illusion specialists.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0586"
+  ]
+ },
+ {
+  "name": "Legionary ghost",
+  "type": "Creature",
+  "aliases": [
+   "Legionary"
+  ],
+  "description": "Ghost of a fallen Roman legionary, Magic Might 10 (Mentem).",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0556",
+   "houses-of-hermes-true-lineages::0557"
+  ]
+ },
+ {
+  "name": "Cataphract ghost",
+  "type": "Creature",
+  "aliases": [
+   "Cataphract"
+  ],
+  "description": "Ghost of an Eastern Empire mounted warrior, Magic Might 15, recruited by House Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0558",
+   "houses-of-hermes-true-lineages::0559"
+  ]
+ },
+ {
+  "name": "Wili",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dark faerie ghosts of maidens dead on their wedding day, used by Tremere as assassins.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0559",
+   "houses-of-hermes-true-lineages::0560",
+   "houses-of-hermes-true-lineages::0561"
+  ]
+ },
+ {
+  "name": "Moro",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Vampires created from exposed children, shape of death's head moth.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0495",
+   "houses-of-hermes-true-lineages::0562",
+   "houses-of-hermes-true-lineages::0563"
+  ]
+ },
+ {
+  "name": "Common White Wolves",
+  "type": "Creature",
+  "aliases": [
+   "white wolves"
+  ],
+  "description": "Magical wolves descended from Tremere's familiar, serving the House.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493",
+   "houses-of-hermes-true-lineages::0565",
+   "houses-of-hermes-true-lineages::0567"
+  ]
+ },
+ {
+  "name": "Shadow Owl",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Small magical raptor that blends and flies through solids.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0567",
+   "houses-of-hermes-true-lineages::0568"
+  ]
+ },
+ {
+  "name": "Fire Hawk",
+  "type": "Creature",
+  "aliases": [
+   "Fire kite"
+  ],
+  "description": "Small magical raptor that ignites objects.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0567",
+   "houses-of-hermes-true-lineages::0568"
+  ]
+ },
+ {
+  "name": "Griffin vulture",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Large raptor of the Adriatic coast, popular as intelligence gatherer.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0569"
+  ]
+ },
+ {
+  "name": "Griffin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creature griffin vultures follow.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0569"
+  ]
+ },
+ {
+  "name": "Ethereal Fisherman Spiders",
+  "type": "Creature",
+  "aliases": [
+   "Ethereal fishermen"
+  ],
+  "description": "Social spiders that trap and breed in ghosts; farmed for silk.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0569",
+   "houses-of-hermes-true-lineages::0570"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirits of the dead, varied types.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0554",
+   "houses-of-hermes-true-lineages::0556"
+  ]
+ },
+ {
+  "name": "Werewolf",
+  "type": "Creature",
+  "aliases": [
+   "werewolves"
+  ],
+  "description": "Rumored servants of House Tremere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0493"
+  ]
+ },
+ {
+  "name": "Dark faeries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries indistinguishable from solid Transylvanian ghosts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0529",
+   "houses-of-hermes-true-lineages::0556"
+  ]
+ },
+ {
+  "name": "Death's head moth",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Moth believed to be a form of the moro.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0495",
+   "houses-of-hermes-true-lineages::0563"
+  ]
+ },
+ {
+  "name": "Partially-fae horse",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Horse breed of the Burning Acorn Vexillation, tolerating Gifted riders.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0537"
+  ]
+ },
+ {
+  "name": "Genies",
+  "type": "Creature",
+  "aliases": [
+   "genie"
+  ],
+  "description": "Spirits of Arabic wizards that carry them in flight.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0583"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0552",
+   "houses-of-hermes-true-lineages::0553"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0552",
+   "houses-of-hermes-true-lineages::0554"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0552",
+   "houses-of-hermes-true-lineages::0593"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0552",
+   "houses-of-hermes-true-lineages::0553",
+   "houses-of-hermes-true-lineages::0577"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0552",
+   "houses-of-hermes-true-lineages::0564"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0552",
+   "houses-of-hermes-true-lineages::0561"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0552",
+   "houses-of-hermes-true-lineages::0568"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0553",
+   "houses-of-hermes-true-lineages::0563"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0553"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0553"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0563"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced in the Tremere chapter.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0568"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0571",
+   "houses-of-hermes-true-lineages::0573",
+   "houses-of-hermes-true-lineages::0592"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573",
+   "houses-of-hermes-true-lineages::0595"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Profession (Soldier)",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0573"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0488"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0488"
+  ]
+ },
+ {
+  "name": "Legion Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0557"
+  ]
+ },
+ {
+  "name": "Roman Army Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0559"
+  ]
+ },
+ {
+  "name": "Heartbeast",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0593"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0557",
+   "houses-of-hermes-true-lineages::0559"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0566"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0557",
+   "houses-of-hermes-true-lineages::0566"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability referenced as used or valued by Tremere magi or creatures.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0566"
+  ]
+ },
+ {
+  "name": "Amber",
+  "type": "Item",
+  "aliases": [],
+  "description": "Semiprecious stone suited to Rego, mined at Lycaneon.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0575"
+  ]
+ },
+ {
+  "name": "Rhodocrosite",
+  "type": "Item",
+  "aliases": [],
+  "description": "Semiprecious stone for memory and medical enchantments, from Coeris caves.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0575"
+  ]
+ },
+ {
+  "name": "Opal",
+  "type": "Item",
+  "aliases": [],
+  "description": "Precious stone for eye magic, from Cserwenitsa.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0575"
+  ]
+ }
+]

@@ -1,0 +1,2470 @@
+[
+ {
+  "name": "Hands of the Animal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power (2 points, constant) letting an animal manipulate and carry an item as if it had human hands with Strength +5.",
+  "evidence": [
+   "realms-of-power-faerie::0360"
+  ]
+ },
+ {
+  "name": "Hound",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power letting a faerie know the direction and distance to its human quarry; Lamia's version detects unattended babies.",
+  "evidence": [
+   "realms-of-power-faerie::0361",
+   "realms-of-power-faerie::0435"
+  ]
+ },
+ {
+  "name": "Illusionary Home",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power using glamour to make a place look, sound, smell and feel like a suitable home for the faerie's role; used by the Ghula.",
+  "evidence": [
+   "realms-of-power-faerie::0362",
+   "realms-of-power-faerie::0469"
+  ]
+ },
+ {
+  "name": "Image Phantom",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power letting a non-principal faerie coat an object with illusion to seem another thing of similar size and shape, modelled on the spell of the same name.",
+  "evidence": [
+   "realms-of-power-faerie::0363"
+  ]
+ },
+ {
+  "name": "Kiss of Forgetfulness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power causing the person touched to forget his mortal life until he sees an object associated with his home.",
+  "evidence": [
+   "realms-of-power-faerie::0364"
+  ]
+ },
+ {
+  "name": "Kiss of Frost",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power letting the person touched survive the cold above the snowline until he treads upon grass.",
+  "evidence": [
+   "realms-of-power-faerie::0365"
+  ]
+ },
+ {
+  "name": "Kiss of the Mermaid",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power letting the person kissed breathe under water until he walks upon dry land.",
+  "evidence": [
+   "realms-of-power-faerie::0366"
+  ]
+ },
+ {
+  "name": "Loosely Material",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power allowing a generally immaterial faerie to take on a material body of flesh, wood or elemental matter; also taken by Lamashtu and Mormo.",
+  "evidence": [
+   "realms-of-power-faerie::0367",
+   "realms-of-power-faerie::0433",
+   "realms-of-power-faerie::0450"
+  ]
+ },
+ {
+  "name": "Pine Away",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power causing the target to lose the will to live and vitality, treated as a major disease; glanconers use an Arcane Connection version.",
+  "evidence": [
+   "realms-of-power-faerie::0368",
+   "realms-of-power-faerie::0474"
+  ]
+ },
+ {
+  "name": "Repel Animals",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power working like Circle of Beast Warding.",
+  "evidence": [
+   "realms-of-power-faerie::0369"
+  ]
+ },
+ {
+  "name": "Send Message",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power to send short verbal messages to beings to which the faerie has Arcane Connections.",
+  "evidence": [
+   "realms-of-power-faerie::0370"
+  ]
+ },
+ {
+  "name": "Spirit Away",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power allowing the faerie to act as a threshold guardian.",
+  "evidence": [
+   "realms-of-power-faerie::0371"
+  ]
+ },
+ {
+  "name": "Spreading a Mantle of Snow",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power covering an area a mile across in snow, like Clouds of Summer Snow.",
+  "evidence": [
+   "realms-of-power-faerie::0372"
+  ]
+ },
+ {
+  "name": "Steal Judgment",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power making the target believe almost any lie the faerie tells by diminishing his capacity for doubt; possessed by glanconers.",
+  "evidence": [
+   "realms-of-power-faerie::0373",
+   "realms-of-power-faerie::0475"
+  ]
+ },
+ {
+  "name": "Torrent from the Lungs",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power, as Curse of the Desert, drawing water forth from the body for +15 damage.",
+  "evidence": [
+   "realms-of-power-faerie::0374"
+  ]
+ },
+ {
+  "name": "Transform Victim into (Animal)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power turning a target who hears the faerie's voice into a land animal for Sun duration.",
+  "evidence": [
+   "realms-of-power-faerie::0375"
+  ]
+ },
+ {
+  "name": "Transform Victim into (Bird or Fish)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power turning a target who hears the faerie's voice into a bird or fish.",
+  "evidence": [
+   "realms-of-power-faerie::0376"
+  ]
+ },
+ {
+  "name": "Transform Victim into (Object or Plant)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power turning a target into a solid inanimate object or plant.",
+  "evidence": [
+   "realms-of-power-faerie::0377"
+  ]
+ },
+ {
+  "name": "Powers of Transformation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Guidance on designing faerie transformation abilities as Greater Powers or Focus Powers.",
+  "evidence": [
+   "realms-of-power-faerie::0374"
+  ]
+ },
+ {
+  "name": "Focus Powers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Broad faerie powers costing Might equal to the effect's magnitude, with Initiative of Quickness minus maximum magnitude; cannot be reduced by intricacy points.",
+  "evidence": [
+   "realms-of-power-faerie::0378",
+   "realms-of-power-faerie::0391"
+  ]
+ },
+ {
+  "name": "Domestic Work",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Focus power performing household tasks from a distance, including kindling fires and hurling objects.",
+  "evidence": [
+   "realms-of-power-faerie::0379"
+  ]
+ },
+ {
+  "name": "Father of Serpents",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Focus power duplicating non-Ritual Creo, Intellego, Muto or Rego spells pertaining to snakes.",
+  "evidence": [
+   "realms-of-power-faerie::0380"
+  ]
+ },
+ {
+  "name": "Manifestation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Focus power manifesting the faerie's consciousness among animals and plants its glamour touches, controlling them.",
+  "evidence": [
+   "realms-of-power-faerie::0381"
+  ]
+ },
+ {
+  "name": "Shrinking",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Focus power letting a faerie reconfigure its body into any smaller Size.",
+  "evidence": [
+   "realms-of-power-faerie::0382"
+  ]
+ },
+ {
+  "name": "Smithying",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Focus power duplicating non-Ritual Creo, Muto, Rego or Perdo Terram spells, limited by motif.",
+  "evidence": [
+   "realms-of-power-faerie::0383"
+  ]
+ },
+ {
+  "name": "Miser's Midas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Focus power turning any living thing the character touches, except himself, to stone.",
+  "evidence": [
+   "realms-of-power-faerie::0384"
+  ]
+ },
+ {
+  "name": "Personal Powers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie powers affecting only the faerie itself, often tailored using intricacy points.",
+  "evidence": [
+   "realms-of-power-faerie::0385",
+   "realms-of-power-faerie::0388"
+  ]
+ },
+ {
+  "name": "Appear Human",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power allowing a humanoid faerie of size -2 to +2 to look and feel human via illusion; used by the Man in Black with a Sack on His Back.",
+  "evidence": [
+   "realms-of-power-faerie::0386",
+   "realms-of-power-faerie::0441"
+  ]
+ },
+ {
+  "name": "Extended Glamour",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power granting awareness of everything within a domain; the faerie is coterminous with its landscape feature and extends an aura.",
+  "evidence": [
+   "realms-of-power-faerie::0387",
+   "realms-of-power-faerie::0435",
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Flight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power making the character capable of flight.",
+  "evidence": [
+   "realms-of-power-faerie::0393",
+   "realms-of-power-faerie::0433"
+  ]
+ },
+ {
+  "name": "Immateriality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power making a faerie immaterial until sunrise or nightfall.",
+  "evidence": [
+   "realms-of-power-faerie::0394",
+   "realms-of-power-faerie::0436"
+  ]
+ },
+ {
+  "name": "Invisibility",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power, a personal version of Veil of Invisibility.",
+  "evidence": [
+   "realms-of-power-faerie::0395",
+   "realms-of-power-faerie::0433",
+   "realms-of-power-faerie::0441"
+  ]
+ },
+ {
+  "name": "Shift Human Shapes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power letting the character change its appearance to any other human configuration, but not replicate a specific person.",
+  "evidence": [
+   "realms-of-power-faerie::0396"
+  ]
+ },
+ {
+  "name": "Silent Motion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power allowing the character to move without noise.",
+  "evidence": [
+   "realms-of-power-faerie::0397",
+   "realms-of-power-faerie::0436"
+  ]
+ },
+ {
+  "name": "Sight Beyond Sight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power letting all five senses operate at a distance as far as the creature can see.",
+  "evidence": [
+   "realms-of-power-faerie::0398"
+  ]
+ },
+ {
+  "name": "Size Reduction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power letting the character take a single smaller Size.",
+  "evidence": [
+   "realms-of-power-faerie::0399"
+  ]
+ },
+ {
+  "name": "Supernatural Agility",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power allowing minor supernatural feats with the Athletics Pretense.",
+  "evidence": [
+   "realms-of-power-faerie::0400"
+  ]
+ },
+ {
+  "name": "Transform into Animal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power transforming the character into a specified land animal; faeries retain speech.",
+  "evidence": [
+   "realms-of-power-faerie::0401"
+  ]
+ },
+ {
+  "name": "Transform into Bird or Fish",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power transforming the character into a specified bird or fish.",
+  "evidence": [
+   "realms-of-power-faerie::0402"
+  ]
+ },
+ {
+  "name": "Transform into Human",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power for non-human faeries to take human shape; the Ghula uses it to switch between human and feasting form.",
+  "evidence": [
+   "realms-of-power-faerie::0403",
+   "realms-of-power-faerie::0386",
+   "realms-of-power-faerie::0469"
+  ]
+ },
+ {
+  "name": "Transform into (Solid Object)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power transforming the character into a specified object capable of speech and limited movement.",
+  "evidence": [
+   "realms-of-power-faerie::0404"
+  ]
+ },
+ {
+  "name": "Transform into (Environmental Effect)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Personal power transforming the character into a wave, breeze, cloud, fire or similar nebulous thing.",
+  "evidence": [
+   "realms-of-power-faerie::0405"
+  ]
+ },
+ {
+  "name": "Fatal Menses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lamashtu's constant poison power that poisons wells, kills crops and fetuses as she flies.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0433"
+  ]
+ },
+ {
+  "name": "Enthralling Sound",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power producing fear or infatuation through sound, used by Lamashtu, gorgons and the Lesser Nymph.",
+  "evidence": [
+   "realms-of-power-faerie::0433",
+   "realms-of-power-faerie::0447",
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Enthrallment",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mentem faerie power possessed by Lamia.",
+  "evidence": [
+   "realms-of-power-faerie::0435"
+  ]
+ },
+ {
+  "name": "Steal Eyes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lamia's power to remove a victim's eyes and place them in her own head.",
+  "evidence": [
+   "realms-of-power-faerie::0436",
+   "realms-of-power-faerie::0437"
+  ]
+ },
+ {
+  "name": "Squirming Sack",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power of the Man in Black moving a child who made eye contact into his sack.",
+  "evidence": [
+   "realms-of-power-faerie::0441"
+  ]
+ },
+ {
+  "name": "Still Sack",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power of the Man in Black keeping children unconscious in his sack; a powerful version of Cause Drowsiness.",
+  "evidence": [
+   "realms-of-power-faerie::0441",
+   "realms-of-power-faerie::0442"
+  ]
+ },
+ {
+  "name": "Immune to Bashing Weapons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Power of the scarecrow-bodied Man in Black making him undamaged by crushing weapons.",
+  "evidence": [
+   "realms-of-power-faerie::0441"
+  ]
+ },
+ {
+  "name": "Cause Drowsiness",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie power causing sleep; used by the Ghula.",
+  "evidence": [
+   "realms-of-power-faerie::0442",
+   "realms-of-power-faerie::0469"
+  ]
+ },
+ {
+  "name": "Deadly Gaze",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gorgon power transforming into stone any person or animal making eye contact.",
+  "evidence": [
+   "realms-of-power-faerie::0447",
+   "realms-of-power-faerie::0448"
+  ]
+ },
+ {
+  "name": "Dozens of Eyes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gorgon power of omnidirectional eyes granting extraordinary Perception.",
+  "evidence": [
+   "realms-of-power-faerie::0447",
+   "realms-of-power-faerie::0448"
+  ]
+ },
+ {
+  "name": "Venomous Bite",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gorgon hair-snake power inflicting adder venom.",
+  "evidence": [
+   "realms-of-power-faerie::0448"
+  ]
+ },
+ {
+  "name": "Possession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mormo's power to possess a victim and control her.",
+  "evidence": [
+   "realms-of-power-faerie::0450",
+   "realms-of-power-faerie::0451"
+  ]
+ },
+ {
+  "name": "Coils of the Entangling Plants",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lesser Nymph power as the spell of the same name.",
+  "evidence": [
+   "realms-of-power-faerie::0464",
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Allure",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Glanconer Mentem power.",
+  "evidence": [
+   "realms-of-power-faerie::0474"
+  ]
+ },
+ {
+  "name": "Guide",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Glanconer power working at Voice range on one who gave a love gift.",
+  "evidence": [
+   "realms-of-power-faerie::0474",
+   "realms-of-power-faerie::0475"
+  ]
+ },
+ {
+  "name": "Intricacy Points",
+  "type": "Concept",
+  "aliases": [
+   "intricacy points"
+  ],
+  "description": "Points gained from spare spell levels used to reduce faerie power costs or improve Initiative.",
+  "evidence": [
+   "realms-of-power-faerie::0382",
+   "realms-of-power-faerie::0388",
+   "realms-of-power-faerie::0389"
+  ]
+ },
+ {
+  "name": "Pretense",
+  "type": "Concept",
+  "aliases": [
+   "Pretenses",
+   "Pretence"
+  ],
+  "description": "Faerie equivalent of Abilities, powered magic that copies human skills and grows by observing humans.",
+  "evidence": [
+   "realms-of-power-faerie::0406",
+   "realms-of-power-faerie::0410",
+   "realms-of-power-faerie::0411"
+  ]
+ },
+ {
+  "name": "Player-Defined Pretenses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pretenses corresponding to a faerie's story role rather than human abilities, negotiated with the troupe.",
+  "evidence": [
+   "realms-of-power-faerie::0409",
+   "realms-of-power-faerie::0413"
+  ]
+ },
+ {
+  "name": "Chivalrous Combat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Example player-defined Pretense combining sword and lance use for a faerie knight.",
+  "evidence": [
+   "realms-of-power-faerie::0413"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The faerie substance of identity and illusion that can be changed by creative humans.",
+  "evidence": [
+   "realms-of-power-faerie::0362",
+   "realms-of-power-faerie::0417",
+   "realms-of-power-faerie::0423"
+  ]
+ },
+ {
+  "name": "Cognizance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A faerie's awareness of its role, determining its attitude to advancement (incognizant, narrowly or highly cognizant).",
+  "evidence": [
+   "realms-of-power-faerie::0418"
+  ]
+ },
+ {
+  "name": "Vitality",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Human life energy faeries harvest, stored as Pretense points to fuel advancement.",
+  "evidence": [
+   "realms-of-power-faerie::0419",
+   "realms-of-power-faerie::0428"
+  ]
+ },
+ {
+  "name": "Creativity",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Human creative collaboration required for a faerie to change its glamour and advance.",
+  "evidence": [
+   "realms-of-power-faerie::0423",
+   "realms-of-power-faerie::0424"
+  ]
+ },
+ {
+  "name": "Encased Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vis hoarded by faeries under a layer of glamour, used to aid advancement.",
+  "evidence": [
+   "realms-of-power-faerie::0419",
+   "realms-of-power-faerie::0420"
+  ]
+ },
+ {
+  "name": "Sleeping Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Vis in which a faerie has left part of its glamour, allowing later reincorporation.",
+  "evidence": [
+   "realms-of-power-faerie::0420"
+  ]
+ },
+ {
+  "name": "Faerie Advancement Through Change",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules for faeries altering their roles to gain powers via cognizance, vitality and a creative human.",
+  "evidence": [
+   "realms-of-power-faerie::0417",
+   "realms-of-power-faerie::0424"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie ability/Pretense allowing understanding of any language.",
+  "evidence": [
+   "realms-of-power-faerie::0422",
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie Virtue for perceiving the supernatural.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0450"
+  ]
+ },
+ {
+  "name": "Touch of Faerie",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Condition gained by children who survive being stolen or raised by faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0440",
+   "realms-of-power-faerie::0454"
+  ]
+ },
+ {
+  "name": "Silencing of the Oracles",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A supernatural event that destroyed the capacity of faeries to predict the future, perhaps an act of God.",
+  "evidence": [
+   "realms-of-power-faerie::0437"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Flaw/concept whereby certain objects or images repel a faerie, e.g. Lamashtu and Pazuzu.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0456"
+  ]
+ },
+ {
+  "name": "Sovereign Ward",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Flaw by which a faerie is warded off by specific things such as folk charms or sunlight.",
+  "evidence": [
+   "realms-of-power-faerie::0465",
+   "realms-of-power-faerie::0474"
+  ]
+ },
+ {
+  "name": "Restricted Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Flaw limiting Might under conditions such as sunlight, firelight or winter.",
+  "evidence": [
+   "realms-of-power-faerie::0439",
+   "realms-of-power-faerie::0441",
+   "realms-of-power-faerie::0477"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Concept",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "The ward defending a covenant, which some possessing faeries can pass if the host enters freely.",
+  "evidence": [
+   "realms-of-power-faerie::0453"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magi's magical protection, which does not resist Pretenses because they affect the faerie itself.",
+  "evidence": [
+   "realms-of-power-faerie::0410"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance against supernatural effects that faerie physical attacks must penetrate.",
+  "evidence": [
+   "realms-of-power-faerie::0379",
+   "realms-of-power-faerie::0451"
+  ]
+ },
+ {
+  "name": "Faerie Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of a faerie's supernatural power.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0435"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical link used by faerie powers such as Send Message and the glanconer's Pine Away.",
+  "evidence": [
+   "realms-of-power-faerie::0370",
+   "realms-of-power-faerie::0474"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical substance found in faerie bodies and hoarded by faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0367",
+   "realms-of-power-faerie::0419",
+   "realms-of-power-faerie::0420"
+  ]
+ },
+ {
+  "name": "Gorgoneion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The head of the gorgon used as a traditional symbol warding off evil.",
+  "evidence": [
+   "realms-of-power-faerie::0449"
+  ]
+ },
+ {
+  "name": "Life Stages",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Human transitions (birth, reason, adulthood, mastery, mortality) that attract faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0428",
+   "realms-of-power-faerie::0457",
+   "realms-of-power-faerie::0461"
+  ]
+ },
+ {
+  "name": "Two Borders",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faeries that exist simultaneously on physical and developmental borders.",
+  "evidence": [
+   "realms-of-power-faerie::0429"
+  ]
+ },
+ {
+  "name": "Tortoise Game",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A children's game described by Errina based on a faerie that possesses mothers to kill babies.",
+  "evidence": [
+   "realms-of-power-faerie::0452",
+   "realms-of-power-faerie::0453"
+  ]
+ },
+ {
+  "name": "Faerie Instructor",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue letting a faerie store human Abilities taken in bargains and give them to favored humans.",
+  "evidence": [
+   "realms-of-power-faerie::0407"
+  ]
+ },
+ {
+  "name": "Faerie Trainer",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free Supernatural Virtue: the faerie has real human Abilities and can train humans conventionally.",
+  "evidence": [
+   "realms-of-power-faerie::0408"
+  ]
+ },
+ {
+  "name": "Aloof",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor General Flaw: the faerie finds humans uninteresting and rarely increases Pretenses.",
+  "evidence": [
+   "realms-of-power-faerie::0412"
+  ]
+ },
+ {
+  "name": "Freshly Sprung",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Supernatural Flaw subtracting 50 experience points from Pretense pool.",
+  "evidence": [
+   "realms-of-power-faerie::0413"
+  ]
+ },
+ {
+  "name": "Observant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Free choice: a typical faerie increasing Pretenses two seasons per year.",
+  "evidence": [
+   "realms-of-power-faerie::0414",
+   "realms-of-power-faerie::0455"
+  ]
+ },
+ {
+  "name": "Ostentatious",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major General Virtue: the faerie gains Pretense every season; multiplier 25.",
+  "evidence": [
+   "realms-of-power-faerie::0415"
+  ]
+ },
+ {
+  "name": "Pretentious",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor General Virtue: the faerie increases Pretense three seasons per year; multiplier 20.",
+  "evidence": [
+   "realms-of-power-faerie::0416"
+  ]
+ },
+ {
+  "name": "Highly Cognizant",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue marking a faerie that understands it can use human vitality to tailor its role.",
+  "evidence": [
+   "realms-of-power-faerie::0418",
+   "realms-of-power-faerie::0420",
+   "realms-of-power-faerie::0421"
+  ]
+ },
+ {
+  "name": "Narrowly Cognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Cognizance level where a faerie knows a certain goal will bring contentment.",
+  "evidence": [
+   "realms-of-power-faerie::0418",
+   "realms-of-power-faerie::0435",
+   "realms-of-power-faerie::0469"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Cognizance level where a faerie's goals are unrelated to becoming more powerful.",
+  "evidence": [
+   "realms-of-power-faerie::0418",
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0439"
+  ]
+ },
+ {
+  "name": "Cognizant Within Role",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Cognizance Virtue possessed by the Lesser Nymph.",
+  "evidence": [
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Greater Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting spell levels of Greater Powers.",
+  "evidence": [
+   "realms-of-power-faerie::0390",
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Lesser Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue granting 25 spell levels of Lesser Powers.",
+  "evidence": [
+   "realms-of-power-faerie::0390",
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Personal Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting 25 spell levels of personal powers.",
+  "evidence": [
+   "realms-of-power-faerie::0388",
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Ritual Faerie Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting ritual-level faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0389"
+  ]
+ },
+ {
+  "name": "Focus Faerie Powers",
+  "type": "Virtue",
+  "aliases": [
+   "Focus Power Virtue"
+  ],
+  "description": "Virtue granting a Focus Power of 25 spell levels.",
+  "evidence": [
+   "realms-of-power-faerie::0391",
+   "realms-of-power-faerie::0450"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue explaining intricacy points.",
+  "evidence": [
+   "realms-of-power-faerie::0382",
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Increased Faerie Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue increasing Faerie Might.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0435"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue improving characteristics.",
+  "evidence": [
+   "realms-of-power-faerie::0435",
+   "realms-of-power-faerie::0455"
+  ]
+ },
+ {
+  "name": "Huge",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Size Virtue possessed by Lamashtu.",
+  "evidence": [
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Large",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Size Virtue possessed by Lamia.",
+  "evidence": [
+   "realms-of-power-faerie::0435"
+  ]
+ },
+ {
+  "name": "Feast of the Dead",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by Lamashtu and the Ghula.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0469"
+  ]
+ },
+ {
+  "name": "Improved Initiative",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue improving Initiative, e.g. Lamashtu's clawed hands.",
+  "evidence": [
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Hybrid Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for faeries of mixed form, like Lamia and gorgons.",
+  "evidence": [
+   "realms-of-power-faerie::0435",
+   "realms-of-power-faerie::0447"
+  ]
+ },
+ {
+  "name": "Humanoid Faerie",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for faeries of human shape.",
+  "evidence": [
+   "realms-of-power-faerie::0441",
+   "realms-of-power-faerie::0455"
+  ]
+ },
+ {
+  "name": "Decreased Might",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw reducing Might, possessed by Kubu.",
+  "evidence": [
+   "realms-of-power-faerie::0439"
+  ]
+ },
+ {
+  "name": "Intangible Flesh",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by Kubu.",
+  "evidence": [
+   "realms-of-power-faerie::0439"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw possessed by gorgons and the Lesser Nymph.",
+  "evidence": [
+   "realms-of-power-faerie::0447",
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Little",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw taken twice by the Toy Soldier.",
+  "evidence": [
+   "realms-of-power-faerie::0455"
+  ]
+ },
+ {
+  "name": "Dependant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw: the Toy Soldier depends on a child.",
+  "evidence": [
+   "realms-of-power-faerie::0455"
+  ]
+ },
+ {
+  "name": "Infiltrator",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue letting the Ghula pose as a wealthy orphaned merchant's daughter.",
+  "evidence": [
+   "realms-of-power-faerie::0469"
+  ]
+ },
+ {
+  "name": "External Vis",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw where a faerie's vis resides outside its body, e.g. in a trinket.",
+  "evidence": [
+   "realms-of-power-faerie::0474",
+   "realms-of-power-faerie::0477"
+  ]
+ },
+ {
+  "name": "Human Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by the glanconer.",
+  "evidence": [
+   "realms-of-power-faerie::0474"
+  ]
+ },
+ {
+  "name": "Non-combatant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the glanconer.",
+  "evidence": [
+   "realms-of-power-faerie::0474"
+  ]
+ },
+ {
+  "name": "Faerie Friend",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue giving a character a faerie friend, often toy-like or animal-shaped in childhood.",
+  "evidence": [
+   "realms-of-power-faerie::0454",
+   "realms-of-power-faerie::0460"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue a trapped faerie spouse might have.",
+  "evidence": [
+   "realms-of-power-faerie::0477"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting bonus to faerie advancement rolls.",
+  "evidence": [
+   "realms-of-power-faerie::0425"
+  ]
+ },
+ {
+  "name": "Free Expression",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting bonus to faerie advancement rolls and retelling stories.",
+  "evidence": [
+   "realms-of-power-faerie::0425",
+   "realms-of-power-faerie::0434"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to understand faerie motivations and treat Pine Away.",
+  "evidence": [
+   "realms-of-power-faerie::0368",
+   "realms-of-power-faerie::0422",
+   "realms-of-power-faerie::0423"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability for caring for animal-form beings.",
+  "evidence": [
+   "realms-of-power-faerie::0422"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Supernatural Ability allowing communication with animals and animal-form faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0422"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Understanding of human beings.",
+  "evidence": [
+   "realms-of-power-faerie::0422",
+   "realms-of-power-faerie::0474"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social Ability usable with any intelligent being.",
+  "evidence": [
+   "realms-of-power-faerie::0422"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0422",
+   "realms-of-power-faerie::0441"
+  ]
+ },
+ {
+  "name": "Charm",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0422",
+   "realms-of-power-faerie::0439"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0422",
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Deception Ability, used as Pretense.",
+  "evidence": [
+   "realms-of-power-faerie::0410",
+   "realms-of-power-faerie::0422"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0422"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Social Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0422"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability; faeries cannot be taught.",
+  "evidence": [
+   "realms-of-power-faerie::0422"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Physical Ability used for flight maneuvers.",
+  "evidence": [
+   "realms-of-power-faerie::0393",
+   "realms-of-power-faerie::0400"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Unarmed combat Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0413",
+   "realms-of-power-faerie::0432"
+  ]
+ },
+ {
+  "name": "Medicine",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability usable to treat Pine Away.",
+  "evidence": [
+   "realms-of-power-faerie::0368"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Perception Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0435",
+   "realms-of-power-faerie::0455"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to move unseen.",
+  "evidence": [
+   "realms-of-power-faerie::0469"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Performance Ability.",
+  "evidence": [
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Combat Ability used by the Toy Soldier.",
+  "evidence": [
+   "realms-of-power-faerie::0455"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used to see through illusions.",
+  "evidence": [
+   "realms-of-power-faerie::0389"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0361"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0362"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0364"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0365"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0366"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0369"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0371"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0372"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0383"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0381"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0380"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0380"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0380"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0380"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art referenced as a Form/Technique for faerie powers.",
+  "evidence": [
+   "realms-of-power-faerie::0383"
+  ]
+ },
+ {
+  "name": "Circle of Beast Warding",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell on which Repel Animals is based.",
+  "evidence": [
+   "realms-of-power-faerie::0369"
+  ]
+ },
+ {
+  "name": "Clouds of Summer Snow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell compared to Spreading a Mantle of Snow.",
+  "evidence": [
+   "realms-of-power-faerie::0372"
+  ]
+ },
+ {
+  "name": "Curse of the Desert",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell on which Torrent from the Lungs is based.",
+  "evidence": [
+   "realms-of-power-faerie::0374"
+  ]
+ },
+ {
+  "name": "Disguise of the Transformed Image",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used as basis for an impersonation power.",
+  "evidence": [
+   "realms-of-power-faerie::0387",
+   "realms-of-power-faerie::0388"
+  ]
+ },
+ {
+  "name": "Donning the Mask of Another",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual from House of Hermes: Societates duplicating an individual's memories.",
+  "evidence": [
+   "realms-of-power-faerie::0389"
+  ]
+ },
+ {
+  "name": "Ambush on the Deserted Road",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell for selective invisibility.",
+  "evidence": [
+   "realms-of-power-faerie::0390"
+  ]
+ },
+ {
+  "name": "Veil of Invisibility",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell on which the Invisibility power is based.",
+  "evidence": [
+   "realms-of-power-faerie::0395"
+  ]
+ },
+ {
+  "name": "Treading the Ashen Path",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeHe 30 spell used as basis for Fatal Menses.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0433"
+  ]
+ },
+ {
+  "name": "Coils of Entangling Plants",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Herbam spell underlying the nymph power.",
+  "evidence": [
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Image Phantom (spell)",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Imaginem spell on which the Image Phantom power is based.",
+  "evidence": [
+   "realms-of-power-faerie::0363"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "The realm of faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0371",
+   "realms-of-power-faerie::0427"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine realm within which some faeries travel.",
+  "evidence": [
+   "realms-of-power-faerie::0362"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm that casts down faeries grown too powerful.",
+  "evidence": [
+   "realms-of-power-faerie::0426"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm whose edges faerie horrors lie at.",
+  "evidence": [
+   "realms-of-power-faerie::0444",
+   "realms-of-power-faerie::0454"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "Realm associated with primordial cyclopes.",
+  "evidence": [
+   "realms-of-power-faerie::0445",
+   "realms-of-power-faerie::0444"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Faerie otherworld where humans who eat faerie food are trapped.",
+  "evidence": [
+   "realms-of-power-faerie::0428"
+  ]
+ },
+ {
+  "name": "Deep Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where faeries grown mighty enough go and are lost.",
+  "evidence": [
+   "realms-of-power-faerie::0426"
+  ]
+ },
+ {
+  "name": "Corinth",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of an ancient shrine to Lamia and of Apollonios's wedding confrontation.",
+  "evidence": [
+   "realms-of-power-faerie::0437",
+   "realms-of-power-faerie::0470"
+  ]
+ },
+ {
+  "name": "Libya",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land whose queen became Lamia.",
+  "evidence": [
+   "realms-of-power-faerie::0436"
+  ]
+ },
+ {
+  "name": "Babylon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient land whose faerie gods rivaled Lamashtu.",
+  "evidence": [
+   "realms-of-power-faerie::0434"
+  ]
+ },
+ {
+  "name": "Greece",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of lamiae, gorgons and cyclopes.",
+  "evidence": [
+   "realms-of-power-faerie::0438",
+   "realms-of-power-faerie::0445"
+  ]
+ },
+ {
+  "name": "Yorkshire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the Grindylow.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Wales",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the Morgan.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the Pontarf and Coinchenn.",
+  "evidence": [
+   "realms-of-power-faerie::0446",
+   "realms-of-power-faerie::0478"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the Lammikin.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Bohemia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of the Jezinkas.",
+  "evidence": [
+   "realms-of-power-faerie::0467"
+  ]
+ },
+ {
+  "name": "Asturia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where the Dragon-Maiden lives in a cave.",
+  "evidence": [
+   "realms-of-power-faerie::0478"
+  ]
+ },
+ {
+  "name": "Hades",
+  "type": "Place",
+  "aliases": [],
+  "description": "Classical afterlife likened to eternal life without events.",
+  "evidence": [
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Place",
+  "aliases": [],
+  "description": "To which faeries tithe souls in some beliefs.",
+  "evidence": [
+   "realms-of-power-faerie::0444"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting.",
+  "evidence": [
+   "realms-of-power-faerie::0442",
+   "realms-of-power-faerie::0457"
+  ]
+ },
+ {
+  "name": "Lamashtu",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ancient Babylonian goddess of stillbirth, a Might 45 faerie with lion head, donkey teeth and owl feet.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0433",
+   "realms-of-power-faerie::0434"
+  ]
+ },
+ {
+  "name": "Lamia",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Former queen of Libya, cursed by Hera, now a serpent-bodied faerie who eats children and steals eyes.",
+  "evidence": [
+   "realms-of-power-faerie::0435",
+   "realms-of-power-faerie::0436",
+   "realms-of-power-faerie::0437"
+  ]
+ },
+ {
+  "name": "Lamiae",
+  "type": "Creature",
+  "aliases": [
+   "lamia",
+   "lesser lamiae"
+  ],
+  "description": "Lesser Greek faeries with goat or snake bodies that eat babies and drink blood.",
+  "evidence": [
+   "realms-of-power-faerie::0438",
+   "realms-of-power-faerie::0470"
+  ]
+ },
+ {
+  "name": "Kubu",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infant-sized faerie, a child who died unnamed, who lures children away to die.",
+  "evidence": [
+   "realms-of-power-faerie::0439"
+  ]
+ },
+ {
+  "name": "The Man in Black with a Sack on His Back",
+  "type": "Creature",
+  "aliases": [
+   "Man in Black"
+  ],
+  "description": "Scarecrow-bodied faerie that steals naughty children in a sack.",
+  "evidence": [
+   "realms-of-power-faerie::0441",
+   "realms-of-power-faerie::0442"
+  ]
+ },
+ {
+  "name": "Changeling",
+  "type": "Creature",
+  "aliases": [
+   "Gerontified Faerie"
+  ],
+  "description": "Withered faerie exchanged for a mortal baby to be rejuvenated by a mother's nurture.",
+  "evidence": [
+   "realms-of-power-faerie::0443",
+   "realms-of-power-faerie::0444",
+   "realms-of-power-faerie::0458"
+  ]
+ },
+ {
+  "name": "Black Terrors",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Weakest faeries observed: dark shapes on children's walls with 1 Might.",
+  "evidence": [
+   "realms-of-power-faerie::0445"
+  ]
+ },
+ {
+  "name": "Cyclopes",
+  "type": "Creature",
+  "aliases": [
+   "cyclops"
+  ],
+  "description": "Cannibalistic one-eyed giants used as Greek nursery terrors.",
+  "evidence": [
+   "realms-of-power-faerie::0445"
+  ]
+ },
+ {
+  "name": "Licho",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A kind of cyclops used as a Slavic nursery terror.",
+  "evidence": [
+   "realms-of-power-faerie::0445"
+  ]
+ },
+ {
+  "name": "Jenny Greenteeth",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Nursery terror who drags children into wells.",
+  "evidence": [
+   "realms-of-power-faerie::0445",
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Grindylow",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Yorkshire variant of Jenny Greenteeth inhabiting pools and marshes.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Nellie Long Arms",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Variant of Jenny Greenteeth with long arms.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Morgan",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Welsh freshwater merman nursery terror.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Pontarf",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Irish giant fish nursery terror.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Lammikin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ugly Scottish faerie who torments children and kills mothers.",
+  "evidence": [
+   "realms-of-power-faerie::0446"
+  ]
+ },
+ {
+  "name": "Gorgon",
+  "type": "Creature",
+  "aliases": [
+   "gorgons"
+  ],
+  "description": "Nursery terror faerie with snake hair, tusks, brass claws and a petrifying gaze.",
+  "evidence": [
+   "realms-of-power-faerie::0447",
+   "realms-of-power-faerie::0448",
+   "realms-of-power-faerie::0449"
+  ]
+ },
+ {
+  "name": "Medusa",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Gorgon whose name means protector.",
+  "evidence": [
+   "realms-of-power-faerie::0449"
+  ]
+ },
+ {
+  "name": "Mormo",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Possessing faerie that bites naughty children, once a mother turned werewolf.",
+  "evidence": [
+   "realms-of-power-faerie::0450",
+   "realms-of-power-faerie::0451",
+   "realms-of-power-faerie::0452"
+  ]
+ },
+ {
+  "name": "The Tortoise",
+  "type": "Creature",
+  "aliases": [
+   "Tortoise"
+  ],
+  "description": "Faerie that possesses mothers to kill their babies; Mormo's role mate.",
+  "evidence": [
+   "realms-of-power-faerie::0452",
+   "realms-of-power-faerie::0453"
+  ]
+ },
+ {
+  "name": "Faerie Godmothers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Protector faeries who guard and gift godchildren.",
+  "evidence": [
+   "realms-of-power-faerie::0454"
+  ]
+ },
+ {
+  "name": "Imaginary Friends",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Toy-like faerie friends of children.",
+  "evidence": [
+   "realms-of-power-faerie::0454"
+  ]
+ },
+ {
+  "name": "Toy Soldier",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Foot-tall wooden faerie soldier guarding a sleeping child.",
+  "evidence": [
+   "realms-of-power-faerie::0455",
+   "realms-of-power-faerie::0456"
+  ]
+ },
+ {
+  "name": "Faerie Animal Companions",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Animal-shaped faeries who take children on adventures.",
+  "evidence": [
+   "realms-of-power-faerie::0460"
+  ]
+ },
+ {
+  "name": "Guides to Adventure",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Child-stealing faeries who take children on dangerous stories.",
+  "evidence": [
+   "realms-of-power-faerie::0458",
+   "realms-of-power-faerie::0459"
+  ]
+ },
+ {
+  "name": "Nymphs",
+  "type": "Creature",
+  "aliases": [
+   "nymph"
+  ],
+  "description": "Beautiful faeries living at the edge of domesticated land who entrap lovers.",
+  "evidence": [
+   "realms-of-power-faerie::0462",
+   "realms-of-power-faerie::0463",
+   "realms-of-power-faerie::0477"
+  ]
+ },
+ {
+  "name": "Lesser Nymph",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Weak dancing nymph with Might 10.",
+  "evidence": [
+   "realms-of-power-faerie::0464",
+   "realms-of-power-faerie::0465"
+  ]
+ },
+ {
+  "name": "Satyrs",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Allies a nymph can summon.",
+  "evidence": [
+   "realms-of-power-faerie::0464"
+  ]
+ },
+ {
+  "name": "Jezinkas",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Bohemian faeries who steal eyes after lulling men to sleep.",
+  "evidence": [
+   "realms-of-power-faerie::0467"
+  ]
+ },
+ {
+  "name": "Ghula",
+  "type": "Creature",
+  "aliases": [
+   "ghul",
+   "ghuls"
+  ],
+  "description": "Faeries who marry and eat husbands, draining their blood.",
+  "evidence": [
+   "realms-of-power-faerie::0469",
+   "realms-of-power-faerie::0470",
+   "realms-of-power-faerie::0471"
+  ]
+ },
+ {
+  "name": "Ghaddar",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ghula form who entices and paralyzes men.",
+  "evidence": [
+   "realms-of-power-faerie::0473"
+  ]
+ },
+ {
+  "name": "Glanconer",
+  "type": "Creature",
+  "aliases": [
+   "love talker"
+  ],
+  "description": "Handsome male faerie who courts girls until they pine to death.",
+  "evidence": [
+   "realms-of-power-faerie::0474",
+   "realms-of-power-faerie::0475",
+   "realms-of-power-faerie::0476"
+  ]
+ },
+ {
+  "name": "Kelpies",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie horses that drown victims.",
+  "evidence": [
+   "realms-of-power-faerie::0476"
+  ]
+ },
+ {
+  "name": "Selkies",
+  "type": "Creature",
+  "aliases": [
+   "selkie"
+  ],
+  "description": "Faeries made into wives by theft of their sealskin.",
+  "evidence": [
+   "realms-of-power-faerie::0429",
+   "realms-of-power-faerie::0477"
+  ]
+ },
+ {
+  "name": "Bird Women",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries forced to be spouses when their feather cloaks are stolen.",
+  "evidence": [
+   "realms-of-power-faerie::0477"
+  ]
+ },
+ {
+  "name": "Coinchenn",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Dog-headed Irish giantess who beheads her daughter's suitors.",
+  "evidence": [
+   "realms-of-power-faerie::0478"
+  ]
+ },
+ {
+  "name": "The Dragon-Maiden",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Asturian girl turned into a cuelebre by a nymph.",
+  "evidence": [
+   "realms-of-power-faerie::0478"
+  ]
+ },
+ {
+  "name": "Cuelebre",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A sort of dragon.",
+  "evidence": [
+   "realms-of-power-faerie::0478"
+  ]
+ },
+ {
+  "name": "Child Killers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Common faeries of folklore that kill children.",
+  "evidence": [
+   "realms-of-power-faerie::0431"
+  ]
+ },
+ {
+  "name": "Child Stealers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries that steal children.",
+  "evidence": [
+   "realms-of-power-faerie::0440",
+   "realms-of-power-faerie::0458"
+  ]
+ },
+ {
+  "name": "Nursery Terrors",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries that terrify children.",
+  "evidence": [
+   "realms-of-power-faerie::0445"
+  ]
+ },
+ {
+  "name": "Doppelganger",
+  "type": "Creature",
+  "aliases": [
+   "fetch"
+  ],
+  "description": "German faerie appearing as a person's duplicate.",
+  "evidence": [
+   "realms-of-power-faerie::0387"
+  ]
+ },
+ {
+  "name": "Faun",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie that steals infants to the forest.",
+  "evidence": [
+   "realms-of-power-faerie::0429"
+  ]
+ },
+ {
+  "name": "Faerie Knight",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie knight with Pretenses.",
+  "evidence": [
+   "realms-of-power-faerie::0396",
+   "realms-of-power-faerie::0406"
+  ]
+ },
+ {
+  "name": "Courtly Faeries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Statistical template for powerful faeries.",
+  "evidence": [
+   "realms-of-power-faerie::0454",
+   "realms-of-power-faerie::0467"
+  ]
+ },
+ {
+  "name": "Pazuzu",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Babylonian disease spirit whose image Lamashtu fears.",
+  "evidence": [
+   "realms-of-power-faerie::0432",
+   "realms-of-power-faerie::0434"
+  ]
+ },
+ {
+  "name": "Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Guards of perfect spouses.",
+  "evidence": [
+   "realms-of-power-faerie::0478"
+  ]
+ },
+ {
+  "name": "Neil",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example player who designs a doppelganger faerie.",
+  "evidence": [
+   "realms-of-power-faerie::0387",
+   "realms-of-power-faerie::0388"
+  ]
+ },
+ {
+  "name": "Dave",
+  "type": "Character",
+  "aliases": [],
+  "description": "Example player with faerie knight.",
+  "evidence": [
+   "realms-of-power-faerie::0413"
+  ]
+ },
+ {
+  "name": "Zeus",
+  "type": "Character",
+  "aliases": [],
+  "description": "God who loved Lamia.",
+  "evidence": [
+   "realms-of-power-faerie::0436",
+   "realms-of-power-faerie::0437"
+  ]
+ },
+ {
+  "name": "Hera",
+  "type": "Character",
+  "aliases": [],
+  "description": "Goddess who cursed Lamia.",
+  "evidence": [
+   "realms-of-power-faerie::0436"
+  ]
+ },
+ {
+  "name": "Scylla",
+  "type": "Character",
+  "aliases": [],
+  "description": "Lamia's surviving child.",
+  "evidence": [
+   "realms-of-power-faerie::0436"
+  ]
+ },
+ {
+  "name": "Perseus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero who used the gorgon's head.",
+  "evidence": [
+   "realms-of-power-faerie::0449"
+  ]
+ },
+ {
+  "name": "Errina",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient Greek writer who described the tortoise game.",
+  "evidence": [
+   "realms-of-power-faerie::0452"
+  ]
+ },
+ {
+  "name": "Lady of the Lake",
+  "type": "Character",
+  "aliases": [],
+  "description": "Captured Merlin.",
+  "evidence": [
+   "realms-of-power-faerie::0462"
+  ]
+ },
+ {
+  "name": "Merlin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Captured by the Lady of the Lake.",
+  "evidence": [
+   "realms-of-power-faerie::0462"
+  ]
+ },
+ {
+  "name": "Triamore",
+  "type": "Character",
+  "aliases": [],
+  "description": "Faerie lover who silences a knight.",
+  "evidence": [
+   "realms-of-power-faerie::0462"
+  ]
+ },
+ {
+  "name": "True Thomas",
+  "type": "Character",
+  "aliases": [],
+  "description": "Struck dumb by the faerie queen.",
+  "evidence": [
+   "realms-of-power-faerie::0462"
+  ]
+ },
+ {
+  "name": "Calypso",
+  "type": "Character",
+  "aliases": [],
+  "description": "Offered Odysseus eternal domestic bliss.",
+  "evidence": [
+   "realms-of-power-faerie::0462"
+  ]
+ },
+ {
+  "name": "Odysseus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero tempted by Calypso.",
+  "evidence": [
+   "realms-of-power-faerie::0462"
+  ]
+ },
+ {
+  "name": "Sir Degare",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero of a lai left gloves and a sword.",
+  "evidence": [
+   "realms-of-power-faerie::0467"
+  ]
+ },
+ {
+  "name": "Sir Gawain",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero of Sir Gawain and the Green Knight.",
+  "evidence": [
+   "realms-of-power-faerie::0467"
+  ]
+ },
+ {
+  "name": "Philostratus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Recorded Apollonios's conflict with a ghula.",
+  "evidence": [
+   "realms-of-power-faerie::0470"
+  ]
+ },
+ {
+  "name": "Apollonios of Tyana",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient magician who confronted a ghula in Corinth.",
+  "evidence": [
+   "realms-of-power-faerie::0470"
+  ]
+ },
+ {
+  "name": "Rapunzel",
+  "type": "Character",
+  "aliases": [],
+  "description": "Story using a witch.",
+  "evidence": [
+   "realms-of-power-faerie::0478"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The magical order.",
+  "evidence": [
+   "realms-of-power-faerie::0427",
+   "realms-of-power-faerie::0445"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Protects life stages with sacraments.",
+  "evidence": [
+   "realms-of-power-faerie::0428",
+   "realms-of-power-faerie::0444"
+  ]
+ },
+ {
+  "name": "Magical Gloves and Sword of Degare",
+  "type": "Item",
+  "aliases": [],
+  "description": "Gloves and broken-pointed sword left by Degare's faerie father.",
+  "evidence": [
+   "realms-of-power-faerie::0467"
+  ]
+ },
+ {
+  "name": "Seal Skin",
+  "type": "Item",
+  "aliases": [],
+  "description": "Skin whose theft binds a selkie wife.",
+  "evidence": [
+   "realms-of-power-faerie::0477"
+  ]
+ }
+]

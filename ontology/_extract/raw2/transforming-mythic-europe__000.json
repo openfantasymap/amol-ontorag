@@ -1,0 +1,2251 @@
+[
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The society of Hermetic magi, the most powerful workers of magic the world has known; this book explores integrating it into medieval society as a Fourth Estate.",
+  "evidence": [
+   "transforming-mythic-europe::0012",
+   "transforming-mythic-europe::0021",
+   "transforming-mythic-europe::0022"
+  ]
+ },
+ {
+  "name": "Fourth Estate",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Fourth Estate"
+  ],
+  "description": "Proposed end state in which the Order of Hermes becomes a recognized estate of society alongside clergy, nobility and commoners, with legal rights and obligations.",
+  "evidence": [
+   "transforming-mythic-europe::0021",
+   "transforming-mythic-europe::0025",
+   "transforming-mythic-europe::0036"
+  ]
+ },
+ {
+  "name": "Four Estates",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Division of Mythic Europe into those who pray, rule and toil (Church, nobility, peasants/townsfolk), to which the Order would add a fourth.",
+  "evidence": [
+   "transforming-mythic-europe::0022"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting of Ars Magica, a recognizable medieval world in 1220 that Hermetic magi have power to transform.",
+  "evidence": [
+   "transforming-mythic-europe::0012",
+   "transforming-mythic-europe::0020",
+   "transforming-mythic-europe::0022"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The body of Hermetic law whose interpretation, especially regarding interference with mundanes, shapes how the Order can engage with society.",
+  "evidence": [
+   "transforming-mythic-europe::0014",
+   "transforming-mythic-europe::0039",
+   "transforming-mythic-europe::0106"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Oath"
+  ],
+  "description": "The oath sworn by every magus, which supersedes Tribunal and Grand Tribunal rulings and forbids interfering in mundane affairs as interpreted.",
+  "evidence": [
+   "transforming-mythic-europe::0014",
+   "transforming-mythic-europe::0015",
+   "transforming-mythic-europe::0039"
+  ]
+ },
+ {
+  "name": "Peripheral Code",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The body of Tribunal rulings interpreting the Oath; magi may seek its clarification or amendment to permit engagement with mundanes.",
+  "evidence": [
+   "transforming-mythic-europe::0014",
+   "transforming-mythic-europe::0039",
+   "transforming-mythic-europe::0067"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Order-wide council held every 33 years at Durenmar, attended by three representatives per Tribunal and the twelve Primi; its rulings supersede local law.",
+  "evidence": [
+   "transforming-mythic-europe::0015",
+   "transforming-mythic-europe::0044",
+   "transforming-mythic-europe::0082"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Regional council of magi held every seven years where cases of interference are judged and the Peripheral Code clarified or amended.",
+  "evidence": [
+   "transforming-mythic-europe::0044",
+   "transforming-mythic-europe::0061",
+   "transforming-mythic-europe::0067"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Hermetic House responsible for interpreting the Code of Hermes; it holds the Oath and Code at its heart and is split between Traditionalists and Transitionalists.",
+  "evidence": [
+   "transforming-mythic-europe::0014",
+   "transforming-mythic-europe::0077",
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Traditionalists",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Faction within House Guernicus holding that local Tribunals govern only their Peripheral Code, that the Order is a loose society of equals, and likely opposing a Fourth Estate.",
+  "evidence": [
+   "transforming-mythic-europe::0014",
+   "transforming-mythic-europe::0015",
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Transitionalists",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Faction within House Guernicus favoring adaptable local laws and policing powers for Quaesitores, likely welcoming the Fourth Estate.",
+  "evidence": [
+   "transforming-mythic-europe::0015",
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores",
+   "Quaesitors"
+  ],
+  "description": "Hermetic investigators and judges who enforce the Code; Transitionalists would grant them policing powers.",
+  "evidence": [
+   "transforming-mythic-europe::0015",
+   "transforming-mythic-europe::0072",
+   "transforming-mythic-europe::0094"
+  ]
+ },
+ {
+  "name": "Saga Speed",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules concept for the pace of a saga (slow, fast, pulsed) affecting how transformations manifest in play.",
+  "evidence": [
+   "transforming-mythic-europe::0016"
+  ]
+ },
+ {
+  "name": "Pulsed Saga",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A saga style alternating detailed stories with passages of several years, ideal for sagas of transformation.",
+  "evidence": [
+   "transforming-mythic-europe::0016"
+  ]
+ },
+ {
+  "name": "Kingdom of Prester John",
+  "type": "Place",
+  "aliases": [
+   "Prester John"
+  ],
+  "description": "Legendary realm of medieval fable used as a tonal model for an island-of-magicians saga.",
+  "evidence": [
+   "transforming-mythic-europe::0018"
+  ]
+ },
+ {
+  "name": "Voyages of John de Mandeville",
+  "type": "Item",
+  "aliases": [],
+  "description": "Medieval fable cited as a tonal model for a high-fantasy island saga.",
+  "evidence": [
+   "transforming-mythic-europe::0018"
+  ]
+ },
+ {
+  "name": "Catharism",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Religious movement cited as a historical model for the spread of ideas.",
+  "evidence": [
+   "transforming-mythic-europe::0013"
+  ]
+ },
+ {
+  "name": "Shepherd's Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Historical popular movement cited as inspiration for the spread of an idea through society.",
+  "evidence": [
+   "transforming-mythic-europe::0013"
+  ]
+ },
+ {
+  "name": "Antagonists",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ars Magica supplement presenting characters such as Giraud Le Cornu, Geoffroi D'Arques, Bishop Orris, Joseph of Napoli and Galatea.",
+  "evidence": [
+   "transforming-mythic-europe::0026",
+   "transforming-mythic-europe::0095"
+  ]
+ },
+ {
+  "name": "Giraud Le Cornu",
+  "type": "Character",
+  "aliases": [],
+  "description": "A baron from Antagonists representing the Order drawing closer to the mundane and nobles' interest in the supernatural.",
+  "evidence": [
+   "transforming-mythic-europe::0026"
+  ]
+ },
+ {
+  "name": "Geoffroi D'Arques",
+  "type": "Character",
+  "aliases": [],
+  "description": "A baron from Antagonists representing the nobility's rising interest in the supernatural.",
+  "evidence": [
+   "transforming-mythic-europe::0026"
+  ]
+ },
+ {
+  "name": "Bishop Orris",
+  "type": "Character",
+  "aliases": [],
+  "description": "Churchman from Antagonists representing the Church's strong distrust of magic and the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0026"
+  ]
+ },
+ {
+  "name": "Joseph of Napoli",
+  "type": "Character",
+  "aliases": [
+   "Father Joseph of Napoli"
+  ],
+  "description": "Reforming churchman from Antagonists keen to bring the Order into the Church; ideal counterpart for a Hermetic proctor at the papal curia.",
+  "evidence": [
+   "transforming-mythic-europe::0026",
+   "transforming-mythic-europe::0095"
+  ]
+ },
+ {
+  "name": "Galatea",
+  "type": "Character",
+  "aliases": [],
+  "description": "Maga of House Guernicus from Antagonists who may watch the covenant for crimes.",
+  "evidence": [
+   "transforming-mythic-europe::0026"
+  ]
+ },
+ {
+  "name": "Cost of Breaking Convention",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional guideline imposing a -1 social penalty on magi who dress above their station or flaunt familiars.",
+  "evidence": [
+   "transforming-mythic-europe::0030",
+   "transforming-mythic-europe::0031"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gifted"
+  ],
+  "description": "The magical talent of magi, whose unsettling effect makes Gentle-Gifted advisers preferable for nobles.",
+  "evidence": [
+   "transforming-mythic-europe::0030",
+   "transforming-mythic-europe::0090"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Gentle-Gifted"
+  ],
+  "description": "Virtue whose bearers lack the Gift's unsettling effect, making them suitable advisers to kings and proctors.",
+  "evidence": [
+   "transforming-mythic-europe::0030",
+   "transforming-mythic-europe::0090",
+   "transforming-mythic-europe::0094"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [
+   "longevity ritual"
+  ],
+  "description": "Hermetic ritual preserving youthful vigor, raising questions about magi's feudal service; leper magi of Tytalus specialize in it.",
+  "evidence": [
+   "transforming-mythic-europe::0032",
+   "transforming-mythic-europe::0079"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A magus's bonded animal companion, whose ownership may conflict with laws restricting certain beasts.",
+  "evidence": [
+   "transforming-mythic-europe::0030",
+   "transforming-mythic-europe::0035",
+   "transforming-mythic-europe::0036"
+  ]
+ },
+ {
+  "name": "Grog",
+  "type": "CharacterType",
+  "aliases": [
+   "grogs"
+  ],
+  "description": "Covenant servants and soldiers whose feudal military service obligations are unclear.",
+  "evidence": [
+   "transforming-mythic-europe::0023"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Communities of magi; under the Fourth Estate they become legal entities and liege lords with vassals.",
+  "evidence": [
+   "transforming-mythic-europe::0025",
+   "transforming-mythic-europe::0030",
+   "transforming-mythic-europe::0035"
+  ]
+ },
+ {
+  "name": "Laboratory Text",
+  "type": "Concept",
+  "aliases": [
+   "Laboratory Texts"
+  ],
+  "description": "Written record of lab work; making practical ones widely available lets younger magi craft devices for society.",
+  "evidence": [
+   "transforming-mythic-europe::0036",
+   "transforming-mythic-europe::0062"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power; claiming vis sources raises questions of mundane ownership, and it is the medium of Transylvanian Hermetic taxes.",
+  "evidence": [
+   "transforming-mythic-europe::0035",
+   "transforming-mythic-europe::0037",
+   "transforming-mythic-europe::0056"
+  ]
+ },
+ {
+  "name": "Join or Die",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Order's nominal policy toward other workers of magic, problematic because mundane authorities see such killings as murder.",
+  "evidence": [
+   "transforming-mythic-europe::0034",
+   "transforming-mythic-europe::0063"
+  ]
+ },
+ {
+  "name": "Transylvanian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Transylvania"
+  ],
+  "description": "Tremere-dominated Tribunal with the trappings of a Hermetic state: Coeris at its head, vis taxes, stratified magi and oppida.",
+  "evidence": [
+   "transforming-mythic-europe::0037",
+   "transforming-mythic-europe::0038",
+   "transforming-mythic-europe::0071"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House that structures the Transylvanian Tribunal as a state and broadly supports exchanging rights for responsibilities.",
+  "evidence": [
+   "transforming-mythic-europe::0037",
+   "transforming-mythic-europe::0038",
+   "transforming-mythic-europe::0079"
+  ]
+ },
+ {
+  "name": "Coeris",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "The covenant at the head of the Transylvanian Hermetic state.",
+  "evidence": [
+   "transforming-mythic-europe::0037"
+  ]
+ },
+ {
+  "name": "Oppidum",
+  "type": "Concept",
+  "aliases": [
+   "oppida"
+  ],
+  "description": "Transylvanian term for what other Tribunals call covenants; able to specialize with needs met by the state.",
+  "evidence": [
+   "transforming-mythic-europe::0037",
+   "transforming-mythic-europe::0038"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Normandy"
+  ],
+  "description": "Tribunal whose Peripheral Code accepts magi living in cities and provides guidance on their conduct.",
+  "evidence": [
+   "transforming-mythic-europe::0032",
+   "transforming-mythic-europe::0037",
+   "transforming-mythic-europe::0071"
+  ]
+ },
+ {
+  "name": "Theban Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Thebes"
+  ],
+  "description": "Recovering Tribunal with a well-defined structure and its own view on mundane relations shaped by occupation.",
+  "evidence": [
+   "transforming-mythic-europe::0037",
+   "transforming-mythic-europe::0071"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus",
+   "Tytalean"
+  ],
+  "description": "Hermetic House with fractured opinions and two primi sharing one vote; home of the leper magi aegroti.",
+  "evidence": [
+   "transforming-mythic-europe::0038",
+   "transforming-mythic-europe::0079",
+   "transforming-mythic-europe::0086"
+  ]
+ },
+ {
+  "name": "Covenant Hooks",
+  "type": "Concept",
+  "aliases": [
+   "Hooks and Boons"
+  ],
+  "description": "Covenant-level story features (e.g. Castle, Road, Urban) that draw covenants into mundane affairs.",
+  "evidence": [
+   "transforming-mythic-europe::0040",
+   "transforming-mythic-europe::0046",
+   "transforming-mythic-europe::0047"
+  ]
+ },
+ {
+  "name": "Story Flaw",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Character Flaws that generate stories, used to draw magi into mundane society.",
+  "evidence": [
+   "transforming-mythic-europe::0040",
+   "transforming-mythic-europe::0046",
+   "transforming-mythic-europe::0053"
+  ]
+ },
+ {
+  "name": "Alienable Land",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: covenant lands may be sold or mortgaged to outsiders, drawing in the mundane world.",
+  "evidence": [
+   "transforming-mythic-europe::0047"
+  ]
+ },
+ {
+  "name": "Beholden",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: the covenant is beholden to nobles or clergy.",
+  "evidence": [
+   "transforming-mythic-europe::0047",
+   "transforming-mythic-europe::0052"
+  ]
+ },
+ {
+  "name": "Castle",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook/Boon: the covenant occupies a castle, concerning regional nobles.",
+  "evidence": [
+   "transforming-mythic-europe::0047",
+   "transforming-mythic-europe::0048"
+  ]
+ },
+ {
+  "name": "Dumping Ground",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: covenant cares for old and infirm nobles, risking interference charges if magic restores them.",
+  "evidence": [
+   "transforming-mythic-europe::0048"
+  ]
+ },
+ {
+  "name": "Fosterage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: magi educate a young noble, potentially spreading acceptance of Hermetic magic; also a way to seal supernatural alliances.",
+  "evidence": [
+   "transforming-mythic-europe::0048",
+   "transforming-mythic-europe::0049",
+   "transforming-mythic-europe::0101"
+  ]
+ },
+ {
+  "name": "Heavy Cavalry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Boon: the covenant maintains a mounted military force requiring good relations with neighbors.",
+  "evidence": [
+   "transforming-mythic-europe::0049"
+  ]
+ },
+ {
+  "name": "Mundane Politics",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: the covenant is deeply embroiled in mundane politics.",
+  "evidence": [
+   "transforming-mythic-europe::0049"
+  ]
+ },
+ {
+  "name": "Protector",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: covenant is committed to protecting a village or supernatural place.",
+  "evidence": [
+   "transforming-mythic-europe::0049",
+   "transforming-mythic-europe::0050"
+  ]
+ },
+ {
+  "name": "Road",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: covenant lies on a major road, river or sea route guaranteeing mundane contact.",
+  "evidence": [
+   "transforming-mythic-europe::0050"
+  ]
+ },
+ {
+  "name": "Tame Nobleman",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Boon: a nobleman fronts for the covenant's rule over its lands.",
+  "evidence": [
+   "transforming-mythic-europe::0050",
+   "transforming-mythic-europe::0051"
+  ]
+ },
+ {
+  "name": "Urban",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Hook: covenant based in a town, whose protections extend to mundane neighbors.",
+  "evidence": [
+   "transforming-mythic-europe::0051",
+   "transforming-mythic-europe::0052"
+  ]
+ },
+ {
+  "name": "Writ of Crenellation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Boon: permission to fortify the covenant's residence.",
+  "evidence": [
+   "transforming-mythic-europe::0051",
+   "transforming-mythic-europe::0052"
+  ]
+ },
+ {
+  "name": "Black Sheep",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw: character estranged from a prestigious family.",
+  "evidence": [
+   "transforming-mythic-europe::0053"
+  ]
+ },
+ {
+  "name": "Close Family Ties",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw drawing the covenant closer to the mundane world through family.",
+  "evidence": [
+   "transforming-mythic-europe::0053"
+  ]
+ },
+ {
+  "name": "Dependent",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw: character responsible for a usually weak dependent.",
+  "evidence": [
+   "transforming-mythic-europe::0053",
+   "transforming-mythic-europe::0054"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw: the character has enemies, such as nobles or senior clergy.",
+  "evidence": [
+   "transforming-mythic-europe::0054"
+  ]
+ },
+ {
+  "name": "Favors",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw: the character owes favors that must be repaid, possibly with magic.",
+  "evidence": [
+   "transforming-mythic-europe::0054"
+  ]
+ },
+ {
+  "name": "Feud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw: the character is embroiled in a feud through familial obligations.",
+  "evidence": [
+   "transforming-mythic-europe::0054",
+   "transforming-mythic-europe::0055"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw: the character is an heir, which a sheltering covenant risks interfering with.",
+  "evidence": [
+   "transforming-mythic-europe::0055"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw: the character has a true love for whom they would do anything.",
+  "evidence": [
+   "transforming-mythic-europe::0055"
+  ]
+ },
+ {
+  "name": "Faerie Queen",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A vengeful faerie queen who curses a knight's fertility and lands for rejecting her in a story seed.",
+  "evidence": [
+   "transforming-mythic-europe::0057",
+   "transforming-mythic-europe::0058"
+  ]
+ },
+ {
+  "name": "Iaculus",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A large venomous snake with feathered wings that flies from trees onto victims; one found dead drained of blood and vis.",
+  "evidence": [
+   "transforming-mythic-europe::0058"
+  ]
+ },
+ {
+  "name": "Alerion",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Fabled bird with fire-colored, razor-sharp feathers that killed an iaculus.",
+  "evidence": [
+   "transforming-mythic-europe::0058"
+  ]
+ },
+ {
+  "name": "Houses of Hermes: Societates",
+  "type": "Item",
+  "aliases": [],
+  "description": "Supplement whose debate rules are used for Tribunal debates.",
+  "evidence": [
+   "transforming-mythic-europe::0061",
+   "transforming-mythic-europe::0069",
+   "transforming-mythic-europe::0115"
+  ]
+ },
+ {
+  "name": "Houses of Hermes: True Lineages",
+  "type": "Item",
+  "aliases": [],
+  "description": "Supplement describing House Guernicus factions.",
+  "evidence": [
+   "transforming-mythic-europe::0014"
+  ]
+ },
+ {
+  "name": "Woodland Drake",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A small drake dwelling in a Magic aura woodland threatened by assarting in a test-case seed.",
+  "evidence": [
+   "transforming-mythic-europe::0065"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "Aura",
+   "Magic aura"
+  ],
+  "description": "Supernatural aura of the Magic realm that helps magi cast spells; threatened by mundane clearance.",
+  "evidence": [
+   "transforming-mythic-europe::0065",
+   "transforming-mythic-europe::0094"
+  ]
+ },
+ {
+  "name": "Bringing Ruin on One's Sodales",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic crime charged against magi whose actions endanger the Order or other magi.",
+  "evidence": [
+   "transforming-mythic-europe::0055",
+   "transforming-mythic-europe::0065",
+   "transforming-mythic-europe::0071"
+  ]
+ },
+ {
+  "name": "Interference",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic crime of interfering in mundane affairs, whose interpretation is central to integration debates.",
+  "evidence": [
+   "transforming-mythic-europe::0039",
+   "transforming-mythic-europe::0060",
+   "transforming-mythic-europe::0071"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House of craftsmen interested in profit; acts as a guild for its members and would benefit from selling more devices.",
+  "evidence": [
+   "transforming-mythic-europe::0067",
+   "transforming-mythic-europe::0080",
+   "transforming-mythic-europe::0097"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House already defending magi's rights to interact with mundanes, often reconnecting with noble birth families.",
+  "evidence": [
+   "transforming-mythic-europe::0068",
+   "transforming-mythic-europe::0078"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House combining idealism and pragmatism, ready to hunt the Marched; would benefit from mundane causes.",
+  "evidence": [
+   "transforming-mythic-europe::0068",
+   "transforming-mythic-europe::0077",
+   "transforming-mythic-europe::0083"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal at the heart of the debate on the Order's relationship with mundanes, home of the Ash and Apple gilds.",
+  "evidence": [
+   "transforming-mythic-europe::0071",
+   "transforming-mythic-europe::0075"
+  ]
+ },
+ {
+  "name": "Ash Gild",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Rhine gild seeking a bold presence in the world.",
+  "evidence": [
+   "transforming-mythic-europe::0071"
+  ]
+ },
+ {
+  "name": "Apple Gild",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Rhine gild seeking accommodation with and closer integration into the mundane world.",
+  "evidence": [
+   "transforming-mythic-europe::0071",
+   "transforming-mythic-europe::0075"
+  ]
+ },
+ {
+  "name": "Iberian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Iberia"
+  ],
+  "description": "War-torn Tribunal with its own view on mundane relations; not yet covered in ArM5.",
+  "evidence": [
+   "transforming-mythic-europe::0071",
+   "transforming-mythic-europe::0074"
+  ]
+ },
+ {
+  "name": "Loch Leglean",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal not yet covered by Ars Magica Fifth Edition, suggested as a place where interference is rife.",
+  "evidence": [
+   "transforming-mythic-europe::0074"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Rome"
+  ],
+  "description": "Tribunal not yet covered by ArM5, suggested as a place where interference is rife.",
+  "evidence": [
+   "transforming-mythic-europe::0074"
+  ]
+ },
+ {
+  "name": "Bjornaer Septs",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Divisions within House Bjornaer.",
+  "evidence": [
+   "transforming-mythic-europe::0075"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House focused on faeries, ideologically split; could support integration to protect faerie lands.",
+  "evidence": [
+   "transforming-mythic-europe::0075",
+   "transforming-mythic-europe::0078",
+   "transforming-mythic-europe::0079"
+  ]
+ },
+ {
+  "name": "Encroaching Dominion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Scenario presented in Tales of Power, apt for approaching the Apple Gild.",
+  "evidence": [
+   "transforming-mythic-europe::0075"
+  ]
+ },
+ {
+  "name": "Tales of Power",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ars Magica supplement containing the Encroaching Dominion scenario.",
+  "evidence": [
+   "transforming-mythic-europe::0075"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House most resistant to changing the Oath, which is deeply linked to Bonisagus and Trianoma.",
+  "evidence": [
+   "transforming-mythic-europe::0075",
+   "transforming-mythic-europe::0076",
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Bonisagus, creator of Magic Theory, to whom the Oath is deeply linked.",
+  "evidence": [
+   "transforming-mythic-europe::0075",
+   "transforming-mythic-europe::0076",
+   "transforming-mythic-europe::0111"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder figure deeply linked with the Oath of Hermes alongside Bonisagus.",
+  "evidence": [
+   "transforming-mythic-europe::0075",
+   "transforming-mythic-europe::0076"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House connected to the animal world, asking what it gains; may back integration to protect wild lands.",
+  "evidence": [
+   "transforming-mythic-europe::0076",
+   "transforming-mythic-europe::0078",
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House focused on the Enigma; approaching it likely yields affirmative inaction.",
+  "evidence": [
+   "transforming-mythic-europe::0076",
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Enigma",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The mystery that dominates House Criamon's quest.",
+  "evidence": [
+   "transforming-mythic-europe::0076",
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House of diverse traditions, many with deep bonds to the mundane world.",
+  "evidence": [
+   "transforming-mythic-europe::0076",
+   "transforming-mythic-europe::0077",
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "March",
+  "type": "Concept",
+  "aliases": [
+   "Marched"
+  ],
+  "description": "Hermetic sentence casting a magus out; House Flambeau hunts the Marched.",
+  "evidence": [
+   "transforming-mythic-europe::0077"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House of mostly unGifted redcaps with the closest relationship to the mundane world.",
+  "evidence": [
+   "transforming-mythic-europe::0078",
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Members of House Mercere who travel between covenants in the mundane world.",
+  "evidence": [
+   "transforming-mythic-europe::0078"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Divine realm whose power and encroachment affect magi and faerie lands.",
+  "evidence": [
+   "transforming-mythic-europe::0079",
+   "transforming-mythic-europe::0094"
+  ]
+ },
+ {
+  "name": "Magi Aegroti",
+  "type": "Faction",
+  "aliases": [
+   "leper magi"
+  ],
+  "description": "Leper magi of House Tytalus, skilled healers specializing in Corpus magic and Longevity Rituals.",
+  "evidence": [
+   "transforming-mythic-europe::0079"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of the human body, a specialty of the leper magi.",
+  "evidence": [
+   "transforming-mythic-europe::0079"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge Ability used to know House positions and to write polemic about the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0080",
+   "transforming-mythic-europe::0106"
+  ]
+ },
+ {
+  "name": "Code of Hermes (Ability)",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge Ability on Hermetic law suitable for polemic texts.",
+  "evidence": [
+   "transforming-mythic-europe::0106"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge Ability usable for polemic on a given Tribunal with troupe agreement.",
+  "evidence": [
+   "transforming-mythic-europe::0106"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant where the Grand Tribunal is held.",
+  "evidence": [
+   "transforming-mythic-europe::0082"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [
+   "Primi",
+   "Prima"
+  ],
+  "description": "Head of a Hermetic House; the twelve Primi attend the Grand Tribunal.",
+  "evidence": [
+   "transforming-mythic-europe::0082",
+   "transforming-mythic-europe::0043"
+  ]
+ },
+ {
+  "name": "Archmage",
+  "type": "CharacterType",
+  "aliases": [
+   "archmagus",
+   "archmaga"
+  ],
+  "description": "Senior magi of great standing who help decide Grand Tribunal matters.",
+  "evidence": [
+   "transforming-mythic-europe::0082"
+  ]
+ },
+ {
+  "name": "Garus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Flambeau Primus, leading member of the milites, former mercenary and tournament champion; a potential ally.",
+  "evidence": [
+   "transforming-mythic-europe::0083"
+  ]
+ },
+ {
+  "name": "Milites",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Flambeau faction promoting chivalry and service to the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0083"
+  ]
+ },
+ {
+  "name": "Andru",
+  "type": "Character",
+  "aliases": [],
+  "description": "Jerbiton Primus involved clandestinely in the mundane world; would support safe improvements.",
+  "evidence": [
+   "transforming-mythic-europe::0083"
+  ]
+ },
+ {
+  "name": "Stouritus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Verditius Primus concerned with his House's wealth; favors selling more enchanted items.",
+  "evidence": [
+   "transforming-mythic-europe::0083"
+  ]
+ },
+ {
+  "name": "Murion",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bonisagus Prima and Archmagus, unscrupulous and conservative; opposes changing the Order's founding principles.",
+  "evidence": [
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Muscaria",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young Criamon Prima who opposes distractions from the Enigma.",
+  "evidence": [
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Bilera",
+  "type": "Character",
+  "aliases": [],
+  "description": "Guernicus Prima Archmaga, a negotiator healing the Traditionalist–Transitionalist rift; cannot support the change.",
+  "evidence": [
+   "transforming-mythic-europe::0084"
+  ]
+ },
+ {
+  "name": "Falke",
+  "type": "Character",
+  "aliases": [],
+  "description": "Young Bjornaer Prima tending toward isolationism through indecision.",
+  "evidence": [
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "Guardians of the Forests: The Rhine Tribunal",
+  "type": "Item",
+  "aliases": [],
+  "description": "Supplement with more information on Falke.",
+  "evidence": [
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "Ebroin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ex Miscellanea Primus, secretly a Magus Orbus of undetermined origin House.",
+  "evidence": [
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "Magus Orbus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A magus whose House of origin is unknown or lost.",
+  "evidence": [
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "Insatella",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mercere Prima, unGifted, focused on running her House and likely to abstain.",
+  "evidence": [
+   "transforming-mythic-europe::0085"
+  ]
+ },
+ {
+  "name": "Handri",
+  "type": "Character",
+  "aliases": [],
+  "description": "Secretive Merinita Primus concerned with faeries, surrounded by advisers.",
+  "evidence": [
+   "transforming-mythic-europe::0085",
+   "transforming-mythic-europe::0086"
+  ]
+ },
+ {
+  "name": "Vinaria",
+  "type": "Character",
+  "aliases": [],
+  "description": "Former Merinita prima who has returned and may have more influence than Handri.",
+  "evidence": [
+   "transforming-mythic-europe::0085",
+   "transforming-mythic-europe::0086"
+  ]
+ },
+ {
+  "name": "Poena",
+  "type": "Character",
+  "aliases": [],
+  "description": "Tremere Prima advocating a Hermetic state as in Transylvania.",
+  "evidence": [
+   "transforming-mythic-europe::0086"
+  ]
+ },
+ {
+  "name": "Buliste",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the two Tytalus primi sharing a single vote.",
+  "evidence": [
+   "transforming-mythic-europe::0086"
+  ]
+ },
+ {
+  "name": "Harpax",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the two Tytalus primi sharing a single vote.",
+  "evidence": [
+   "transforming-mythic-europe::0086"
+  ]
+ },
+ {
+  "name": "Novgorod",
+  "type": "Place",
+  "aliases": [],
+  "description": "Far-off realm whose kings may seek defense against the oncoming horde.",
+  "evidence": [
+   "transforming-mythic-europe::0090"
+  ]
+ },
+ {
+  "name": "Iberian Peninsula",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where Christian Spanish kings may seek magic to accelerate the reconquest.",
+  "evidence": [
+   "transforming-mythic-europe::0090"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land where English nobles may seek magic to secure their holdings.",
+  "evidence": [
+   "transforming-mythic-europe::0090"
+  ]
+ },
+ {
+  "name": "Kosmokrators",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Great magical spirits set to govern the turning of the world.",
+  "evidence": [
+   "transforming-mythic-europe::0093"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The estate of those who pray, controlling learning; its support, and that of the pope, is sought for integration.",
+  "evidence": [
+   "transforming-mythic-europe::0022",
+   "transforming-mythic-europe::0093",
+   "transforming-mythic-europe::0096"
+  ]
+ },
+ {
+  "name": "The Church (supplement)",
+  "type": "Item",
+  "aliases": [],
+  "description": "Ars Magica supplement supporting common ground between magi and the Church and originating the Proctor of Hermes seed.",
+  "evidence": [
+   "transforming-mythic-europe::0094"
+  ]
+ },
+ {
+  "name": "Proctor of Hermes",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A Gentle-Gifted Quaesitor representing the Order at the papal curia.",
+  "evidence": [
+   "transforming-mythic-europe::0094",
+   "transforming-mythic-europe::0095"
+  ]
+ },
+ {
+  "name": "Papal Curia",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The pope's court in Rome where a Hermetic proctor would present petitions.",
+  "evidence": [
+   "transforming-mythic-europe::0094"
+  ]
+ },
+ {
+  "name": "The Pope",
+  "type": "Character",
+  "aliases": [],
+  "description": "God's representative on Earth whose support would lend the Order great weight.",
+  "evidence": [
+   "transforming-mythic-europe::0096"
+  ]
+ },
+ {
+  "name": "Commanding Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural power of church officials that a magus proctor must resist.",
+  "evidence": [
+   "transforming-mythic-europe::0094",
+   "transforming-mythic-europe::0095"
+  ]
+ },
+ {
+  "name": "Guild",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Associations of craftsmen offered as a model for explaining covenants to society.",
+  "evidence": [
+   "transforming-mythic-europe::0097",
+   "transforming-mythic-europe::0080"
+  ]
+ },
+ {
+  "name": "Rego Craft Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules allowing a magus to imitate a craftsman via a Finesse roll at a higher Ease Factor.",
+  "evidence": [
+   "transforming-mythic-europe::0098"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing the quality of craft magic, becoming vital for a new breed of craftsmen.",
+  "evidence": [
+   "transforming-mythic-europe::0098",
+   "transforming-mythic-europe::0099"
+  ]
+ },
+ {
+  "name": "Affinity with Finesse",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue representing affinity for using enchanted devices.",
+  "evidence": [
+   "transforming-mythic-europe::0098",
+   "transforming-mythic-europe::0099"
+  ]
+ },
+ {
+  "name": "Puissant Finesse",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue representing natural flair with Finesse.",
+  "evidence": [
+   "transforming-mythic-europe::0098",
+   "transforming-mythic-europe::0099"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "fae",
+   "faeries"
+  ],
+  "description": "Realm of the fae whose spaces the Fourth Estate aims to protect.",
+  "evidence": [
+   "transforming-mythic-europe::0027",
+   "transforming-mythic-europe::0100",
+   "transforming-mythic-europe::0101"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of magic whose places and entities the Order would protect and represent.",
+  "evidence": [
+   "transforming-mythic-europe::0027",
+   "transforming-mythic-europe::0100"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones"
+  ],
+  "description": "Supernatural areas over which the Order would gain recognized rights.",
+  "evidence": [
+   "transforming-mythic-europe::0030",
+   "transforming-mythic-europe::0101"
+  ]
+ },
+ {
+  "name": "Faerie King",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie rulers able to enter treaties in accordance with their roles.",
+  "evidence": [
+   "transforming-mythic-europe::0101"
+  ]
+ },
+ {
+  "name": "Spirit of the Wind",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Example spirit that might foster its son, as a swift horse, to a prince for dominion over mountains.",
+  "evidence": [
+   "transforming-mythic-europe::0101",
+   "transforming-mythic-europe::0102"
+  ]
+ },
+ {
+  "name": "Grey Lady of the River",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Example supernatural entity offering service in return for dominion over auras.",
+  "evidence": [
+   "transforming-mythic-europe::0101"
+  ]
+ },
+ {
+  "name": "Rival Magic",
+  "type": "Item",
+  "aliases": [],
+  "description": "Supplement presenting the Augustan Brotherhood.",
+  "evidence": [
+   "transforming-mythic-europe::0103"
+  ]
+ },
+ {
+  "name": "Augustan Brotherhood",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Gifted wizards following Virgil who serve Mythic Europe's nobility secretly as court wizards and oppose the Order's influence.",
+  "evidence": [
+   "transforming-mythic-europe::0103"
+  ]
+ },
+ {
+  "name": "Virgil",
+  "type": "Character",
+  "aliases": [],
+  "description": "Figure followed by the Augustan Brotherhood.",
+  "evidence": [
+   "transforming-mythic-europe::0103"
+  ]
+ },
+ {
+  "name": "Polemic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Persuasive summa or tractatus explaining a philosophical position, circulated to build support before a Tribunal debate.",
+  "evidence": [
+   "transforming-mythic-europe::0105",
+   "transforming-mythic-europe::0106",
+   "transforming-mythic-europe::0112"
+  ]
+ },
+ {
+  "name": "Diatribe",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Critical text refuting a polemic; its quality is deducted from the Argument Total.",
+  "evidence": [
+   "transforming-mythic-europe::0105",
+   "transforming-mythic-europe::0107",
+   "transforming-mythic-europe::0116"
+  ]
+ },
+ {
+  "name": "Apologia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Defensive text rebutting diatribes and strengthening the original argument.",
+  "evidence": [
+   "transforming-mythic-europe::0105",
+   "transforming-mythic-europe::0108",
+   "transforming-mythic-europe::0117"
+  ]
+ },
+ {
+  "name": "Prevailing Wisdom",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Level of entrenched opinion (3-15 by reach) which a polemic must overcome.",
+  "evidence": [
+   "transforming-mythic-europe::0109",
+   "transforming-mythic-europe::0110",
+   "transforming-mythic-europe::0111"
+  ]
+ },
+ {
+  "name": "Circulation Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roll (reputation + summa level + die) to circulate a polemic to a Tribunal, House or the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0113",
+   "transforming-mythic-europe::0114"
+  ]
+ },
+ {
+  "name": "Argument Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Text Quality minus Prevailing Wisdom Level, modified by diatribes and apologia; buys a debate bonus at Tribunal.",
+  "evidence": [
+   "transforming-mythic-europe::0115",
+   "transforming-mythic-europe::0116"
+  ]
+ },
+ {
+  "name": "Summa",
+  "type": "Item",
+  "aliases": [],
+  "description": "Book type with Quality and Level used for polemic, diatribe and apologia.",
+  "evidence": [
+   "transforming-mythic-europe::0106",
+   "transforming-mythic-europe::0107"
+  ]
+ },
+ {
+  "name": "Tractatus",
+  "type": "Item",
+  "aliases": [],
+  "description": "Book type treated as level 5 for polemics and limited in number per author.",
+  "evidence": [
+   "transforming-mythic-europe::0106",
+   "transforming-mythic-europe::0107",
+   "transforming-mythic-europe::0112"
+  ]
+ },
+ {
+  "name": "Correspondence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Letters between magi that grant experience and may serve as debate testimony.",
+  "evidence": [
+   "transforming-mythic-europe::0118",
+   "transforming-mythic-europe::0119"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Character reputation; circulating polemic grants Supporter of or Opposed to Reputations.",
+  "evidence": [
+   "transforming-mythic-europe::0113",
+   "transforming-mythic-europe::0114",
+   "transforming-mythic-europe::0116"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Rival magical order treated as another House for prevailing wisdom.",
+  "evidence": [
+   "transforming-mythic-europe::0111"
+  ]
+ },
+ {
+  "name": "Order of Suleiman",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Rival magical order treated as another House for prevailing wisdom.",
+  "evidence": [
+   "transforming-mythic-europe::0111"
+  ]
+ },
+ {
+  "name": "The Corruption",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Historical event principally concerning House Tytalus.",
+  "evidence": [
+   "transforming-mythic-europe::0111"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War central to the Order's history.",
+  "evidence": [
+   "transforming-mythic-europe::0111"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic theory whose origin largely concerns Bonisagus.",
+  "evidence": [
+   "transforming-mythic-europe::0111"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Faction",
+  "aliases": [
+   "cults"
+  ],
+  "description": "Secret Hermetic cults whose existence is a prevailing-wisdom topic.",
+  "evidence": [
+   "transforming-mythic-europe::0111",
+   "transforming-mythic-europe::0080"
+  ]
+ },
+ {
+  "name": "Wizard's War",
+  "type": "Concept",
+  "aliases": [
+   "Wizard War"
+  ],
+  "description": "Hermetic sanctioned conflict referenced alongside military service.",
+  "evidence": [
+   "transforming-mythic-europe::0010"
+  ]
+ },
+ {
+  "name": "Island of the Magicians",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Chapter Three proposal to create a new land in the sea ruled by the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0005",
+   "transforming-mythic-europe::0012",
+   "transforming-mythic-europe::0018"
+  ]
+ },
+ {
+  "name": "Magic as Technology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Chapter Four proposal recasting magi as inventors and enchantments as technology.",
+  "evidence": [
+   "transforming-mythic-europe::0006",
+   "transforming-mythic-europe::0012"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual ward listed in the book's political leverage section.",
+  "evidence": [
+   "transforming-mythic-europe::0004"
+  ]
+ },
+ {
+  "name": "Hermes' Portal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Instant-transport mechanism referenced in inserts.",
+  "evidence": [
+   "transforming-mythic-europe::0011"
+  ]
+ },
+ {
+  "name": "Silver Consensus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Principle restricting magical creation of wealth, enforced within the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Cow and Calf Oath",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Reason magical book copying might not work.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Rusticani",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Non-Hermetic crafters of wondrous items.",
+  "evidence": [
+   "transforming-mythic-europe::0009"
+  ]
+ },
+ {
+  "name": "Alchemist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic inventors listed among learned magicians.",
+  "evidence": [
+   "transforming-mythic-europe::0009"
+  ]
+ },
+ {
+  "name": "North Sea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Proposed location for the Island of the Magicians.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Holy Roman Emperor considered as a king for the island.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Isabella II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Queen of Jerusalem considered as a candidate monarch.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Philip Augustus",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of France considered as a candidate monarch.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Richard, Duke of Cornwall",
+  "type": "Character",
+  "aliases": [],
+  "description": "Nobleman considered as a candidate king.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Valdemar II",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Denmark considered as a candidate monarch.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "William Longespée",
+  "type": "Character",
+  "aliases": [
+   "Longsword"
+  ],
+  "description": "Earl of Salisbury considered as a candidate king.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Patrick, Count of Dunbar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Nobleman considered as a candidate king.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Jon Haraldsson",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mormaer of Caithness and Earl of Orkney considered as a candidate king.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Eye of Hell",
+  "type": "Place",
+  "aliases": [],
+  "description": "Infernal location in the island chapter.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Rumael",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon known as the False Neptune.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Neqael",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon, the Lady of the Purple Bower, Corrupter of Lyonesse.",
+  "evidence": [
+   "transforming-mythic-europe::0006",
+   "transforming-mythic-europe::0011"
+  ]
+ },
+ {
+  "name": "Red Knight of Ys",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon, bringer of requested inundations.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Lyonesse",
+  "type": "Place",
+  "aliases": [],
+  "description": "Legendary drowned land corrupted by Neqael.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Manannan Mac Lir",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie king of the sea.",
+  "evidence": [
+   "transforming-mythic-europe::0010",
+   "transforming-mythic-europe::0011"
+  ]
+ },
+ {
+  "name": "Dexithea",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A Telechine.",
+  "evidence": [
+   "transforming-mythic-europe::0010"
+  ]
+ },
+ {
+  "name": "Phorcys",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Sea deity with an aspect in the book.",
+  "evidence": [
+   "transforming-mythic-europe::0010"
+  ]
+ },
+ {
+  "name": "Tartessos",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient land that might emerge in a saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0011"
+  ]
+ },
+ {
+  "name": "Quills of Arcane Correspondence",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example remote-writing device.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "The Unsubtle Knife",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example device.",
+  "evidence": [
+   "transforming-mythic-europe::0006"
+  ]
+ },
+ {
+  "name": "Earring of Whispering Voices",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example clairaudience device.",
+  "evidence": [
+   "transforming-mythic-europe::0006",
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Hermetic Speculum",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example scrying device.",
+  "evidence": [
+   "transforming-mythic-europe::0006",
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Effigy of the Errant Image",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example scrying device.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Superb Scrinium",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example book-copying device.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Gate of Countless Vistas",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example instant-transport device.",
+  "evidence": [
+   "transforming-mythic-europe::0007",
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Phylactery of the Cautious Maga",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example escape device.",
+  "evidence": [
+   "transforming-mythic-europe::0007",
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Potent Salts",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example wealth-creating device.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Garland of Prosperous Harvests",
+  "type": "Item",
+  "aliases": [],
+  "description": "Example agricultural device.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Plaustrum Pertinax",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical vehicle referenced in inserts.",
+  "evidence": [
+   "transforming-mythic-europe::0011"
+  ]
+ },
+ {
+  "name": "The First Furrow Guides the Second",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "The Copyist's Puissant Quill",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "The Lector's Deft Hand",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Bring the Herd to Market",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "A Bridge Without Wood",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "The Messenger's Shortcut",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "The Mobile Infantry",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "The Instant Harvest",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Rapacious Hand of the Highwayman",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Portage of the Eagles",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Impede the Impertinent Interloper",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0007"
+  ]
+ },
+ {
+  "name": "Mercury's Winged Sandals",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Woolen Steed of Araby",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Vessel of the Clouds",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "The Chariot of Zeus",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Form of the Zephyr",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Fill the Capacious Silo",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Work of a Hundred Querns",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "The Elfin Baker",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Alchemical Separation of Brine",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Nourish the Displaced Vines",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell or effect listed in the contents of Transforming Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0008"
+  ]
+ },
+ {
+  "name": "Austerius Trianomae",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus, opponent of change.",
+  "evidence": [
+   "transforming-mythic-europe::0010"
+  ]
+ },
+ {
+  "name": "Protinus Velox",
+  "type": "Character",
+  "aliases": [],
+  "description": "Magus of House Verditius, supporter of change.",
+  "evidence": [
+   "transforming-mythic-europe::0010"
+  ]
+ },
+ {
+  "name": "Columbae",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Group noted in the island chapter.",
+  "evidence": [
+   "transforming-mythic-europe::0010"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical side effects from constant magical effects or instant transportation.",
+  "evidence": [
+   "transforming-mythic-europe::0008",
+   "transforming-mythic-europe::0010"
+  ]
+ },
+ {
+  "name": "Tursus Auvekoejaks",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Supernatural being listed among island inserts.",
+  "evidence": [
+   "transforming-mythic-europe::0011"
+  ]
+ }
+]

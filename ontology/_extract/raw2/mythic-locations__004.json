@@ -1,0 +1,3403 @@
+[
+ {
+  "name": "The Fallen Temple of Mercury",
+  "type": "Place",
+  "aliases": [
+   "Temple of Mercury",
+   "temple regio"
+  ],
+  "description": "A ruined Roman temple town hidden within a Magic regio, once a center of the Cult of Mercury, containing a forum, basilica, baths, aqueduct and the temple itself.",
+  "evidence": [
+   "mythic-locations::0480",
+   "mythic-locations::0489",
+   "mythic-locations::0523"
+  ]
+ },
+ {
+  "name": "Forum (Temple of Mercury)",
+  "type": "Place",
+  "aliases": [],
+  "description": "A large open-roofed marble-flagged meeting area and market place in the temple town, with a raised pulpit at its northern end.",
+  "evidence": [
+   "mythic-locations::0480"
+  ]
+ },
+ {
+  "name": "Basilica (Temple of Mercury)",
+  "type": "Place",
+  "aliases": [
+   "Basilica"
+  ],
+  "description": "A three-storied domed building of offices that housed administrators for the Cult of Mercury and the legionary garrison, including the Salary, Library, Correspondence, Municipal and Scrying Offices.",
+  "evidence": [
+   "mythic-locations::0482",
+   "mythic-locations::0483",
+   "mythic-locations::0484"
+  ]
+ },
+ {
+  "name": "Scrying Office",
+  "type": "Place",
+  "aliases": [],
+  "description": "A basilica office containing a damaged shallow pool connected to the aqueduct, a component of the Scrying Pool ritual.",
+  "evidence": [
+   "mythic-locations::0484",
+   "mythic-locations::0502"
+  ]
+ },
+ {
+  "name": "Aqueduct (Temple of Mercury)",
+  "type": "Place",
+  "aliases": [
+   "Aqueduct"
+  ],
+  "description": "The dry, damaged aqueduct system of the temple town; its pipe is also a regio entrance and its source is a mountain spring that is an Aquam vis source.",
+  "evidence": [
+   "mythic-locations::0486",
+   "mythic-locations::0487",
+   "mythic-locations::0497"
+  ]
+ },
+ {
+  "name": "The Aqueduct Spring",
+  "type": "Place",
+  "aliases": [],
+  "description": "A distant mountain spring feeding the aqueduct; an Aquam vis source yielding vis in the first gallon at dawn of the Summer Solstice.",
+  "evidence": [
+   "mythic-locations::0497",
+   "mythic-locations::0498"
+  ]
+ },
+ {
+  "name": "Baths (Temple of Mercury)",
+  "type": "Place",
+  "aliases": [],
+  "description": "A ruined Roman bathing complex with pools of different temperatures, heated by furnace and underfloor venting and supplied by the aqueduct.",
+  "evidence": [
+   "mythic-locations::0488"
+  ]
+ },
+ {
+  "name": "Necropolis Regio",
+  "type": "Place",
+  "aliases": [
+   "necropolis"
+  ],
+  "description": "A possible second regio (Magic aura 7) mirroring the temple town, always night, where those who die in the temple regio reappear as ghosts.",
+  "evidence": [
+   "mythic-locations::0519",
+   "mythic-locations::0520"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant whose aura Trianoma reputedly increased by sacrificing herself.",
+  "evidence": [
+   "mythic-locations::0506",
+   "mythic-locations::0512"
+  ]
+ },
+ {
+  "name": "Aventine Hill",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site where Bonisagus may have translated Mercurian rituals.",
+  "evidence": [
+   "mythic-locations::0511"
+  ]
+ },
+ {
+  "name": "Devil's Lane",
+  "type": "Place",
+  "aliases": [
+   "Faerie Toy Market",
+   "Devil's Lane regio",
+   "lane-side",
+   "the market"
+  ],
+  "description": "A small Faerie regio (aura 6) housing a faerie toy market, whose central looping lane has many alleyway entrances to cities throughout Mythic Europe.",
+  "evidence": [
+   "mythic-locations::0524",
+   "mythic-locations::0530",
+   "mythic-locations::0531"
+  ]
+ },
+ {
+  "name": "Upside",
+  "type": "Place",
+  "aliases": [],
+  "description": "One end of Devil's Lane; those who know how can walk to its end to enter the Faerie Realm.",
+  "evidence": [
+   "mythic-locations::0531",
+   "mythic-locations::0532"
+  ]
+ },
+ {
+  "name": "Downside",
+  "type": "Place",
+  "aliases": [],
+  "description": "The other end of Devil's Lane; on Walpurgis Night an entrance to Hell briefly appears there.",
+  "evidence": [
+   "mythic-locations::0531",
+   "mythic-locations::0532"
+  ]
+ },
+ {
+  "name": "Devil's Lane Workshops",
+  "type": "Place",
+  "aliases": [
+   "The Workshops"
+  ],
+  "description": "A labyrinth of candle-lit basements beneath Devil's Lane where worker elves create the magic toys.",
+  "evidence": [
+   "mythic-locations::0578",
+   "mythic-locations::0582"
+  ]
+ },
+ {
+  "name": "Bartholomew's Laboratory",
+  "type": "Place",
+  "aliases": [],
+  "description": "A tiny faerie regio (Faerie aura 8) reached by a spiral stairway from Julia's laboratory, where the senile Bartholomew dozes by the fire.",
+  "evidence": [
+   "mythic-locations::0589",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Julia's Laboratory",
+  "type": "Place",
+  "aliases": [],
+  "description": "The ground-floor sanctum of the Devil's Lane covenant, a spooky chamber filled with bleached bones and skulls.",
+  "evidence": [
+   "mythic-locations::0585",
+   "mythic-locations::0589"
+  ]
+ },
+ {
+  "name": "Acre Avenue",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Barcelona Street",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Bologna Way",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Bordeaux Street",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Cairo Way",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Cologne Avenue",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city. It is currently bricked up due to civic reconstruction city-side.",
+  "evidence": [
+   "mythic-locations::0540",
+   "mythic-locations::0537"
+  ]
+ },
+ {
+  "name": "Constantinople Street",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city. It is currently bricked up due to civic reconstruction city-side.",
+  "evidence": [
+   "mythic-locations::0540",
+   "mythic-locations::0537"
+  ]
+ },
+ {
+  "name": "Florence Avenue",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city. The Devil's Lane covenant stands opposite it.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "London Street",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Paris Way",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Prague Street",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "No-Name Street",
+  "type": "Place",
+  "aliases": [],
+  "description": "An alleyway leading from Devil's Lane serving as a regio entrance to its eponymous city. It is bricked up and nobody knows where it led.",
+  "evidence": [
+   "mythic-locations::0540",
+   "mythic-locations::0537"
+  ]
+ },
+ {
+  "name": "Cologne",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whose Devil's Lane entrance was destroyed by reconstruction; the market guild regalia is modeled on its guilds.",
+  "evidence": [
+   "mythic-locations::0536",
+   "mythic-locations::0537",
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whose Devil's Lane entrance was destroyed by reconstruction; its 1204 siege is depicted on a faerie tapestry.",
+  "evidence": [
+   "mythic-locations::0537",
+   "mythic-locations::0570"
+  ]
+ },
+ {
+  "name": "Bologna",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where part of Greta's coven lives.",
+  "evidence": [
+   "mythic-locations::0548"
+  ]
+ },
+ {
+  "name": "Florence",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where part of Greta's coven lives.",
+  "evidence": [
+   "mythic-locations::0548"
+  ]
+ },
+ {
+  "name": "London",
+  "type": "Place",
+  "aliases": [],
+  "description": "City linked to Devil's Lane via an alleyway ('London-side').",
+  "evidence": [
+   "mythic-locations::0534"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "aliases": [],
+  "description": "City linked to Devil's Lane via an alleyway ('Paris-side').",
+  "evidence": [
+   "mythic-locations::0534"
+  ]
+ },
+ {
+  "name": "Black Forest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Forest whose satyrs are forever denied entry to Devil's Lane.",
+  "evidence": [
+   "mythic-locations::0545"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Realm",
+  "aliases": [
+   "Infernal Realm"
+  ],
+  "description": "The Infernal Realm; an entrance to it briefly opens at the end of Downside on Walpurgis Night.",
+  "evidence": [
+   "mythic-locations::0529",
+   "mythic-locations::0532"
+  ]
+ },
+ {
+  "name": "Rhine",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region beyond Roman territory where the temple could be located on a site sacred to Germanic cults.",
+  "evidence": [
+   "mythic-locations::0522"
+  ]
+ },
+ {
+  "name": "Germania",
+  "type": "Place",
+  "aliases": [],
+  "description": "Land Rome attempted to conquer.",
+  "evidence": [
+   "mythic-locations::0522"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting in which Devil's Lane has multiple urban entrances.",
+  "evidence": [
+   "mythic-locations::0524",
+   "mythic-locations::0510"
+  ]
+ },
+ {
+  "name": "Roman Empire",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The ancient empire whose legionaries garrisoned the temple town; its records can be studied as Organization Lore: Roman Empire.",
+  "evidence": [
+   "mythic-locations::0482",
+   "mythic-locations::0484",
+   "mythic-locations::0515"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The realm reachable from Upside at the end of Devil's Lane.",
+  "evidence": [
+   "mythic-locations::0529",
+   "mythic-locations::0531",
+   "mythic-locations::0532"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The realm where the god Mercury exists.",
+  "evidence": [
+   "mythic-locations::0510"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The realm tainting the Godhead demon's gifts and vis.",
+  "evidence": [
+   "mythic-locations::0490",
+   "mythic-locations::0491"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [
+   "Mercurian priests"
+  ],
+  "description": "The Roman priesthood of Mercury whose correspondence, rituals and eventual collapse are recorded at the temple.",
+  "evidence": [
+   "mythic-locations::0482",
+   "mythic-locations::0483",
+   "mythic-locations::0513"
+  ]
+ },
+ {
+  "name": "Order of False Gods",
+  "type": "Faction",
+  "aliases": [
+   "False Gods"
+  ],
+  "description": "Infernal order of demons to which the Godhead belongs.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0491"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of magi, which might March the characters over infernal pacts.",
+  "evidence": [
+   "mythic-locations::0491",
+   "mythic-locations::0502",
+   "mythic-locations::0527"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House that grew out of Germanic cults.",
+  "evidence": [
+   "mythic-locations::0522"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Faerie-focused Hermetic House; Bartholomew and Julia are Merinita.",
+  "evidence": [
+   "mythic-locations::0524",
+   "mythic-locations::0585",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Hermetic House whose agents may learn of the temple.",
+  "evidence": [
+   "mythic-locations::0523"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "House",
+  "aliases": [
+   "Redcap"
+  ],
+  "description": "Hermetic messengers who hold documents about the toy market entrances.",
+  "evidence": [
+   "mythic-locations::0528",
+   "mythic-locations::0536",
+   "mythic-locations::0588"
+  ]
+ },
+ {
+  "name": "Quaesitors",
+  "type": "Faction",
+  "aliases": [
+   "Quaesitor"
+  ],
+  "description": "Hermetic investigators who may investigate faerie items near a covenant.",
+  "evidence": [
+   "mythic-locations::0527",
+   "mythic-locations::0536"
+  ]
+ },
+ {
+  "name": "Seekers",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Hermetic group who may seek the temple.",
+  "evidence": [
+   "mythic-locations::0523"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Faction",
+  "aliases": [],
+  "description": "A cult for which the temple is part of its Initiation rituals.",
+  "evidence": [
+   "mythic-locations::0522"
+  ]
+ },
+ {
+  "name": "Market Guild",
+  "type": "Faction",
+  "aliases": [
+   "guild council"
+  ],
+  "description": "Guild of faerie merchants that sets and enforces the Devil's Lane market rules through a council.",
+  "evidence": [
+   "mythic-locations::0545",
+   "mythic-locations::0546",
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Greta's Coven",
+  "type": "Faction",
+  "aliases": [],
+  "description": "A folk witch coven, mostly living city-side in Bologna and Florence.",
+  "evidence": [
+   "mythic-locations::0547",
+   "mythic-locations::0548"
+  ]
+ },
+ {
+  "name": "Folk Witch",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hedge tradition to which Greta belongs.",
+  "evidence": [
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Devil's Lane Covenant",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "A Merinita covenant opposite Florence Avenue, founded by Bartholomew after his Gauntlet, home to him and Julia.",
+  "evidence": [
+   "mythic-locations::0584",
+   "mythic-locations::0599"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman god with a temple in the regio; exists in the Magic realm and can be contacted by ritual.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0510"
+  ]
+ },
+ {
+  "name": "The Godhead",
+  "type": "Creature",
+  "aliases": [
+   "False Mercury"
+  ],
+  "description": "A demon of the Order of False Gods, an invisible stone head replacing Mercury's statue head, who poses as Mercury to corrupt magi.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0491",
+   "mythic-locations::0493"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hermetic founder who based Hermetic magic partly on Mercurian magic.",
+  "evidence": [
+   "mythic-locations::0496",
+   "mythic-locations::0511"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Reputedly sacrificed herself to increase the aura of Durenmar.",
+  "evidence": [
+   "mythic-locations::0506"
+  ]
+ },
+ {
+  "name": "Emperor Constantine",
+  "type": "Character",
+  "aliases": [
+   "Constantine"
+  ],
+  "description": "Roman Emperor whose adoption of Christianity in 313 AD marks the limit of Mercury's knowledge.",
+  "evidence": [
+   "mythic-locations::0510"
+  ]
+ },
+ {
+  "name": "Sir Callum",
+  "type": "Character",
+  "aliases": [],
+  "description": "A young faerie-blooded knight who gives a Rain Parasol as a gift at a baron's feast.",
+  "evidence": [
+   "mythic-locations::0526"
+  ]
+ },
+ {
+  "name": "Walter the Book Merchant",
+  "type": "Character",
+  "aliases": [
+   "Walter"
+  ],
+  "description": "A faerie merchant-scribe on Devil's Lane selling glamour books and exercise slates.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0543",
+   "mythic-locations::0544"
+  ]
+ },
+ {
+  "name": "Bartholomew",
+  "type": "Character",
+  "aliases": [],
+  "description": "An ancient, senile Merinita magus near Final Twilight who founded the Devil's Lane covenant.",
+  "evidence": [
+   "mythic-locations::0584",
+   "mythic-locations::0590",
+   "mythic-locations::0594"
+  ]
+ },
+ {
+  "name": "Julia",
+  "type": "Character",
+  "aliases": [
+   "Julia of House Merinita"
+  ],
+  "description": "A young Merinita maga, Bartholomew's former apprentice, specializing in necromancy and seeking her lost twin Leda.",
+  "evidence": [
+   "mythic-locations::0585",
+   "mythic-locations::0586",
+   "mythic-locations::0588"
+  ]
+ },
+ {
+  "name": "Leda",
+  "type": "Character",
+  "aliases": [],
+  "description": "Julia's twin sister, abducted by faeries at age five.",
+  "evidence": [
+   "mythic-locations::0585",
+   "mythic-locations::0588"
+  ]
+ },
+ {
+  "name": "Mengalaz",
+  "type": "Creature",
+  "aliases": [
+   "Mengalaz the Rat"
+  ],
+  "description": "Bartholomew's faerie rat familiar, leader of the rat pack.",
+  "evidence": [
+   "mythic-locations::0538",
+   "mythic-locations::0595",
+   "mythic-locations::0598"
+  ]
+ },
+ {
+  "name": "The Three Sisters",
+  "type": "Character",
+  "aliases": [],
+  "description": "Faerie merchant sisters Lo'relyn, Fi'noa and De'dee sharing a council vote; sell Rain Parasols.",
+  "evidence": [
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Lo'relyn",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the Three Sisters.",
+  "evidence": [
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Fi'noa",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the Three Sisters.",
+  "evidence": [
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "De'dee",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the Three Sisters.",
+  "evidence": [
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Count Thorstein",
+  "type": "Character",
+  "aliases": [],
+  "description": "A flamboyant centaur merchant and guild councilor.",
+  "evidence": [
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Guild-Master Wendell",
+  "type": "Character",
+  "aliases": [
+   "Wendell"
+  ],
+  "description": "The pedantic self-appointed leader of the merchant guild, selling wands.",
+  "evidence": [
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Guild-Mistress Greta",
+  "type": "Character",
+  "aliases": [
+   "Greta"
+  ],
+  "description": "A faerie-blooded folk witch councilor selling potions.",
+  "evidence": [
+   "mythic-locations::0547",
+   "mythic-locations::0548"
+  ]
+ },
+ {
+  "name": "Felix the Wolf",
+  "type": "Creature",
+  "aliases": [
+   "Felix"
+  ],
+  "description": "A black wolf guild member who enforces the guild rules.",
+  "evidence": [
+   "mythic-locations::0545",
+   "mythic-locations::0548"
+  ]
+ },
+ {
+  "name": "Tarlan the Wolf",
+  "type": "Creature",
+  "aliases": [],
+  "description": "ArM5 wolf whose statistics are used for Felix.",
+  "evidence": [
+   "mythic-locations::0548"
+  ]
+ },
+ {
+  "name": "Mother (foreman elf)",
+  "type": "Character",
+  "aliases": [
+   "Mother"
+  ],
+  "description": "A protective foreman elf.",
+  "evidence": [
+   "mythic-locations::0581"
+  ]
+ },
+ {
+  "name": "Dragon (foreman elf)",
+  "type": "Character",
+  "aliases": [
+   "Dragon"
+  ],
+  "description": "An angry, red-faced foreman elf.",
+  "evidence": [
+   "mythic-locations::0581"
+  ]
+ },
+ {
+  "name": "Uncle (foreman elf)",
+  "type": "Character",
+  "aliases": [
+   "Uncle"
+  ],
+  "description": "A portly, hedonistic foreman elf.",
+  "evidence": [
+   "mythic-locations::0581"
+  ]
+ },
+ {
+  "name": "Maiden (foreman elf)",
+  "type": "Character",
+  "aliases": [
+   "Maiden"
+  ],
+  "description": "A beautiful golden-haired foreman elf.",
+  "evidence": [
+   "mythic-locations::0581"
+  ]
+ },
+ {
+  "name": "Satan",
+  "type": "Character",
+  "aliases": [
+   "the devil"
+  ],
+  "description": "Legend says Devil's Lane is his bridge to the Faerie Realm.",
+  "evidence": [
+   "mythic-locations::0532"
+  ]
+ },
+ {
+  "name": "Devil's Lane Goblin Rats",
+  "type": "Creature",
+  "aliases": [
+   "Rat Pack"
+  ],
+  "description": "Vicious faerie-blooded rats forming the Devil's Lane rat pack.",
+  "evidence": [
+   "mythic-locations::0538",
+   "mythic-locations::0539",
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Worker Elves",
+  "type": "Creature",
+  "aliases": [
+   "worker elf"
+  ],
+  "description": "Identical faerie elves who create magic toys in the workshops.",
+  "evidence": [
+   "mythic-locations::0578",
+   "mythic-locations::0579",
+   "mythic-locations::0580"
+  ]
+ },
+ {
+  "name": "Foremen Elves",
+  "type": "Creature",
+  "aliases": [
+   "foreman elf"
+  ],
+  "description": "Four elves who command the worker elves.",
+  "evidence": [
+   "mythic-locations::0580",
+   "mythic-locations::0581"
+  ]
+ },
+ {
+  "name": "Centaur",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Exotic faerie creatures, some merchants.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0547"
+  ]
+ },
+ {
+  "name": "Satyrs of the Black Forest",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Satyrs denied entry to Devil's Lane.",
+  "evidence": [
+   "mythic-locations::0545"
+  ]
+ },
+ {
+  "name": "Ghost",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Undead spirits; rules given for necropolis ghosts.",
+  "evidence": [
+   "mythic-locations::0519",
+   "mythic-locations::0520",
+   "mythic-locations::0521"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal spirits; hundreds emerge from Hell on Walpurgis Night.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0532",
+   "mythic-locations::0533"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Beings inhabiting Devil's Lane as merchants.",
+  "evidence": [
+   "mythic-locations::0530",
+   "mythic-locations::0542"
+  ]
+ },
+ {
+  "name": "Legionaries",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Roman soldiers garrisoned at the temple town.",
+  "evidence": [
+   "mythic-locations::0482"
+  ]
+ },
+ {
+  "name": "Faerie Queen",
+  "type": "Character",
+  "aliases": [],
+  "description": "Owner of a salt mine used as punishment.",
+  "evidence": [
+   "mythic-locations::0529",
+   "mythic-locations::0546"
+  ]
+ },
+ {
+  "name": "Purification",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 40 Mercurian ritual reducing Decrepitude and apparent age, cast in a consecrated temple of Mercury.",
+  "evidence": [
+   "mythic-locations::0501"
+  ]
+ },
+ {
+  "name": "The Scrying Pool",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InIm 20 Mercurian ritual for seeing a target via the Scrying Office pool.",
+  "evidence": [
+   "mythic-locations::0484",
+   "mythic-locations::0502"
+  ]
+ },
+ {
+  "name": "Raising the Auxiliaries for a Day",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrMe 35 ritual granting up to 100 characters +1 Attack/Defense.",
+  "evidence": [
+   "mythic-locations::0503"
+  ]
+ },
+ {
+  "name": "Penetrate the Regio Skin",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Cr(Re)Vi 25 ritual creating a new entrance through a Magic regio boundary.",
+  "evidence": [
+   "mythic-locations::0504",
+   "mythic-locations::0512"
+  ]
+ },
+ {
+  "name": "Blessing of Mercury",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi 30 ritual granting +3 to Casting and Laboratory totals for a Year.",
+  "evidence": [
+   "mythic-locations::0505"
+  ]
+ },
+ {
+  "name": "Transformation of Flesh to Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi(Co) 60 ritual in which the caster kills herself to increase the aura.",
+  "evidence": [
+   "mythic-locations::0506",
+   "mythic-locations::0512"
+  ]
+ },
+ {
+  "name": "Wizard's Initiation",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi(Co) 75 ritual meant to grant The Gift, which fails in the Age of Pisces.",
+  "evidence": [
+   "mythic-locations::0507",
+   "mythic-locations::0513",
+   "mythic-locations::0514"
+  ]
+ },
+ {
+  "name": "Consecration of Mercury's House",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi 55 ritual consecrating a temple to Mercury and creating a Magic aura 1.",
+  "evidence": [
+   "mythic-locations::0508",
+   "mythic-locations::0509",
+   "mythic-locations::0511"
+  ]
+ },
+ {
+  "name": "Commune with Mercury",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 20 ritual to commune with the god Mercury.",
+  "evidence": [
+   "mythic-locations::0510",
+   "mythic-locations::0523"
+  ]
+ },
+ {
+  "name": "Mercurian Rituals",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Non-Hermetic rituals of the Cult of Mercury, recoverable from Lab Texts and translatable into Hermetic rituals.",
+  "evidence": [
+   "mythic-locations::0494",
+   "mythic-locations::0496",
+   "mythic-locations::0500"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuVi spell letting magi combine casting; Mercurian versions exist.",
+  "evidence": [
+   "mythic-locations::0502",
+   "mythic-locations::0511",
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Pilum of Fire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell used as example of what a ghost cannot target at the living.",
+  "evidence": [
+   "mythic-locations::0521"
+  ]
+ },
+ {
+  "name": "Piercing the Faerie Veil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 20 spell to see faerie regio boundaries.",
+  "evidence": [
+   "mythic-locations::0532",
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Charm Against Putrefaction",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 10 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Whispers Through the Black Gate",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InCo(Me) 15 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Eyes of the Cat",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuCo(An) 5 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Awaken the Slumbering Corpse",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReCo 25 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Wizard's Sidestep",
+  "type": "Spell",
+  "aliases": [
+   "Wizard's Side Step"
+  ],
+  "description": "ReIm 10 spell known by Julia (mastered) and Bartholomew.",
+  "evidence": [
+   "mythic-locations::0587",
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Lay to Rest the Haunting Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeMe 5 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Ward Against Faerie Ghosts",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 10 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Ward Against Infernal Ghosts",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 10 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Ward Against Magic Ghosts",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 10 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Coerce the Spirits of the Night",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 20 spell known by Julia.",
+  "evidence": [
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Demon's Eternal Oblivion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeVi spell known by both Julia and Bartholomew.",
+  "evidence": [
+   "mythic-locations::0587",
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "True Rest of the Injured Brute",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAn 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Opening the Tome of the Animal's Mind",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InAn 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Growth of the Creeping Things",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuAn 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Transformation of the Ravenous Beast to the Torpid Toad",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuAn 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Circle of Beast Warding",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAn 5 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Ward Against Beasts of Legend",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAn 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Creeping Oil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAq 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Voice of the Lake",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InAq 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Enchantment of the Scrying Pool",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InAq 30 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Cloak of the Duck's Feathers",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAq 5 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Breath of Winter",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAq 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Parting the Waves",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAq 30 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Air's Ghostly Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAu 5 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Circling Winds of Protection",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAu 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Clouds of Summer Snow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrAu 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Sailor's Foretaste of the Morrow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InAu 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Ward Against Rain",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReAu 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "The Chirurgeon's Healing Touch",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "The Severed Limb Made Whole",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrCo 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Revealed Flaws of Mortal Flesh",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InCo 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "The Eyes of the Sage",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InCo(Im) 30 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Shape of the Woodland Prowler",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuCo 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "The Wound that Weeps",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeCo 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Rise of the Feathery Body",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReCo 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Gift of the Frog's Legs",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReCo 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Bridge of Wood",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrHe 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Hunt for the Wild Herb",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InHe 5 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Shriek of the Impending Shafts",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InHe 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Converse with Plant and Tree",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InHe 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Pass the Unyielding Portal",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuHe 5 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Stir the Slumbering Tree",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuHe(Me) 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Wizard's Autumn",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeHe 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Freeing the Striding Tree",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReHe 30 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0592"
+  ]
+ },
+ {
+  "name": "Lamp Without Flame",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrIg 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Tales of the Ashes",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InIg 5 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Hornet Fire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuIg 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Gloom of Evening",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeIg 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Haunt of the Living Ghost",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Cr(In)Im 35 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "The Shadow of Human Life",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrIm(Me) 40 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Summoning the Distant Image",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InIm 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Aura of Ennobled Presence",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuIm 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Chamber of Invisibility",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeIm 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Illusion of the Misplaced Castle",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReIm 50 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Memory of the Distant Dream",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrMe 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Posing the Silent Question",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InMe 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Thoughts Within Babble",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InMe 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Past of Another",
+  "type": "Spell",
+  "aliases": [],
+  "description": "MuMe 35 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Calm the Motion of the Heart",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeMe 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "The Call to Slumber",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 10 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Confusion of the Numbed Will",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReMe 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Touch of Midas",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrTe 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Tracks of the Faerie Glow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InTe 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "End of the Mighty Castle",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeTe 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Unseen Arm",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 5 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Earth Shock",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReTe 30 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "The Enigma's Gift",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi 30 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Sight of the Active Magics",
+  "type": "Spell",
+  "aliases": [],
+  "description": "InVi 40 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Bane of the Elves",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeVi 15 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Disenchant",
+  "type": "Spell",
+  "aliases": [],
+  "description": "PeVi 30 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Ward Against Faeries",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReVi 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Watching Ward",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReVi 20 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0593"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ReVi 25 spell known by Bartholomew.",
+  "evidence": [
+   "mythic-locations::0594"
+  ]
+ },
+ {
+  "name": "Shroud the Stench of the Pit",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Godhead's power disguising his infernal powers and taint from Hermetic detection.",
+  "evidence": [
+   "mythic-locations::0490",
+   "mythic-locations::0491",
+   "mythic-locations::0493"
+  ]
+ },
+ {
+  "name": "Coagulation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon power to form a physical body; the Godhead's is an invisible stone head.",
+  "evidence": [
+   "mythic-locations::0492"
+  ]
+ },
+ {
+  "name": "Envisioning",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon power to appear in dreams.",
+  "evidence": [
+   "mythic-locations::0492"
+  ]
+ },
+ {
+  "name": "Grant Magical Power",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Godhead power granting Puissant Art, tainted with the infernal.",
+  "evidence": [
+   "mythic-locations::0492"
+  ]
+ },
+ {
+  "name": "Obsession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demon power infecting sinners with a Personality Trait.",
+  "evidence": [
+   "mythic-locations::0492",
+   "mythic-locations::0493"
+  ]
+ },
+ {
+  "name": "Leaving the Crypt",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Necropolis ghost power to physically affect the living for a Diameter.",
+  "evidence": [
+   "mythic-locations::0520",
+   "mythic-locations::0521"
+  ]
+ },
+ {
+  "name": "Read it",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Walter's power to discuss any book his audience has read.",
+  "evidence": [
+   "mythic-locations::0543"
+  ]
+ },
+ {
+  "name": "Workshop Helper",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Worker elf power to create magic items and assist Lab work.",
+  "evidence": [
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Workshop Foreman",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Foreman elf power to command worker elves.",
+  "evidence": [
+   "mythic-locations::0581"
+  ]
+ },
+ {
+  "name": "Devil's Mind",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mengalaz's power making him aware of everything in Devil's Lane.",
+  "evidence": [
+   "mythic-locations::0596",
+   "mythic-locations::0597"
+  ]
+ },
+ {
+  "name": "Hands of the Animal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mengalaz's power to manipulate objects as with hands.",
+  "evidence": [
+   "mythic-locations::0596"
+  ]
+ },
+ {
+  "name": "Shared Senses",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiar power sharing senses.",
+  "evidence": [
+   "mythic-locations::0594",
+   "mythic-locations::0597"
+  ]
+ },
+ {
+  "name": "Shared Powers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiar power letting the master use familiar's powers.",
+  "evidence": [
+   "mythic-locations::0594",
+   "mythic-locations::0597"
+  ]
+ },
+ {
+  "name": "Shared Fatigue",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiar power sharing Might and Fatigue.",
+  "evidence": [
+   "mythic-locations::0594",
+   "mythic-locations::0597"
+  ]
+ },
+ {
+  "name": "Location",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiar power to know where the master is.",
+  "evidence": [
+   "mythic-locations::0594",
+   "mythic-locations::0597"
+  ]
+ },
+ {
+  "name": "The Annals of Mercury",
+  "type": "Item",
+  "aliases": [],
+  "description": "Book recording the temple's history, ending 'We thought that we would go on forever.'",
+  "evidence": [
+   "mythic-locations::0482",
+   "mythic-locations::0485"
+  ]
+ },
+ {
+  "name": "Statue of Mercury",
+  "type": "Item",
+  "aliases": [],
+  "description": "Decapitated marble statue of Mercury in the cella.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0490"
+  ]
+ },
+ {
+  "name": "Angel Eyes Potion",
+  "type": "Item",
+  "aliases": [],
+  "description": "MuAq(Im) 15 charged potion causing hallucinations.",
+  "evidence": [
+   "mythic-locations::0554"
+  ]
+ },
+ {
+  "name": "Bird Bane",
+  "type": "Item",
+  "aliases": [],
+  "description": "MuAn 44 harness giving a cat feathered wings.",
+  "evidence": [
+   "mythic-locations::0555"
+  ]
+ },
+ {
+  "name": "The Book of Beasts",
+  "type": "Item",
+  "aliases": [],
+  "description": "InAn 10 book whose pages are Arcane Connections to beasts.",
+  "evidence": [
+   "mythic-locations::0544",
+   "mythic-locations::0556"
+  ]
+ },
+ {
+  "name": "The Dove Hat",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrAn 30 hat producing a white dove.",
+  "evidence": [
+   "mythic-locations::0557"
+  ]
+ },
+ {
+  "name": "The Forest Giant",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrHe 40 acorn growing into an oak overnight.",
+  "evidence": [
+   "mythic-locations::0558"
+  ]
+ },
+ {
+  "name": "The Girdle of Chang",
+  "type": "Item",
+  "aliases": [],
+  "description": "MuCo 14 girdle changing apparent sex.",
+  "evidence": [
+   "mythic-locations::0559"
+  ]
+ },
+ {
+  "name": "Green Flame Powder",
+  "type": "Item",
+  "aliases": [],
+  "description": "MuIg 10 powder making fire burn lime green.",
+  "evidence": [
+   "mythic-locations::0560"
+  ]
+ },
+ {
+  "name": "Hat That Grants the Over-Anxious Father Peace of Mind",
+  "type": "Item",
+  "aliases": [],
+  "description": "InCo 24 hat wearable only by a virgin.",
+  "evidence": [
+   "mythic-locations::0561"
+  ]
+ },
+ {
+  "name": "Hen Dust",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrAn 40 dust making a chick hatch and grow to adult.",
+  "evidence": [
+   "mythic-locations::0562"
+  ]
+ },
+ {
+  "name": "Inverted Water Wheel",
+  "type": "Item",
+  "aliases": [],
+  "description": "ReAq 29 wheel forcing water upstream.",
+  "evidence": [
+   "mythic-locations::0563"
+  ]
+ },
+ {
+  "name": "Love Potion",
+  "type": "Item",
+  "aliases": [],
+  "description": "ReMe 30 potion causing love for the first person seen.",
+  "evidence": [
+   "mythic-locations::0564"
+  ]
+ },
+ {
+  "name": "The Magic Money Box",
+  "type": "Item",
+  "aliases": [],
+  "description": "MuTe 45 box turning stones into gold coins.",
+  "evidence": [
+   "mythic-locations::0565"
+  ]
+ },
+ {
+  "name": "Miraculous Beer Mug",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrAq 25 mug refilling with beer.",
+  "evidence": [
+   "mythic-locations::0566"
+  ]
+ },
+ {
+  "name": "One Romantic Evening",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrHe 10 rose petal carpeting the ground with roses.",
+  "evidence": [
+   "mythic-locations::0567"
+  ]
+ },
+ {
+  "name": "Rain Parasol",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrAu 40 parasol creating a miniature storm.",
+  "evidence": [
+   "mythic-locations::0526",
+   "mythic-locations::0547",
+   "mythic-locations::0568"
+  ]
+ },
+ {
+  "name": "The Rat Pipe",
+  "type": "Item",
+  "aliases": [],
+  "description": "ReAn 55 pipe attracting all vermin in a building.",
+  "evidence": [
+   "mythic-locations::0569"
+  ]
+ },
+ {
+  "name": "The Siege of Constantinople",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrIm 15 animated tapestry of the 1204 siege.",
+  "evidence": [
+   "mythic-locations::0570"
+  ]
+ },
+ {
+  "name": "The Silvery Miraculous Daffodil Wand",
+  "type": "Item",
+  "aliases": [],
+  "description": "CrHe 15 wand producing daffodils.",
+  "evidence": [
+   "mythic-locations::0571"
+  ]
+ },
+ {
+  "name": "The Scrying Bowls",
+  "type": "Item",
+  "aliases": [],
+  "description": "InAq 30 paired bowls for visual scrying.",
+  "evidence": [
+   "mythic-locations::0572"
+  ]
+ },
+ {
+  "name": "Wand of Dancing Flowers",
+  "type": "Item",
+  "aliases": [],
+  "description": "MuHe 40 wand making flowers dance.",
+  "evidence": [
+   "mythic-locations::0573"
+  ]
+ },
+ {
+  "name": "Wand of Horses",
+  "type": "Item",
+  "aliases": [],
+  "description": "MuAn 26 wand turning vermin into horses.",
+  "evidence": [
+   "mythic-locations::0574"
+  ]
+ },
+ {
+  "name": "The Wooden Knights",
+  "type": "Item",
+  "aliases": [],
+  "description": "Invested puppet knights with Read the Master's Thoughts and Move the Limbs.",
+  "evidence": [
+   "mythic-locations::0575",
+   "mythic-locations::0576",
+   "mythic-locations::0577"
+  ]
+ },
+ {
+  "name": "Glamour Exercise Slates",
+  "type": "Item",
+  "aliases": [],
+  "description": "Glamour completed exercise slates sold by Walter.",
+  "evidence": [
+   "mythic-locations::0544"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hidden supernatural area; the temple and Devil's Lane are regiones.",
+  "evidence": [
+   "mythic-locations::0486",
+   "mythic-locations::0524",
+   "mythic-locations::0530"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura of the Magic realm.",
+  "evidence": [
+   "mythic-locations::0506",
+   "mythic-locations::0508",
+   "mythic-locations::0511"
+  ]
+ },
+ {
+  "name": "Faerie Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aura of Faerie regiones.",
+  "evidence": [
+   "mythic-locations::0530",
+   "mythic-locations::0589"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical raw material; main currency of Devil's Lane.",
+  "evidence": [
+   "mythic-locations::0490",
+   "mythic-locations::0542",
+   "mythic-locations::0549"
+  ]
+ },
+ {
+  "name": "Lab Text",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Laboratory Texts of Mercurian rituals.",
+  "evidence": [
+   "mythic-locations::0482",
+   "mythic-locations::0494",
+   "mythic-locations::0496"
+  ]
+ },
+ {
+  "name": "Integration Breakthrough",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Research to incorporate non-Hermetic magic into Hermetic theory.",
+  "evidence": [
+   "mythic-locations::0511",
+   "mythic-locations::0514"
+  ]
+ },
+ {
+  "name": "Breakthrough Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points required for integration research.",
+  "evidence": [
+   "mythic-locations::0511",
+   "mythic-locations::0514"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magical duel.",
+  "evidence": [
+   "mythic-locations::0498",
+   "mythic-locations::0522",
+   "mythic-locations::0523"
+  ]
+ },
+ {
+  "name": "Wizard War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic sanctioned war.",
+  "evidence": [
+   "mythic-locations::0523"
+  ]
+ },
+ {
+  "name": "March",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic outlawry.",
+  "evidence": [
+   "mythic-locations::0491"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic ritual against aging.",
+  "evidence": [
+   "mythic-locations::0501",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Limit of Aging",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic Limit broken by Purification.",
+  "evidence": [
+   "mythic-locations::0501"
+  ]
+ },
+ {
+  "name": "Decrepitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aging measure.",
+  "evidence": [
+   "mythic-locations::0501"
+  ]
+ },
+ {
+  "name": "Age of Pisces",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Current astrological age in which Wizard's Initiation fails.",
+  "evidence": [
+   "mythic-locations::0513",
+   "mythic-locations::0515"
+  ]
+ },
+ {
+  "name": "Age of Aries",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Preceding astrological age.",
+  "evidence": [
+   "mythic-locations::0513",
+   "mythic-locations::0515"
+  ]
+ },
+ {
+  "name": "Astrological Ages",
+  "type": "Concept",
+  "aliases": [],
+  "description": "~2160-year ages defined by vernal equinox sign.",
+  "evidence": [
+   "mythic-locations::0515",
+   "mythic-locations::0516"
+  ]
+ },
+ {
+  "name": "Walpurgis Night",
+  "type": "Concept",
+  "aliases": [],
+  "description": "30 April, when an entrance to Hell opens at Downside.",
+  "evidence": [
+   "mythic-locations::0532",
+   "mythic-locations::0533"
+  ]
+ },
+ {
+  "name": "Glamour",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie illusion; the toys are glamour lasting seven years.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0552",
+   "mythic-locations::0583"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical animal companion bound to a magus.",
+  "evidence": [
+   "mythic-locations::0538",
+   "mythic-locations::0594",
+   "mythic-locations::0598"
+  ]
+ },
+ {
+  "name": "Gold Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiar bond cord.",
+  "evidence": [
+   "mythic-locations::0594"
+  ]
+ },
+ {
+  "name": "Silver Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiar bond cord.",
+  "evidence": [
+   "mythic-locations::0590",
+   "mythic-locations::0594"
+  ]
+ },
+ {
+  "name": "Bronze Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Familiar bond cord.",
+  "evidence": [
+   "mythic-locations::0590",
+   "mythic-locations::0594"
+  ]
+ },
+ {
+  "name": "Leaden Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie familiar cord hindering Divine interactions.",
+  "evidence": [
+   "mythic-locations::0594"
+  ]
+ },
+ {
+  "name": "Iron Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie familiar cord hindering with iron.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Tin Cord",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie familiar cord penalizing outside auras.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Warping state; Julia and Bartholomew have Twilight Scars.",
+  "evidence": [
+   "mythic-locations::0587",
+   "mythic-locations::0589"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bartholomew is near it.",
+  "evidence": [
+   "mythic-locations::0589"
+  ]
+ },
+ {
+  "name": "Gauntlet",
+  "type": "Concept",
+  "aliases": [],
+  "description": "End of apprenticeship.",
+  "evidence": [
+   "mythic-locations::0584"
+  ]
+ },
+ {
+  "name": "Sanctum",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magus's private domain.",
+  "evidence": [
+   "mythic-locations::0585"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Item the workshop elves cannot create.",
+  "evidence": [
+   "mythic-locations::0582"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link enabling Arcane range magic.",
+  "evidence": [
+   "mythic-locations::0543",
+   "mythic-locations::0556",
+   "mythic-locations::0572"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ability to see through illusions and regio boundaries.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0532",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic law.",
+  "evidence": [
+   "mythic-locations::0492",
+   "mythic-locations::0586",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Lost within Consecration of Mercury's House.",
+  "evidence": [
+   "mythic-locations::0508"
+  ]
+ },
+ {
+  "name": "Infernal Taint",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Corruption tainting vis and Arts.",
+  "evidence": [
+   "mythic-locations::0490",
+   "mythic-locations::0491"
+  ]
+ },
+ {
+  "name": "Necromancy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Julia's Major Magical Focus.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Chapter House",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Possible use of the temple site.",
+  "evidence": [
+   "mythic-locations::0518",
+   "mythic-locations::0523"
+  ]
+ },
+ {
+  "name": "Scrying",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Illegal against Order members.",
+  "evidence": [
+   "mythic-locations::0502"
+  ]
+ },
+ {
+  "name": "Area Lore: Devil's Lane",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Knowledge ability of Devil's Lane.",
+  "evidence": [
+   "mythic-locations::0540",
+   "mythic-locations::0586",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magical talent; Wizard's Initiation attempts to grant it.",
+  "evidence": [
+   "mythic-locations::0507",
+   "mythic-locations::0514",
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Death Prophecy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "False prophecy granted by the Godhead.",
+  "evidence": [
+   "mythic-locations::0490"
+  ]
+ },
+ {
+  "name": "Puissant Art",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granted by Godhead; Julia (Corpus) and Bartholomew (Imaginem) have it.",
+  "evidence": [
+   "mythic-locations::0490",
+   "mythic-locations::0586",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Mercurian Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue discoverable via integration.",
+  "evidence": [
+   "mythic-locations::0512",
+   "mythic-locations::0513"
+  ]
+ },
+ {
+  "name": "Hermetic Magus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of Julia and Bartholomew.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Major Magical Focus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Julia's focus (Necromancy).",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0587"
+  ]
+ },
+ {
+  "name": "Faerie Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Merinita virtue.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Mastered Spells",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Julia's virtue.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Personal Vis Source",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Julia's virtue.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Deficient Technique",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Julia's (Creo).",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Ambitious",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Julia's flaw.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Lost Love",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Julia's flaw (Leda).",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Nocturnal",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Julia, rats, Mengalaz.",
+  "evidence": [
+   "mythic-locations::0539",
+   "mythic-locations::0586",
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Faerie Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Bartholomew (Sidhe), rats (goblin).",
+  "evidence": [
+   "mythic-locations::0539",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Lightning Reflexes",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Rats and Mengalaz.",
+  "evidence": [
+   "mythic-locations::0539",
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Godhead virtue.",
+  "evidence": [
+   "mythic-locations::0491",
+   "mythic-locations::0492"
+  ]
+ },
+ {
+  "name": "Piercing Gaze",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Godhead virtue.",
+  "evidence": [
+   "mythic-locations::0491",
+   "mythic-locations::0492"
+  ]
+ },
+ {
+  "name": "Ways of the Town",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Bartholomew virtue.",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Improved Characteristics",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Bartholomew, foremen elves.",
+  "evidence": [
+   "mythic-locations::0580",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Quiet Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Bartholomew.",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Subtle Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Bartholomew.",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Enfeebled",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Bartholomew.",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Tormenting Familiar",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Bartholomew (Mengalaz).",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Busybody",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Bartholomew.",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Compassionate",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Bartholomew.",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Disorientating Magic",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Bartholomew.",
+  "evidence": [
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Poor Eyesight",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Walter and Bartholomew.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Faerie Speech",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie power to speak human languages.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0543",
+   "mythic-locations::0580"
+  ]
+ },
+ {
+  "name": "Faerie Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie power to distinguish glamour.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0543",
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Humanoid Faerie",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie virtue.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Faerie virtue.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Arrogant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Walter.",
+  "evidence": [
+   "mythic-locations::0542"
+  ]
+ },
+ {
+  "name": "Incognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie flaw.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Traditional Ward",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Faerie flaw.",
+  "evidence": [
+   "mythic-locations::0542",
+   "mythic-locations::0579",
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Elves.",
+  "evidence": [
+   "mythic-locations::0579",
+   "mythic-locations::0580"
+  ]
+ },
+ {
+  "name": "Increased Faerie Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Foremen elves.",
+  "evidence": [
+   "mythic-locations::0580"
+  ]
+ },
+ {
+  "name": "Dependents",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Foremen elves.",
+  "evidence": [
+   "mythic-locations::0580"
+  ]
+ },
+ {
+  "name": "Faerie Animal",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595",
+   "mythic-locations::0596"
+  ]
+ },
+ {
+  "name": "Narrowly Cognizant",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Disfigured",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Dying Master",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Negative Reaction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Obese",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Reckless",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Mengalaz.",
+  "evidence": [
+   "mythic-locations::0595"
+  ]
+ },
+ {
+  "name": "Organization Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Lore Ability; Roman Empire, Cult of Mercury, Order of Hermes.",
+  "evidence": [
+   "mythic-locations::0482",
+   "mythic-locations::0483",
+   "mythic-locations::0535"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Needed to read Mercurian Lab Texts.",
+  "evidence": [
+   "mythic-locations::0495",
+   "mythic-locations::0499",
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Used to control Penetrate the Regio Skin.",
+  "evidence": [
+   "mythic-locations::0504",
+   "mythic-locations::0577"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Perception skill.",
+  "evidence": [
+   "mythic-locations::0492",
+   "mythic-locations::0531",
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of cities or Tribunals.",
+  "evidence": [
+   "mythic-locations::0535",
+   "mythic-locations::0536"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of faeries.",
+  "evidence": [
+   "mythic-locations::0535",
+   "mythic-locations::0586",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Trade skill.",
+  "evidence": [
+   "mythic-locations::0492",
+   "mythic-locations::0542",
+   "mythic-locations::0543"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Fighting skill.",
+  "evidence": [
+   "mythic-locations::0492",
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Deception skill.",
+  "evidence": [
+   "mythic-locations::0492"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Politics skill.",
+  "evidence": [
+   "mythic-locations::0492"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Physical skill.",
+  "evidence": [
+   "mythic-locations::0540",
+   "mythic-locations::0555"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Sneaking skill.",
+  "evidence": [
+   "mythic-locations::0540",
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Survival skill.",
+  "evidence": [
+   "mythic-locations::0540"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Liberal arts.",
+  "evidence": [
+   "mythic-locations::0543",
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Sleight of hand.",
+  "evidence": [
+   "mythic-locations::0543",
+   "mythic-locations::0580"
+  ]
+ },
+ {
+  "name": "Profession: Scribe",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Scribal skill.",
+  "evidence": [
+   "mythic-locations::0543",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Commanding skill.",
+  "evidence": [
+   "mythic-locations::0580",
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Musical skill.",
+  "evidence": [
+   "mythic-locations::0579"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Legal ability.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Mental focus.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Dead Language: Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Latin language.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Weapon skill.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Infernal Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Infernal knowledge.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Spoken languages.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Magic knowledge.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic protection.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Spell penetration.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Teaching",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Teaching skill.",
+  "evidence": [
+   "mythic-locations::0591"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Understanding people.",
+  "evidence": [
+   "mythic-locations::0597"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Used to link ritual to Trianoma.",
+  "evidence": [
+   "mythic-locations::0506"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0508"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "mythic-locations::0508",
+   "mythic-locations::0530"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Technique.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0597"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0497",
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0530",
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0588"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0586",
+   "mythic-locations::0590"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0520",
+   "mythic-locations::0586"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0489",
+   "mythic-locations::0491"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form.",
+  "evidence": [
+   "mythic-locations::0490",
+   "mythic-locations::0508"
+  ]
+ }
+]

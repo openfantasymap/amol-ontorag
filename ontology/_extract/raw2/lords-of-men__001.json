@@ -1,0 +1,2257 @@
+[
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A measure of how a noble is perceived; it tells others what a noble wants, what resources he has and what he will do if provoked, and it is vital to Mythic European nobles.",
+  "evidence": [
+   "lords-of-men::0120",
+   "lords-of-men::0121",
+   "lords-of-men::0123"
+  ]
+ },
+ {
+  "name": "Gratitude",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A social currency earned by doing favors for nobles, such as delivering an enemy or hosting an exceptional feast.",
+  "evidence": [
+   "lords-of-men::0122",
+   "lords-of-men::0237"
+  ]
+ },
+ {
+  "name": "William Marshal",
+  "type": "Character",
+  "aliases": [],
+  "description": "English noble who was a child hostage of King Stephen and who later defeated the forces of Prince Louis of France in 1215.",
+  "evidence": [
+   "lords-of-men::0121",
+   "lords-of-men::0122",
+   "lords-of-men::0157"
+  ]
+ },
+ {
+  "name": "John Marshal",
+  "type": "Character",
+  "aliases": [
+   "John"
+  ],
+  "description": "William Marshal's father. He held a castle for Queen Matilda against King Stephen, broke a truce and offered his son as a hostage he would not ransom.",
+  "evidence": [
+   "lords-of-men::0121",
+   "lords-of-men::0122",
+   "lords-of-men::0123"
+  ]
+ },
+ {
+  "name": "Queen Matilda",
+  "type": "Character",
+  "aliases": [
+   "Matilda"
+  ],
+  "description": "Rival of King Stephen for the English throne; John Marshal held a castle on her behalf.",
+  "evidence": [
+   "lords-of-men::0121"
+  ]
+ },
+ {
+  "name": "King Stephen",
+  "type": "Character",
+  "aliases": [
+   "Stephen"
+  ],
+  "description": "King who besieged John Marshal. He threatened to catapult the hostage William but spared him instead, which changed his Reputation.",
+  "evidence": [
+   "lords-of-men::0121",
+   "lords-of-men::0122",
+   "lords-of-men::0123"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting of Ars Magica, a version of medieval Europe with its own nobility, Church and magic.",
+  "evidence": [
+   "lords-of-men::0120",
+   "lords-of-men::0124",
+   "lords-of-men::0205"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where women have fewer rights because of the Conquest. It has earls rather than dukes, has no allods, and its covenants pay traditional fees to the king.",
+  "evidence": [
+   "lords-of-men::0124",
+   "lords-of-men::0153",
+   "lords-of-men::0194"
+  ]
+ },
+ {
+  "name": "The Conquest",
+  "type": "Concept",
+  "aliases": [
+   "Norman Conquest"
+  ],
+  "description": "The Norman Conquest of England. It shaped English nobility, reduced women's rights and led to the counties palatine and the marcher lords.",
+  "evidence": [
+   "lords-of-men::0124",
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "A Story Flaw. A woman who dresses as a man may carry it, and it is listed among the chivalric Story Flaws that suit knights.",
+  "evidence": [
+   "lords-of-men::0125",
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "Paid Rights",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "A free Virtue for a female character who paid a fine before play for the right to do something normally forbidden to women.",
+  "evidence": [
+   "lords-of-men::0127",
+   "lords-of-men::0128"
+  ]
+ },
+ {
+  "name": "Story Flaw",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A category of Flaw that draws characters into stories, such as family displeasure over Paid Rights or a female knight's unusual background.",
+  "evidence": [
+   "lords-of-men::0128",
+   "lords-of-men::0145"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that women raised to act as their husbands' deputies always have.",
+  "evidence": [
+   "lords-of-men::0128"
+  ]
+ },
+ {
+  "name": "Profession: Steward",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability that women raised to deputize for absent husbands always have, used to administer lands.",
+  "evidence": [
+   "lords-of-men::0128"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The rare capacity for Hermetic magic. Its scarcity helped create gender equity in the Order, and magi may take Gifted children as apprentices.",
+  "evidence": [
+   "lords-of-men::0134",
+   "lords-of-men::0195",
+   "lords-of-men::0197"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The order of magi. Its Code forbids interfering with mundanes, and through Plato's influence it accepts women in all roles.",
+  "evidence": [
+   "lords-of-men::0134",
+   "lords-of-men::0182",
+   "lords-of-men::0203"
+  ]
+ },
+ {
+  "name": "Plato",
+  "type": "Character",
+  "aliases": [],
+  "description": "Classical philosopher who advocated training women for all duties of the state, which influenced gender equity in the Order of Hermes.",
+  "evidence": [
+   "lords-of-men::0134",
+   "lords-of-men::0135"
+  ]
+ },
+ {
+  "name": "Margaret of Beverley",
+  "type": "Character",
+  "aliases": [
+   "Margaret of Beverly"
+  ],
+  "description": "English pilgrim born in the Holy Land who dressed as a man to defend Jerusalem against Saladin in 1187. She later joined a nunnery at Laon.",
+  "evidence": [
+   "lords-of-men::0135",
+   "lords-of-men::0136"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "aliases": [],
+  "description": "Holy city that fell to Saladin in 1187 while Margaret of Beverley helped defend it.",
+  "evidence": [
+   "lords-of-men::0135"
+  ]
+ },
+ {
+  "name": "Saladin",
+  "type": "Character",
+  "aliases": [],
+  "description": "Conqueror of Jerusalem in 1187.",
+  "evidence": [
+   "lords-of-men::0135"
+  ]
+ },
+ {
+  "name": "Antioch",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where Margaret of Beverley took part in a siege.",
+  "evidence": [
+   "lords-of-men::0135"
+  ]
+ },
+ {
+  "name": "Acre",
+  "type": "Place",
+  "aliases": [],
+  "description": "Port from which the English army and Margaret of Beverley sailed for England.",
+  "evidence": [
+   "lords-of-men::0135",
+   "lords-of-men::0136"
+  ]
+ },
+ {
+  "name": "Laon",
+  "type": "Place",
+  "aliases": [],
+  "description": "French town whose nunnery Margaret of Beverley joined.",
+  "evidence": [
+   "lords-of-men::0136"
+  ]
+ },
+ {
+  "name": "Eleanor of Aquitaine",
+  "type": "Character",
+  "aliases": [],
+  "description": "Overlord of Aquitaine who went on the Second Crusade with a guard of female knights dressed as Amazons. Her conduct led to a Papal Bull forbidding women to take the cross.",
+  "evidence": [
+   "lords-of-men::0136"
+  ]
+ },
+ {
+  "name": "Aquitaine",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of which Eleanor was overlord.",
+  "evidence": [
+   "lords-of-men::0136"
+  ]
+ },
+ {
+  "name": "Second Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Crusade that Eleanor of Aquitaine attended with her husband.",
+  "evidence": [
+   "lords-of-men::0136"
+  ]
+ },
+ {
+  "name": "Third Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Crusade in which a Papal Bull forbade women to take the cross.",
+  "evidence": [
+   "lords-of-men::0136"
+  ]
+ },
+ {
+  "name": "Sikelgaita of Sicily",
+  "type": "Character",
+  "aliases": [
+   "Sikelgaita"
+  ],
+  "description": "Lombard princess and wife of the Duke of Apulia and Sicily. She fought as a knight and rallied fleeing troops at the Battle of Dyrrachium.",
+  "evidence": [
+   "lords-of-men::0136",
+   "lords-of-men::0137"
+  ]
+ },
+ {
+  "name": "Battle of Dyrrachium",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Battle against the Byzantine Empire in which Sikelgaita rallied fleeing troops.",
+  "evidence": [
+   "lords-of-men::0136",
+   "lords-of-men::0137"
+  ]
+ },
+ {
+  "name": "Byzantine Empire",
+  "type": "Place",
+  "aliases": [
+   "eastern Empire"
+  ],
+  "description": "Eastern empire, now divided into successor states, that was organized into themes under strategoi.",
+  "evidence": [
+   "lords-of-men::0136",
+   "lords-of-men::0181"
+  ]
+ },
+ {
+  "name": "Petronilla of Leicester",
+  "type": "Character",
+  "aliases": [
+   "Petronilla"
+  ],
+  "description": "Noblewoman who armed herself as a knight in the reign of Henry II. A namesake bought from King John the right to choose her own husband.",
+  "evidence": [
+   "lords-of-men::0136",
+   "lords-of-men::0137"
+  ]
+ },
+ {
+  "name": "Henry II",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of England in whose reign Petronilla of Leicester fought as a knight.",
+  "evidence": [
+   "lords-of-men::0137"
+  ]
+ },
+ {
+  "name": "King John",
+  "type": "Character",
+  "aliases": [
+   "John"
+  ],
+  "description": "King of England who fought his barons and sold Petronilla the right to choose her husband for 4000 marks.",
+  "evidence": [
+   "lords-of-men::0137"
+  ]
+ },
+ {
+  "name": "Matilda of Tuscany",
+  "type": "Character",
+  "aliases": [],
+  "description": "Noblewoman trained in war who championed the pope in the Investiture Controversy and nearly destroyed Imperial authority in Northern Italy.",
+  "evidence": [
+   "lords-of-men::0137",
+   "lords-of-men::0138"
+  ]
+ },
+ {
+  "name": "Investiture Controversy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Conflict between pope and emperor in which Matilda of Tuscany was the pope's main supporter.",
+  "evidence": [
+   "lords-of-men::0137"
+  ]
+ },
+ {
+  "name": "Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The ecclesiastical institution. It gives women power through nunneries, is often opposed to tournaments and claims noble status for churchmen.",
+  "evidence": [
+   "lords-of-men::0139",
+   "lords-of-men::0140",
+   "lords-of-men::0239"
+  ]
+ },
+ {
+  "name": "Nuns",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Women who are wards of the bishop and brides of Christ. They cannot usually be forced to marry and hold much land.",
+  "evidence": [
+   "lords-of-men::0139"
+  ]
+ },
+ {
+  "name": "Realms of Power: The Divine",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ars Magica supplement that discusses nunneries in more detail.",
+  "evidence": [
+   "lords-of-men::0139"
+  ]
+ },
+ {
+  "name": "Squire",
+  "type": "CharacterType",
+  "aliases": [
+   "Armiger",
+   "Écuyer"
+  ],
+  "description": "A young attendant to a knight, or a person qualified to be a knight who avoids the status. Also called armiger or écuyer.",
+  "evidence": [
+   "lords-of-men::0142",
+   "lords-of-men::0147",
+   "lords-of-men::0159"
+  ]
+ },
+ {
+  "name": "Gentleman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Social Status Virtue available to squires and hidalgos.",
+  "evidence": [
+   "lords-of-men::0142",
+   "lords-of-men::0159",
+   "lords-of-men::0178"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Social Status Virtue for professional mounted warriors, taken by bachelers, bannerets, hidalgos and some women.",
+  "evidence": [
+   "lords-of-men::0142",
+   "lords-of-men::0144",
+   "lords-of-men::0147"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Virtue for a lord of the manor. It comes in Poor, standard and Wealthy versions with different manors, forces and free seasons.",
+  "evidence": [
+   "lords-of-men::0142",
+   "lords-of-men::0147",
+   "lords-of-men::0148"
+  ]
+ },
+ {
+  "name": "Knight (title)",
+  "type": "CharacterType",
+  "aliases": [
+   "Miles",
+   "Chevalier"
+  ],
+  "description": "A professional mounted warrior (miles, chevalier), who in some places must pay his overlord a fine for dubbing others.",
+  "evidence": [
+   "lords-of-men::0143"
+  ]
+ },
+ {
+  "name": "Bacheler Knight",
+  "type": "CharacterType",
+  "aliases": [
+   "bacheler",
+   "mesnie"
+  ],
+  "description": "A household knight in a lord's personal guard (mesnie), supported with coin and kind and led by a carissimus.",
+  "evidence": [
+   "lords-of-men::0144"
+  ]
+ },
+ {
+  "name": "Protection",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue common to bachelers, bannerets and barons who are under the protection of a liege.",
+  "evidence": [
+   "lords-of-men::0144",
+   "lords-of-men::0150",
+   "lords-of-men::0152"
+  ]
+ },
+ {
+  "name": "Oath of Fealty",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw for a lord who holds land from a superior in exchange for services.",
+  "evidence": [
+   "lords-of-men::0144",
+   "lords-of-men::0145",
+   "lords-of-men::0152"
+  ]
+ },
+ {
+  "name": "Free Choice",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw a bacheler knight may take instead of Oath of Fealty.",
+  "evidence": [
+   "lords-of-men::0144"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue giving extra resources. It is applied to bachelers, Landed Nobles, barons and squires.",
+  "evidence": [
+   "lords-of-men::0144",
+   "lords-of-men::0147",
+   "lords-of-men::0159"
+  ]
+ },
+ {
+  "name": "Knight Banneret",
+  "type": "CharacterType",
+  "aliases": [
+   "banneret"
+  ],
+  "description": "A knight who leads other knights under his own banner. The rank can be claimed by arriving with ten liveried knights or bestowed by a liege.",
+  "evidence": [
+   "lords-of-men::0145",
+   "lords-of-men::0149",
+   "lords-of-men::0150"
+  ]
+ },
+ {
+  "name": "Allod",
+  "type": "Concept",
+  "aliases": [
+   "allodial land"
+  ],
+  "description": "Land held by descent from time immemorial rather than from a superior. Its holders need not swear fealty, and some covenants claim it.",
+  "evidence": [
+   "lords-of-men::0145",
+   "lords-of-men::0164",
+   "lords-of-men::0194"
+  ]
+ },
+ {
+  "name": "Black Sheep",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw suited to chivalric knights.",
+  "evidence": [
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "Enemies",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw suited to chivalric knights.",
+  "evidence": [
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "Higher Purpose",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw suited to chivalric knights.",
+  "evidence": [
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "Heir",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw suited to chivalric knights.",
+  "evidence": [
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "True Love",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw suited to chivalric knights.",
+  "evidence": [
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "Vow",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Story Flaw suited to chivalric knights.",
+  "evidence": [
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "Knightly Demands",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Optional Major Story Flaw that replaces Oath of Fealty. The storyguide can use it to pull knights into ballad-style plots such as quests, feuds and rescues.",
+  "evidence": [
+   "lords-of-men::0146"
+  ]
+ },
+ {
+  "name": "Privileged Upbringing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue often held by children of Wealthy Landed Nobles or more senior landowners.",
+  "evidence": [
+   "lords-of-men::0147"
+  ]
+ },
+ {
+  "name": "Scutage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A fine paid in place of knight service.",
+  "evidence": [
+   "lords-of-men::0148",
+   "lords-of-men::0159"
+  ]
+ },
+ {
+  "name": "Great Noble",
+  "type": "Virtue",
+  "aliases": [
+   "Greater Noble"
+  ],
+  "description": "Virtue worth two Major Virtues, or one for supporting characters, that represents greater barons and higher ranks.",
+  "evidence": [
+   "lords-of-men::0149",
+   "lords-of-men::0151",
+   "lords-of-men::0153"
+  ]
+ },
+ {
+  "name": "Baron",
+  "type": "CharacterType",
+  "aliases": [
+   "Baro",
+   "greater baron"
+  ],
+  "description": "Holder of a barony (baro), divided informally into greater and lesser barons. Greater barons have the Great Noble Virtue.",
+  "evidence": [
+   "lords-of-men::0151",
+   "lords-of-men::0152",
+   "lords-of-men::0159"
+  ]
+ },
+ {
+  "name": "Gentlewoman",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for baronesses, countesses and duchesses who hold their rank by marriage.",
+  "evidence": [
+   "lords-of-men::0151",
+   "lords-of-men::0153",
+   "lords-of-men::0156"
+  ]
+ },
+ {
+  "name": "Earl",
+  "type": "CharacterType",
+  "aliases": [
+   "Count",
+   "Comes",
+   "Comte",
+   "Countess"
+  ],
+  "description": "English and Scottish equivalent of a count (comes, comte). An earl has the Great Noble Virtue and spends at least 1000 pounds a year.",
+  "evidence": [
+   "lords-of-men::0153"
+  ]
+ },
+ {
+  "name": "Viscount",
+  "type": "CharacterType",
+  "aliases": [
+   "vice-comes",
+   "viscomte"
+  ],
+  "description": "Originally a count's deputy. In France a lesser count, and in England the Latin form names sheriffs.",
+  "evidence": [
+   "lords-of-men::0154"
+  ]
+ },
+ {
+  "name": "Count Palatine",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A count with extra powers to deal with a difficult border, as in Durham and Chester.",
+  "evidence": [
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Marcher Lord",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Lords placed between England and Wales after the Conquest, with near-royal rights to build castles, levy taxes and make war.",
+  "evidence": [
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Durham",
+  "type": "Place",
+  "aliases": [],
+  "description": "English county palatine near the Scottish border.",
+  "evidence": [
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Chester",
+  "type": "Place",
+  "aliases": [],
+  "description": "English county palatine on the Welsh border.",
+  "evidence": [
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Ely",
+  "type": "Place",
+  "aliases": [],
+  "description": "County palatine that resisted after the Conquest, where churchmen were given extra powers.",
+  "evidence": [
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Kent",
+  "type": "Place",
+  "aliases": [],
+  "description": "County palatine that resisted after the Conquest.",
+  "evidence": [
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Wales",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region bordered by the English marcher lordships.",
+  "evidence": [
+   "lords-of-men::0153",
+   "lords-of-men::0155"
+  ]
+ },
+ {
+  "name": "Count of Marche",
+  "type": "Character",
+  "aliases": [
+   "County of Marche"
+  ],
+  "description": "French count whose ancestor had a marcher role before southern France was pacified.",
+  "evidence": [
+   "lords-of-men::0155",
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Duke",
+  "type": "CharacterType",
+  "aliases": [
+   "Dux",
+   "Duc"
+  ],
+  "description": "The highest class of French vassal (dux, duc), sometimes more powerful than the king. The title is not used in Britain.",
+  "evidence": [
+   "lords-of-men::0156"
+  ]
+ },
+ {
+  "name": "King",
+  "type": "CharacterType",
+  "aliases": [
+   "Rex",
+   "Roi"
+  ],
+  "description": "A ruler (rex, roi) who owes allegiance to no living man except perhaps the pope or emperor. Anointed kings have minor supernatural powers and magic resistance.",
+  "evidence": [
+   "lords-of-men::0157",
+   "lords-of-men::0158",
+   "lords-of-men::0160"
+  ]
+ },
+ {
+  "name": "Prince Louis of France",
+  "type": "Character",
+  "aliases": [],
+  "description": "French prince offered the English crown by the barons and defeated by William Marshal.",
+  "evidence": [
+   "lords-of-men::0157"
+  ]
+ },
+ {
+  "name": "Phillip Augustus",
+  "type": "Character",
+  "aliases": [],
+  "description": "The current king of France, the first of his dynasty not to have his heir acclaimed while he lives.",
+  "evidence": [
+   "lords-of-men::0157"
+  ]
+ },
+ {
+  "name": "King of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "England's monarch, who holds 15 to 20 percent of the kingdom's arable land and has 45 greater-baron vassals.",
+  "evidence": [
+   "lords-of-men::0158",
+   "lords-of-men::0159"
+  ]
+ },
+ {
+  "name": "Magna Carta",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Charter signed five years before 1220, when England had 197 lay and 32 ecclesiastical baronies.",
+  "evidence": [
+   "lords-of-men::0159"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where the French system of titles prevails.",
+  "evidence": [
+   "lords-of-men::0141",
+   "lords-of-men::0157",
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom that uses the French system and the title of earl.",
+  "evidence": [
+   "lords-of-men::0141",
+   "lords-of-men::0153"
+  ]
+ },
+ {
+  "name": "Carolingian Empire",
+  "type": "Place",
+  "aliases": [
+   "Frankish Empire"
+  ],
+  "description": "The Frankish empire whose institutions underlie the French and German noble systems.",
+  "evidence": [
+   "lords-of-men::0141",
+   "lords-of-men::0161",
+   "lords-of-men::0175"
+  ]
+ },
+ {
+  "name": "German System",
+  "type": "Concept",
+  "aliases": [],
+  "description": "System of titles in the Holy Roman Empire, marked by the prefixes reichs- (imperial) and frei- (allodial).",
+  "evidence": [
+   "lords-of-men::0161"
+  ]
+ },
+ {
+  "name": "Fürst",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "German title meaning prince, in the sense of the first member of a family.",
+  "evidence": [
+   "lords-of-men::0161"
+  ]
+ },
+ {
+  "name": "Prinz",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "German title for the child of a king.",
+  "evidence": [
+   "lords-of-men::0162"
+  ]
+ },
+ {
+  "name": "Herr",
+  "type": "CharacterType",
+  "aliases": [
+   "Generosus"
+  ],
+  "description": "German title (generosus) for any noble without a higher title, equivalent to lord.",
+  "evidence": [
+   "lords-of-men::0163"
+  ]
+ },
+ {
+  "name": "Freiherr",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "German noble with an allodial holding, sometimes translated as baron.",
+  "evidence": [
+   "lords-of-men::0164"
+  ]
+ },
+ {
+  "name": "Holy Roman Empire",
+  "type": "Place",
+  "aliases": [],
+  "description": "The empire whose electors choose the king of the Germans, whom the pope anoints as emperor.",
+  "evidence": [
+   "lords-of-men::0161",
+   "lords-of-men::0171",
+   "lords-of-men::0164"
+  ]
+ },
+ {
+  "name": "Ritter",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "General German term for a cavalry soldier, equivalent to knight.",
+  "evidence": [
+   "lords-of-men::0165"
+  ]
+ },
+ {
+  "name": "Ministeriales",
+  "type": "CharacterType",
+  "aliases": [
+   "reichsministeriales"
+  ],
+  "description": "Unfree German knights who served in exchange for upkeep and are being absorbed into the hereditary knightly class.",
+  "evidence": [
+   "lords-of-men::0166"
+  ]
+ },
+ {
+  "name": "Graf",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "German title equivalent to count, with variants such as burgrave and landgraf.",
+  "evidence": [
+   "lords-of-men::0167"
+  ]
+ },
+ {
+  "name": "Burgrave",
+  "type": "CharacterType",
+  "aliases": [
+   "buggraf"
+  ],
+  "description": "Keeper of a castle or fortified town, ranked as a viscount.",
+  "evidence": [
+   "lords-of-men::0167"
+  ]
+ },
+ {
+  "name": "Landgraf",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A graf with a larger than usual area of administration, ranked slightly above a count.",
+  "evidence": [
+   "lords-of-men::0167"
+  ]
+ },
+ {
+  "name": "Margrave",
+  "type": "CharacterType",
+  "aliases": [
+   "Markgraf",
+   "Marchio"
+  ],
+  "description": "A count with fuller legal powers over a difficult border (markgraf, marchio).",
+  "evidence": [
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Brandenberg",
+  "type": "Place",
+  "aliases": [],
+  "description": "Territory held by the descendants of margraves.",
+  "evidence": [
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Moravia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Territory held by the descendants of margraves.",
+  "evidence": [
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Verona",
+  "type": "Place",
+  "aliases": [],
+  "description": "Territory held by the descendants of margraves.",
+  "evidence": [
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Styria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Former march that is now a duchy.",
+  "evidence": [
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Austria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Former march that is now a duchy.",
+  "evidence": [
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Breton March",
+  "type": "Place",
+  "aliases": [],
+  "description": "March in France that has since dissolved into smaller units.",
+  "evidence": [
+   "lords-of-men::0168"
+  ]
+ },
+ {
+  "name": "Spanish March",
+  "type": "Place",
+  "aliases": [
+   "Spanish Marches",
+   "Frankish Mark"
+  ],
+  "description": "March said to have been founded by Constantine the Great, from whose nobility Iberian nobles claim descent.",
+  "evidence": [
+   "lords-of-men::0168",
+   "lords-of-men::0175"
+  ]
+ },
+ {
+  "name": "Constantine the Great",
+  "type": "Character",
+  "aliases": [
+   "Constantine"
+  ],
+  "description": "Roman emperor credited with founding the Spanish March. Some think he gave magi their role.",
+  "evidence": [
+   "lords-of-men::0168",
+   "lords-of-men::0204"
+  ]
+ },
+ {
+  "name": "Barcelona",
+  "type": "Place",
+  "aliases": [],
+  "description": "County ruled by the same family as Provence, which claims to inherit the ancient margraviate.",
+  "evidence": [
+   "lords-of-men::0168",
+   "lords-of-men::0175"
+  ]
+ },
+ {
+  "name": "Provence",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region ruled with Barcelona and closely tied to Catalonian chivalry.",
+  "evidence": [
+   "lords-of-men::0168",
+   "lords-of-men::0176"
+  ]
+ },
+ {
+  "name": "Herzog",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "German title equivalent to duke.",
+  "evidence": [
+   "lords-of-men::0169"
+  ]
+ },
+ {
+  "name": "König",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "German title for king. Within the empire, kingdoms are usually held by the emperor.",
+  "evidence": [
+   "lords-of-men::0170"
+  ]
+ },
+ {
+  "name": "Bohemia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Duchy whose duke is allowed to take the title of king.",
+  "evidence": [
+   "lords-of-men::0170"
+  ]
+ },
+ {
+  "name": "Sicily",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom held personally by the emperor. It is his center of power and has small, poor counties.",
+  "evidence": [
+   "lords-of-men::0170",
+   "lords-of-men::0171",
+   "lords-of-men::0180"
+  ]
+ },
+ {
+  "name": "Römischer Kaiser",
+  "type": "CharacterType",
+  "aliases": [
+   "Roman Emperor",
+   "Romanorum Imperator",
+   "emperor"
+  ],
+  "description": "Roman Emperor, a title granted in the West through election by the electors of the Holy Roman Empire and anointing by the pope.",
+  "evidence": [
+   "lords-of-men::0171"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Holy Roman Emperor elect, anointed on 22 November 1220 and centered in Sicily. His court welcomes Muslim and Christian scholars and he has some interest in magic.",
+  "evidence": [
+   "lords-of-men::0171",
+   "lords-of-men::0170"
+  ]
+ },
+ {
+  "name": "Pope",
+  "type": "Character",
+  "aliases": [],
+  "description": "Head of the Church, who anoints the emperor and recognizes kings. He has Magic Resistance 25.",
+  "evidence": [
+   "lords-of-men::0160",
+   "lords-of-men::0171",
+   "lords-of-men::0202"
+  ]
+ },
+ {
+  "name": "Reconquista",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Christian conquest of Muslim Iberia, which shaped Iberian noble and town systems.",
+  "evidence": [
+   "lords-of-men::0172"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Peninsula of the Christian kingdoms, with the fuero-based noble system.",
+  "evidence": [
+   "lords-of-men::0140",
+   "lords-of-men::0172",
+   "lords-of-men::0191"
+  ]
+ },
+ {
+  "name": "Fuero",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Iberian town charter that sets out militia obligations, exemptions and the equipment required of caballeros.",
+  "evidence": [
+   "lords-of-men::0172",
+   "lords-of-men::0173",
+   "lords-of-men::0175"
+  ]
+ },
+ {
+  "name": "Peon",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Iberian townsman who fights on foot.",
+  "evidence": [
+   "lords-of-men::0173"
+  ]
+ },
+ {
+  "name": "Infanzone",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The lowest rank of Iberian gentry.",
+  "evidence": [
+   "lords-of-men::0174"
+  ]
+ },
+ {
+  "name": "Caballero",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Iberian mounted warrior whose status depends on keeping his gear and serving in the field.",
+  "evidence": [
+   "lords-of-men::0173",
+   "lords-of-men::0175",
+   "lords-of-men::0176"
+  ]
+ },
+ {
+  "name": "Castile",
+  "type": "Place",
+  "aliases": [],
+  "description": "Iberian kingdom where a bride might keep ruling her own lands and widows may act as guardians.",
+  "evidence": [
+   "lords-of-men::0130",
+   "lords-of-men::0138",
+   "lords-of-men::0171"
+  ]
+ },
+ {
+  "name": "Portugal",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where some archers hold caballero status.",
+  "evidence": [
+   "lords-of-men::0175"
+  ]
+ },
+ {
+  "name": "Catalonia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Iberian region whose chivalry follows the French model, with condes, viscondes, valvasores, cavallers and sotcastlàs.",
+  "evidence": [
+   "lords-of-men::0175",
+   "lords-of-men::0176"
+  ]
+ },
+ {
+  "name": "Valvasore",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Catalan noble with a retinue of five knights, similar to a banneret.",
+  "evidence": [
+   "lords-of-men::0176"
+  ]
+ },
+ {
+  "name": "Caballer",
+  "type": "CharacterType",
+  "aliases": [
+   "Cavaller",
+   "vasallos"
+  ],
+  "description": "Catalan vassal who rules a single castle.",
+  "evidence": [
+   "lords-of-men::0176"
+  ]
+ },
+ {
+  "name": "Sotcastlà",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Catalan vassal holding a fief that supports one knight.",
+  "evidence": [
+   "lords-of-men::0176"
+  ]
+ },
+ {
+  "name": "Caballero Villano",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Caballero tied to a particular town who must live there and be ready to muster.",
+  "evidence": [
+   "lords-of-men::0177"
+  ]
+ },
+ {
+  "name": "Dependents",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw that ties a caballero villano to his town through his family.",
+  "evidence": [
+   "lords-of-men::0177"
+  ]
+ },
+ {
+  "name": "Knightly Duties",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw a caballero villano may take instead of Dependents.",
+  "evidence": [
+   "lords-of-men::0177"
+  ]
+ },
+ {
+  "name": "Hidalgo",
+  "type": "CharacterType",
+  "aliases": [
+   "Fidalgo",
+   "Caballero Hidalgo"
+  ],
+  "description": "Ancestral caballero backed by his family in matters of honor, with the Knight Virtue.",
+  "evidence": [
+   "lords-of-men::0178"
+  ]
+ },
+ {
+  "name": "Ricohombre",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Iberian great men of the aristocratic upper class who hold honores from kings. They have the Great Noble Virtue.",
+  "evidence": [
+   "lords-of-men::0179"
+  ]
+ },
+ {
+  "name": "Visigothic kings",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancient kings from whom ricohombres claim descent.",
+  "evidence": [
+   "lords-of-men::0179"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where nobility is simple, counts are weak and communes govern the towns.",
+  "evidence": [
+   "lords-of-men::0180"
+  ]
+ },
+ {
+  "name": "Papal States",
+  "type": "Place",
+  "aliases": [],
+  "description": "Territory in Italy outside the communes' control.",
+  "evidence": [
+   "lords-of-men::0180"
+  ]
+ },
+ {
+  "name": "Patrizio",
+  "type": "CharacterType",
+  "aliases": [
+   "Patrician"
+  ],
+  "description": "Patrician of a northern Italian town's ruling elite, ranked above squire and below knight.",
+  "evidence": [
+   "lords-of-men::0180"
+  ]
+ },
+ {
+  "name": "Venice",
+  "type": "Place",
+  "aliases": [],
+  "description": "City where patricians descend from the founders listed in the Golden Book and sit on the Council.",
+  "evidence": [
+   "lords-of-men::0180"
+  ]
+ },
+ {
+  "name": "Golden Book",
+  "type": "Item",
+  "aliases": [],
+  "description": "Venetian register of the city's founding families.",
+  "evidence": [
+   "lords-of-men::0180"
+  ]
+ },
+ {
+  "name": "Strategos",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Byzantine general who controls a theme.",
+  "evidence": [
+   "lords-of-men::0181"
+  ]
+ },
+ {
+  "name": "Despot",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Leader of a Byzantine successor state who grants pronia.",
+  "evidence": [
+   "lords-of-men::0181"
+  ]
+ },
+ {
+  "name": "Pronia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Byzantine grants of land revenues in exchange for military support.",
+  "evidence": [
+   "lords-of-men::0181"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "aliases": [],
+  "description": "Byzantine capital whose fall divided the empire.",
+  "evidence": [
+   "lords-of-men::0181"
+  ]
+ },
+ {
+  "name": "Latin Empire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Crusader state in the former Byzantine lands that uses the French structure.",
+  "evidence": [
+   "lords-of-men::0181"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The Order's law, which strictly forbids interfering with mundanes and molesting faeries.",
+  "evidence": [
+   "lords-of-men::0182",
+   "lords-of-men::0207",
+   "lords-of-men::0220"
+  ]
+ },
+ {
+  "name": "Interference",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Meddling with mundanes that brings ruin on the Order, forbidden by the Code. Its definition varies by Tribunal.",
+  "evidence": [
+   "lords-of-men::0182",
+   "lords-of-men::0183",
+   "lords-of-men::0185"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Regional Hermetic assembly that judges crimes and regulates interference and the sale of magic items.",
+  "evidence": [
+   "lords-of-men::0182",
+   "lords-of-men::0185",
+   "lords-of-men::0192"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A community of magi, which may dwell on allods or must deal with mundane neighbors.",
+  "evidence": [
+   "lords-of-men::0182",
+   "lords-of-men::0185",
+   "lords-of-men::0194"
+  ]
+ },
+ {
+  "name": "Conspiracy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Allying with mundanes in common cause, which the Code forbids. Aid given without the recipient's knowledge is not conspiracy.",
+  "evidence": [
+   "lords-of-men::0184"
+  ]
+ },
+ {
+  "name": "Lord Cuthbert",
+  "type": "Character",
+  "aliases": [
+   "Cuthbert"
+  ],
+  "description": "Example noble feuding with a magus.",
+  "evidence": [
+   "lords-of-men::0184"
+  ]
+ },
+ {
+  "name": "Sir Dudley",
+  "type": "Character",
+  "aliases": [
+   "Dudley"
+  ],
+  "description": "Example enemy of Lord Cuthbert.",
+  "evidence": [
+   "lords-of-men::0184"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House of messengers who carry created goods to distant markets. Some of its covenants tie their finances to cities.",
+  "evidence": [
+   "lords-of-men::0185",
+   "lords-of-men::0203"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal with the strictest rules on interference.",
+  "evidence": [
+   "lords-of-men::0185"
+  ]
+ },
+ {
+  "name": "Normandy",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where covenants keep a mundane veneer, so that interference means only harm to other magi.",
+  "evidence": [
+   "lords-of-men::0185",
+   "lords-of-men::0186"
+  ]
+ },
+ {
+  "name": "Rhine",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal where most covenants claim to be allodial and refuse to pay taxes.",
+  "evidence": [
+   "lords-of-men::0194"
+  ]
+ },
+ {
+  "name": "Longevity Potion",
+  "type": "Item",
+  "aliases": [],
+  "description": "Magical potion given to a covenant's tame noble in exchange for service.",
+  "evidence": [
+   "lords-of-men::0187"
+  ]
+ },
+ {
+  "name": "Magic Items",
+  "type": "Item",
+  "aliases": [],
+  "description": "Enchanted devices whose sale to nobles has been forbidden since 1061, although a loophole allows sale through mundane servants.",
+  "evidence": [
+   "lords-of-men::0187",
+   "lords-of-men::0188",
+   "lords-of-men::0192"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of demons, whose auras famine could feed.",
+  "evidence": [
+   "lords-of-men::0189"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House whose current primus wants freer access to mortal markets for magic items.",
+  "evidence": [
+   "lords-of-men::0192"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Order-wide Tribunal that could be asked to restrict the sale of magic items.",
+  "evidence": [
+   "lords-of-men::0192"
+  ]
+ },
+ {
+  "name": "Involvement",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Contact with mundanes that does not breach the Code, such as proportionate self-defense.",
+  "evidence": [
+   "lords-of-men::0193"
+  ]
+ },
+ {
+  "name": "Self-Defense",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The right of magi to defend themselves, broadly defined.",
+  "evidence": [
+   "lords-of-men::0194",
+   "lords-of-men::0195"
+  ]
+ },
+ {
+  "name": "Defense of Sodales",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The right of magi to act in a fellow magus's defense, for example by rescuing prisoners or avenging Redcaps.",
+  "evidence": [
+   "lords-of-men::0195"
+  ]
+ },
+ {
+  "name": "Defense of the Art",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The right to treat as an enemy anyone who publicly vows to purge wizards.",
+  "evidence": [
+   "lords-of-men::0197",
+   "lords-of-men::0199"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Messengers of the Order, who wear red caps and whose harm is avenged.",
+  "evidence": [
+   "lords-of-men::0195",
+   "lords-of-men::0197",
+   "lords-of-men::0200"
+  ]
+ },
+ {
+  "name": "Waiting Spell",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell that killed a raiding noble when his specific presence triggered it.",
+  "evidence": [
+   "lords-of-men::0195",
+   "lords-of-men::0196"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Order's past war, when some magi turned to Satan, during which purge declarations were common.",
+  "evidence": [
+   "lords-of-men::0197",
+   "lords-of-men::0201"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Hermetic Ability of which a stolen apprentice knows only a smattering.",
+  "evidence": [
+   "lords-of-men::0197"
+  ]
+ },
+ {
+  "name": "Direction Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor magical talent a Redcap's apprentice might show.",
+  "evidence": [
+   "lords-of-men::0198"
+  ]
+ },
+ {
+  "name": "Dowsing",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor magical talent a Redcap's apprentice might show.",
+  "evidence": [
+   "lords-of-men::0198"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power. Magi collect it from sites and defend vis sources.",
+  "evidence": [
+   "lords-of-men::0194",
+   "lords-of-men::0198",
+   "lords-of-men::0199"
+  ]
+ },
+ {
+  "name": "Order of Hermes Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of the Order, in which educated nobles may have low scores.",
+  "evidence": [
+   "lords-of-men::0199"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House tied to nobles and cities. It spreads misconceptions about magi and administers the plea.",
+  "evidence": [
+   "lords-of-men::0199",
+   "lords-of-men::0201",
+   "lords-of-men::0204"
+  ]
+ },
+ {
+  "name": "Hedge Wizard",
+  "type": "CharacterType",
+  "aliases": [
+   "hedge witches"
+  ],
+  "description": "Non-Hermetic magician, such as the hedge witches and wise women purged by a baron.",
+  "evidence": [
+   "lords-of-men::0199"
+  ]
+ },
+ {
+  "name": "Plea",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The means by which noblemen raise legal issues with the Order, administered by redcaps, Guernicus or Jerbiton.",
+  "evidence": [
+   "lords-of-men::0201",
+   "lords-of-men::0202",
+   "lords-of-men::0203"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House that helps administer nobles' pleas.",
+  "evidence": [
+   "lords-of-men::0201"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection that church officers and anointed sovereigns get against magic, from the pope's 25 to a crowned king's 10.",
+  "evidence": [
+   "lords-of-men::0160",
+   "lords-of-men::0202",
+   "lords-of-men::0210"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Penetration 0 effect held by church officers and sovereigns out to Voice range.",
+  "evidence": [
+   "lords-of-men::0202"
+  ]
+ },
+ {
+  "name": "Cardinal",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Church officer with Magic Resistance 20.",
+  "evidence": [
+   "lords-of-men::0202"
+  ]
+ },
+ {
+  "name": "Archbishop",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Church officer with Magic Resistance 10.",
+  "evidence": [
+   "lords-of-men::0202"
+  ]
+ },
+ {
+  "name": "Relics",
+  "type": "Item",
+  "aliases": [],
+  "description": "Saints' relics, which grant Magic Resistance.",
+  "evidence": [
+   "lords-of-men::0202",
+   "lords-of-men::0203",
+   "lords-of-men::0210"
+  ]
+ },
+ {
+  "name": "Demonstrating Harm",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The part of a plea in which harm to a magus's interests must be shown.",
+  "evidence": [
+   "lords-of-men::0203"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House known for fire magic.",
+  "evidence": [
+   "lords-of-men::0203"
+  ]
+ },
+ {
+  "name": "Thirteenth House",
+  "type": "House",
+  "aliases": [],
+  "description": "House destroyed for paganism or Satanism.",
+  "evidence": [
+   "lords-of-men::0203"
+  ]
+ },
+ {
+  "name": "King Arthur",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary king whom some believe gave magi their role, and the theme of Arthurian feasts.",
+  "evidence": [
+   "lords-of-men::0204",
+   "lords-of-men::0237"
+  ]
+ },
+ {
+  "name": "Charlemagne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Emperor whom some believe gave magi their role.",
+  "evidence": [
+   "lords-of-men::0204"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The highest Realm. Its Dominion suppresses magic and it judges diabolists.",
+  "evidence": [
+   "lords-of-men::0209",
+   "lords-of-men::0210"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Divine aura that suppresses magic in cities and holy places.",
+  "evidence": [
+   "lords-of-men::0210"
+  ]
+ },
+ {
+  "name": "Quaesitores",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigators who examine covenants destroyed by acts of God.",
+  "evidence": [
+   "lords-of-men::0209"
+  ]
+ },
+ {
+  "name": "Corruption of House Tytalus",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The fall of House Tytalus, in which God did not intervene directly.",
+  "evidence": [
+   "lords-of-men::0209"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House that suffered a Corruption.",
+  "evidence": [
+   "lords-of-men::0209"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Infernal beings such as demons of pride, famine and avarice that oppose reform or exploit it.",
+  "evidence": [
+   "lords-of-men::0189",
+   "lords-of-men::0211"
+  ]
+ },
+ {
+  "name": "Famine Demons",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demons that attack a covenant that creates bountiful crops.",
+  "evidence": [
+   "lords-of-men::0211"
+  ]
+ },
+ {
+  "name": "Demon of Avarice",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Demon that aids magi hoping to create a merchant class whose souls he can claim.",
+  "evidence": [
+   "lords-of-men::0211"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Creature",
+  "aliases": [
+   "Fairies"
+  ],
+  "description": "Beings that force humans to act out stories and so preserve conservative social roles.",
+  "evidence": [
+   "lords-of-men::0212",
+   "lords-of-men::0213"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Realm of faeries where ancient powerful faeries may dwell.",
+  "evidence": [
+   "lords-of-men::0212"
+  ]
+ },
+ {
+  "name": "Faerie Ancestor Spirit",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Powerful faerie that kidnaps a child to pose as a false heir.",
+  "evidence": [
+   "lords-of-men::0213"
+  ]
+ },
+ {
+  "name": "Magical Animal Companions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical animals for which the pet statistics can serve as templates.",
+  "evidence": [
+   "lords-of-men::0215"
+  ]
+ },
+ {
+  "name": "Magpie",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Talking pet bird with game statistics.",
+  "evidence": [
+   "lords-of-men::0215",
+   "lords-of-men::0216"
+  ]
+ },
+ {
+  "name": "Monkey",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Pet with game statistics.",
+  "evidence": [
+   "lords-of-men::0216"
+  ]
+ },
+ {
+  "name": "Squirrel",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Pet with game statistics.",
+  "evidence": [
+   "lords-of-men::0217"
+  ]
+ },
+ {
+  "name": "Lightning Reflexes",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue possessed by the squirrel.",
+  "evidence": [
+   "lords-of-men::0217"
+  ]
+ },
+ {
+  "name": "Athletics",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used for dance performance and animal movement.",
+  "evidence": [
+   "lords-of-men::0215",
+   "lords-of-men::0224"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of animals.",
+  "evidence": [
+   "lords-of-men::0215"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of animals.",
+  "evidence": [
+   "lords-of-men::0215"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability, such as the magpie's mimicry.",
+  "evidence": [
+   "lords-of-men::0215"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of animals.",
+  "evidence": [
+   "lords-of-men::0215"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of animals.",
+  "evidence": [
+   "lords-of-men::0215"
+  ]
+ },
+ {
+  "name": "Chess",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Board game valued for teaching military strategy.",
+  "evidence": [
+   "lords-of-men::0219",
+   "lords-of-men::0220"
+  ]
+ },
+ {
+  "name": "Tafl",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Popular Norse board game of defending a king.",
+  "evidence": [
+   "lords-of-men::0219"
+  ]
+ },
+ {
+  "name": "Fidchell",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Celtic protect-the-king board game.",
+  "evidence": [
+   "lords-of-men::0219"
+  ]
+ },
+ {
+  "name": "Rithmomachia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The philosopher's game.",
+  "evidence": [
+   "lords-of-men::0219"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used for games of chance and companionship.",
+  "evidence": [
+   "lords-of-men::0220",
+   "lords-of-men::0221",
+   "lords-of-men::0233"
+  ]
+ },
+ {
+  "name": "Etiquette",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used for good manners, seating guests and court dance.",
+  "evidence": [
+   "lords-of-men::0220",
+   "lords-of-men::0224",
+   "lords-of-men::0232"
+  ]
+ },
+ {
+  "name": "Octavian of Tremere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Tremere magus who plays chess with a great noble and may be breaking the Code.",
+  "evidence": [
+   "lords-of-men::0220"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House of Octavian.",
+  "evidence": [
+   "lords-of-men::0220"
+  ]
+ },
+ {
+  "name": "Coeris Gambit",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Chess move of Octavian.",
+  "evidence": [
+   "lords-of-men::0220"
+  ]
+ },
+ {
+  "name": "Hazard",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dice game.",
+  "evidence": [
+   "lords-of-men::0221"
+  ]
+ },
+ {
+  "name": "Luck",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue providing bonus to die rolls.",
+  "evidence": [
+   "lords-of-men::0221",
+   "lords-of-men::0222"
+  ]
+ },
+ {
+  "name": "Legerdemain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability to manipulate dice and cheat.",
+  "evidence": [
+   "lords-of-men::0221",
+   "lords-of-men::0222"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability for games of skill.",
+  "evidence": [
+   "lords-of-men::0221"
+  ]
+ },
+ {
+  "name": "Perception",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characteristic combined with Carouse.",
+  "evidence": [
+   "lords-of-men::0222"
+  ]
+ },
+ {
+  "name": "Carol",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Circle dance.",
+  "evidence": [
+   "lords-of-men::0223"
+  ]
+ },
+ {
+  "name": "Estampie",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Stamping dance.",
+  "evidence": [
+   "lords-of-men::0223",
+   "lords-of-men::0224"
+  ]
+ },
+ {
+  "name": "Salterello",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Leaping dance from Naples.",
+  "evidence": [
+   "lords-of-men::0224"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability for local folk dances.",
+  "evidence": [
+   "lords-of-men::0224"
+  ]
+ },
+ {
+  "name": "Damsel's Tresses",
+  "type": "Item",
+  "aliases": [],
+  "description": "Rare golden spice growing on an ancient oak.",
+  "evidence": [
+   "lords-of-men::0230"
+  ]
+ },
+ {
+  "name": "Feast of St. John",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Holiday of a feast story.",
+  "evidence": [
+   "lords-of-men::0228"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural auras, such as Infernal auras.",
+  "evidence": [
+   "lords-of-men::0189"
+  ]
+ },
+ {
+  "name": "Hunting",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Noble sport.",
+  "evidence": [
+   "lords-of-men::0239"
+  ]
+ },
+ {
+  "name": "Chase",
+  "type": "Concept",
+  "aliases": [
+   "Warren"
+  ],
+  "description": "Reserved hunting ground; Minor Surroundings Boon.",
+  "evidence": [
+   "lords-of-men::0239"
+  ]
+ }
+]

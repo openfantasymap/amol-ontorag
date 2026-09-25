@@ -1,0 +1,772 @@
+[
+ {
+  "name": "Inanis",
+  "type": "Item",
+  "aliases": [],
+  "description": "A spongy gray concretion formed from the residue of vis used in enchantment; it saps magical effects and the Might of supernatural creatures within its range. An optional rule for sagas exploring magical pollution.",
+  "evidence": [
+   "transforming-mythic-europe::0600",
+   "transforming-mythic-europe::0601"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power used in enchantments; magical technology requires a plentiful supply, and spun vis can be scavenged from existing enchantments.",
+  "evidence": [
+   "transforming-mythic-europe::0600",
+   "transforming-mythic-europe::0606",
+   "transforming-mythic-europe::0607"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift"
+  ],
+  "description": "The supernatural talent required to be a Hermetic magus; it carries a social penalty that makes magi employ mundane factors, and inanis is feared to destroy it.",
+  "evidence": [
+   "transforming-mythic-europe::0601",
+   "transforming-mythic-europe::0607",
+   "transforming-mythic-europe::0610"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [
+   "auras"
+  ],
+  "description": "Supernatural auras that some fear inanis might deplete.",
+  "evidence": [
+   "transforming-mythic-europe::0601"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The supernatural power score of creatures; creatures lose Might while within the area of effect of inanis.",
+  "evidence": [
+   "transforming-mythic-europe::0601"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting of Ars Magica, which magical technology might transform.",
+  "evidence": [
+   "transforming-mythic-europe::0604",
+   "transforming-mythic-europe::0614",
+   "transforming-mythic-europe::0612"
+  ]
+ },
+ {
+  "name": "Virgilian Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A recently discovered magical tradition with a strong element of invention through Animo, the creation of objects with awakened spirits.",
+  "evidence": [
+   "transforming-mythic-europe::0602"
+  ]
+ },
+ {
+  "name": "Animo",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Virgilian practice of creating objects with awakened spirits that move of their own volition and adapt to their surroundings, something impossible with Hermetic magic.",
+  "evidence": [
+   "transforming-mythic-europe::0602"
+  ]
+ },
+ {
+  "name": "Augustan Brotherhood",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Practitioners of Virgilian Magic whose discoveries are less than a century old.",
+  "evidence": [
+   "transforming-mythic-europe::0602"
+  ]
+ },
+ {
+  "name": "Mechanicians",
+  "type": "Faction",
+  "aliases": [
+   "wonderworkers of Heron"
+  ],
+  "description": "A now-extinct magical tradition of mechanic-magicians who studied under Heron of Alexandria and infused mechanical devices with wondrous abilities; they died out in the fifth century.",
+  "evidence": [
+   "transforming-mythic-europe::0603"
+  ]
+ },
+ {
+  "name": "Heron of Alexandria",
+  "type": "Character",
+  "aliases": [
+   "Heron of Alexander",
+   "Heron"
+  ],
+  "description": "Ancient teacher of the Mechanicians whose Mechanica describes devices producing semi-magical effects.",
+  "evidence": [
+   "transforming-mythic-europe::0603",
+   "transforming-mythic-europe::0606"
+  ]
+ },
+ {
+  "name": "Mechanica of Heron",
+  "type": "Item",
+  "aliases": [
+   "Mechanica"
+  ],
+  "description": "The lost teachings of Heron of Alexandria whose rediscovery would allow building semi-magical devices without vis; source of Mutable Devices.",
+  "evidence": [
+   "transforming-mythic-europe::0603",
+   "transforming-mythic-europe::0606"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The organization of Hermetic magi, which in this saga seed becomes a highly selective craft guild producing magical technology.",
+  "evidence": [
+   "transforming-mythic-europe::0605",
+   "transforming-mythic-europe::0607",
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "Charged Items",
+  "type": "Concept",
+  "aliases": [
+   "Charged Item"
+  ],
+  "description": "A lesser form of enchantment insufficient for the more spectacular magical technologies.",
+  "evidence": [
+   "transforming-mythic-europe::0606"
+  ]
+ },
+ {
+  "name": "Mutable Devices",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A discovery from Heron of Alexandria's Mechanica allowing characters to scavenge spun vis and use its capacity in new enchantments.",
+  "evidence": [
+   "transforming-mythic-europe::0606"
+  ]
+ },
+ {
+  "name": "Reforging Enchanted Items",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An Inner Mystery of House Verditius allowing spun vis from enchanted items to be reused in new enchantments.",
+  "evidence": [
+   "transforming-mythic-europe::0606"
+  ]
+ },
+ {
+  "name": "House Verditius",
+  "type": "House",
+  "aliases": [
+   "Verditius"
+  ],
+  "description": "Hermetic House of enchanters; in the saga seed its Outer Mystery was betrayed, it ceased to be a Mystery Cult and became a Societas, and co-located its domus magna with House Bonisagus.",
+  "evidence": [
+   "transforming-mythic-europe::0606",
+   "transforming-mythic-europe::0620",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere"
+  ],
+  "description": "Hermetic House of redcaps rumored to hold a vis cache near Harco; in the saga seed its redcaps become agents for selling magical technology.",
+  "evidence": [
+   "transforming-mythic-europe::0606",
+   "transforming-mythic-europe::0621",
+   "transforming-mythic-europe::0622"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Place",
+  "aliases": [],
+  "description": "Location near which House Mercere is rumored to hide a huge vis cache.",
+  "evidence": [
+   "transforming-mythic-europe::0606"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Hermetic House that punishes vis stockpiling and, in the saga seed, fought to enforce the Oath and stifle change but was defeated.",
+  "evidence": [
+   "transforming-mythic-europe::0606",
+   "transforming-mythic-europe::0615",
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "Magic Theory",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability required for preparing and enchanting items and using vis; teaching it early to apprentices could speed item manufacture.",
+  "evidence": [
+   "transforming-mythic-europe::0607",
+   "transforming-mythic-europe::0608",
+   "transforming-mythic-europe::0609"
+  ]
+ },
+ {
+  "name": "Laboratory Texts",
+  "type": "Item",
+  "aliases": [
+   "Laboratory Text"
+  ],
+  "description": "Written records of laboratory work that allow other magi to duplicate enchanted devices.",
+  "evidence": [
+   "transforming-mythic-europe::0604",
+   "transforming-mythic-europe::0607",
+   "transforming-mythic-europe::0608"
+  ]
+ },
+ {
+  "name": "Hermetic Arts",
+  "type": "Art",
+  "aliases": [
+   "Arts"
+  ],
+  "description": "The Arts of Hermetic magic; magi need sufficiently high Arts to achieve enchantments and apprentices are Opened to them.",
+  "evidence": [
+   "transforming-mythic-europe::0607",
+   "transforming-mythic-europe::0608"
+  ]
+ },
+ {
+  "name": "Opening the Arts",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The process by which an apprentice is Opened to the Hermetic Arts, after which they can prepare items for enchantment.",
+  "evidence": [
+   "transforming-mythic-europe::0608"
+  ]
+ },
+ {
+  "name": "Apprenticeship",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The training period of a Hermetic magus; the saga seed proposes indenturing magi afterwards to repay the Order.",
+  "evidence": [
+   "transforming-mythic-europe::0607",
+   "transforming-mythic-europe::0608"
+  ]
+ },
+ {
+  "name": "Indenture",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A proposed period of required seasons of labor after apprenticeship to remunerate the Order, similar to a guild journeyman phase.",
+  "evidence": [
+   "transforming-mythic-europe::0607"
+  ]
+ },
+ {
+  "name": "Breakthrough",
+  "type": "Concept",
+  "aliases": [
+   "Breakthroughs"
+  ],
+  "description": "Discoveries in Magic Theory that can speed or ease the creation of enchantments or allow new capabilities.",
+  "evidence": [
+   "transforming-mythic-europe::0609",
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "Single-Use Charged Items",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Breakthrough in Magic Theory that could ease the creation of enchantments.",
+  "evidence": [
+   "transforming-mythic-europe::0609"
+  ]
+ },
+ {
+  "name": "Vis-less Enchantments",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Breakthrough in Magic Theory allowing enchantments without vis.",
+  "evidence": [
+   "transforming-mythic-europe::0609"
+  ]
+ },
+ {
+  "name": "Rune Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Breakthrough that could revolutionize the making of enchantments.",
+  "evidence": [
+   "transforming-mythic-europe::0609"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [
+   "covenants"
+  ],
+  "description": "Home communities of magi; in a transformed Mythic Europe some resemble factories.",
+  "evidence": [
+   "transforming-mythic-europe::0607",
+   "transforming-mythic-europe::0614"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability governing quality of Craft Magic; most magical manufacture is operated by those with little or no Finesse, producing shoddy goods.",
+  "evidence": [
+   "transforming-mythic-europe::0615"
+  ]
+ },
+ {
+  "name": "Rego Craft Magic",
+  "type": "Concept",
+  "aliases": [
+   "Craft Magic"
+  ],
+  "description": "Rego magic used to craft items; in the saga seed it permits rapid mass production of textiles, tools, and weapons.",
+  "evidence": [
+   "transforming-mythic-europe::0615"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "The Hermetic Technique of control, used in Rego Craft Magic.",
+  "evidence": [
+   "transforming-mythic-europe::0615"
+  ]
+ },
+ {
+  "name": "Learned Magicians",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Magicians who influence luck, health, and magic with protective devices and trade in protecting buildings against magical siege engines.",
+  "evidence": [
+   "transforming-mythic-europe::0615",
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "Hermetic House whose dominant Harmonist faction takes to adventuring in flying ships in the saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "Harmonists",
+  "type": "Faction",
+  "aliases": [
+   "Harmonist"
+  ],
+  "description": "The dominant faction of House Bjornaer, which in the saga seed eschews Hermetic society for adventure.",
+  "evidence": [
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "Wilderists",
+  "type": "Faction",
+  "aliases": [],
+  "description": "A House Bjornaer faction seeking to claim the wilds back from humanity; dispersed in the saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "House Criamon",
+  "type": "House",
+  "aliases": [
+   "Criamon"
+  ],
+  "description": "Hermetic House that contemplates the Enigma and ignores the changes of the world.",
+  "evidence": [
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "The Enigma",
+  "type": "Concept",
+  "aliases": [
+   "Enigma"
+  ],
+  "description": "The mystery contemplated by House Criamon.",
+  "evidence": [
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House largely unchanged by technological magic, though developing a school of combat targeting magical devices.",
+  "evidence": [
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "Oath of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Oath"
+  ],
+  "description": "The Hermetic Oath that House Guernicus sought to enforce to stifle change.",
+  "evidence": [
+   "transforming-mythic-europe::0616"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House concerned with the aesthetics of technology, sponsoring art displayed through public scrying mirrors.",
+  "evidence": [
+   "transforming-mythic-europe::0616",
+   "transforming-mythic-europe::0618"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House that suffers from the stripping of vis from supernatural sites for technology.",
+  "evidence": [
+   "transforming-mythic-europe::0616",
+   "transforming-mythic-europe::0617"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Faerie realm, which proved particularly vulnerable to vis stripping for technology.",
+  "evidence": [
+   "transforming-mythic-europe::0617"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House particularly interested in armamentation such as siege engines and magical weapons; Craft Magic entered it through joint apprenticeships.",
+  "evidence": [
+   "transforming-mythic-europe::0617",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House polarized between those at technology's cutting edge and those refusing innovation.",
+  "evidence": [
+   "transforming-mythic-europe::0617",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Scrying Mirrors",
+  "type": "Item",
+  "aliases": [
+   "distant viewers",
+   "scrying devices"
+  ],
+  "description": "Distant viewer devices used by rulers to address subjects and displayed publicly for art.",
+  "evidence": [
+   "transforming-mythic-europe::0618",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Flying Ships",
+  "type": "Item",
+  "aliases": [
+   "flying ship"
+  ],
+  "description": "Ships held aloft by magic used for transporting passengers and cargo in a transformed Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0614",
+   "transforming-mythic-europe::0616",
+   "transforming-mythic-europe::0618"
+  ]
+ },
+ {
+  "name": "Automata",
+  "type": "Item",
+  "aliases": [],
+  "description": "Delicate mechanical devices in rich households performing for children.",
+  "evidence": [
+   "transforming-mythic-europe::0614"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Side effect of magic exposure; concerns over it prevented instant transportation being adopted.",
+  "evidence": [
+   "transforming-mythic-europe::0618"
+  ]
+ },
+ {
+  "name": "Living Conditions",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Game modifier for living in a city or town, halved to +1 in the saga seed thanks to food preservation.",
+  "evidence": [
+   "transforming-mythic-europe::0619"
+  ]
+ },
+ {
+  "name": "Outer Mystery of House Verditius",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The Verditius Mystery betrayed to the Order by an anonymous writer, leading to widespread Verditius Magic.",
+  "evidence": [
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "Verditius Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "The House Verditius Mystery Virtue, learned by many magi without casting tools after the betrayal of the Outer Mystery.",
+  "evidence": [
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "Mystery Cult",
+  "type": "Concept",
+  "aliases": [
+   "Mystery Cults"
+  ],
+  "description": "An initiatory organization; House Verditius ceased to operate as one in the saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0620",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Initiation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The means by which Mystery Virtues are normally acquired, as opposed to teaching.",
+  "evidence": [
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "Societas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Hermetic House type that is not a Mystery Cult or True Lineage; House Verditius becomes one in the saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "Inner Mysteries",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The secret higher Mysteries of House Verditius, still retained after its fall.",
+  "evidence": [
+   "transforming-mythic-europe::0606",
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagi",
+   "Bonisagus"
+  ],
+  "description": "Hermetic House that researches new magical applications and passes Laboratory Texts to Verditius for manufacture.",
+  "evidence": [
+   "transforming-mythic-europe::0620",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "The Order-wide Tribunal at which the Verditius primus announced co-location with Bonisagus.",
+  "evidence": [
+   "transforming-mythic-europe::0620"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Leader of a Hermetic House.",
+  "evidence": [
+   "transforming-mythic-europe::0620",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Domus Magna",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The chief covenant of a Hermetic House.",
+  "evidence": [
+   "transforming-mythic-europe::0620",
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus magna of House Bonisagus, where Verditius co-locates its domus magna in the saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [],
+  "description": "Hermetic House of hedge traditions taken over by a cabal of Rusticani in the saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Rusticani",
+  "type": "Faction",
+  "aliases": [
+   "Mechanicals",
+   "Mechanical"
+  ],
+  "description": "Hermetic hedge tradition of Mechanicals practicing Craft Magic who took over House Ex Miscellanea in the saga seed.",
+  "evidence": [
+   "transforming-mythic-europe::0621"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "aliases": [
+   "redcap"
+  ],
+  "description": "Messengers of House Mercere who become mundane agents for selling magical technology.",
+  "evidence": [
+   "transforming-mythic-europe::0621",
+   "transforming-mythic-europe::0622"
+  ]
+ },
+ {
+  "name": "Solomonic magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Eastern magic of coercing spirits; breakthroughs allow spirits to serve a device's wielder.",
+  "evidence": [
+   "transforming-mythic-europe::0623"
+  ]
+ },
+ {
+  "name": "Eastern magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Arab and Persian magical technology channeled through spirits and sometimes powered by demons.",
+  "evidence": [
+   "transforming-mythic-europe::0623"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region of warfare between Arabs and Westerners.",
+  "evidence": [
+   "transforming-mythic-europe::0623"
+  ]
+ },
+ {
+  "name": "Hermetic Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The magic of the Order of Hermes, whose enchantments take a season's work and vis.",
+  "evidence": [
+   "transforming-mythic-europe::0602",
+   "transforming-mythic-europe::0609",
+   "transforming-mythic-europe::0611"
+  ]
+ },
+ {
+  "name": "Laboratory",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Where magi perform enchantment work taking at least a season.",
+  "evidence": [
+   "transforming-mythic-europe::0600",
+   "transforming-mythic-europe::0611"
+  ]
+ },
+ {
+  "name": "Enchanted Devices",
+  "type": "Concept",
+  "aliases": [
+   "enchantments"
+  ],
+  "description": "Hermetic enchantments forming the basis of magical technology.",
+  "evidence": [
+   "transforming-mythic-europe::0606",
+   "transforming-mythic-europe::0611"
+  ]
+ },
+ {
+  "name": "Magical Technology",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The use of Hermetic enchantments as technology to transform Mythic Europe.",
+  "evidence": [
+   "transforming-mythic-europe::0604",
+   "transforming-mythic-europe::0606",
+   "transforming-mythic-europe::0614"
+  ]
+ }
+]

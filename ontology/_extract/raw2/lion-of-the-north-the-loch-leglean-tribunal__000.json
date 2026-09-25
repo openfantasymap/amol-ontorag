@@ -1,0 +1,2994 @@
+[
+ {
+  "name": "Loch Leglean Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Loch Leglean"
+  ],
+  "description": "The Hermetic tribunal covering Scotland north of Hadrian's Wall, named for Pralix's winter camp; the largest tribunal by number of magi, dominated by House Ex Miscellanea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0000",
+   "lion-of-the-north-the-loch-leglean-tribunal::0009",
+   "lion-of-the-north-the-loch-leglean-tribunal::0077"
+  ]
+ },
+ {
+  "name": "Hibernian Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Hibernia",
+   "Hibernia Tribunal"
+  ],
+  "description": "Hermetic tribunal covering Ireland, created when the British Isles were divided into three tribunals in 817.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0069",
+   "lion-of-the-north-the-loch-leglean-tribunal::0083"
+  ]
+ },
+ {
+  "name": "Stonehenge Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Stonehenge"
+  ],
+  "description": "Hermetic tribunal covering Britain up to Hadrian's Wall, neighbor of Loch Leglean.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0069",
+   "lion-of-the-north-the-loch-leglean-tribunal::0083"
+  ]
+ },
+ {
+  "name": "Normandy Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "Norman Tribunal"
+  ],
+  "description": "Hermetic tribunal growing in importance to Loch Leglean because of mundane ties between Scotland and France.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0083"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of Hermetic magi, founded at Durenmar in 767; in Scotland it has a checkered past and many unorthodox practices.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0005",
+   "lion-of-the-north-the-loch-leglean-tribunal::0060",
+   "lion-of-the-north-the-loch-leglean-tribunal::0055"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "The thirteenth House, formed from Pralix's Ordo Miscellanea in 817; comprises half the magi of the Loch Leglean Tribunal.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0009",
+   "lion-of-the-north-the-loch-leglean-tribunal::0069",
+   "lion-of-the-north-the-loch-leglean-tribunal::0080"
+  ]
+ },
+ {
+  "name": "Ordo Miscellanea",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Order of non-Hermetic magicians founded by Pralix after the war against Damhan-allaidh in opposition to the Order of Hermes; later admitted as House Ex Miscellanea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0059",
+   "lion-of-the-north-the-loch-leglean-tribunal::0069",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere",
+   "Redcap"
+  ],
+  "description": "Hermetic House of messengers (Redcaps); has only one member in the Loch Leglean Tribunal.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0009",
+   "lion-of-the-north-the-loch-leglean-tribunal::0088"
+  ]
+ },
+ {
+  "name": "House Quaesitor",
+  "type": "House",
+  "aliases": [
+   "Quaesitor",
+   "quaesitoris"
+  ],
+  "description": "Hermetic House of investigators and judges; its only member in Loch Leglean is Whitburh Frithowebba of Horsingas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0009",
+   "lion-of-the-north-the-loch-leglean-tribunal::0078",
+   "lion-of-the-north-the-loch-leglean-tribunal::0080"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "aliases": [
+   "Flambeau"
+  ],
+  "description": "Hermetic House of combat magi; fought Damhan-allaidh, rampaged through the Highlands in 1099, and has bad blood with House Ex Miscellanea; fewer than five members in Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0070",
+   "lion-of-the-north-the-loch-leglean-tribunal::0076"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "Hermetic House whose followers opposed Damhan-allaidh and helped destroy House Diedne in the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0072",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House of Pralix; its magi fought Damhan-allaidh in 814 and again in 889.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0070",
+   "lion-of-the-north-the-loch-leglean-tribunal::0059"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne",
+   "Druids"
+  ],
+  "description": "Druidic Hermetic House that aided Kenneth MacAlpin against the Picts and eradicated the Pictish tongue; destroyed in the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0072",
+   "lion-of-the-north-the-loch-leglean-tribunal::0075"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House of faerie magic; the second largest House in Loch Leglean with ten magi.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0080"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "aliases": [
+   "Bonisagus"
+  ],
+  "description": "Hermetic House of Trianoma.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0069"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus"
+  ],
+  "description": "Name used for the Quaesitorial House in a Flambeau letter asking for a tribunal to judge Horsingas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0082"
+  ]
+ },
+ {
+  "name": "Order of Odin",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Supposed order of Scandinavian wizards feared by Hermetic magi; in truth Norse magicians have no formal order, and quaesitores treat claims it is false as evidence of collusion.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0005",
+   "lion-of-the-north-the-loch-leglean-tribunal::0036",
+   "lion-of-the-north-the-loch-leglean-tribunal::0073"
+  ]
+ },
+ {
+  "name": "Gruagachan",
+  "type": "Faction",
+  "aliases": [
+   "gruagach",
+   "Gruagach"
+  ],
+  "description": "A loose association of Pictish wizards (singular gruagach) who use the Pictish language in their magic and focus on affecting themselves and individuals; accepted into House Ex Miscellanea despite being unable to learn parma magica.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0009",
+   "lion-of-the-north-the-loch-leglean-tribunal::0063",
+   "lion-of-the-north-the-loch-leglean-tribunal::0064"
+  ]
+ },
+ {
+  "name": "Praeses Septentrionalis",
+  "type": "Faction",
+  "aliases": [
+   "Northern Guard",
+   "Praeses Septentrionales"
+  ],
+  "description": "The Northern Guard, a group of covenants formed by Pralix to watch for Damhan-allaidh's return; destroyed in 889.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0070",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Clan Mac Gruagach",
+  "type": "Faction",
+  "aliases": [
+   "Mac Gruagach"
+  ],
+  "description": "Highland clan of gruagachan that joined the Ordo in 816 and leads the Highland covenants of Loch Leglean.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0078",
+   "lion-of-the-north-the-loch-leglean-tribunal::0079",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Kelledei",
+  "type": "Faction",
+  "aliases": [
+   "cele de"
+  ],
+  "description": "The cele de ('servants of God'), communities of Scottish Church brothers who left monasteries ruled by greedy lay abbats; they have no formal rule.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0112"
+  ]
+ },
+ {
+  "name": "Cistercian Order",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Religious order for which David I founded Melrose Abbey in 1136.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0092"
+  ]
+ },
+ {
+  "name": "Scottish Church",
+  "type": "Faction",
+  "aliases": [
+   "Celtic Church"
+  ],
+  "description": "The Celtic Church of Scotland, independent of Rome, emphasizing Love; its sites generate a calming Divine aura that augments rather than hinders magic.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0023",
+   "lion-of-the-north-the-loch-leglean-tribunal::0106",
+   "lion-of-the-north-the-loch-leglean-tribunal::0110"
+  ]
+ },
+ {
+  "name": "Roman Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Church under the bishop of Rome, which prevailed at the Synod of Whitby and gradually displaced the Scottish Church.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0023",
+   "lion-of-the-north-the-loch-leglean-tribunal::0032",
+   "lion-of-the-north-the-loch-leglean-tribunal::0037"
+  ]
+ },
+ {
+  "name": "House of Canmore",
+  "type": "Faction",
+  "aliases": [
+   "line of Canmore",
+   "Canmore"
+  ],
+  "description": "The royal line of Malcolm Canmore and Margaret that ruled Scotland in the 12th and 13th centuries.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0035",
+   "lion-of-the-north-the-loch-leglean-tribunal::0044",
+   "lion-of-the-north-the-loch-leglean-tribunal::0047"
+  ]
+ },
+ {
+  "name": "Mac Williams",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Rebellious descendants of King Duncan who repeatedly rose against the Canmore kings until crushed in 1230.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0041",
+   "lion-of-the-north-the-loch-leglean-tribunal::0044"
+  ]
+ },
+ {
+  "name": "Comyn family",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Powerful Scottish family that squabbled with Alan Durward during Alexander III's minority.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0046"
+  ]
+ },
+ {
+  "name": "Goulis family",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Hereditary seneschals of Scotland who hold Monksend castle and are rumored to worship the Devil.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0091"
+  ]
+ },
+ {
+  "name": "Clan Mac Donald",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Highland clan used as an example; its chief is called 'the Mac Donald'.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0099"
+  ]
+ },
+ {
+  "name": "Picts",
+  "type": "Faction",
+  "aliases": [
+   "Picti",
+   "Caledonians",
+   "Cruithni"
+  ],
+  "description": "The northern people called Caledonians and later Picti by the Romans; they called themselves Cruithni and were conquered by the Scots.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0005",
+   "lion-of-the-north-the-loch-leglean-tribunal::0020",
+   "lion-of-the-north-the-loch-leglean-tribunal::0042"
+  ]
+ },
+ {
+  "name": "Broch-builders",
+  "type": "Faction",
+  "aliases": [
+   "Brochbuilders"
+  ],
+  "description": "The mysterious original people of Scotland who built brochs; possibly the Fomoreach.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0005",
+   "lion-of-the-north-the-loch-leglean-tribunal::0015",
+   "lion-of-the-north-the-loch-leglean-tribunal::0016"
+  ]
+ },
+ {
+  "name": "Fomoreach",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Seafaring people of Irish legend from the North and East, possibly the Broch-builders.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0015"
+  ]
+ },
+ {
+  "name": "Scots",
+  "type": "Faction",
+  "aliases": [
+   "Scotti"
+  ],
+  "description": "Irish tribe (Scotti) that settled in the southwest and conquered the Picts, giving their name to Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0005",
+   "lion-of-the-north-the-loch-leglean-tribunal::0020",
+   "lion-of-the-north-the-loch-leglean-tribunal::0029"
+  ]
+ },
+ {
+  "name": "Gaidhealtachd",
+  "type": "Place",
+  "aliases": [],
+  "description": "The Highlands of the Gaelic-speaking peoples.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0035"
+  ]
+ },
+ {
+  "name": "Horsingas",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Horsingas"
+  ],
+  "description": "Anti-Norman covenant of Saxon renegades in the South, founded 1070, the strongest military power in the Borders; raids English castles.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0078",
+   "lion-of-the-north-the-loch-leglean-tribunal::0081",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Crun Clach",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Crun Clach"
+  ],
+  "description": "Covenant founded in 954 that is the voice of the Lowland covenants, led by Caitlin Suil Uaine; the Pact of Crun Clach was made there.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0078",
+   "lion-of-the-north-the-loch-leglean-tribunal::0079",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Mac Gruagach",
+  "type": "Covenant",
+  "aliases": [
+   "Covenant of Mac Gruagach"
+  ],
+  "description": "Covenant of Clan Mac Gruagach, one of the three dominant covenants of Loch Leglean, leading the Highland covenants.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0002",
+   "lion-of-the-north-the-loch-leglean-tribunal::0078",
+   "lion-of-the-north-the-loch-leglean-tribunal::0079"
+  ]
+ },
+ {
+  "name": "Heart's Delight",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant of the Praeses Septentrionalis destroyed in one night by Damhan-allaidh in the late 880s.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0070"
+  ]
+ },
+ {
+  "name": "Uamh na Croig",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant destroyed by giants in 977 after its magi hunted the giants for sport.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0070",
+   "lion-of-the-north-the-loch-leglean-tribunal::0071"
+  ]
+ },
+ {
+  "name": "Holy Oak",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Diedne covenant founded in 817 and destroyed during the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0072",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "The Well of the Head",
+  "type": "Covenant",
+  "aliases": [
+   "Well of the Head"
+  ],
+  "description": "Diedne covenant founded in 834 that sponsored Druids' Dale; destroyed in the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0072",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Druids' Dale",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Diedne covenant sponsored by the Well of the Head in 956; destroyed in the Schism War.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0072",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Peanhafel",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Pictish covenant destroyed by Druids of House Diedne in a year-long siege in 849.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0075"
+  ]
+ },
+ {
+  "name": "Blackthorn",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Covenant mentioned in a Flambeau letter complaining that judgment had not been passed on it.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0082"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Place where the Order of Hermes was founded in 767.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Damhan-allaidh",
+  "type": "Character",
+  "aliases": [
+   "Dav'nalleous",
+   "the Spider"
+  ],
+  "description": "Scottish wizard ('the Spider') who practiced blood and sacrifice magic, refused to join the Order, and fought Pralix; his body vanished after his defeat and he is thought to survive.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0000",
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0067"
+  ]
+ },
+ {
+  "name": "Pralix",
+  "type": "Character",
+  "aliases": [],
+  "description": "Maga of House Tytalus (filia of Tytalus) who fought Damhan-allaidh with native magicians and founded the Ordo Miscellanea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0059",
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0069"
+  ]
+ },
+ {
+  "name": "Ignes Festi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Flambeau magus who survived Loch Oadh with Pralix, quarreled with Brude Deathless, and died fighting Damhan-allaidh alone.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0062",
+   "lion-of-the-north-the-loch-leglean-tribunal::0064",
+   "lion-of-the-north-the-loch-leglean-tribunal::0066"
+  ]
+ },
+ {
+  "name": "Brude Deathless",
+  "type": "Character",
+  "aliases": [
+   "Brud Deathless"
+  ],
+  "description": "Mighty gruagach at least 400 years old whose soul is hidden; allied with Pralix and crippled invading Flambeau magi with Curses and Geasa in 1099.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0063",
+   "lion-of-the-north-the-loch-leglean-tribunal::0067",
+   "lion-of-the-north-the-loch-leglean-tribunal::0076"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "aliases": [],
+  "description": "Maga of House Bonisagus who helped form the Order and in 817 healed the breach with the Ordo Miscellanea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0069",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Tytalus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder of House Tytalus, Pralix's parens.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0059"
+  ]
+ },
+ {
+  "name": "Whitburh Frithowebba",
+  "type": "Character",
+  "aliases": [
+   "Whitburh"
+  ],
+  "description": "The only quaesitor in Loch Leglean, of Horsingas; turns a blind eye to minor infractions of the Code.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0078",
+   "lion-of-the-north-the-loch-leglean-tribunal::0080"
+  ]
+ },
+ {
+  "name": "Caitlin Suil Uaine",
+  "type": "Character",
+  "aliases": [],
+  "description": "Canny diplomat of Crun Clach who leads the Lowland covenants.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0078"
+  ]
+ },
+ {
+  "name": "Gwynasere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Venerable recipient of a Flambeau letter complaining about Horsingas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0081"
+  ]
+ },
+ {
+  "name": "William Fireheart",
+  "type": "Character",
+  "aliases": [],
+  "description": "Flambeau magus who co-wrote a letter complaining about Horsingas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0082"
+  ]
+ },
+ {
+  "name": "Dan O'Thunder",
+  "type": "Character",
+  "aliases": [],
+  "description": "Flambeau magus who co-wrote a letter complaining about Horsingas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0082"
+  ]
+ },
+ {
+  "name": "Thomas Verus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Redcap of House Mercere who migrated to Loch Leglean and wrote a letter describing it.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0088"
+  ]
+ },
+ {
+  "name": "Mihalpi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Primus of House Mercere, addressee of Thomas Verus's letter.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Lord Goulis",
+  "type": "Character",
+  "aliases": [
+   "Goulis"
+  ],
+  "description": "Seneschal of the realm, rumored to be king of the Scottish diabolists.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0084",
+   "lion-of-the-north-the-loch-leglean-tribunal::0002"
+  ]
+ },
+ {
+  "name": "Michael Scot",
+  "type": "Character",
+  "aliases": [],
+  "description": "Wizard who subdued a demon in 1188 and had it sunder Eildon hill into three.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0092",
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Queen of Elfland",
+  "type": "Character",
+  "aliases": [],
+  "description": "Faerie ruler of the community in the Eildon Hills.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0092"
+  ]
+ },
+ {
+  "name": "Thomas the Rhymer",
+  "type": "Character",
+  "aliases": [],
+  "description": "Subject of a ballad about the road to fair Elfland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0003"
+  ]
+ },
+ {
+  "name": "Calgacus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of the Caledonians killed at Mons Graupius in A.D. 84.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0017",
+   "lion-of-the-north-the-loch-leglean-tribunal::0018"
+  ]
+ },
+ {
+  "name": "Sodric",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary king of the Picts from Scythia killed by Marius, per Geoffrey of Monmouth.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0013"
+  ]
+ },
+ {
+  "name": "Marius",
+  "type": "Character",
+  "aliases": [],
+  "description": "Legendary British king, son of Arvirarous, who killed Sodric and gave the Picts Caithness.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0013"
+  ]
+ },
+ {
+  "name": "Geoffrey of Monmouth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Chronicler whose Historia Regum Britanniae (1136) is quoted about the Picts.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0014"
+  ]
+ },
+ {
+  "name": "Cruithne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Ancestor of the Cruithni.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0016"
+  ]
+ },
+ {
+  "name": "St. Ninian",
+  "type": "Character",
+  "aliases": [
+   "Ninian"
+  ],
+  "description": "Holy man trained by St. Martin of Tours who brought Christianity to the southern Picts and built Candida Casa in 397.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022",
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "St. Martin of Tours",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who trained St. Ninian.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022"
+  ]
+ },
+ {
+  "name": "St. Columba",
+  "type": "Character",
+  "aliases": [
+   "Columba"
+  ],
+  "description": "Irish monk who came to Iona in 565 and baptized the Pictish king Brude Mac Maelchon.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022",
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "Brude Mac Maelchon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Northern Pictish king baptized by St. Columba.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022"
+  ]
+ },
+ {
+  "name": "St. Maelrubha",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint associated with Applecross (601).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0042",
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "St. Oran",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint of Dalriada who died in 548.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "St. Mungo",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint who built a church at Glasgow in 550.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "St. Molaug",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint of the Isle of Lismore (562).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "St. Cuthbert",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint of Lothian (580).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "St. Aidan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saint of Northumbria and Holy Isle (580).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "Nechtan",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of the Picts who accepted the Roman Church in 710.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "Brude son of Bile",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pictish king who consolidated North and South Picts 672-693.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "Kenneth Mac Alpin",
+  "type": "Character",
+  "aliases": [
+   "Kenneth MacAlpin",
+   "Kenneth"
+  ],
+  "description": "King of the Scots who stood on the Stone of Destiny in 834 and conquered the Picts with the aid of House Diedne.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0029",
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0075"
+  ]
+ },
+ {
+  "name": "Malcolm II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scottish king who defeated the Angles at Carham in 1018.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0029",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Duncan I",
+  "type": "Character",
+  "aliases": [
+   "Duncan"
+  ],
+  "description": "Grandson of Malcolm II who became King of Scots in 1034; killed by MacBeth.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0029",
+   "lion-of-the-north-the-loch-leglean-tribunal::0031",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "MacBeth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Mormaer of Moray who killed Duncan with the aid of Pictish wizards and renegade Ex Miscellanea magi, ruled seventeen years, and was killed by Malcolm Canmore.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0031",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052",
+   "lion-of-the-north-the-loch-leglean-tribunal::0075"
+  ]
+ },
+ {
+  "name": "Lulach",
+  "type": "Character",
+  "aliases": [],
+  "description": "MacBeth's stepson, last truly Scottish High King, slain after eight months.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0031",
+   "lion-of-the-north-the-loch-leglean-tribunal::0035",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "Malcolm III Canmore",
+  "type": "Character",
+  "aliases": [
+   "Malcolm Canmore"
+  ],
+  "description": "Duncan's son raised in England who killed MacBeth with the aid of two mysterious magi and brought English influence to Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0031",
+   "lion-of-the-north-the-loch-leglean-tribunal::0032",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "Siward of Northumbria",
+  "type": "Character",
+  "aliases": [],
+  "description": "Duncan's brother-in-law who aided Malcolm Canmore.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0031"
+  ]
+ },
+ {
+  "name": "Queen Margaret",
+  "type": "Character",
+  "aliases": [
+   "Princess Margaret",
+   "St. Margaret"
+  ],
+  "description": "English princess, wife of Malcolm Canmore, who brought the Roman Church to Scotland; canonized in 1230.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0032",
+   "lion-of-the-north-the-loch-leglean-tribunal::0033",
+   "lion-of-the-north-the-loch-leglean-tribunal::0044"
+  ]
+ },
+ {
+  "name": "Edgar Atheling",
+  "type": "Character",
+  "aliases": [],
+  "description": "Margaret's brother and heir to the Saxon crown of England.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0032"
+  ]
+ },
+ {
+  "name": "Donald Ban",
+  "type": "Character",
+  "aliases": [],
+  "description": "Malcolm Canmore's brother who resisted English influence and was twice king before being blinded by Edgar.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0033",
+   "lion-of-the-north-the-loch-leglean-tribunal::0035",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "Duncan II",
+  "type": "Character",
+  "aliases": [],
+  "description": "Malcolm's son raised in the Norman court, made king by William Rufus, then murdered.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0033",
+   "lion-of-the-north-the-loch-leglean-tribunal::0034",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "Edgar",
+  "type": "Character",
+  "aliases": [],
+  "description": "Malcolm's son who seized the throne from Donald Ban and founded Edinburgh Castle.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0035",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Bethoc",
+  "type": "Character",
+  "aliases": [],
+  "description": "Daughter and heir of Donald Ban torn apart by her own hunting dogs.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0035"
+  ]
+ },
+ {
+  "name": "Alexander I",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Scotland 1107-1124.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0052",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "David I",
+  "type": "Character",
+  "aliases": [
+   "King David"
+  ],
+  "description": "King of Scotland from 1124 who molded the kingdom on the Anglo-Norman model, founded royal burghs and Melrose Abbey.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0036",
+   "lion-of-the-north-the-loch-leglean-tribunal::0037",
+   "lion-of-the-north-the-loch-leglean-tribunal::0092"
+  ]
+ },
+ {
+  "name": "Malcolm IV",
+  "type": "Character",
+  "aliases": [
+   "the Maiden"
+  ],
+  "description": "King called 'the Maiden' for his vow of celibacy; traded David's southern gains for Huntington.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0039",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "William the Lion",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Scotland 1165-1214 who strengthened feudalism and bought back independence with the Quit-Claim of Canterbury.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0040",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Alexander II",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Scotland from 1214, aged twenty-two in 1220, who signed the Magna Carta.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0042",
+   "lion-of-the-north-the-loch-leglean-tribunal::0044",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "Alexander III",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Scotland 1249-1286 whose death without heirs led to the succession crisis.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0046",
+   "lion-of-the-north-the-loch-leglean-tribunal::0047",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "Margaret, Maid of Norway",
+  "type": "Character",
+  "aliases": [
+   "Maid of Norway"
+  ],
+  "description": "Granddaughter and heir of Alexander III, who died crossing from Norway in 1290.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0047",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Robert Bruce",
+  "type": "Character",
+  "aliases": [],
+  "description": "Claimant to the Scottish throne named successor by Alexander II.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0044",
+   "lion-of-the-north-the-loch-leglean-tribunal::0048"
+  ]
+ },
+ {
+  "name": "Robert the Bruce",
+  "type": "Character",
+  "aliases": [],
+  "description": "Grandson of the claimant Robert Bruce who leads armies against the English after 1298.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0050",
+   "lion-of-the-north-the-loch-leglean-tribunal::0051"
+  ]
+ },
+ {
+  "name": "John Balliol",
+  "type": "Character",
+  "aliases": [],
+  "description": "Claimant chosen king by Edward I in 1292 and later deposed.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0047",
+   "lion-of-the-north-the-loch-leglean-tribunal::0048",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "John Comyn",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader who rivals Robert the Bruce and attacks him in Selkirk forest in 1299.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0050",
+   "lion-of-the-north-the-loch-leglean-tribunal::0051"
+  ]
+ },
+ {
+  "name": "William Wallace",
+  "type": "Character",
+  "aliases": [],
+  "description": "Scottish rebel who wins at Stirling Bridge in 1297 and is defeated at Falkirk in 1298.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0050",
+   "lion-of-the-north-the-loch-leglean-tribunal::0059"
+  ]
+ },
+ {
+  "name": "Edward I of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king who arbitrates the Scottish succession and conquers Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0047",
+   "lion-of-the-north-the-loch-leglean-tribunal::0048",
+   "lion-of-the-north-the-loch-leglean-tribunal::0052"
+  ]
+ },
+ {
+  "name": "Hugh de Cressingham",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hated Treasurer of Scotland flayed after Stirling Bridge.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0050"
+  ]
+ },
+ {
+  "name": "John de Warrenne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Earl of Surrey and Governor of Scotland who advances against Wallace.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0050"
+  ]
+ },
+ {
+  "name": "Alan Durward",
+  "type": "Character",
+  "aliases": [],
+  "description": "Justiciar who squabbled with the Comyns.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0046"
+  ]
+ },
+ {
+  "name": "Earl Harald",
+  "type": "Character",
+  "aliases": [
+   "Harald Maddaderson"
+  ],
+  "description": "Earl of Orkney (Harald Maddaderson) who invaded Moray and Ross from 1197; his family was cursed to be bellicose.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0040",
+   "lion-of-the-north-the-loch-leglean-tribunal::0054"
+  ]
+ },
+ {
+  "name": "Thorfinn son of Harald",
+  "type": "Character",
+  "aliases": [],
+  "description": "Son of Earl Harald blinded and castrated by William the Lion.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0040",
+   "lion-of-the-north-the-loch-leglean-tribunal::0041"
+  ]
+ },
+ {
+  "name": "Guthred",
+  "type": "Character",
+  "aliases": [],
+  "description": "Great-grandson of Duncan invited by the Mac Williams in 1211; captured and beheaded.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0041",
+   "lion-of-the-north-the-loch-leglean-tribunal::0042"
+  ]
+ },
+ {
+  "name": "Magnus Barelegs",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Norway who acquired the Western Isles in 1098 by dragging a ship across Kintyre.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0036",
+   "lion-of-the-north-the-loch-leglean-tribunal::0053",
+   "lion-of-the-north-the-loch-leglean-tribunal::0055"
+  ]
+ },
+ {
+  "name": "Harald Hardrada",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Norway killed at Stamford Bridge in 1066.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0032"
+  ]
+ },
+ {
+  "name": "Harold Godwinson",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king killed at Hastings.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0032"
+  ]
+ },
+ {
+  "name": "William the Conqueror",
+  "type": "Character",
+  "aliases": [],
+  "description": "Duke of Normandy who conquered England and forced Malcolm to recognize him as overlord.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0032",
+   "lion-of-the-north-the-loch-leglean-tribunal::0033",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "William Rufus",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of England who sent Duncan II to take the Scottish throne.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0033"
+  ]
+ },
+ {
+  "name": "Edward the Confessor",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king at whose court Malcolm Canmore grew up.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0032"
+  ]
+ },
+ {
+  "name": "Henry II of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "Henry Plantagenet, English king who captured William the Lion.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0039",
+   "lion-of-the-north-the-loch-leglean-tribunal::0040"
+  ]
+ },
+ {
+  "name": "Richard the Lionheart",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king who sold William the Lion back his independence in 1189.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0040"
+  ]
+ },
+ {
+  "name": "King John of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king who knighted Alexander II.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0042"
+  ]
+ },
+ {
+  "name": "Henry III of England",
+  "type": "Character",
+  "aliases": [],
+  "description": "English king ambivalent toward Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0042",
+   "lion-of-the-north-the-loch-leglean-tribunal::0045"
+  ]
+ },
+ {
+  "name": "King Haakon",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norwegian king whose invasion failed at Largs in 1263.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0046"
+  ]
+ },
+ {
+  "name": "Archbishop Thurstan",
+  "type": "Character",
+  "aliases": [],
+  "description": "Archbishop of York who defeated David at the Battle of the Standard.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0036"
+  ]
+ },
+ {
+  "name": "Guillame de Bruyse",
+  "type": "Character",
+  "aliases": [],
+  "description": "Bishop of St. Andrews and primate of the Church in Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0097"
+  ]
+ },
+ {
+  "name": "Somerled",
+  "type": "Character",
+  "aliases": [],
+  "description": "Leader of rebellions in Argyll and the Islands 1140-1164.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Godred Crovan",
+  "type": "Character",
+  "aliases": [],
+  "description": "King of Man and the Isles 1079-1095.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0053"
+  ]
+ },
+ {
+  "name": "Harald Fairhair",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norwegian king who created the earldom of the Orkneys.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0115"
+  ]
+ },
+ {
+  "name": "Rognvald Kolsson",
+  "type": "Character",
+  "aliases": [
+   "Rognvald"
+  ],
+  "description": "Earl of Orkney who crusaded in 1152 and was canonized in 1192; a poet boasting of nine skills.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0054",
+   "lion-of-the-north-the-loch-leglean-tribunal::0116"
+  ]
+ },
+ {
+  "name": "Sigurd the Stout",
+  "type": "Character",
+  "aliases": [],
+  "description": "Earl of Orkney who died at Clontarf.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0054"
+  ]
+ },
+ {
+  "name": "Thorfinn the Mighty",
+  "type": "Character",
+  "aliases": [],
+  "description": "Earl of Orkney 1045-1065.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0054"
+  ]
+ },
+ {
+  "name": "Finn Mac Coul",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gaelic hero of Highland stories.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0102"
+  ]
+ },
+ {
+  "name": "Ossian",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gaelic hero of Highland stories.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0102"
+  ]
+ },
+ {
+  "name": "CuChulainn",
+  "type": "Character",
+  "aliases": [],
+  "description": "Gaelic hero of Highland stories.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0102"
+  ]
+ },
+ {
+  "name": "Satan",
+  "type": "Character",
+  "aliases": [
+   "the Devil"
+  ],
+  "description": "Seen by Highlanders as a figure of ridicule.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0113"
+  ]
+ },
+ {
+  "name": "Hagbui",
+  "type": "Creature",
+  "aliases": [
+   "Barrow-dweller"
+  ],
+  "description": "An undead Viking barrow-dweller that guards buried treasure, with powers such as Rock Swimming, Reanimation and Immunity to Edged Weapons; Magic Might 10.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022",
+   "lion-of-the-north-the-loch-leglean-tribunal::0024",
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Highland giants over thirty feet tall who allied with Damhan-allaidh; magi were warned to leave them alone after Uamh na Croig.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0062",
+   "lion-of-the-north-the-loch-leglean-tribunal::0070"
+  ]
+ },
+ {
+  "name": "Sluagh",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The undead spirits of the Highlands that Damhan-allaidh unleashed on Loch Leglean in 815.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0066",
+   "lion-of-the-north-the-loch-leglean-tribunal::0067",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Trow",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Solitary faeries of the Northern Islands, possibly related to trolls, one- or two-headed and restricted in sunlight.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0115",
+   "lion-of-the-north-the-loch-leglean-tribunal::0116"
+  ]
+ },
+ {
+  "name": "Stoorworm",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A poisonous water serpent as long as a ship with poison breath; Magic Might 42.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0116",
+   "lion-of-the-north-the-loch-leglean-tribunal::0117",
+   "lion-of-the-north-the-loch-leglean-tribunal::0118"
+  ]
+ },
+ {
+  "name": "Cirein Croin",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Ancestor of all stoorworms, so large it circled Britain; its teeth became the Northern Islands and its body Iceland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0117"
+  ]
+ },
+ {
+  "name": "Well worms",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Serpents of northern England and southern Scotland related to the stoorworm.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0117"
+  ]
+ },
+ {
+  "name": "Merrows",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Supernatural aquatic creatures to be avoided when fishing.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0104"
+  ]
+ },
+ {
+  "name": "Sith",
+  "type": "Creature",
+  "aliases": [
+   "sidhe"
+  ],
+  "description": "Scots Gaelic term for faeries (Irish 'sidhe'), which sometimes inflame clan feuds.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0010",
+   "lion-of-the-north-the-loch-leglean-tribunal::0098"
+  ]
+ },
+ {
+  "name": "Seelie faeries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Bands of benign faeries of the Lowlands who appreciate talented musicians.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0008",
+   "lion-of-the-north-the-loch-leglean-tribunal::0102"
+  ]
+ },
+ {
+  "name": "Faeries",
+  "type": "Creature",
+  "aliases": [
+   "good folk",
+   "Elf",
+   "fey"
+  ],
+  "description": "The dominant supernatural beings of the Scottish landscape; the good folk, called elves on the Borders.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0008",
+   "lion-of-the-north-the-loch-leglean-tribunal::0092",
+   "lion-of-the-north-the-loch-leglean-tribunal::0102"
+  ]
+ },
+ {
+  "name": "Demons",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Beings of Hell, hitherto unknown in Scotland until they came north with the Normans.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0038",
+   "lion-of-the-north-the-loch-leglean-tribunal::0113"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [
+   "Mythic Scotland",
+   "Caledonia",
+   "Albany"
+  ],
+  "description": "Mythic Scotland, the land covered by the Loch Leglean Tribunal, divided into Highlands, Lowlands, Borders and Islands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0004",
+   "lion-of-the-north-the-loch-leglean-tribunal::0015",
+   "lion-of-the-north-the-loch-leglean-tribunal::0089"
+  ]
+ },
+ {
+  "name": "Highlands",
+  "type": "Place",
+  "aliases": [],
+  "description": "The northern mountainous part of Scotland ruled by clans and home to solitary faeries.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0008",
+   "lion-of-the-north-the-loch-leglean-tribunal::0098",
+   "lion-of-the-north-the-loch-leglean-tribunal::0099"
+  ]
+ },
+ {
+  "name": "Lowlands",
+  "type": "Place",
+  "aliases": [],
+  "description": "Southern and eastern Scotland ruled by Norman-Scottish nobles in the English manner.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0008",
+   "lion-of-the-north-the-loch-leglean-tribunal::0090",
+   "lion-of-the-north-the-loch-leglean-tribunal::0087"
+  ]
+ },
+ {
+  "name": "Borders",
+  "type": "Place",
+  "aliases": [],
+  "description": "Border region between England and Scotland, lawless and raided by families on both sides.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0015",
+   "lion-of-the-north-the-loch-leglean-tribunal::0090"
+  ]
+ },
+ {
+  "name": "Islands",
+  "type": "Place",
+  "aliases": [
+   "the Isles"
+  ],
+  "description": "The Scottish islands, Norse in culture.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0015",
+   "lion-of-the-north-the-loch-leglean-tribunal::0114"
+  ]
+ },
+ {
+  "name": "Hadrian's Wall",
+  "type": "Place",
+  "aliases": [],
+  "description": "Roman wall between the Solway and Tyne, the southern border of the Loch Leglean Tribunal.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0007",
+   "lion-of-the-north-the-loch-leglean-tribunal::0017",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Antonine Wall",
+  "type": "Place",
+  "aliases": [],
+  "description": "Roman wall between the Forth and Clyde.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0056"
+  ]
+ },
+ {
+  "name": "Caledonian Forest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Primeval hardwood forest covering much of the Highlands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0006",
+   "lion-of-the-north-the-loch-leglean-tribunal::0098"
+  ]
+ },
+ {
+  "name": "Loch Oadh",
+  "type": "Place",
+  "aliases": [],
+  "description": "Loch where Damhan-allaidh ambushed Pralix in 814.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0062",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Loch Ochy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of Pralix's battle with Damhan-allaidh in 815.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0063",
+   "lion-of-the-north-the-loch-leglean-tribunal::0064",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Loch Leglean (place)",
+  "type": "Place",
+  "aliases": [],
+  "description": "Pralix's winter camp and hidden town where tribunal meetings occur every seven years.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0066",
+   "lion-of-the-north-the-loch-leglean-tribunal::0069",
+   "lion-of-the-north-the-loch-leglean-tribunal::0081"
+  ]
+ },
+ {
+  "name": "Cad Gadu",
+  "type": "Place",
+  "aliases": [],
+  "description": "Forest on the Welsh border where Damhan-allaidh hid and Pralix had her base.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0067",
+   "lion-of-the-north-the-loch-leglean-tribunal::0069"
+  ]
+ },
+ {
+  "name": "Carnac",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site in Brittany where Damhan-allaidh defeated Hermetic magi in 808.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Brittany",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Damhan-allaidh lived in the late 8th century.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0061"
+  ]
+ },
+ {
+  "name": "Caithness",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northern province settled by Norsemen; site of a battle with Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0013",
+   "lion-of-the-north-the-loch-leglean-tribunal::0024",
+   "lion-of-the-north-the-loch-leglean-tribunal::0070"
+  ]
+ },
+ {
+  "name": "Orkney Islands",
+  "type": "Place",
+  "aliases": [
+   "Orkneys",
+   "Orcades",
+   "Orkney"
+  ],
+  "description": "Northern islands owned by Norway, rich in standing stones; once called the Orcades, Isles of the Dead.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0024",
+   "lion-of-the-north-the-loch-leglean-tribunal::0114",
+   "lion-of-the-north-the-loch-leglean-tribunal::0115"
+  ]
+ },
+ {
+  "name": "Shetland Islands",
+  "type": "Place",
+  "aliases": [
+   "Shetlands",
+   "Shetland"
+  ],
+  "description": "Northern islands owned by Norway, where domestic animals are enchanted to half size.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0024",
+   "lion-of-the-north-the-loch-leglean-tribunal::0114"
+  ]
+ },
+ {
+  "name": "Nordreys",
+  "type": "Place",
+  "aliases": [
+   "Northern Islands"
+  ],
+  "description": "The Northern Islands, Orkney and Shetland collectively.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0114"
+  ]
+ },
+ {
+  "name": "Mainland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Name of the largest island in both Orkney and Shetland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0114"
+  ]
+ },
+ {
+  "name": "Ring of Brodgar",
+  "type": "Place",
+  "aliases": [],
+  "description": "Stone circle on Mainland in Orkney that leads to the faerie realm of Barathrum.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0114",
+   "lion-of-the-north-the-loch-leglean-tribunal::0115"
+  ]
+ },
+ {
+  "name": "Hebrides",
+  "type": "Place",
+  "aliases": [
+   "Western Isles"
+  ],
+  "description": "Western islands held by the king of Norway until 1266.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0036",
+   "lion-of-the-north-the-loch-leglean-tribunal::0046",
+   "lion-of-the-north-the-loch-leglean-tribunal::0084"
+  ]
+ },
+ {
+  "name": "Isle of Man",
+  "type": "Place",
+  "aliases": [
+   "Man"
+  ],
+  "description": "Vis-rich island claimed by three tribunals.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0036",
+   "lion-of-the-north-the-loch-leglean-tribunal::0083",
+   "lion-of-the-north-the-loch-leglean-tribunal::0053"
+  ]
+ },
+ {
+  "name": "Iona",
+  "type": "Place",
+  "aliases": [],
+  "description": "Small western island granted to St. Columba; raided by Vikings in 795.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022",
+   "lion-of-the-north-the-loch-leglean-tribunal::0024",
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "Candida Casa",
+  "type": "Place",
+  "aliases": [
+   "White House",
+   "Witerna",
+   "Whithorn"
+  ],
+  "description": "St. Ninian's whitewashed church at Whithorn.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022",
+   "lion-of-the-north-the-loch-leglean-tribunal::0055"
+  ]
+ },
+ {
+  "name": "Applecross",
+  "type": "Place",
+  "aliases": [
+   "Monastery of St. Maelrubha"
+  ],
+  "description": "Site of the Monastery of St. Maelrubha, granted the earldom of Ross.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0042",
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "Stone of Destiny",
+  "type": "Place",
+  "aliases": [
+   "Stone of Scone"
+  ],
+  "description": "Ancient relic that cries out when the rightful king stands on it; taken by Edward I.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0029",
+   "lion-of-the-north-the-loch-leglean-tribunal::0048"
+  ]
+ },
+ {
+  "name": "Dunadd",
+  "type": "Place",
+  "aliases": [],
+  "description": "Former capital of the Scottish kingdom.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0029"
+  ]
+ },
+ {
+  "name": "Scone",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Scottish kings are enthroned.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0029",
+   "lion-of-the-north-the-loch-leglean-tribunal::0048"
+  ]
+ },
+ {
+  "name": "Northumbria",
+  "type": "Place",
+  "aliases": [],
+  "description": "Anglian kingdom in northern Britain.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0020",
+   "lion-of-the-north-the-loch-leglean-tribunal::0032",
+   "lion-of-the-north-the-loch-leglean-tribunal::0036"
+  ]
+ },
+ {
+  "name": "Strathclyde",
+  "type": "Place",
+  "aliases": [],
+  "description": "British kingdom inherited by Duncan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0022",
+   "lion-of-the-north-the-loch-leglean-tribunal::0029"
+  ]
+ },
+ {
+  "name": "Moray",
+  "type": "Place",
+  "aliases": [],
+  "description": "Northern region ruled by MacBeth and Lulach's descendants.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0031",
+   "lion-of-the-north-the-loch-leglean-tribunal::0036"
+  ]
+ },
+ {
+  "name": "Eildon Hills",
+  "type": "Place",
+  "aliases": [
+   "Eildon hill"
+  ],
+  "description": "Hollow hills near Melrose containing a faerie community led by the Queen of Elfland, with regio leading to Arcadia; split into three by Michael Scot's demon.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0092",
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Melrose Abbey",
+  "type": "Place",
+  "aliases": [
+   "Melrose"
+  ],
+  "description": "Cistercian abbey founded in 1136, plundered by Horsingas.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0091",
+   "lion-of-the-north-the-loch-leglean-tribunal::0092",
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Monksend Castle",
+  "type": "Place",
+  "aliases": [
+   "Monksend"
+  ],
+  "description": "Castle of the Goulis family, originally a monastery.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0002",
+   "lion-of-the-north-the-loch-leglean-tribunal::0091"
+  ]
+ },
+ {
+  "name": "Edinburgh",
+  "type": "Place",
+  "aliases": [],
+  "description": "Capital of Scotland, a royal burgh with about 1,500 inhabitants.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0091",
+   "lion-of-the-north-the-loch-leglean-tribunal::0095",
+   "lion-of-the-north-the-loch-leglean-tribunal::0096"
+  ]
+ },
+ {
+  "name": "Holyrood",
+  "type": "Place",
+  "aliases": [],
+  "description": "Abbey at the end of Edinburgh's Royal Mile.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0091"
+  ]
+ },
+ {
+  "name": "Berwick",
+  "type": "Place",
+  "aliases": [],
+  "description": "Royal burgh and mint.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0037",
+   "lion-of-the-north-the-loch-leglean-tribunal::0090",
+   "lion-of-the-north-the-loch-leglean-tribunal::0095"
+  ]
+ },
+ {
+  "name": "Roxburgh",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of a royal mint.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0037"
+  ]
+ },
+ {
+  "name": "Carlisle",
+  "type": "Place",
+  "aliases": [],
+  "description": "Border seaport near Hadrian's Wall.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0090",
+   "lion-of-the-north-the-loch-leglean-tribunal::0096"
+  ]
+ },
+ {
+  "name": "Bamburgh",
+  "type": "Place",
+  "aliases": [],
+  "description": "Border town and royal burgh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0090",
+   "lion-of-the-north-the-loch-leglean-tribunal::0096"
+  ]
+ },
+ {
+  "name": "Cheviot Hills",
+  "type": "Place",
+  "aliases": [
+   "Cheviots"
+  ],
+  "description": "Lawless hills where Horsingas raids freely.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0090"
+  ]
+ },
+ {
+  "name": "St. Andrews",
+  "type": "Place",
+  "aliases": [],
+  "description": "Seat of the primate of the Scottish Church.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0097"
+  ]
+ },
+ {
+  "name": "Ben Nevis",
+  "type": "Place",
+  "aliases": [],
+  "description": "Tallest mountain in Scotland.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0098"
+  ]
+ },
+ {
+  "name": "Strathnavar",
+  "type": "Place",
+  "aliases": [],
+  "description": "Highland area reached by the invading Flambeau in 1099.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0076"
+  ]
+ },
+ {
+  "name": "Kintyre",
+  "type": "Place",
+  "aliases": [],
+  "description": "Peninsula claimed by Magnus Barelegs.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0036"
+  ]
+ },
+ {
+  "name": "Selkirk",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of an English victory over the Scots and Selkirk forest.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0048",
+   "lion-of-the-north-the-loch-leglean-tribunal::0051"
+  ]
+ },
+ {
+  "name": "Stirling",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of Wallace's victory at Stirling Bridge.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0040",
+   "lion-of-the-north-the-loch-leglean-tribunal::0050"
+  ]
+ },
+ {
+  "name": "Falkirk",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Wallace was defeated in 1298.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0050",
+   "lion-of-the-north-the-loch-leglean-tribunal::0059"
+  ]
+ },
+ {
+  "name": "Alnwick",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Malcolm Canmore was killed.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0033",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Largs",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of the battle of 1263.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0046",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Dalriada",
+  "type": "Place",
+  "aliases": [],
+  "description": "Scottish kingdom in Argyll.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057"
+  ]
+ },
+ {
+  "name": "Lismore",
+  "type": "Place",
+  "aliases": [],
+  "description": "See created in 1190, and Isle of Lismore.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057",
+   "lion-of-the-north-the-loch-leglean-tribunal::0097"
+  ]
+ },
+ {
+  "name": "Dunkeld",
+  "type": "Place",
+  "aliases": [],
+  "description": "See and royal burgh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0096",
+   "lion-of-the-north-the-loch-leglean-tribunal::0097"
+  ]
+ },
+ {
+  "name": "Glasgow",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cathedral city where St. Mungo built a church.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0057",
+   "lion-of-the-north-the-loch-leglean-tribunal::0097"
+  ]
+ },
+ {
+  "name": "Aberdeen",
+  "type": "Place",
+  "aliases": [],
+  "description": "Royal burgh and see.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0096",
+   "lion-of-the-north-the-loch-leglean-tribunal::0097"
+  ]
+ },
+ {
+  "name": "Brechin",
+  "type": "Place",
+  "aliases": [],
+  "description": "Royal burgh and see.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0096",
+   "lion-of-the-north-the-loch-leglean-tribunal::0097"
+  ]
+ },
+ {
+  "name": "Forfar",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where the last Mac William was killed.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0044"
+  ]
+ },
+ {
+  "name": "Mons Graupius",
+  "type": "Place",
+  "aliases": [],
+  "description": "Battle of A.D. 84 where Romans defeated the Caledonians.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0017",
+   "lion-of-the-north-the-loch-leglean-tribunal::0056"
+  ]
+ },
+ {
+  "name": "Comraich",
+  "type": "Place",
+  "aliases": [],
+  "description": "The sanctuary lands of a Scottish Church monastery, protected by its Dominion.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0106",
+   "lion-of-the-north-the-loch-leglean-tribunal::0107"
+  ]
+ },
+ {
+  "name": "Knowe",
+  "type": "Place",
+  "aliases": [
+   "knowes"
+  ],
+  "description": "Hollow hill abode of faeries.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0103"
+  ]
+ },
+ {
+  "name": "Broch",
+  "type": "Place",
+  "aliases": [
+   "brochs"
+  ],
+  "description": "Large thick-walled stone towers built by the Broch-builders.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0005",
+   "lion-of-the-north-the-loch-leglean-tribunal::0015",
+   "lion-of-the-north-the-loch-leglean-tribunal::0115"
+  ]
+ },
+ {
+  "name": "Royal Burghs",
+  "type": "Place",
+  "aliases": [
+   "royal burgh"
+  ],
+  "description": "Towns granted special privileges by the crown, with tollbooth and market cross.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0037",
+   "lion-of-the-north-the-loch-leglean-tribunal::0094",
+   "lion-of-the-north-the-loch-leglean-tribunal::0095"
+  ]
+ },
+ {
+  "name": "Somniare",
+  "type": "Place",
+  "aliases": [],
+  "description": "Part of Arcadia reached through the Eildon Hills.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0092"
+  ]
+ },
+ {
+  "name": "Arcadia",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The realm of the faeries, divided into six known lands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0092",
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Sorinbrus",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the six known lands of Arcadia: the land of dreams.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Atlantium",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the six known lands of Arcadia: the land under the sea.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Antrum",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the six known lands of Arcadia: the land under the ground.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Wyrd",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the six known lands of Arcadia: the land of the air.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Barathrum",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the six known lands of Arcadia: the land of the dead, reached via the Ring of Brodgar.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0093",
+   "lion-of-the-north-the-loch-leglean-tribunal::0115"
+  ]
+ },
+ {
+  "name": "Tartarus",
+  "type": "Place",
+  "aliases": [],
+  "description": "One of the six known lands of Arcadia: the land of the beyond.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0093"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [
+   "Divine aura"
+  ],
+  "description": "The Divine realm; the Scottish Church's Dominion has a special calming effect.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0038",
+   "lion-of-the-north-the-loch-leglean-tribunal::0107",
+   "lion-of-the-north-the-loch-leglean-tribunal::0110"
+  ]
+ },
+ {
+  "name": "Scottish Dominion",
+  "type": "Concept",
+  "aliases": [
+   "Aura of the Scottish Church"
+  ],
+  "description": "The Divine aura of Scottish Church sites, focused on the founder's bell and staff; it dampens Passions and Personality Traits and lets acclimated magi cast as if in a magic aura.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0023",
+   "lion-of-the-north-the-loch-leglean-tribunal::0108",
+   "lion-of-the-north-the-loch-leglean-tribunal::0110"
+  ]
+ },
+ {
+  "name": "Hell",
+  "type": "Realm",
+  "aliases": [
+   "Array of Hell"
+  ],
+  "description": "Infernal realm whose minions have shown little interest in the Highlands.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0003",
+   "lion-of-the-north-the-loch-leglean-tribunal::0113"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic protective magic that gruagachan cannot learn.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0009",
+   "lion-of-the-north-the-loch-leglean-tribunal::0065"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Code"
+  ],
+  "description": "The law of the Order, including the prohibition on interfering with mundane society.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0075",
+   "lion-of-the-north-the-loch-leglean-tribunal::0081",
+   "lion-of-the-north-the-loch-leglean-tribunal::0078"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic regional meeting held every seven years at Loch Leglean.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0009",
+   "lion-of-the-north-the-loch-leglean-tribunal::0081"
+  ]
+ },
+ {
+  "name": "Aonaran",
+  "type": "Concept",
+  "aliases": [
+   "aonaranan"
+  ],
+  "description": "An independent magus owing allegiance to no covenant; a quarter of Loch Leglean magi.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0077",
+   "lion-of-the-north-the-loch-leglean-tribunal::0081"
+  ]
+ },
+ {
+  "name": "Pact of Crun Clach",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pact of 1189 in which Scottish magi swore not to aid kings or invaders, regulating raids and theft.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0075",
+   "lion-of-the-north-the-loch-leglean-tribunal::0077"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War of 1003-1012 in which House Diedne was destroyed.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0072",
+   "lion-of-the-north-the-loch-leglean-tribunal::0086"
+  ]
+ },
+ {
+  "name": "Wizards' War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic formal conflict threatened by Clan Mac Gruagach.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0079"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical raw material; covenants raid each other's vis sources.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0028",
+   "lion-of-the-north-the-loch-leglean-tribunal::0077",
+   "lion-of-the-north-the-loch-leglean-tribunal::0118"
+  ]
+ },
+ {
+  "name": "Magic Might",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Measure of a creature's magical power.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026",
+   "lion-of-the-north-the-loch-leglean-tribunal::0028",
+   "lion-of-the-north-the-loch-leglean-tribunal::0118"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural influence of a place.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0023",
+   "lion-of-the-north-the-loch-leglean-tribunal::0110",
+   "lion-of-the-north-the-loch-leglean-tribunal::0111"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Layered supernatural levels, as inside the Eildon Hills.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0092"
+  ]
+ },
+ {
+  "name": "Age of Aries",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic reckoning of time beginning 139 B.C.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0055",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Voting token given to other magi at tribunal.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0079"
+  ]
+ },
+ {
+  "name": "External Soul",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Highland magicians' ability to remove their soul and hide it in an object, becoming unable to die while it is undisturbed.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0067",
+   "lion-of-the-north-the-loch-leglean-tribunal::0068",
+   "lion-of-the-north-the-loch-leglean-tribunal::0076"
+  ]
+ },
+ {
+  "name": "Battle of the Great Light",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Final battle in 816 where a false sun lit the sky and Pralix defeated Damhan-allaidh.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0067",
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Night of the Sluagh",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Attack of the sluagh on Loch Leglean in December 815.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Battle of the Bloody Glen",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Battle of August 815 where Damhan-allaidh was wounded.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0085"
+  ]
+ },
+ {
+  "name": "Synod of Whitby",
+  "type": "Concept",
+  "aliases": [],
+  "description": "664 council declaring only the Roman Church should hold sway in the British Isles.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0023",
+   "lion-of-the-north-the-loch-leglean-tribunal::0055"
+  ]
+ },
+ {
+  "name": "Quit-Claim of Canterbury",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Document by which Richard I sold William the Lion back Scotland's independence.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0040"
+  ]
+ },
+ {
+  "name": "Magna Carta",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Charter signed by Alexander II at Runnymede.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0042"
+  ]
+ },
+ {
+  "name": "Treaty of Perth",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1266 treaty recognizing Man and the Western Isles as Scottish.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0046"
+  ]
+ },
+ {
+  "name": "Battle of the Standard",
+  "type": "Concept",
+  "aliases": [],
+  "description": "1138 battle where Archbishop Thurstan defeated David.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0036",
+   "lion-of-the-north-the-loch-leglean-tribunal::0074",
+   "lion-of-the-north-the-loch-leglean-tribunal::0058"
+  ]
+ },
+ {
+  "name": "Ceann cath",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The chief of a Highland clan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0099",
+   "lion-of-the-north-the-loch-leglean-tribunal::0100"
+  ]
+ },
+ {
+  "name": "Seanachaidh",
+  "type": "Concept",
+  "aliases": [
+   "seanachaidhean"
+  ],
+  "description": "Clan storyteller and historian.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0099",
+   "lion-of-the-north-the-loch-leglean-tribunal::0102"
+  ]
+ },
+ {
+  "name": "Tanaiste",
+  "type": "Concept",
+  "aliases": [
+   "tanist"
+  ],
+  "description": "The appointed successor of a clan chief.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0099",
+   "lion-of-the-north-the-loch-leglean-tribunal::0100"
+  ]
+ },
+ {
+  "name": "Ollamh",
+  "type": "Concept",
+  "aliases": [
+   "ollamhan"
+  ],
+  "description": "Trained storyteller of chiefs and lairds.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0102"
+  ]
+ },
+ {
+  "name": "Caterans",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Landless men adopted into a clan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0100"
+  ]
+ },
+ {
+  "name": "Mormaer",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Great steward; the seven mormaers became earls.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0031",
+   "lion-of-the-north-the-loch-leglean-tribunal::0037"
+  ]
+ },
+ {
+  "name": "Abbat",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The secular owner of a Scottish monastery.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0042",
+   "lion-of-the-north-the-loch-leglean-tribunal::0108",
+   "lion-of-the-north-the-loch-leglean-tribunal::0111"
+  ]
+ },
+ {
+  "name": "Comarb",
+  "type": "Concept",
+  "aliases": [
+   "co-ab"
+  ],
+  "description": "The religious leader of a Scottish monastery.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0108",
+   "lion-of-the-north-the-loch-leglean-tribunal::0111"
+  ]
+ },
+ {
+  "name": "Ab",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Founding leader and owner of a Scottish monastery.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0108",
+   "lion-of-the-north-the-loch-leglean-tribunal::0111"
+  ]
+ },
+ {
+  "name": "Handfast",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Highland trial marriage.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0109"
+  ]
+ },
+ {
+  "name": "Ceilidh",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gathering to tell stories and sing.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0102",
+   "lion-of-the-north-the-loch-leglean-tribunal::0103"
+  ]
+ },
+ {
+  "name": "Shinty",
+  "type": "Concept",
+  "aliases": [
+   "camanachd"
+  ],
+  "description": "Highland stick-and-ball game enjoyed also by faeries.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0104",
+   "lion-of-the-north-the-loch-leglean-tribunal::0105"
+  ]
+ },
+ {
+  "name": "Clach neart",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Stone of strength used as a test of manhood.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0104"
+  ]
+ },
+ {
+  "name": "Galloglaichs",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Orcadian mercenaries fighting in chain mail with two-handed axes.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0115",
+   "lion-of-the-north-the-loch-leglean-tribunal::0116"
+  ]
+ },
+ {
+  "name": "Hot-trod",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Right to pursue a cattle thief across the border.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0090"
+  ]
+ },
+ {
+  "name": "Odal law",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Norwegian law granting a dead earl's lands to surviving sons.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0115"
+  ]
+ },
+ {
+  "name": "Geasa",
+  "type": "Concept",
+  "aliases": [
+   "Geas"
+  ],
+  "description": "Supernatural prohibitions used by Brude Deathless to cripple magi.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0002",
+   "lion-of-the-north-the-loch-leglean-tribunal::0076"
+  ]
+ },
+ {
+  "name": "Legio IX Hispana",
+  "type": "Faction",
+  "aliases": [
+   "IX Hispana"
+  ],
+  "description": "Roman legion that marched north in 118 and vanished; ghost sightings are reported.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0017"
+  ]
+ },
+ {
+  "name": "Cult of Mithra",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Roman army cult with temples along the walls lacking magical power.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0019"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Roman magical cult not a major factor along the walls.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0019"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Extraordinary Talent of prophecy common in Scottish history.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0027",
+   "lion-of-the-north-the-loch-leglean-tribunal::0043"
+  ]
+ },
+ {
+  "name": "Curse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Extraordinary Talent used by hagbui and Brude Deathless.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026",
+   "lion-of-the-north-the-loch-leglean-tribunal::0027",
+   "lion-of-the-north-the-loch-leglean-tribunal::0076"
+  ]
+ },
+ {
+  "name": "Geas",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Extraordinary Talent that may be used by hagbui.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0027"
+  ]
+ },
+ {
+  "name": "Shape Shifter",
+  "type": "Ability",
+  "aliases": [
+   "Shapeshifting"
+  ],
+  "description": "Extraordinary Talent that some hagbui use.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0027"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of the hagbui.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0028"
+  ]
+ },
+ {
+  "name": "Track",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability of the hagbui.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0028"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [
+   "Córporem"
+  ],
+  "description": "Hermetic Art; vis of this Art is found in the hagbui.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0028"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art; vis of this Art is found in the stoorworm.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0119"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Art; vis of this Art is found in the stoorworm.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0119"
+  ]
+ },
+ {
+  "name": "Rock Swimming",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (MuCo 40) to swim through stone or earth.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Fall of Darkness",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (PeIg 25) creating a circle of darkness.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Fearful Aura",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (ReMe 20) panicking one opponent a round.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Wind Raising",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (ReAu 20) raising gale-force winds.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Confuse",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (ReMe 15) like Confusion of the Numbed Will.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Mist Raising",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (CrAu 10) raising a corpse-smelling mist.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Dull Weapon",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (PeTe 5) reducing a weapon's damage bonus to zero.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026",
+   "lion-of-the-north-the-loch-leglean-tribunal::0027"
+  ]
+ },
+ {
+  "name": "Reanimation",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Permanent hagbui power (CrCo 45) healing a body level per round.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0027"
+  ]
+ },
+ {
+  "name": "Immunity to Edged Weapons",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Permanent hagbui power (MuCo 35).",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0027"
+  ]
+ },
+ {
+  "name": "Stink",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hagbui power (CrAu 10) like Stench of the Twenty Corpses.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0027"
+  ]
+ },
+ {
+  "name": "Confusion of the Numbed Will",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell referenced as a model for the hagbui's Confuse.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0026"
+  ]
+ },
+ {
+  "name": "Stench of the Twenty Corpses",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Hermetic spell referenced as a model for the hagbui's Stink.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0027"
+  ]
+ },
+ {
+  "name": "Bell and staff of the founding ab",
+  "type": "Item",
+  "aliases": [],
+  "description": "Relics proving ownership of a Scottish monastery and focusing its Dominion aura.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0108",
+   "lion-of-the-north-the-loch-leglean-tribunal::0109"
+  ]
+ },
+ {
+  "name": "Gaelic",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Language of the Highlanders.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0008",
+   "lion-of-the-north-the-loch-leglean-tribunal::0010",
+   "lion-of-the-north-the-loch-leglean-tribunal::0031"
+  ]
+ },
+ {
+  "name": "Pictish",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Forgotten language of the Picts eradicated by Diedne spells, still used by gruagachan.",
+  "evidence": [
+   "lion-of-the-north-the-loch-leglean-tribunal::0029",
+   "lion-of-the-north-the-loch-leglean-tribunal::0063",
+   "lion-of-the-north-the-loch-leglean-tribunal::0075"
+  ]
+ }
+]

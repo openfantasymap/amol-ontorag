@@ -103,3 +103,19 @@ oxigraph query --location ./oxidb \
 
 It is rebuilt from `world.ttl` on every `build.py` run. Edit `world.ttl` (the
 source of truth), never `entities.jsonl` directly.
+
+## Extraction history
+
+Entities are extracted by Claude agents from the chunk corpus
+(`tools/make_batches.py` → `tools/extract_ontology.workflow.js`, 163 batches of
+up to 120 chunks), then deduplicated without an LLM (`tools/recover_extract.py`).
+
+- **June 2026 (v0.4.1–0.5.0):** the run stopped after 66 of 163 batches, so only 8
+  books had entities extracted from their own text; the other 17 were linked only to
+  entities of those 8. Kept in `_extract/june/recovered.json`.
+- **September 2026 (v0.6.0):** the remaining 97 batches (10,393 chunks, 17 books)
+  were extracted (`_extract/raw2/`, one file per batch) and merged with
+  `tools/merge_extract.py`. Entities already published keep their name and IRI; two
+  published entities are never merged into one. Result: 13,014 entities, every book
+  with entities of its own (at least 60 unique to each book).
+

@@ -1,0 +1,1789 @@
+[
+ {
+  "name": "Wizard's March",
+  "type": "Concept",
+  "aliases": [
+   "March",
+   "Marched"
+  ],
+  "description": "The casting out of a magus from the Order, leaving him an outlaw who may be killed with impunity; the default penalty when a convict refuses lesser penalties.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0247",
+   "houses-of-hermes-true-lineages::0242",
+   "houses-of-hermes-true-lineages::0265"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [
+   "Quaesitores",
+   "Quaesitorial"
+  ],
+  "description": "Investigating and judicial magi, mostly of House Guernicus, who investigate Hermetic crimes, endorse testimony and preside at Tribunals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0256",
+   "houses-of-hermes-true-lineages::0257",
+   "houses-of-hermes-true-lineages::0284"
+  ]
+ },
+ {
+  "name": "Presiding Quaesitor",
+  "type": "Concept",
+  "description": "The Quaesitor elected by local Quaesitors to preside over a Tribunal, set penalties and hold a veto; aided by two advisers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0269",
+   "houses-of-hermes-true-lineages::0270",
+   "houses-of-hermes-true-lineages::0271"
+  ]
+ },
+ {
+  "name": "Praeco",
+  "type": "Concept",
+  "description": "The Tribunal officer who decides the order in which cases are heard and keeps the Tribunal coffers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0240",
+   "houses-of-hermes-true-lineages::0243",
+   "houses-of-hermes-true-lineages::0270"
+  ]
+ },
+ {
+  "name": "Hoplite",
+  "type": "CharacterType",
+  "aliases": [
+   "Hoplites"
+  ],
+  "description": "Powerful magi who accompany Quaesitors for protection and hunt down Marched magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0296",
+   "houses-of-hermes-true-lineages::0286",
+   "houses-of-hermes-true-lineages::0247"
+  ]
+ },
+ {
+  "name": "Hoplite Quaesitor",
+  "type": "CharacterType",
+  "description": "Guernicus magi able at both investigation and combat, often sent to lawless Tribunals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0286"
+  ]
+ },
+ {
+  "name": "Magvillus Council",
+  "type": "Faction",
+  "aliases": [
+   "council of Magvillus",
+   "inner council",
+   "outer council"
+  ],
+  "description": "The governing council of House Guernicus with inner and outer tiers, which reviews vetoes, appeals of penalties and Quaesitorial conduct.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0246",
+   "houses-of-hermes-true-lineages::0256",
+   "houses-of-hermes-true-lineages::0290"
+  ]
+ },
+ {
+  "name": "Magvillus",
+  "type": "Covenant",
+  "description": "The domus magna of House Guernicus, housing Fenicil's library and ritual chambers, with a magic aura of +4.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0331",
+   "houses-of-hermes-true-lineages::0333",
+   "houses-of-hermes-true-lineages::0337"
+  ]
+ },
+ {
+  "name": "Tribunal Coffers",
+  "type": "Concept",
+  "description": "Tribunal funds kept by the Praeco, receiving fines and paying Quaesitors' investigation costs.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0243",
+   "houses-of-hermes-true-lineages::0263",
+   "houses-of-hermes-true-lineages::0265"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "description": "The regional assembly of magi that hears cases, votes on rulings and must be validated by a two-thirds vote.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0240",
+   "houses-of-hermes-true-lineages::0247",
+   "houses-of-hermes-true-lineages::0271"
+  ]
+ },
+ {
+  "name": "Grand Tribunal",
+  "type": "Tribunal",
+  "description": "The Order-wide Tribunal whose rulings set law on matters such as Quaesitorial powers and sanctum law; the Guernicus Primus presides.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0243",
+   "houses-of-hermes-true-lineages::0259",
+   "houses-of-hermes-true-lineages::0271"
+  ]
+ },
+ {
+  "name": "First Tribunal",
+  "type": "Tribunal",
+  "description": "The founding Tribunal of the Order whose rulings provided guidelines on Quaesitorial investigation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0260",
+   "houses-of-hermes-true-lineages::0276",
+   "houses-of-hermes-true-lineages::0284"
+  ]
+ },
+ {
+  "name": "Thebes Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal where the cases of Morwena versus Darius and of Stregos versus Fulmen were heard.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0263",
+   "houses-of-hermes-true-lineages::0284"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [
+   "the Rhine"
+  ],
+  "description": "Tribunal to which Darius was moved; home to Durenmar and many Mercere magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0264",
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0348"
+  ]
+ },
+ {
+  "name": "Roman Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal in which Harco, the Mercere domus magna, is located.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0347"
+  ]
+ },
+ {
+  "name": "Provencal Tribunal",
+  "type": "Tribunal",
+  "description": "Tribunal bordering Harco where Mercere magi are relatively common.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0347"
+  ]
+ },
+ {
+  "name": "Damages",
+  "type": "Concept",
+  "description": "Hermetic penalty paid directly to the victim, including costs; in a March the victim gets a quarter of the outcast's estate.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0242",
+   "houses-of-hermes-true-lineages::0241",
+   "houses-of-hermes-true-lineages::0245"
+  ]
+ },
+ {
+  "name": "Fines",
+  "type": "Concept",
+  "description": "Hermetic penalty compensating the Tribunal and prosecution, split one third to the prosecutor and two-thirds to Tribunal coffers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0243",
+   "houses-of-hermes-true-lineages::0241",
+   "houses-of-hermes-true-lineages::0245"
+  ]
+ },
+ {
+  "name": "Punishments",
+  "type": "Concept",
+  "description": "Purely retributive Hermetic penalties set in a hierarchy of severity, from seasons of service to death of a familiar.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0244",
+   "houses-of-hermes-true-lineages::0249",
+   "houses-of-hermes-true-lineages::0245"
+  ]
+ },
+ {
+  "name": "Seasons of Service",
+  "type": "Concept",
+  "description": "Punishment in which a convicted magus serves Mercere or Guernicus magi, e.g. enacting longevity rituals, investing devices or copying records.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0250"
+  ]
+ },
+ {
+  "name": "Loss of an Apprentice",
+  "type": "Concept",
+  "description": "Punishment requiring the convicted magus to surrender his apprentice immediately to a new master.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0252",
+   "houses-of-hermes-true-lineages::0245"
+  ]
+ },
+ {
+  "name": "Banishment from Tribunal",
+  "type": "Concept",
+  "description": "Punishment requiring a magus to leave a Tribunal's area and find another residential Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0253"
+  ]
+ },
+ {
+  "name": "Loss of Familiar",
+  "type": "Concept",
+  "description": "Punishment in which the cords binding magus and familiar are cut, a painful and emotionally scarring experience.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0254",
+   "houses-of-hermes-true-lineages::0285"
+  ]
+ },
+ {
+  "name": "Death of Familiar",
+  "type": "Concept",
+  "description": "The most severe punishment short of a March, in which the convicted magus's familiar is killed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0255"
+  ]
+ },
+ {
+  "name": "High Crime",
+  "type": "Concept",
+  "aliases": [
+   "high crimes"
+  ],
+  "description": "Serious Hermetic offences, such as failing to comply with penalties, which may lead to a Wizard's March.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0245",
+   "houses-of-hermes-true-lineages::0246",
+   "houses-of-hermes-true-lineages::0248"
+  ]
+ },
+ {
+  "name": "Low Crime",
+  "type": "Concept",
+  "description": "Lesser Hermetic offences such as failing to cooperate with an investigation or reading marked texts.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0259",
+   "houses-of-hermes-true-lineages::0263",
+   "houses-of-hermes-true-lineages::0299"
+  ]
+ },
+ {
+  "name": "Quaesitor in Good Standing",
+  "type": "Concept",
+  "aliases": [
+   "Quaesitor cum auctoritate"
+  ],
+  "description": "Status proven by a letter signed by the Guernicus Primus, less than seven years old, without which a Quaesitor has no authority.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0257",
+   "houses-of-hermes-true-lineages::0258",
+   "houses-of-hermes-true-lineages::0259"
+  ]
+ },
+ {
+  "name": "Investigation Immunity",
+  "type": "Concept",
+  "description": "Limited immunity from scrying charges granted to Quaesitors and their agents while pursuing justified investigations.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0260",
+   "houses-of-hermes-true-lineages::0261",
+   "houses-of-hermes-true-lineages::0298"
+  ]
+ },
+ {
+  "name": "Sanctum Invasion",
+  "type": "Concept",
+  "aliases": [
+   "forfeit immunity"
+  ],
+  "description": "A Quaesitor may enter a suspect's sanctum under forfeit immunity, protected afterward by investigation immunity.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0261",
+   "houses-of-hermes-true-lineages::0262"
+  ]
+ },
+ {
+  "name": "Letter of Authority",
+  "type": "Item",
+  "aliases": [
+   "letters of authority"
+  ],
+  "description": "Document granted by a Quaesitor to non-Quaesitors giving them investigation immunity and the right to demand cooperation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0295",
+   "houses-of-hermes-true-lineages::0296",
+   "houses-of-hermes-true-lineages::0293"
+  ]
+ },
+ {
+  "name": "Endorsing Testimony",
+  "type": "Concept",
+  "description": "Process by which a Quaesitor magically verifies a witness's testimony after the witness lowers Parma.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0272",
+   "houses-of-hermes-true-lineages::0273",
+   "houses-of-hermes-true-lineages::0288"
+  ]
+ },
+ {
+  "name": "The Veto",
+  "type": "Concept",
+  "aliases": [
+   "veto"
+  ],
+  "description": "Power of the Presiding Quaesitor to annul a ruling that clearly conflicts with the Code or a higher Tribunal ruling, reviewed by the Magvillus Council.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0273",
+   "houses-of-hermes-true-lineages::0270",
+   "houses-of-hermes-true-lineages::0275"
+  ]
+ },
+ {
+  "name": "Arbitration",
+  "type": "Concept",
+  "description": "Quaesitorial service mediating disputes between magi or covenants, ending in a formal witnessed agreement.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0266",
+   "houses-of-hermes-true-lineages::0267"
+  ]
+ },
+ {
+  "name": "Transitionalists",
+  "type": "Faction",
+  "aliases": [
+   "Transitionalist"
+  ],
+  "description": "Faction in the debate over Hermetic law favoring change; a Transitionalist council would never use the veto on grounds of tradition alone.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0277",
+   "houses-of-hermes-true-lineages::0291"
+  ]
+ },
+ {
+  "name": "Traditionalists",
+  "type": "Faction",
+  "aliases": [
+   "Traditionalist"
+  ],
+  "description": "Faction in the debate over Hermetic law favoring adherence to the First Tribunal and tradition.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0276",
+   "houses-of-hermes-true-lineages::0277",
+   "houses-of-hermes-true-lineages::0291"
+  ]
+ },
+ {
+  "name": "Advocate",
+  "type": "CharacterType",
+  "description": "Guernicus (or other) magi who serve as legal advocates for principals and broker out-of-court settlements.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0287",
+   "houses-of-hermes-true-lineages::0285",
+   "houses-of-hermes-true-lineages::0282"
+  ]
+ },
+ {
+  "name": "Magical Investigation Specialist",
+  "type": "CharacterType",
+  "description": "Guernicus magi called in to support investigations with specialist magic, often endorsing testimony.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0288"
+  ]
+ },
+ {
+  "name": "Limit of Time",
+  "type": "Concept",
+  "description": "A limit of Hermetic magic that investigation specialists dream of breaking to see into the past.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0288"
+  ]
+ },
+ {
+  "name": "Hermetic Theory",
+  "type": "Concept",
+  "description": "The body of Hermetic magical theory whose boundaries investigation specialists research.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0288"
+  ]
+ },
+ {
+  "name": "Terrae-Magi",
+  "type": "Faction",
+  "aliases": [
+   "Terrae-Magus"
+  ],
+  "description": "A cult founded by Guernicus's pupils to preserve his earth magic, led always by a Guernicus magus with a seat on the inner council.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0289"
+  ]
+ },
+ {
+  "name": "Geomantia",
+  "type": "Ability",
+  "description": "Divinatory ability possessed by many Terrae-Magi cultists.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0289"
+  ]
+ },
+ {
+  "name": "Earth Elemental",
+  "type": "Creature",
+  "aliases": [
+   "earth elementals"
+  ],
+  "description": "Elementals that Terrae-Magi learn to summon and bargain with.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0289"
+  ]
+ },
+ {
+  "name": "Custos",
+  "type": "CharacterType",
+  "description": "Worldly-wise mundane agents, often merchants, employed by Quaesitors as eyes and ears in mundane society.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0298"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [
+   "Redcaps"
+  ],
+  "description": "UnGifted members of House Mercere who carry messages and trade between covenants and have magi's rights but usually do not vote.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0355",
+   "houses-of-hermes-true-lineages::0297"
+  ]
+ },
+ {
+  "name": "Mercere Magi",
+  "type": "CharacterType",
+  "aliases": [
+   "Gifted Merceres",
+   "Mercere magus"
+  ],
+  "description": "The Gifted members of House Mercere, about twelve in number, who support Redcaps through invested devices and healing.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0355"
+  ]
+ },
+ {
+  "name": "Sanctum Law",
+  "type": "Concept",
+  "aliases": [
+   "sanctum mark"
+  ],
+  "description": "Grand Tribunal rulings protecting sanctums and texts marked with a sanctum mark or House symbol; reading such texts is a low crime.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0299"
+  ]
+ },
+ {
+  "name": "Acute Sense",
+  "type": "Ability",
+  "description": "A mastery ability for magical sense spells, available only to those with Quaesitorial training, that detects altered, hidden or destroyed traces.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0300",
+   "houses-of-hermes-true-lineages::0308",
+   "houses-of-hermes-true-lineages::0312"
+  ]
+ },
+ {
+  "name": "Spell Trace",
+  "type": "Concept",
+  "aliases": [
+   "spell traces",
+   "traces"
+  ],
+  "description": "Residual magic left after a spell expires, with a decaying magnitude, used to identify casters.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0301",
+   "houses-of-hermes-true-lineages::0322",
+   "houses-of-hermes-true-lineages::0326"
+  ]
+ },
+ {
+  "name": "Sigil",
+  "type": "Concept",
+  "aliases": [
+   "wizard's sigil"
+  ],
+  "description": "The unique quirk of a magus's magic that marks his spell traces and can identify the caster.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0301",
+   "houses-of-hermes-true-lineages::0302",
+   "houses-of-hermes-true-lineages::0303"
+  ]
+ },
+ {
+  "name": "Shroud Magic",
+  "type": "Spell",
+  "description": "Spell that causes an expiring magic's trace to show a fixed false sigil, possibly mimicking another magus's sigil.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0303",
+   "houses-of-hermes-true-lineages::0304",
+   "houses-of-hermes-true-lineages::0328"
+  ]
+ },
+ {
+  "name": "Forceless Casting",
+  "type": "Concept",
+  "description": "Deliberately casting with Penetration no more than 0 to avoid affecting other magi with area spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0304",
+   "houses-of-hermes-true-lineages::0305",
+   "houses-of-hermes-true-lineages::0308"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "description": "A link to a subject used as a target, e.g. by The Whole from the Part, and exchanged to build Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0306",
+   "houses-of-hermes-true-lineages::0349"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "description": "Resistance that blocks magic lacking sufficient Penetration.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0304",
+   "houses-of-hermes-true-lineages::0308",
+   "houses-of-hermes-true-lineages::0312"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [
+   "Parma"
+  ],
+  "description": "The Hermetic magical defense, which witnesses must dispel to give endorsed testimony; taught by Bonisagus to Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0272",
+   "houses-of-hermes-true-lineages::0324",
+   "houses-of-hermes-true-lineages::0351"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [
+   "Gift",
+   "Gifted"
+  ],
+  "description": "The innate capacity for magic; Redcaps lack it, and Mercere's was destroyed in the lab.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0297",
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0353"
+  ]
+ },
+ {
+  "name": "Blatant Gift",
+  "type": "Flaw",
+  "description": "A form of The Gift that makes the magus more conspicuous, reducing the Ease Factor to notice him.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0315"
+  ]
+ },
+ {
+  "name": "Unstructured Caster",
+  "type": "Flaw",
+  "description": "Flaw whose bearers cannot learn Fenicil's rituals at all.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0331"
+  ]
+ },
+ {
+  "name": "Mercurian Magic",
+  "type": "Virtue",
+  "description": "Virtue that may halve vis and material costs of Fenicil's rituals if all participants have it.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0332"
+  ]
+ },
+ {
+  "name": "Twilight Prone",
+  "type": "Flaw",
+  "description": "Flaw inflicted for the duration of the Curse of Thoth on those it penetrates.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0334"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Ability",
+  "description": "Ability to perceive through illusions and invisibility; granted at score 5 by Sight of Alatheia.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0340"
+  ]
+ },
+ {
+  "name": "Familiar",
+  "type": "Concept",
+  "aliases": [
+   "familiar"
+  ],
+  "description": "A magus's bonded magical companion; its loss or death is a Hermetic punishment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0254",
+   "houses-of-hermes-true-lineages::0255",
+   "houses-of-hermes-true-lineages::0330"
+  ]
+ },
+ {
+  "name": "Familiar Bond",
+  "type": "Concept",
+  "aliases": [
+   "Familiar Bond Enchantment"
+  ],
+  "description": "The enchantment binding magus and familiar, the cords cut by Cutting the Cords.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0330"
+  ]
+ },
+ {
+  "name": "Longevity Ritual",
+  "type": "Concept",
+  "aliases": [
+   "longevity rituals"
+  ],
+  "description": "Ritual extending a magus's life; enacting them is common service to Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0250",
+   "houses-of-hermes-true-lineages::0328"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [
+   "Talismans"
+  ],
+  "description": "A specific type of enchantment that a Perdo Vim ritual can target.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0328"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "description": "Effect caused by magic like The Penitent's Confession; passive oath rituals cause none.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0314",
+   "houses-of-hermes-true-lineages::0342",
+   "houses-of-hermes-true-lineages::0343"
+  ]
+ },
+ {
+  "name": "Magic Aura",
+  "type": "Concept",
+  "aliases": [
+   "Aura",
+   "aura"
+  ],
+  "description": "Local magical strength adding to casting totals; Magvillus has +4 while Harco has almost none.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0332",
+   "houses-of-hermes-true-lineages::0337",
+   "houses-of-hermes-true-lineages::0348"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Ritual protecting an area; some Tribunals cast an Aegis over their grounds.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0247",
+   "houses-of-hermes-true-lineages::0324"
+  ]
+ },
+ {
+  "name": "Certamen",
+  "type": "Concept",
+  "description": "Magical dueling used to decide disputes such as competing claims to an apprentice.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0247",
+   "houses-of-hermes-true-lineages::0252"
+  ]
+ },
+ {
+  "name": "Diabolist",
+  "type": "CharacterType",
+  "aliases": [
+   "diabolists"
+  ],
+  "description": "Magi in league with infernal powers, typically Marched immediately.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0247",
+   "houses-of-hermes-true-lineages::0265",
+   "houses-of-hermes-true-lineages::0267"
+  ]
+ },
+ {
+  "name": "Mysteries",
+  "type": "Concept",
+  "aliases": [
+   "mystae",
+   "mystery"
+  ],
+  "description": "Secret initiatory magic whose secrets are protected from Quaesitorial disclosure.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0252",
+   "houses-of-hermes-true-lineages::0260",
+   "houses-of-hermes-true-lineages::0284"
+  ]
+ },
+ {
+  "name": "Code of Hermes",
+  "type": "Concept",
+  "aliases": [
+   "the Code"
+  ],
+  "description": "The law of the Order that Quaesitors uphold and interpret.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0260",
+   "houses-of-hermes-true-lineages::0270",
+   "houses-of-hermes-true-lineages::0279"
+  ]
+ },
+ {
+  "name": "Code of Hermes (Ability)",
+  "type": "Ability",
+  "description": "Ability used to judge whether a ruling clearly conflicts with the Code (Int + Code of Hermes roll).",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0274"
+  ]
+ },
+ {
+  "name": "Hermetic Oath",
+  "type": "Concept",
+  "aliases": [
+   "the Oath",
+   "Oath"
+  ],
+  "description": "The Oath sworn by all members of the Order, including Mercere's unGifted followers.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0276",
+   "houses-of-hermes-true-lineages::0354",
+   "houses-of-hermes-true-lineages::0355"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [
+   "pawns"
+  ],
+  "description": "Magical substance used to pay damages and fines and consumed by rituals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0240",
+   "houses-of-hermes-true-lineages::0245",
+   "houses-of-hermes-true-lineages::0332"
+  ]
+ },
+ {
+  "name": "Scrying Prohibition",
+  "type": "Concept",
+  "aliases": [
+   "scrying"
+  ],
+  "description": "The Code's protection of magi from magical spying on their legitimate secrets.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0260",
+   "houses-of-hermes-true-lineages::0293",
+   "houses-of-hermes-true-lineages::0313"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "description": "The war in which the Curse of Thoth was cast against House Diedne and Redcaps influenced the flow of information.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0336",
+   "houses-of-hermes-true-lineages::0344",
+   "houses-of-hermes-true-lineages::0357"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "description": "The medieval setting in which the Order operates.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0336",
+   "houses-of-hermes-true-lineages::0345"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Order of magi whose Houses, Tribunals and Code are described.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0358",
+   "houses-of-hermes-true-lineages::0256"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [
+   "Mercurians"
+  ],
+  "description": "Ancient magical cult whose rituals included Hermes' Portal and whose cremation rites were used for Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0349",
+   "houses-of-hermes-true-lineages::0352",
+   "houses-of-hermes-true-lineages::0355"
+  ]
+ },
+ {
+  "name": "Fenicil's Rituals",
+  "type": "Concept",
+  "aliases": [
+   "Greater Rituals",
+   "Lesser Rituals"
+  ],
+  "description": "Mercurian or pre-Mercurian group rituals taught only to Guernicus magi, divided into Greater and Lesser Rituals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0331",
+   "houses-of-hermes-true-lineages::0333",
+   "houses-of-hermes-true-lineages::0338"
+  ]
+ },
+ {
+  "name": "Fenicil",
+  "type": "Character",
+  "description": "Guernicus-associated figure after whom the ancient rituals and a library at Magvillus are named.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0331"
+  ]
+ },
+ {
+  "name": "Fenicil's Library",
+  "type": "Place",
+  "description": "Library within Magvillus holding books on the Abilities of Fenicil's rituals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0331"
+  ]
+ },
+ {
+  "name": "Societas Merceris",
+  "type": "Faction",
+  "aliases": [
+   "Societies",
+   "Mercere societies"
+  ],
+  "description": "Societies within House Mercere designed primarily for Redcaps, based on covenant, goals, family or creed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0358",
+   "houses-of-hermes-true-lineages::0359"
+  ]
+ },
+ {
+  "name": "Guernicus Gauntlet",
+  "type": "Concept",
+  "aliases": [
+   "Gauntlet"
+  ],
+  "description": "Written exam on the Code and practical tests of investigation and moral character that ends a Guernicus apprenticeship.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0279",
+   "houses-of-hermes-true-lineages::0280"
+  ]
+ },
+ {
+  "name": "Primus",
+  "type": "Concept",
+  "aliases": [
+   "Primi"
+  ],
+  "description": "The leader of a House; the Primi collectively form an arm of Order government.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0273",
+   "houses-of-hermes-true-lineages::0284",
+   "houses-of-hermes-true-lineages::0271"
+  ]
+ },
+ {
+  "name": "Philosophiae",
+  "type": "Ability",
+  "description": "Ability many Guernicus magi start with, specialized in moral philosophy.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0279"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "description": "Ability letting a Quaesitor spot signs of guilt in others.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0279",
+   "houses-of-hermes-true-lineages::0339"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "description": "Ability used to examine a scene and discover clues or recognize sigils.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0279",
+   "houses-of-hermes-true-lineages::0302",
+   "houses-of-hermes-true-lineages::0315"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "description": "Ability to piece together conspiracies and see through political manipulation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0279",
+   "houses-of-hermes-true-lineages::0281",
+   "houses-of-hermes-true-lineages::0339"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Ability",
+  "description": "Ability for overcoming Magic Resistance, used in Acute Sense rolls.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0300",
+   "houses-of-hermes-true-lineages::0304"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "description": "Ability used when designing a Shroud Magic spell to mimic a sigil.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0303"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "description": "Technique of perception, the primary method of Quaesitorial investigation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0260",
+   "houses-of-hermes-true-lineages::0302",
+   "houses-of-hermes-true-lineages::0323"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "description": "Form of the mind; Intellego Mentem may never be used on magi without permission.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0260",
+   "houses-of-hermes-true-lineages::0272",
+   "houses-of-hermes-true-lineages::0309"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "description": "Form of magic itself, used to detect and analyze spell traces.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0272",
+   "houses-of-hermes-true-lineages::0300",
+   "houses-of-hermes-true-lineages::0323"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "description": "Form of images, involved in deceptions Acute Sense can detect.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0300",
+   "houses-of-hermes-true-lineages::0308"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "description": "Form of earth, Guernicus's special magical knowledge.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0289",
+   "houses-of-hermes-true-lineages::0316"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "description": "Form of bodies, used to detect body material like hair and blood.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0307",
+   "houses-of-hermes-true-lineages::0342"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "description": "Technique of creation, used to refresh memories and spell traces.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0302",
+   "houses-of-hermes-true-lineages::0309",
+   "houses-of-hermes-true-lineages::0321"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "description": "Technique of control, used in Mentem spells like Trust Me.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0313",
+   "houses-of-hermes-true-lineages::0336"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "description": "Technique of destruction, used to age traces and dispel enchantments.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0328",
+   "houses-of-hermes-true-lineages::0329"
+  ]
+ },
+ {
+  "name": "Muto",
+  "type": "Art",
+  "description": "Technique of transformation; Shroud Magic leaves a Muto Vim trace.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0304"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "description": "Form of animals, a requisite of Veil All Eyes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0341"
+  ]
+ },
+ {
+  "name": "Realms of Power",
+  "type": "Concept",
+  "aliases": [
+   "four Realms"
+  ],
+  "description": "The four Realms whose effects each require separate spells to analyze.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0323"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "magic realm"
+  ],
+  "description": "The Realm to which Nemesis is thought to belong.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0336"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [
+   "infernal powers"
+  ],
+  "description": "Realm whose powers can fool any magic; conflicting endorsed testimony implies infernal involvement.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0273",
+   "houses-of-hermes-true-lineages::0323"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "faerie beings"
+  ],
+  "description": "Realm of faerie beings mentioned in comparison to Nemesis.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0336"
+  ]
+ },
+ {
+  "name": "Guernicus",
+  "type": "Character",
+  "description": "Founder of House Guernicus who stressed moral education, had special knowledge of Terram, and prophesied the Order's reliance on his line.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0278",
+   "houses-of-hermes-true-lineages::0284",
+   "houses-of-hermes-true-lineages::0289"
+  ]
+ },
+ {
+  "name": "Morwena of Ex Miscellanea",
+  "type": "Character",
+  "aliases": [
+   "Morwena"
+  ],
+  "description": "Magus who in 1030 A.A. charged Darius of Guernicus with a thirty-year vendetta against her.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0263",
+   "houses-of-hermes-true-lineages::0264"
+  ]
+ },
+ {
+  "name": "Darius of Guernicus",
+  "type": "Character",
+  "aliases": [
+   "Darius"
+  ],
+  "description": "Quaesitor acquitted of abusing his privilege against Morwena but later moved to the Rhine Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0263",
+   "houses-of-hermes-true-lineages::0264"
+  ]
+ },
+ {
+  "name": "Fulmen of Guernicus",
+  "type": "Character",
+  "aliases": [
+   "Fulmen"
+  ],
+  "description": "Quaesitor who disseminated a convict's mystery secrets, lost his familiar as punishment, and joined House Jerbiton as an advocate.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0284",
+   "houses-of-hermes-true-lineages::0285"
+  ]
+ },
+ {
+  "name": "Stregos",
+  "type": "Character",
+  "aliases": [
+   "Archmagus Stregos"
+  ],
+  "description": "Archmagus who led the consortium charging Fulmen of Guernicus.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0284",
+   "houses-of-hermes-true-lineages::0285"
+  ]
+ },
+ {
+  "name": "Bilera",
+  "type": "Character",
+  "description": "Current Primus of House Guernicus, under whom Transitionalist/Traditionalist views should not affect advancement.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0291"
+  ]
+ },
+ {
+  "name": "Aldico",
+  "type": "Character",
+  "description": "Primus of Mercere during the Schism War, replaced by Mihalyi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0344",
+   "houses-of-hermes-true-lineages::0348"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "description": "Founder of House Mercere, first to join Trianoma, who lost his Gift and founded Harco and the Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347",
+   "houses-of-hermes-true-lineages::0353",
+   "houses-of-hermes-true-lineages::0355"
+  ]
+ },
+ {
+  "name": "Trianoma",
+  "type": "Character",
+  "description": "Founder of the Order whom Mercere served and who defended his unGifted followers at Tribunal.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347",
+   "houses-of-hermes-true-lineages::0353",
+   "houses-of-hermes-true-lineages::0354"
+  ]
+ },
+ {
+  "name": "Bonisagus",
+  "type": "Character",
+  "description": "Founder who taught Mercere the Parma Magica and tried unsuccessfully to restore his Gift.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0351",
+   "houses-of-hermes-true-lineages::0352",
+   "houses-of-hermes-true-lineages::0353"
+  ]
+ },
+ {
+  "name": "Insatella",
+  "type": "Character",
+  "aliases": [
+   "Prima Insatella"
+  ],
+  "description": "UnGifted Prima of House Mercere, nearly eighty, running Harco for almost forty years.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0348",
+   "houses-of-hermes-true-lineages::0349"
+  ]
+ },
+ {
+  "name": "Mihalyi",
+  "type": "Character",
+  "description": "Insatella's father, the last Primus of Mercere, who replaced Aldico after the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0348"
+  ]
+ },
+ {
+  "name": "Maria",
+  "type": "Character",
+  "description": "Insatella's second-eldest daughter and chief assistant, likely to succeed her.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0349"
+  ]
+ },
+ {
+  "name": "Belin",
+  "type": "Character",
+  "description": "Famous Redcap who wore a loose red cap like Mercere's and always got her messages through.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0356"
+  ]
+ },
+ {
+  "name": "Circe",
+  "type": "Character",
+  "description": "Legendary figure claimed by some as an ancestor of Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347"
+  ]
+ },
+ {
+  "name": "Odysseus",
+  "type": "Character",
+  "description": "Legendary hero claimed by some as an ancestor of Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347"
+  ]
+ },
+ {
+  "name": "Perseus",
+  "type": "Character",
+  "description": "Ancient hero some say Mercere descended from.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347"
+  ]
+ },
+ {
+  "name": "Orpheus",
+  "type": "Character",
+  "description": "Ancient hero some say Mercere descended from.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "description": "God of whom some believe Mercere was a medieval incarnation; a winged-shoed figure carried Mercere away at his cremation.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347",
+   "houses-of-hermes-true-lineages::0355"
+  ]
+ },
+ {
+  "name": "Nemesis",
+  "type": "Creature",
+  "description": "Entity thought to be of the magic realm, hater of immoderation, called upon by the Call for Justice ritual.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0336"
+  ]
+ },
+ {
+  "name": "Diedne",
+  "type": "Character",
+  "description": "Founder whose stronghold was attacked through a Portal at the start of the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0351"
+  ]
+ },
+ {
+  "name": "House Guernicus",
+  "type": "House",
+  "aliases": [
+   "Guernicus magi"
+  ],
+  "description": "House of the Quaesitores, dedicated to upholding Hermetic law.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0256",
+   "houses-of-hermes-true-lineages::0278",
+   "houses-of-hermes-true-lineages::0292"
+  ]
+ },
+ {
+  "name": "House Mercere",
+  "type": "House",
+  "aliases": [
+   "Mercere",
+   "Merceres"
+  ],
+  "description": "House of heralds, merchants and Redcaps, the largest House but with the fewest magi.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0344",
+   "houses-of-hermes-true-lineages::0345",
+   "houses-of-hermes-true-lineages::0356"
+  ]
+ },
+ {
+  "name": "House Bonisagus",
+  "type": "House",
+  "description": "House that aids Guernicus in designing counter-magic and investigative spells.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0272",
+   "houses-of-hermes-true-lineages::0299"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "description": "House Fulmen joined after leaving Guernicus; considered a House society.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0285",
+   "houses-of-hermes-true-lineages::0359"
+  ]
+ },
+ {
+  "name": "House Flambeau",
+  "type": "House",
+  "description": "House whose members value the Hoplite role; considered a House society.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0296",
+   "houses-of-hermes-true-lineages::0359"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "description": "House whose members value the Hoplite role; considered a House society.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0296",
+   "houses-of-hermes-true-lineages::0359"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "description": "House whose members value the Hoplite role.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0296"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne",
+   "druids"
+  ],
+  "description": "House targeted by the Curse of Thoth during the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0337",
+   "houses-of-hermes-true-lineages::0351"
+  ]
+ },
+ {
+  "name": "House Ex Miscellanea",
+  "type": "House",
+  "aliases": [
+   "Ex Miscellanea"
+  ],
+  "description": "House of Morwena, considered a House society.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0263",
+   "houses-of-hermes-true-lineages::0359"
+  ]
+ },
+ {
+  "name": "Harco",
+  "type": "Covenant",
+  "description": "Domus magna of House Mercere in Piedmont, a center of Hermetic commerce and the Portal network.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347",
+   "houses-of-hermes-true-lineages::0348",
+   "houses-of-hermes-true-lineages::0352"
+  ]
+ },
+ {
+  "name": "Piedmont",
+  "type": "Place",
+  "description": "Region in the Roman Tribunal where Harco lies.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0347"
+  ]
+ },
+ {
+  "name": "Durenmar",
+  "type": "Covenant",
+  "description": "Covenant in the Rhine with a great library, linked by Portals to the Founders' covenants.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0348",
+   "houses-of-hermes-true-lineages::0349",
+   "houses-of-hermes-true-lineages::0351"
+  ]
+ },
+ {
+  "name": "Hibernia",
+  "type": "Place",
+  "description": "Distant land from which goods travel via Harco.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0348"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "description": "Outpost region of the Order connected to Harco by Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0348",
+   "houses-of-hermes-true-lineages::0350"
+  ]
+ },
+ {
+  "name": "Novgorod",
+  "type": "Place",
+  "description": "Outpost on the edge of the Order connected to Harco by Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0348",
+   "houses-of-hermes-true-lineages::0350"
+  ]
+ },
+ {
+  "name": "Iberia",
+  "type": "Place",
+  "description": "Land reached by the Redcap trade network.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0348"
+  ]
+ },
+ {
+  "name": "British Isles",
+  "type": "Place",
+  "description": "Outpost region connected to Harco with Portals.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0350"
+  ]
+ },
+ {
+  "name": "Mercere's Portals",
+  "type": "Item",
+  "aliases": [
+   "Portals",
+   "Portal"
+  ],
+  "description": "Invested devices adapting Hermes' Portal that link Harco and other covenants; guarded by House Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0349",
+   "houses-of-hermes-true-lineages::0350",
+   "houses-of-hermes-true-lineages::0351"
+  ]
+ },
+ {
+  "name": "The Whole from the Part",
+  "type": "Spell",
+  "description": "InCo 20 spell giving a mental image of a person's essential nature via an Arcane Connection.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0306",
+   "houses-of-hermes-true-lineages::0307"
+  ]
+ },
+ {
+  "name": "Sight of the Molting Magus",
+  "type": "Spell",
+  "description": "InCo 25 spell revealing Corpus material within sight and how long ago it was shed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0307"
+  ]
+ },
+ {
+  "name": "The Discerning Eye",
+  "type": "Spell",
+  "description": "Enhanced InIm spell detecting created or altered images and areas of Magic Resistance.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0308"
+  ]
+ },
+ {
+  "name": "Discern the Images of Truth and Falsehood",
+  "type": "Spell",
+  "description": "Spell of which The Discerning Eye is an enhanced version.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0308"
+  ]
+ },
+ {
+  "name": "By His Works",
+  "type": "Spell",
+  "description": "CrMe 5 spell refreshing a memory in the caster, used to recall sigils perfectly.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0310",
+   "houses-of-hermes-true-lineages::0302",
+   "houses-of-hermes-true-lineages::0303"
+  ]
+ },
+ {
+  "name": "The Good Witness",
+  "type": "Spell",
+  "description": "CrMe 25 spell refreshing a subject's memory of one day.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0311",
+   "houses-of-hermes-true-lineages::0318"
+  ]
+ },
+ {
+  "name": "Ear of Truth",
+  "type": "Spell",
+  "description": "InMe 30 spell letting the caster tell whether he hears the truth; used to endorse testimony.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0312",
+   "houses-of-hermes-true-lineages::0273"
+  ]
+ },
+ {
+  "name": "Trust Me",
+  "type": "Spell",
+  "description": "ReMe 20 spell counterbalancing the effect of The Gift on a mundane's attitude, not counted as scrying.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0313"
+  ]
+ },
+ {
+  "name": "Aura of Rightful Authority",
+  "type": "Spell",
+  "description": "Mentem spell whose use in questioning counts as scrying.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0313"
+  ]
+ },
+ {
+  "name": "The Penitent's Confession",
+  "type": "Spell",
+  "description": "ReMe 30 spell compelling the target to relate his involvement truthfully; counts as scrying and causes warping.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0314",
+   "houses-of-hermes-true-lineages::0293"
+  ]
+ },
+ {
+  "name": "Aura of Inconsequence",
+  "type": "Spell",
+  "description": "ReMe 25 spell deflecting casual attention from the recipient, inspired by Veil All Eyes.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0315"
+  ]
+ },
+ {
+  "name": "Tell of the Forged",
+  "type": "Spell",
+  "description": "InTe 45 spell like Stone Tell of the Mind that Sits but usable on metal objects.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0317"
+  ]
+ },
+ {
+  "name": "Stone Tell of the Mind that Sits",
+  "type": "Spell",
+  "description": "Spell for communing with the spirit of stone, basis of Tell of the Forged.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0317"
+  ]
+ },
+ {
+  "name": "Dream of the Mind That Sits",
+  "type": "Spell",
+  "description": "InTe 45 spell probing and perfecting the memories of a spirit in natural stone.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0318",
+   "houses-of-hermes-true-lineages::0319",
+   "houses-of-hermes-true-lineages::0320"
+  ]
+ },
+ {
+  "name": "Dream of the Artifice",
+  "type": "Spell",
+  "description": "InTe 50 spell like Dream of the Mind that Sits for artificial stone.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0319"
+  ]
+ },
+ {
+  "name": "Dream of the Forged",
+  "type": "Spell",
+  "description": "InTe 55 ritual like Dream of the Mind that Sits for metal objects.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0320"
+  ]
+ },
+ {
+  "name": "Restore the Faded Threads",
+  "type": "Spell",
+  "description": "CrVi spell temporarily restoring spell traces to a fresh state for examination.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0322",
+   "houses-of-hermes-true-lineages::0301"
+  ]
+ },
+ {
+  "name": "Bitter Taste of Betrayal",
+  "type": "Spell",
+  "description": "InVi 15 spell giving a bitter taste when the caster's Parma is penetrated by new magic.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0324"
+  ]
+ },
+ {
+  "name": "Impression of the Faded Sigil",
+  "type": "Spell",
+  "description": "InVi 30 spell identifying Technique, Form, details and sigil of an effect on a touched object.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0325"
+  ]
+ },
+ {
+  "name": "Odor of Lingering Magic",
+  "type": "Spell",
+  "description": "InVi 30 spell letting the magus smell active magic and fresh traces.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0326"
+  ]
+ },
+ {
+  "name": "Sight of the Sigil",
+  "type": "Spell",
+  "description": "InVi 50 spell to spot active magic and traces and read their sigil.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0327"
+  ]
+ },
+ {
+  "name": "Circle of Clarity",
+  "type": "Spell",
+  "description": "PeVi spell dispelling active Vim effects within a circle.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0329"
+  ]
+ },
+ {
+  "name": "Cutting the Cords",
+  "type": "Spell",
+  "description": "PeVi ritual used as a Tribunal punishment to permanently sever a magus's bond with his familiar.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0330",
+   "houses-of-hermes-true-lineages::0254"
+  ]
+ },
+ {
+  "name": "Wizard's Vigil",
+  "type": "Spell",
+  "description": "Spell whose combined magnitude must match a Fenicil ritual's Ease Factor before casting.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0331",
+   "houses-of-hermes-true-lineages::0332"
+  ]
+ },
+ {
+  "name": "Curse of Thoth",
+  "type": "Spell",
+  "description": "Greater PeVi ritual cursing a magical group with misfortune and Twilight Prone; cast against Diedne in the Schism War.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0334",
+   "houses-of-hermes-true-lineages::0336",
+   "houses-of-hermes-true-lineages::0337"
+  ]
+ },
+ {
+  "name": "Curse of Mars",
+  "type": "Spell",
+  "description": "Greater ReMe ritual cursing a nation to internal strife.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0335"
+  ]
+ },
+ {
+  "name": "Call for Justice",
+  "type": "Spell",
+  "description": "Greater ReVi ritual calling on Nemesis to deliver justice; never attempted.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0336"
+  ]
+ },
+ {
+  "name": "Wisdom of Athena",
+  "type": "Spell",
+  "description": "Lesser CrMe ritual granting +5 to Folk Ken, Intrigue and Awareness.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0339"
+  ]
+ },
+ {
+  "name": "Sight of Alatheia",
+  "type": "Spell",
+  "description": "Lesser InVi ritual granting Second Sight 5.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0340"
+  ]
+ },
+ {
+  "name": "Veil All Eyes",
+  "type": "Spell",
+  "description": "Lesser non-Hermetic ReMe ritual letting participants pass unnoticed.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0341",
+   "houses-of-hermes-true-lineages::0315"
+  ]
+ },
+ {
+  "name": "The Oath of Truth",
+  "type": "Spell",
+  "aliases": [
+   "Oath of Truth"
+  ],
+  "description": "Lesser PeCo ritual binding a willing subject to tell the truth at trial, seen as infallible.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0342",
+   "houses-of-hermes-true-lineages::0273"
+  ]
+ },
+ {
+  "name": "The Will of Alatheia",
+  "type": "Spell",
+  "description": "Lesser PeCo ritual binding a willing subject never to perform a specific action; occasionally a Tribunal punishment.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0343"
+  ]
+ },
+ {
+  "name": "Hermes' Portal",
+  "type": "Spell",
+  "description": "ReTe 75 ritual of the Cult of Mercury linking distant places, brought to the Order by Mercere.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0349"
+  ]
+ },
+ {
+  "name": "Leap of Homecoming",
+  "type": "Spell",
+  "description": "ReCo 35 effect often invested in devices for travel.",
+  "evidence": [
+   "houses-of-hermes-true-lineages::0350"
+  ]
+ }
+]

@@ -1,0 +1,3032 @@
+[
+ {
+  "name": "Honorius III",
+  "type": "Character",
+  "aliases": [
+   "Cencio Savelli",
+   "Pope Honorius III"
+  ],
+  "description": "The pope in 1220, born Cencio Savelli in Rome in the 1140s, elected in 1216; former tutor of Frederick II, determined to reform the Church and recover the Holy Land.",
+  "evidence": [
+   "the-church::0122",
+   "the-church::0126",
+   "the-church::0127"
+  ]
+ },
+ {
+  "name": "Innocent III",
+  "type": "Character",
+  "aliases": [
+   "Pope Innocent III"
+  ],
+  "description": "Predecessor of Honorius III who reformed the Church and called the Fourth Lateran Council in 1213.",
+  "evidence": [
+   "the-church::0122",
+   "the-church::0126",
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Frederick II",
+  "type": "Character",
+  "aliases": [
+   "Emperor Frederick II"
+  ],
+  "description": "Holy Roman Emperor, tutored by Honorius III and crowned by him in 1220; his delays on crusade hamper recovery of the Holy Land and he is deposed at Lyons in 1245 if history is followed.",
+  "evidence": [
+   "the-church::0122",
+   "the-church::0209",
+   "the-church::0210"
+  ]
+ },
+ {
+  "name": "Gregory IX",
+  "type": "Character",
+  "aliases": [
+   "Ugolino"
+  ],
+  "description": "Cardinal-bishop Ugolino (born 1170), trusted ally of Honorius III famed as papal legate, who succeeds him as pope in 1227 if the saga follows history.",
+  "evidence": [
+   "the-church::0122",
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Master Willelmus",
+  "type": "Character",
+  "aliases": [],
+  "description": "Papal vice-chancellor in 1220, a subdeacon, succeeded in 1222 by Master Guido.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Master Guido",
+  "type": "Character",
+  "aliases": [
+   "Guido"
+  ],
+  "description": "Papal notary and sub-deacon who becomes vice-chancellor in 1222.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Master Fortis",
+  "type": "Character",
+  "aliases": [
+   "Fortis"
+  ],
+  "description": "One of the papal notaries in 1220, a sub-deacon.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Master Obizo",
+  "type": "Character",
+  "aliases": [
+   "Obizo"
+  ],
+  "description": "One of the papal notaries in 1220, a sub-deacon.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Master Maximus",
+  "type": "Character",
+  "aliases": [
+   "Maximus"
+  ],
+  "description": "One of the papal notaries in 1220, a sub-deacon.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Bandinus of Siena",
+  "type": "Character",
+  "aliases": [],
+  "description": "Papal corrector in 1220, a deacon.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Stefano di Cecanno",
+  "type": "Character",
+  "aliases": [],
+  "description": "Cardinal-priest of Saint XII Apostoli (1213), appointed papal camerlengo in 1219.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0124"
+  ]
+ },
+ {
+  "name": "Tommaso da Capua",
+  "type": "Character",
+  "aliases": [],
+  "description": "Cardinal-priest of Saint Sabina (1216), appointed penitentiarius in 1219.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0124"
+  ]
+ },
+ {
+  "name": "Peter de Collemdio",
+  "type": "Character",
+  "aliases": [],
+  "description": "A papal auditor in 1220.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0124"
+  ]
+ },
+ {
+  "name": "Otto da Tonengo",
+  "type": "Character",
+  "aliases": [
+   "Master Otto da Tonengo"
+  ],
+  "description": "Master Otto, subdeacon and auditor litterarum contradictarum in 1220, succeeded in 1225 by Sinibaldus Fieschi.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0124"
+  ]
+ },
+ {
+  "name": "Sinibaldus Fieschi",
+  "type": "Character",
+  "aliases": [
+   "Innocent IV"
+  ],
+  "description": "Master who becomes auditor litterarum contradictarum in 1225 and is elected pope Innocent IV in 1243.",
+  "evidence": [
+   "the-church::0124"
+  ]
+ },
+ {
+  "name": "Gratian",
+  "type": "Character",
+  "aliases": [],
+  "description": "Compiler of the Decretum, a common compendium of papal decrees.",
+  "evidence": [
+   "the-church::0156"
+  ]
+ },
+ {
+  "name": "Pope Leo IV",
+  "type": "Character",
+  "aliases": [
+   "Leo IV"
+  ],
+  "description": "Pope (847-855) who authored the Homilia Leonis, a popular enumeration of visitation articles.",
+  "evidence": [
+   "the-church::0205"
+  ]
+ },
+ {
+  "name": "Pope Leo IX",
+  "type": "Character",
+  "aliases": [
+   "Leo IX"
+  ],
+  "description": "Pope who in 1050 controlled no benefices outside the province of Rome.",
+  "evidence": [
+   "the-church::0197"
+  ]
+ },
+ {
+  "name": "Henri of Toulouse",
+  "type": "Character",
+  "aliases": [],
+  "description": "Wealthy merchant in an example petition who, after a holy vision, petitions the papal curia to found a monastery overlooking a river.",
+  "evidence": [
+   "the-church::0217",
+   "the-church::0218",
+   "the-church::0219"
+  ]
+ },
+ {
+  "name": "Count of Toulouse",
+  "type": "Character",
+  "aliases": [],
+  "description": "Nobleman whose court supports Henri of Toulouse's petition to found a monastery.",
+  "evidence": [
+   "the-church::0218"
+  ]
+ },
+ {
+  "name": "Saint Peter",
+  "type": "Character",
+  "aliases": [
+   "Peter"
+  ],
+  "description": "The chief apostle, to whom the pope is successor.",
+  "evidence": [
+   "the-church::0154"
+  ]
+ },
+ {
+  "name": "Jesus Christ",
+  "type": "Character",
+  "aliases": [
+   "Jesus",
+   "Christ"
+  ],
+  "description": "From whom the power of the clergy originates through the chain of ordination; the Host is consecrated as his body.",
+  "evidence": [
+   "the-church::0154",
+   "the-church::0181",
+   "the-church::0182"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pagan god whose temple was broken down and rebuilt as a cathedral in a story seed.",
+  "evidence": [
+   "the-church::0179"
+  ]
+ },
+ {
+  "name": "Pope",
+  "type": "CharacterType",
+  "aliases": [
+   "papacy"
+  ],
+  "description": "Head of the Church and bishop of Rome, elected by a two-thirds majority of the cardinals; successor to the apostle Peter.",
+  "evidence": [
+   "the-church::0122",
+   "the-church::0154",
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Cardinal",
+  "type": "CharacterType",
+  "aliases": [
+   "cardinals"
+  ],
+  "description": "Closest advisors of the pope, appointed by him, who aid him in Rome and act as legates; up to 53 at a time in three ranks.",
+  "evidence": [
+   "the-church::0125",
+   "the-church::0126"
+  ]
+ },
+ {
+  "name": "Cardinal-bishop",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Highest rank of cardinal: the bishops of seven small towns near Rome; the pope is ordained by a cardinal-bishop.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Cardinal-priest",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Rank of cardinal; there can be up to 28.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Cardinal-deacon",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Rank of cardinal; there can be up to 18.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Bishop",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Head of a diocese, highest of the major orders; bishops are elected rather than examined and may grant petitions up to Ease Factor 15.",
+  "evidence": [
+   "the-church::0120",
+   "the-church::0141",
+   "the-church::0221"
+  ]
+ },
+ {
+  "name": "Bishop-baron",
+  "type": "CharacterType",
+  "aliases": [
+   "bishop-baron"
+  ],
+  "description": "A bishop who is also a feudal lord, typically with about 50 vassal knights, entangled in feudal disputes and warfare against canon law.",
+  "evidence": [
+   "the-church::0121",
+   "the-church::0161"
+  ]
+ },
+ {
+  "name": "Archbishop",
+  "type": "CharacterType",
+  "aliases": [
+   "Metropolitan"
+  ],
+  "description": "A bishop (metropolitan) with responsibility over up to a dozen neighboring dioceses forming a province; receives the pallium and Commanding Aura.",
+  "evidence": [
+   "the-church::0134",
+   "the-church::0206"
+  ]
+ },
+ {
+  "name": "Patriarch",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Rank between archbishop and pope; the Latin Church has patriarchs at Jerusalem, Antioch, and Constantinople.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Primate",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Rank sought by ambitious archbishops; several archdioceses are raised to primacies in the 13th century, but the effort to create a superior Western rank fails.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Archdeacon",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The bishop's deputy over an archdeaconry; chief judge of canon law there, holding a travelling court and visitation rights; must be a deacon.",
+  "evidence": [
+   "the-church::0137",
+   "the-church::0157",
+   "the-church::0206"
+  ]
+ },
+ {
+  "name": "Dean",
+  "type": "CharacterType",
+  "aliases": [
+   "Rural dean"
+  ],
+  "description": "Either a rural dean heading a deanery of up to two dozen parishes, or the head of a chapter of canons responsible for its discipline.",
+  "evidence": [
+   "the-church::0138",
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Archpriest",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Older title used by some rural deans.",
+  "evidence": [
+   "the-church::0138"
+  ]
+ },
+ {
+  "name": "Vicar-general",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "New diocesan office in a story seed, created by a bishop to hold a canon court visiting rural parishes in place of the archdeacon.",
+  "evidence": [
+   "the-church::0140"
+  ]
+ },
+ {
+  "name": "Doorkeeper",
+  "type": "CharacterType",
+  "aliases": [
+   "Porter"
+  ],
+  "description": "Lowest minor order, held by young boys training for the Church, who receive a pair of keys at ordination.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0146"
+  ]
+ },
+ {
+  "name": "Lector",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Minor order whose members receive a codex of lessons and now have ceremonial duties.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0147"
+  ]
+ },
+ {
+  "name": "Exorcist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Minor order whose members receive a scroll of exorcism rites and gain +1 to exorcisms.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0148",
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Acolyte",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Greatest of the minor orders, symbolized by an extinguished candlestick and empty vessel; often parish clerks, scribes, or messengers.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0150"
+  ]
+ },
+ {
+  "name": "Sub-deacon",
+  "type": "CharacterType",
+  "aliases": [
+   "subdeacon"
+  ],
+  "description": "Lowest major order; receives paten, chalice, pitcher and basin; serves as parish clerks and canons.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0152"
+  ]
+ },
+ {
+  "name": "Deacon",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Major order symbolized by a stole over the left shoulder; serves as parish clerk, canon, or archdeacon.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0153"
+  ]
+ },
+ {
+  "name": "Priest",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Major order ordained by laying on of hands; successors of Christ's 72 disciples; must be freeborn, legitimate, and at least 25.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0154",
+   "the-church::0155"
+  ]
+ },
+ {
+  "name": "Rector",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The priest who holds a parish benefice, resides in the parish and holds Mass there.",
+  "evidence": [
+   "the-church::0176",
+   "the-church::0190"
+  ]
+ },
+ {
+  "name": "Parish priest",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Representative of the Church in the parish, reciting the liturgy, distributing alms and caring for his congregation.",
+  "evidence": [
+   "the-church::0180",
+   "the-church::0181",
+   "the-church::0221"
+  ]
+ },
+ {
+  "name": "Parish clerk",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Assistant to the parish priest (often an acolyte) who helps with the liturgy and rings bells, paid a yearly wage by parishioners.",
+  "evidence": [
+   "the-church::0184"
+  ]
+ },
+ {
+  "name": "Curate",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Priest who performs the liturgical duties of an absent parish priest for a fraction of the benefice.",
+  "evidence": [
+   "the-church::0186",
+   "the-church::0190"
+  ]
+ },
+ {
+  "name": "Chaplain",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Priest appointed to hold Mass in a chapel.",
+  "evidence": [
+   "the-church::0187",
+   "the-church::0199"
+  ]
+ },
+ {
+  "name": "Co-adjudicator",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Priest appointed by the bishop to perform the duties of an ill, senile, or mad parish priest.",
+  "evidence": [
+   "the-church::0184",
+   "the-church::0185",
+   "the-church::0188"
+  ]
+ },
+ {
+  "name": "Proctor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Representative of bishops, nobles, or religious houses at the papal curia who presents and appeals petitions.",
+  "evidence": [
+   "the-church::0128",
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Papal legate",
+  "type": "CharacterType",
+  "aliases": [
+   "Legate"
+  ],
+  "description": "Representative of the pope, appointed in several grades; legates may have been sent to investigate Hermetic covenants and Tribunals.",
+  "evidence": [
+   "the-church::0124",
+   "the-church::0133"
+  ]
+ },
+ {
+  "name": "Legati a latere",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Highest grade of papal legate, usually cardinals, with the widest powers including decisions binding even the pope.",
+  "evidence": [
+   "the-church::0133"
+  ]
+ },
+ {
+  "name": "Legati missi",
+  "type": "CharacterType",
+  "aliases": [
+   "Nuncio",
+   "Legatus missus"
+  ],
+  "description": "Grade of papal legate (nuncio) given a particular mission, often priests or deacons from the capellani.",
+  "evidence": [
+   "the-church::0133"
+  ]
+ },
+ {
+  "name": "Legati nati",
+  "type": "CharacterType",
+  "aliases": [
+   "Legatus natus",
+   "Vicarii apostolici"
+  ],
+  "description": "Historic title held by some archbishops (vicarii apostolici) that by 1220 carries no real power.",
+  "evidence": [
+   "the-church::0133"
+  ]
+ },
+ {
+  "name": "Vice-Chancellor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Head of the papal chancery since the office of chancellor was suppressed in 1216.",
+  "evidence": [
+   "the-church::0127",
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Notary",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Official who records and standardizes petitions; six serve in the papal chancery, and canon judges employ one.",
+  "evidence": [
+   "the-church::0127",
+   "the-church::0157"
+  ]
+ },
+ {
+  "name": "Abbreviatores",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Assistants to the papal notaries, two or three each.",
+  "evidence": [
+   "the-church::0127"
+  ]
+ },
+ {
+  "name": "Corrector",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Chancery official who approves drafted papal letters; usually two.",
+  "evidence": [
+   "the-church::0127",
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Bullatores",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Chancery officials who hold the papal seal.",
+  "evidence": [
+   "the-church::0127"
+  ]
+ },
+ {
+  "name": "Data communis",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Public reading of petitions performed by the vice-chancellor and notaries.",
+  "evidence": [
+   "the-church::0127"
+  ]
+ },
+ {
+  "name": "Camerlengo",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Director of the papal camera (finances).",
+  "evidence": [
+   "the-church::0129",
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Collector",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Papal financial officials under the camerlengo.",
+  "evidence": [
+   "the-church::0129"
+  ]
+ },
+ {
+  "name": "Thesaurarius",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Administrator of the papal treasure; also an assistant to a chapter's custos.",
+  "evidence": [
+   "the-church::0129",
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Penitentiarius",
+  "type": "CharacterType",
+  "aliases": [
+   "Sub-penitentiarii"
+  ],
+  "description": "Cardinal who deals with appeals to penances, grants dispensations and is confessor to the cardinals, with up to 12 sub-penitentiarii.",
+  "evidence": [
+   "the-church::0130",
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Auditores",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Temporary papal judges appointed case by case who may judge any case or petition brought to the papacy.",
+  "evidence": [
+   "the-church::0130",
+   "the-church::0131"
+  ]
+ },
+ {
+  "name": "Auditor litterarum contradictarum",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Papal official who receives appeals to petitions and arbitrates compromises.",
+  "evidence": [
+   "the-church::0131",
+   "the-church::0128"
+  ]
+ },
+ {
+  "name": "Summoner",
+  "type": "CharacterType",
+  "aliases": [
+   "Apparitor"
+  ],
+  "description": "Official (apparitor) who summons people to canon court, charging fees; prone to corruption.",
+  "evidence": [
+   "the-church::0160"
+  ]
+ },
+ {
+  "name": "Canon",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Member of a chapter of clergy serving an urban church who share common table and property.",
+  "evidence": [
+   "the-church::0203",
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Canoness",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Members of chapters of canonesses in parts of France, Germany and northern Italy, subservient to a chapter of canons.",
+  "evidence": [
+   "the-church::0203"
+  ]
+ },
+ {
+  "name": "Provost",
+  "type": "CharacterType",
+  "aliases": [
+   "Camerarius",
+   "Cellerarius"
+  ],
+  "description": "Historic head of a chapter of canons, assisted by the camerarius and cellerarius; largely disappeared by 1220.",
+  "evidence": [
+   "the-church::0203",
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Cantor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Chapter office responsible for organizing the liturgy and sacred rites.",
+  "evidence": [
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Scholasticus",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Chapter office (or chancellor) responsible for the church school.",
+  "evidence": [
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Custos",
+  "type": "CharacterType",
+  "aliases": [
+   "Sacrista"
+  ],
+  "description": "Chapter office responsible for the church treasury, assisted by thesaurarius and sacrista.",
+  "evidence": [
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Hebdomadarius",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The canon whose weekly turn it is to lead the liturgy.",
+  "evidence": [
+   "the-church::0204"
+  ]
+ },
+ {
+  "name": "Anchorite",
+  "type": "CharacterType",
+  "aliases": [
+   "Anchoress"
+  ],
+  "description": "Male (or anchoress, female) recluse living in a cell in a church devoted to worship.",
+  "evidence": [
+   "the-church::0232"
+  ]
+ },
+ {
+  "name": "Energumen",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A victim possessed by a demon.",
+  "evidence": [
+   "the-church::0148"
+  ]
+ },
+ {
+  "name": "Catechumen",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Adults undergoing instruction in Christianity prior to baptism.",
+  "evidence": [
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Peregrinator",
+  "type": "CharacterType",
+  "aliases": [
+   "Pereginator"
+  ],
+  "description": "Itinerant magus.",
+  "evidence": [
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Quaesitor",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic investigator; a player magus may be made a Quaesitor to act as proctor for the Order at the curia.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0215"
+  ]
+ },
+ {
+  "name": "Magus",
+  "type": "CharacterType",
+  "aliases": [
+   "magi"
+  ],
+  "description": "Hermetic wizard; magi attend councils, owe tithes and may be excommunicated.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0166",
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Covenfolk",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Mundane inhabitants of a covenant who worship at chapels and may be baptized.",
+  "evidence": [
+   "the-church::0135",
+   "the-church::0149",
+   "the-church::0201"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [
+   "Church"
+  ],
+  "description": "The Ecclesiastical hierarchy of Mythic Europe, a bureaucracy whose resources characters may mobilize via petitions.",
+  "evidence": [
+   "the-church::0124",
+   "the-church::0211",
+   "the-church::0139"
+  ]
+ },
+ {
+  "name": "Papal Curia",
+  "type": "Faction",
+  "aliases": [
+   "Curia"
+  ],
+  "description": "The papal court, enlarged and streamlined under Innocent III and Honorius III; receives up to 2,000 petitions yearly and is the final court of appeal.",
+  "evidence": [
+   "the-church::0126",
+   "the-church::0127",
+   "the-church::0157"
+  ]
+ },
+ {
+  "name": "Papal Chancery",
+  "type": "Faction",
+  "aliases": [
+   "Chancery"
+  ],
+  "description": "Office of the curia controlling correspondence between the pope and Christendom.",
+  "evidence": [
+   "the-church::0127"
+  ]
+ },
+ {
+  "name": "Papal Camera",
+  "type": "Faction",
+  "aliases": [
+   "Camera"
+  ],
+  "description": "Office of the curia controlling papal finances, directed by the camerlengo.",
+  "evidence": [
+   "the-church::0129"
+  ]
+ },
+ {
+  "name": "Penitentiaria",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Papal judicial office handling lesser petitions, penances and dispensations.",
+  "evidence": [
+   "the-church::0127",
+   "the-church::0130"
+  ]
+ },
+ {
+  "name": "Capellani",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The college of priests, deacons and sub-deacons serving in Rome; 70 in 1220.",
+  "evidence": [
+   "the-church::0132",
+   "the-church::0133"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of magi; the papacy is in some sense aware of it and may send legates to its covenants and Tribunals.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0124",
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Chapter of Canons",
+  "type": "Faction",
+  "aliases": [
+   "Chapter"
+  ],
+  "description": "Community of clergy serving an urban church who share common table and property; ranges from six to a few dozen canons.",
+  "evidence": [
+   "the-church::0203",
+   "the-church::0235"
+  ]
+ },
+ {
+  "name": "Augustinian Canons",
+  "type": "Faction",
+  "aliases": [
+   "Regular canons"
+  ],
+  "description": "Regular canons following the Rule of Saint Augustine.",
+  "evidence": [
+   "the-church::0203"
+  ]
+ },
+ {
+  "name": "Secular Canons",
+  "type": "Faction",
+  "aliases": [],
+  "description": "More lax chapters of canons who may eat meat, wear linen and own property.",
+  "evidence": [
+   "the-church::0203"
+  ]
+ },
+ {
+  "name": "Military Orders",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Orders of knights whose heads attended Lateran IV; a church may be an outpost of one.",
+  "evidence": [
+   "the-church::0209",
+   "the-church::0231"
+  ]
+ },
+ {
+  "name": "Latin Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Western Church, which has appointed patriarchs at Jerusalem, Antioch, and Constantinople.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Greek Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Eastern Church, which participated little in Lateran IV and is temporarily reunited in 1274.",
+  "evidence": [
+   "the-church::0135",
+   "the-church::0209",
+   "the-church::0210"
+  ]
+ },
+ {
+  "name": "Benedictines",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Monks of a Benedictine monastery in Italy who agree to colonize Henri of Toulouse's new monastery.",
+  "evidence": [
+   "the-church::0218",
+   "the-church::0219"
+  ]
+ },
+ {
+  "name": "Saracens",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Enemies against whom the 1245 council calls a crusade.",
+  "evidence": [
+   "the-church::0210"
+  ]
+ },
+ {
+  "name": "Mongols",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Invaders against whom the 1245 council calls a crusade; can cause a diocese to be in partibus infidelium.",
+  "evidence": [
+   "the-church::0120",
+   "the-church::0210"
+  ]
+ },
+ {
+  "name": "Papal States",
+  "type": "Place",
+  "aliases": [
+   "Italian papal states"
+  ],
+  "description": "Italian territories of the papacy that rebelled against Honorius III.",
+  "evidence": [
+   "the-church::0122"
+  ]
+ },
+ {
+  "name": "Diocese",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Territorial jurisdiction of a bishop, containing several hundred to a thousand parishes.",
+  "evidence": [
+   "the-church::0120",
+   "the-church::0175"
+  ]
+ },
+ {
+  "name": "In partibus infidelium",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Status of a diocese overrun by infidels or lost to catastrophe, whose bishop lives outside it.",
+  "evidence": [
+   "the-church::0120"
+  ]
+ },
+ {
+  "name": "Province",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An archbishop's jurisdiction over neighboring dioceses.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Fila specialis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Dioceses directly subject to Rome rather than to a province.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Archdeaconry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Territorial subset of a diocese under an archdeacon.",
+  "evidence": [
+   "the-church::0137",
+   "the-church::0239"
+  ]
+ },
+ {
+  "name": "Deanery",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Group of up to two dozen rural parishes under a rural dean.",
+  "evidence": [
+   "the-church::0138",
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Parish",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Main unit of Ecclesiastic administration, centered on a parish church.",
+  "evidence": [
+   "the-church::0175",
+   "the-church::0198",
+   "the-church::0202"
+  ]
+ },
+ {
+  "name": "Minster",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Older superior church with aristocratic patronage ruling subordinate churches; some persist in 1220.",
+  "evidence": [
+   "the-church::0135",
+   "the-church::0136"
+  ]
+ },
+ {
+  "name": "Parish church",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Church at the center of parish life, consecrated by the bishop with relics under its altar; base Divine aura 4.",
+  "evidence": [
+   "the-church::0176",
+   "the-church::0224"
+  ]
+ },
+ {
+  "name": "Cathedral",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The church of the bishop, usually the largest in the diocese's main town.",
+  "evidence": [
+   "the-church::0202",
+   "the-church::0224"
+  ]
+ },
+ {
+  "name": "Chapel",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Subordinate church with a chaplain, usually without bells, font or cemetery; Divine aura 3.",
+  "evidence": [
+   "the-church::0187",
+   "the-church::0199",
+   "the-church::0224"
+  ]
+ },
+ {
+  "name": "Private chapel",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Chapel of nobles, castles, or guilds licensed for private use.",
+  "evidence": [
+   "the-church::0200",
+   "the-church::0201"
+  ]
+ },
+ {
+  "name": "Church Auras",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine auras radiating from a church altar as far as the bells can be heard, levels 1 to 5.",
+  "evidence": [
+   "the-church::0178",
+   "the-church::0179",
+   "the-church::0224"
+  ]
+ },
+ {
+  "name": "Commanding Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural power of senior Church officials, received by archbishops, which a magus can resist.",
+  "evidence": [
+   "the-church::0123",
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Pallium",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Archbishop's symbol of office, received from the pope or a papal legate.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Canon law",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Law of the Church based on papal decrees, claiming jurisdiction over religious obligations and moral offenses.",
+  "evidence": [
+   "the-church::0156",
+   "the-church::0159"
+  ]
+ },
+ {
+  "name": "Canon court",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Church courts held by archdeacons, bishops, and the curia, with no jury and no power to shed blood.",
+  "evidence": [
+   "the-church::0157",
+   "the-church::0160"
+  ]
+ },
+ {
+  "name": "Compurgation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Canon court ritual in which about a dozen witnesses swear to the defendant's good character, acquitting him.",
+  "evidence": [
+   "the-church::0158",
+   "the-church::0160",
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Excommunication",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Punishment for repeat serious offenses denying benefit of Sacraments except penance and burial in consecrated ground.",
+  "evidence": [
+   "the-church::0161",
+   "the-church::0216"
+  ]
+ },
+ {
+  "name": "Irregularity",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine punishment of clergy who commit grossly immoral crimes, preventing use of Faith Points until confession.",
+  "evidence": [
+   "the-church::0161"
+  ]
+ },
+ {
+  "name": "Monition",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Official warning, usually for first-time offenders.",
+  "evidence": [
+   "the-church::0161",
+   "the-church::0162"
+  ]
+ },
+ {
+  "name": "Public penance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Canon punishment such as clergy chanting the psalter at each other or providing rushes for the church floor.",
+  "evidence": [
+   "the-church::0161",
+   "the-church::0162"
+  ]
+ },
+ {
+  "name": "Interdict",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Church sanction on a town or kingdom obtainable by petition.",
+  "evidence": [
+   "the-church::0216"
+  ]
+ },
+ {
+  "name": "Shedding of Blood",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Clerics are forbidden to shed blood or be involved in blood punishments, reiterated at Lateran IV.",
+  "evidence": [
+   "the-church::0164",
+   "the-church::0161"
+  ]
+ },
+ {
+  "name": "Simony",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Buying and selling of sacred things, a canon law crime.",
+  "evidence": [
+   "the-church::0167",
+   "the-church::0191"
+  ]
+ },
+ {
+  "name": "Usury",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Charging excessive interest, both a canon and secular crime.",
+  "evidence": [
+   "the-church::0168"
+  ]
+ },
+ {
+  "name": "Sanctuary",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The church, churchyard and cemetery are places where fugitives may shelter for up to 40 days.",
+  "evidence": [
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Slander",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A canon offense since 1215.",
+  "evidence": [
+   "the-church::0173"
+  ]
+ },
+ {
+  "name": "Sorcery",
+  "type": "Concept",
+  "aliases": [
+   "Witchcraft"
+  ],
+  "description": "Minor sorcery occasionally tried in canon courts; serious cases by secular courts.",
+  "evidence": [
+   "the-church::0174"
+  ]
+ },
+ {
+  "name": "Heresy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Heretical belief, prompting more frequent visitation; magi's views are likely heretical to the Church.",
+  "evidence": [
+   "the-church::0166",
+   "the-church::0180",
+   "the-church::0205"
+  ]
+ },
+ {
+  "name": "Tithe",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tenth of income paid to the Church; Hermetic covenants are not exempt.",
+  "evidence": [
+   "the-church::0172",
+   "the-church::0196"
+  ]
+ },
+ {
+  "name": "Benefice",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Income associated with a parish church, assigned to a priest.",
+  "evidence": [
+   "the-church::0190",
+   "the-church::0191",
+   "the-church::0197"
+  ]
+ },
+ {
+  "name": "Pluralism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Practice of a single priest holding several benefices, technically outlawed.",
+  "evidence": [
+   "the-church::0190",
+   "the-church::0191"
+  ]
+ },
+ {
+  "name": "Glebe",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Plot of land forming part of a rural benefice farmed by the priest.",
+  "evidence": [
+   "the-church::0192"
+  ]
+ },
+ {
+  "name": "Servitia communia",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A third of yearly income paid to the papacy by a newly appointed bishop or abbot.",
+  "evidence": [
+   "the-church::0129"
+  ]
+ },
+ {
+  "name": "Perambulation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Procession on Rogation Day in which priest and parishioners walk the parish boundary.",
+  "evidence": [
+   "the-church::0189",
+   "the-church::0193"
+  ]
+ },
+ {
+  "name": "Rogation Day",
+  "type": "Concept",
+  "aliases": [],
+  "description": "April 25th, the day of the perambulation.",
+  "evidence": [
+   "the-church::0189"
+  ]
+ },
+ {
+  "name": "Visitation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Annual inspection of parishes by the bishop or his deputies, using a checklist of about 100 articles.",
+  "evidence": [
+   "the-church::0205",
+   "the-church::0206"
+  ]
+ },
+ {
+  "name": "Visitatio ad Limina",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Canon law requirement that bishops report in person to the pope every four years.",
+  "evidence": [
+   "the-church::0207"
+  ]
+ },
+ {
+  "name": "Synod",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Meeting of clergy convoked by deans, archdeacons, bishops or archbishops.",
+  "evidence": [
+   "the-church::0208",
+   "the-church::0239"
+  ]
+ },
+ {
+  "name": "Ecumenical Council",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Special synod called and presided over by the pope; twelve have been held.",
+  "evidence": [
+   "the-church::0209",
+   "the-church::0210"
+  ]
+ },
+ {
+  "name": "Fourth Lateran Council",
+  "type": "Concept",
+  "aliases": [
+   "Lateran IV"
+  ],
+  "description": "Ecumenical council of 1215 called by Innocent III, reiterating the ban on clerics shedding blood and ordering visitation of heretic parishes.",
+  "evidence": [
+   "the-church::0164",
+   "the-church::0205",
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Third Lateran Council",
+  "type": "Concept",
+  "aliases": [
+   "Lateran III"
+  ],
+  "description": "Council of 1179 that set limits on the retinues of senior clergy.",
+  "evidence": [
+   "the-church::0206",
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Council of Lyons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ecumenical councils held at Lyons in 1245 (deposing Frederick II) and 1274 (temporary reunion with the Greek Church).",
+  "evidence": [
+   "the-church::0209",
+   "the-church::0210"
+  ]
+ },
+ {
+  "name": "Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Holy war; papal taxes are levied for crusades and calling one requires a petition Ease Factor 42.",
+  "evidence": [
+   "the-church::0122",
+   "the-church::0129",
+   "the-church::0216"
+  ]
+ },
+ {
+  "name": "Minor Orders",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Clerical grades of doorkeeper, lector, exorcist and acolyte, who may marry.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0145"
+  ]
+ },
+ {
+  "name": "Major Orders",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Clerical grades of sub-deacon, deacon, priest and bishop, who are celibate.",
+  "evidence": [
+   "the-church::0139",
+   "the-church::0151"
+  ]
+ },
+ {
+  "name": "Ordination",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ceremony marking each step through the orders, requiring an oral examination; also a Sacrament conducted by a bishop.",
+  "evidence": [
+   "the-church::0141",
+   "the-church::0142",
+   "the-church::0183"
+  ]
+ },
+ {
+  "name": "Ordination Examination Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Intelligence + Church Lore or Civil and Canon Law + stress die compared to an Ease Factor per rank.",
+  "evidence": [
+   "the-church::0141",
+   "the-church::0142",
+   "the-church::0143"
+  ]
+ },
+ {
+  "name": "Rapid Ordination",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Acceleration through several grades at once, granting only 1 Faith Point.",
+  "evidence": [
+   "the-church::0144"
+  ]
+ },
+ {
+  "name": "Dispensation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Exception granted by bishop or pope, e.g. for priests not meeting ordination criteria.",
+  "evidence": [
+   "the-church::0154",
+   "the-church::0130"
+  ]
+ },
+ {
+  "name": "Tonsure",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Shaved head worn by all clerical orders.",
+  "evidence": [
+   "the-church::0145",
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Sacraments",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Seven supernatural Divine powers conducted by priests that need not Penetrate but require willing participants.",
+  "evidence": [
+   "the-church::0180",
+   "the-church::0182"
+  ]
+ },
+ {
+  "name": "Baptism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sacrament granting a baptismal name; performed by a priest it dispels non-Divine nonpermanent supernatural effects.",
+  "evidence": [
+   "the-church::0182",
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Baptismal name",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Name received at baptism that cannot be used as a Sympathetic Connection.",
+  "evidence": [
+   "the-church::0180",
+   "the-church::0182"
+  ]
+ },
+ {
+  "name": "Confirmation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sacrament conducted only by a bishop, granting a Faith Point.",
+  "evidence": [
+   "the-church::0182"
+  ]
+ },
+ {
+  "name": "Mass",
+  "type": "Concept",
+  "aliases": [
+   "Eucharist",
+   "Holy Communion"
+  ],
+  "description": "Most sacred Sacrament (Eucharist, Holy Communion) turning bread and wine into the body and blood of Christ.",
+  "evidence": [
+   "the-church::0182",
+   "the-church::0183"
+  ]
+ },
+ {
+  "name": "Marriage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sacrament granting husband and wife a Faith Point.",
+  "evidence": [
+   "the-church::0183"
+  ]
+ },
+ {
+  "name": "Penance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sacrament absolving confessed sins through a penance task, granting a special Confidence Point.",
+  "evidence": [
+   "the-church::0183"
+  ]
+ },
+ {
+  "name": "Extreme Unction",
+  "type": "Concept",
+  "aliases": [
+   "Last Rites"
+  ],
+  "description": "Last Rites absolving mortal sins; the body cannot be affected by other supernatural powers for three days.",
+  "evidence": [
+   "the-church::0180",
+   "the-church::0183"
+  ]
+ },
+ {
+  "name": "Liturgy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The church service in Latin, with the priest facing east before the altar.",
+  "evidence": [
+   "the-church::0181",
+   "the-church::0176"
+  ]
+ },
+ {
+  "name": "Host",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bread consecrated as the body of Christ.",
+  "evidence": [
+   "the-church::0181"
+  ]
+ },
+ {
+  "name": "Faith Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points gained from Sacraments and ordination, usable like Confidence Points.",
+  "evidence": [
+   "the-church::0142",
+   "the-church::0148",
+   "the-church::0167"
+  ]
+ },
+ {
+  "name": "Confidence Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points spent to add +3 to totals such as the Exorcism Total.",
+  "evidence": [
+   "the-church::0148",
+   "the-church::0183"
+  ]
+ },
+ {
+  "name": "Possession",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Demonic control of a victim by investing Infernal Might.",
+  "evidence": [
+   "the-church::0148"
+  ]
+ },
+ {
+  "name": "Exorcism",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine supernatural power to expel a possessing demon; Exorcism Total = stress die + bonuses vs Might invested.",
+  "evidence": [
+   "the-church::0148",
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Relics",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Remains or objects of saints with a Faith Score granting Magic Resistance and an aura hostile to the Infernal.",
+  "evidence": [
+   "the-church::0167",
+   "the-church::0176",
+   "the-church::0227"
+  ]
+ },
+ {
+  "name": "Faith Score",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rating of a relic determining its Faith Points and Divine Might.",
+  "evidence": [
+   "the-church::0167",
+   "the-church::0227"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Resistance that exorcism must Penetrate; granted by holding a relic.",
+  "evidence": [
+   "the-church::0149",
+   "the-church::0167"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Requirement for supernatural effects to overcome Magic Resistance.",
+  "evidence": [
+   "the-church::0149",
+   "the-church::0180",
+   "the-church::0182"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Infernal Might",
+   "Divine Might"
+  ],
+  "description": "Supernatural power score of creatures; Divine and Infernal Might.",
+  "evidence": [
+   "the-church::0148",
+   "the-church::0167"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura that affects totals; church auras are Divine.",
+  "evidence": [
+   "the-church::0149",
+   "the-church::0178",
+   "the-church::0201"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "Infernal regio"
+  ],
+  "description": "Supernatural region; covenants hidden in one need not pay tithe.",
+  "evidence": [
+   "the-church::0179",
+   "the-church::0196",
+   "the-church::0184"
+  ]
+ },
+ {
+  "name": "Petitioning the Church",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rules for convincing the Church to act, generating a Petition Total vs an Ease Factor.",
+  "evidence": [
+   "the-church::0211",
+   "the-church::0213",
+   "the-church::0216"
+  ]
+ },
+ {
+  "name": "Petition Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Com (written) or Pre (audience) + Church Lore + modifiers, with no die roll.",
+  "evidence": [
+   "the-church::0213",
+   "the-church::0217"
+  ]
+ },
+ {
+  "name": "Appealing a Petition",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Overturning another's petition requires original Petition Total + 3.",
+  "evidence": [
+   "the-church::0222"
+  ]
+ },
+ {
+  "name": "Argument Success",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Int + Ability + stress die vs 9 to gain petition modifiers.",
+  "evidence": [
+   "the-church::0213"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characters gain or lose Church Lore or Civil and Canon Law reputation from ordination exams; affects petitions.",
+  "evidence": [
+   "the-church::0142",
+   "the-church::0214"
+  ]
+ },
+ {
+  "name": "Social Status",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Gained appropriately on ordination.",
+  "evidence": [
+   "the-church::0142"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural gift of magi causing social penalties, applied to audience petitions.",
+  "evidence": [
+   "the-church::0193",
+   "the-church::0217"
+  ]
+ },
+ {
+  "name": "Wizard War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic sanctioned conflict between magi.",
+  "evidence": [
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Interference in the mundane",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic crime a magus may be prosecuted for.",
+  "evidence": [
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Covenant",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Home of magi; may hold benefices, chapels, and owe tithes.",
+  "evidence": [
+   "the-church::0136",
+   "the-church::0191",
+   "the-church::0201"
+  ]
+ },
+ {
+  "name": "Tribunal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic regional meeting that papal legates may have investigated.",
+  "evidence": [
+   "the-church::0124",
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magical raw power; churches may control vis sources, usually Divine-tainted.",
+  "evidence": [
+   "the-church::0229"
+  ]
+ },
+ {
+  "name": "Enchanted Items",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magic items churches may possess, costing 1 Build Point per level.",
+  "evidence": [
+   "the-church::0226"
+  ]
+ },
+ {
+  "name": "Build Points",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Points used to purchase church resources as for covenants.",
+  "evidence": [
+   "the-church::0223",
+   "the-church::0224"
+  ]
+ },
+ {
+  "name": "Hooks",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story elements for churches that provide points for Boons.",
+  "evidence": [
+   "the-church::0223",
+   "the-church::0224",
+   "the-church::0230"
+  ]
+ },
+ {
+  "name": "Boons",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Advantages for churches or covenants bought with Hook points.",
+  "evidence": [
+   "the-church::0223",
+   "the-church::0224",
+   "the-church::0230"
+  ]
+ },
+ {
+  "name": "Specialists",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characters serving the Church in limited ways, bought with Build Points.",
+  "evidence": [
+   "the-church::0228"
+  ]
+ },
+ {
+  "name": "Typical Source of Income",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Income level granted by some Boons.",
+  "evidence": [
+   "the-church::0191",
+   "the-church::0233"
+  ]
+ },
+ {
+  "name": "Archdeacon Agent",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Major Covenant Boon: the local archdeacon is an agent of the covenant.",
+  "evidence": [
+   "the-church::0136"
+  ]
+ },
+ {
+  "name": "Holder of Benefices",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor Covenant Boon: the covenant holds parish benefices.",
+  "evidence": [
+   "the-church::0191",
+   "the-church::0192"
+  ]
+ },
+ {
+  "name": "Covenant Chapel",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Covenant Boon: a private chapel with a Divine aura of 3 at the covenant; +20 to Loyalty.",
+  "evidence": [
+   "the-church::0200",
+   "the-church::0201"
+  ]
+ },
+ {
+  "name": "Military Order (Church Boon)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Major Church Boon: the church is an outpost of a military order.",
+  "evidence": [
+   "the-church::0231"
+  ]
+ },
+ {
+  "name": "Anchorite (Church Boon)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor Church Boon: an anchorite's cell raising the Divine aura by 1.",
+  "evidence": [
+   "the-church::0232"
+  ]
+ },
+ {
+  "name": "Burial Rights",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor Church Boon: large cemetery collecting burial fees.",
+  "evidence": [
+   "the-church::0233"
+  ]
+ },
+ {
+  "name": "Chantry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor Church Boon: income from reciting Masses for the dead.",
+  "evidence": [
+   "the-church::0234"
+  ]
+ },
+ {
+  "name": "Chapter of Canons (Church Boon)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor Church Boon: the priests form a chapter holding benefices.",
+  "evidence": [
+   "the-church::0235"
+  ]
+ },
+ {
+  "name": "Church School",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Minor Church Boon: a school attached to the church.",
+  "evidence": [
+   "the-church::0236",
+   "the-church::0146"
+  ]
+ },
+ {
+  "name": "Corrupt",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Major Church Hook: corrupt priests give the church an Infernal aura.",
+  "evidence": [
+   "the-church::0237"
+  ]
+ },
+ {
+  "name": "Heretics",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Major Church Hook: priests with heretical beliefs.",
+  "evidence": [
+   "the-church::0238"
+  ]
+ },
+ {
+  "name": "Jurisdiction",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Major Church Hook: the church has jurisdiction over many subordinate churches.",
+  "evidence": [
+   "the-church::0239"
+  ]
+ },
+ {
+  "name": "Rule of Saint Augustine",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Monk-like rule followed by regular canons.",
+  "evidence": [
+   "the-church::0203"
+  ]
+ },
+ {
+  "name": "Longevity potion",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Magus potion that may sterilize, technically a canon offense.",
+  "evidence": [
+   "the-church::0165"
+  ]
+ },
+ {
+  "name": "Boundary target",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Spell target that can affect a well-defined parish or diocese.",
+  "evidence": [
+   "the-church::0192",
+   "the-church::0193"
+  ]
+ },
+ {
+  "name": "Structure target",
+  "type": "Concept",
+  "aliases": [
+   "Room"
+  ],
+  "description": "Target that can affect an entire church; nave and tower floors count as Rooms.",
+  "evidence": [
+   "the-church::0179"
+  ]
+ },
+ {
+  "name": "Sympathetic Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Link aiding Penetration, which a baptismal name cannot provide.",
+  "evidence": [
+   "the-church::0180"
+  ]
+ },
+ {
+  "name": "Ordeals",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Trials clerics may not be involved in.",
+  "evidence": [
+   "the-church::0164"
+  ]
+ },
+ {
+  "name": "Proctor of Hermes",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed position: a magus Quaesitor representing the Order at the papal curia.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "License of Absence",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Virtue allowing a priest with a benefice to be absent.",
+  "evidence": [
+   "the-church::0191"
+  ]
+ },
+ {
+  "name": "Gentle Gift",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue ideal for a magus acting as proctor for the Order.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Divine",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of God; Sacraments, exorcism and church auras are Divine.",
+  "evidence": [
+   "the-church::0149",
+   "the-church::0180",
+   "the-church::0178"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of demons; relics are hostile to it and corrupt churches have Infernal auras.",
+  "evidence": [
+   "the-church::0148",
+   "the-church::0167",
+   "the-church::0237"
+  ]
+ },
+ {
+  "name": "Magic",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Magic Realm, reachable via a temple gateway in a story seed.",
+  "evidence": [
+   "the-church::0179"
+  ]
+ },
+ {
+  "name": "The Great Discord",
+  "type": "Spell",
+  "aliases": [],
+  "description": "CrVi 55 Ritual that taints a parish so everyone suffers The Gift's social penalties for a Moon.",
+  "evidence": [
+   "the-church::0193",
+   "the-church::0194"
+  ]
+ },
+ {
+  "name": "Decretum",
+  "type": "Item",
+  "aliases": [],
+  "description": "Gratian's compendium of papal decrees; Civil and Canon Law Summa Level 5 Quality 11.",
+  "evidence": [
+   "the-church::0156"
+  ]
+ },
+ {
+  "name": "Homilia Leonis",
+  "type": "Item",
+  "aliases": [],
+  "description": "Church Lore Tractatus Quality 8 by Pope Leo IV listing visitation articles.",
+  "evidence": [
+   "the-church::0205"
+  ]
+ },
+ {
+  "name": "The Bible",
+  "type": "Item",
+  "aliases": [
+   "Bible"
+  ],
+  "description": "Summa of Theology Level 10 Quality 3 and Church Lore Level 3.",
+  "evidence": [
+   "the-church::0225"
+  ]
+ },
+ {
+  "name": "Parish Register",
+  "type": "Item",
+  "aliases": [],
+  "description": "Summa of Area Lore of the parish, Quality 5.",
+  "evidence": [
+   "the-church::0225"
+  ]
+ },
+ {
+  "name": "Missal",
+  "type": "Item",
+  "aliases": [],
+  "description": "Tractatus in Church Lore and Music with the text for Mass; every church has one.",
+  "evidence": [
+   "the-church::0225",
+   "the-church::0215"
+  ]
+ },
+ {
+  "name": "Breviary",
+  "type": "Item",
+  "aliases": [],
+  "description": "Church Lore Tractatus with prayers for canonical hours.",
+  "evidence": [
+   "the-church::0225"
+  ]
+ },
+ {
+  "name": "Codex of lessons",
+  "type": "Item",
+  "aliases": [],
+  "description": "Church Lore Tractatus received by lectors at ordination.",
+  "evidence": [
+   "the-church::0147"
+  ]
+ },
+ {
+  "name": "Scroll of exorcism rites",
+  "type": "Item",
+  "aliases": [],
+  "description": "Received by exorcists at ordination.",
+  "evidence": [
+   "the-church::0148",
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Holy water",
+  "type": "Item",
+  "aliases": [],
+  "description": "Adds +1 to exorcism.",
+  "evidence": [
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Crucifix",
+  "type": "Item",
+  "aliases": [],
+  "description": "Adds +1 to exorcism.",
+  "evidence": [
+   "the-church::0149"
+  ]
+ },
+ {
+  "name": "Stole",
+  "type": "Item",
+  "aliases": [],
+  "description": "Symbol of deacon and priest office.",
+  "evidence": [
+   "the-church::0153",
+   "the-church::0155"
+  ]
+ },
+ {
+  "name": "Paten",
+  "type": "Item",
+  "aliases": [
+   "Chalice"
+  ],
+  "description": "Plate for bread given to sub-deacons with a chalice.",
+  "evidence": [
+   "the-church::0152"
+  ]
+ },
+ {
+  "name": "Papal seal",
+  "type": "Item",
+  "aliases": [],
+  "description": "Held by the bullatores.",
+  "evidence": [
+   "the-church::0127"
+  ]
+ },
+ {
+  "name": "Baptismal font",
+  "type": "Item",
+  "aliases": [],
+  "description": "Font in parish churches; baptism there grants a Faith Point.",
+  "evidence": [
+   "the-church::0182",
+   "the-church::0199"
+  ]
+ },
+ {
+  "name": "Church Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of liturgies used in ordination and petitions.",
+  "evidence": [
+   "the-church::0141",
+   "the-church::0213",
+   "the-church::0217"
+  ]
+ },
+ {
+  "name": "Civil and Canon Law",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Knowledge of canon used for ordination and petition arguments.",
+  "evidence": [
+   "the-church::0141",
+   "the-church::0142",
+   "the-church::0214"
+  ]
+ },
+ {
+  "name": "Artes Liberales",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Includes Logic for petition arguments.",
+  "evidence": [
+   "the-church::0214",
+   "the-church::0220"
+  ]
+ },
+ {
+  "name": "Intrigue",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability for petition arguments.",
+  "evidence": [
+   "the-church::0214"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability gained through visitation.",
+  "evidence": [
+   "the-church::0206",
+   "the-church::0225"
+  ]
+ },
+ {
+  "name": "Ride",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability gained through visitation.",
+  "evidence": [
+   "the-church::0206"
+  ]
+ },
+ {
+  "name": "Theology",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Subject of church libraries and the Bible.",
+  "evidence": [
+   "the-church::0225"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Subject of the missal.",
+  "evidence": [
+   "the-church::0225"
+  ]
+ },
+ {
+  "name": "Latin",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Needed to read exorcism rites.",
+  "evidence": [
+   "the-church::0149",
+   "the-church::0166"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of The Great Discord.",
+  "evidence": [
+   "the-church::0193"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of The Great Discord.",
+  "evidence": [
+   "the-church::0193"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique used with Mentem to sway clergy.",
+  "evidence": [
+   "the-church::0166",
+   "the-church::0215"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form used to sway clergy.",
+  "evidence": [
+   "the-church::0166",
+   "the-church::0215"
+  ]
+ },
+ {
+  "name": "Intellego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique for scrying as magical evidence.",
+  "evidence": [
+   "the-church::0215"
+  ]
+ },
+ {
+  "name": "Intelligence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characteristic used in ordination and argument rolls.",
+  "evidence": [
+   "the-church::0142",
+   "the-church::0213"
+  ]
+ },
+ {
+  "name": "Communication",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characteristic for written petitions.",
+  "evidence": [
+   "the-church::0217"
+  ]
+ },
+ {
+  "name": "Presence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characteristic for audience petitions.",
+  "evidence": [
+   "the-church::0217"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "Seat of the pope; rebelled against Honorius III.",
+  "evidence": [
+   "the-church::0122",
+   "the-church::0209",
+   "the-church::0217"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting.",
+  "evidence": [
+   "the-church::0124",
+   "the-church::0139"
+  ]
+ },
+ {
+  "name": "Holy Land",
+  "type": "Place",
+  "aliases": [],
+  "description": "Goal of crusade recovery.",
+  "evidence": [
+   "the-church::0122"
+  ]
+ },
+ {
+  "name": "Ostia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cardinal-bishop town near Rome.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Porto",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cardinal-bishop town.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Silva Candida",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cardinal-bishop town.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Albano",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cardinal-bishop town.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Sabina",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cardinal-bishop town.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Tusculum",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cardinal-bishop town.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Palestrina",
+  "type": "Place",
+  "aliases": [],
+  "description": "Cardinal-bishop town.",
+  "evidence": [
+   "the-church::0125"
+  ]
+ },
+ {
+  "name": "Saint XII Apostoli",
+  "type": "Place",
+  "aliases": [],
+  "description": "Titular church of Stefano di Cecanno.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Saint Sabina",
+  "type": "Place",
+  "aliases": [],
+  "description": "Titular church of Tommaso da Capua.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Scotland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Mostly fila specialis dioceses.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Leon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese subject to Rome.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Cartagena",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese subject to Rome.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Burgos",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese subject to Rome.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Bamberg",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese subject to Rome.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Pavia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese subject to Rome.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Ferrara",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese subject to Rome.",
+  "evidence": [
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "Jerusalem",
+  "type": "Place",
+  "aliases": [],
+  "description": "Latin patriarchate.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Antioch",
+  "type": "Place",
+  "aliases": [],
+  "description": "Latin patriarchate.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Constantinople",
+  "type": "Place",
+  "aliases": [],
+  "description": "Latin patriarchate and council site.",
+  "evidence": [
+   "the-church::0135",
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Mainz",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archdiocese raised to primacy; 22 archdeacons.",
+  "evidence": [
+   "the-church::0135",
+   "the-church::0137"
+  ]
+ },
+ {
+  "name": "Cologne",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archdiocese; four archdeacons.",
+  "evidence": [
+   "the-church::0135",
+   "the-church::0137"
+  ]
+ },
+ {
+  "name": "Trier",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archdiocese raised to primacy.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Magdeburg",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archdiocese raised to primacy.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Salzburg",
+  "type": "Place",
+  "aliases": [],
+  "description": "Archdiocese raised to primacy.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Saint Andrew's",
+  "type": "Place",
+  "aliases": [],
+  "description": "Scottish archdiocese raised to primacy.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Armagh",
+  "type": "Place",
+  "aliases": [],
+  "description": "Irish archdiocese.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Lund",
+  "type": "Place",
+  "aliases": [],
+  "description": "Scandinavian archdiocese.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Gniezno",
+  "type": "Place",
+  "aliases": [],
+  "description": "Polish archdiocese.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Toledo",
+  "type": "Place",
+  "aliases": [],
+  "description": "Spanish archdiocese.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Tarragona",
+  "type": "Place",
+  "aliases": [],
+  "description": "Spanish archdiocese.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Esztergom",
+  "type": "Place",
+  "aliases": [],
+  "description": "Hungarian archdiocese.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Canterbury",
+  "type": "Place",
+  "aliases": [],
+  "description": "Diocese with one archdeacon.",
+  "evidence": [
+   "the-church::0137"
+  ]
+ },
+ {
+  "name": "Constance",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ten archdeacons.",
+  "evidence": [
+   "the-church::0137"
+  ]
+ },
+ {
+  "name": "Munster",
+  "type": "Place",
+  "aliases": [],
+  "description": "34 archdeacons.",
+  "evidence": [
+   "the-church::0137"
+  ]
+ },
+ {
+  "name": "Hildesheim",
+  "type": "Place",
+  "aliases": [],
+  "description": "40 archdeacons.",
+  "evidence": [
+   "the-church::0137"
+  ]
+ },
+ {
+  "name": "London",
+  "type": "Place",
+  "aliases": [],
+  "description": "City with over 100 parishes.",
+  "evidence": [
+   "the-church::0184",
+   "the-church::0202"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "aliases": [],
+  "description": "City with over 100 parishes.",
+  "evidence": [
+   "the-church::0202"
+  ]
+ },
+ {
+  "name": "Florence",
+  "type": "Place",
+  "aliases": [],
+  "description": "City with over 100 parishes.",
+  "evidence": [
+   "the-church::0202"
+  ]
+ },
+ {
+  "name": "Lyons",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of councils 1245 and 1274.",
+  "evidence": [
+   "the-church::0209",
+   "the-church::0210"
+  ]
+ },
+ {
+  "name": "Long Melford",
+  "type": "Place",
+  "aliases": [],
+  "description": "Parish petitioning to move feast days in 1220.",
+  "evidence": [
+   "the-church::0219",
+   "the-church::0220"
+  ]
+ },
+ {
+  "name": "Toulouse",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of Henri of Toulouse.",
+  "evidence": [
+   "the-church::0218"
+  ]
+ },
+ {
+  "name": "Siena",
+  "type": "Place",
+  "aliases": [],
+  "description": "Home of Bandinus.",
+  "evidence": [
+   "the-church::0123"
+  ]
+ },
+ {
+  "name": "Nicaea",
+  "type": "Place",
+  "aliases": [],
+  "description": "Site of councils 325 and 787.",
+  "evidence": [
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Ephesus",
+  "type": "Place",
+  "aliases": [],
+  "description": "Council 431.",
+  "evidence": [
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Chalcedon",
+  "type": "Place",
+  "aliases": [],
+  "description": "Council 451.",
+  "evidence": [
+   "the-church::0209"
+  ]
+ },
+ {
+  "name": "Temple of Mercury",
+  "type": "Place",
+  "aliases": [],
+  "description": "Roman temple rebuilt as a cathedral, potentially a regio gateway.",
+  "evidence": [
+   "the-church::0179"
+  ]
+ },
+ {
+  "name": "Germany",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region with bishop-barons.",
+  "evidence": [
+   "the-church::0121",
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Spain",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region with bishop-barons.",
+  "evidence": [
+   "the-church::0121",
+   "the-church::0134"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-church::0121",
+   "the-church::0203"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-church::0121",
+   "the-church::0178"
+  ]
+ },
+ {
+  "name": "Italy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-church::0134",
+   "the-church::0203"
+  ]
+ },
+ {
+  "name": "Ireland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Scandinavia",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Poland",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ },
+ {
+  "name": "Hungary",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region.",
+  "evidence": [
+   "the-church::0135"
+  ]
+ }
+]

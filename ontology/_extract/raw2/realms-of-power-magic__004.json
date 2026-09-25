@@ -1,0 +1,3503 @@
+[
+ {
+  "name": "Magical Giants",
+  "type": "Creature",
+  "aliases": [
+   "Giants",
+   "Giant"
+  ],
+  "description": "Large humanoid beings of the Magic Realm, from Size +2 to about +6, usually boorish and cruel, affected by Corpus and Mentem and defined by the Gigantic Quality.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0481",
+   "realms-of-power-magic::0482"
+  ]
+ },
+ {
+  "name": "Goëmagot",
+  "type": "Character",
+  "aliases": [
+   "Goemagot"
+  ],
+  "description": "A monstrous giant twelve cubits tall from Geoffrey of Monmouth's history, who slaughtered Britons with twenty companions.",
+  "evidence": [
+   "realms-of-power-magic::0480"
+  ]
+ },
+ {
+  "name": "Geoffrey of Monmouth",
+  "type": "Character",
+  "aliases": [],
+  "description": "Historian (c. 1100-1154) who wrote the History of the Kings of Britain and claimed giants were Britain's original inhabitants.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0481"
+  ]
+ },
+ {
+  "name": "Nephilim",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Giants belonging to the Divine and Infernal Realms, described as 300 cubits tall (Size +18).",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0487"
+  ]
+ },
+ {
+  "name": "Primeval Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Immense giants of many mythologies, children of the Protogonoi and ancestors of Gods and Daimons, ranked by theurgists as kosmokrators; comparable in power to Archangels.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483",
+   "realms-of-power-magic::0484"
+  ]
+ },
+ {
+  "name": "Protogonoi",
+  "type": "Creature",
+  "aliases": [
+   "Protogonos"
+  ],
+  "description": "Primal spirits whose children are the primeval giants; Ouranos, Ge and Ymir are examples.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Kosmokrators",
+  "type": "Creature",
+  "aliases": [
+   "Kosmokrator"
+  ],
+  "description": "A rank of primal spirit used to model primeval giants, beings the size of mountain ranges or larger.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Titans",
+  "type": "Creature",
+  "aliases": [],
+  "description": "In Greek myth the children of Ouranos and Ge; the six male Titans govern time in the Magic realm and their wives control natural forces.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Ouranos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Protogonos of Greek myth, father of the Titans with Ge.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Ge",
+  "type": "Character",
+  "aliases": [],
+  "description": "Protogonos of Greek myth, mother of the Titans with Ouranos.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Hyperion",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titan who establishes day and night.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Krios",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titan who orders the heavenly constellations.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Koios",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titan who rules the axis of the heavens.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Iapetos",
+  "type": "Character",
+  "aliases": [],
+  "description": "The Titan of mortality.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Kronos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titan who rules all-devouring time.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Okeanos",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titan who regulates the motion of the tides.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Theia",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titaness who is the brilliant sky.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Eurybia",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titaness, mistress of the weather.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Phoibe",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titaness who is the prophetic earth.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Klymene",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titaness who is the underworld's cavern.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Rhea",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titaness who is the fecundity of nature.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Tethys",
+  "type": "Character",
+  "aliases": [],
+  "description": "Titaness who is the power of the waters under the earth.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Ymir",
+  "type": "Character",
+  "aliases": [],
+  "description": "The Protogonos of the Norse lands, a primordial giant slain by the gods whose body formed the world; progenitor of two races of kosmokrators.",
+  "evidence": [
+   "realms-of-power-magic::0483",
+   "realms-of-power-magic::0497"
+  ]
+ },
+ {
+  "name": "Logi",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norse kosmokrator giant embodying devastating wild fire, of Ymir's first hostile brood.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Gymir",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norse kosmokrator giant of the icy winds of winter, of Ymir's first brood.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Aegir",
+  "type": "Character",
+  "aliases": [],
+  "description": "Norse kosmokrator giant of the storm-lashed sea, of Ymir's first brood.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Mimir",
+  "type": "Character",
+  "aliases": [],
+  "description": "Wise counselor of the gods, of Ymir's second, friendlier brood.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Urd",
+  "type": "Character",
+  "aliases": [],
+  "description": "The Weaver, representing time and fate, of Ymir's second brood.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Natt",
+  "type": "Character",
+  "aliases": [],
+  "description": "Daughter of Mimir and Urd, the all-enshrouding night.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Fomoire",
+  "type": "Creature",
+  "aliases": [],
+  "description": "The first inhabitants of Celtic lands, children of the chthonic titan Domnu.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Domnu",
+  "type": "Character",
+  "aliases": [],
+  "description": "Chthonic titan of darkness and fertility, mother of the Fomoire.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Balor",
+  "type": "Character",
+  "aliases": [],
+  "description": "All-seeing Fomoire with a baleful eye.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Indech",
+  "type": "Character",
+  "aliases": [],
+  "description": "Fomoire king.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Cichol the Footless",
+  "type": "Character",
+  "aliases": [],
+  "description": "One of the Fomoire.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Eithne",
+  "type": "Character",
+  "aliases": [],
+  "description": "Prophetic member of the Fomoire.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Lot",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hideous ogress of the Fomoire.",
+  "evidence": [
+   "realms-of-power-magic::0483"
+  ]
+ },
+ {
+  "name": "Archangels",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Mighty beings to which primeval giants are comparable in power.",
+  "evidence": [
+   "realms-of-power-magic::0484"
+  ]
+ },
+ {
+  "name": "Chrétien de Troyes",
+  "type": "Character",
+  "aliases": [],
+  "description": "Author of epic poems about the Knights of the Round Table in which giants appear as brutish villains.",
+  "evidence": [
+   "realms-of-power-magic::0484"
+  ]
+ },
+ {
+  "name": "Knights of the Round Table",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Heroes of medieval romances who fight giants.",
+  "evidence": [
+   "realms-of-power-magic::0484"
+  ]
+ },
+ {
+  "name": "Sir Yvain",
+  "type": "Character",
+  "aliases": [
+   "Yvain"
+  ],
+  "description": "Romance hero who struck the giant Harpin of Mountain in the face with his sword while mounted.",
+  "evidence": [
+   "realms-of-power-magic::0484"
+  ]
+ },
+ {
+  "name": "Harpin of Mountain",
+  "type": "Character",
+  "aliases": [],
+  "description": "Giant from the romances, probably Size +3 or less.",
+  "evidence": [
+   "realms-of-power-magic::0484",
+   "realms-of-power-magic::0485"
+  ]
+ },
+ {
+  "name": "Barcas",
+  "type": "Character",
+  "aliases": [
+   "Barcas the Giant"
+  ],
+  "description": "Example magical giant (Might 16 Terram), a boastful wrestler nearly invulnerable to metal except for a spot below his sternum; based on Ferragus.",
+  "evidence": [
+   "realms-of-power-magic::0485",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0496"
+  ]
+ },
+ {
+  "name": "Ferragus",
+  "type": "Character",
+  "aliases": [],
+  "description": "A giant who fought Roland in the pseudo-Turpin romance; the basis for Barcas.",
+  "evidence": [
+   "realms-of-power-magic::0485"
+  ]
+ },
+ {
+  "name": "Roland",
+  "type": "Character",
+  "aliases": [],
+  "description": "Hero of the History of the Life of Charlemagne and Roland who fought Ferragus.",
+  "evidence": [
+   "realms-of-power-magic::0485"
+  ]
+ },
+ {
+  "name": "Goliath of Gath",
+  "type": "Character",
+  "aliases": [
+   "Goliath"
+  ],
+  "description": "The most famous giant in Mythic Europe, from the Bible, nine and a half feet tall (Size +2).",
+  "evidence": [
+   "realms-of-power-magic::0487"
+  ]
+ },
+ {
+  "name": "Cain",
+  "type": "Character",
+  "aliases": [],
+  "description": "Biblical figure; some folk believe giants are his accursed descendants.",
+  "evidence": [
+   "realms-of-power-magic::0481"
+  ]
+ },
+ {
+  "name": "Jotunnar",
+  "type": "Creature",
+  "aliases": [
+   "Jotunn",
+   "Jotunarr",
+   "Norse Giants"
+  ],
+  "description": "The Norse giants spawned from Ymir, including frost, mountain, sea, storm and fire giants; affiliated with elemental Forms and all possessing magical powers.",
+  "evidence": [
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0498"
+  ]
+ },
+ {
+  "name": "Frost Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norse giants associated with Aquam that have Greater Immunity to cold.",
+  "evidence": [
+   "realms-of-power-magic::0497"
+  ]
+ },
+ {
+  "name": "Fire Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norse giants dwelling in Muspelheim with Greater Immunity to fire.",
+  "evidence": [
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0498"
+  ]
+ },
+ {
+  "name": "Sea Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norse giants who can breathe underwater.",
+  "evidence": [
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0498"
+  ]
+ },
+ {
+  "name": "Mountain Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norse giants associated with Terram who have Terram Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0498"
+  ]
+ },
+ {
+  "name": "Storm Giants",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Norse giants with Auram Resistance and Lesser Immunity to lightning; Rok is one.",
+  "evidence": [
+   "realms-of-power-magic::0498",
+   "realms-of-power-magic::0500"
+  ]
+ },
+ {
+  "name": "Trolls",
+  "type": "Creature",
+  "aliases": [
+   "Troll"
+  ],
+  "description": "Scandinavian trolls related to the Jotunnar: ugly or misshapen giants of Size +2 to +4, sometimes with claws or tusks.",
+  "evidence": [
+   "realms-of-power-magic::0498"
+  ]
+ },
+ {
+  "name": "Rok",
+  "type": "Character",
+  "aliases": [
+   "Rok, the Storm Giant"
+  ],
+  "description": "A storm giant (Might 28 Auram) about 15 feet tall who conjures winds and hail; allied with a ship captain to raise storms against rival merchants.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0500",
+   "realms-of-power-magic::0502"
+  ]
+ },
+ {
+  "name": "Morag",
+  "type": "Character",
+  "aliases": [],
+  "description": "A giant driven from his mountain home by diabolists who has taken to robbery and holds a knight hostage in a cave.",
+  "evidence": [
+   "realms-of-power-magic::0501"
+  ]
+ },
+ {
+  "name": "Diabolists",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Infernal practitioners who drove the giant Morag from his home.",
+  "evidence": [
+   "realms-of-power-magic::0501"
+  ]
+ },
+ {
+  "name": "Spirit Votary",
+  "type": "Virtue",
+  "aliases": [
+   "Spirit Votaries"
+  ],
+  "description": "Free Supernatural Virtue making a character a Mythic Companion devoted to a magical spirit; grants Second Sight and requires Spiritual Pact and the Pagan Flaw.",
+  "evidence": [
+   "realms-of-power-magic::0504",
+   "realms-of-power-magic::0505",
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Mythic Companion",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A special type of character that takes the place of a player's magus character.",
+  "evidence": [
+   "realms-of-power-magic::0505"
+  ]
+ },
+ {
+  "name": "Spiritual Pact",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue: a pact with a powerful Magical spirit letting the character channel a Might Pool to use the spirit's powers.",
+  "evidence": [
+   "realms-of-power-magic::0505",
+   "realms-of-power-magic::0506",
+   "realms-of-power-magic::0507"
+  ]
+ },
+ {
+  "name": "Might Pool",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pool of Might points spent to use supernatural powers; Spiritual Pact grants one without a Might score.",
+  "evidence": [
+   "realms-of-power-magic::0506",
+   "realms-of-power-magic::0507",
+   "realms-of-power-magic::0508"
+  ]
+ },
+ {
+  "name": "Lise",
+  "type": "Character",
+  "aliases": [],
+  "description": "A Spirit Votary and Warped priestess of the Dark Mother, aged 129, who seeks revenge against the Church after mistreatment by a priest.",
+  "evidence": [
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0510",
+   "realms-of-power-magic::0511"
+  ]
+ },
+ {
+  "name": "Dark Mother",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A chthonic spirit of the deep forest and fertile earth who resents the Church; Lise is her only priestess.",
+  "evidence": [
+   "realms-of-power-magic::0511"
+  ]
+ },
+ {
+  "name": "Stasis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A spirit power that extends life; Lise lives under it but cannot leave a Magic aura without aging dramatically.",
+  "evidence": [
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0511",
+   "realms-of-power-magic::0512"
+  ]
+ },
+ {
+  "name": "Magic Kin",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Families or groups of characters aligned with Magic sharing inherited qualities and powers.",
+  "evidence": [
+   "realms-of-power-magic::0513"
+  ]
+ },
+ {
+  "name": "Atlanteans",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creatures of Magic living in the deep ocean; those brought to the surface are exiled from their society.",
+  "evidence": [
+   "realms-of-power-magic::0514",
+   "realms-of-power-magic::0515",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Atlantis",
+  "type": "Place",
+  "aliases": [],
+  "description": "Drowned continent and sunken city said to be home to the Atlanteans and their king.",
+  "evidence": [
+   "realms-of-power-magic::0514",
+   "realms-of-power-magic::0519"
+  ]
+ },
+ {
+  "name": "Mermaids",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Sea beings whose stories Merinita magi believe derive from garbled tales of Atlanteans.",
+  "evidence": [
+   "realms-of-power-magic::0514"
+  ]
+ },
+ {
+  "name": "Pavania",
+  "type": "Character",
+  "aliases": [],
+  "description": "A self-proclaimed princess of Atlantis caught by fishermen who demands magi remove 'the taint of the surface world.'",
+  "evidence": [
+   "realms-of-power-magic::0519"
+  ]
+ },
+ {
+  "name": "King of Atlantis",
+  "type": "Character",
+  "aliases": [],
+  "description": "Pavania's father, ruler of sunken Atlantis.",
+  "evidence": [
+   "realms-of-power-magic::0519"
+  ]
+ },
+ {
+  "name": "Flame Dancers",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Magic kin possessed by the power of fire who love fires and flesh and dance tirelessly around bonfires.",
+  "evidence": [
+   "realms-of-power-magic::0520",
+   "realms-of-power-magic::0521",
+   "realms-of-power-magic::0522"
+  ]
+ },
+ {
+  "name": "Forgotten Gods",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Beasts and spirits once worshiped as gods who retreated into the Magic Realm or took living forms to survive the Dominion.",
+  "evidence": [
+   "realms-of-power-magic::0525",
+   "realms-of-power-magic::0526",
+   "realms-of-power-magic::0527"
+  ]
+ },
+ {
+  "name": "Mercere",
+  "type": "Character",
+  "aliases": [],
+  "description": "Founder whom many in the Cult of Mercury believe was the god Mercury reborn.",
+  "evidence": [
+   "realms-of-power-magic::0525",
+   "realms-of-power-magic::0526"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "type": "Character",
+  "aliases": [],
+  "description": "Roman god some believe was reborn as Mercere.",
+  "evidence": [
+   "realms-of-power-magic::0525",
+   "realms-of-power-magic::0526"
+  ]
+ },
+ {
+  "name": "Jove",
+  "type": "Character",
+  "aliases": [],
+  "description": "A Forgotten God, the ancient sky god, who lost his powers after taking Communion and now lives in a monastery.",
+  "evidence": [
+   "realms-of-power-magic::0528",
+   "realms-of-power-magic::0529"
+  ]
+ },
+ {
+  "name": "Loamwalkers",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Tree-spirits born in or able to take human form who represent the interests of forests in the mundane world.",
+  "evidence": [
+   "realms-of-power-magic::0530",
+   "realms-of-power-magic::0531",
+   "realms-of-power-magic::0533"
+  ]
+ },
+ {
+  "name": "Vinaria",
+  "type": "Character",
+  "aliases": [],
+  "description": "Former Prima of House Merinita who in a story seed is revealed to be a Loamwalker on her death.",
+  "evidence": [
+   "realms-of-power-magic::0531"
+  ]
+ },
+ {
+  "name": "Ash",
+  "type": "Character",
+  "aliases": [],
+  "description": "A trusted Redcap from The Broken Covenant of Calebais who may secretly be a Loamwalker.",
+  "evidence": [
+   "realms-of-power-magic::0532"
+  ]
+ },
+ {
+  "name": "Lost Children",
+  "type": "Creature",
+  "aliases": [
+   "Lost Child"
+  ],
+  "description": "Abandoned children left in Magic auras who become magical, unaging beings appearing aged five to 15.",
+  "evidence": [
+   "realms-of-power-magic::0536",
+   "realms-of-power-magic::0537",
+   "realms-of-power-magic::0538"
+  ]
+ },
+ {
+  "name": "Men of the Lake",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Sentient water-elemental-like beings from magical lake regiones, organized by season and linked by a lake network.",
+  "evidence": [
+   "realms-of-power-magic::0540",
+   "realms-of-power-magic::0541",
+   "realms-of-power-magic::0542"
+  ]
+ },
+ {
+  "name": "Orphan Born",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Humans engendered by dead parents and born beyond the veil, able to see spirits and become incorporeal.",
+  "evidence": [
+   "realms-of-power-magic::0548",
+   "realms-of-power-magic::0549",
+   "realms-of-power-magic::0550"
+  ]
+ },
+ {
+  "name": "People of the Clouds",
+  "type": "CharacterType",
+  "aliases": [
+   "Person of the Clouds"
+  ],
+  "description": "Magical sailors of a sky-sea regio who fly ships with power over winds and have insatiable wanderlust.",
+  "evidence": [
+   "realms-of-power-magic::0552",
+   "realms-of-power-magic::0553",
+   "realms-of-power-magic::0554"
+  ]
+ },
+ {
+  "name": "The Stoneskinned",
+  "type": "Creature",
+  "aliases": [
+   "Stoneskinned"
+  ],
+  "description": "Magic kin bound to Terram who become living stone with age and are turned to stone by sunlight.",
+  "evidence": [
+   "realms-of-power-magic::0556",
+   "realms-of-power-magic::0557",
+   "realms-of-power-magic::0558"
+  ]
+ },
+ {
+  "name": "Warders of Mystery",
+  "type": "Faction",
+  "aliases": [
+   "Auditores"
+  ],
+  "description": "A society of Auditores who believe magic diminishes as knowledge of it spreads and work to keep magic secret.",
+  "evidence": [
+   "realms-of-power-magic::0561",
+   "realms-of-power-magic::0562"
+  ]
+ },
+ {
+  "name": "Transformed Humans",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Humans transformed by magic into beings of the Magic Realm, losing their humanity.",
+  "evidence": [
+   "realms-of-power-magic::0564"
+  ]
+ },
+ {
+  "name": "Drowned Men",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Sailors drowned and returned by a magical force as creatures of magic.",
+  "evidence": [
+   "realms-of-power-magic::0565",
+   "realms-of-power-magic::0566",
+   "realms-of-power-magic::0567"
+  ]
+ },
+ {
+  "name": "Burned and Buried Men",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Persons saved from immolation or burial by magical creatures of Ignem or Terram, gaining Virtues like Drowned Men.",
+  "evidence": [
+   "realms-of-power-magic::0571"
+  ]
+ },
+ {
+  "name": "Thorstar",
+  "type": "Character",
+  "aliases": [],
+  "description": "A lighthouse keeper on Geita, son of a Viking chieftain, saved and bound to his task by a magic fish since 912.",
+  "evidence": [
+   "realms-of-power-magic::0569",
+   "realms-of-power-magic::0570"
+  ]
+ },
+ {
+  "name": "Revenants",
+  "type": "Creature",
+  "aliases": [
+   "Walking Dead",
+   "draug"
+  ],
+  "description": "The walking dead: animate corpses driven by a spirit, immune to fatigue and pain, tied to the living world by personal need.",
+  "evidence": [
+   "realms-of-power-magic::0572",
+   "realms-of-power-magic::0573",
+   "realms-of-power-magic::0574"
+  ]
+ },
+ {
+  "name": "Glam",
+  "type": "Character",
+  "aliases": [],
+  "description": "A revenant from The Saga of Grettir the Strong who terrorized his district.",
+  "evidence": [
+   "realms-of-power-magic::0572"
+  ]
+ },
+ {
+  "name": "Grettir the Strong",
+  "type": "Character",
+  "aliases": [],
+  "description": "Saga hero whose saga tells of the revenant Glam.",
+  "evidence": [
+   "realms-of-power-magic::0572"
+  ]
+ },
+ {
+  "name": "Ghosts",
+  "type": "Creature",
+  "aliases": [
+   "Ghost"
+  ],
+  "description": "Disembodied spirits of the dead; animi. Revenants are sometimes considered a sub-class.",
+  "evidence": [
+   "realms-of-power-magic::0572",
+   "realms-of-power-magic::0573",
+   "realms-of-power-magic::0587"
+  ]
+ },
+ {
+  "name": "Daimons",
+  "type": "Creature",
+  "aliases": [
+   "Daimon",
+   "Named Spirits"
+  ],
+  "description": "Powerful genii dwelling in the Magic Realm, also called Named Spirits; human wizards may achieve apotheosis to become them.",
+  "evidence": [
+   "realms-of-power-magic::0580",
+   "realms-of-power-magic::0587",
+   "realms-of-power-magic::0589"
+  ]
+ },
+ {
+  "name": "Living Ghosts",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Wizards who bind their own spirit to a location, becoming ghost-like while retaining will and magic.",
+  "evidence": [
+   "realms-of-power-magic::0581"
+  ]
+ },
+ {
+  "name": "Great Beasts",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Magical beings Bjornaer magi may become in Final Twilight, with Might equal to 5 x Heartbeast.",
+  "evidence": [
+   "realms-of-power-magic::0582"
+  ]
+ },
+ {
+  "name": "Spirits",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Beings of pure form with no matter, immortal and insensible to physical beings without powers; includes genii and animi.",
+  "evidence": [
+   "realms-of-power-magic::0583",
+   "realms-of-power-magic::0584",
+   "realms-of-power-magic::0586"
+  ]
+ },
+ {
+  "name": "Genius",
+  "type": "Creature",
+  "aliases": [
+   "Genii"
+  ],
+  "description": "Spirits created as such (never material), including Daimons and Airy Spirits.",
+  "evidence": [
+   "realms-of-power-magic::0587"
+  ]
+ },
+ {
+  "name": "Animus",
+  "type": "Creature",
+  "aliases": [
+   "Animi"
+  ],
+  "description": "Spirits that were created human but have ceased to be material beings.",
+  "evidence": [
+   "realms-of-power-magic::0587"
+  ]
+ },
+ {
+  "name": "Airy Spirits",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Genii of the earth of much lesser power than Daimons.",
+  "evidence": [
+   "realms-of-power-magic::0587",
+   "realms-of-power-magic::0588"
+  ]
+ },
+ {
+  "name": "Spell Spirits",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirits summoned by Hermetic Theurgy initiates that duplicate a specific spell or Form.",
+  "evidence": [
+   "realms-of-power-magic::0587",
+   "realms-of-power-magic::0588"
+  ]
+ },
+ {
+  "name": "Theoi",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirits who were worshiped as gods, usually Winter characters.",
+  "evidence": [
+   "realms-of-power-magic::0589"
+  ]
+ },
+ {
+  "name": "Genius Loci",
+  "type": "Creature",
+  "aliases": [
+   "genii loci"
+  ],
+  "description": "Spirit of a place whose Magic aura can spread; considered to touch plants and creatures within its domain.",
+  "evidence": [
+   "realms-of-power-magic::0512",
+   "realms-of-power-magic::0598"
+  ]
+ },
+ {
+  "name": "Elementals",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Non-sentient embodiments of pure elemental forces.",
+  "evidence": [
+   "realms-of-power-magic::0503",
+   "realms-of-power-magic::0540",
+   "realms-of-power-magic::0546"
+  ]
+ },
+ {
+  "name": "Angels",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Genii of the Heavens, usually considered separate from genii.",
+  "evidence": [
+   "realms-of-power-magic::0587",
+   "realms-of-power-magic::0525"
+  ]
+ },
+ {
+  "name": "Demons",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Sublunar genii usually considered separate from other spirits.",
+  "evidence": [
+   "realms-of-power-magic::0587",
+   "realms-of-power-magic::0525"
+  ]
+ },
+ {
+  "name": "Faeries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Beings with which giants sometimes ally; some took places of forgotten gods.",
+  "evidence": [
+   "realms-of-power-magic::0494",
+   "realms-of-power-magic::0525"
+  ]
+ },
+ {
+  "name": "Forest Spirits",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Spirits described in Guardians of the Forests whose powers are revised here.",
+  "evidence": [
+   "realms-of-power-magic::0591"
+  ]
+ },
+ {
+  "name": "Hedge Wizards",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Non-Hermetic wizards with whom giants sometimes form alliances.",
+  "evidence": [
+   "realms-of-power-magic::0494"
+  ]
+ },
+ {
+  "name": "Theurgists",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Practitioners of spirit magic who classify primeval giants as kosmokrators and pursue spiritual taxonomy.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0588",
+   "realms-of-power-magic::0581"
+  ]
+ },
+ {
+  "name": "Redcaps",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Messengers of the Order of Hermes; the Broken Branches are a group of them.",
+  "evidence": [
+   "realms-of-power-magic::0531",
+   "realms-of-power-magic::0532"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The order of Hermetic magi.",
+  "evidence": [
+   "realms-of-power-magic::0519",
+   "realms-of-power-magic::0531",
+   "realms-of-power-magic::0541"
+  ]
+ },
+ {
+  "name": "House Merinita",
+  "type": "House",
+  "aliases": [
+   "Merinita"
+  ],
+  "description": "Hermetic House whose magi study faeries, including those of the sea.",
+  "evidence": [
+   "realms-of-power-magic::0514",
+   "realms-of-power-magic::0531"
+  ]
+ },
+ {
+  "name": "House Diedne",
+  "type": "House",
+  "aliases": [
+   "Diedne"
+  ],
+  "description": "House believed to have used the Men of the Lake network during the Schism War.",
+  "evidence": [
+   "realms-of-power-magic::0540",
+   "realms-of-power-magic::0541"
+  ]
+ },
+ {
+  "name": "House Tremere",
+  "type": "House",
+  "aliases": [
+   "Tremere"
+  ],
+  "description": "House of which five magi assaulted Lake Balaton late in the Schism War and never returned.",
+  "evidence": [
+   "realms-of-power-magic::0541"
+  ]
+ },
+ {
+  "name": "House Bjornaer",
+  "type": "House",
+  "aliases": [
+   "Bjornaer"
+  ],
+  "description": "House whose magi in Final Twilight permanently assume their heartbeast forms.",
+  "evidence": [
+   "realms-of-power-magic::0582"
+  ]
+ },
+ {
+  "name": "Cult of Mercury",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Cult many of whose members believe Mercere was the god Mercury reborn.",
+  "evidence": [
+   "realms-of-power-magic::0525"
+  ]
+ },
+ {
+  "name": "Cult of Heroes",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Cult whose beliefs hold Mercere was a man with the blood of the gods.",
+  "evidence": [
+   "realms-of-power-magic::0526"
+  ]
+ },
+ {
+  "name": "Broken Branches",
+  "type": "Faction",
+  "aliases": [],
+  "description": "A group of Redcaps united by love of nature, founded by a Loamwalker.",
+  "evidence": [
+   "realms-of-power-magic::0531"
+  ]
+ },
+ {
+  "name": "The Church",
+  "type": "Faction",
+  "aliases": [],
+  "description": "The Christian Church, which Lise seeks to destroy.",
+  "evidence": [
+   "realms-of-power-magic::0511",
+   "realms-of-power-magic::0512"
+  ]
+ },
+ {
+  "name": "Rhine Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal with large forests where Loamwalkers are common.",
+  "evidence": [
+   "realms-of-power-magic::0530",
+   "realms-of-power-magic::0591"
+  ]
+ },
+ {
+  "name": "Novgorod Tribunal",
+  "type": "Tribunal",
+  "aliases": [],
+  "description": "Tribunal with large forests where Loamwalkers are common.",
+  "evidence": [
+   "realms-of-power-magic::0530"
+  ]
+ },
+ {
+  "name": "Calebais",
+  "type": "Covenant",
+  "aliases": [
+   "Broken Covenant of Calebais"
+  ],
+  "description": "The Broken Covenant of Calebais, home of the Redcap Ash.",
+  "evidence": [
+   "realms-of-power-magic::0532"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The setting of Ars Magica.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0487",
+   "realms-of-power-magic::0540"
+  ]
+ },
+ {
+  "name": "British Isles",
+  "type": "Place",
+  "aliases": [
+   "Britain"
+  ],
+  "description": "Region where giants are especially prevalent.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0494"
+  ]
+ },
+ {
+  "name": "Jotunheim",
+  "type": "Place",
+  "aliases": [],
+  "description": "The land of the Norse giants, perhaps within the Magic Realm.",
+  "evidence": [
+   "realms-of-power-magic::0497"
+  ]
+ },
+ {
+  "name": "Muspelheim",
+  "type": "Place",
+  "aliases": [],
+  "description": "The fiery prison where the fire giants dwell.",
+  "evidence": [
+   "realms-of-power-magic::0497"
+  ]
+ },
+ {
+  "name": "Midgard",
+  "type": "Place",
+  "aliases": [],
+  "description": "The world, formed from Ymir; one of his eyebrows formed all of it.",
+  "evidence": [
+   "realms-of-power-magic::0497"
+  ]
+ },
+ {
+  "name": "Lake Balaton",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lake near Budapest home to Men of the Lake, site of a failed Tremere assault.",
+  "evidence": [
+   "realms-of-power-magic::0540",
+   "realms-of-power-magic::0541"
+  ]
+ },
+ {
+  "name": "Loch Dee",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lake in Scotland inhabited by Men of the Lake.",
+  "evidence": [
+   "realms-of-power-magic::0540"
+  ]
+ },
+ {
+  "name": "Lake Constance",
+  "type": "Place",
+  "aliases": [],
+  "description": "Lake in Germany inhabited by Men of the Lake.",
+  "evidence": [
+   "realms-of-power-magic::0540"
+  ]
+ },
+ {
+  "name": "Budapest",
+  "type": "Place",
+  "aliases": [],
+  "description": "City near Lake Balaton.",
+  "evidence": [
+   "realms-of-power-magic::0540"
+  ]
+ },
+ {
+  "name": "Paris",
+  "type": "Place",
+  "aliases": [],
+  "description": "City cited as the interest of a Men of the Lake societas.",
+  "evidence": [
+   "realms-of-power-magic::0542"
+  ]
+ },
+ {
+  "name": "Rome",
+  "type": "Place",
+  "aliases": [],
+  "description": "Ancient city; the Auditores' title dates to before its fall.",
+  "evidence": [
+   "realms-of-power-magic::0561"
+  ]
+ },
+ {
+  "name": "Geita",
+  "type": "Place",
+  "aliases": [],
+  "description": "Island at the head of the Vilnes Fjord with a lighthouse kept by Thorstar.",
+  "evidence": [
+   "realms-of-power-magic::0569",
+   "realms-of-power-magic::0570"
+  ]
+ },
+ {
+  "name": "Vilnes Fjord",
+  "type": "Place",
+  "aliases": [],
+  "description": "Fjord at whose head lies the island of Geita.",
+  "evidence": [
+   "realms-of-power-magic::0569",
+   "realms-of-power-magic::0570"
+  ]
+ },
+ {
+  "name": "Yorkshire",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region with a tale that revenants are destroyed by stakes through their hearts.",
+  "evidence": [
+   "realms-of-power-magic::0575"
+  ]
+ },
+ {
+  "name": "Hall of Heroes",
+  "type": "Place",
+  "aliases": [],
+  "description": "Destination of wizards who achieve apotheosis and become Daimons.",
+  "evidence": [
+   "realms-of-power-magic::0580"
+  ]
+ },
+ {
+  "name": "Twilight Void",
+  "type": "Place",
+  "aliases": [],
+  "description": "Realm with Form provinces; Loamwalkers can see into its Herbam province through a tree's vestige.",
+  "evidence": [
+   "realms-of-power-magic::0535"
+  ]
+ },
+ {
+  "name": "Magic Realm",
+  "type": "Realm",
+  "aliases": [
+   "Magic"
+  ],
+  "description": "The supernatural realm of Magic to which giants, spirits and magic kin belong.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0525",
+   "realms-of-power-magic::0564"
+  ]
+ },
+ {
+  "name": "Divine Realm",
+  "type": "Realm",
+  "aliases": [
+   "Divine"
+  ],
+  "description": "Realm of God to which the Nephilim partly belong.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0525"
+  ]
+ },
+ {
+  "name": "Infernal Realm",
+  "type": "Realm",
+  "aliases": [
+   "Infernal"
+  ],
+  "description": "Realm of demons to which the Nephilim partly belong.",
+  "evidence": [
+   "realms-of-power-magic::0480"
+  ]
+ },
+ {
+  "name": "Faerie Realm",
+  "type": "Realm",
+  "aliases": [
+   "Faerie"
+  ],
+  "description": "Realm to which some giants belong.",
+  "evidence": [
+   "realms-of-power-magic::0480"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The power of God's Church, which magical giants avoid and which drove forgotten gods into retreat.",
+  "evidence": [
+   "realms-of-power-magic::0481",
+   "realms-of-power-magic::0504",
+   "realms-of-power-magic::0525"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of the body; most giants and revenants are affected by it.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0488",
+   "realms-of-power-magic::0574"
+  ]
+ },
+ {
+  "name": "Mentem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of the mind; affects giants' minds and revenant spirits.",
+  "evidence": [
+   "realms-of-power-magic::0482",
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0574"
+  ]
+ },
+ {
+  "name": "Terram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of earth; associated with mountain giants, Barcas and the Stoneskinned.",
+  "evidence": [
+   "realms-of-power-magic::0488",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0556"
+  ]
+ },
+ {
+  "name": "Aquam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of water; associated with frost/sea giants, Atlanteans and Men of the Lake.",
+  "evidence": [
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0518",
+   "realms-of-power-magic::0567"
+  ]
+ },
+ {
+  "name": "Auram",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of air; associated with storm giants such as Rok.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0553"
+  ]
+ },
+ {
+  "name": "Ignem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of fire; creatures of Ignem may save a person from immolation.",
+  "evidence": [
+   "realms-of-power-magic::0524",
+   "realms-of-power-magic::0571"
+  ]
+ },
+ {
+  "name": "Herbam",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of plants; used by Loamwalker and spirit powers.",
+  "evidence": [
+   "realms-of-power-magic::0510",
+   "realms-of-power-magic::0533",
+   "realms-of-power-magic::0535"
+  ]
+ },
+ {
+  "name": "Animal",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of animals; used by Decree of the Atlantean and Manifestation.",
+  "evidence": [
+   "realms-of-power-magic::0516",
+   "realms-of-power-magic::0598"
+  ]
+ },
+ {
+  "name": "Imaginem",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of images; used by Eidolon and Murmur of the Deep.",
+  "evidence": [
+   "realms-of-power-magic::0510",
+   "realms-of-power-magic::0517",
+   "realms-of-power-magic::0596"
+  ]
+ },
+ {
+  "name": "Vim",
+  "type": "Art",
+  "aliases": [],
+  "description": "Form of magic itself; can affect revenant spirits and Might.",
+  "evidence": [
+   "realms-of-power-magic::0507",
+   "realms-of-power-magic::0528",
+   "realms-of-power-magic::0574"
+  ]
+ },
+ {
+  "name": "Creo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of creation, e.g. Creo Auram effects conjured by Rok.",
+  "evidence": [
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Rego",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of control; Rego Corpus spells animate corpses.",
+  "evidence": [
+   "realms-of-power-magic::0577",
+   "realms-of-power-magic::0598"
+  ]
+ },
+ {
+  "name": "Perdo",
+  "type": "Art",
+  "aliases": [],
+  "description": "Technique of destruction; Perdo Corpus spells often fail against revenants.",
+  "evidence": [
+   "realms-of-power-magic::0574"
+  ]
+ },
+ {
+  "name": "Might",
+  "type": "Concept",
+  "aliases": [
+   "Magic Might"
+  ],
+  "description": "A supernatural being's Might score (e.g. Magic Might), determining its Qualities and power.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0491",
+   "realms-of-power-magic::0590"
+  ]
+ },
+ {
+  "name": "Magic Qualities",
+  "type": "Concept",
+  "aliases": [
+   "Qualities",
+   "Inferiorities"
+  ],
+  "description": "Virtue-like traits (and Inferiorities) purchased by magic characters with their Might.",
+  "evidence": [
+   "realms-of-power-magic::0491",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0590"
+  ]
+ },
+ {
+  "name": "Warping",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural distortion that can transform humans; Lise is severely Warped.",
+  "evidence": [
+   "realms-of-power-magic::0481",
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0511"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [
+   "regiones",
+   "Magical regio"
+  ],
+  "description": "A supernatural region layered on the mundane world, such as magic lake regiones.",
+  "evidence": [
+   "realms-of-power-magic::0488",
+   "realms-of-power-magic::0511",
+   "realms-of-power-magic::0540"
+  ]
+ },
+ {
+  "name": "Rune Magic",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Norse magic practiced by some giants.",
+  "evidence": [
+   "realms-of-power-magic::0488",
+   "realms-of-power-magic::0497"
+  ]
+ },
+ {
+  "name": "Size",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Characteristic determining height and weight; three points is about a tenfold mass difference.",
+  "evidence": [
+   "realms-of-power-magic::0486",
+   "realms-of-power-magic::0487",
+   "realms-of-power-magic::0492"
+  ]
+ },
+ {
+  "name": "Confidence Score",
+  "type": "Concept",
+  "aliases": [
+   "Confidence Point"
+  ],
+  "description": "Score of Confidence points a character may spend.",
+  "evidence": [
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0505"
+  ]
+ },
+ {
+  "name": "Season (character)",
+  "type": "Concept",
+  "aliases": [
+   "Spring",
+   "Summer",
+   "Autumn",
+   "Winter"
+  ],
+  "description": "Spring, Summer, Autumn or Winter maturity category for magic characters.",
+  "evidence": [
+   "realms-of-power-magic::0490",
+   "realms-of-power-magic::0541",
+   "realms-of-power-magic::0589"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power found in creatures' bodies, e.g. Corpus vis in a giant's skull.",
+  "evidence": [
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0553",
+   "realms-of-power-magic::0594"
+  ]
+ },
+ {
+  "name": "Arcane Connection",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A magical link to a person or place; Spiritual Pact and Material Anchor create them.",
+  "evidence": [
+   "realms-of-power-magic::0506",
+   "realms-of-power-magic::0563",
+   "realms-of-power-magic::0599"
+  ]
+ },
+ {
+  "name": "Magic Resistance",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Protection that powers must penetrate.",
+  "evidence": [
+   "realms-of-power-magic::0496",
+   "realms-of-power-magic::0516",
+   "realms-of-power-magic::0591"
+  ]
+ },
+ {
+  "name": "Penetration",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Ability and measure of overcoming Magic Resistance.",
+  "evidence": [
+   "realms-of-power-magic::0506",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [
+   "Magic aura"
+  ],
+  "description": "Supernatural aura; Magic auras shelter forgotten gods and lost children.",
+  "evidence": [
+   "realms-of-power-magic::0512",
+   "realms-of-power-magic::0525",
+   "realms-of-power-magic::0536"
+  ]
+ },
+ {
+  "name": "Mystery Cults",
+  "type": "Concept",
+  "aliases": [
+   "Hermetic Mystery Cult"
+  ],
+  "description": "Secret initiatory groups; some pursue apotheosis or living ghosthood.",
+  "evidence": [
+   "realms-of-power-magic::0513",
+   "realms-of-power-magic::0580",
+   "realms-of-power-magic::0581"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The magical talent of magi.",
+  "evidence": [
+   "realms-of-power-magic::0519",
+   "realms-of-power-magic::0549"
+  ]
+ },
+ {
+  "name": "Schism War",
+  "type": "Concept",
+  "aliases": [],
+  "description": "War in the Order during which House Diedne may have used the lake network.",
+  "evidence": [
+   "realms-of-power-magic::0540",
+   "realms-of-power-magic::0541"
+  ]
+ },
+ {
+  "name": "Mercere Portal",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A network of magical portals of House Mercere for travel across Mythic Europe.",
+  "evidence": [
+   "realms-of-power-magic::0540",
+   "realms-of-power-magic::0541"
+  ]
+ },
+ {
+  "name": "Societas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An ad hoc interest group an autumn Man of the Lake joins.",
+  "evidence": [
+   "realms-of-power-magic::0541",
+   "realms-of-power-magic::0542"
+  ]
+ },
+ {
+  "name": "Vestige Travel",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Travel through a vestige into the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0535"
+  ]
+ },
+ {
+  "name": "Apotheosis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The process of becoming an immortal spirit, goal of several mystery cults.",
+  "evidence": [
+   "realms-of-power-magic::0580"
+  ]
+ },
+ {
+  "name": "Final Twilight",
+  "type": "Concept",
+  "aliases": [
+   "Twilight"
+  ],
+  "description": "Permanent Twilight in which magi vanish or transform into magical beings.",
+  "evidence": [
+   "realms-of-power-magic::0582"
+  ]
+ },
+ {
+  "name": "Hermetic Theurgy",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Mystery allowing initiates to summon spell spirits.",
+  "evidence": [
+   "realms-of-power-magic::0587"
+  ]
+ },
+ {
+  "name": "Invisible World",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The world of spirits, known to magi and wizards.",
+  "evidence": [
+   "realms-of-power-magic::0583"
+  ]
+ },
+ {
+  "name": "Silent Speech",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A spirit's communication with physical beings.",
+  "evidence": [
+   "realms-of-power-magic::0584",
+   "realms-of-power-magic::0585"
+  ]
+ },
+ {
+  "name": "Species",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Sensory emanations of informed matter; spirits produce none.",
+  "evidence": [
+   "realms-of-power-magic::0584"
+  ]
+ },
+ {
+  "name": "Aspect",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A Daimon's manifestation that can be destroyed.",
+  "evidence": [
+   "realms-of-power-magic::0593",
+   "realms-of-power-magic::0594"
+  ]
+ },
+ {
+  "name": "Water-way",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Special Atlantean range, with special Duration Storm and Target Body-of-water.",
+  "evidence": [
+   "realms-of-power-magic::0514",
+   "realms-of-power-magic::0516",
+   "realms-of-power-magic::0517"
+  ]
+ },
+ {
+  "name": "True Faith",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Divine faith; Jove has it alongside Magical powers.",
+  "evidence": [
+   "realms-of-power-magic::0529"
+  ]
+ },
+ {
+  "name": "Old Ways",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pagan traditions in which Lise was raised.",
+  "evidence": [
+   "realms-of-power-magic::0511"
+  ]
+ },
+ {
+  "name": "Gigantic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Magic Quality granting giant Size, increasing Strength and reducing Quickness.",
+  "evidence": [
+   "realms-of-power-magic::0486",
+   "realms-of-power-magic::0488",
+   "realms-of-power-magic::0491"
+  ]
+ },
+ {
+  "name": "Giant Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for humans with some giant heritage; not for true giants.",
+  "evidence": [
+   "realms-of-power-magic::0480",
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Greater Immunity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting immunity, e.g. to cold, fire, iron or drowning.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0566"
+  ]
+ },
+ {
+  "name": "Lesser Immunity",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting minor immunity, e.g. to lightning.",
+  "evidence": [
+   "realms-of-power-magic::0498",
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Ways of the (Land)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for giants; Lise has Ways of the Forest.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Animal Ken",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Wilderness Sense",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Berserk",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue; Rok has it.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Puissant (Ability)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue boosting an Ability, e.g. Puissant Brawl.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Reserves of Strength",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Sharp Ears",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Tough",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Warrior",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0493"
+  ]
+ },
+ {
+  "name": "Magic Human",
+  "type": "Virtue",
+  "aliases": [
+   "Magical Human"
+  ],
+  "description": "Virtue defining a human-like magic being.",
+  "evidence": [
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0577"
+  ]
+ },
+ {
+  "name": "Arcane Lore",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue granting Arcane Abilities; Rok has it.",
+  "evidence": [
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Skinchanger",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for shapechanging; Surface Form is a version of it.",
+  "evidence": [
+   "realms-of-power-magic::0498",
+   "realms-of-power-magic::0515"
+  ]
+ },
+ {
+  "name": "Shapeshifter",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue for changing shape.",
+  "evidence": [
+   "realms-of-power-magic::0498"
+  ]
+ },
+ {
+  "name": "Divination and Augury",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Powers some wise Norse giants possess.",
+  "evidence": [
+   "realms-of-power-magic::0497"
+  ]
+ },
+ {
+  "name": "Second Sight",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Ability/Virtue to see spirits and through illusions.",
+  "evidence": [
+   "realms-of-power-magic::0505",
+   "realms-of-power-magic::0550",
+   "realms-of-power-magic::0584"
+  ]
+ },
+ {
+  "name": "Wise One",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Entrancement",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Supernatural Virtue and Ability held by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Affinity with (Ability)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue boosting learning of an Ability, e.g. Magic Lore.",
+  "evidence": [
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Great (Characteristic)",
+  "type": "Virtue",
+  "aliases": [
+   "Great Presence"
+  ],
+  "description": "Virtue raising a characteristic; Lise has Great Presence twice.",
+  "evidence": [
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Premonitions",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue and Ability of foreseeing danger.",
+  "evidence": [
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Self Confident",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue held by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Atlantean Magic",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Hermetic Virtue from studying exiled Atlanteans' magic, with special ranges, durations and targets.",
+  "evidence": [
+   "realms-of-power-magic::0514",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Surface Form",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Inherited Atlantean Virtue, a version of Skinchanger.",
+  "evidence": [
+   "realms-of-power-magic::0515",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Voice of the (Ocean)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Inherited Atlantean Virtue.",
+  "evidence": [
+   "realms-of-power-magic::0515",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Magical Blood",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Minor Supernatural Virtue for a child of an exiled Atlantean.",
+  "evidence": [
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Unaging",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Inherited Virtue of Lost Children.",
+  "evidence": [
+   "realms-of-power-magic::0538"
+  ]
+ },
+ {
+  "name": "(Lake) Regio Network",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Inherited Virtue of Men of the Lake.",
+  "evidence": [
+   "realms-of-power-magic::0544"
+  ]
+ },
+ {
+  "name": "Ghostly Warder",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue of a ghost watching over a character.",
+  "evidence": [
+   "realms-of-power-magic::0548"
+  ]
+ },
+ {
+  "name": "Transformed (Being)",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Major Supernatural Virtue gained by Drowned Men.",
+  "evidence": [
+   "realms-of-power-magic::0566",
+   "realms-of-power-magic::0569"
+  ]
+ },
+ {
+  "name": "Magic Spirit",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Inherited Virtue of spirit characters.",
+  "evidence": [
+   "realms-of-power-magic::0585"
+  ]
+ },
+ {
+  "name": "Magical Focus",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Hermetic Virtue that may shape a magus' Final Twilight transformation.",
+  "evidence": [
+   "realms-of-power-magic::0582"
+  ]
+ },
+ {
+  "name": "Improved Soak",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality increasing Soak.",
+  "evidence": [
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0573",
+   "realms-of-power-magic::0577"
+  ]
+ },
+ {
+  "name": "Improved Might",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality increasing Might.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Personal Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality granting a personal-range power.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0522",
+   "realms-of-power-magic::0533"
+  ]
+ },
+ {
+  "name": "Greater Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality granting a major power.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0515",
+   "realms-of-power-magic::0577"
+  ]
+ },
+ {
+  "name": "Lesser Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality granting a minor power.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0579",
+   "realms-of-power-magic::0593"
+  ]
+ },
+ {
+  "name": "Focus Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality granting a flexible focus power.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0527",
+   "realms-of-power-magic::0547"
+  ]
+ },
+ {
+  "name": "Ritual Power",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality granting a ritual-like power.",
+  "evidence": [
+   "realms-of-power-magic::0538",
+   "realms-of-power-magic::0544",
+   "realms-of-power-magic::0599"
+  ]
+ },
+ {
+  "name": "Improved Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality reducing power costs.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0500"
+  ]
+ },
+ {
+  "name": "No Fatigue",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality making revenants tireless.",
+  "evidence": [
+   "realms-of-power-magic::0573",
+   "realms-of-power-magic::0577",
+   "realms-of-power-magic::0579"
+  ]
+ },
+ {
+  "name": "Variable Powers",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Magic Quality letting powers scale with age or Might.",
+  "evidence": [
+   "realms-of-power-magic::0558",
+   "realms-of-power-magic::0559",
+   "realms-of-power-magic::0560"
+  ]
+ },
+ {
+  "name": "Terram Resistance",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Quality and Ability of mountain giants and Barcas.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0497",
+   "realms-of-power-magic::0498"
+  ]
+ },
+ {
+  "name": "Auram Resistance",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Quality and Ability of storm giants.",
+  "evidence": [
+   "realms-of-power-magic::0498",
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Small Frame",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw contradictory for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Dwarf",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw contradictory for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Avaricious",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw; Rok's major flaw.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Compassionate",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw option for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Greedy",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw option for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Proud",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Personality Flaw for giants and Forgotten Gods.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0527"
+  ]
+ },
+ {
+  "name": "Fury",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Greater Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of Lost Children and the Stoneskinned.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0538",
+   "realms-of-power-magic::0558"
+  ]
+ },
+ {
+  "name": "Lesser Malediction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw, e.g. Barcas's vulnerable spot.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Outlaw",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Wanderlust",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Afflicted Tongue",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Feral Upbringing",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Hunchback",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Infamous",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Men of the Lake have a Hermetic reputation.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0544"
+  ]
+ },
+ {
+  "name": "Poor Intelligence",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Simple Minded",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489"
+  ]
+ },
+ {
+  "name": "Weakness",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw, e.g. Barcas's weakness for alcohol.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0495"
+  ]
+ },
+ {
+  "name": "Weak-Willed",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw suggested for giants.",
+  "evidence": [
+   "realms-of-power-magic::0489",
+   "realms-of-power-magic::0493"
+  ]
+ },
+ {
+  "name": "Wrathful",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw of the typical giant.",
+  "evidence": [
+   "realms-of-power-magic::0493"
+  ]
+ },
+ {
+  "name": "Overconfident",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Minor Flaw of Barcas.",
+  "evidence": [
+   "realms-of-power-magic::0495"
+  ]
+ },
+ {
+  "name": "Obese",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw affecting weight.",
+  "evidence": [
+   "realms-of-power-magic::0486"
+  ]
+ },
+ {
+  "name": "Susceptible to Deprivation",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Magic Inferiority of giants.",
+  "evidence": [
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0495"
+  ]
+ },
+ {
+  "name": "Pagan",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw balancing Spirit Votary; common for Forgotten Gods.",
+  "evidence": [
+   "realms-of-power-magic::0505",
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0527"
+  ]
+ },
+ {
+  "name": "Restriction",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Lise must be in contact with earth.",
+  "evidence": [
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw.",
+  "evidence": [
+   "realms-of-power-magic::0494",
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Driven",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw held by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Visions",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw from Warping.",
+  "evidence": [
+   "realms-of-power-magic::0509"
+  ]
+ },
+ {
+  "name": "Exiled Atlantean",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Inherited Flaw of Atlanteans.",
+  "evidence": [
+   "realms-of-power-magic::0515",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Monstrous Appearance",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the Atlantean character guide.",
+  "evidence": [
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Obsessed",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw, e.g. returning to sea.",
+  "evidence": [
+   "realms-of-power-magic::0518",
+   "realms-of-power-magic::0566"
+  ]
+ },
+ {
+  "name": "Age Quickly",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Flaw of Flame Dancers.",
+  "evidence": [
+   "realms-of-power-magic::0522"
+  ]
+ },
+ {
+  "name": "Compulsion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Flame Dancers' compulsions involve fire.",
+  "evidence": [
+   "realms-of-power-magic::0522",
+   "realms-of-power-magic::0566"
+  ]
+ },
+ {
+  "name": "Dark Secret",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; being a Loamwalker.",
+  "evidence": [
+   "realms-of-power-magic::0533"
+  ]
+ },
+ {
+  "name": "Essential Flaw",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Loamwalkers have Antisocial.",
+  "evidence": [
+   "realms-of-power-magic::0533"
+  ]
+ },
+ {
+  "name": "Fear",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw, e.g. of fire.",
+  "evidence": [
+   "realms-of-power-magic::0533",
+   "realms-of-power-magic::0566"
+  ]
+ },
+ {
+  "name": "Baneful Circumstances",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Inferiority, e.g. revenants in daylight.",
+  "evidence": [
+   "realms-of-power-magic::0533",
+   "realms-of-power-magic::0577",
+   "realms-of-power-magic::0579"
+  ]
+ },
+ {
+  "name": "Social Handicap",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Lost Children act like children.",
+  "evidence": [
+   "realms-of-power-magic::0538"
+  ]
+ },
+ {
+  "name": "Magical Air",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw all spirits have; common for Orphan Born.",
+  "evidence": [
+   "realms-of-power-magic::0550",
+   "realms-of-power-magic::0586"
+  ]
+ },
+ {
+  "name": "Magical Companion",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw; Orphan Born have ghostly companions.",
+  "evidence": [
+   "realms-of-power-magic::0550"
+  ]
+ },
+ {
+  "name": "Monstrous Blood",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw common to Orphan Born (spirit).",
+  "evidence": [
+   "realms-of-power-magic::0550"
+  ]
+ },
+ {
+  "name": "Arthritis",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Flaw of the Stoneskinned.",
+  "evidence": [
+   "realms-of-power-magic::0558"
+  ]
+ },
+ {
+  "name": "Nocturnal",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Common Flaw of the Stoneskinned.",
+  "evidence": [
+   "realms-of-power-magic::0558"
+  ]
+ },
+ {
+  "name": "Servant of the Ocean",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Major Story Flaw of Drowned Men.",
+  "evidence": [
+   "realms-of-power-magic::0566"
+  ]
+ },
+ {
+  "name": "Weak Characteristics",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw of the skeletal revenant.",
+  "evidence": [
+   "realms-of-power-magic::0579"
+  ]
+ },
+ {
+  "name": "Reduced Abilities",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Inferiority common among spirits.",
+  "evidence": [
+   "realms-of-power-magic::0589"
+  ]
+ },
+ {
+  "name": "Brawl",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0577"
+  ]
+ },
+ {
+  "name": "Great Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0493"
+  ]
+ },
+ {
+  "name": "Thrown Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Living Language",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0490",
+   "realms-of-power-magic::0493",
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Animal Handling",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0495"
+  ]
+ },
+ {
+  "name": "Carouse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Craft",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0495"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0516"
+  ]
+ },
+ {
+  "name": "Survival",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Magic Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0506",
+   "realms-of-power-magic::0567"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0510",
+   "realms-of-power-magic::0517"
+  ]
+ },
+ {
+  "name": "Single Weapon",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0499"
+  ]
+ },
+ {
+  "name": "Awareness",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Chirurgy",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Faerie Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Folk Ken",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Forest Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Guile",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Hunt",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510",
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Music",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Profession",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0509",
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Stealth",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Swim",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0518"
+  ]
+ },
+ {
+  "name": "Bargain",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0568"
+  ]
+ },
+ {
+  "name": "Finesse",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0577"
+  ]
+ },
+ {
+  "name": "Heartbeast",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in character statistics in this text.",
+  "evidence": [
+   "realms-of-power-magic::0582"
+  ]
+ },
+ {
+  "name": "Invulnerability to Metal",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Barcas's power making him immune to metal weapons except one vulnerable spot.",
+  "evidence": [
+   "realms-of-power-magic::0495",
+   "realms-of-power-magic::0496"
+  ]
+ },
+ {
+  "name": "Master of Fierce Winds",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Rok's Focus Power to spontaneously conjure Creo Auram winds or hail.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0500"
+  ]
+ },
+ {
+  "name": "Charge of the Angry Winds",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ArM5 spell whose effect Rok creates to scatter foes.",
+  "evidence": [
+   "realms-of-power-magic::0499",
+   "realms-of-power-magic::0500"
+  ]
+ },
+ {
+  "name": "Gathering of the Stormy Might",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell/power of Rok, used at Sight range on a Group.",
+  "evidence": [
+   "realms-of-power-magic::0500"
+  ]
+ },
+ {
+  "name": "True Sight of the Air",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell/power continuously active for Rok.",
+  "evidence": [
+   "realms-of-power-magic::0500"
+  ]
+ },
+ {
+  "name": "Crafter of Earth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Terram spirit power used by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Enliven the Gross Earth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Terram spirit power used by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Guide",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Mentem spirit power used by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Eidolon",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spirit power creating an illusory visible and audible form.",
+  "evidence": [
+   "realms-of-power-magic::0510",
+   "realms-of-power-magic::0590",
+   "realms-of-power-magic::0596"
+  ]
+ },
+ {
+  "name": "Ruler of Plants",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Herbam spirit power used by Lise.",
+  "evidence": [
+   "realms-of-power-magic::0510"
+  ]
+ },
+ {
+  "name": "Decree of the Atlantean",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Atlantean power summoning a water creature within the same water-way.",
+  "evidence": [
+   "realms-of-power-magic::0515",
+   "realms-of-power-magic::0516"
+  ]
+ },
+ {
+  "name": "Murmur of the Deep",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Atlantean power to hear from any point in the same water-way.",
+  "evidence": [
+   "realms-of-power-magic::0515",
+   "realms-of-power-magic::0517"
+  ]
+ },
+ {
+  "name": "Let the Bonfire Burn",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Flame Dancer power setting fire to a slightly inflammable target.",
+  "evidence": [
+   "realms-of-power-magic::0522",
+   "realms-of-power-magic::0524"
+  ]
+ },
+ {
+  "name": "Endurance of the Flame Dancer",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Flame Dancer power to feel unwounded and unfatigued until sunrise or sunset.",
+  "evidence": [
+   "realms-of-power-magic::0522",
+   "realms-of-power-magic::0523"
+  ]
+ },
+ {
+  "name": "Endurance of the Berserkers",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ArM5 spell referenced by Endurance of the Flame Dancer.",
+  "evidence": [
+   "realms-of-power-magic::0523"
+  ]
+ },
+ {
+  "name": "Wizard's Communion",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell/Focus Power letting a character contribute levels to a spell cast with Communion.",
+  "evidence": [
+   "realms-of-power-magic::0527",
+   "realms-of-power-magic::0528"
+  ]
+ },
+ {
+  "name": "From Hill to Hollow",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Loamwalker power to move instantly between trees within sight.",
+  "evidence": [
+   "realms-of-power-magic::0533"
+  ]
+ },
+ {
+  "name": "Stance of the Patient Tree",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Loamwalker power to change into a tree until sunset.",
+  "evidence": [
+   "realms-of-power-magic::0533"
+  ]
+ },
+ {
+  "name": "Stride of the Impatient Human",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Loamwalker power for a tree to change into a human until sunset.",
+  "evidence": [
+   "realms-of-power-magic::0533",
+   "realms-of-power-magic::0534"
+  ]
+ },
+ {
+  "name": "Walk Among the Ancients",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Loamwalker power to see into the Herbam province of the Twilight Void.",
+  "evidence": [
+   "realms-of-power-magic::0533",
+   "realms-of-power-magic::0535"
+  ]
+ },
+ {
+  "name": "Seal the Wounds of Impetuous Youth",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Lost Child ritual power permanently healing a Light wound.",
+  "evidence": [
+   "realms-of-power-magic::0538",
+   "realms-of-power-magic::0539"
+  ]
+ },
+ {
+  "name": "Drown",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Greater Power of the Men of the Lake.",
+  "evidence": [
+   "realms-of-power-magic::0544"
+  ]
+ },
+ {
+  "name": "Simulacrum Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Men of the Lake power to take a watery form of anything touched.",
+  "evidence": [
+   "realms-of-power-magic::0544",
+   "realms-of-power-magic::0545"
+  ]
+ },
+ {
+  "name": "Command the Waters",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Men of the Lake ritual power turning water into a water elemental.",
+  "evidence": [
+   "realms-of-power-magic::0544",
+   "realms-of-power-magic::0546"
+  ]
+ },
+ {
+  "name": "Rarefy the Crude Water",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell creating a water elemental.",
+  "evidence": [
+   "realms-of-power-magic::0546"
+  ]
+ },
+ {
+  "name": "Memory of Water",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Men of the Lake power to see the past of a volume of water.",
+  "evidence": [
+   "realms-of-power-magic::0544",
+   "realms-of-power-magic::0547"
+  ]
+ },
+ {
+  "name": "Incorporeal Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Orphan Born power to become incorporeal like a ghost.",
+  "evidence": [
+   "realms-of-power-magic::0550"
+  ]
+ },
+ {
+  "name": "Ghostly Form/Physical Form",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Orphan Born power to interact with ghostly or corporeal beings.",
+  "evidence": [
+   "realms-of-power-magic::0550",
+   "realms-of-power-magic::0551"
+  ]
+ },
+ {
+  "name": "Sail the Wind",
+  "type": "Spell",
+  "aliases": [],
+  "description": "People of the Clouds power to fly on winds and lift ships.",
+  "evidence": [
+   "realms-of-power-magic::0555"
+  ]
+ },
+ {
+  "name": "Body of Stone",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Stoneskinned power improving brawling statistics.",
+  "evidence": [
+   "realms-of-power-magic::0558",
+   "realms-of-power-magic::0559"
+  ]
+ },
+ {
+  "name": "Skin of Stone",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Stoneskinned power increasing Soak with age or Might.",
+  "evidence": [
+   "realms-of-power-magic::0558",
+   "realms-of-power-magic::0560"
+  ]
+ },
+ {
+  "name": "Perceive the Distant Truths",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Warders of Mystery power to perceive a place via Arcane Connection.",
+  "evidence": [
+   "realms-of-power-magic::0563"
+  ]
+ },
+ {
+  "name": "Lungs of the Fish",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ArM5 protective spell against drowning.",
+  "evidence": [
+   "realms-of-power-magic::0569"
+  ]
+ },
+ {
+  "name": "The Walking Corpse",
+  "type": "Spell",
+  "aliases": [],
+  "description": "ArM5 spell animating corpses.",
+  "evidence": [
+   "realms-of-power-magic::0572"
+  ]
+ },
+ {
+  "name": "Lay to Rest the Haunting Spirit",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell affecting a revenant's animating spirit.",
+  "evidence": [
+   "realms-of-power-magic::0574"
+  ]
+ },
+ {
+  "name": "Breath of Corruption",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Revenant power exhaling disease.",
+  "evidence": [
+   "realms-of-power-magic::0578"
+  ]
+ },
+ {
+  "name": "Rise from the Grave",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Revenant power opening the earth over its grave.",
+  "evidence": [
+   "realms-of-power-magic::0578",
+   "realms-of-power-magic::0579"
+  ]
+ },
+ {
+  "name": "Control Human",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spirit power exerting direct control over a target.",
+  "evidence": [
+   "realms-of-power-magic::0592"
+  ]
+ },
+ {
+  "name": "Donning the Corporeal Veil",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spirit power producing and animating a physical body.",
+  "evidence": [
+   "realms-of-power-magic::0586",
+   "realms-of-power-magic::0593",
+   "realms-of-power-magic::0594"
+  ]
+ },
+ {
+  "name": "Ghost Touch",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spirit power to move objects.",
+  "evidence": [
+   "realms-of-power-magic::0590",
+   "realms-of-power-magic::0597"
+  ]
+ },
+ {
+  "name": "Manifestation",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spirit power manifesting consciousness among animals or plants.",
+  "evidence": [
+   "realms-of-power-magic::0577",
+   "realms-of-power-magic::0598"
+  ]
+ },
+ {
+  "name": "Material Anchor",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Ritual-like spirit power forming Arcane Connections.",
+  "evidence": [
+   "realms-of-power-magic::0599"
+  ]
+ },
+ {
+  "name": "Gather the Essence of the Beast",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spell whose variant converts non-material vis.",
+  "evidence": [
+   "realms-of-power-magic::0594"
+  ]
+ },
+ {
+  "name": "Body of Fire",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Power of fire elementals.",
+  "evidence": [
+   "realms-of-power-magic::0594"
+  ]
+ },
+ {
+  "name": "Presence",
+  "type": "Spell",
+  "aliases": [],
+  "description": "Spirit power causing vis to accumulate in the spirit's haunt.",
+  "evidence": [
+   "realms-of-power-magic::0595"
+  ]
+ }
+]

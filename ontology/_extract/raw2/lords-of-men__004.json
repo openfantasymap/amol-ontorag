@@ -1,0 +1,1582 @@
+[
+ {
+  "name": "Free Peasant",
+  "type": "CharacterType",
+  "aliases": [
+   "Freemen"
+  ],
+  "description": "Peasants who are personally free; less than ten percent of most manors' population, most common on royal manors, assarts and new towns.",
+  "evidence": [
+   "lords-of-men::0480"
+  ]
+ },
+ {
+  "name": "Villein",
+  "type": "CharacterType",
+  "aliases": [
+   "Serf",
+   "Villeins"
+  ],
+  "description": "An unfree peasant bound to a lord's manor; villeins may seek freedom through manumission, guild membership or crusade.",
+  "evidence": [
+   "lords-of-men::0482",
+   "lords-of-men::0498",
+   "lords-of-men::0521"
+  ]
+ },
+ {
+  "name": "Steward",
+  "type": "CharacterType",
+  "aliases": [
+   "Seneschal"
+  ],
+  "description": "The lord's representative on the manor, acting for him at manorial courts and accounting annually for the fief's business; master of the other manorial servants.",
+  "evidence": [
+   "lords-of-men::0481",
+   "lords-of-men::0482"
+  ]
+ },
+ {
+  "name": "Bailiff",
+  "type": "CharacterType",
+  "aliases": [
+   "Beadle",
+   "Sergeant"
+  ],
+  "description": "Manorial official controlling the daily operation of the manor through the reeve, answering twice yearly to the steward; notorious for corruption.",
+  "evidence": [
+   "lords-of-men::0482",
+   "lords-of-men::0483"
+  ]
+ },
+ {
+  "name": "Bailie",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "A northern French official with a role similar to an English sheriff, often anglicized as bailiff though the roles differ.",
+  "evidence": [
+   "lords-of-men::0483"
+  ]
+ },
+ {
+  "name": "Reeve",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Manorial officer through whom the bailiff runs the manor; gives account up to Michaelmas and is replaced or reaffirmed on that day.",
+  "evidence": [
+   "lords-of-men::0483",
+   "lords-of-men::0526"
+  ]
+ },
+ {
+  "name": "Mesnie",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The military household servants of a lord, knights expected to be loyal while the lord maintains their standard of living and dignity.",
+  "evidence": [
+   "lords-of-men::0487"
+  ]
+ },
+ {
+  "name": "Loyalty (Covenants rules)",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The loyalty mechanic from Covenants used to track household loyalty; suited to magi organizations but less so to lesser nobles and their peasants.",
+  "evidence": [
+   "lords-of-men::0487",
+   "lords-of-men::0488"
+  ]
+ },
+ {
+  "name": "Community Loyalty",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Loyalty of peasants to a community magi create and govern (rather than to the magi themselves), gained by offering better terms than a town's royal charter.",
+  "evidence": [
+   "lords-of-men::0487",
+   "lords-of-men::0488",
+   "lords-of-men::0490"
+  ]
+ },
+ {
+  "name": "Nothing Grows for the Wicked",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Optional folkloric peasant-loyalty system in which God raises peasants' living standard around virtuous, successful characters, generating community loyalty.",
+  "evidence": [
+   "lords-of-men::0489",
+   "lords-of-men::0490"
+  ]
+ },
+ {
+  "name": "The Gift",
+  "type": "Virtue",
+  "aliases": [
+   "Gifted"
+  ],
+  "description": "Magical Gift that makes magi remain strangers to peasants and imposes social penalties that noblemen lack.",
+  "evidence": [
+   "lords-of-men::0487",
+   "lords-of-men::0488",
+   "lords-of-men::0509"
+  ]
+ },
+ {
+  "name": "Mythic Pound",
+  "type": "Concept",
+  "aliases": [
+   "Mythic Pounds"
+  ],
+  "description": "The Covenants economic unit/system, used for annual harvest rolls and for mercenary budgets and costs.",
+  "evidence": [
+   "lords-of-men::0490",
+   "lords-of-men::0556",
+   "lords-of-men::0558"
+  ]
+ },
+ {
+  "name": "Wattle and Daub",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Peasant wall-building technique of woven twigs plastered with mud or mud and straw, fragile enough that housebreakers smash through it.",
+  "evidence": [
+   "lords-of-men::0485"
+  ]
+ },
+ {
+  "name": "Maslin",
+  "type": "Item",
+  "aliases": [],
+  "description": "Bread mixture of the lowest class of the manor's main grain with a cheaper foodstuff such as rye, barley or beans.",
+  "evidence": [
+   "lords-of-men::0491"
+  ]
+ },
+ {
+  "name": "Pottage",
+  "type": "Item",
+  "aliases": [],
+  "description": "The peasants' second staple, a soup or stew of boiled oats, grains, legumes, vegetables and scraps, exempt from milling and baking charges.",
+  "evidence": [
+   "lords-of-men::0491"
+  ]
+ },
+ {
+  "name": "Ale Taster",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Minor officer of the manorial court who ensures ale is not too watery.",
+  "evidence": [
+   "lords-of-men::0492"
+  ]
+ },
+ {
+  "name": "Famuli",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Manorial servants who in half the manors of England receive no ale allowance and drink water.",
+  "evidence": [
+   "lords-of-men::0492"
+  ]
+ },
+ {
+  "name": "Tithe",
+  "type": "Concept",
+  "aliases": [
+   "Tithes"
+  ],
+  "description": "One tenth of everything a person gets, owed to the Church; divided traditionally into quarters for rector, curate, church fabric and the poor, effectively taking twenty percent of peasant income.",
+  "evidence": [
+   "lords-of-men::0494",
+   "lords-of-men::0495",
+   "lords-of-men::0496"
+  ]
+ },
+ {
+  "name": "Mortuary",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A charge always levied on the dying to make things right between the Church and a dying thief (described in Chapter Six: Manorial Fiefs).",
+  "evidence": [
+   "lords-of-men::0494"
+  ]
+ },
+ {
+  "name": "Excommunication",
+  "type": "Concept",
+  "aliases": [
+   "Anathema"
+  ],
+  "description": "Cursing of those who fail to pay tithes; its widespread use calls demons to an area seeking an easy harvest of souls.",
+  "evidence": [
+   "lords-of-men::0494"
+  ]
+ },
+ {
+  "name": "Tallage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A lord's levy on his peasants, described in Chapter Six: Manorial Fiefs; lords demanded heavy tallage to fund crusades.",
+  "evidence": [
+   "lords-of-men::0499",
+   "lords-of-men::0525"
+  ]
+ },
+ {
+  "name": "Scutage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fee paid by vassals instead of mustering, allowing the lord to hire mercenaries; kings also demand scutage from lords.",
+  "evidence": [
+   "lords-of-men::0498",
+   "lords-of-men::0551",
+   "lords-of-men::0552"
+  ]
+ },
+ {
+  "name": "Manorial Court",
+  "type": "Concept",
+  "aliases": [
+   "Manor Court"
+  ],
+  "description": "The manor's court, whose records are kept on parchment rolls and which selects crops for each furlong.",
+  "evidence": [
+   "lords-of-men::0481",
+   "lords-of-men::0482",
+   "lords-of-men::0524"
+  ]
+ },
+ {
+  "name": "Manorial Roll",
+  "type": "Item",
+  "aliases": [
+   "The Rolls"
+  ],
+  "description": "The parchment rolls recording manorial court decisions, onto which special decisions and retirement contracts are sewn.",
+  "evidence": [
+   "lords-of-men::0482",
+   "lords-of-men::0511"
+  ]
+ },
+ {
+  "name": "Redcap",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Hermetic messenger; in a story seed a redcap carrying peasants' money to a lawyer is found dead.",
+  "evidence": [
+   "lords-of-men::0501"
+  ]
+ },
+ {
+  "name": "Compurgator",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Oath-helper witness; a lord asks peasants to act as compurgators and lie about disputed land.",
+  "evidence": [
+   "lords-of-men::0505"
+  ]
+ },
+ {
+  "name": "Deodand Donkey",
+  "type": "Creature",
+  "aliases": [
+   "Deodand"
+  ],
+  "description": "A stolen donkey that caused a death and holds a fragment of the dead man's angry ghost, able to turn into a spectral centaur-like creature with donkey hindquarters.",
+  "evidence": [
+   "lords-of-men::0505",
+   "lords-of-men::0506"
+  ]
+ },
+ {
+  "name": "Deodand",
+  "type": "Concept",
+  "aliases": [],
+  "description": "An animal or thing that caused a death, which should be given to the Church, its sale price nominally supporting the dead man's relatives.",
+  "evidence": [
+   "lords-of-men::0506"
+  ]
+ },
+ {
+  "name": "The Bishop's Mistress",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Folk story of a priest's hearth mate who shamed a bishop; in the story seed a bishop finds everyone believes he has a mistress and a nursery is filling his home.",
+  "evidence": [
+   "lords-of-men::0506",
+   "lords-of-men::0507"
+  ]
+ },
+ {
+  "name": "Waif Rock",
+  "type": "Place",
+  "aliases": [],
+  "description": "A faerie site near a village where a mother abandoned the bastard son of a noble.",
+  "evidence": [
+   "lords-of-men::0510"
+  ]
+ },
+ {
+  "name": "Transylvania",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where sites for abandoned children are monitored by magi, who find many of the children Gifted.",
+  "evidence": [
+   "lords-of-men::0509"
+  ]
+ },
+ {
+  "name": "Alps",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region where sites for abandoned children are monitored by magi.",
+  "evidence": [
+   "lords-of-men::0509"
+  ]
+ },
+ {
+  "name": "Demon of Greed",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A local demon, disguised through an agent as a taverner, who wants the characters to ease a baron's overworked peasants so they can freely sin again.",
+  "evidence": [
+   "lords-of-men::0511",
+   "lords-of-men::0512"
+  ]
+ },
+ {
+  "name": "Misguided Faeries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faeries representing fear of decrepitude and powerlessness who are attracted to people working in old age, including magi, but attack them ineffectively.",
+  "evidence": [
+   "lords-of-men::0512"
+  ]
+ },
+ {
+  "name": "The Inn of Good Rest",
+  "type": "Place",
+  "aliases": [],
+  "description": "Brothel run by followers of a faerie lord that poisons pilgrims visiting a local shrine just after they reach a state of grace.",
+  "evidence": [
+   "lords-of-men::0513",
+   "lords-of-men::0514"
+  ]
+ },
+ {
+  "name": "Faerie Lord of the Shrine",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Faerie lord to whom a shire's site was sacred before Christianity; guards the border between profane and sacred and whose followers poison pilgrims.",
+  "evidence": [
+   "lords-of-men::0513",
+   "lords-of-men::0514"
+  ]
+ },
+ {
+  "name": "Manumission",
+  "type": "Concept",
+  "aliases": [],
+  "description": "The freeing of serfs by lords, favored by Church teaching but rarely practiced by senior Churchmen; costs six to ten pounds for a player character.",
+  "evidence": [
+   "lords-of-men::0517",
+   "lords-of-men::0518",
+   "lords-of-men::0520"
+  ]
+ },
+ {
+  "name": "Three-Field Rotation",
+  "type": "Concept",
+  "aliases": [
+   "Two-Field System",
+   "Two or Three Field Rotation"
+  ],
+  "description": "Agricultural system in which wheat or rye, a secondary spring crop, and fallow rotate through three fields; the two-field system alternates fallow and crops.",
+  "evidence": [
+   "lords-of-men::0524"
+  ]
+ },
+ {
+  "name": "Furlong",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Long rectangular section of a field whose crop is chosen by the manor court.",
+  "evidence": [
+   "lords-of-men::0524"
+  ]
+ },
+ {
+  "name": "Third Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Crusade at whose start English lords sold manumissions and land cheaply, and King Richard said he would sell London.",
+  "evidence": [
+   "lords-of-men::0525",
+   "lords-of-men::0527"
+  ]
+ },
+ {
+  "name": "Michaelmas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "29 September, the day of reckoning for manorial taxes and the traditional deadline for the harvest; also the first day of the administrative year.",
+  "evidence": [
+   "lords-of-men::0523",
+   "lords-of-men::0526"
+  ]
+ },
+ {
+  "name": "Richard Lionheart",
+  "type": "Character",
+  "aliases": [
+   "King Richard",
+   "Richard"
+  ],
+  "description": "King Richard, more at home in Normandy than England, who offered to sell London at the start of the Third Crusade, executed 3,000 men at Acre, and fought Philip II with a paid army.",
+  "evidence": [
+   "lords-of-men::0527",
+   "lords-of-men::0578",
+   "lords-of-men::0581"
+  ]
+ },
+ {
+  "name": "London",
+  "type": "Place",
+  "aliases": [],
+  "description": "English city Richard said he would sell; thatched roofs there are plastered underneath, and a Mercer House there thrives.",
+  "evidence": [
+   "lords-of-men::0486",
+   "lords-of-men::0527",
+   "lords-of-men::0528"
+  ]
+ },
+ {
+  "name": "Deed of London",
+  "type": "Item",
+  "aliases": [
+   "title deed for London"
+  ],
+  "description": "Title deed for London, kept in a regio guarded by demons or faeries.",
+  "evidence": [
+   "lords-of-men::0528"
+  ]
+ },
+ {
+  "name": "House Tytalus",
+  "type": "House",
+  "aliases": [
+   "Tytalus"
+  ],
+  "description": "Hermetic House rumored to have wanted to take up King Richard's offer to sell London.",
+  "evidence": [
+   "lords-of-men::0527"
+  ]
+ },
+ {
+  "name": "Mercer House",
+  "type": "Faction",
+  "aliases": [],
+  "description": "A thriving Mercer House in London.",
+  "evidence": [
+   "lords-of-men::0527"
+  ]
+ },
+ {
+  "name": "Right of Entry",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Faerie right, described in Realms of Power: Faerie, that lessens the Dominion's impact; purchasing London would grant it.",
+  "evidence": [
+   "lords-of-men::0527"
+  ]
+ },
+ {
+  "name": "Dominion",
+  "type": "Realm",
+  "aliases": [],
+  "description": "The Divine aura of Christian places, whose impact is lessened by a faerie Right of Entry.",
+  "evidence": [
+   "lords-of-men::0527"
+  ]
+ },
+ {
+  "name": "Regio",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A supernatural region; the Deed of London is kept in one.",
+  "evidence": [
+   "lords-of-men::0528"
+  ]
+ },
+ {
+  "name": "Order of Hermes",
+  "type": "Faction",
+  "aliases": [
+   "the Order"
+  ],
+  "description": "The Order of magi, among whom rumors circulate about House Tytalus buying London.",
+  "evidence": [
+   "lords-of-men::0507",
+   "lords-of-men::0527"
+  ]
+ },
+ {
+  "name": "Hallowe'en",
+  "type": "Concept",
+  "aliases": [
+   "All Saint's Eve"
+  ],
+  "description": "All Saints' Eve ending October, when the dead are thought to walk.",
+  "evidence": [
+   "lords-of-men::0529"
+  ]
+ },
+ {
+  "name": "Martinmas",
+  "type": "Concept",
+  "aliases": [
+   "Feast of the Plowman"
+  ],
+  "description": "The Feast of the Plowman, celebrated with a feast on 11 November.",
+  "evidence": [
+   "lords-of-men::0530"
+  ]
+ },
+ {
+  "name": "Christmas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Marks the end of fieldwork; followed by twelve days of festivals, prayer and largesse until Epiphany.",
+  "evidence": [
+   "lords-of-men::0523",
+   "lords-of-men::0531",
+   "lords-of-men::0534"
+  ]
+ },
+ {
+  "name": "Candlemas",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Feast of the Purification of the Virgin in mid-February, an excellent day for divination by hedge witches; Christmas greenery must be down before it.",
+  "evidence": [
+   "lords-of-men::0533",
+   "lords-of-men::0535",
+   "lords-of-men::0536"
+  ]
+ },
+ {
+  "name": "Bean King",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "The king of revels chosen by finding a hidden bean or trinket in a treat; dark faeries may hunt wandering bean kings.",
+  "evidence": [
+   "lords-of-men::0533",
+   "lords-of-men::0534"
+  ]
+ },
+ {
+  "name": "Mummers",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Masked bands who parade, beg or perform traditional plays during Christmas; faeries use the role to enter human lands.",
+  "evidence": [
+   "lords-of-men::0534"
+  ]
+ },
+ {
+  "name": "Pills of the Doctor",
+  "type": "Item",
+  "aliases": [],
+  "description": "Prop from the mummer's play that now cures all wounds instantly and contains Corpus vis.",
+  "evidence": [
+   "lords-of-men::0534",
+   "lords-of-men::0535"
+  ]
+ },
+ {
+  "name": "Dark Faeries",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Malevolent faeries who care only that stories end in screaming and blood; can enter houses via holly invitation and hunt bean kings.",
+  "evidence": [
+   "lords-of-men::0527",
+   "lords-of-men::0533",
+   "lords-of-men::0535"
+  ]
+ },
+ {
+  "name": "Hedge Witch",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Folk magic practitioner; one hangs holly to let dark faeries kill a noble child, and others curse cattle or divine at Candlemas.",
+  "evidence": [
+   "lords-of-men::0535",
+   "lords-of-men::0536",
+   "lords-of-men::0543"
+  ]
+ },
+ {
+  "name": "Holly and Baby",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed in which a hedge witch uses holly on a nursery window at Candlemas to let dark faeries attack a noble lady's family.",
+  "evidence": [
+   "lords-of-men::0535"
+  ]
+ },
+ {
+  "name": "Mob Football",
+  "type": "Concept",
+  "aliases": [
+   "Football"
+  ],
+  "description": "Peasant football played on festive days with unlimited players and few rules, winners getting the ball to a designated spot.",
+  "evidence": [
+   "lords-of-men::0535",
+   "lords-of-men::0536",
+   "lords-of-men::0539"
+  ]
+ },
+ {
+  "name": "Vis",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Raw magical power; the doctor's pills contain Corpus vis.",
+  "evidence": [
+   "lords-of-men::0535"
+  ]
+ },
+ {
+  "name": "Corpus",
+  "type": "Art",
+  "aliases": [],
+  "description": "Hermetic Form of the body; the pills of the doctor contain Corpus vis.",
+  "evidence": [
+   "lords-of-men::0535"
+  ]
+ },
+ {
+  "name": "Lent",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Penitential season; a feast at its start uses up forbidden foods, and war is forbidden during it by the Truce of God.",
+  "evidence": [
+   "lords-of-men::0538",
+   "lords-of-men::0554"
+  ]
+ },
+ {
+  "name": "Easter",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Feast ending spring, followed by a week of festivities; the vigil before it is when Infernal powers are thought strongest.",
+  "evidence": [
+   "lords-of-men::0523",
+   "lords-of-men::0540"
+  ]
+ },
+ {
+  "name": "Hocktide",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Monday and Tuesday after Easter week in parts of England, when women capture men for a ransom of a penny or kiss, and men return the favor.",
+  "evidence": [
+   "lords-of-men::0540",
+   "lords-of-men::0541"
+  ]
+ },
+ {
+  "name": "Faerie Kidnapper",
+  "type": "Creature",
+  "aliases": [],
+  "description": "A faerie satyromaniac who, disguised as the girls' beau, kidnapped three village girls at Hocktide and fathered their children.",
+  "evidence": [
+   "lords-of-men::0540",
+   "lords-of-men::0541"
+  ]
+ },
+ {
+  "name": "May Day",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Celebration beginning May with fires, dancing and leaping; peasants run cattle between two May Day fires against hedge witch curses.",
+  "evidence": [
+   "lords-of-men::0542",
+   "lords-of-men::0543",
+   "lords-of-men::0544"
+  ]
+ },
+ {
+  "name": "Beltaine",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Rituals that can hex practitioners of magic, including magi lax in renewing their Parma Magica outside their Aegis.",
+  "evidence": [
+   "lords-of-men::0544"
+  ]
+ },
+ {
+  "name": "Rogation Days",
+  "type": "Concept",
+  "aliases": [
+   "Rogation"
+  ],
+  "description": "Days beginning forty days after Easter when villagers walk the boundaries and boys are abused to remember the landmarks.",
+  "evidence": [
+   "lords-of-men::0542",
+   "lords-of-men::0544"
+  ]
+ },
+ {
+  "name": "Rogation Blood",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed in which blood of virgin boys on a stone feeds an almost-forgotten pagan god that stirs when Rogation grows lax.",
+  "evidence": [
+   "lords-of-men::0542"
+  ]
+ },
+ {
+  "name": "Wake Day",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Special wake celebrated the evening before the feast of the manor church's patron saint; Jerbiton-influenced covenants celebrate it on 26 September.",
+  "evidence": [
+   "lords-of-men::0542",
+   "lords-of-men::0543"
+  ]
+ },
+ {
+  "name": "Saint Cyprian of Antioch",
+  "type": "Character",
+  "aliases": [
+   "Cyprian"
+  ],
+  "description": "Sorcerer and perhaps diabolist who tried to seduce a Christian virgin with magic, then forsook evil; patron of the church at Valnastium.",
+  "evidence": [
+   "lords-of-men::0543"
+  ]
+ },
+ {
+  "name": "Saint Justina of Antioch",
+  "type": "Character",
+  "aliases": [
+   "Justina"
+  ],
+  "description": "Christian virgin whom Cyprian tried to seduce; shares the feast of 26 September with him.",
+  "evidence": [
+   "lords-of-men::0543"
+  ]
+ },
+ {
+  "name": "Valnastium",
+  "type": "Covenant",
+  "aliases": [],
+  "description": "Domus magna of House Jerbiton, whose church's patron is Saint Cyprian.",
+  "evidence": [
+   "lords-of-men::0543"
+  ]
+ },
+ {
+  "name": "House Jerbiton",
+  "type": "House",
+  "aliases": [
+   "Jerbiton"
+  ],
+  "description": "Hermetic House whose domus magna is Valnastium; Jerbiton-influenced covenants celebrate Wake Day on 26 September.",
+  "evidence": [
+   "lords-of-men::0543"
+  ]
+ },
+ {
+  "name": "Infernalist",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Diabolist; a penitent Infernalist offers to name the nobleman who recruited him and his coven.",
+  "evidence": [
+   "lords-of-men::0543"
+  ]
+ },
+ {
+  "name": "Infernal",
+  "type": "Realm",
+  "aliases": [],
+  "description": "Realm of Power of demons; its powers are thought strongest on the vigil before Easter, and Infernal auras worsen wounds and cruelty.",
+  "evidence": [
+   "lords-of-men::0540",
+   "lords-of-men::0543",
+   "lords-of-men::0563"
+  ]
+ },
+ {
+  "name": "Parma Magica",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Hermetic magic resistance that magi must renew; lax renewal leaves them open to Beltaine hexes.",
+  "evidence": [
+   "lords-of-men::0544"
+  ]
+ },
+ {
+  "name": "Aegis of the Hearth",
+  "type": "Spell",
+  "aliases": [
+   "Aegis"
+  ],
+  "description": "Covenant protection ritual; magi outside their covenant's Aegis are vulnerable to Beltaine hexes.",
+  "evidence": [
+   "lords-of-men::0544"
+  ]
+ },
+ {
+  "name": "Pentecost",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Feast 49 days after Easter with feasting, dancing and horse racing, often followed by a week of holidays.",
+  "evidence": [
+   "lords-of-men::0544"
+  ]
+ },
+ {
+  "name": "Midsummer",
+  "type": "Concept",
+  "aliases": [
+   "Midsummer Eve"
+  ],
+  "description": "24 June; Midsummer Eve, the night before the Feast of John the Baptist, is mystical, with fern seeds that summon the Devil and fires against dragons.",
+  "evidence": [
+   "lords-of-men::0545"
+  ]
+ },
+ {
+  "name": "The Devil",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Believed forced to appear and give a bag of money to whoever collects fern seeds on Midsummer Eve.",
+  "evidence": [
+   "lords-of-men::0545"
+  ]
+ },
+ {
+  "name": "Dragon",
+  "type": "Creature",
+  "aliases": [],
+  "description": "Creatures that would poison wells, scared away by children with flaming sticks on Midsummer Eve.",
+  "evidence": [
+   "lords-of-men::0545"
+  ]
+ },
+ {
+  "name": "Knight",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Best-armored and often best-trained troops; standard trained combat group, expensive mercenaries at 15 Mythic Pounds.",
+  "evidence": [
+   "lords-of-men::0548",
+   "lords-of-men::0558",
+   "lords-of-men::0579"
+  ]
+ },
+ {
+  "name": "Serjeant",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Lighter cavalry, professional soldiers retained by a noble or wealthy master.",
+  "evidence": [
+   "lords-of-men::0548",
+   "lords-of-men::0558",
+   "lords-of-men::0579"
+  ]
+ },
+ {
+  "name": "Levy",
+  "type": "CharacterType",
+  "aliases": [
+   "Levies"
+  ],
+  "description": "Lowest, quickly drafted and poorly equipped soldiers who also provide siege labor.",
+  "evidence": [
+   "lords-of-men::0548",
+   "lords-of-men::0551",
+   "lords-of-men::0571"
+  ]
+ },
+ {
+  "name": "Baggage Train",
+  "type": "Concept",
+  "aliases": [
+   "Baggage"
+  ],
+  "description": "The army's support of cooks, clerks, wives, priests, surgeons and armorers; one unit needed per ten units, and attacking it gives a bad Reputation.",
+  "evidence": [
+   "lords-of-men::0548",
+   "lords-of-men::0571"
+  ]
+ },
+ {
+  "name": "Leadership",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in army totals, affinity rolls and Event Totals in massed combat.",
+  "evidence": [
+   "lords-of-men::0548",
+   "lords-of-men::0554",
+   "lords-of-men::0567"
+  ]
+ },
+ {
+  "name": "Combat Group",
+  "type": "Concept",
+  "aliases": [
+   "Standard Combat Group"
+  ],
+  "description": "Standard military unit of five fully equipped men used to measure army size.",
+  "evidence": [
+   "lords-of-men::0549",
+   "lords-of-men::0551",
+   "lords-of-men::0565"
+  ]
+ },
+ {
+  "name": "Affinity",
+  "type": "Concept",
+  "aliases": [],
+  "description": "A regional leader's ability to draw lesser nobles to his banner, rolled as Presence + Leadership + Affinity against the Allied Troops Table.",
+  "evidence": [
+   "lords-of-men::0554",
+   "lords-of-men::0556"
+  ]
+ },
+ {
+  "name": "Allied Troops Table",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Table giving the proportion by which a lord's core vassal force is multiplied based on his affinity roll.",
+  "evidence": [
+   "lords-of-men::0554",
+   "lords-of-men::0556",
+   "lords-of-men::0557"
+  ]
+ },
+ {
+  "name": "Peace of God",
+  "type": "Concept",
+  "aliases": [
+   "Pax Dei"
+  ],
+  "description": "Church proclamation protecting the poor, Churchmen and merchants from violence.",
+  "evidence": [
+   "lords-of-men::0554"
+  ]
+ },
+ {
+  "name": "Truce of God",
+  "type": "Concept",
+  "aliases": [
+   "Treuga Dei"
+  ],
+  "description": "Church proclamation restricting war on Fridays, Sundays, holy days and Lent.",
+  "evidence": [
+   "lords-of-men::0554"
+  ]
+ },
+ {
+  "name": "Chevauchee",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Tactic of ravaging enemy territory; returning inhabitants suffer a –2 Living Conditions modifier and extreme cases may develop a Malevolent Infernal aura.",
+  "evidence": [
+   "lords-of-men::0555"
+  ]
+ },
+ {
+  "name": "Aura",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Supernatural aura on a battlefield or land; Infernal auras cause wounds to open more easily and chevauchee may produce a Malevolent Infernal aura.",
+  "evidence": [
+   "lords-of-men::0555",
+   "lords-of-men::0563"
+  ]
+ },
+ {
+  "name": "Living Conditions Modifier",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Aging modifier worsened by campaigning or returning to land put to chevauchee.",
+  "evidence": [
+   "lords-of-men::0548",
+   "lords-of-men::0555"
+  ]
+ },
+ {
+  "name": "Wealthy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue giving +1 to raise allied armies and larger mercenary budgets.",
+  "evidence": [
+   "lords-of-men::0557",
+   "lords-of-men::0559"
+  ]
+ },
+ {
+  "name": "Poor",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw giving –1 to raise allied armies; Poor characters cannot borrow against income.",
+  "evidence": [
+   "lords-of-men::0557",
+   "lords-of-men::0558"
+  ]
+ },
+ {
+  "name": "Inspirational",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue giving +3 to a lord's roll to raise allied troops.",
+  "evidence": [
+   "lords-of-men::0557"
+  ]
+ },
+ {
+  "name": "Difficult Underlings",
+  "type": "Flaw",
+  "aliases": [],
+  "description": "Flaw giving –2 to a lord's roll to raise allied troops.",
+  "evidence": [
+   "lords-of-men::0557"
+  ]
+ },
+ {
+  "name": "Senior Clergy",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue (Realms of Power: The Divine) treating a character as having affinity equal to the most prominent noble in his diocese for raising crusades.",
+  "evidence": [
+   "lords-of-men::0560"
+  ]
+ },
+ {
+  "name": "Holy Influence",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roll from Realms of Power: The Divine used by Senior Clergy to raise crusading armies.",
+  "evidence": [
+   "lords-of-men::0560"
+  ]
+ },
+ {
+  "name": "Crusade",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Church-raised war; crusaders may gain freedom, and crusades are hugely expensive for lords and peasants.",
+  "evidence": [
+   "lords-of-men::0522",
+   "lords-of-men::0525",
+   "lords-of-men::0560"
+  ]
+ },
+ {
+  "name": "Deployment Total",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Intelligence + Area Lore + stress die, generated by commanders to determine Territorial Advantage.",
+  "evidence": [
+   "lords-of-men::0562",
+   "lords-of-men::0563",
+   "lords-of-men::0564"
+  ]
+ },
+ {
+  "name": "Territorial Advantage",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Difference between the two sides' Deployment Totals, added to Event Totals; magic affecting terrain adds its magnitude.",
+  "evidence": [
+   "lords-of-men::0562",
+   "lords-of-men::0563",
+   "lords-of-men::0564"
+  ]
+ },
+ {
+  "name": "Area Lore",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability used in the Deployment Total.",
+  "evidence": [
+   "lords-of-men::0562"
+  ]
+ },
+ {
+  "name": "Weight of Numbers",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Bonus or penalty based on the ratio of army sizes, which also adjusts the size of combat groups in battlefield events.",
+  "evidence": [
+   "lords-of-men::0562",
+   "lords-of-men::0565",
+   "lords-of-men::0570"
+  ]
+ },
+ {
+  "name": "Battlefield Event",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Pivotal vignette in a battle led by a focal player character, won by an Event Total meeting the Battle Ease Factor.",
+  "evidence": [
+   "lords-of-men::0562",
+   "lords-of-men::0566",
+   "lords-of-men::0567"
+  ]
+ },
+ {
+  "name": "Battle Ease Factor",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Target for battlefield events: Engaged 9, Advantage or Setback 12, Imminent Victory or Defeat 15.",
+  "evidence": [
+   "lords-of-men::0566",
+   "lords-of-men::0584"
+  ]
+ },
+ {
+  "name": "Event Total",
+  "type": "Concept",
+  "aliases": [
+   "Event Bonus"
+  ],
+  "description": "Stamina + Leadership + Territorial Advantage + Weight of Numbers Bonus + Event Bonus (Maneuver + Enemy + Size).",
+  "evidence": [
+   "lords-of-men::0566",
+   "lords-of-men::0567"
+  ]
+ },
+ {
+  "name": "Maneuver",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Battlefield event component: Defend, Attack, Run the Gauntlet, Take, or Heroic Gesture.",
+  "evidence": [
+   "lords-of-men::0568",
+   "lords-of-men::0569"
+  ]
+ },
+ {
+  "name": "Heroic Gesture",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Maneuver (+4) of foolhardy bravery; if the leading character dies the event is won.",
+  "evidence": [
+   "lords-of-men::0568",
+   "lords-of-men::0569",
+   "lords-of-men::0576"
+  ]
+ },
+ {
+  "name": "Knight Banneret",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Status whose holder always treats his company as a single combat group regardless of Weight of Numbers.",
+  "evidence": [
+   "lords-of-men::0562",
+   "lords-of-men::0563"
+  ]
+ },
+ {
+  "name": "Mercenary Captain",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Status or Virtue whose holder always treats his company as a single combat group regardless of Weight of Numbers.",
+  "evidence": [
+   "lords-of-men::0562",
+   "lords-of-men::0563"
+  ]
+ },
+ {
+  "name": "Morale",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Roll from Chapter Nine: Optional Combat Rules made by a losing commander; failure may leave groups Disordered or Routed.",
+  "evidence": [
+   "lords-of-men::0572"
+  ]
+ },
+ {
+  "name": "Confidence Point",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Earned by victorious characters for each successful battlefield event.",
+  "evidence": [
+   "lords-of-men::0578"
+  ]
+ },
+ {
+  "name": "Reputation",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Leader of a victorious army gains experience towards it; attacking baggage earns a bad Reputation.",
+  "evidence": [
+   "lords-of-men::0571",
+   "lords-of-men::0578"
+  ]
+ },
+ {
+  "name": "Chirurgeon",
+  "type": "CharacterType",
+  "aliases": [],
+  "description": "Camp follower who tends the wounded after battle.",
+  "evidence": [
+   "lords-of-men::0578"
+  ]
+ },
+ {
+  "name": "Acre",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where Richard Lionheart executed 3,000 men.",
+  "evidence": [
+   "lords-of-men::0578"
+  ]
+ },
+ {
+  "name": "Philip II of France",
+  "type": "Character",
+  "aliases": [
+   "Philip II"
+  ],
+  "description": "King whose forces Richard Lionheart fought in his final clash.",
+  "evidence": [
+   "lords-of-men::0581"
+  ]
+ },
+ {
+  "name": "Welsh Longbowmen",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Specialist mercenary troops highly sought after.",
+  "evidence": [
+   "lords-of-men::0580"
+  ]
+ },
+ {
+  "name": "Flemish Pikemen",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Specialist mercenary troops.",
+  "evidence": [
+   "lords-of-men::0580"
+  ]
+ },
+ {
+  "name": "Genoese Crossbowmen",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Specialist mercenary troops.",
+  "evidence": [
+   "lords-of-men::0580"
+  ]
+ },
+ {
+  "name": "Brabantine Mercenaries",
+  "type": "Faction",
+  "aliases": [],
+  "description": "Mercenaries employed in Richard Lionheart's paid army.",
+  "evidence": [
+   "lords-of-men::0581"
+  ]
+ },
+ {
+  "name": "Talisman",
+  "type": "Item",
+  "aliases": [],
+  "description": "A magus's personal enchanted item; a ransomed young magus seeks the return of his.",
+  "evidence": [
+   "lords-of-men::0581",
+   "lords-of-men::0582"
+  ]
+ },
+ {
+  "name": "A Wizard's Ransom",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Story seed about a young magus captured and ransomed who seeks the covenant's help to recover his talisman and good name.",
+  "evidence": [
+   "lords-of-men::0581",
+   "lords-of-men::0582"
+  ]
+ },
+ {
+  "name": "Concentration",
+  "type": "Ability",
+  "aliases": [],
+  "description": "Ability rolled (Ease Factor 12 engaged, 9 observing) to cast spells on a battlefield.",
+  "evidence": [
+   "lords-of-men::0583"
+  ]
+ },
+ {
+  "name": "Target: Group",
+  "type": "Concept",
+  "aliases": [
+   "Group"
+  ],
+  "description": "Hermetic target of a continuous group of up to ten individuals, raised to 100 with one magnitude to affect a separated unit.",
+  "evidence": [
+   "lords-of-men::0583",
+   "lords-of-men::0584"
+  ]
+ },
+ {
+  "name": "Target: Boundary",
+  "type": "Concept",
+  "aliases": [
+   "Boundary"
+  ],
+  "description": "Hermetic target covering a marked area about 100 paces across, extended to 300 paces with one magnitude.",
+  "evidence": [
+   "lords-of-men::0584"
+  ]
+ },
+ {
+  "name": "Milan",
+  "type": "Place",
+  "aliases": [],
+  "description": "City whose forces fight a Veronese army in the example battle.",
+  "evidence": [
+   "lords-of-men::0584"
+  ]
+ },
+ {
+  "name": "Verona",
+  "type": "Place",
+  "aliases": [
+   "Veronese"
+  ],
+  "description": "City whose army is the troupe's in the example battle.",
+  "evidence": [
+   "lords-of-men::0584"
+  ]
+ },
+ {
+  "name": "Castle",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Fortification serving as refuge, staging ground and statement of status; described by Garrison, Defenses and Supplies.",
+  "evidence": [
+   "lords-of-men::0583",
+   "lords-of-men::0588",
+   "lords-of-men::0599"
+  ]
+ },
+ {
+  "name": "Landed Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing free stronghold choices and minor castles.",
+  "evidence": [
+   "lords-of-men::0589",
+   "lords-of-men::0591"
+  ]
+ },
+ {
+  "name": "Great Noble",
+  "type": "Virtue",
+  "aliases": [],
+  "description": "Virtue allowing great castles with curtain walls.",
+  "evidence": [
+   "lords-of-men::0589",
+   "lords-of-men::0594"
+  ]
+ },
+ {
+  "name": "Ringwork",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Most primitive castle: ditch, packed rampart and thin stone wall.",
+  "evidence": [
+   "lords-of-men::0589"
+  ]
+ },
+ {
+  "name": "Shell Keep",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Stone wall replacing the wooden palisade atop a motte.",
+  "evidence": [
+   "lords-of-men::0591",
+   "lords-of-men::0592"
+  ]
+ },
+ {
+  "name": "Motte-and-Bailey",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Castle of an artificial mound with a wooden tower overlooking a palisaded courtyard (bailey).",
+  "evidence": [
+   "lords-of-men::0591"
+  ]
+ },
+ {
+  "name": "Tower Keep",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Keep usually four stories high, mostly built in the 12th century.",
+  "evidence": [
+   "lords-of-men::0592"
+  ]
+ },
+ {
+  "name": "Restormel",
+  "type": "Place",
+  "aliases": [],
+  "description": "Castle in Cornwall, 40 yards across, ambiguous between shell keep and inner bailey.",
+  "evidence": [
+   "lords-of-men::0592"
+  ]
+ },
+ {
+  "name": "Cornwall",
+  "type": "Place",
+  "aliases": [],
+  "description": "Region containing Restormel.",
+  "evidence": [
+   "lords-of-men::0592"
+  ]
+ },
+ {
+  "name": "Pembroke",
+  "type": "Place",
+  "aliases": [],
+  "description": "Castle whose round keep is 80 feet high with walls 16 feet thick.",
+  "evidence": [
+   "lords-of-men::0592"
+  ]
+ },
+ {
+  "name": "Colchester",
+  "type": "Place",
+  "aliases": [],
+  "description": "Castle with a keep 151 by 111 feet.",
+  "evidence": [
+   "lords-of-men::0592",
+   "lords-of-men::0593"
+  ]
+ },
+ {
+  "name": "Framlingham",
+  "type": "Place",
+  "aliases": [],
+  "description": "Castle with 13 mural towers.",
+  "evidence": [
+   "lords-of-men::0594"
+  ]
+ },
+ {
+  "name": "Curtain Wall",
+  "type": "Concept",
+  "aliases": [
+   "Mural Tower"
+  ],
+  "description": "Crenelated wall around a bailey about thirty feet high, protected by mural towers.",
+  "evidence": [
+   "lords-of-men::0594",
+   "lords-of-men::0596"
+  ]
+ },
+ {
+  "name": "Hall Keep",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Long, low stone keep evolved from the manorial hall; the most spacious keep.",
+  "evidence": [
+   "lords-of-men::0596"
+  ]
+ },
+ {
+  "name": "Gatehouse Keep",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Large building serving as gatehouse and keep.",
+  "evidence": [
+   "lords-of-men::0596",
+   "lords-of-men::0597"
+  ]
+ },
+ {
+  "name": "Barbican",
+  "type": "Concept",
+  "aliases": [],
+  "description": "Works limiting access to the gatehouse, including walls, portcullises and murder holes.",
+  "evidence": [
+   "lords-of-men::0597",
+   "lords-of-men::0598"
+  ]
+ },
+ {
+  "name": "England",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where lords personally own serfs' service and manumission costs more.",
+  "evidence": [
+   "lords-of-men::0492",
+   "lords-of-men::0518",
+   "lords-of-men::0525"
+  ]
+ },
+ {
+  "name": "France",
+  "type": "Place",
+  "aliases": [],
+  "description": "Kingdom where freeing serfs requires feudal superiors' license.",
+  "evidence": [
+   "lords-of-men::0518",
+   "lords-of-men::0533"
+  ]
+ },
+ {
+  "name": "Normandy",
+  "type": "Place",
+  "aliases": [],
+  "description": "Where King Richard was more at home than England.",
+  "evidence": [
+   "lords-of-men::0527"
+  ]
+ },
+ {
+  "name": "Mythic Europe",
+  "type": "Place",
+  "aliases": [],
+  "description": "The Ars Magica setting.",
+  "evidence": [
+   "lords-of-men::0486",
+   "lords-of-men::0491",
+   "lords-of-men::0548"
+  ]
+ },
+ {
+  "name": "Faerie",
+  "type": "Realm",
+  "aliases": [
+   "Faeries"
+  ],
+  "description": "Realm of faeries, many of which interact with peasant festivals and folk beliefs.",
+  "evidence": [
+   "lords-of-men::0509",
+   "lords-of-men::0527",
+   "lords-of-men::0537"
+  ]
+ },
+ {
+  "name": "Demon",
+  "type": "Creature",
+  "aliases": [
+   "Demons"
+  ],
+  "description": "Infernal spirits drawn to excommunicated areas and scheming against peasants and lords.",
+  "evidence": [
+   "lords-of-men::0494",
+   "lords-of-men::0496",
+   "lords-of-men::0505"
+  ]
+ }
+]
